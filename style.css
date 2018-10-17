@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Oswald|Raleway');
+@import url('https://fonts.googleapis.com/css?family=Oswald|Raleway|Roboto+Mono');
 
 body {
     margin: 0;
@@ -14,6 +14,23 @@ h1 {
 }
 
 .a {
+    text-decoration: none;
+    font-family: "Oswald", sans-serif;
+    color: #8f8e8e;
+    transition-duration: 0.5s;
+    -webkit-transition-duration: 0.5s;
+}
+
+.a:hover {
+    color: rgb(30,30,30);
+}
+
+#link-selected {
+    color: rgb(30,30,30);
+    font-weight: 900;
+}
+
+.nav-link {
     font-family: "Oswald", sans-serif;
     text-decoration: none;
     color: #8f8e8e;
@@ -29,7 +46,7 @@ a:hover {
     color: #1653b7;
 }
 
-#link-selected {
+#nav-link-selected {
     border-width: 5px;
     padding-bottom: 0;
     color: #1653b7;
@@ -37,7 +54,7 @@ a:hover {
 
 .nav-links a {
     display: inline-block;
-    margin: 2.6vh 3.5vh 0vh 3.5vh;
+    margin: 25px 0 0 3vw;
 }
 
 .nav-links {
@@ -47,10 +64,10 @@ a:hover {
 
 #nav-logo {
     display: inline-block;
-    width: 10%;
-    height: auto;
+    width: auto;
+    height: 40px;
     margin-left: 10vw;
-    margin-top:0.75%;
+    margin-top: 12.5px;
     transition-duration: 0.2s;
 }
 
@@ -59,21 +76,26 @@ a:hover {
 }
 
 .nav h1 {
-    margin: 1vh;
+    margin: 10px;
 }
 
 .nav {
     width: 100vw;
-    height: 10vh;
-    min-height: 60px;
-    background-color: rgb(254, 254, 254);
+    height: 65px;
+    background-color: rgba(254, 254, 254, 1);
     box-shadow: 0px 1px 1px rgba(30, 30, 30, 0.2);
     position: fixed;
     top: 0;
+    transition-duration: 0.2s;
+    -webkit-transition-duration: 0.2s;
+}
+
+.nav-scrolled {
+    box-shadow: 0px 3px 3px rgba(30, 30, 30, 0.5);
 }
 
 .main-page {
-    margin-top: 15vh;
+    margin-top: 115px;
     width: 80vw;
     margin-left: 10vw;
 }
@@ -84,4 +106,91 @@ a:hover {
 
 .main-section {
     margin-top: 5vh;
+    text-align: center;
+}
+
+.predictions-links {
+    text-align: center;
+}
+
+.predictions-links a {
+    margin: 10px;
+}
+
+.prediction-card {
+    height: 225px;
+    width: 290px;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 20px;
+    transition-duration: 0.2s;
+    -webkit-transition-duration: 0.2s;
+    vertical-align: top;
+    box-shadow: 0 2px 3px rgb(50,50,50);
+}
+
+.prediction-card:hover {
+    box-shadow: 0 4px 8px rgb(30,30,30);
+}
+
+.solid-blue, .solid-blue h2 {
+    background-color: #5e99f7;
+    color: #4483e7;
+}
+
+.likely-blue, .likely-blue h2 {
+    background-color: #83aff5;
+    color: #4483e7;
+}
+
+.lean-blue, .lean-blue h2 {
+    background-color: #a2c0f0;
+    color: #4483e7;
+}
+
+.solid-red, .solid-red h2 {
+    background-color: #fa573e;
+    color: #e4371d;
+}
+
+.likely-red, .likely-red h2{
+    background-color: #f7735e;
+    color: #e4371d;
+}
+
+.lean-red, .lean-red h2 {
+    background-color: #f39b8d;
+    color: #e4371d;
+}
+
+.purple, .purple h2 {
+    background-color: #d5aef5;
+    color: #a145ec;
+
+}
+
+.prediction-card h1 {
+    color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    line-height: 35px;
+    font-size: 25px;
+}
+
+.prediction-card h2 {
+    background-color: white;
+    padding: 0px 5px;
+    display: inline-flex;
+    border-radius: 2px;
+    font-family: "Roboto Mono",sans-serif;
+    margin-top: 0;
+    font-size: 15px;
+}
+
+.prediction-card p {
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    margin: 5px 20px 0 20px;
 }

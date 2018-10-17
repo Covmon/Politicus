@@ -2,8 +2,19 @@
 <html>
 
 <head>
-    <link rel="stylesheet" type="text/css" href="style.css"/>
     <title>Politucus | Predictions</title>
+
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+
+    <script src="predictions_data/predictions_iowa_json.js"></script>
+
+    <script type="text/javascript" src="script_predictions.js"></script>
+
+
 </head>
 
 <body>
@@ -12,20 +23,30 @@
         <a href="index.html"><img id="nav-logo" src="politicus_logo.png" /></a>
 
         <div class="nav-links">
-            <a class="a" href="index.html">Home</a>
-            <a class="a" id="link-selected" href="predictions.html">Predictions</a>
-            <a class="a" href="news.html">News</a>
-            <a class="a" href="about.html">About</a>
+            <a class="nav-link" href="index.html">Home</a>
+            <a class="nav-link" id="nav-link-selected" href="predictions.html">Predictions</a>
+            <a class="nav-link" href="news.html">News</a>
+            <a class="nav-link" href="about.html">About</a>
         </div>
     </div>
 
     <div class="main-page">
         <div class="header">
             <h1>Election Predictions</h1>
+
+            <div class="predictions-links">
+                <a class="a" id="link-selected" href="https://google.com">Top Forecasts</a>
+                <a class="a" href="https://google.com">U.S. Senate</a>
+                <a class="a" href="https://google.com">U.S. House</a>
+                <a class="a" href="https://google.com">State Governors</a>
+                <a class="a" href="https://google.com">State Legislatures</a>
+            </div>
+            <hr>
         </div>
 
         <div class="main-section">
-            <p>Predictions here</p>
+
+
         </div>
     </div>
     
