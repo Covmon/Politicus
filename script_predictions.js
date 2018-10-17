@@ -6,16 +6,18 @@ $(document).ready(function() {
     let usRep = "U.S. Representative";
 
     var iowa_91 = getMatchup(candidates, stateRep, "91");
-    createCard(iowa_91);
+    createCard(iowa_91, 1);
 
     var iowa_1 = getMatchup(candidates, usRep, "1");
-    createCard(iowa_1);
+    createCard(iowa_1, 2);
 
     var iowa_55 = getMatchup(candidates, stateRep, "55");
-    createCard(iowa_55);
+    createCard(iowa_55, 3);
 
     var iowa_32 = getMatchup(candidates, stateRep, "32");
-    createCard(iowa_32);
+    createCard(iowa_32, 4);
+
+    var iowa_88 = getMatchup(candidates, stateRep, "88");
 
     $(window).scroll(function() {
         if ($(this).scrollTop() > $(".nav").height()) {
@@ -24,6 +26,10 @@ $(document).ready(function() {
             $(".nav").removeClass("nav-scrolled");
         }
     })
+
+    $("#click-me").click(function() {
+        createCard(iowa_88, 2);
+    });
 
 });
 
@@ -81,7 +87,9 @@ function evaluatePredictionDescription(predictionDem) {
     return description;
 }
 
-function createCard(matchup) {
+var numCards = 0;
+
+function createCard(matchup, cardNumber) {
     var dem = matchup["DEM"];
     var rep = matchup["REP"];
 
@@ -91,8 +99,9 @@ function createCard(matchup) {
     var district = dem.District;
     var predictionDem = dem.Predicted;
 
+    
     var title = position + ", " + state + " District " + district;
-    var titleID = (position + "-" + state + "-" + district).replace(/\s+/g, '-').replace(/\./g,'')
+    var titleID = "card" + cardNumber;
 
     //Create card
     var color = "";
@@ -101,13 +110,36 @@ function createCard(matchup) {
 
     let cardCreate = $('<div />', {
         "class": className,
-        "id": titleID,
+        "id": "card",
         click: function(e){
             e.preventDefault();
-            alert("clicked on a card we created")
+            $("#card1").toggleClass("hidden");
+            $("#card1").children().toggle();
     }})
 
-    $(".main-section").append(cardCreate);
+
+    if (cardNumber <= numCards) {
+        var previousID = "card" + (cardNumber - 1);
+        $("#" + previousID).after(cardCreate);
+
+        $(".prediction-card").each(function() {
+            let id = $(this).attr("id");
+            console.log(id);
+            let num = parseInt(id.charAt(4), 10);
+            console.log(num);
+            if (num >= cardNumber) {
+                let newID = "card" + (num + 1);
+                console.log(newID);
+                $(this).attr("id", newID);
+            }
+        })
+        $("#card").attr("id", "card" + cardNumber);
+
+    } else {
+        $(".main-section").append(cardCreate);
+        $("#card").attr("id", "card" + cardNumber);
+    }
+    numCards++;
 
     //Add elements to card
     let card = $("#" + titleID);
