@@ -13,11 +13,11 @@ h1 {
     font-family: "Oswald", sans-serif;
 }
 
-a {
+.a {
     font-family: "Oswald", sans-serif;
     text-decoration: none;
-    color: #4286f4;
-    border-bottom: 0px solid #ee3233;
+    color: #8f8e8e;
+    border-bottom: 0px solid rgb(230,50,39);
     transition-duration: 0.5s;
     -webkit-transition-duration: 0.5s;
     padding-bottom: 5px;
@@ -35,9 +35,9 @@ a:hover {
     color: #1653b7;
 }
 
-.nav a {
+.nav-links a {
     display: inline-block;
-    margin: 2.5vh 3.5vh 2.5vh 3.5vh;
+    margin: 2.6vh 3.5vh 0vh 3.5vh;
 }
 
 .nav-links {
@@ -45,9 +45,17 @@ a:hover {
     margin-right: 10vw;
 }
 
-.nav-title {
+#nav-logo {
     display: inline-block;
+    width: 10%;
+    height: auto;
     margin-left: 10vw;
+    margin-top:0.75%;
+    transition-duration: 0.2s;
+}
+
+#nav-logo:hover {
+    opacity: 0.5;
 }
 
 .nav h1 {
@@ -57,6 +65,7 @@ a:hover {
 .nav {
     width: 100vw;
     height: 10vh;
+    min-height: 60px;
     background-color: rgb(254, 254, 254);
     box-shadow: 0px 1px 1px rgba(30, 30, 30, 0.2);
     position: fixed;
