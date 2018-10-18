@@ -13,6 +13,11 @@ h1 {
     font-family: "Oswald", sans-serif;
 }
 
+h2 {
+    font-family: "Roboto Mono";
+    color: rgb(50, 50, 50);
+}
+
 .a {
     text-decoration: none;
     font-family: "Oswald", sans-serif;
@@ -106,7 +111,12 @@ a:hover {
 }
 
 .main-section {
-    margin-top: 5vh;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.top-races {
+    margin-top: 50px;
     text-align: center;
 }
 
@@ -234,6 +244,10 @@ a:hover {
     vertical-align: top;
 }
 
+.pill-right:hover {
+    background-color: #e2543e;
+}
+
 .pill-left {
     height: 25px;
     border-radius: 18px 0 0 18px;
@@ -242,6 +256,24 @@ a:hover {
     border: 2px solid white;
     margin-right: -1px;
     vertical-align: top;
+}
+
+.pill-left:hover {
+    background-color: #5f92e4;
+}
+
+.pill-third {
+    height: 25px;
+    border-radius: 0px 0 0 0px;
+    background-color: rgb(244, 193, 68);
+    display: inline-block;
+    border: 2px solid white;
+    margin-right: -1px;
+    vertical-align: top;
+}
+
+.pill-third:hover {
+    background-color: rgb(243, 206, 113);
 }
 
 .pill-left p {

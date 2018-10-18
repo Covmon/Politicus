@@ -1,26 +1,11 @@
-var topMatchups = [];
+var candidateObjects = predictions_iowa.data;
 var numCards = 0;
 
 $(document).ready(function() {
     console.log("Starting JS");
     
-    var candidateObjects = predictions_iowa.data;
     let stateRep = "State Representative";
     let usRep = "U.S. Representative";
-
-    getUserAddress();
-    console.log("done w/ address");
-    console.log(topMatchups);
-    console.log("here");
-
-    for (contest of topMatchups) {
-        console.log(contest);
-        var matchup = getMatchup(candidateObjects, contest.position, contest.districtID);
-        if (!jQuery.isEmptyObject(matchup)) {
-            console.log("Create card for local matchup");
-            createCard(matchup, 1);
-        }
-    }
 
     var iowa_91 = getMatchup(candidateObjects, stateRep, "91");
     createCard(iowa_91);
@@ -29,15 +14,17 @@ $(document).ready(function() {
     createCard(iowa_1);
 
     var iowa_55 = getMatchup(candidateObjects, stateRep, "55");
-    createCard(iowa_55);
+    createCard(iowa_55, -1, ".top-races");
 
     var iowa_32 = getMatchup(candidateObjects, stateRep, "32");
-    createCard(iowa_32);
+    createCard(iowa_32, -1, ".top-races");
     
     var iowa_40 = getMatchup(candidateObjects, stateRep, "40");
-    createCard(iowa_40);
+    createCard(iowa_40, -1, ".top-races");
 
-    var iowa_88 = getMatchup(candidateObjects, stateRep, "88");
+    //timeout simulates time to get location and do voter info query
+    window.setTimeout(geolocationReturnedCoordinates, 500, [50]); //getNearbyElections(); <-- change to this once geolocation working
+
 
     $(window).scroll(function() {
         if ($(this).scrollTop() > $(".nav").height()) {
@@ -47,9 +34,6 @@ $(document).ready(function() {
         }
     })
 
-    $("#click-me").click(function() {
-        createCard(iowa_88);
-    });
 
 });
 
@@ -111,7 +95,7 @@ function evaluatePredictionDescription(predictionDem, predictionRep) {
     return description;
 }
 
-function createCard(matchup, cardNumber = -1) {
+function createCard(matchup, cardNumber = -1, appendLocation = ".main-section") {
     var actualCardNumber = cardNumber;
 
     if (cardNumber == -1) {
@@ -145,30 +129,33 @@ function createCard(matchup, cardNumber = -1) {
         "id": "card",
         click: function(e){
             e.preventDefault();
-            $("#card1").toggleClass("hidden");
-            $("#card1").children().toggle();
+            //$("#card1").toggleClass("hidden");
+            //$("#card1").children().toggle();
     }})
 
 
     if (actualCardNumber <= numCards) {
+        console.log("Card being inserted before");
         var previousID = "card" + (actualCardNumber - 1);
-        $("#" + previousID).after(cardCreate);
+        var thisID = "card" + actualCardNumber;
+        if (previousID == "card0") {
+            $("#" + thisID).before(cardCreate);
+        } else {
+            $("#" + previousID).after(cardCreate);
+        }
 
         $(".prediction-card").each(function() {
             let id = $(this).attr("id");
-            console.log(id);
             let num = parseInt(id.charAt(4), 10);
-            console.log(num);
             if (num >= actualCardNumber) {
                 let newID = "card" + (num + 1);
-                console.log(newID);
                 $(this).attr("id", newID);
             }
         })
         $("#card").attr("id", "card" + actualCardNumber);
 
     } else {
-        $(".main-section").append(cardCreate);
+        $(appendLocation).append(cardCreate);
         $("#card").attr("id", "card" + actualCardNumber);
     }
     numCards++;
@@ -204,28 +191,46 @@ function createCard(matchup, cardNumber = -1) {
 }
 
 function createProjectionChart(matchup) {
-
     var dem = matchup["DEM"];
     var rep = matchup["REP"];
+    var third = {
+        "Predicted": 0
+    };
+    if (matchup.hasOwnProperty("LIB")) {
+        console.log("Has libertarian candidate");
+        third = matchup["LIB"];
+    } else if (matchup.hasOwnProperty("GRN")) {
+        third = matchup["GRN"];
+    }
 
     var predictionDem = dem.Predicted;
     var predictionRep = rep.Predicted;
+    var predictionThird = third.Predicted;
 
     var percentDem = Number((predictionDem * 100).toFixed(1));
     var percentRep = Number((predictionRep * 100).toFixed(1));
+    var percentThird = Number((predictionThird * 100).toFixed(1));
 
     var lengthDem = predictionDem * 200;
     var lengthRep = predictionRep * 200;
+    var lengthThird = predictionThird * 200;
 
     var pillDem = "<div class='pill-left' style='width:" + lengthDem + "px'> <p class='number'>" + percentDem + "%</p> </div>";
     var pillRep = "<div class='pill-right' style='width:" + lengthRep + "px'> <p class='number'>" + percentRep + "%</p> </div>";
+    var pillThird = "";
 
+    if (percentThird > 3) {
+        pillThird = "<div title='" + third.Candidate + " (" + third.Party + "): " + percentThird + "%' class='pill-third' style='width:" + lengthThird + "px'> </div>";
+        $(document).tooltip({
+            track: true
+        });
+    }
 
-    return pillDem + pillRep;
+    return pillDem + pillThird + pillRep;
 
 }
 
-function getUserAddress() {
+function getNearbyElections() {
     // we start the request, to ask the position of the client
     // we will pass geolocationReturnedCoordinates as the success callback
     console.log("get user's location");
@@ -237,19 +242,14 @@ function error(err) {
 }
 
 function geolocationReturnedCoordinates(coordinates) {
-    let lat = coordinates.coords.latitude;
-    let lng = coordinates.coords.longitude;
+    let lat = 41.522498;//coordinates.coords.latitude;
+    let lng = -93.6464809;//coordinates.coords.longitude;
 
-    console.log(
-      'lat: ' + coordinates.coords.latitude +
-      '<br>lng: ' + coordinates.coords.longitude +
-      '<br>accuracy: ' + coordinates.coords.accuracy);
 
-    let url = 'https://api.geonames.org/findNearestAddressJSON?lat=' + lat + '&lng=' + lng + '&username=noahcovey';
-    let url_IA = "https://api.geonames.org/findNearestAddressJSON?lat=41.522498&lng=-93.64646809999999&username=noahcovey";
+    let url = 'http://api.geonames.org/findNearestAddressJSON?lat=' + lat + '&lng=' + lng + '&username=noahcovey';
     
     var xmlHttp = new XMLHttpRequest();
-    xmlHttp.open( "GET", url_IA, false ); // false for synchronous request
+    xmlHttp.open( "GET", url, false ); // false for synchronous request
     xmlHttp.send( null );
     var responseText = xmlHttp.responseText;
     var response = JSON.parse(responseText);
@@ -286,10 +286,22 @@ function voterInfoQuery(address, electionId) {
 function getNearbyMatchups(civicAPIObject) {
     let contests = civicAPIObject.contests;
 
+    var localMatchups = [];
+
     for (contest of contests) {
         let matchup = new Matchup(contest);
         if (matchup.position == "U.S. Representative" || matchup.position.substring(3) == "Governor") {
-            topMatchups.push(matchup);
+            localMatchups.push(matchup);
+        }
+    }
+
+    for (contest of localMatchups) {
+        console.log(contest);
+        var matchup = getMatchup(candidateObjects, contest.position, contest.districtID);
+        if (!jQuery.isEmptyObject(matchup)) {
+            console.log("Create card for local matchup");
+            console.log(matchup);
+            createCard(matchup, 1);
         }
     }
 }
@@ -297,7 +309,7 @@ function getNearbyMatchups(civicAPIObject) {
 class Matchup {
     constructor(contest) {
         this.position = contest.office;
-        this.districtID = (contest.district.id != null) ? contest.district.id : -1;
+        this.districtID = (contest.district.id != null) ? contest.district.id : "-1";
         this.districtName = contest.district.name;
     }
 }
