@@ -16,6 +16,9 @@ $(document).ready(function() {
 
     var iowa_32 = getMatchup(candidates, stateRep, "32");
     createCard(iowa_32, 4);
+    
+    var iowa_40 = getMatchup(candidates, stateRep, "40");
+    createCard(iowa_40, 5);
 
     var iowa_88 = getMatchup(candidates, stateRep, "88");
 

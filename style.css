@@ -132,7 +132,7 @@ a:hover {
 }
 
 .prediction-card:hover {
-    box-shadow: 0 4px 8px rgba(30,30,30, 0.75);
+    box-shadow: 0 4px 8px rgba(50,50,50, 0.75);
 }
 
 .solid-blue, .solid-blue h2 {
@@ -257,4 +257,17 @@ a:hover {
 
 #vote-share {
     margin-top: -2px !important;
+}
+
+.footer {
+    margin-top: 100px;
+    height: 75px;
+    background-color: rgb(245,245,245);
+    padding-top: 38px;
+}
+
+.footer p {
+    text-align: center;
+    font-family: "Roboto Mono";
+    font-size: 12px;
 }
