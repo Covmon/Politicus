@@ -119,7 +119,7 @@ a:hover {
 }
 
 .prediction-card {
-    height: 270px;
+    height: 280px;
     width: 290px;
     border-radius: 10px;
     display: inline-block;
@@ -146,7 +146,7 @@ a:hover {
 }
 
 .lean-blue, .lean-blue h2 {
-    background-color: #b5cbf0;
+    background-color: #c5d7f5;
     color: #4483e7;
 }
 
@@ -156,12 +156,12 @@ a:hover {
 }
 
 .likely-red, .likely-red h2{
-    background-color: #f78c7b;
+    background-color: #f79688;
     color: #e4371d;
 }
 
 .lean-red, .lean-red h2 {
-    background-color: #f8a99d;
+    background-color: #f8b5aa;
     color: #e4371d;
 }
 
@@ -195,6 +195,7 @@ a:hover {
     font-size: 13px;
     color: white;
     margin: 13px 20px 5px 20px;
+    font-weight: 900;
 }
 
 .blue {
@@ -252,6 +253,7 @@ a:hover {
 }
 
 .number {
+    font-weight: thin;
     font-family: "Roboto Mono";
 }
 
