@@ -45,19 +45,21 @@ function getMatchup(allCandidates, position, district) {
     return matchup;
 }
 
-function evaluatePredictionColor(predictionDem) {
+function evaluatePredictionColor(predictionDem, predictionRep) {
     var color = ""
-    if (predictionDem > 0.90) {
+    let difference = predictionDem - predictionRep;
+
+    if (difference > 0.80) {
         color = "solid-blue";
-    } else if (predictionDem > 0.75) {
+    } else if (difference > 0.3) {
         color = "likely-blue";
-    } else if (predictionDem > 0.60) {
+    } else if (difference > 0.1) {
         color = "lean-blue";
-    } else if (predictionDem >= 0.40) {
+    } else if (difference >= -0.1) {
         color = "purple";
-    } else if (predictionDem >= 0.25) {
+    } else if (difference >= -0.3) {
         color = "lean-red";
-    } else if (predictionDem >= 0.10) {
+    } else if (difference >= -0.8) {
         color = "likely-red";
     } else {
         color = "solid-red";
@@ -66,19 +68,21 @@ function evaluatePredictionColor(predictionDem) {
     return color;
 }
 
-function evaluatePredictionDescription(predictionDem) {
+function evaluatePredictionDescription(predictionDem, predictionRep) {
     var description = ""
-    if (predictionDem > 0.90) {
+    let difference = predictionDem - predictionRep;
+
+    if (difference > 0.8) {
         description = "SOLID D";
-    } else if (predictionDem > 0.75) {
+    } else if (difference > 0.3) {
         description = "LIKELY D";
-    } else if (predictionDem > 0.60) {
+    } else if (difference > 0.1) {
         description = "LEAN D";
-    } else if (predictionDem >= 0.40) {
+    } else if (difference >= -0.1) {
         description = "TOSS-UP";
-    } else if (predictionDem >= 0.25) {
+    } else if (difference >= -0.3) {
         description = "LEAN R";
-    } else if (predictionDem >= 0.10) {
+    } else if (difference >= -0.8) {
         description = "LIKELY R";
     } else {
         description = "SOLID R";
@@ -97,15 +101,19 @@ function createCard(matchup, cardNumber) {
     var state = dem.State;
     var position = dem.Position;
     var district = dem.District;
-    var predictionDem = dem.Predicted;
 
+    var predictionDem = dem.Predicted;
+    var predictionRep = rep.Predicted;
+
+    var percentDem = Number((predictionDem * 100).toFixed(1));
+    var percentRep = Number((predictionRep * 100).toFixed(1));
     
     var title = position + ", " + state + " District " + district;
     var titleID = "card" + cardNumber;
 
     //Create card
     var color = "";
-    color = evaluatePredictionColor(predictionDem);
+    color = evaluatePredictionColor(predictionDem, predictionRep);
     var className = "prediction-card " + color;
 
     let cardCreate = $('<div />', {
@@ -147,17 +155,52 @@ function createCard(matchup, cardNumber) {
     let titleH1 = $("<h1 />").text(title);
     card.append(titleH1);
 
-    projectionDescription = evaluatePredictionDescription(predictionDem);
-    let projectionP = $("<h2 />").text(projectionDescription);
-    card.append(projectionP);
+    projectionDescription = evaluatePredictionDescription(predictionDem, predictionRep);
+    let projectionDescriptionP = $("<h2 />").text(projectionDescription);
+    card.append(projectionDescriptionP);
 
-    let candidatesP = $("<p />").text(dem.Candidate + " (D) vs " + rep.Candidate + " (R)");
+    let candidatesP = $("<p />").html("<span class='blue'>" + dem.Candidate + " (D)</span> vs <span class='red'>" + rep.Candidate + " (R)</span>");
+    candidatesP.addClass("bold");
     card.append(candidatesP);
 
+    let probabilityP = $("<p />").text("Probabilities:");
+    card.append(probabilityP);
 
+    let chart = createProjectionChart(matchup);
+    card.append(chart);
 
+    let voteShareDescriptionP = $("<p />").text("Projected vote share:");
+    card.append(voteShareDescriptionP);    
+
+    let voteShareP = $("<p />").text(percentDem + "% (D) vs " + percentRep + "% (R)");
+    voteShareP.addClass("number");
+    voteShareP.attr("id", "vote-share");
+    card.append(voteShareP);
 
 }
+
+function createProjectionChart(matchup) {
+
+    var dem = matchup["DEM"];
+    var rep = matchup["REP"];
+
+    var predictionDem = dem.Predicted;
+    var predictionRep = rep.Predicted;
+
+    var percentDem = Number((predictionDem * 100).toFixed(1));
+    var percentRep = Number((predictionRep * 100).toFixed(1));
+
+    var lengthDem = predictionDem * 200;
+    var lengthRep = predictionRep * 200;
+
+    var pillDem = "<div class='pill-left' style='width:" + lengthDem + "px'> <p class='number'>" + percentDem + "%</p> </div>";
+    var pillRep = "<div class='pill-right' style='width:" + lengthRep + "px'> <p class='number'>" + percentRep + "%</p> </div>";
+
+
+    return pillDem + pillRep;
+
+}
+
 
 
 
