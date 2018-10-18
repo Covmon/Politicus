@@ -299,6 +299,26 @@ var predictions_iowa = {
           "Candidate":"Mary Wolfe",
           "Party":"DEM",
           "Predicted":0.5787104595
+       } ,
+       {  
+          "index":26,
+          "State":"Iowa",
+          "Year":2016,
+          "Position":"U.S. Representative",
+          "District":"3",
+          "Candidate":"David Young",
+          "Party":"REP",
+          "Predicted":0.4212895405
+       },
+       {  
+          "index":27,
+          "State":"Iowa",
+          "Year":2016,
+          "Position":"U.S. Representative",
+          "District":"3",
+          "Candidate":"Cindy Axne",
+          "Party":"DEM",
+          "Predicted":0.5787104595
        }
     ]
  };

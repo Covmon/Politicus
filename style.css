@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Oswald|Raleway|Roboto+Mono');
+@import url('https://fonts.googleapis.com/css?family=Oswald|Raleway|Roboto+Mono:300,400|Roboto');
 
 body {
     margin: 0;
@@ -120,15 +120,16 @@ a:hover {
 
 .prediction-card {
     height: 280px;
-    width: 290px;
+    width: 300px;
     border-radius: 10px;
     display: inline-block;
-    margin: 20px;
+    margin: 15px;
     transition-duration: 0.2s;
     -webkit-transition-duration: 0.2s;
     vertical-align: top;
     box-shadow: 0 2px 3px rgba(50,50,50, 0.5);
     position: relative;
+    cursor: crosshair;
 }
 
 .prediction-card:hover {
@@ -185,7 +186,7 @@ a:hover {
     padding: 0px 5px;
     display: inline-flex;
     border-radius: 2px;
-    font-family: "Roboto Mono",sans-serif;
+    font-family: "Roboto Mono",monospace;
     margin-top: 0;
     font-size: 13px;
 }
@@ -194,17 +195,18 @@ a:hover {
     text-align: center;
     font-size: 13px;
     color: white;
-    margin: 13px 20px 5px 20px;
+    margin: 13px 15px 5px 15px;
     font-weight: 900;
+    font-family: "Roboto", sans-serif;
 }
 
 .blue {
-
+    /*text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;*/
     color: #4483e7;
 }
 
 .red {
-
+    /*text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;*/
     color: #e4371d;
 }
 
@@ -244,17 +246,17 @@ a:hover {
 
 .pill-left p {
     font-size: 13px;
-    margin-top: 3px !important;
+    margin-top: 5px !important;
 }
 
 .pill-right p {
     font-size: 13px;
-    margin-top: 3px !important;
+    margin-top: 5px !important;
 }
 
 .number {
-    font-weight: thin;
-    font-family: "Roboto Mono";
+    font-weight: lighter;
+    font-family: "Roboto Mono", monospace;
 }
 
 #vote-share {
@@ -270,6 +272,6 @@ a:hover {
 
 .footer p {
     text-align: center;
-    font-family: "Roboto Mono";
+    font-family: "Roboto Mono", monospace;
     font-size: 12px;
 }
