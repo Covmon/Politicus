@@ -22,6 +22,9 @@ $(document).ready(function() {
     var iowa_40 = getMatchup(candidateObjects, stateRep, "40");
     createCard(iowa_40, -1, ".top-races");
 
+    var iowa_80 = getMatchup(candidateObjects, stateRep, "80");
+    createCard(iowa_80, -1, ".top-races");
+
     //timeout simulates time to get location and do voter info query
     window.setTimeout(geolocationReturnedCoordinates, 500, [50]); //getNearbyElections(); <-- change to this once geolocation working
 
@@ -116,6 +119,11 @@ function createCard(matchup, cardNumber = -1, appendLocation = ".main-section") 
     var percentDem = Number((predictionDem * 100).toFixed(1));
     var percentRep = Number((predictionRep * 100).toFixed(1));
     
+    //GA House, District 9
+    //GA Senate, District 40
+    //U.S. Senate, GA
+    //U.S. House, GA District 12
+    //GA Governor
     var title = position + ", " + state + " District " + district;
     var titleID = "card" + actualCardNumber;
 
@@ -197,7 +205,6 @@ function createProjectionChart(matchup) {
         "Predicted": 0
     };
     if (matchup.hasOwnProperty("LIB")) {
-        console.log("Has libertarian candidate");
         third = matchup["LIB"];
     } else if (matchup.hasOwnProperty("GRN")) {
         third = matchup["GRN"];
@@ -245,36 +252,40 @@ function geolocationReturnedCoordinates(coordinates) {
     let lat = 41.522498;//coordinates.coords.latitude;
     let lng = -93.6464809;//coordinates.coords.longitude;
 
+    let accessToken = "pk.eyJ1Ijoibm9haGNvdmV5IiwiYSI6ImNqbmZkMHJqZzZqZTAzcW4xbTR3djl6aGYifQ.hPSA1Bktf28eHwPcbQ9e4g";
 
-    let url = 'http://api.geonames.org/findNearestAddressJSON?lat=' + lat + '&lng=' + lng + '&username=noahcovey';
+    let url = "https://api.mapbox.com/geocoding/v5/mapbox.places/" + lng + "," + lat + ".json?access_token=" + accessToken;
+    console.log(url);
     
     var xmlHttp = new XMLHttpRequest();
     xmlHttp.open( "GET", url, false ); // false for synchronous request
     xmlHttp.send( null );
     var responseText = xmlHttp.responseText;
     var response = JSON.parse(responseText);
-    let addressObj = response.address;
-    console.log(addressObj);
+    console.log(response);
 
-    let address = addressObj.streetNumber + "-" + addressObj.street + "-" + addressObj.placename + "-" + addressObj.adminCode1 + "-" + addressObj.postalcode;
-    console.log(address);
-    let query = voterInfoQuery(address, 6000);
-    getNearbyMatchups(query);
+    let address = response.features[0].place_name;
+    let numbers = address.match(/\d+/);
+    let firstNumbers = parseInt(numbers[0], 10);
+    let index = address.indexOf(firstNumbers);
+    let address_normalized = address.substring(index);
+    console.log(address_normalized);
+
+    let googleQuery = googleVoterQuery(address_normalized, 6000);
+    let openstatesQuery = openstatesVoterQuery(lat, lng);
+
+    getNearbyMatchupsGoogle(googleQuery);
+    getNearbyMatchupsState(openstatesQuery);
 }
 
-function voterInfoQuery(address, electionId) {
+function googleVoterQuery(address, electionId) {
     var apiKey = "AIzaSyAhC1y0Vc09spgiF1KYdUJwag71TGitZgc";
-    //var url = "https://www.googleapis.com/civicinfo/v2/elections?key=AIzaSyAhC1y0Vc09spgiF1KYdUJwag71TGitZgc";
     var url = "https://www.googleapis.com/civicinfo/v2/voterinfo?address=" + address + "&electionId=" + electionId + "&key=" + apiKey;
-    var testURLGA = "https://www.googleapis.com/civicinfo/v2/voterinfo?address=4839-Adams-Walk-Dunwoody-GA-30338&electionId=6000&key=AIzaSyAhC1y0Vc09spgiF1KYdUJwag71TGitZgc";
-    var testURLNC = "https://www.googleapis.com/civicinfo/v2/voterinfo?address=1133-Metropolitan-Ave-Charlotte-NC-28204&electionId=6000&key=AIzaSyAhC1y0Vc09spgiF1KYdUJwag71TGitZgc";
-    var testURLLA = "https://www.googleapis.com/civicinfo/v2/voterinfo?address=6363-St-Charles-Ave-New-Orleans-LA-70118&electionId=6000&key=AIzaSyAhC1y0Vc09spgiF1KYdUJwag71TGitZgc";
-    var testURLNM = "https://www.googleapis.com/civicinfo/v2/voterinfo?address=1352-Rufina-Cir-Santa-Fe-NM-87507&electionId=6000&key=AIzaSyAhC1y0Vc09spgiF1KYdUJwag71TGitZgc";
 
-    var xmlHttp = new XMLHttpRequest();
-    xmlHttp.open( "GET", url, false ); // false for synchronous request
-    xmlHttp.send( null );
-    var responseText = xmlHttp.responseText;
+    var xmlReq = new XMLHttpRequest();
+    xmlReq.open( "GET", url, false ); // false for synchronous request
+    xmlReq.send( null );
+    var responseText = xmlReq.responseText;
     var responseObject = JSON.parse(responseText);
 
     console.log("Here is the response object from the Google Voter Info Query:");
@@ -283,13 +294,29 @@ function voterInfoQuery(address, electionId) {
     return responseObject;
 }
 
-function getNearbyMatchups(civicAPIObject) {
+function openstatesVoterQuery(latitude, longitude) {
+    let apiKey = "f38c7a52-293e-4313-aa69-b89b1253fd38";
+    let url = "https://openstates.org/api/v1/legislators/geo/?lat="+ latitude + "&long=" + longitude + "&apikey=" + apiKey;
+
+    var xmlReq = new XMLHttpRequest();
+    xmlReq.open( "GET", url, false ); // false for synchronous request
+    xmlReq.send( null );
+    var responseText = xmlReq.responseText;
+    var responseObject = JSON.parse(responseText);
+
+    console.log("Here is the response object from the Google Voter Info Query:");
+    console.log(responseObject);
+
+    return responseObject;
+}
+
+function getNearbyMatchupsGoogle(civicAPIObject) {
     let contests = civicAPIObject.contests;
 
     var localMatchups = [];
 
     for (contest of contests) {
-        let matchup = new Matchup(contest);
+        let matchup = new MatchupGoogle(contest);
         if (matchup.position == "U.S. Representative" || matchup.position.substring(3) == "Governor") {
             localMatchups.push(matchup);
         }
@@ -297,7 +324,7 @@ function getNearbyMatchups(civicAPIObject) {
 
     for (contest of localMatchups) {
         console.log(contest);
-        var matchup = getMatchup(candidateObjects, contest.position, contest.districtID);
+        var matchup = getMatchup(candidateObjects, contest.position, contest.district);
         if (!jQuery.isEmptyObject(matchup)) {
             console.log("Create card for local matchup");
             console.log(matchup);
@@ -306,11 +333,50 @@ function getNearbyMatchups(civicAPIObject) {
     }
 }
 
-class Matchup {
+function getNearbyMatchupsState(openstatesObject) {
+
+
+    for (contest of openstatesObject) {
+        let matchupObj = new MatchupOpenStates(contest);
+        var matchup = getMatchup(candidateObjects, matchupObj.position, matchupObj.district);
+        if (!jQuery.isEmptyObject(matchup)) {
+            console.log("Create card for local matchup");
+            console.log(matchup);
+            createCard(matchup, 1);
+        }
+    }
+
+}
+
+class MatchupGoogle {
     constructor(contest) {
         this.position = contest.office;
-        this.districtID = (contest.district.id != null) ? contest.district.id : "-1";
-        this.districtName = contest.district.name;
+        this.district = (contest.district.id != null) ? contest.district.id : "-1";
+    }
+}
+
+class MatchupOpenStates {
+    constructor(contest, state) {
+
+        let apiKey = "f38c7a52-293e-4313-aa69-b89b1253fd38";
+        let url = "openstates.org/api/v1/metadata/" + state + "&apikey=" + apiKey;
+
+        var xmlReq = new XMLHttpRequest();
+        xmlReq.open( "GET", url, false ); // false for synchronous request
+        xmlReq.send( null );
+        var responseText = xmlReq.responseText;
+        var responseObject = JSON.parse(responseText);
+
+        let upperName = responseObject.chambers.upper.name;
+        let lowerName = responseObject.chambers.lower.name;
+
+        if (contest.chamber == "upper") {
+            this.position = upperName;
+        } else if (contest.chamber == "lower") {
+            this.position = lowerName;
+        }
+
+        this.district = contest.district;
     }
 }
 
