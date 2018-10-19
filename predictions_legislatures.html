@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Politucus | Predictions</title>
+    <title>Politucus | Legislature Predictions</title>
 
     <link rel="stylesheet" type="text/css" href="style.css"/>
 
@@ -11,6 +11,8 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/base/jquery-ui.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
 
     <!--Prediction data-->
     <script src="predictions_data/predictions_iowa_json.js"></script>
@@ -18,7 +20,7 @@
     <!--Custom scripts-->
     <script type="text/javascript" src="predictions.js"></script>
     <script type="text/javascript" src="page_script_all.js"></script>
-    <script type="text/javascript" src="page_script_predictions.js"></script>
+    <script type="text/javascript" src="page_script_predictions_legislatures.js"></script>
 
 
 </head>
@@ -41,11 +43,11 @@
             <h1>Election Predictions</h1>
 
             <div class="predictions-links">
-                <a class="a" id="link-selected" href="predictions.html">Top Forecasts</a>
+                <a class="a" href="predictions.html">Top Forecasts</a>
                 <a class="a" href="predictions.html">U.S. Senate</a>
                 <a class="a" href="predictions.html">U.S. House</a>
                 <a class="a" href="predictions.html">State Governors</a>
-                <a class="a" href="predictions_legislatures.html">State Legislatures</a>
+                <a class="a" id="link-selected" href="predictions_legislatures.html">State Legislatures</a>
             </div>
             <hr>
         </div>
@@ -55,8 +57,24 @@
 
         </div>
 
-        <div class="top-races">
-            <h2>Top Races</h2>
+        <div class="all-races">
+            <h2>All Races</h2>
+
+            <table id="all-races-table" class="row-border hover compact">
+                <thead>
+                    <tr>
+                        <th>State</th>
+                        <th>Race</th>
+                        <th>Candidates</th>
+                        <th>Projected Vote Share</th>
+                        <th>Win Probabilities</th>
+                    </tr>
+
+                </thead>
+                <tbody>
+
+                </tbody>
+            </table>
 
         </div>
     </div>
