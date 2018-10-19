@@ -319,7 +319,7 @@ function createTableRow(matchup) {
     let percentDem = Number((predictionDem * 100).toFixed(1));
     let percentRep = Number((predictionRep * 100).toFixed(1));
     
-    let state = "<p>" + dem.State + "</p";
+    let state = "<p>" + dem.State + "</p>";
     let race = "<p>" + matchup["title"] + "</p>";
     let candidates = "<p> <span class='blue'>" + dem.Candidate + " (D)</span> vs <span class='red'>" + rep.Candidate + " (R)</span> </p>";
     let projectionChart = createProjectionChart(matchup);
@@ -328,17 +328,27 @@ function createTableRow(matchup) {
     let td = "<td>";
     let tdc = "</td>";
 
-    let html = "<tr>" + td + state + tdc + td + race + tdc + td + candidates + tdc + td + projectionChart + tdc + td + probabilities + tdc + "</tr>";
+    var row = document.createElement("tr");
+    let innerHTML = td + state + tdc + td + race + tdc + td + candidates + tdc + td + projectionChart + tdc + td + probabilities + tdc;
+    row.innerHTML = innerHTML;
+    let html = "<tr>" + innerHTML + "</tr>";
    
-    $("#all-races-table").append(html);
     if (!hasTableBeenInitialized) {
+        $("#all-races-table").append(html);
         hasTableBeenInitialized = true;
         $("#all-races-table").DataTable({
-            paging: false
+            paging: false,
+            ordering: true,
+            language: {
+                searchPlaceholder: "State, race, or candidate",
+                info: "Showing _START_ to _END_ of _TOTAL_ races",
+                infoFiltered: " - filtered from _MAX_ total races"
+            }
         });
 
     } else {
-        $("#all-races-table").DataTable();
+        $("#all-races-table").DataTable().row.add(row);
+        $("#all-races-table").DataTable().draw();
     }
 }
 

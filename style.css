@@ -264,7 +264,7 @@ table .pill-right {
     background-color: #4483e7;
     display: inline-block;
     border: 2px solid white;
-    margin-right: -1px;
+    margin-right: -2px;
     vertical-align: top;
 }
 
@@ -284,6 +284,10 @@ table .pill-left {
     border: 2px solid white;
     margin-right: -1px;
     vertical-align: top;
+}
+
+table .pill-third {
+    border-color: black;
 }
 
 .pill-third:hover {
@@ -319,8 +323,18 @@ th {
     font-family: "Roboto", sans-serif !important;
 }
 
+td {
+    cursor: crosshair;
+}
+
 label {
     font-family: "Roboto", sans-serif;
+}
+
+.dataTables_info {
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    color: rgb(156, 156, 156) !important;
 }
 
 .footer {
