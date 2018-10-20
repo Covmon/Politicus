@@ -1,23 +1,38 @@
 $(document).ready(function() {
     console.log("Starting JS Predictions-Legislatures Page");
 
-    
-    let stateRep = "State Representative";
-    let usRep = "U.S. Representative";
+    var availableRaces = [];
+    var lastRace = [];
 
-    var iowa_91 = getMatchup(candidateObjects, stateRep, "91", "House");
+    for (candidate of candidateObjects) {
+        let race = [candidate.State, candidate.Position, candidate.District];
+        if (!arraysEqual(race, lastRace)) {
+            console.log(race);
+            console.log(lastRace);
+            lastRace = race;
+            availableRaces.push(candidate);
+        }
+    }
+
+    console.log(availableRaces);
+
+    for (candidate of availableRaces) {
+        if (candidate.Position == "State Representative") {
+            console.log("State Rep");
+            let office = getLowerBodyName(candidate.State);
+            let matchup = getMatchup(candidateObjects, candidate.State, candidate.Position, candidate.District, office);
+            createTableRow(matchup);
+        } else if (candidate.Position == "State Senator") {
+            let matchup = getMatchup(candidateObjects, candidate.State, candidate.Position, candidate.District, "Senate");
+            createTableRow(matchup);
+        }
+    }
+
+    var iowa_91 = getMatchup(candidateObjects, "Iowa", "State Representative", "91", "House");
     createCard(iowa_91);
-    createTableRow(iowa_91);
 
-    var iowa_1 = getMatchup(candidateObjects, usRep, "1", usRep);
+    var iowa_1 = getMatchup(candidateObjects, "Iowa", "U.S. Representative", "1", "U.S. Representative");
     createCard(iowa_1);
-    createTableRow(iowa_1);
-
-    var iowa_3 = getMatchup(candidateObjects, usRep, "3", usRep);
-    createTableRow(iowa_3);
-
-    var iowa_32 =  getMatchup(candidateObjects, stateRep, "32", "House");
-    createTableRow(iowa_32);
 
     //timeout simulates time to get location and do voter info query
     //geolocationReturnedCoordinates(50); //getNearbyElections(); <-- change to this once geolocation working

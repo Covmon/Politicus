@@ -7,14 +7,12 @@ $(document).ready(function() {
 });
 
 
-function getMatchup(allCandidates, position, district, officeName) {
+function getMatchup(allCandidates, state, position, district, officeName) {
     var matchup = {};
-    var state = "";
     for (candidate of allCandidates) {
-        if (candidate.District == String(district) && candidate.Position == position) {
+        if (candidate.State == state && candidate.District == String(district) && candidate.Position == position) {
             var party = candidate.Party;
             matchup[party] = candidate;
-            state = candidate.State;
         }
     }
 
@@ -204,11 +202,20 @@ function createProjectionChart(matchup) {
     var lengthRep = predictionRep * 200;
     var lengthThird = predictionThird * 200;
 
+    /*
+    if (window.innerWidth < 1100) {
+        console.log("small screen");
+        let scalar = window.innerWidth/2200;
+        lengthDem *= scalar;
+        lengthRep *= scalar;
+        lengthThird *= scalar;
+    }*/
+
     var pillDem = "<div class='pill-left' style='width:" + lengthDem + "px'> <p class='number'>" + percentDem + "%</p> </div>";
     var pillRep = "<div class='pill-right' style='width:" + lengthRep + "px'> <p class='number'>" + percentRep + "%</p> </div>";
     var pillThird = "";
 
-    if (percentThird > 3) {
+    if (percentThird > 4) {
         pillThird = "<div title='" + third.Candidate + " (" + third.Party + "): " + percentThird + "%' class='pill-third' style='width:" + lengthThird + "px'> </div>";
         $(document).tooltip({
             track: true
@@ -278,18 +285,19 @@ function googleVoterQuery(address, electionId) {
 
 function getNearbyMatchupsGoogle(civicAPIObject) {
     let contests = civicAPIObject.contests;
+    let state = civicAPIObject.normalizedInput.state;
 
     var nearbyMatchups = [];
 
     for (contest of contests) {
-        let matchup = new MatchupGoogle(contest);
+        let matchup = new MatchupGoogle(contest, state);
         if (matchup.position == "U.S. Representative" || matchup.position == "U.S. Senator" || matchup.position.substring(3) == "Governor" || matchup.position == "State Representative" || matchup.position == "State Senator") {
             nearbyMatchups.push(matchup);
         }
     }
 
     for (contest of nearbyMatchups) {
-        var matchup = getMatchup(candidateObjects, contest.position, contest.district, contest.officeName);
+        var matchup = getMatchup(candidateObjects, contest.state, contest.position, contest.district, contest.officeName);
         if (!jQuery.isEmptyObject(matchup)) {
             console.log("Create card for local matchup");
             console.log(contest);
@@ -300,7 +308,8 @@ function getNearbyMatchupsGoogle(civicAPIObject) {
 }
 
 class MatchupGoogle {
-    constructor(contest) {
+    constructor(contest, state) {
+        this.state = convertStateName(state);
         this.position = contest.office;
         this.district = (contest.district.id != null) ? contest.district.id : "";
         this.officeName = contest.office;
@@ -318,8 +327,10 @@ function createTableRow(matchup) {
 
     let percentDem = Number((predictionDem * 100).toFixed(1));
     let percentRep = Number((predictionRep * 100).toFixed(1));
+
+    let stateAbbrev = convertStateName(dem.State);
     
-    let state = "<p>" + dem.State + "</p>";
+    let state = "<p>" + stateAbbrev + "</p>";
     let race = "<p>" + matchup["title"] + "</p>";
     let candidates = "<p> <span class='blue'>" + dem.Candidate + " (D)</span> vs <span class='red'>" + rep.Candidate + " (R)</span> </p>";
     let projectionChart = createProjectionChart(matchup);
@@ -389,7 +400,7 @@ class MatchupOpenStates {
     constructor(contest, state) {
 
         let apiKey = "f38c7a52-293e-4313-aa69-b89b1253fd38";
-        let url = "openstates.org/api/v1/metadata/" + state + "&apikey=" + apiKey;
+        let url = "openstates.org/api/v1/metadata/" + state + "?apikey=" + apiKey;
 
         var xmlReq = new XMLHttpRequest();
         xmlReq.open( "GET", url, false ); // false for synchronous request
@@ -411,6 +422,7 @@ class MatchupOpenStates {
         this.district = contest.district;
     }
 }
+ 
 
 
 
