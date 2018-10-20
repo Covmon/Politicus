@@ -59,7 +59,7 @@ a:hover {
 
 .nav-links a {
     display: inline-block;
-    margin: 25px 0 0 3vw;
+    margin: 13px 0 0 3vw;
 }
 
 .nav-links {
@@ -70,9 +70,9 @@ a:hover {
 #nav-logo {
     display: inline-block;
     width: auto;
-    height: 40px;
+    height: 30px;
     margin-left: 10vw;
-    margin-top: 12.5px;
+    margin-top: 9px;
     transition-duration: 0.2s;
 }
 
@@ -86,7 +86,7 @@ a:hover {
 
 .nav {
     width: 100vw;
-    height: 65px;
+    height: 50px;
     background-color: rgba(254, 254, 254, 1);
     box-shadow: 0px 1px 1px rgba(30, 30, 30, 0.2);
     position: fixed;
@@ -101,7 +101,7 @@ a:hover {
 }
 
 .main-page {
-    margin-top: 115px;
+    margin-top: 80px;
     width: 85vw;
     margin-left: 7.5vw;
 }
@@ -111,17 +111,17 @@ a:hover {
 }
 
 .main-section {
-    margin-top: 30px;
+    margin-top: 20px;
     text-align: center;
 }
 
 .top-races {
-    margin-top: 50px;
+    margin-top: 40px;
     text-align: center;
 }
 
 .all-races {
-    margin-top: 50px;
+    margin-top: 40px;
     text-align: center;
 }
 
@@ -135,7 +135,7 @@ a:hover {
 }
 
 .prediction-card {
-    height: 280px;
+    height: 255px;
     width: 300px;
     border-radius: 10px;
     display: inline-block;
