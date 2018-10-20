@@ -353,7 +353,8 @@ function createTableRow(matchup) {
             language: {
                 searchPlaceholder: "State, race, or candidate",
                 info: "Showing _START_ to _END_ of _TOTAL_ races",
-                infoFiltered: " - filtered from _MAX_ total races"
+                infoFiltered: " - filtered from _MAX_ total races",
+                search: "Search:"
             }
         });
 

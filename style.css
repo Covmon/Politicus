@@ -89,7 +89,6 @@ a:hover {
     height: 50px;
     background-color: rgba(254, 254, 254, 1);
     box-shadow: 0px 1px 1px rgba(30, 30, 30, 0.2);
-    position: fixed;
     top: 0;
     transition-duration: 0.2s;
     -webkit-transition-duration: 0.2s;
@@ -101,12 +100,12 @@ a:hover {
 }
 
 .main-page {
-    margin-top: 80px;
+    margin-top: 40px;
     width: 85vw;
     margin-left: 7.5vw;
 }
 
-.main-page h1 {
+.header h1 {
     text-align: center;
 }
 
@@ -126,12 +125,33 @@ a:hover {
 }
 
 .predictions-links {
+    height: 44px;
+    margin-left: 0;
+    width: 100vw;
     text-align: center;
+    background-color: white;
 }
 
 .predictions-links a {
     display: inline-block;
     margin: 10px;
+}
+
+.predictions-nav-scrolled {
+    border-radius: 0 0 30px 30px;
+    width: 100vw;
+    box-shadow: 0px 3px 5px rgba(30, 30, 30, 0.4);
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+}
+
+.main-page-scrolled {
+    margin-top: 92px;
+}
+
+#predictions-nav-hr {
+    width: 80%;
 }
 
 .prediction-card {
