@@ -246,6 +246,10 @@ a:hover {
     color: #e4371d;
 }
 
+.yellow {
+    color: rgb(244, 193, 68);
+}
+
 .bold {
     font-weight: 900;
 }
@@ -257,6 +261,14 @@ a:hover {
 }
 
 .display-none {
+    display: none;
+}
+
+.pill-full {
+    border-radius: 18px 18px 18px 18px !important;
+}
+
+.pill-none {
     display: none;
 }
 
@@ -306,6 +318,14 @@ table .pill-left {
     border: 2px solid white;
     margin-right: -1px;
     vertical-align: top;
+}
+
+.pill-third-right {
+    border-radius: 0 18px 18px 0 !important;
+}
+
+.pill-third-left {
+    border-radius: 18px 0 0 18px !important;
 }
 
 table .pill-third {

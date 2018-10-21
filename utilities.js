@@ -1,20 +1,36 @@
-var data;
+
 
 $(document).ready(function() {
     console.log("JS Utilites Script Loaded");
-    let json = getJSON("iowa");
-    data = json.data;
-    console.log("All data loaded!");
+    
+    //getJSON("iowa");
+    //data = json.data;
 });
-
+/*
 function getJSON(path) {
+    
     let url = "/Politicus/predictions_data/" + path + ".json";
+    var success = false;
     $.getJSON(url, function(json) {
-        console.log("Got JSON from url " + url);
+        success = true;
+        console.log("Got JSON from local url " + url);
         console.log(json);
-        return json;
+        data = json.data;
+        document.dispatchEvent(dataLoadedEvent);
     });
-}
+
+    if (!success) {
+        console.log("Get JSON failed local url, trying online");
+        let urlOnline = "https://www.noahcovey.com" + url;
+        $.getJSON(urlOnline, function(json) {
+            success = true;
+            console.log("Got JSON from online url " + urlOnline);
+            console.log(json);
+            data = json.data;
+            document.dispatchEvent(dataLoadedEvent);
+        });
+    }
+}*/
 
 function arraysEqual(arr1, arr2) {
     if(arr1.length !== arr2.length)

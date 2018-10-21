@@ -1,7 +1,6 @@
 $(document).ready(function() {
-
     console.log("Starting JS Predictions-Legislatures Page");
-
+    
     var availableRaces = [];
     var lastRace = [];
 
@@ -15,11 +14,11 @@ $(document).ready(function() {
         }
     }
 
-    console.log(availableRaces);
+    //console.log(availableRaces);
 
     for (candidate of availableRaces) {
+        console.log(candidate.Position);
         if (candidate.Position == "State Representative") {
-            console.log("State Rep");
             let office = getLowerBodyName(candidate.State);
             let matchup = getMatchup(data, candidate.State, candidate.Position, candidate.District, office);
             createTableRow(matchup);
@@ -37,5 +36,4 @@ $(document).ready(function() {
 
     //timeout simulates time to get location and do voter info query
     //geolocationReturnedCoordinates(50); //getNearbyElections(); <-- change to this once geolocation working
-
 });
