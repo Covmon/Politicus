@@ -103,6 +103,7 @@ a:hover {
     margin-top: 40px;
     width: 85vw;
     margin-left: 7.5vw;
+    text-align: center;
 }
 
 .header h1 {
@@ -194,7 +195,7 @@ a:hover {
 }
 
 .solid-red, .solid-red h2 {
-    background-color: #fa573e;
+    background-color: #ff7661;
     color: #e4371d;
 }
 
@@ -442,6 +443,10 @@ input:focus {
 .button:hover {
     background-color: white;
 
+}
+
+#load-more-button {
+    margin-top: 30px;
 }
 
 .dataTables_info {

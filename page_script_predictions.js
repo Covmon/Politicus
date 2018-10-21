@@ -1,29 +1,26 @@
+var numLoaded = 9;
+var alreadyAdded = [];
+
 $(document).ready(function() {
     console.log("Starting JS Predictions Page");
     
-    let stateRep = "State Representative";
-    let usRep = "U.S. Representative";
-    /*
-    var iowa_91 = getMatchup(data, "IA", stateRep, "91", "House");
-    createCard(iowa_91, -1, ".top-races");
-
-    var iowa_1 = getMatchup(data, "IA", usRep, "1", usRep);
-    createCard(iowa_1, -1, ".top-races");*/
-
-    var iowa_55 = getMatchup(data, "IA", stateRep, "55", "House");
-    createCard(iowa_55, ".top-races");
-
-    var iowa_32 = getMatchup(data, "IA", stateRep, "32", "House");
-    createCard(iowa_32, ".top-races");
-    
-    var iowa_40 = getMatchup(data, "IA", stateRep, "40", "House");
-    createCard(iowa_40, ".top-races");
-
-    var iowa_80 = getMatchup(data, "IA", stateRep, "80", "House");
-    createCard(iowa_80, ".top-races");
+    alreadyAdded = getElections(["State Representative", "State Senator", "0", "U.S. Representative", "U.S. Senator"], 9, false, alreadyAdded, ".top-races");
 
     getNearbyElections();
+
+    $("#load-more-button").on("click", loadMore);
 
     //geolocationReturnedCoordinates(50);
 
 });
+
+function loadMore() {
+    console.log("LOAD MORE");
+    if (numLoaded < 30) {
+        numLoaded += 6;
+
+        //$(".top-races .prediction-card").remove();
+
+        getElections(["State Representative", "State Senator", "0", "U.S. Representative", "U.S. Senator"], 6, false, alreadyAdded, ".top-races");
+    }
+}

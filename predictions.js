@@ -7,12 +7,15 @@ $(document).ready(function() {
 });
 
 
-function getMatchup(allCandidates, state, position, district, officeName) {
+function getMatchup(allCandidates, state, position, district) {
     var matchup = {};
+    matchup["money"] = 100;
+    matchup["competetiveness"] = 1;
     for (candidate of allCandidates) {
         if (candidate.State == state && candidate.District == String(district) && candidate.Position == position) {
             var party = candidate.Party;
             matchup[party] = candidate;
+            matchup["money"] += candidate["Total Money"];
         }
     }
 
@@ -25,7 +28,6 @@ function getMatchup(allCandidates, state, position, district, officeName) {
             "Party": "DEM",
             "Predicted": 0
         }
-        //matchup["REP"].Predicted = 1;
     } else if (matchup["REP"] == null) {
         matchup["REP"] = {
             "State": state,
@@ -35,7 +37,8 @@ function getMatchup(allCandidates, state, position, district, officeName) {
             "Party": "REP",
             "Predicted": 0
         }
-        //matchup["DEM"].Predicted = 1;
+    } else {
+        matchup["competetiveness"] = Math.abs(matchup["DEM"].Predicted - matchup["REP"].Predicted);
     }
 
     //U.S. House, Georgia District 12
@@ -52,13 +55,20 @@ function getMatchup(allCandidates, state, position, district, officeName) {
             matchup["title"] = "U.S. Senate, " + stateName;
             break;
         case "State Representative":
+        let officeName = getLowerBodyName(state);
             matchup["title"] = stateName + " " + officeName + ", District " + district;
             break;
         case "State Senator":
-            matchup["title"] = stateName + " " + officeName + ", District " + district;
+            matchup["title"] = stateName + " Senate" + ", District " + district;
             break;
         case "Governor":
             matchup["title"] = stateName + " Governor";
+            break;
+        case "Secretary Of State":
+            matchup["title"] = stateName + " Secretary of State";
+            break;
+        case "Attorney General":
+            matchup["title"] = stateName + " Attorney General";
             break;
     }
 
@@ -182,8 +192,8 @@ function createProjectionChart(matchup) {
     };
     if (matchup.hasOwnProperty("LIB")) {
         third = matchup["LIB"];
-    } else if (matchup.hasOwnProperty("GREEN")) {
-        third = matchup["GREEN"];
+    } else if (matchup.hasOwnProperty("IND")) {
+        third = matchup["IND"];
     }
 
     var predictionDem = dem.Predicted;
@@ -360,7 +370,7 @@ function getNearbyMatchupsGoogle(civicAPIObject) {
     }
 
     for (contest of nearbyMatchups) {
-        var matchup = getMatchup(data, contest.state, contest.position, contest.district, contest.officeName);
+        var matchup = getMatchup(data, contest.state, contest.position, contest.district);
         if (!jQuery.isEmptyObject(matchup)) {
             console.log("Create card for local matchup");
             console.log(contest);
@@ -385,7 +395,6 @@ class MatchupGoogle {
             this.position = contest.office;
         }
         this.district = (contest.district.id != null) ? contest.district.id : "0";
-        this.officeName = contest.office;
     }
 }
 
@@ -399,8 +408,8 @@ function createTableRow(matchup) {
     };
     if (matchup.hasOwnProperty("LIB")) {
         third = matchup["LIB"];
-    } else if (matchup.hasOwnProperty("GREEN")) {
-        third = matchup["GREEN"];
+    } else if (matchup.hasOwnProperty("IND")) {
+        third = matchup["IND"];
     }
 
     var predictionDem = dem.Predicted;
