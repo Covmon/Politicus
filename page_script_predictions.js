@@ -4,7 +4,7 @@ $(document).ready(function() {
     let stateRep = "State Representative";
     let usRep = "U.S. Representative";
 
-    $.getJSON("/junky1.json", function(json) {
+    $.getJSON("Politicus/junky1.json", function(json) {
         console.log(json);
     });
 
