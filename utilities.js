@@ -1,13 +1,17 @@
-
+var data;
 
 $(document).ready(function() {
     console.log("JS Utilites Script Loaded");
     
-    //getJSON("iowa");
+    getJSON("iowa");
     //data = json.data;
 });
-/*
+
 function getJSON(path) {
+
+    $.ajaxSetup({
+        async: false
+    });
     
     let url = "/Politicus/predictions_data/" + path + ".json";
     var success = false;
@@ -16,7 +20,6 @@ function getJSON(path) {
         console.log("Got JSON from local url " + url);
         console.log(json);
         data = json.data;
-        document.dispatchEvent(dataLoadedEvent);
     });
 
     if (!success) {
@@ -27,10 +30,9 @@ function getJSON(path) {
             console.log("Got JSON from online url " + urlOnline);
             console.log(json);
             data = json.data;
-            document.dispatchEvent(dataLoadedEvent);
         });
     }
-}*/
+}
 
 function arraysEqual(arr1, arr2) {
     if(arr1.length !== arr2.length)

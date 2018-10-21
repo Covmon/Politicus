@@ -1,6 +1,8 @@
 $(document).ready(function() {
     console.log("Starting JS All");
 
+    $(".loading").remove();
+
     // When the user scrolls the page, execute myFunction
     window.onscroll = function() {scroll()};
 

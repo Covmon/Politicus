@@ -1,4 +1,4 @@
-var data = iowa.data;
+//var data = iowa.data;
 var numCards = 0;
 var hasTableBeenInitialized = false;
 
@@ -254,6 +254,8 @@ function getNearbyElections() {
 function getPositionError(err) {
     //console.warn("ERROR: " + err.code + ": " +  err.message);
 
+    $(".loading-location").remove();
+
     let errorP = $("<p />").text("Error getting your location. Enter your address below to view elections near you.");
     errorP.attr("id", "error-p");
     $(".main-section").append(errorP);
@@ -317,7 +319,14 @@ function geolocationReturnedCoordinates(coordinates) {
     let googleQuery = googleVoterQuery(address_normalized, 6000);
     //let openstatesQuery = openstatesVoterQuery(lat, lng);
 
-    getNearbyMatchupsGoogle(googleQuery);
+    if ("error" in googleQuery) {
+        $(".loading-location").remove();
+        getPositionError();
+    } else {
+        $(".loading-location").remove();
+        getNearbyMatchupsGoogle(googleQuery);
+
+    }
     //getNearbyMatchupsState(openstatesQuery);
 }
 
