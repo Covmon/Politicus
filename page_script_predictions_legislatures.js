@@ -5,7 +5,7 @@ $(document).ready(function() {
     var availableRaces = [];
     var lastRace = [];
 
-    for (candidate of candidateObjects) {
+    for (candidate of data) {
         let race = [candidate.State, candidate.Position, candidate.District];
         if (!arraysEqual(race, lastRace)) {
             console.log(race);
@@ -21,18 +21,18 @@ $(document).ready(function() {
         if (candidate.Position == "State Representative") {
             console.log("State Rep");
             let office = getLowerBodyName(candidate.State);
-            let matchup = getMatchup(candidateObjects, candidate.State, candidate.Position, candidate.District, office);
+            let matchup = getMatchup(data, candidate.State, candidate.Position, candidate.District, office);
             createTableRow(matchup);
         } else if (candidate.Position == "State Senator") {
-            let matchup = getMatchup(candidateObjects, candidate.State, candidate.Position, candidate.District, "Senate");
+            let matchup = getMatchup(data, candidate.State, candidate.Position, candidate.District, "Senate");
             createTableRow(matchup);
         }
     }
 
-    var iowa_91 = getMatchup(candidateObjects, "Iowa", "State Representative", "91", "House");
+    var iowa_91 = getMatchup(data, "IA", "State Representative", "91", "House");
     createCard(iowa_91);
 
-    var iowa_1 = getMatchup(candidateObjects, "Iowa", "U.S. Representative", "1", "U.S. Representative");
+    var iowa_1 = getMatchup(data, "IA", "U.S. Representative", "1", "U.S. Representative");
     createCard(iowa_1);
 
     //timeout simulates time to get location and do voter info query

@@ -1,4 +1,3 @@
-var candidateObjects = predictions_iowa.data;
 var numCards = 0;
 var hasTableBeenInitialized = false;
 
@@ -244,21 +243,21 @@ function geolocationReturnedCoordinates(coordinates) {
     let accessToken = "pk.eyJ1Ijoibm9haGNvdmV5IiwiYSI6ImNqbmZkMHJqZzZqZTAzcW4xbTR3djl6aGYifQ.hPSA1Bktf28eHwPcbQ9e4g";
 
     let url = "https://api.mapbox.com/geocoding/v5/mapbox.places/" + lng + "," + lat + ".json?access_token=" + accessToken;
-    console.log(url);
+    //console.log(url);
     
     var xmlHttp = new XMLHttpRequest();
     xmlHttp.open( "GET", url, false ); // false for synchronous request
     xmlHttp.send( null );
     var responseText = xmlHttp.responseText;
     var response = JSON.parse(responseText);
-    console.log(response);
+    //console.log(response);
 
     let address = response.features[0].place_name;
     let numbers = address.match(/\d+/);
     let firstNumbers = parseInt(numbers[0], 10);
     let index = address.indexOf(firstNumbers);
     let address_normalized = address.substring(index);
-    console.log(address_normalized);
+    //console.log(address_normalized);
 
     let googleQuery = googleVoterQuery(address_normalized, 6000);
     //let openstatesQuery = openstatesVoterQuery(lat, lng);
@@ -297,7 +296,7 @@ function getNearbyMatchupsGoogle(civicAPIObject) {
     }
 
     for (contest of nearbyMatchups) {
-        var matchup = getMatchup(candidateObjects, contest.state, contest.position, contest.district, contest.officeName);
+        var matchup = getMatchup(data, contest.state, contest.position, contest.district, contest.officeName);
         if (!jQuery.isEmptyObject(matchup)) {
             console.log("Create card for local matchup");
             console.log(contest);
@@ -309,7 +308,11 @@ function getNearbyMatchupsGoogle(civicAPIObject) {
 
 class MatchupGoogle {
     constructor(contest, state) {
-        this.state = convertStateName(state);
+        if (state.length > 2) {
+            this.state = convertStateName(state);
+        } else {
+            this.state = state;
+        }
         this.position = contest.office;
         this.district = (contest.district.id != null) ? contest.district.id : "";
         this.officeName = contest.office;
@@ -328,9 +331,9 @@ function createTableRow(matchup) {
     let percentDem = Number((predictionDem * 100).toFixed(1));
     let percentRep = Number((predictionRep * 100).toFixed(1));
 
-    let stateAbbrev = convertStateName(dem.State);
+    //let stateAbbrev = convertStateName(dem.State);
     
-    let state = "<p>" + stateAbbrev + "</p>";
+    let state = "<p>" + dem.State + "</p>";
     let race = "<p>" + matchup["title"] + "</p>";
     let candidates = "<p> <span class='blue'>" + dem.Candidate + " (D)</span> vs <span class='red'>" + rep.Candidate + " (R)</span> </p>";
     let projectionChart = createProjectionChart(matchup);
@@ -364,7 +367,7 @@ function createTableRow(matchup) {
     }
 }
 
-///
+/*
 
 function openstatesVoterQuery(latitude, longitude) {
     let apiKey = "f38c7a52-293e-4313-aa69-b89b1253fd38";
@@ -382,12 +385,13 @@ function openstatesVoterQuery(latitude, longitude) {
     return responseObject;
 }
 
+
 function getNearbyMatchupsState(openstatesObject) {
 
 
     for (contest of openstatesObject) {
         let matchupObj = new MatchupOpenStates(contest);
-        var matchup = getMatchup(candidateObjects, matchupObj.position, matchupObj.district, matchupObj.officeName);
+        var matchup = getMatchup(data, matchupObj.position, matchupObj.district, matchupObj.officeName);
         if (!jQuery.isEmptyObject(matchup)) {
             console.log("Create card for local matchup");
             console.log(matchup);
@@ -422,7 +426,7 @@ class MatchupOpenStates {
 
         this.district = contest.district;
     }
-}
+}*/
  
 
 

@@ -1,3 +1,21 @@
+var data;
+
+$(document).ready(function() {
+    console.log("JS Utilites Script Loaded");
+    let json = getJSON("iowa");
+    data = json.data;
+    console.log("All data loaded!");
+});
+
+function getJSON(path) {
+    let url = "/Politicus/predictions_data/" + path + ".json";
+    $.getJSON(url, function(json) {
+        console.log("Got JSON from url " + url);
+        console.log(json);
+        return json;
+    });
+}
+
 function arraysEqual(arr1, arr2) {
     if(arr1.length !== arr2.length)
         return false;
