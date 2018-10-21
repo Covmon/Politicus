@@ -3,26 +3,27 @@ $(document).ready(function() {
     
     let stateRep = "State Representative";
     let usRep = "U.S. Representative";
-
+    /*
     var iowa_91 = getMatchup(data, "IA", stateRep, "91", "House");
-    createCard(iowa_91);
+    createCard(iowa_91, -1, ".top-races");
 
     var iowa_1 = getMatchup(data, "IA", usRep, "1", usRep);
-    createCard(iowa_1);
+    createCard(iowa_1, -1, ".top-races");*/
 
     var iowa_55 = getMatchup(data, "IA", stateRep, "55", "House");
-    createCard(iowa_55, -1, ".top-races");
+    createCard(iowa_55, ".top-races");
 
     var iowa_32 = getMatchup(data, "IA", stateRep, "32", "House");
-    createCard(iowa_32, -1, ".top-races");
+    createCard(iowa_32, ".top-races");
     
     var iowa_40 = getMatchup(data, "IA", stateRep, "40", "House");
-    createCard(iowa_40, -1, ".top-races");
+    createCard(iowa_40, ".top-races");
 
     var iowa_80 = getMatchup(data, "IA", stateRep, "80", "House");
-    createCard(iowa_80, -1, ".top-races");
+    createCard(iowa_80, ".top-races");
 
-    //timeout simulates time to get location and do voter info query
-    geolocationReturnedCoordinates(50); //getNearbyElections(); <-- change to this once geolocation working
+    getNearbyElections();
+
+    //geolocationReturnedCoordinates(50);
 
 });

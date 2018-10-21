@@ -111,12 +111,9 @@ function evaluatePredictionDescription(predictionDem, predictionRep) {
     return description;
 }
 
-function createCard(matchup, cardNumber = -1, appendLocation = ".main-section") {
-    var actualCardNumber = cardNumber;
+function createCard(matchup, appendLocation = ".main-section") {
 
-    if (cardNumber == -1) {
-        actualCardNumber = numCards + 1;
-    }
+    actualCardNumber = numCards + 1;
 
     var dem = matchup["DEM"];
     var rep = matchup["REP"];
@@ -137,38 +134,14 @@ function createCard(matchup, cardNumber = -1, appendLocation = ".main-section") 
 
     let cardCreate = $('<div />', {
         "class": className,
-        "id": "card",
+        "id": cardID,
         click: function(e){
             e.preventDefault();
             //$("#card1").toggleClass("hidden");
             //$("#card1").children().toggle();
     }})
 
-
-    if (actualCardNumber <= numCards) {
-        console.log("Card being inserted before");
-        var previousID = "card" + (actualCardNumber - 1);
-        var thisID = "card" + actualCardNumber;
-        if (previousID == "card0") {
-            $("#" + thisID).before(cardCreate);
-        } else {
-            $("#" + previousID).after(cardCreate);
-        }
-
-        $(".prediction-card").each(function() {
-            let id = $(this).attr("id");
-            let num = parseInt(id.charAt(4), 10);
-            if (num >= actualCardNumber) {
-                let newID = "card" + (num + 1);
-                $(this).attr("id", newID);
-            }
-        })
-        $("#card").attr("id", "card" + actualCardNumber);
-
-    } else {
-        $(appendLocation).append(cardCreate);
-        $("#card").attr("id", "card" + actualCardNumber);
-    }
+    $(appendLocation).append(cardCreate);
     numCards++;
 
     //Add elements to card
@@ -275,11 +248,47 @@ function getNearbyElections() {
     // we start the request, to ask the position of the client
     // we will pass geolocationReturnedCoordinates as the success callback
     console.log("get user's location");
-    navigator.geolocation.getCurrentPosition(geolocationReturnedCoordinates, error, null);
+    navigator.geolocation.getCurrentPosition(geolocationReturnedCoordinates, getPositionError, null);
 }
 
-function error(err) {
-    console.warn("ERROR: " + err.code + ": " +  err.message);
+function getPositionError(err) {
+    //console.warn("ERROR: " + err.code + ": " +  err.message);
+
+    let errorP = $("<p />").text("Error getting your location. Enter your address below to view elections near you.");
+    errorP.attr("id", "error-p");
+    $(".main-section").append(errorP);
+
+    let input = "<input type='text' id='address-input' placeholder='Street, City, State, and Zip'></input>";
+    $(".main-section").append(input);
+
+    let submit = "<div id='submit-address-button' class='button'>Submit</div>";
+    $(".main-section").append(submit);
+    $("#submit-address-button").on("click", submitAddress);
+
+}
+
+function submitAddress() {
+    let address = $("#address-input").val();
+    console.log("Submit Address " + address);
+    if (address.length > 4) {
+        geolocationAddress(address);
+    }
+}
+
+function geolocationAddress(address) {
+    let googleQuery = googleVoterQuery(address, 6000);
+
+    if ("error" in googleQuery) {
+        $("#error-p").text("Error. Please enter a valid address.")
+        $("#error-p").addClass("red");
+    } else {
+        $("#error-p").remove();
+        $("#address-input").remove();
+        $("#submit-address-button").remove();
+        getNearbyMatchupsGoogle(googleQuery);
+
+    }
+
 }
 
 function geolocationReturnedCoordinates(coordinates) {
@@ -336,7 +345,7 @@ function getNearbyMatchupsGoogle(civicAPIObject) {
 
     for (contest of contests) {
         let matchup = new MatchupGoogle(contest, state);
-        if (matchup.position == "U.S. Representative" || matchup.position == "U.S. Senator" || matchup.position.substring(3) == "Governor" || matchup.position == "State Representative" || matchup.position == "State Senator") {
+        if (matchup.position == "U.S. Representative" || matchup.position == "U.S. Senator" || matchup.position == "Governor" || matchup.position == "State Representative" || matchup.position == "State Senator") {
             nearbyMatchups.push(matchup);
         }
     }
@@ -347,11 +356,12 @@ function getNearbyMatchupsGoogle(civicAPIObject) {
             console.log("Create card for local matchup");
             console.log(contest);
             console.log(matchup);
-            createCard(matchup, 1);
+            createCard(matchup);
         }
     }
 }
 
+//Configure the matchup from Google Civic API Voter Query
 class MatchupGoogle {
     constructor(contest, state) {
         if (state.length > 2) {
@@ -359,14 +369,18 @@ class MatchupGoogle {
         } else {
             this.state = state;
         }
-        this.position = contest.office;
+
+        if (contest.office.includes("Governor") && contest.office.length > 8) {
+            this.position = contest.office.substring(3);
+        } else {
+            this.position = contest.office;
+        }
         this.district = (contest.district.id != null) ? contest.district.id : "0";
         this.officeName = contest.office;
     }
 }
 
-///
-
+//Create a row in the table of all races
 function createTableRow(matchup) {
     let dem = matchup["DEM"];
     let rep = matchup["REP"];
@@ -507,7 +521,36 @@ class MatchupOpenStates {
 
         this.district = contest.district;
     }
-}*/
+}
+
+Deleted: reordering cards
+    /*
+    if (actualCardNumber <= numCards) {
+        console.log("Card being inserted before");
+        var previousID = "card" + (actualCardNumber - 1);
+        var thisID = "card" + actualCardNumber;
+        if (previousID == "card0") {
+            $("#" + thisID).before(cardCreate);
+        } else {
+            $("#" + previousID).after(cardCreate);
+        }
+
+        $(".prediction-card").each(function() {
+            let id = $(this).attr("id");
+            let num = parseInt(id.charAt(4), 10);
+            if (num >= actualCardNumber) {
+                let newID = "card" + (num + 1);
+                $(this).attr("id", newID);
+            }
+        })
+        $("#card").attr("id", "card" + actualCardNumber);
+
+    } else {
+        //$("#card").attr("id", "card" + actualCardNumber);
+    //}
+
+
+*/
  
 
 

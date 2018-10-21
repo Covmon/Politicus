@@ -28,11 +28,18 @@ $(document).ready(function() {
         }
     }
 
-    var iowa_91 = getMatchup(data, "IA", "State Representative", "91", "House");
+    let stateRep = "State Representative";
+    let usRep = "U.S. Representative";
+
+    var iowa_91 = getMatchup(data, "IA", stateRep, "91", "House");
     createCard(iowa_91);
 
-    var iowa_1 = getMatchup(data, "IA", "U.S. Representative", "1", "U.S. Representative");
-    createCard(iowa_1);
+    var iowa_40 = getMatchup(data, "IA", stateRep, "40", "House");
+    createCard(iowa_40);
+
+    var iowa_55 = getMatchup(data, "IA", stateRep, "55", "House");
+    createCard(iowa_55);
+
 
     //timeout simulates time to get location and do voter info query
     //geolocationReturnedCoordinates(50); //getNearbyElections(); <-- change to this once geolocation working

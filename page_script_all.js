@@ -7,6 +7,7 @@ $(document).ready(function() {
     // Get the nav
     var nav = document.getElementById("predictions-nav");
     var page = document.getElementById("main-page");
+    var hr = document.getElementById("predictions-nav-hr");
 
     // Get the offset position of the navbar
     var sticky = nav.offsetTop;
@@ -18,9 +19,11 @@ $(document).ready(function() {
             if (window.pageYOffset > sticky) {
                 nav.classList.add("predictions-nav-scrolled");
                 page.classList.add("main-page-scrolled");
+                hr.classList.add("hr-invisible");
             } else {
                 nav.classList.remove("predictions-nav-scrolled");
                 page.classList.remove("main-page-scrolled");
+                hr.classList.remove("hr-invisible");
             }
         }
 

@@ -125,6 +125,7 @@ a:hover {
 }
 
 .predictions-links {
+    transition-duration: 0.2s;
     height: 44px;
     margin-left: 0;
     width: 100vw;
@@ -151,7 +152,12 @@ a:hover {
 }
 
 #predictions-nav-hr {
+    transition-duration: 0.2s;
     width: 80%;
+}
+
+.hr-invisible {
+    opacity: 0;
 }
 
 .prediction-card {
@@ -173,7 +179,7 @@ a:hover {
 }
 
 .solid-blue, .solid-blue h2 {
-    background-color: #5e99f7;
+    background-color: #8fb8fa;
     color: #4483e7;
 }
 
@@ -383,7 +389,8 @@ label {
     height: 50px !important;
 }
 
-div.dataTables_filter input {
+input {
+    font-family: "Roboto", sans-serif;
     font-weight: normal !important;
     text-align: left !important;
     all:unset;
@@ -399,14 +406,42 @@ div.dataTables_filter input {
     transition-duration: 0.2s;
 }
 
-div.dataTables_filter input:hover {
+input:hover {
     background-color: rgb(240, 240, 240);
 }
 
-div.dataTables_filter input:focus {
+input:focus {
     background-color: rgb(240, 240, 240);
     border: 2px solid rgb(240, 240, 240);
     box-shadow: 0px 2px 2px rgba(160, 160, 160, 0.5);
+}
+
+#error-p {
+    padding-top: 30px;
+}
+
+#address-input {
+    width: 300px;
+    margin-right: 10px;
+    font-family: "Roboto", sans-serif !important;
+    padding: 10px !important;
+}
+
+.button {
+    font-family: "Roboto", sans-serif;
+    margin-left: 10px;
+    border-radius: 5px;
+    padding: 10.5px;
+    cursor: pointer;
+    display: inline-block;
+    background-color: rgb(240, 240, 240);
+    border: 2px solid rgb(240, 240, 240);
+    transition-duration: 0.2s;
+}
+
+.button:hover {
+    background-color: white;
+
 }
 
 .dataTables_info {
