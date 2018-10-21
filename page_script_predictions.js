@@ -4,6 +4,10 @@ $(document).ready(function() {
     let stateRep = "State Representative";
     let usRep = "U.S. Representative";
 
+    $.getJSON("https://noahcovey.com/Politicus/junky1.json", function(json) {
+        console.log(json);
+    });
+
     var iowa_91 = getMatchup(candidateObjects, "Iowa", stateRep, "91", "House");
     createCard(iowa_91);
 
