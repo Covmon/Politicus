@@ -138,12 +138,23 @@ function createCard(matchup, appendLocation = ".main-section") {
 
     var dem = matchup["DEM"];
     var rep = matchup["REP"];
+    let third = {
+        "Predicted":0,
+        "Candidate":""
+    };
+    if (matchup.hasOwnProperty("LIB")) {
+        third = matchup["LIB"];
+    } else if (matchup.hasOwnProperty("IND")) {
+        third = matchup["IND"];
+    }
 
     var predictionDem = dem.Predicted;
     var predictionRep = rep.Predicted;
+    var predictionThird = third.Predicted;
 
     var percentDem = Number((predictionDem * 100).toFixed(1));
     var percentRep = Number((predictionRep * 100).toFixed(1));
+    var percentThird = Number((predictionThird * 100).toFixed(1));
     
     var title = matchup["title"];
     var cardID = "card" + actualCardNumber;
@@ -175,8 +186,20 @@ function createCard(matchup, appendLocation = ".main-section") {
     let projectionDescriptionP = $("<h2 />").text(projectionDescription);
     card.append(projectionDescriptionP);
 
-    let candidatesP = $("<p />").html("<span class='blue'>" + dem.Candidate + " (D)</span> vs <span class='red'>" + rep.Candidate + " (R)</span>");
-    candidatesP.addClass("bold");
+    let candidatesP = "<p class='bold'><span class='blue'>" + dem.Candidate + " (D)</span> vs <span class='red'>" + rep.Candidate + " (R)</span></p>";
+    let probabilitiesP = "<p class='number' id='vote-share'> <span class='blue'>" + percentDem + "% (D)</span> vs <span class='red'>" + percentRep + "% (R)</span>";
+
+    if (percentThird > 4 && percentDem < 0.01) {
+        let partyThird = " (" + third.Party + ")";
+        candidatesP = "<p> <span class='yellow'>" + third.Candidate + partyThird + "</span> vs <span class='red'>" + rep.Candidate + " (R)</span> </p>";
+        probabilitiesP = "<p class='number' id='vote-share'> <span class='yellow'>" + percentThird + "%" + partyThird + "</span> vs <span class='red'>" + percentRep + "% (R)</span> </p>";
+    } else if (percentThird > 4 && percentRep < 0.01) {
+        let partyThird = " (" + third.Party + ")";
+        candidatesP = "<p> <span class='blue'>" + dem.Candidate + " (D)</span> vs <span class='yellow'>" + third.Candidate + partyThird + "</span> </p>";
+        probabilitiesP = "<p class='number' id='vote-share'> <span class='blue'>" + percentDem + "% (D)</span> vs <span class='yellow'>" + percentThird + "%" + partyThird + "</span> </p>";
+    
+    }
+
     card.append(candidatesP);
 
     let voteShareDescriptionP = $("<p />").text("Projected vote share:");
@@ -188,9 +211,6 @@ function createCard(matchup, appendLocation = ".main-section") {
     let probabilityDescriptionP = $("<p />").text("Win probabilities:");
     card.append(probabilityDescriptionP);    
 
-    let probabilitiesP = $("<p />").html("<span class='blue'>" + percentDem + "% (D)</span> vs <span class='red'>" + percentRep + "% (R)</span>");
-    probabilitiesP.addClass("number");
-    probabilitiesP.attr("id", "vote-share");
     card.append(probabilitiesP);
 
 }

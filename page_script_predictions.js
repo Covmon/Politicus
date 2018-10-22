@@ -6,8 +6,8 @@ $(document).ready(function() {
     
     alreadyAdded = getElections(["State Representative", "State Senator", "0", "U.S. Representative", "U.S. Senator"], 9, false, alreadyAdded, ".top-races");
 
-    //getNearbyElections();
-    getPositionError();
+    getNearbyElections();
+    //getPositionError();
 
     $("#load-more-button").on("click", loadMore);
 
