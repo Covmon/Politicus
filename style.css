@@ -459,6 +459,11 @@ input:focus {
     color: rgb(156, 156, 156) !important;
 }
 
+.dataTables_empty {
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+}
+
 .text {
     font-family: "Raleway";
     padding-top: 30px;
