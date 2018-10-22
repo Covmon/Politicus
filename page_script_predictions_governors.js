@@ -1,6 +1,6 @@
 $(document).ready(function() {
     console.log("Starting JS Predictions-Legislatures Page");
     
-    getElections(["State Representative", "State Senator"], 6, true);
+    getElections(["0"], 6, true);
 
 });

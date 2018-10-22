@@ -7,16 +7,23 @@ $(document).ready(function() {
 });
 
 
-function getMatchup(allCandidates, state, position, district, officeName) {
+function getMatchup(allCandidates, state, position, district) {
     var matchup = {};
+    matchup["money"] = 100;
+    matchup["competetiveness"] = 1;
     for (candidate of allCandidates) {
         if (candidate.State == state && candidate.District == String(district) && candidate.Position == position) {
             var party = candidate.Party;
             matchup[party] = candidate;
+            matchup["money"] += candidate["Total Money"];
         }
     }
 
-    if (matchup["DEM"] == null) {
+    var noElection = false;
+
+    if (Object.keys(matchup).length == 2) { //No election found in our data set (JSON file)
+        noElection = true;
+    } else if (matchup["DEM"] == null) {
         matchup["DEM"] = {
             "State": state,
             "Position": position,
@@ -25,7 +32,6 @@ function getMatchup(allCandidates, state, position, district, officeName) {
             "Party": "DEM",
             "Predicted": 0
         }
-        //matchup["REP"].Predicted = 1;
     } else if (matchup["REP"] == null) {
         matchup["REP"] = {
             "State": state,
@@ -35,7 +41,8 @@ function getMatchup(allCandidates, state, position, district, officeName) {
             "Party": "REP",
             "Predicted": 0
         }
-        //matchup["DEM"].Predicted = 1;
+    } else {
+        matchup["competetiveness"] = Math.abs(matchup["DEM"].Predicted - matchup["REP"].Predicted);
     }
 
     //U.S. House, Georgia District 12
@@ -52,14 +59,28 @@ function getMatchup(allCandidates, state, position, district, officeName) {
             matchup["title"] = "U.S. Senate, " + stateName;
             break;
         case "State Representative":
+        let officeName = getLowerBodyName(state);
             matchup["title"] = stateName + " " + officeName + ", District " + district;
             break;
         case "State Senator":
-            matchup["title"] = stateName + " " + officeName + ", District " + district;
+            matchup["title"] = stateName + " Senate" + ", District " + district;
             break;
         case "Governor":
             matchup["title"] = stateName + " Governor";
             break;
+        case "Secretary Of State":
+            matchup["title"] = stateName + " Secretary of State";
+            break;
+        case "Attorney General":
+            matchup["title"] = stateName + " Attorney General";
+            break;
+        case "Lieutenant Governor":
+            matchup["title"] = stateName + " Lieutenant Governor";
+            break;
+    }
+
+    if (noElection) {
+        matchup = {};
     }
 
     return matchup;
@@ -117,12 +138,23 @@ function createCard(matchup, appendLocation = ".main-section") {
 
     var dem = matchup["DEM"];
     var rep = matchup["REP"];
+    let third = {
+        "Predicted":0,
+        "Candidate":""
+    };
+    if (matchup.hasOwnProperty("LIB")) {
+        third = matchup["LIB"];
+    } else if (matchup.hasOwnProperty("IND")) {
+        third = matchup["IND"];
+    }
 
     var predictionDem = dem.Predicted;
     var predictionRep = rep.Predicted;
+    var predictionThird = third.Predicted;
 
     var percentDem = Number((predictionDem * 100).toFixed(1));
     var percentRep = Number((predictionRep * 100).toFixed(1));
+    var percentThird = Number((predictionThird * 100).toFixed(1));
     
     var title = matchup["title"];
     var cardID = "card" + actualCardNumber;
@@ -154,8 +186,20 @@ function createCard(matchup, appendLocation = ".main-section") {
     let projectionDescriptionP = $("<h2 />").text(projectionDescription);
     card.append(projectionDescriptionP);
 
-    let candidatesP = $("<p />").html("<span class='blue'>" + dem.Candidate + " (D)</span> vs <span class='red'>" + rep.Candidate + " (R)</span>");
-    candidatesP.addClass("bold");
+    let candidatesP = "<p class='bold'><span class='blue'>" + dem.Candidate + " (D)</span> vs <span class='red'>" + rep.Candidate + " (R)</span></p>";
+    let probabilitiesP = "<p class='number' id='vote-share'> <span class='blue'>" + percentDem + "% (D)</span> vs <span class='red'>" + percentRep + "% (R)</span>";
+
+    if (percentThird > 4 && percentDem < 0.01) {
+        let partyThird = " (" + third.Party + ")";
+        candidatesP = "<p> <span class='yellow'>" + third.Candidate + partyThird + "</span> vs <span class='red'>" + rep.Candidate + " (R)</span> </p>";
+        probabilitiesP = "<p class='number' id='vote-share'> <span class='yellow'>" + percentThird + "%" + partyThird + "</span> vs <span class='red'>" + percentRep + "% (R)</span> </p>";
+    } else if (percentThird > 4 && percentRep < 0.01) {
+        let partyThird = " (" + third.Party + ")";
+        candidatesP = "<p> <span class='blue'>" + dem.Candidate + " (D)</span> vs <span class='yellow'>" + third.Candidate + partyThird + "</span> </p>";
+        probabilitiesP = "<p class='number' id='vote-share'> <span class='blue'>" + percentDem + "% (D)</span> vs <span class='yellow'>" + percentThird + "%" + partyThird + "</span> </p>";
+    
+    }
+
     card.append(candidatesP);
 
     let voteShareDescriptionP = $("<p />").text("Projected vote share:");
@@ -167,9 +211,6 @@ function createCard(matchup, appendLocation = ".main-section") {
     let probabilityDescriptionP = $("<p />").text("Win probabilities:");
     card.append(probabilityDescriptionP);    
 
-    let probabilitiesP = $("<p />").html("<span class='blue'>" + percentDem + "% (D)</span> vs <span class='red'>" + percentRep + "% (R)</span>");
-    probabilitiesP.addClass("number");
-    probabilitiesP.attr("id", "vote-share");
     card.append(probabilitiesP);
 
 }
@@ -182,8 +223,8 @@ function createProjectionChart(matchup) {
     };
     if (matchup.hasOwnProperty("LIB")) {
         third = matchup["LIB"];
-    } else if (matchup.hasOwnProperty("GREEN")) {
-        third = matchup["GREEN"];
+    } else if (matchup.hasOwnProperty("IND")) {
+        third = matchup["IND"];
     }
 
     var predictionDem = dem.Predicted;
@@ -256,8 +297,7 @@ function getPositionError(err) {
 
     $(".loading-location").remove();
 
-    let errorP = $("<p />").text("Error getting your location. Enter your address below to view elections near you.");
-    errorP.attr("id", "error-p");
+    let errorP = "<p id='error-p'>Error getting your location. Enter your address below to view elections near you.</p>";
     $(".main-section").append(errorP);
 
     let input = "<input type='text' id='address-input' placeholder='Street, City, State, and Zip'></input>";
@@ -272,9 +312,7 @@ function getPositionError(err) {
 function submitAddress() {
     let address = $("#address-input").val();
     console.log("Submit Address " + address);
-    if (address.length > 4) {
-        geolocationAddress(address);
-    }
+    geolocationAddress(address);
 }
 
 function geolocationAddress(address) {
@@ -347,20 +385,29 @@ function googleVoterQuery(address, electionId) {
 }
 
 function getNearbyMatchupsGoogle(civicAPIObject) {
+    let applicablePositions = ["U.S. Representative", "U.S. Senator", "Governor", "Secretary Of State", "Attorney General", "Lieutenant Governor", "State Representative", "State Senator"];
+
     let contests = civicAPIObject.contests;
     let state = civicAPIObject.normalizedInput.state;
 
     var nearbyMatchups = [];
 
     for (contest of contests) {
-        let matchup = new MatchupGoogle(contest, state);
-        if (matchup.position == "U.S. Representative" || matchup.position == "U.S. Senator" || matchup.position == "Governor" || matchup.position == "State Representative" || matchup.position == "State Senator") {
+        var matchup;
+        if (contest.type != "Referendum") {
+            matchup = new MatchupGoogle(contest, state);
+        }
+        if (applicablePositions.includes(matchup.position)) {
             nearbyMatchups.push(matchup);
         }
     }
 
     for (contest of nearbyMatchups) {
-        var matchup = getMatchup(data, contest.state, contest.position, contest.district, contest.officeName);
+        if (contest.Position == "Lieutenant Governor") {
+            console.log("lg");
+            console.log(contest);
+        }
+        var matchup = getMatchup(data, contest.state, contest.position, contest.district);
         if (!jQuery.isEmptyObject(matchup)) {
             console.log("Create card for local matchup");
             console.log(contest);
@@ -379,13 +426,14 @@ class MatchupGoogle {
             this.state = state;
         }
 
-        if (contest.office.includes("Governor") && contest.office.length > 8) {
+        if ((contest.office.includes("Governor") || contest.office.includes("Attorney General") || contest.office.includes("Lieutenant Governor")) && contest.office.length > 8) {
             this.position = contest.office.substring(3);
+        } else if (contest.office.includes("Secretary of State")) {
+            this.position = "Secretary Of State";
         } else {
             this.position = contest.office;
         }
         this.district = (contest.district.id != null) ? contest.district.id : "0";
-        this.officeName = contest.office;
     }
 }
 
@@ -399,8 +447,8 @@ function createTableRow(matchup) {
     };
     if (matchup.hasOwnProperty("LIB")) {
         third = matchup["LIB"];
-    } else if (matchup.hasOwnProperty("GREEN")) {
-        third = matchup["GREEN"];
+    } else if (matchup.hasOwnProperty("IND")) {
+        third = matchup["IND"];
     }
 
     var predictionDem = dem.Predicted;
@@ -451,7 +499,7 @@ function createTableRow(matchup) {
             paging: false,
             ordering: true,
             language: {
-                searchPlaceholder: "State, race, or candidate",
+                searchPlaceholder: "State, position, or candidate",
                 info: "Showing _START_ to _END_ of _TOTAL_ races",
                 infoFiltered: " - filtered from _MAX_ total races",
                 search: "Search:"
