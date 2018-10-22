@@ -19,7 +19,11 @@ function getMatchup(allCandidates, state, position, district) {
         }
     }
 
-    if (matchup["DEM"] == null) {
+    var noElection = false;
+
+    if (Object.keys(matchup).length == 2) { //No election found in our data set (JSON file)
+        noElection = true;
+    } else if (matchup["DEM"] == null) {
         matchup["DEM"] = {
             "State": state,
             "Position": position,
@@ -70,6 +74,13 @@ function getMatchup(allCandidates, state, position, district) {
         case "Attorney General":
             matchup["title"] = stateName + " Attorney General";
             break;
+        case "Lieutenant Governor":
+            matchup["title"] = stateName + " Lieutenant Governor";
+            break;
+    }
+
+    if (noElection) {
+        matchup = {};
     }
 
     return matchup;
@@ -266,8 +277,7 @@ function getPositionError(err) {
 
     $(".loading-location").remove();
 
-    let errorP = $("<p />").text("Error getting your location. Enter your address below to view elections near you.");
-    errorP.attr("id", "error-p");
+    let errorP = "<p id='error-p'>Error getting your location. Enter your address below to view elections near you.</p>";
     $(".main-section").append(errorP);
 
     let input = "<input type='text' id='address-input' placeholder='Street, City, State, and Zip'></input>";
@@ -282,9 +292,7 @@ function getPositionError(err) {
 function submitAddress() {
     let address = $("#address-input").val();
     console.log("Submit Address " + address);
-    if (address.length > 4) {
-        geolocationAddress(address);
-    }
+    geolocationAddress(address);
 }
 
 function geolocationAddress(address) {
@@ -357,19 +365,28 @@ function googleVoterQuery(address, electionId) {
 }
 
 function getNearbyMatchupsGoogle(civicAPIObject) {
+    let applicablePositions = ["U.S. Representative", "U.S. Senator", "Governor", "Secretary Of State", "Attorney General", "Lieutenant Governor", "State Representative", "State Senator"];
+
     let contests = civicAPIObject.contests;
     let state = civicAPIObject.normalizedInput.state;
 
     var nearbyMatchups = [];
 
     for (contest of contests) {
-        let matchup = new MatchupGoogle(contest, state);
-        if (matchup.position == "U.S. Representative" || matchup.position == "U.S. Senator" || matchup.position == "Governor" || matchup.position == "State Representative" || matchup.position == "State Senator") {
+        var matchup;
+        if (contest.type != "Referendum") {
+            matchup = new MatchupGoogle(contest, state);
+        }
+        if (applicablePositions.includes(matchup.position)) {
             nearbyMatchups.push(matchup);
         }
     }
 
     for (contest of nearbyMatchups) {
+        if (contest.Position == "Lieutenant Governor") {
+            console.log("lg");
+            console.log(contest);
+        }
         var matchup = getMatchup(data, contest.state, contest.position, contest.district);
         if (!jQuery.isEmptyObject(matchup)) {
             console.log("Create card for local matchup");
@@ -389,8 +406,10 @@ class MatchupGoogle {
             this.state = state;
         }
 
-        if (contest.office.includes("Governor") && contest.office.length > 8) {
+        if ((contest.office.includes("Governor") || contest.office.includes("Attorney General") || contest.office.includes("Lieutenant Governor")) && contest.office.length > 8) {
             this.position = contest.office.substring(3);
+        } else if (contest.office.includes("Secretary of State")) {
+            this.position = "Secretary Of State";
         } else {
             this.position = contest.office;
         }

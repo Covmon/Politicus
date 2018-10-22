@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Oswald|Roboto+Mono:300,400|Roboto');
+@import url('https://fonts.googleapis.com/css?family=Oswald|Roboto+Mono:300,400|Roboto|Raleway');
 
 body {
     margin: 0;
@@ -457,6 +457,25 @@ input:focus {
     font-family: "Roboto", sans-serif;
     font-size: 14px;
     color: rgb(156, 156, 156) !important;
+}
+
+.text {
+    font-family: "Raleway";
+    padding-top: 30px;
+}
+
+.text p {
+    padding: 10px;
+    text-align: left !important;
+}
+
+.text a {
+    color: rgb(114, 90, 202);
+    text-decoration: none;
+}
+
+.text a:hover {
+    background-color: rgb(240, 240, 240)
 }
 
 
