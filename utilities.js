@@ -68,8 +68,6 @@ function getElections(positions, numTopElections, createTable, alreadyAdded = []
         }
     }
 
-    //console.log(availableRaces);
-
     var topRaces = [];
 
     for (candidate of availableRaces) {
@@ -106,6 +104,16 @@ function getElections(positions, numTopElections, createTable, alreadyAdded = []
         }
     }
 
+    if (topRaces.length == 0) {
+        let errorP = $("<p />").text("Sorry, no races for this election type are available.");
+        errorP.attr("id", "error-p");
+        $(".main-section").append(errorP);
+
+        $("#all-races-table").DataTable({
+            paging: false
+        });
+    }
+
     topRaces.sort(function(a,b) {
         if (a["money"] > b["money"]) {
             return -1;
@@ -118,8 +126,6 @@ function getElections(positions, numTopElections, createTable, alreadyAdded = []
 
     for (var i=0; i<topRaces.length; i++) {
         race = topRaces[i];
-        console.log(race.title);
-        console.log(race.money);
         createCard(race, appendLocation);
     }
 
@@ -147,30 +153,22 @@ function getTopElections(racesList, matchup, numRaces, alreadyAdded = []) {
         for (race of alreadyAdded) {
             if (matchupsEqual(race, matchup)) {
                 console.log("Already added");
+                console.log(matchup);
                 alreadyIncluded = true;
             }
         }
     }
 
-    var secState = false
-
-    if (matchup["DEM"].Position == "Secretary Of State") {
-        secState = true;
-    }
-
     if (racesList.length < numRaces) {
         if (competetiveness < 0.4 && !alreadyIncluded) {
-            if (secState) {
-                console.log("Add race " + matchup["title"] + " with fundraiasing " + fundraising + " and competetivness " + competetiveness);
-            }
             racesList.push(matchup);
         }
     } else {
         for (var i=0; i<racesList.length; i++) {
             let race = racesList[i];
             if (race["money"] < fundraising && competetiveness < 0.4 && !alreadyIncluded) {
-                console.log("Add race " + matchup["title"] + " with fundraiasing " + fundraising + " and competetivness " + competetiveness);
-                console.log("Remove race " + race["title"] + " with fundraiasing " + race["money"] + " and competetivness " + race["competetiveness"]);
+                //console.log("Add race " + matchup["title"] + " with fundraiasing " + fundraising + " and competetivness " + competetiveness);
+                //console.log("Remove race " + race["title"] + " with fundraiasing " + race["money"] + " and competetivness " + race["competetiveness"]);
                 racesList.splice(i, 1);
                 racesList.push(matchup);
                 break;

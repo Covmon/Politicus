@@ -10,8 +10,6 @@ $(document).ready(function() {
 
     $("#load-more-button").on("click", loadMore);
 
-    //geolocationReturnedCoordinates(50);
-
 });
 
 function loadMore() {
@@ -19,8 +17,7 @@ function loadMore() {
     if (numLoaded < 30) {
         numLoaded += 6;
 
-        //$(".top-races .prediction-card").remove();
-
-        getElections(["State Representative", "State Senator", "0", "U.S. Representative", "U.S. Senator"], 6, false, alreadyAdded, ".top-races");
+        let newlyAdded = getElections(["State Representative", "State Senator", "0", "U.S. Representative", "U.S. Senator"], 6, false, alreadyAdded, ".top-races");
+        alreadyAdded = alreadyAdded.concat(newlyAdded);
     }
 }
