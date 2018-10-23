@@ -20,6 +20,14 @@ def writeCSV(file, s, y):
     url = "https://api.followthemoney.org/?dt=1&s=" + s + "&gro=c-t-id&y=" + y + "&APIKey=03c9486f133f22f6eb5638f0b2265782&mode=json"
     data = getJSONFromURL(url)
 
+    statusName = "Election_Status"
+    candidateName = "Candidate"
+
+    if y == "2018":
+        statusName = "Status_of_Candidate"
+        url = "https://api.followthemoney.org/?dt=1&s=" + s + "&gro=c-t-pt,c-t-eid,c-r-id,c-t-sts,c-t-ico&y=" + y + "&APIKey=03c9486f133f22f6eb5638f0b2265782&mode=json"
+        candidateName = "Career_Summary"
+
     pages = data["metaInfo"]["paging"]["totalPages"]
 
     writer = csv.writer(file)
@@ -38,8 +46,8 @@ def writeCSV(file, s, y):
             state = record["Election_Jurisdiction"]["Election_Jurisdiction"]
             office = record["Office_Sought"]["Office_Sought"]
             party = record["Specific_Party"]["Specific_Party"]
-            name = record["Candidate"]["Candidate"]
-            status = record["Election_Status"]["Election_Status"]
+            name = record[candidateName][candidateName]
+            status = record[statusName][statusName]
             incumbency = record["Incumbency_Status"]["Incumbency_Status"]
             totalMoney = record["Total_$"]["Total_$"]
 
