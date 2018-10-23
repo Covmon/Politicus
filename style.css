@@ -195,22 +195,22 @@ a:hover {
 }
 
 .solid-red, .solid-red h2 {
-    background-color: #ff7661;
+    background-color: #fd8371;
     color: #e4371d;
 }
 
 .likely-red, .likely-red h2{
-    background-color: #f79688;
+    background-color: #faa497;
     color: #e4371d;
 }
 
 .lean-red, .lean-red h2 {
-    background-color: #f8b5aa;
+    background-color: #fac1b8;
     color: #e4371d;
 }
 
 .purple, .purple h2 {
-    background-color: #d9b4f8;
+    background-color: #e1c1fc;
     color: #a145ec;
 
 }

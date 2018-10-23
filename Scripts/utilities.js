@@ -96,6 +96,7 @@ function getElections(positions, numTopElections, createTable, alreadyAdded = []
                 createTableRow(matchup);
             }
         } else if (candidate.District == "0" && positions.includes("0") && candidate.Position != "U.S. Senator") { //Governor, Lt. Governor, Sec. of State, etc.
+            console.log(candidate.Position);
             let matchup = getMatchup(data, candidate.State, candidate.Position, candidate.District);
             getTopElections(topRaces, matchup, numTopElections, alreadyAdded);
             if (createTable) {

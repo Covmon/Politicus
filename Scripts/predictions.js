@@ -8,6 +8,7 @@ $(document).ready(function() {
 
 
 function getMatchup(allCandidates, state, position, district) {
+    console.log("get matchup");
     var matchup = {};
     matchup["money"] = 100;
     matchup["competetiveness"] = 1;
@@ -30,7 +31,8 @@ function getMatchup(allCandidates, state, position, district) {
             "District": district,
             "Candidate": "Uncontested",
             "Party": "DEM",
-            "Predicted": 0
+            "Predicted Vote Share": 0,
+            "Predicted Win Probability": "0%"
         }
     } else if (matchup["REP"] == null) {
         matchup["REP"] = {
@@ -39,10 +41,11 @@ function getMatchup(allCandidates, state, position, district) {
             "District": district,
             "Candidate": "Uncontested",
             "Party": "REP",
-            "Predicted": 0
+            "Predicted Vote Share": 0,
+            "Predicted Win Probability": "0%"
         }
     } else {
-        matchup["competetiveness"] = Math.abs(matchup["DEM"].Predicted - matchup["REP"].Predicted);
+        matchup["competetiveness"] = Math.abs(matchup["DEM"]["Predicted Vote Share"] - matchup["REP"]["Predicted Vote Share"]);
     }
 
     //U.S. House, Georgia District 12
@@ -139,7 +142,8 @@ function createCard(matchup, appendLocation = ".main-section") {
     var dem = matchup["DEM"];
     var rep = matchup["REP"];
     let third = {
-        "Predicted":0,
+        "Predicted Vote Share":0,
+        "Predicted Win Probability": "0%",
         "Candidate":""
     };
     if (matchup.hasOwnProperty("LIB")) {
@@ -148,13 +152,17 @@ function createCard(matchup, appendLocation = ".main-section") {
         third = matchup["IND"];
     }
 
-    var predictionDem = dem.Predicted;
-    var predictionRep = rep.Predicted;
-    var predictionThird = third.Predicted;
+    var predictionDem = dem["Predicted Vote Share"];
+    var predictionRep = rep["Predicted Vote Share"];
+    var predictionThird = third["Predicted Vote Share"];
 
     var percentDem = Number((predictionDem * 100).toFixed(1));
     var percentRep = Number((predictionRep * 100).toFixed(1));
     var percentThird = Number((predictionThird * 100).toFixed(1));
+
+    var probabilityDem = dem["Predicted Win Probability"] + "%";
+    var probabilityRep = rep["Predicted Win Probability"] + "%";
+    var probabilityThird = third["Predicted Win Probability"] + "%";
     
     var title = matchup["title"];
     var cardID = "card" + actualCardNumber;
@@ -187,16 +195,16 @@ function createCard(matchup, appendLocation = ".main-section") {
     card.append(projectionDescriptionP);
 
     let candidatesP = "<p class='bold'><span class='blue'>" + dem.Candidate + " (D)</span> vs <span class='red'>" + rep.Candidate + " (R)</span></p>";
-    let probabilitiesP = "<p class='number' id='vote-share'> <span class='blue'>" + percentDem + "% (D)</span> vs <span class='red'>" + percentRep + "% (R)</span>";
+    let probabilitiesP = "<p class='number' id='vote-share'> <span class='blue'>" + probabilityDem + " (D)</span> vs <span class='red'>" + probabilityRep + " (R)</span>";
 
     if (percentThird > 4 && percentDem < 0.01) {
         let partyThird = " (" + third.Party + ")";
         candidatesP = "<p> <span class='yellow'>" + third.Candidate + partyThird + "</span> vs <span class='red'>" + rep.Candidate + " (R)</span> </p>";
-        probabilitiesP = "<p class='number' id='vote-share'> <span class='yellow'>" + percentThird + "%" + partyThird + "</span> vs <span class='red'>" + percentRep + "% (R)</span> </p>";
+        probabilitiesP = "<p class='number' id='vote-share'> <span class='yellow'>" + probabilityThird + " " + partyThird + "</span> vs <span class='red'>" + probabilityRep + " (R)</span> </p>";
     } else if (percentThird > 4 && percentRep < 0.01) {
         let partyThird = " (" + third.Party + ")";
         candidatesP = "<p> <span class='blue'>" + dem.Candidate + " (D)</span> vs <span class='yellow'>" + third.Candidate + partyThird + "</span> </p>";
-        probabilitiesP = "<p class='number' id='vote-share'> <span class='blue'>" + percentDem + "% (D)</span> vs <span class='yellow'>" + percentThird + "%" + partyThird + "</span> </p>";
+        probabilitiesP = "<p class='number' id='vote-share'> <span class='blue'>" + probabilityDem + " (D)</span> vs <span class='yellow'>" + probabilityThird + " " + partyThird + "</span> </p>";
     
     }
 
@@ -219,7 +227,7 @@ function createProjectionChart(matchup) {
     var dem = matchup["DEM"];
     var rep = matchup["REP"];
     var third = {
-        "Predicted": 0
+        "Predicted Vote Share": 0,
     };
     if (matchup.hasOwnProperty("LIB")) {
         third = matchup["LIB"];
@@ -227,9 +235,9 @@ function createProjectionChart(matchup) {
         third = matchup["IND"];
     }
 
-    var predictionDem = dem.Predicted;
-    var predictionRep = rep.Predicted;
-    var predictionThird = third.Predicted;
+    var predictionDem = dem["Predicted Vote Share"];
+    var predictionRep = rep["Predicted Vote Share"];
+    var predictionThird = third["Predicted Vote Share"];
 
     var percentDem = Number((predictionDem * 100).toFixed(1));
     var percentRep = Number((predictionRep * 100).toFixed(1));
@@ -442,7 +450,8 @@ function createTableRow(matchup) {
     let dem = matchup["DEM"];
     let rep = matchup["REP"];
     let third = {
-        "Predicted":0,
+        "Predicted Vote Share":0,
+        "Predicted Win Probability": "0",
         "Candidate":""
     };
     if (matchup.hasOwnProperty("LIB")) {
@@ -451,9 +460,13 @@ function createTableRow(matchup) {
         third = matchup["IND"];
     }
 
-    var predictionDem = dem.Predicted;
-    var predictionRep = rep.Predicted;
-    var predictionThird = third.Predicted;
+    var predictionDem = dem["Predicted Vote Share"];
+    var predictionRep = rep["Predicted Vote Share"];
+    var predictionThird = third["Predicted Vote Share"];
+
+    var probabilityDem = dem["Predicted Win Probability"] + "%";
+    var probabilityRep = rep["Predicted Win Probability"] + "%";
+    var probabilityThird = third["Predicted Win Probability"] + "%";
 
     var s = dem.State;
     var candidateDem = dem.Candidate;
@@ -463,24 +476,22 @@ function createTableRow(matchup) {
     let percentDem = Number((predictionDem * 100).toFixed(1));
     let percentRep = Number((predictionRep * 100).toFixed(1));
     let percentThird = Number((predictionThird * 100).toFixed(1));
-
-    //let stateAbbrev = convertStateName(dem.State);
     
     let state = "<p>" + s + "</p>";
     let race = "<p>" + matchup["title"] + "</p>";
     var candidates = "<p> <span class='blue'>" + candidateDem + " (D)</span> vs <span class='red'>" + candidateRep + " (R)</span> </p>";
     let projectionChart = createProjectionChart(matchup);
-    var probabilities = "<p class='number'> <span class='blue'>" + percentDem + "% (D)</span> vs <span class='red'>" + percentRep + "% (R)</span> </p>";
+    var probabilities = "<p class='number'> <span class='blue'>" + probabilityDem + " (D)</span> vs <span class='red'>" + probabilityRep + " (R)</span> </p>";
 
     if (percentThird > 4 && percentDem < 0.01) {
         let partyThird = " (" + third.Party + ")";
         candiates = "<p> <span class='yellow'>" + candidateThird + partyThird + "</span> vs <span class='red'>" + candidateRep + " (R)</span> </p>";
-        probabilities = "<p class='number'> <span class='yellow'>" + percentThird + "%" + partyThird + "</span> vs <span class='red'>" + percentRep + "% (R)</span> </p>";
+        probabilities = "<p class='number'> <span class='yellow'>" + probabilityThird + " " + partyThird + "</span> vs <span class='red'>" + probabilityRep + " (R)</span> </p>";
 
     } else if (percentThird > 4 && percentRep < 0.01) {
         let partyThird = " (" + third.Party + ")";
         candidates = "<p> <span class='blue'>" + candidateDem + " (D)</span> vs <span class='yellow'>" + candidateThird + partyThird + "</span> </p>";
-        probabilities = "<p class='number'> <span class='blue'>" + percentDem + "% (D)</span> vs <span class='yellow'>" + percentThird + "%" + partyThird + "</span> </p>";
+        probabilities = "<p class='number'> <span class='blue'>" + probabilityDem + " (D)</span> vs <span class='yellow'>" + probabilityThird + " " + partyThird + "</span> </p>";
     
     }
 
