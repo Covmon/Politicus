@@ -513,7 +513,8 @@ function createTableRow(matchup) {
                 searchPlaceholder: "State, position, or candidate",
                 info: "Showing _START_ to _END_ of _TOTAL_ races",
                 infoFiltered: " - filtered from _MAX_ total races",
-                search: "Search:"
+                search: "Search:",
+                emptyTable:  "No races found"
             },
             columns: [
                 null,

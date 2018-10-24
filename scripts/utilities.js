@@ -2,8 +2,22 @@ var data;
 
 $(document).ready(function() {
     console.log("JS Utilites Script Loaded");
-    
-    getJSON("IA_Election_Predictions");
+
+    var state = "All";
+
+    if (sessionStorage.length != 0) {
+        state = sessionStorage.getItem("state");
+        $("#select-state").val(state);
+    }
+    console.log("Current state: " + state);
+
+    if (state == "All") {
+        console.log("Get JSON for all states");
+        getJSON("IA_Candidates_Election_Predictions");
+    } else {
+        let fileName = state + "_Candidates_Election_Predictions";
+        getJSON(fileName);
+    }
     //data = json.data;
 });
 
@@ -106,12 +120,18 @@ function getElections(positions, numTopElections, createTable, alreadyAdded = []
     }
 
     if (topRaces.length == 0) {
-        let errorP = $("<p />").text("Sorry, no races for this election type are available.");
+        let errorP = $("<p />").text("Sorry, no races for the selected state and election type are available.");
         errorP.attr("id", "error-p");
         $(".main-section").append(errorP);
 
         $("#all-races-table").DataTable({
-            paging: false
+            paging: false,
+            language: {
+                searchPlaceholder: "State, position, or candidate",
+                search: "Search:",
+                emptyTable:  "No races found",
+                infoEmpty: "Showing 0 to 0 of 0 races"
+            }
         });
     }
 

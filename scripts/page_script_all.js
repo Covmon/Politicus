@@ -3,6 +3,18 @@ $(document).ready(function() {
 
     $(".loading").remove();
 
+    $("#select-state").change(function() {
+        sessionStorage.setItem("state", $(this).val());
+        location.reload();
+    });
+
+    $("#reset-link").click(function() {
+        sessionStorage.setItem("state", "All");
+        location.reload();
+    });
+
+    
+
     // When the user scrolls the page, execute myFunction
     window.onscroll = function() {scroll()};
 
