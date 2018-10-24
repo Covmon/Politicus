@@ -14,7 +14,9 @@ $(document).ready(function() {
     if (state == "All") {
         console.log("Get JSON for all states");
         getJSON("IA_Candidates_Election_Predictions");
+        $("#reset-link").css({"color": "gray"})
     } else {
+        console.log("Get JSON for state " + state);
         let fileName = state + "_Candidates_Election_Predictions";
         getJSON(fileName);
     }
@@ -38,7 +40,6 @@ function getJSON(path) {
     });
 
     if (!success) {
-        console.log("Get JSON failed local url, trying online");
         let urlOnline = "https://www.noahcovey.com" + url;
         $.getJSON(urlOnline, function(json) {
             success = true;
