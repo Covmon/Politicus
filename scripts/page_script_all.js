@@ -31,23 +31,25 @@ $(document).ready(function() {
     });
 
     let gitURL = "https://api.github.com/repos/Covmon/Politicus/commits"
-    $.getJSON(gitURL, function(json) {
-        let commit = json[0];
-        let dateData = commit.commit.author.date;
+    if (!window.location.href.includes("index")) {
+        $.getJSON(gitURL, function(json) {
+            let commit = json[0];
+            let dateData = commit.commit.author.date;
 
-        let dateObj = new Date(Date.parse(dateData));
+            let dateObj = new Date(Date.parse(dateData));
 
-        let month = dateObj.getMonth() + 1;
-        let date = dateObj.getDate();
-        let year = dateObj.getFullYear();
-        let time = dateObj.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
+            let month = dateObj.getMonth() + 1;
+            let date = dateObj.getDate();
+            let year = dateObj.getFullYear();
+            let time = dateObj.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
 
-        let dateString = "Last updated " + month + "/" + date + "/" + year + " at " + time; 
-    
-        let html = '<p id="updated" class="number">' + dateString + '</p>';
-        $(".header").after(html);
+            let dateString = "Last updated " + month + "/" + date + "/" + year + " at " + time; 
+        
+            let html = '<p id="updated" class="number">' + dateString + '</p>';
+            $(".header").after(html);
 
-    })
+        })
+    }
 
 
 
