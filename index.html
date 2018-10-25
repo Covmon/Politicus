@@ -13,6 +13,7 @@
     <script type="text/javascript" src="scripts/utilities.js"></script>
     <script type="text/javascript" src="scripts/predictions.js"></script>
     <script type="text/javascript" src="scripts/page_script_all.js"></script>
+    <script type="text/javascript" src="scripts/page_script_index.js"></script>
 </head>
 
 <body>
@@ -29,17 +30,25 @@
 
     </div>
 
-    <div class="header">
-        <!--<h1>Election Central</h1>-->
-    </div>
+    
 
     <div class="main-page" id="main-page">
-        <img id="main-logo" src="politicus_logo_large.png" />
+        <div class="header">
+                    <!--<h1>Election Central</h1>-->
+                    <img class="title-image" src="politicus_title.png" />
+        </div>
+
+        <div class="main-section">
+            <h2>Top U.S. 2018 Midterms Races</h2>
+            <p class="loading">Loading...</p>
+        </div>
+        <a class="normal-link" href="predictions.html"><div id="load-more-button" class="button">See all predictions</div></a>
+
     </div>
 
     <div class="footer">
             <p>Copyright &copy 2018 Noah Covey & Sam Mahle</p>
-        </div>
+    </div>
      
 </body>
 

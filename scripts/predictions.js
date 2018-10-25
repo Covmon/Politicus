@@ -15,6 +15,11 @@ function getMatchup(allCandidates, state, position, district) {
     for (candidate of allCandidates) {
         if (candidate.State == state && candidate.District == String(district) && candidate.Position == position) {
             var party = candidate.Party;
+            var spaces = candidate.Candidate.split(" ").length - 1;
+            if (spaces > 1) {
+                var tmp = candidate.Candidate.split(" ");
+                candidate.Candidate = tmp[0] + " " + tmp[tmp.length-1];;
+            }
             matchup[party] = candidate;
             matchup["money"] += candidate["Total Money"];
         }
@@ -68,17 +73,8 @@ function getMatchup(allCandidates, state, position, district) {
         case "State Senator":
             matchup["title"] = stateName + " Senate" + ", District " + district;
             break;
-        case "Governor":
-            matchup["title"] = stateName + " Governor";
-            break;
-        case "Secretary Of State":
-            matchup["title"] = stateName + " Secretary of State";
-            break;
-        case "Attorney General":
-            matchup["title"] = stateName + " Attorney General";
-            break;
-        case "Lieutenant Governor":
-            matchup["title"] = stateName + " Lieutenant Governor";
+        default:
+            matchup["title"] = stateName + " " + position;
             break;
     }
 

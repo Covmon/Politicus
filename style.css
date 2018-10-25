@@ -86,6 +86,12 @@ a:hover {
     margin-top: 30px;
 }
 
+.title-image {
+    width: 50vw;
+    height: auto;
+    margin-bottom: 10px;
+}
+
 .nav h1 {
     margin: 10px;
 }
@@ -230,7 +236,7 @@ a:hover {
 }
 
 .prediction-card {
-    height: 255px;
+    height: 275px;
     width: 300px;
     border-radius: 10px;
     display: inline-block;
@@ -509,6 +515,15 @@ input:focus {
     transition-duration: 0.2s;
 }
 
+.normal-link {
+    text-decoration: none;
+    color: rgb(19, 19, 19);
+}
+
+.normal-link:hover {
+    color: rgb(19, 19, 19);
+}
+
 .button:hover {
     background-color: rgb(240, 240, 240);
     box-shadow: 0px 4px 5px rgba(160, 160, 160, 0.5);
@@ -544,12 +559,17 @@ input:focus {
 }
 
 .text a {
-    color: rgb(114, 90, 202);
+    color: rgb(91, 61, 201);
     text-decoration: none;
+    transition-duration: 0.1s;
+}
+
+.twitter {
+    color: #00aced !important;
 }
 
 .text a:hover {
-    background-color: rgb(240, 240, 240)
+    background-color: rgb(233, 233, 233)
 }
 
 

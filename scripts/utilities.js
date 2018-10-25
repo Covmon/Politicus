@@ -1,9 +1,16 @@
-var data;
+var data = [];
+let availableStates = ["CO", "IA", "MO", "NY", "SC", "TN", "UT"];
+var availableStatesURLs = [];
+for (state of availableStates) {
+    availableStatesURLs.push(state + "_Candidates_Election_Predictions");
+}
+console.log(availableStatesURLs);
 
 $(document).ready(function() {
     console.log("JS Utilites Script Loaded");
 
     var state = "All";
+    let currentPage = window.location.href;
 
     if (sessionStorage.length != 0) {
         state = sessionStorage.getItem("state");
@@ -11,44 +18,68 @@ $(document).ready(function() {
     }
     console.log("Current state: " + state);
 
-    if (state == "All") {
+    if (state == "All" || currentPage.includes("index")) {
         console.log("Get JSON for all states");
-        getJSON("IA_Candidates_Election_Predictions");
+        getJSON(availableStatesURLs, true);
         $("#reset-link").css({"color": "gray"})
     } else {
         console.log("Get JSON for state " + state);
         let fileName = state + "_Candidates_Election_Predictions";
-        getJSON(fileName);
+        getJSON([fileName], false);
     }
-    //data = json.data;
 });
 
-function getJSON(path) {
+function getJSON(paths, useAll) {
 
     $.ajaxSetup({
         async: false
     });
     
-    let url = "/Politicus/predictions_data/" + path + ".json";
-    var success = false;
-    $.getJSON(url, function(json) {
-        success = true;
-        console.log("Got JSON from local url " + url);
-        let jsonP = JSON.parse(json);
-        console.log(jsonP);
-        data = jsonP.data;
-    });
-
-    if (!success) {
-        let urlOnline = "https://www.noahcovey.com" + url;
-        $.getJSON(urlOnline, function(json) {
+    if (!useAll) {
+        let url = "/Politicus/predictions_data/" + paths[0] + ".json";
+        var success = false;
+        $.getJSON(url, function(json) {
             success = true;
-            console.log("Got JSON from online url " + urlOnline);
+            console.log("Got JSON from local url " + url);
             let jsonP = JSON.parse(json);
             console.log(jsonP);
             data = jsonP.data;
         });
-    }
+
+        if (!success) {
+            let urlOnline = "https://www.noahcovey.com" + url;
+            $.getJSON(urlOnline, function(json) {
+                success = true;
+                console.log("Got JSON from online url " + urlOnline);
+                let jsonP = JSON.parse(json);
+                console.log(jsonP);
+                data = jsonP.data;
+            });
+        }
+    } else {
+        for (path of paths) {
+            let url = "/Politicus/predictions_data/" + path + ".json";
+            var success = false;
+            $.getJSON(url, function(json) {
+                success = true;
+                console.log("Got JSON from local url " + url);
+                let jsonP = JSON.parse(json);
+                console.log(jsonP);
+                data = data.concat(jsonP.data);
+            });
+
+            if (!success) {
+                let urlOnline = "https://www.noahcovey.com" + url;
+                $.getJSON(urlOnline, function(json) {
+                    success = true;
+                    console.log("Got JSON from online url " + urlOnline);
+                    let jsonP = JSON.parse(json);
+                    console.log(jsonP);
+                    data = data.concat(jsonP.data);
+                });
+            }
+        }
+    } 
 }
 
 function arraysEqual(arr1, arr2) {

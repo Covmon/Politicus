@@ -1,6 +1,15 @@
 $(document).ready(function() {
     console.log("Starting JS All");
 
+    console.log(data);
+    var length = 0;
+    for( var key in data ) {
+        if( data.hasOwnProperty(key) ) {
+            ++length;
+        }
+    }
+    console.log(length);
+
     $(".loading").remove();
 
     $("#select-state").change(function() {
