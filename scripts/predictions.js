@@ -7,13 +7,23 @@ $(document).ready(function() {
 });
 
 
-function getMatchup(allCandidates, state, position, district) {
-    console.log("get matchup");
+function getMatchup(data, state, position, district) {
     var matchup = {};
+    var matchupFound = false;
     matchup["money"] = 100;
     matchup["competetiveness"] = 1;
-    for (candidate of allCandidates) {
+
+    let allCandidates = data[state];
+    //console.log(allCandidates.length + " candidates in state " + state);
+
+    for (var i=0; i<allCandidates.length; i++) {
+        let candidate = allCandidates[i];
+        if (matchupFound && candidate.District != String(district)) {
+            //console.log("break after " + i + " loops");
+            break;
+        }
         if (candidate.State == state && candidate.District == String(district) && candidate.Position == position) {
+            matchupFound = true;
             var party = candidate.Party;
             var spaces = candidate.Candidate.split(" ").length - 1;
             if (spaces > 1) {
@@ -27,7 +37,7 @@ function getMatchup(allCandidates, state, position, district) {
 
     var noElection = false;
 
-    if (Object.keys(matchup).length == 2) { //No election found in our data set (JSON file)
+    if (Object.keys(matchup).length == 2) { //No election found in our data set (JSON file), only keys are "money" and "competetiveness"
         noElection = true;
     } else if (matchup["DEM"] == null) {
         matchup["DEM"] = {
@@ -72,6 +82,9 @@ function getMatchup(allCandidates, state, position, district) {
             break;
         case "State Senator":
             matchup["title"] = stateName + " Senate" + ", District " + district;
+            break;
+        case "Secretary Of State":
+            matchup["title"] = stateName + " Secretary of State";
             break;
         default:
             matchup["title"] = stateName + " " + position;
@@ -190,16 +203,16 @@ function createCard(matchup, appendLocation = ".main-section") {
     let projectionDescriptionP = $("<h2 />").text(projectionDescription);
     card.append(projectionDescriptionP);
 
-    let candidatesP = "<p class='bold'><span class='blue'>" + dem.Candidate + " (D)</span> vs <span class='red'>" + rep.Candidate + " (R)</span></p>";
+    let candidatesP = "<p class='bold'><span class='blue'>" + dem.Candidate + " </span> vs <span class='red'>" + rep.Candidate + "</span></p>";
     let probabilitiesP = "<p class='number' id='vote-share'> <span class='blue'>" + probabilityDem + " (D)</span> vs <span class='red'>" + probabilityRep + " (R)</span>";
 
     if (percentThird > 4 && percentDem < 0.01) {
         let partyThird = " (" + third.Party + ")";
-        candidatesP = "<p> <span class='yellow'>" + third.Candidate + partyThird + "</span> vs <span class='red'>" + rep.Candidate + " (R)</span> </p>";
+        candidatesP = "<p> <span class='yellow'>" + third.Candidate + partyThird + "</span> vs <span class='red'>" + rep.Candidate + "</span> </p>";
         probabilitiesP = "<p class='number' id='vote-share'> <span class='yellow'>" + probabilityThird + " " + partyThird + "</span> vs <span class='red'>" + probabilityRep + " (R)</span> </p>";
     } else if (percentThird > 4 && percentRep < 0.01) {
         let partyThird = " (" + third.Party + ")";
-        candidatesP = "<p> <span class='blue'>" + dem.Candidate + " (D)</span> vs <span class='yellow'>" + third.Candidate + partyThird + "</span> </p>";
+        candidatesP = "<p> <span class='blue'>" + dem.Candidate + " </span> vs <span class='yellow'>" + third.Candidate + partyThird + "</span> </p>";
         probabilitiesP = "<p class='number' id='vote-share'> <span class='blue'>" + probabilityDem + " (D)</span> vs <span class='yellow'>" + probabilityThird + " " + partyThird + "</span> </p>";
     
     }
@@ -243,17 +256,9 @@ function createProjectionChart(matchup) {
     var lengthRep = predictionRep * 200;
     var lengthThird = predictionThird * 200;
 
-    /*
-    if (window.innerWidth < 1100) {
-        console.log("small screen");
-        let scalar = window.innerWidth/2200;
-        lengthDem *= scalar;
-        lengthRep *= scalar;
-        lengthThird *= scalar;
-    }*/
     var pillDem = "";
     var pillRep = "";
-
+    
     if (percentDem < 0.01 && percentThird < 0.01) {
         pillDem = "<div class='pill-none' style='width:" + lengthDem + "px'> <p class='number'>" + percentDem + "%</p> </div>";
         pillRep = "<div class='pill-right pill-full' style='width:" + lengthRep + "px'> <p class='number'>" + percentRep + "%</p> </div>";
@@ -265,24 +270,15 @@ function createProjectionChart(matchup) {
         pillRep = "<div class='pill-right' style='width:" + lengthRep + "px'> <p class='number'>" + percentRep + "%</p> </div>";
     }
     var pillThird = "";
-
+    
     if (percentThird > 4 && percentDem < 0.01) {
         pillThird = "<div title='" + third.Candidate + " (" + third.Party + "): " + percentThird + "%' class='pill-third pill-third-left' style='width:" + lengthThird + "px'> </div>";
         pillDem = "<div class='pill-none' style='width:" + lengthDem + "px'> <p class='number'>" + percentDem + "%</p> </div>";
-        $(document).tooltip({
-            track: true
-        });
     } else if (percentThird > 4 && percentRep < 0.01) {
         pillThird = "<div title='" + third.Candidate + " (" + third.Party + "): " + percentThird + "%' class='pill-third pill-third-right' style='width:" + lengthThird + "px'> </div>";
         pillRep = "<div class='pill-none' style='width:" + lengthRep + "px'> <p class='number'>" + percentRep + "%</p> </div>";
-        $(document).tooltip({
-            track: true
-        });
     } else if (percentThird > 4) {
         pillThird = "<div title='" + third.Candidate + " (" + third.Party + "): " + percentThird + "%' class='pill-third' style='width:" + lengthThird + "px'> </div>";
-        $(document).tooltip({
-            track: true
-        });
     }
 
     return pillDem + pillThird + pillRep;
@@ -442,7 +438,8 @@ class MatchupGoogle {
 }
 
 //Create a row in the table of all races
-function createTableRow(matchup) {
+function createTableRow(matchup, rowsList) {
+    
     let dem = matchup["DEM"];
     let rep = matchup["REP"];
     let third = {
@@ -498,7 +495,7 @@ function createTableRow(matchup) {
     let innerHTML = td + state + tdc + td + race + tdc + td + candidates + tdc + td + projectionChart + tdc + td + probabilities + tdc;
     row.innerHTML = innerHTML;
     let html = "<tr>" + innerHTML + "</tr>";
-   
+
     if (!hasTableBeenInitialized) {
         $("#all-races-table").append(html);
         hasTableBeenInitialized = true;
@@ -520,11 +517,14 @@ function createTableRow(matchup) {
                 {"searchable": false}
             ]
         });
+        
 
     } else {
-        $("#all-races-table").DataTable().row.add(row);
-        $("#all-races-table").DataTable().draw();
+        //$("#all-races-table").DataTable().row.add(row);
+        rowsList.push(row);
     }
+
+
 }
 
 /*

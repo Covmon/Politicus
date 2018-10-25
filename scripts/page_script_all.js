@@ -1,6 +1,14 @@
 $(document).ready(function() {
     console.log("Starting JS All");
 
+    let state = sessionStorage.getItem("state");
+    if (state == "All" && sessionStorage.getItem("data_all") === null) {
+        console.log("Stringify our data");
+        let jsonString = JSON.stringify(data);
+        sessionStorage.setItem("data_all", jsonString);
+    }
+    
+
     console.log(data);
     var length = 0;
     for( var key in data ) {

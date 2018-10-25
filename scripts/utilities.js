@@ -1,49 +1,54 @@
-var data = [];
+var data = {};
 let availableStates = ["CO", "IA", "MO", "NY", "SC", "TN", "UT"];
-var availableStatesURLs = [];
-for (state of availableStates) {
-    availableStatesURLs.push(state + "_Candidates_Election_Predictions");
-}
-console.log(availableStatesURLs);
+var currentStates = availableStates;
+
 
 $(document).ready(function() {
     console.log("JS Utilites Script Loaded");
 
     var state = "All";
-    let currentPage = window.location.href;
 
     if (sessionStorage.length != 0) {
         state = sessionStorage.getItem("state");
         $("#select-state").val(state);
+    } else {
+        sessionStorage.setItem("state", "All");
     }
     console.log("Current state: " + state);
 
-    if (state == "All" || currentPage.includes("index")) {
-        console.log("Get JSON for all states");
-        getJSON(availableStatesURLs, true);
-        $("#reset-link").css({"color": "gray"})
+    if (sessionStorage.getItem("data_all") !== null) {
+        console.log("get data from store");
+        let jsonString = sessionStorage.getItem("data_all")
+        data = JSON.parse(jsonString);
     } else {
+        console.log("no all data store");
+        getJSON(availableStates, true);
+    }
+
+    if (state != "All") {
         console.log("Get JSON for state " + state);
-        let fileName = state + "_Candidates_Election_Predictions";
-        getJSON([fileName], false);
+        currentStates = [state];
+    } else {
+        $("#reset-link").css({"color": "gray"})
     }
 });
 
-function getJSON(paths, useAll) {
+function getJSON(states, useAll) {
 
     $.ajaxSetup({
         async: false
     });
     
     if (!useAll) {
-        let url = "/Politicus/predictions_data/" + paths[0] + ".json";
+        let state = states[0];
+        let url = "/Politicus/predictions_data/" + state + "_Candidates_Election_Predictions.json";
         var success = false;
         $.getJSON(url, function(json) {
             success = true;
             console.log("Got JSON from local url " + url);
             let jsonP = JSON.parse(json);
             console.log(jsonP);
-            data = jsonP.data;
+            data[state] = jsonP.data;
         });
 
         if (!success) {
@@ -53,19 +58,19 @@ function getJSON(paths, useAll) {
                 console.log("Got JSON from online url " + urlOnline);
                 let jsonP = JSON.parse(json);
                 console.log(jsonP);
-                data = jsonP.data;
+                data[state] = jsonP.data;
             });
         }
     } else {
-        for (path of paths) {
-            let url = "/Politicus/predictions_data/" + path + ".json";
+        for (state of states) {
+            let url = "/Politicus/predictions_data/" + state + "_Candidates_Election_Predictions.json";
             var success = false;
             $.getJSON(url, function(json) {
                 success = true;
                 console.log("Got JSON from local url " + url);
                 let jsonP = JSON.parse(json);
                 console.log(jsonP);
-                data = data.concat(jsonP.data);
+                data[state] = jsonP.data;
             });
 
             if (!success) {
@@ -75,7 +80,7 @@ function getJSON(paths, useAll) {
                     console.log("Got JSON from online url " + urlOnline);
                     let jsonP = JSON.parse(json);
                     console.log(jsonP);
-                    data = data.concat(jsonP.data);
+                    data[state] = jsonP.data;
                 });
             }
         }
@@ -106,56 +111,64 @@ function getElections(positions, numTopElections, createTable, alreadyAdded = []
     var availableRaces = [];
     var lastRace = [];
 
-    for (candidate of data) {
+    var allData = [];
+    for (state of currentStates) {
+        allData = allData.concat(data[state]);
+    }
+
+    for (candidate of allData) {
         let race = [candidate.State, candidate.Position, candidate.District];
         if (!arraysEqual(race, lastRace)) {
             lastRace = race;
-            availableRaces.push(candidate);
+            for (pos of positions){
+                if (candidate.Position == pos || candidate.District == pos) {
+                    availableRaces.push(candidate);
+                    break;
+                }
+            }
         }
     }
 
     var topRaces = [];
 
+    var elapsedA = 0;
+    var elapsedB = 0;
+    var elapsedC = 0;
+
+    var rowsList = [];
+
     for (candidate of availableRaces) {
-        if (candidate.Position == "State Representative" && positions.includes("State Representative")) {
-            let matchup = getMatchup(data, candidate.State, candidate.Position, candidate.District);
-            getTopElections(topRaces, matchup, numTopElections, alreadyAdded);
-            if (createTable) {
-                createTableRow(matchup);
-            }
-        } else if (candidate.Position == "State Senator" && positions.includes("State Senator")) {
-            let matchup = getMatchup(data, candidate.State, candidate.Position, candidate.District);
-            getTopElections(topRaces, matchup, numTopElections, alreadyAdded);
-            if (createTable) {
-                createTableRow(matchup);
-            }
-        } else if (candidate.Position == "U.S. Representative" && positions.includes("U.S. Representative")) {
-            let matchup = getMatchup(data, candidate.State, candidate.Position, candidate.District);
-            getTopElections(topRaces, matchup, numTopElections, alreadyAdded);
-            if (createTable) {
-                createTableRow(matchup);
-            }
-        } else if (candidate.Position == "U.S. Senator" && positions.includes("U.S. Senator")) {
-            let matchup = getMatchup(data, candidate.State, candidate.Position, candidate.District);
-            getTopElections(topRaces, matchup, numTopElections, alreadyAdded);
-            if (createTable) {
-                createTableRow(matchup);
-            }
-        } else if (candidate.District == "0" && positions.includes("0") && candidate.Position != "U.S. Senator") { //Governor, Lt. Governor, Sec. of State, etc.
-            console.log(candidate.Position);
-            let matchup = getMatchup(data, candidate.State, candidate.Position, candidate.District);
-            getTopElections(topRaces, matchup, numTopElections, alreadyAdded);
-            if (createTable) {
-                createTableRow(matchup);
-            }
+        let timeA1 = new Date().getTime();
+        let matchup = getMatchup(data, candidate.State, candidate.Position, candidate.District);
+        let timeA2 = new Date().getTime();
+        let elapsed1 = timeA2 - timeA1;
+        elapsedA += elapsed1;
+
+        let timeB1 = new Date().getTime();
+        getTopElections(topRaces, matchup, numTopElections, alreadyAdded);
+        let timeB2 = new Date().getTime();
+        let elapsed2 = timeB2 - timeB1;
+        elapsedB += elapsed2;
+        
+        let timeC1 = new Date().getTime();
+        if (createTable) {
+            createTableRow(matchup, rowsList);
         }
+        let timeC2 = new Date().getTime();
+        let elapsed3 = timeC2 - timeC1;
+        elapsedC += elapsed3;
     }
+
+    console.log("time elapsed for get matchup: " + elapsedA);
+    console.log("time elapsed for top races: " + elapsedB);
+    console.log("time elapsed for create rows: " + elapsedC);
 
     if (topRaces.length == 0) {
         let errorP = $("<p />").text("Sorry, no races for the selected state and election type are available.");
         errorP.attr("id", "error-p");
         $(".main-section").append(errorP);
 
+        
         $("#all-races-table").DataTable({
             paging: false,
             language: {
@@ -165,7 +178,14 @@ function getElections(positions, numTopElections, createTable, alreadyAdded = []
                 infoEmpty: "Showing 0 to 0 of 0 races"
             }
         });
+    } else if (createTable) {
+        $("#all-races-table").DataTable().rows.add(rowsList);
+        $("#all-races-table").DataTable().draw();
+        $(document).tooltip({
+            track: true
+        });
     }
+    
 
     topRaces.sort(function(a,b) {
         if (a["money"] > b["money"]) {
@@ -205,8 +225,6 @@ function getTopElections(racesList, matchup, numRaces, alreadyAdded = []) {
     if (alreadyAdded != []) {
         for (race of alreadyAdded) {
             if (matchupsEqual(race, matchup)) {
-                console.log("Already added");
-                console.log(matchup);
                 alreadyIncluded = true;
             }
         }
@@ -220,8 +238,6 @@ function getTopElections(racesList, matchup, numRaces, alreadyAdded = []) {
         for (var i=0; i<racesList.length; i++) {
             let race = racesList[i];
             if (race["money"] < fundraising && competetiveness < 0.4 && !alreadyIncluded) {
-                //console.log("Add race " + matchup["title"] + " with fundraiasing " + fundraising + " and competetivness " + competetiveness);
-                //console.log("Remove race " + race["title"] + " with fundraiasing " + race["money"] + " and competetivness " + race["competetiveness"]);
                 racesList.splice(i, 1);
                 racesList.push(matchup);
                 break;
