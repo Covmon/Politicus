@@ -430,6 +430,13 @@ table .pill-third {
     color: white !important;
 }
 
+#updated {
+    text-align: right !important;
+    font-size: 12px;
+    color: gray;
+    margin-right: 10vw;
+}
+
 .number {
     font-family: "Roboto Mono", monospace !important;
 }
