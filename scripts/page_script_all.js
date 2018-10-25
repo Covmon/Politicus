@@ -50,6 +50,10 @@ $(document).ready(function() {
             }
         }
 
+        if (window.pageYOffset > 2000) {
+            
+        }
+
 
     }
 
