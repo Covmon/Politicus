@@ -5,6 +5,7 @@ var currentStates = availableStates;
 
 $(document).ready(function() {
     console.log("JS Utilites Script Loaded");
+    let currentURL = window.location.href;
 
     var state = "All";
 
@@ -25,7 +26,7 @@ $(document).ready(function() {
         getJSON(availableStates, true);
     }
 
-    if (state != "All") {
+    if (state != "All" && !currentURL.includes("index.html")) {
         console.log("Get JSON for state " + state);
         currentStates = [state];
     } else {

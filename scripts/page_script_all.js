@@ -7,6 +7,15 @@ $(document).ready(function() {
         let jsonString = JSON.stringify(data);
         sessionStorage.setItem("data_all", jsonString);
     }
+
+    let currentURL = window.location.href;
+    let defaultURLLength = 35;
+    if (state != "All" && !currentURL.includes("predictions.html") && !currentURL.includes("index.html") && currentURL.length != defaultURLLength && currentURL.length != defaultURLLength + 1) {
+        let currentTitle = $(".main-section h2").text();
+        let stateName = convertStateName(state);
+        let newTitle = currentTitle + " in " + stateName;
+        $(".main-section h2").text(newTitle);
+    }
     
 
     console.log(data);
