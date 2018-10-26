@@ -40,11 +40,13 @@ function setupNewsArticle(articleText) {
     let author = lines[1];
     let date = lines[2];
 
-    let id = "#" + title;
+
+    let titleLower = title.replace(/\s+/g, '-').toLowerCase();
+    let id = "#" + titleLower;
 
     console.log("Title: " + title + ", author: " + author + ", date: " + date);
 
-    let articleDiv = "<div class='article' id='" + title + "'></div>"
+    let articleDiv = "<div class='article' id='" + titleLower + "'></div>"
     $(".main-section").append(articleDiv);
 
     let titleH = "<h1 class='article-title'>" + title + "</h1>";
@@ -53,7 +55,13 @@ function setupNewsArticle(articleText) {
     let authorP = "<p class='article-author'>By <span class='author'>" + author + "</span> <span class='dot'></span> " + date + "</p>"
     $(id).append(authorP);
 
-    //var article = "";
-    //let articleLines = lines[4:-1];
+    var article = "";
+    let articleLines = lines.slice(4);
+    for (line of articleLines) {
+        article += line;
+    }
+
+    let articleP ="<p class='article-text'>" + article + "</p>";
+    $(id).append(articleP);
 
 }

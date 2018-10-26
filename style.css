@@ -653,6 +653,12 @@ input:focus {
     color: rgb(39, 39, 39);
 }
 
+.article-text {
+    margin-top: 30px;
+    font-weight: normal;
+    font-family: "Raleway", sans-serif;
+}
+
 .dot {
     height: 9px;
     width: 9px;
