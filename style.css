@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Oswald|Roboto+Mono:300,400|Roboto|Raleway|Montserrat:400,700');
+@import url('https://fonts.googleapis.com/css?family=Oswald|Roboto+Mono:300,400|Roboto|Raleway|Montserrat:400,700|Source+Serif+Pro');
 
 body {
     margin: 0;
@@ -654,15 +654,16 @@ input:focus {
 }
 
 .article-text {
+    color: rgb(29, 29, 29);
     margin-top: 30px;
     font-weight: normal;
-    font-family: "Raleway", sans-serif;
+    font-family: "Source Serif Pro", sans-serif;
 }
 
 .dot {
     height: 9px;
     width: 9px;
-    background-color: rgb(121, 121, 121);
+    background-color: rgb(148, 148, 148);
     border-radius: 50%;
     display: inline-block;
   }

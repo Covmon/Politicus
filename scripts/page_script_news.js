@@ -58,10 +58,9 @@ function setupNewsArticle(articleText) {
     var article = "";
     let articleLines = lines.slice(4);
     for (line of articleLines) {
-        article += line;
+        let articleP = "<p class='article-text'>" + line + "</p>";
+        $(id).append(articleP);
     }
-
-    let articleP ="<p class='article-text'>" + article + "</p>";
-    $(id).append(articleP);
+    
 
 }
