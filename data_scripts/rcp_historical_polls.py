@@ -44,7 +44,7 @@ def start():
 
 
     for link in links:
-        if "president" in link or "Presidential" in link:
+        if "president" in link or "Presidential" in link or "_04" in link or "2004" in link:
             continue
         elif "../../../.." in link:
             newLink = link[11:]
@@ -77,7 +77,7 @@ def getPollingAverages(url):
     '''
 
     year = "?"
-    for y in ["2008", "2010", "2012", "2014", "2016"]:
+    for y in ["2006", "2008", "2010", "2012", "2014", "2016"]:
         if y in url:
             year = y
 
@@ -90,11 +90,19 @@ def getPollingAverages(url):
     titleH2 = soup.find('h2', {"class": "page_title"})
     if titleH2 == None:
         titleH2 = soup.find('h2', {"id": "main-poll-title"})
-        numColumnsToDelete = 3
-        #pollingTableDivName = "polling-data-rcp"
+
     titleText = titleH2.text.strip()
     indexDashRace = titleText.find("-")
-    title = titleText[0:indexDashRace]
+    if indexDashRace == -1:
+        title = titleText
+    else:
+        title = titleText[0:indexDashRace-1]
+
+    if "Large" in titleText:
+        if "At" in title:
+            title = title + "-Large"
+        else:
+            title = title + " At-Large"
     
     fp = soup.find("div", {"id": pollingTableDivName})
     rows = fp.find('table', {"class": 'data'})
@@ -106,6 +114,10 @@ def getPollingAverages(url):
         rowNum += 1
         if rowNum == 1:
             cols = row.find_all(['th', 'td'])
+
+            if "MoE" not in str(cols):
+                numColumnsToDelete = 3
+
             del cols[0:numColumnsToDelete]
 
             cand1 = cols[0].text.strip()
@@ -114,10 +126,16 @@ def getPollingAverages(url):
             index1 = cand1.find("(")
             party1 = cand1[index1+1:index1+2]
             name1 = cand1[0: index1 - 1]
+            if index1 == -1:
+                party1 = "N/A"
+                name1 = cand1
 
             index2 = cand2.find("(")
             party2 = cand2[index2+1:index2+2]
             name2 = cand2[0: index2 - 1]
+            if index2 == -1:
+                party2 = "N/A"
+                name2 = cand2
 
             cand3 = ""
             party3 = ""
@@ -128,11 +146,14 @@ def getPollingAverages(url):
                 index3 = cand3.find("(")
                 party3 = cand3[index3+1:index3+2]
                 name3 = cand3[0: index3 - 1]
+                if index3 == -1:
+                    party3 = "N/A"
+                    name3 = cand3
 
         elif rowNum != 2:
             cols = row.find_all(['th', 'td'])
-            del cols[0:numColumnsToDelete]
 
+            del cols[0:numColumnsToDelete]
 
             cand1 = cols[0].text.strip()
             cand2 = cols[1].text.strip()
