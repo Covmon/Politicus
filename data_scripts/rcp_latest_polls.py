@@ -20,9 +20,9 @@ def start():
     urlSenate = "https://www.realclearpolitics.com/epolls/latest_polls/senate/"
     urlGovernor = "https://www.realclearpolitics.com/epolls/latest_polls/governor/"
     urlHouse = "https://www.realclearpolitics.com/epolls/latest_polls/house/"
-    url = urlHouse
+    url = urlSenate
 
-    fileName = "polls_house_10-23.csv"
+    fileName = "polls_senate_10-26.csv"
 
     get = requests.get(url)
     response = get.text

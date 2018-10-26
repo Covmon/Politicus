@@ -181,9 +181,6 @@ function getElections(positions, numTopElections, createTable, alreadyAdded = []
     } else if (createTable) {
         $("#all-races-table").DataTable().rows.add(rowsList);
         $("#all-races-table").DataTable().draw();
-        $(document).tooltip({
-            track: true
-        });
     }
     
 
@@ -201,6 +198,10 @@ function getElections(positions, numTopElections, createTable, alreadyAdded = []
         race = topRaces[i];
         createCard(race, appendLocation);
     }
+
+    $(document).tooltip({
+        track: true
+    });
 
     return topRaces;
 }
