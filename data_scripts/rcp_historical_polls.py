@@ -51,6 +51,14 @@ def start(stateNum):
             urlAdjusted = "http://www.realclearpolitics.com" + newLink
             newRows = getPollingAverages(urlAdjusted)
             rows += newRows
+        elif "http://http//" in link:
+            #http://http//www.realclearpolitics.com/epolls/2008/house/fl/florida_16th
+            urlAdjusted = "http://" + link[13:]
+            newRows = getPollingAverages(urlAdjusted)
+            rows += newRows
+        elif "http://www.rehttp//" in link:
+            #http://www.rehttp//www.realclearpolitics.com/epolls/2008/house/mi/michigan_9th_district-964.html
+            urlAdjusted = "http://" + link[19:]
         else:
             newRows = getPollingAverages(link)
             rows += newRows
@@ -74,8 +82,8 @@ def getPollingAverages(url):
     print("Opened file")
     '''
 
-    year = "?"
-    for y in ["2006", "2008", "2010", "2012", "2014", "2016"]:
+    year = "2006"
+    for y in ["2005", "2006", "2007", "2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017"]:
         if y in url:
             year = y
 
@@ -87,28 +95,37 @@ def getPollingAverages(url):
     titleH2 = soup.find('h2', {"class": "page_title"})
     if titleH2 == None:
         titleH2 = soup.find('h2', {"id": "main-poll-title"})
+        if titleH2 == None:
+            return []
 
     titleText = titleH2.text.strip()
     indexDashRace = titleText.find("-")
-    if indexDashRace == -1: #
+    if indexDashRace == -1:
+        indexDashRace = titleText.find(":")
+
+    if indexDashRace == -1:
         title = titleText
     elif len(titleText[indexDashRace + 1:]) <= 3: #Arizona-8
         title = titleText
-    else:
-        title = titleText[0:indexDashRace-1]
-
-    if "Large" in titleText:
+    elif "Large" in titleText:
+        title = titleText[0:indexDashRace]
         if "At" in title: #Alaska At-Large
             title = title + "-Large"
         else: #Arizona-At Large
             title = titleText[0:indexDashRace] + " At-Large"
-    
+    elif "Run-Off Election" in titleText or "Run-off Election" in titleText:
+        title = titleText[0:indexDashRace + 13]
+    else:
+        title = titleText[0:indexDashRace-1]
+        
     fp = soup.find("div", {"id": "polling-data-rcp"})
     if fp == None:
         fp = soup.find("div", {"id": "polling-data-full"})
 
-    rows = fp.find('table', {"class": 'data'})
+    if fp == None:
+        return []
 
+    rows = fp.find('table', {"class": 'data'})
 
     p = []
     rowNum = 0
@@ -119,6 +136,8 @@ def getPollingAverages(url):
 
             if "MoE" not in str(cols):
                 numColumnsToDelete = 3
+            if "C.I." in str(cols):
+                numColumnsToDelete += 1
 
             del cols[0:numColumnsToDelete]
 
