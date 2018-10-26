@@ -51,6 +51,11 @@ $(document).ready(function() {
         })
     }
 
+    let buttonHTML = '<button id="top-button">Top</button>';
+    $(".nav").after(buttonHTML);
+    $("#top-button").click(function() {
+        $("HTML, BODY").animate({ scrollTop: 0 }, 1000); 
+    }); 
 
 
     // When the user scrolls the page, execute myFunction
@@ -79,8 +84,12 @@ $(document).ready(function() {
             }
         }
 
-        if (window.pageYOffset > 2000) {
-            
+        if (window.pageYOffset > 1000) {
+            document.getElementById("top-button").style.opacity = 1;
+        } else {
+            document.getElementById("top-button").style.opacity = 0;
+
+
         }
 
 

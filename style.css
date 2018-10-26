@@ -592,3 +592,34 @@ input:focus {
     font-family: "Roboto Mono", monospace;
     font-size: 12px;
 }
+
+#top-button {
+    opacity: 0; /* Hidden by default */
+    width: 60px;
+    font-family: "Roboto";
+    height: 60px;
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 20px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-color: rgb(247, 247, 247); /* Set a background color */
+    color: rgb(15, 15, 15); /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 30px; /* Rounded corners */
+    font-size: 18px; /* Increase font size */
+    box-shadow: 0 1px 2px rgba(50,50,50, 0.5);
+    transition-duration: 0.2s;
+}
+
+#top-button:hover {
+    background-color: rgb(238, 238, 238); /* Set a background color */
+    box-shadow: 0 3px 8px rgba(50,50,50, 0.5);
+
+}
+
+#top-button:active {
+    box-shadow: 0 1px 2px rgba(50,50,50, 0.5);
+}
