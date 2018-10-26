@@ -332,29 +332,25 @@ function geolocationAddress(address) {
 }
 
 function geolocationReturnedCoordinates(coordinates) {
-    let lat = 41.522498;//coordinates.coords.latitude;
-    let lng = -93.6464809;//coordinates.coords.longitude;
+    let lat = 41.983498;//coordinates.coords.latitude;
+    let lng = -91.650698;//coordinates.coords.longitude;
 
-    let accessToken = "pk.eyJ1Ijoibm9haGNvdmV5IiwiYSI6ImNqbmZkMHJqZzZqZTAzcW4xbTR3djl6aGYifQ.hPSA1Bktf28eHwPcbQ9e4g";
-
-    let url = "https://api.mapbox.com/geocoding/v5/mapbox.places/" + lng + "," + lat + ".json?access_token=" + accessToken;
-    //console.log(url);
+    let key = "303935609cf185";
+    let url = "https://us1.locationiq.com/v1/reverse.php?key=" + key + "&lat=" + lat + "&lon=" + lng + "&format=json";
     
     var xmlHttp = new XMLHttpRequest();
     xmlHttp.open( "GET", url, false ); // false for synchronous request
     xmlHttp.send( null );
     var responseText = xmlHttp.responseText;
     var response = JSON.parse(responseText);
-    //console.log(response);
+    console.log(response);
 
-    let address = response.features[0].place_name;
-    let numbers = address.match(/\d+/);
-    let firstNumbers = parseInt(numbers[0], 10);
-    let index = address.indexOf(firstNumbers);
-    let address_normalized = address.substring(index);
-    //console.log(address_normalized);
+    let location = response.display_name;
+    
+    //let address_normalized = street + "-" + city + "-" + state + "-" + zip;
+    console.log(location);
 
-    let googleQuery = googleVoterQuery(address_normalized, 6000);
+    let googleQuery = googleVoterQuery(location, 6000);
     //let openstatesQuery = openstatesVoterQuery(lat, lng);
 
     if ("error" in googleQuery) {
@@ -371,7 +367,7 @@ function geolocationReturnedCoordinates(coordinates) {
 function googleVoterQuery(address, electionId) {
     var apiKey = "AIzaSyAhC1y0Vc09spgiF1KYdUJwag71TGitZgc";
     var url = "https://www.googleapis.com/civicinfo/v2/voterinfo?address=" + address + "&electionId=" + electionId + "&key=" + apiKey;
-
+    console.log(url);
     var xmlReq = new XMLHttpRequest();
     xmlReq.open( "GET", url, false ); // false for synchronous request
     xmlReq.send( null );
@@ -428,7 +424,12 @@ class MatchupGoogle {
 
         if ((contest.office.includes("Governor") || contest.office.includes("Attorney General") || contest.office.includes("Lieutenant Governor")) && contest.office.length > 8) {
             this.position = contest.office.substring(3);
-        } else if (contest.office.includes("Secretary of State")) {
+        } else if (contest.office.includes("State Senator") && contest.office.length > 13) {
+            this.position = contest.office.substring(3);
+        } else if (contest.office.includes("State Representative") && contest.office.length > 20) {
+            this.position = contest.office.substring(3);
+        }
+        else if (contest.office.includes("Secretary of State")) {
             this.position = "Secretary Of State";
         } else {
             this.position = contest.office;
