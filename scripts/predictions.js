@@ -332,11 +332,11 @@ function geolocationAddress(address) {
 }
 
 function geolocationReturnedCoordinates(coordinates) {
-    let lat = 41.983498;//coordinates.coords.latitude;
-    let lng = -91.650698;//coordinates.coords.longitude;
+    let lat = coordinates.coords.latitude;//41.983498;
+    let lng = coordinates.coords.longitude;//-91.650698;
+    let radius = 250;
 
-    let key = "303935609cf185";
-    let url = "https://us1.locationiq.com/v1/reverse.php?key=" + key + "&lat=" + lat + "&lon=" + lng + "&format=json";
+    let url = "https://reverse.geocoder.api.here.com/6.2/reversegeocode.json?prox=" + lat + "%2C" + lng + "%2C" + radius + "&mode=retrieveAddresses&maxresults=1&gen=9&app_id=t9xNHwJk3lAlszEeRxrV&app_code=y1rqFlvOIJyNJ5MJctm04A";
     
     var xmlHttp = new XMLHttpRequest();
     xmlHttp.open( "GET", url, false ); // false for synchronous request
@@ -345,13 +345,11 @@ function geolocationReturnedCoordinates(coordinates) {
     var response = JSON.parse(responseText);
     console.log(response);
 
-    let location = response.display_name;
+    let location = response.Response.View[0].Result[0].Location.Address.Label;
     
-    //let address_normalized = street + "-" + city + "-" + state + "-" + zip;
     console.log(location);
 
     let googleQuery = googleVoterQuery(location, 6000);
-    //let openstatesQuery = openstatesVoterQuery(lat, lng);
 
     if ("error" in googleQuery) {
         $(".loading-location").remove();
@@ -361,7 +359,6 @@ function geolocationReturnedCoordinates(coordinates) {
         getNearbyMatchupsGoogle(googleQuery);
 
     }
-    //getNearbyMatchupsState(openstatesQuery);
 }
 
 function googleVoterQuery(address, electionId) {
@@ -392,10 +389,12 @@ function getNearbyMatchupsGoogle(civicAPIObject) {
         var matchup;
         if (contest.type != "Referendum") {
             matchup = new MatchupGoogle(contest, state);
+            if (applicablePositions.includes(matchup.position)) {
+                console.log("nearby contest found");
+                nearbyMatchups.push(matchup);
+            }
         }
-        if (applicablePositions.includes(matchup.position)) {
-            nearbyMatchups.push(matchup);
-        }
+        
     }
 
     for (contest of nearbyMatchups) {
@@ -527,99 +526,3 @@ function createTableRow(matchup, rowsList) {
 
 
 }
-
-/*
-
-function openstatesVoterQuery(latitude, longitude) {
-    let apiKey = "f38c7a52-293e-4313-aa69-b89b1253fd38";
-    let url = "https://openstates.org/api/v1/legislators/geo/?lat="+ latitude + "&long=" + longitude + "&apikey=" + apiKey;
-
-    var xmlReq = new XMLHttpRequest();
-    xmlReq.open( "GET", url, false ); // false for synchronous request
-    xmlReq.send( null );
-    var responseText = xmlReq.responseText;
-    var responseObject = JSON.parse(responseText);
-
-    console.log("Here is the response object from the Google Voter Info Query:");
-    console.log(responseObject);
-
-    return responseObject;
-}
-
-
-function getNearbyMatchupsState(openstatesObject) {
-
-
-    for (contest of openstatesObject) {
-        let matchupObj = new MatchupOpenStates(contest);
-        var matchup = getMatchup(data, matchupObj.position, matchupObj.district, matchupObj.officeName);
-        if (!jQuery.isEmptyObject(matchup)) {
-            console.log("Create card for local matchup");
-            console.log(matchup);
-            createCard(matchup, 1);
-        }
-    }
-
-}
-
-class MatchupOpenStates {
-    constructor(contest, state) {
-
-        let apiKey = "f38c7a52-293e-4313-aa69-b89b1253fd38";
-        let url = "openstates.org/api/v1/metadata/" + state + "?apikey=" + apiKey;
-
-        var xmlReq = new XMLHttpRequest();
-        xmlReq.open( "GET", url, false ); // false for synchronous request
-        xmlReq.send( null );
-        var responseText = xmlReq.responseText;
-        var responseObject = JSON.parse(responseText);
-
-        let upperName = responseObject.chambers.upper.name;
-        let lowerName = responseObject.chambers.lower.name;
-
-        if (contest.chamber == "upper") {
-            this.position = "State Senator";
-            this.office = upperName;
-        } else if (contest.chamber == "lower") {
-            this.position = "State Representative";
-            this.office = lowerName;
-        }
-
-        this.district = contest.district;
-    }
-}
-
-Deleted: reordering cards
-    /*
-    if (actualCardNumber <= numCards) {
-        console.log("Card being inserted before");
-        var previousID = "card" + (actualCardNumber - 1);
-        var thisID = "card" + actualCardNumber;
-        if (previousID == "card0") {
-            $("#" + thisID).before(cardCreate);
-        } else {
-            $("#" + previousID).after(cardCreate);
-        }
-
-        $(".prediction-card").each(function() {
-            let id = $(this).attr("id");
-            let num = parseInt(id.charAt(4), 10);
-            if (num >= actualCardNumber) {
-                let newID = "card" + (num + 1);
-                $(this).attr("id", newID);
-            }
-        })
-        $("#card").attr("id", "card" + actualCardNumber);
-
-    } else {
-        //$("#card").attr("id", "card" + actualCardNumber);
-    //}
-
-
-*/
- 
-
-
-
-
-

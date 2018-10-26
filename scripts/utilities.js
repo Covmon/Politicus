@@ -1,5 +1,5 @@
 var data = {};
-let availableStates = ["CO", "IA", "MO", "NY", "SC", "TN", "UT"];
+let availableStates = ["CO", "IA", "MO", "NY", "SC", "TN", "UT", "GA"];
 var currentStates = availableStates;
 
 
