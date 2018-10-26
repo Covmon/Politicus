@@ -13,28 +13,47 @@ function getNewsArticle(title) {
     
     let url = "/Politicus/news_articles/" + title + ".txt";
     var success = false;
-    $.ajax({
-        url: url,
-        success: function(result) {
-            success = true;
-            console.log("Got News Article from local url " + url);
-            response = result.responseText;
-            console.log(response);
-            return response;
-        }
-    })
+
+    $.get(url, function( response ) {
+        success = true;
+        console.log("Got News Article from local url " + url);
+        console.log(response);
+        setupNewsArticle(response);
+    }, 'text');
 
     if (!success) {
         let urlOnline = "https://www.noahcovey.com" + url;
-        $.ajax({
-            url: urlOnline,
-            success: function(result) {
-                success = true;
-                console.log("Got News Article from online url " + urlOnline);
-                response = result.responseText;
-                console.log(response);
-                return response;
-            }
-        })
+        $.get(urlOnline, function( response ) {
+            success = true;
+            console.log("Got News Article from online url " + urlOnline);
+            console.log(response);
+            setupNewsArticle(response);
+        }, 'text');
     }
+
+}
+
+function setupNewsArticle(articleText) {
+    let lines = articleText.split('\n');
+    console.log(lines);
+    let title = lines[0];
+    let author = lines[1];
+    let date = lines[2];
+
+    let id = "#" + title;
+
+    console.log("Title: " + title + ", author: " + author + ", date: " + date);
+
+    let articleDiv = "<div class='article' id='" + title + "'></div>"
+    $(".main-section").append(articleDiv);
+
+    let titleH = "<h1 class='article-title'>" + title + "</h1>";
+    $(id).append(titleH);
+
+    let authorP = "<p class='article-author'>By <span class='author'>" + author + "</span> <span class='dot'></span> " + date + "</p>"
+    $(id).append(authorP);
+
+    //var article = "";
+    //let articleLines = lines[4:-1];
+
 }
