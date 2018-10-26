@@ -30,7 +30,7 @@ function getNewsArticle(title) {
             url: urlOnline,
             success: function(result) {
                 success = true;
-                console.log("Got News Article from local url " + urlOnline);
+                console.log("Got News Article from online url " + urlOnline);
                 response = result.responseText;
                 console.log(response);
                 return response;
