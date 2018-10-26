@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Oswald|Roboto+Mono:300,400|Roboto|Raleway|Montserrat:400,700|Source+Serif+Pro');
+@import url('https://fonts.googleapis.com/css?family=Oswald|Roboto+Mono:300,400|Roboto|Raleway|Montserrat:400,700|PT+Serif');
 
 body {
     margin: 0;
@@ -657,7 +657,7 @@ input:focus {
     color: rgb(29, 29, 29);
     margin-top: 30px;
     font-weight: normal;
-    font-family: "Source Serif Pro", sans-serif;
+    font-family: "PT Serif", sans-serif;
 }
 
 .dot {
