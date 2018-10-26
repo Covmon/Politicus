@@ -265,7 +265,14 @@ function createProjectionChart(matchup) {
     } else if (percentRep < 0.01 && percentThird < 0.01) {
         pillDem = "<div class='pill-left pill-full' style='width:" + lengthDem + "px'> <p class='number'>" + percentDem + "%</p> </div>";
         pillRep = "<div class='pill-none' style='width:" + lengthRep + "px'> <p class='number'>" + percentRep + "%</p> </div>";
-    } else {
+    } else if (percentDem < 25 && percentThird < 0.01) {
+        pillDem = "<div title='" + dem.Candidate + " (" + dem.Party + "): " + percentDem + "%'class='pill-left' style='width:" + lengthDem + "px'><p class='number'>%</p></div>";
+        pillRep = "<div class='pill-right' style='width:" + lengthRep + "px'> <p class='number'>" + percentRep + "%</p> </div>";
+    } else if (percentRep < 25 && percentThird < 0.01) {
+        pillDem = "<div class='pill-left' style='width:" + lengthDem + "px'> <p class='number'>" + percentDem + "%</p> </div>";
+        pillRep = "<div title='" + rep.Candidate + " (" + rep.Party + "): " + percentRep + "%' class='pill-right' style='width:" + lengthRep + "px'><p class='number'>%</p> </div>";
+    }
+    else {
         pillDem = "<div class='pill-left' style='width:" + lengthDem + "px'> <p class='number'>" + percentDem + "%</p> </div>";
         pillRep = "<div class='pill-right' style='width:" + lengthRep + "px'> <p class='number'>" + percentRep + "%</p> </div>";
     }
@@ -277,6 +284,12 @@ function createProjectionChart(matchup) {
     } else if (percentThird > 4 && percentRep < 0.01) {
         pillThird = "<div title='" + third.Candidate + " (" + third.Party + "): " + percentThird + "%' class='pill-third pill-third-right' style='width:" + lengthThird + "px'> </div>";
         pillRep = "<div class='pill-none' style='width:" + lengthRep + "px'> <p class='number'>" + percentRep + "%</p> </div>";
+    } else if (percentThird > 4 && percentDem < 25) {
+        pillThird = "<div title='" + third.Candidate + " (" + third.Party + "): " + percentThird + "%' class='pill-third' style='width:" + lengthThird + "px'> </div>";
+        pillDem = "<div title='" + dem.Candidate + " (" + dem.Party + "): " + percentDem + "%'class='pill-left' style='width:" + lengthDem + "px'> <p class='number'>%</p> </div>";
+    } else if (percentThird > 4 && percentRep < 25) {
+        pillThird = "<div title='" + third.Candidate + " (" + third.Party + "): " + percentThird + "%' class='pill-third' style='width:" + lengthThird + "px'> </div>";
+        pillRep = "<div title='" + rep.Candidate + " (" + rep.Party + "): " + percentRep + "%' class='pill-right' style='width:" + lengthRep + "px'><p class='number'>%</p> </div>";
     } else if (percentThird > 4) {
         pillThird = "<div title='" + third.Candidate + " (" + third.Party + "): " + percentThird + "%' class='pill-third' style='width:" + lengthThird + "px'> </div>";
     }
@@ -378,7 +391,7 @@ function googleVoterQuery(address, electionId) {
 }
 
 function getNearbyMatchupsGoogle(civicAPIObject) {
-    let applicablePositions = ["U.S. Representative", "U.S. Senator", "Governor", "Secretary Of State", "Attorney General", "Lieutenant Governor", "State Representative", "State Senator"];
+    let applicablePositions = ["STATE REPRESENTATIVE", "STATE SENATOR", "U.S. Representative", "U.S. Senator", "Governor", "Secretary Of State", "Attorney General", "Lieutenant Governor", "State Representative", "State Senator"];
 
     let contests = civicAPIObject.contests;
     let state = civicAPIObject.normalizedInput.state;
@@ -398,15 +411,8 @@ function getNearbyMatchupsGoogle(civicAPIObject) {
     }
 
     for (contest of nearbyMatchups) {
-        if (contest.Position == "Lieutenant Governor") {
-            console.log("lg");
-            console.log(contest);
-        }
         var matchup = getMatchup(data, contest.state, contest.position, contest.district);
         if (!jQuery.isEmptyObject(matchup)) {
-            console.log("Create card for local matchup");
-            console.log(contest);
-            console.log(matchup);
             createCard(matchup);
         }
     }
@@ -423,12 +429,11 @@ class MatchupGoogle {
 
         if ((contest.office.includes("Governor") || contest.office.includes("Attorney General") || contest.office.includes("Lieutenant Governor")) && contest.office.length > 8) {
             this.position = contest.office.substring(3);
-        } else if (contest.office.includes("State Senator") && contest.office.length > 13) {
-            this.position = contest.office.substring(3);
-        } else if (contest.office.includes("State Representative") && contest.office.length > 20) {
-            this.position = contest.office.substring(3);
-        }
-        else if (contest.office.includes("Secretary of State")) {
+        } else if (contest.office.includes("State Senator") || contest.office.includes("STATE SENATOR")) {
+            this.position = "State Senator";
+        } else if (contest.office.includes("State Representative") || contest.office.includes("STATE REPRESENTATIVE")) {
+            this.position = "State Representative";
+        } else if (contest.office.includes("Secretary of State")) {
             this.position = "Secretary Of State";
         } else {
             this.position = contest.office;
