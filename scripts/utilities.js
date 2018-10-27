@@ -109,6 +109,8 @@ function matchupsEqual(a, b) {
     }
 }
 
+var topRaces = [];
+
 function getElections(positions, numTopElections, createTable, alreadyAdded = [], appendLocation = ".main-section") {
     console.log("Getting Elections");
     var availableRaces = [];
@@ -132,13 +134,14 @@ function getElections(positions, numTopElections, createTable, alreadyAdded = []
         }
     }
 
-    var topRaces = [];
-
     var elapsedA = 0;
     var elapsedB = 0;
     var elapsedC = 0;
 
     var rowsList = [];
+    
+    console.log("ALL AVAILABLE RACES");
+    console.log(availableRaces);
 
     for (candidate of availableRaces) {
         let timeA1 = new Date().getTime();
@@ -148,7 +151,7 @@ function getElections(positions, numTopElections, createTable, alreadyAdded = []
         elapsedA += elapsed1;
 
         let timeB1 = new Date().getTime();
-        getTopElections(topRaces, matchup, numTopElections, alreadyAdded);
+        getTopElections(matchup, numTopElections, alreadyAdded);
         let timeB2 = new Date().getTime();
         let elapsed2 = timeB2 - timeB1;
         elapsedB += elapsed2;
@@ -210,12 +213,12 @@ function getElections(positions, numTopElections, createTable, alreadyAdded = []
 }
 
 
-function getTopElections(racesList, matchup, numRaces, alreadyAdded = []) {
+function getTopElections(matchup, numRaces, alreadyAdded = []) {
 
     let fundraising = matchup["money"];
     let competetiveness = matchup["competetiveness"];
 
-    racesList.sort(function(a,b) {
+    topRaces.sort(function(a,b) {
         if (a["money"] > b["money"]) {
             return 1;
         }
@@ -234,24 +237,26 @@ function getTopElections(racesList, matchup, numRaces, alreadyAdded = []) {
         }
     }
 
-    if (racesList.length < numRaces) {
+    if (topRaces.length < numRaces) {
         if (competetiveness < 0.4 && !alreadyIncluded) {
-            racesList.push(matchup);
-            console.log("Begin building top races list:");
-            console.log(racesList);
+            console.log("Add to top races list:");
+            console.log(matchup);
+            topRaces.push(matchup);
+            console.log("New races list:");
+            console.log(topRaces);
         }
     } else {
-        for (var i=0; i<racesList.length; i++) {
-            let race = racesList[i];
+        for (var i=0; i<topRaces.length; i++) {
+            let race = topRaces[i];
             if (race["money"] < fundraising && competetiveness < 0.4 && !alreadyIncluded) {
                 console.log("Remove from top races list:")
                 console.log(race);
                 console.log("Add to top races list:");
                 console.log(matchup);
-                racesList.splice(i, 1);
-                racesList.push(matchup);
+                topRaces.splice(i, 1);
+                topRaces.push(matchup);
                 console.log("New races list:");
-                console.log(racesList);
+                console.log(topRaces);
                 break;
             }
         }
