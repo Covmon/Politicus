@@ -237,6 +237,8 @@ function getTopElections(racesList, matchup, numRaces, alreadyAdded = []) {
     if (racesList.length < numRaces) {
         if (competetiveness < 0.4 && !alreadyIncluded) {
             racesList.push(matchup);
+            console.log("Begin building top races list:");
+            console.log(racesList);
         }
     } else {
         for (var i=0; i<racesList.length; i++) {
@@ -246,9 +248,10 @@ function getTopElections(racesList, matchup, numRaces, alreadyAdded = []) {
                 console.log(race);
                 console.log("Add to top races list:");
                 console.log(matchup);
-                console.log(racesList);
                 racesList.splice(i, 1);
                 racesList.push(matchup);
+                console.log("New races list:");
+                console.log(racesList);
                 break;
             }
         }
