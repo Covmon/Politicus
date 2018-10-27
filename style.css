@@ -234,6 +234,7 @@ a:hover {
 
 .hr-invisible {
     opacity: 0;
+    display: none;
 }
 
 .prediction-card {
@@ -596,9 +597,9 @@ input:focus {
 
 #top-button {
     opacity: 0; /* Hidden by default */
-    width: 60px;
+    width: 64px;
     font-family: "Roboto";
-    height: 60px;
+    height: 50px;
     position: fixed; /* Fixed/sticky position */
     bottom: 20px; /* Place the button at the bottom of the page */
     right: 20px; /* Place the button 30px from the right */
@@ -608,8 +609,7 @@ input:focus {
     background-color: rgb(247, 247, 247); /* Set a background color */
     color: rgb(15, 15, 15); /* Text color */
     cursor: pointer; /* Add a mouse pointer on hover */
-    padding: 15px; /* Some padding */
-    border-radius: 30px; /* Rounded corners */
+    border-radius: 27px; /* Rounded corners */
     font-size: 18px; /* Increase font size */
     box-shadow: 0 1px 2px rgba(50,50,50, 0.5);
     transition-duration: 0.2s;
@@ -622,7 +622,7 @@ input:focus {
 }
 
 #top-button:active {
-    box-shadow: 0 1px 2px rgba(50,50,50, 0.5);
+    background-color: rgb(247, 247, 247); /* Set a background color */
 }
 
 .main-page-news {
@@ -664,6 +664,14 @@ input:focus {
     height: 9px;
     width: 9px;
     background-color: rgb(148, 148, 148);
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .dot-green {
+    height: 9px;
+    width: 9px;
+    background-color: rgb(82, 206, 82);
     border-radius: 50%;
     display: inline-block;
   }
