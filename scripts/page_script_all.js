@@ -40,7 +40,7 @@ $(document).ready(function() {
     });
 
     let gitURL = "https://api.github.com/repos/Covmon/Politicus/commits"
-    if (!window.location.href.includes("index")) {
+    if (!currentURL.includes("index") && currentURL.length != defaultURLLength && currentURL.length != defaultURLLength + 1) {
         $.getJSON(gitURL, function(json) {
             let commit = json[0];
             let dateData = commit.commit.author.date;
