@@ -524,9 +524,19 @@ function createTableRow(matchup, rowsList) {
     let html = "<tr>" + innerHTML + "</tr>";
 
     if (!hasTableBeenInitialized) {
+
+        let width = document.documentElement.clientWidth;
+        var scroll;
+        if (width < 600) {
+            scroll = true;
+        } else {
+            scroll = false;
+        }
+
         $("#all-races-table").append(html);
         hasTableBeenInitialized = true;
         $("#all-races-table").DataTable({
+            scrollX: scroll,
             paging: false,
             ordering: true,
             language: {
@@ -547,7 +557,6 @@ function createTableRow(matchup, rowsList) {
         
 
     } else {
-        //$("#all-races-table").DataTable().row.add(row);
         rowsList.push(row);
     }
 
