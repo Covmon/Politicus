@@ -639,7 +639,9 @@ input:focus {
 .article {
     text-align: left;
     margin-top: 60px;
-    margin-bottom: 60px;
+    margin-bottom: 100px;
+    background-color: rgb(240, 240, 240);
+    padding: 30px;
 }
 
 .article-title {
