@@ -1,6 +1,7 @@
 $(document).ready(function() {
     console.log("JS News Script Loaded");
 
+    getNewsArticle("methedology");
     getNewsArticle("test");
 
 });

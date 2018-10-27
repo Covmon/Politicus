@@ -639,6 +639,7 @@ input:focus {
 .article {
     text-align: left;
     margin-top: 60px;
+    margin-bottom: 60px;
 }
 
 .article-title {
