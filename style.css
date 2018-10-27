@@ -683,3 +683,58 @@ input:focus {
     border-radius: 50%;
     display: inline-block;
   }
+
+  @media only screen and (max-width: 600px) {
+
+    #nav-logo {
+        height: 30px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .nav {
+        height: 80px;
+        text-align: center;
+    }
+
+    .nav-links {
+        float: none;
+    }
+
+    .predictions-links {
+        height: 80px;
+    }
+
+    .predictions-links a {
+        margin-bottom: 0px;
+    }
+
+    .predictions-nav-scrolled {
+        border-radius: 0;
+    }
+
+    .main-page {
+        width: 90vw;
+        margin-left: 5vw;
+    }
+
+    .title-image {
+        width: 90vw;
+    }
+
+    .main-page-news {
+        width: 90vw;
+        margin-left: 5vw;
+    }
+
+    .article-text {
+        font-size: 20px;
+    }
+
+    .text {
+        font-size: 20px;
+    }
+
+
+}
