@@ -32,6 +32,8 @@ $(document).ready(function() {
     } else {
         $("#reset-link").css({"color": "gray"})
     }
+
+    console.log("Current states: " + currentStates);
 });
 
 function getJSON(states, useAll) {
@@ -240,6 +242,11 @@ function getTopElections(racesList, matchup, numRaces, alreadyAdded = []) {
         for (var i=0; i<racesList.length; i++) {
             let race = racesList[i];
             if (race["money"] < fundraising && competetiveness < 0.4 && !alreadyIncluded) {
+                console.log("Remove from top races list:")
+                console.log(race);
+                console.log("Add to top races list:");
+                console.log(matchup);
+                console.log(racesList);
                 racesList.splice(i, 1);
                 racesList.push(matchup);
                 break;
