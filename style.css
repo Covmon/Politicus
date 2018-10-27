@@ -687,6 +687,7 @@ input:focus {
   @media only screen and (max-width: 600px) {
 
     #nav-logo {
+        margin: none;
         height: 30px;
         display: block;
         margin-left: auto;
@@ -700,6 +701,11 @@ input:focus {
 
     .nav-links {
         float: none;
+        margin-right: 0px;
+    }
+
+    .nav-links a {
+        margin: 13px 1.5vw 0 1.5vw;
     }
 
     .predictions-links {
@@ -712,6 +718,14 @@ input:focus {
 
     .predictions-nav-scrolled {
         border-radius: 0;
+    }
+
+    .main-page-scrolled {
+        margin-top: 128px;
+    }
+
+    #updated {
+        text-align: center !important;
     }
 
     .main-page {
@@ -734,6 +748,10 @@ input:focus {
 
     .text {
         font-size: 20px;
+    }
+
+    #top-button {
+        display: none;
     }
 
 
