@@ -2,13 +2,9 @@ Our Methodology
 Sam Mahle and Noah Covey
 October 30, 2018
 
-This is our methodology. We want to explain it so others can understand. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We've worked on 50Fifty over the past few months, and now that it's released, we want to share details of how we collected data for our model, and what factors impact our predictions. We'll be updating this article with more soon. Stay tuned.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquet enim tortor at auctor urna nunc id cursus. Cum sociis natoque penatibus et magnis dis parturient montes. Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida neque.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquet enim tortor at auctor urna nunc id cursus. Cum sociis natoque penatibus et magnis dis parturient montes. Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquet enim tortor at auctor urna nunc id cursus. Cum sociis natoque penatibus et magnis dis parturient montes. Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida neque.
-
-Thanks for reading. Let's see how this news section is shaping up.
+Thanks for visiting 50Fifty! If you have any questions, comments, or suggestions, or want to write for us, please contact us at <a href="mailto:contact@50fifty.us">contact@50fifty.us</a>.
 
 
 

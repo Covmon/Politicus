@@ -668,6 +668,16 @@ input:focus {
     font-weight: normal;
 }
 
+.article-text a {
+    color: rgb(91, 61, 201);
+    text-decoration: none;
+    transition-duration: 0.1s;
+}
+
+.article-text a:hover {
+    background-color: rgb(218, 216, 216)
+}
+
 .dot {
     height: 9px;
     width: 9px;
