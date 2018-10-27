@@ -608,11 +608,16 @@ input:focus {
     outline: none; /* Remove outline */
     background-color: rgb(247, 247, 247); /* Set a background color */
     color: rgb(15, 15, 15); /* Text color */
-    cursor: pointer; /* Add a mouse pointer on hover */
+    cursor: default; /* Add a mouse pointer on hover */
     border-radius: 27px; /* Rounded corners */
     font-size: 18px; /* Increase font size */
     box-shadow: 0 1px 2px rgba(50,50,50, 0.5);
     transition-duration: 0.2s;
+}
+
+.top-button-scrolled {
+    opacity: 1 !important;
+    cursor: pointer !important;
 }
 
 #top-button:hover {

@@ -63,7 +63,9 @@ $(document).ready(function() {
     let buttonHTML = '<button id="top-button">Top</button>';
     $(".nav").after(buttonHTML);
     $("#top-button").click(function() {
-        $("HTML, BODY").animate({ scrollTop: 0 }, 1000); 
+        if ($("#top-button").hasClass("top-button-scrolled")) {
+            $("HTML, BODY").animate({ scrollTop: 0 }, 1000); 
+        }
     }); 
 
 
@@ -94,9 +96,9 @@ $(document).ready(function() {
         }
 
         if (window.pageYOffset > 1000) {
-            document.getElementById("top-button").style.opacity = 1;
+            document.getElementById("top-button").classList.add("top-button-scrolled");
         } else {
-            document.getElementById("top-button").style.opacity = 0;
+            document.getElementById("top-button").classList.remove("top-button-scrolled");
 
 
         }
