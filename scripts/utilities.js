@@ -239,24 +239,14 @@ function getTopElections(matchup, numRaces, alreadyAdded = []) {
 
     if (topRaces.length < numRaces) {
         if (competetiveness < 0.4 && !alreadyIncluded) {
-            console.log("Add to top races list:");
-            console.log(matchup);
             topRaces.push(matchup);
-            console.log("New races list:");
-            console.log(topRaces);
         }
     } else {
         for (var i=0; i<topRaces.length; i++) {
             let race = topRaces[i];
             if (race["money"] < fundraising && competetiveness < 0.4 && !alreadyIncluded) {
-                console.log("Remove from top races list:")
-                console.log(race);
-                console.log("Add to top races list:");
-                console.log(matchup);
                 topRaces.splice(i, 1);
                 topRaces.push(matchup);
-                console.log("New races list:");
-                console.log(topRaces);
                 break;
             }
         }

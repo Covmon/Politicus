@@ -10,7 +10,7 @@ $(document).ready(function() {
 function getMatchup(data, state, position, district) {
     var matchup = {};
     var matchupFound = false;
-    matchup["money"] = 100;
+    matchup["money"] = 0;
     matchup["competetiveness"] = 1;
 
     let allCandidates = data[state];
@@ -25,11 +25,22 @@ function getMatchup(data, state, position, district) {
         if (candidate.State == state && candidate.District == String(district) && candidate.Position == position) {
             matchupFound = true;
             var party = candidate.Party;
-            var spaces = candidate.Candidate.split(" ").length - 1;
-            if (spaces > 1) {
-                var tmp = candidate.Candidate.split(" ");
-                candidate.Candidate = tmp[0] + " " + tmp[tmp.length-1];;
+            if (!candidate.Candidate.includes("Jr.") && !candidate.Candidate.includes("Sr.") && !candidate.Candidate.includes("IV") && !candidate.Candidate.includes("III") && !candidate.Candidate.includes("II") && !candidate.Candidate.includes("I") && !candidate.Candidate.includes("V")) {
+                var spaces = candidate.Candidate.split(" ").length - 1;
+                if (spaces > 1) {
+                    var tmp = candidate.Candidate.split(" ");
+                    if (tmp[0].length > 2) {
+                        candidate.Candidate = tmp[0] + " " + tmp[tmp.length-1];
+                    }
+                }
+            } else {
+                var spaces = candidate.Candidate.split(" ").length - 1;
+                if (spaces > 2) {
+                    var tmp = candidate.Candidate.split(" ");
+                    candidate.Candidate = tmp[0] + " " + tmp[tmp.length-2] + " " + tmp[tmp.length-1];
+                }
             }
+            
             matchup[party] = candidate;
             matchup["money"] += candidate["Total Money"];
         }
@@ -40,6 +51,11 @@ function getMatchup(data, state, position, district) {
     if (Object.keys(matchup).length == 2) { //No election found in our data set (JSON file), only keys are "money" and "competetiveness"
         noElection = true;
     } else if (matchup["DEM"] == null) {
+        console.log(Object.keys(matchup).length);
+        if (Object.keys(matchup).length == 3) {
+            console.log(matchup["REP"]["Candidate"]);
+            matchup["REP"]["Predicted Vote Share"] = 1;
+        }
         matchup["DEM"] = {
             "State": state,
             "Position": position,
@@ -49,7 +65,11 @@ function getMatchup(data, state, position, district) {
             "Predicted Vote Share": 0,
             "Predicted Win Probability": "0%"
         }
+        
     } else if (matchup["REP"] == null) {
+        if (Object.keys(matchup).length == 3) {
+            matchup["DEM"]["Predicted Vote Share"] = 1;
+        }
         matchup["REP"] = {
             "State": state,
             "Position": position,
@@ -208,11 +228,11 @@ function createCard(matchup, appendLocation = ".main-section") {
     let candidatesP = "<p class='bold'><span class='blue'>" + dem.Candidate + " </span> vs <span class='red'>" + rep.Candidate + "</span></p>";
     let probabilitiesP = "<p class='number' id='vote-share'> <span class='blue'>" + probabilityDem + " (D)</span> vs <span class='red'>" + probabilityRep + " (R)</span>";
 
-    if (percentThird > 4 && percentDem < 0.01) {
+    if (percentThird > 2 && percentDem < 0.01) {
         let partyThird = " (" + third.Party + ")";
         candidatesP = "<p> <span class='yellow'>" + third.Candidate + partyThird + "</span> vs <span class='red'>" + rep.Candidate + "</span> </p>";
         probabilitiesP = "<p class='number' id='vote-share'> <span class='yellow'>" + probabilityThird + " " + partyThird + "</span> vs <span class='red'>" + probabilityRep + " (R)</span> </p>";
-    } else if (percentThird > 4 && percentRep < 0.01) {
+    } else if (percentThird > 2 && percentRep < 0.01) {
         let partyThird = " (" + third.Party + ")";
         candidatesP = "<p> <span class='blue'>" + dem.Candidate + " </span> vs <span class='yellow'>" + third.Candidate + partyThird + "</span> </p>";
         probabilitiesP = "<p class='number' id='vote-share'> <span class='blue'>" + probabilityDem + " (D)</span> vs <span class='yellow'>" + probabilityThird + " " + partyThird + "</span> </p>";
@@ -261,16 +281,16 @@ function createProjectionChart(matchup) {
     var pillDem = "";
     var pillRep = "";
     
-    if (percentDem < 0.01 && percentThird < 0.01) {
+    if (percentDem < 0.01 && percentThird < 2) {
         pillDem = "<div class='pill-none' style='width:" + lengthDem + "px'> <p class='number'>" + percentDem + "%</p> </div>";
         pillRep = "<div class='pill-right pill-full' style='width:" + lengthRep + "px'> <p class='number'>" + percentRep + "%</p> </div>";
-    } else if (percentRep < 0.01 && percentThird < 0.01) {
+    } else if (percentRep < 0.01 && percentThird < 2) {
         pillDem = "<div class='pill-left pill-full' style='width:" + lengthDem + "px'> <p class='number'>" + percentDem + "%</p> </div>";
         pillRep = "<div class='pill-none' style='width:" + lengthRep + "px'> <p class='number'>" + percentRep + "%</p> </div>";
-    } else if (percentDem < 25 && percentThird < 0.01) {
+    } else if (percentDem < 25 && percentThird < 2) {
         pillDem = "<div title='" + dem.Candidate + " (" + dem.Party + "): " + percentDem + "%'class='pill-left' style='width:" + lengthDem + "px'><p class='number'>%</p></div>";
         pillRep = "<div class='pill-right' style='width:" + lengthRep + "px'> <p class='number'>" + percentRep + "%</p> </div>";
-    } else if (percentRep < 25 && percentThird < 0.01) {
+    } else if (percentRep < 25 && percentThird < 2) {
         pillDem = "<div class='pill-left' style='width:" + lengthDem + "px'> <p class='number'>" + percentDem + "%</p> </div>";
         pillRep = "<div title='" + rep.Candidate + " (" + rep.Party + "): " + percentRep + "%' class='pill-right' style='width:" + lengthRep + "px'><p class='number'>%</p> </div>";
     }
@@ -280,19 +300,19 @@ function createProjectionChart(matchup) {
     }
     var pillThird = "";
     
-    if (percentThird > 4 && percentDem < 0.01) {
+    if (percentThird > 2 && percentDem < 0.01) {
         pillThird = "<div title='" + third.Candidate + " (" + third.Party + "): " + percentThird + "%' class='pill-third pill-third-left' style='width:" + lengthThird + "px'> </div>";
         pillDem = "<div class='pill-none' style='width:" + lengthDem + "px'> <p class='number'>" + percentDem + "%</p> </div>";
-    } else if (percentThird > 4 && percentRep < 0.01) {
+    } else if (percentThird > 2 && percentRep < 0.01) {
         pillThird = "<div title='" + third.Candidate + " (" + third.Party + "): " + percentThird + "%' class='pill-third pill-third-right' style='width:" + lengthThird + "px'> </div>";
         pillRep = "<div class='pill-none' style='width:" + lengthRep + "px'> <p class='number'>" + percentRep + "%</p> </div>";
-    } else if (percentThird > 4 && percentDem < 25) {
+    } else if (percentThird > 2 && percentDem < 25) {
         pillThird = "<div title='" + third.Candidate + " (" + third.Party + "): " + percentThird + "%' class='pill-third' style='width:" + lengthThird + "px'> </div>";
         pillDem = "<div title='" + dem.Candidate + " (" + dem.Party + "): " + percentDem + "%'class='pill-left' style='width:" + lengthDem + "px'> <p class='number'>%</p> </div>";
-    } else if (percentThird > 4 && percentRep < 25) {
+    } else if (percentThird > 2 && percentRep < 25) {
         pillThird = "<div title='" + third.Candidate + " (" + third.Party + "): " + percentThird + "%' class='pill-third' style='width:" + lengthThird + "px'> </div>";
         pillRep = "<div title='" + rep.Candidate + " (" + rep.Party + "): " + percentRep + "%' class='pill-right' style='width:" + lengthRep + "px'><p class='number'>%</p> </div>";
-    } else if (percentThird > 4) {
+    } else if (percentThird > 2) {
         pillThird = "<div title='" + third.Candidate + " (" + third.Party + "): " + percentThird + "%' class='pill-third' style='width:" + lengthThird + "px'> </div>";
     }
 
@@ -479,18 +499,18 @@ function createTableRow(matchup, rowsList) {
     
     let state = "<p>" + s + "</p>";
     let race = "<p>" + matchup["title"] + "</p>";
-    var candidates = "<p> <span class='blue'>" + candidateDem + " (D)</span> vs <span class='red'>" + candidateRep + " (R)</span> </p>";
+    var candidates = "<p> <span class='blue'>" + candidateDem + "</span> vs <span class='red'>" + candidateRep + "</span> </p>";
     let projectionChart = createProjectionChart(matchup);
     var probabilities = "<p class='number'> <span class='blue'>" + probabilityDem + " (D)</span> vs <span class='red'>" + probabilityRep + " (R)</span> </p>";
 
-    if (percentThird > 4 && percentDem < 0.01) {
+    if (percentThird > 2 && percentDem < 0.01) {
         let partyThird = " (" + third.Party + ")";
-        candiates = "<p> <span class='yellow'>" + candidateThird + partyThird + "</span> vs <span class='red'>" + candidateRep + " (R)</span> </p>";
+        candidates = "<p> <span class='yellow'>" + candidateThird + partyThird + "</span> vs <span class='red'>" + candidateRep + "</span> </p>";
         probabilities = "<p class='number'> <span class='yellow'>" + probabilityThird + " " + partyThird + "</span> vs <span class='red'>" + probabilityRep + " (R)</span> </p>";
 
-    } else if (percentThird > 4 && percentRep < 0.01) {
+    } else if (percentThird > 2 && percentRep < 0.01) {
         let partyThird = " (" + third.Party + ")";
-        candidates = "<p> <span class='blue'>" + candidateDem + " (D)</span> vs <span class='yellow'>" + candidateThird + partyThird + "</span> </p>";
+        candidates = "<p> <span class='blue'>" + candidateDem + "</span> vs <span class='yellow'>" + candidateThird + partyThird + "</span> </p>";
         probabilities = "<p class='number'> <span class='blue'>" + probabilityDem + " (D)</span> vs <span class='yellow'>" + probabilityThird + " " + partyThird + "</span> </p>";
     
     }
