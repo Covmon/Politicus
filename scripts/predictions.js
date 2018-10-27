@@ -550,7 +550,7 @@ function createTableRow(matchup, rowsList) {
                 null,
                 null,
                 null,
-                {"searchable": false},
+                {"searchable": false, "width": "240px"},
                 {"searchable": false}
             ]
         });
