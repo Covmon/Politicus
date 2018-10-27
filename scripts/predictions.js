@@ -61,6 +61,8 @@ function getMatchup(data, state, position, district) {
         }
     } else {
         matchup["competetiveness"] = Math.abs(matchup["DEM"]["Predicted Vote Share"] - matchup["REP"]["Predicted Vote Share"]);
+        matchup["color"] = evaluatePredictionColor(matchup["DEM"]["Predicted Vote Share"], matchup["REP"]["Predicted Vote Share"])
+        matchup["rating"] = evaluatePredictionDescription(matchup["DEM"]["Predicted Vote Share"], matchup["REP"]["Predicted Vote Share"])
     }
 
     //U.S. House, Georgia District 12

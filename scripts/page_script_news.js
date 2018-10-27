@@ -12,7 +12,7 @@ function getNewsArticle(title) {
         async: false
     });
     
-    let url = "/Politicus/news_articles/" + title + ".txt";
+    let url = "/news_articles/" + title + ".txt";
     var success = false;
 
     $.get(url, function( response ) {
@@ -23,7 +23,7 @@ function getNewsArticle(title) {
     }, 'text');
 
     if (!success) {
-        let urlOnline = "https://www.noahcovey.com" + url;
+        let urlOnline = "https:/50fifty.us" + url;
         $.get(urlOnline, function( response ) {
             success = true;
             console.log("Got News Article from online url " + urlOnline);

@@ -42,7 +42,7 @@ function getJSON(states, useAll) {
     
     if (!useAll) {
         let state = states[0];
-        let url = "/Politicus/predictions_data/" + state + "_Candidates_Election_Predictions.json";
+        let url = "/predictions_data/" + state + "_Candidates_Election_Predictions.json";
         var success = false;
         $.getJSON(url, function(json) {
             success = true;
@@ -53,7 +53,7 @@ function getJSON(states, useAll) {
         });
 
         if (!success) {
-            let urlOnline = "https://www.noahcovey.com" + url;
+            let urlOnline = "https://50fifty.us" + url;
             $.getJSON(urlOnline, function(json) {
                 success = true;
                 console.log("Got JSON from online url " + urlOnline);
@@ -64,7 +64,7 @@ function getJSON(states, useAll) {
         }
     } else {
         for (state of states) {
-            let url = "/Politicus/predictions_data/" + state + "_Candidates_Election_Predictions.json";
+            let url = "/predictions_data/" + state + "_Candidates_Election_Predictions.json";
             var success = false;
             $.getJSON(url, function(json) {
                 success = true;
@@ -75,7 +75,7 @@ function getJSON(states, useAll) {
             });
 
             if (!success) {
-                let urlOnline = "https://www.noahcovey.com" + url;
+                let urlOnline = "https://50fifty.us" + url;
                 $.getJSON(urlOnline, function(json) {
                     success = true;
                     console.log("Got JSON from online url " + urlOnline);
