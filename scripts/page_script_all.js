@@ -9,7 +9,7 @@ $(document).ready(function() {
     }
 
     let currentURL = window.location.href;
-    let defaultURLLength = 35;
+    let defaultURLLength = 18;
     if (state != "All" && !currentURL.includes("predictions.html") && !currentURL.includes("index.html") && currentURL.length != defaultURLLength && currentURL.length != defaultURLLength + 1) {
         let currentTitle = $(".main-section h2").text();
         let stateName = convertStateName(state);
