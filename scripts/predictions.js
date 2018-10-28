@@ -124,6 +124,7 @@ function evaluatePredictionColor(predictionDem, predictionRep) {
 
     var color = ""
     let difference = dem - rep;
+    console.log(difference);
 
     if (difference > 0.9) {
         color = "solid-blue";
@@ -140,6 +141,7 @@ function evaluatePredictionColor(predictionDem, predictionRep) {
     } else {
         color = "solid-red";
     }
+    console.log(color);
 
     return color;
 }
