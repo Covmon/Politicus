@@ -14,7 +14,6 @@ $(document).ready(function() {
 });
 
 function loadMore() {
-    console.log("LOAD MORE");
     if (numLoaded < 30) {
         numLoaded += 6;
 

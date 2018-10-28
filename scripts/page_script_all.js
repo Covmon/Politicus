@@ -68,17 +68,19 @@ $(document).ready(function() {
         }
     }); 
 
+    if (!currentURL.includes("index")) {
+        // When the user scrolls the page, execute myFunction
+        window.onscroll = function() {scroll()};
 
-    // When the user scrolls the page, execute myFunction
-    window.onscroll = function() {scroll()};
+        // Get the nav
+        var nav = document.getElementById("predictions-nav");
+        var page = document.getElementById("main-page");
+        var hr = document.getElementById("predictions-nav-hr");
 
-    // Get the nav
-    var nav = document.getElementById("predictions-nav");
-    var page = document.getElementById("main-page");
-    var hr = document.getElementById("predictions-nav-hr");
-
-    // Get the offset position of the navbar
-    var sticky = nav.offsetTop;
+        // Get the offset position of the navbar
+        var sticky = nav.offsetTop;
+    }
+    
 
     // Add the sticky class to the nav when you reach its scroll position. Remove "sticky" when you leave the scroll position
     function scroll() {
