@@ -334,8 +334,16 @@ a:hover {
 }
 
 .incumbent {
-    padding: 1px;
-    background-color: rgb(241, 241, 241);
+    border-radius: 1px;
+    margin-left: 5px;
+    font-style: italic;
+    display: inline-block;
+    padding: 2px 6.5px 2px 5px;
+    background-color: rgb(255, 255, 255);
+}
+
+table .incumbent {
+    background-color: rgb(238, 238, 238);
 }
 
 .bold {

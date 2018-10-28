@@ -214,11 +214,11 @@ function createCard(matchup, appendLocation = ".main-section") {
     var incumbentThird = "";
 
     if (dem.Incumbent == "Yes") {
-        incumbentDem = "<span class='incumbent'> (i)</span";
+        incumbentDem = "<span class='incumbent'> i</span>";
     } else if (rep.Incumbent == "Yes") {
-        incumbentRep = "<span class='incumbent'> (i)</span";
+        incumbentRep = "<span class='incumbent'> i</span>";
     } else if (third.Incumbent == "Yes") {
-        incumbentThird = "<span class='incumbent'> (i)</span";
+        incumbentThird = "<span class='incumbent'> i</span>";
     }
 
     var predictionDem = dem["Predicted Vote Share"];
@@ -524,11 +524,11 @@ function createTableRow(matchup, rowsList) {
     var incumbentThird = "";
 
     if (dem.Incumbent == "Yes") {
-        incumbentDem = "<span class='incumbent'> (i)</span";
+        incumbentDem = "<span class='incumbent'> i</span>";
     } else if (rep.Incumbent == "Yes") {
-        incumbentRep = "<span class='incumbent'> (i)</span";
+        incumbentRep = "<span class='incumbent'> i</span>";
     } else if (third.Incumbent == "Yes") {
-        incumbentThird = "<span class='incumbent'> (i)</span";
+        incumbentThird = "<span class='incumbent'> i</span>";
     }
 
     var predictionDem = dem["Predicted Vote Share"];
