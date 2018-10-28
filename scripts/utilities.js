@@ -1,11 +1,20 @@
 var data = {};
-let availableStates = ["CO", "IA", "MO", "NY", "SC", "TN", "KS", "GA", "UT"];
+let availableStates = ["CO", "IA", "MO", "NY", "SC", "TN", "KS", "GA", "UT", "MI", "ID"];
 var currentStates = availableStates;
 
 
 $(document).ready(function() {
     console.log("JS Utilites Script Loaded");
     let currentURL = window.location.href;
+    availableStates.sort();
+
+    if (currentURL.includes("predictions")) {
+        for (state of availableStates) {
+            let name = convertStateName(state);
+            let select = "<option value='" + state + "'>" + name + "</option>"
+            $("#select-state").append(select);
+        }
+    }
 
     var state = "All";
 
@@ -18,11 +27,9 @@ $(document).ready(function() {
     console.log("Current state: " + state);
 
     if (sessionStorage.getItem("data_all") !== null) {
-        console.log("get data from store");
         let jsonString = sessionStorage.getItem("data_all")
         data = JSON.parse(jsonString);
     } else {
-        console.log("no all data store");
         getJSON(availableStates, true);
     }
 

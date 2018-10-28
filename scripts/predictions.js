@@ -51,9 +51,7 @@ function getMatchup(data, state, position, district) {
     if (Object.keys(matchup).length == 2) { //No election found in our data set (JSON file), only keys are "money" and "competetiveness"
         noElection = true;
     } else if (matchup["DEM"] == null) {
-        console.log(Object.keys(matchup).length);
         if (Object.keys(matchup).length == 3) {
-            console.log(matchup["REP"]["Candidate"]);
             matchup["REP"]["Predicted Vote Share"] = 1;
         }
         matchup["DEM"] = {
@@ -81,8 +79,8 @@ function getMatchup(data, state, position, district) {
         }
     } else {
         matchup["competetiveness"] = Math.abs(matchup["DEM"]["Predicted Vote Share"] - matchup["REP"]["Predicted Vote Share"]);
-        matchup["color"] = evaluatePredictionColor(matchup["DEM"]["Predicted Vote Share"], matchup["REP"]["Predicted Vote Share"])
-        matchup["rating"] = evaluatePredictionDescription(matchup["DEM"]["Predicted Vote Share"], matchup["REP"]["Predicted Vote Share"])
+        matchup["color"] = evaluatePredictionColor(matchup["DEM"]["Predicted Win Probability"], matchup["REP"]["Predicted Win Probability"])
+        matchup["rating"] = evaluatePredictionDescription(matchup["DEM"]["Predicted Win Probability"], matchup["REP"]["Predicted Win Probability"])
     }
 
     //U.S. House, Georgia District 12
@@ -121,20 +119,23 @@ function getMatchup(data, state, position, district) {
 }
 
 function evaluatePredictionColor(predictionDem, predictionRep) {
-    var color = ""
-    let difference = predictionDem - predictionRep;
+    let dem = parseFloat(predictionDem);
+    let rep = parseFloat(predictionRep);
 
-    if (difference > 0.80) {
+    var color = ""
+    let difference = dem - rep;
+
+    if (difference > 0.9) {
         color = "solid-blue";
-    } else if (difference > 0.3) {
+    } else if (difference > 0.5) {
         color = "likely-blue";
-    } else if (difference > 0.1) {
+    } else if (difference > 0.2) {
         color = "lean-blue";
-    } else if (difference >= -0.1) {
+    } else if (difference >= -0.2) {
         color = "purple";
-    } else if (difference >= -0.3) {
+    } else if (difference >= -0.5) {
         color = "lean-red";
-    } else if (difference >= -0.8) {
+    } else if (difference >= -0.9) {
         color = "likely-red";
     } else {
         color = "solid-red";
@@ -144,20 +145,23 @@ function evaluatePredictionColor(predictionDem, predictionRep) {
 }
 
 function evaluatePredictionDescription(predictionDem, predictionRep) {
-    var description = ""
-    let difference = predictionDem - predictionRep;
+    let dem = parseFloat(predictionDem);
+    let rep = parseFloat(predictionRep);
 
-    if (difference > 0.8) {
+    var description = ""
+    let difference = dem - rep;
+
+    if (difference > 0.9) {
         description = "SOLID D";
-    } else if (difference > 0.3) {
+    } else if (difference > 0.5) {
         description = "LIKELY D";
-    } else if (difference > 0.1) {
+    } else if (difference > 0.2) {
         description = "LEAN D";
-    } else if (difference >= -0.1) {
+    } else if (difference >= -0.2) {
         description = "TOSS-UP";
-    } else if (difference >= -0.3) {
+    } else if (difference >= -0.5) {
         description = "LEAN R";
-    } else if (difference >= -0.8) {
+    } else if (difference >= -0.9) {
         description = "LIKELY R";
     } else {
         description = "SOLID R";
@@ -200,7 +204,7 @@ function createCard(matchup, appendLocation = ".main-section") {
 
     //Create card
     var color = "";
-    color = evaluatePredictionColor(predictionDem, predictionRep);
+    color = evaluatePredictionColor(dem["Predicted Win Probability"], rep["Predicted Win Probabilitiy"]);
     var className = "prediction-card " + color;
 
     let cardCreate = $('<div />', {
@@ -221,7 +225,7 @@ function createCard(matchup, appendLocation = ".main-section") {
     let titleH1 = $("<h1 />").text(title);
     card.append(titleH1);
 
-    projectionDescription = evaluatePredictionDescription(predictionDem, predictionRep);
+    projectionDescription = evaluatePredictionDescription(dem["Predicted Win Probability"], rep["Predicted Win Probability"]);
     let projectionDescriptionP = $("<h2 />").text(projectionDescription);
     card.append(projectionDescriptionP);
 
