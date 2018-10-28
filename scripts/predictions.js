@@ -87,11 +87,6 @@ function getMatchup(data, state, position, district) {
         matchup["rating"] = evaluatePredictionDescription(matchup["DEM"]["Predicted Win Probability"], matchup["REP"]["Predicted Win Probability"])
     }
 
-    //U.S. House, Georgia District 12
-    //U.S. Senate, Georgia
-    //Georgia House, District 9
-    //Georgia Senate, District 40
-    //Georgia Governor
     let stateName = convertStateName(state);
     switch (position) {
         case "U.S. Representative":
@@ -126,10 +121,10 @@ function evaluatePredictionColor(predictionDem, predictionRep) {
     var stringDem = predictionDem;
     var stringRep = predictionRep;
 
-    if (predictionDem.includes(">") || predictionDem.includes("<)")) {
+    if (predictionDem.includes(">") || predictionDem.includes("<")) {
         stringDem = predictionDem.substring(2);
     }
-    if (predictionRep.includes(">") || predictionRep.includes("<)")) {
+    if (predictionRep.includes(">") || predictionRep.includes("<")) {
         stringRep = predictionRep.substring(2);
     }
 
@@ -163,10 +158,10 @@ function evaluatePredictionDescription(predictionDem, predictionRep) {
     var stringDem = predictionDem;
     var stringRep = predictionRep;
 
-    if (predictionDem.includes(">") || predictionDem.includes("<)")) {
+    if (predictionDem.includes(">") || predictionDem.includes("<")) {
         stringDem = predictionDem.substring(2);
     }
-    if (predictionRep.includes(">") || predictionRep.includes("<)")) {
+    if (predictionRep.includes(">") || predictionRep.includes("<")) {
         stringRep = predictionRep.substring(2);
     }
 
