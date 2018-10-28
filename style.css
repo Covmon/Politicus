@@ -343,6 +343,7 @@ a:hover {
 }
 
 table .incumbent {
+    font-weight: bold;
     background-color: rgb(238, 238, 238);
 }
 
@@ -743,6 +744,10 @@ input:focus {
     background-color: rgb(82, 206, 82);
     border-radius: 50%;
     display: inline-block;
+  }
+
+  @media only screen and (max-width: 700px) {
+
   }
 
   @media only screen and (max-width: 600px) {
