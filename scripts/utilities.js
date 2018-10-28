@@ -116,7 +116,6 @@ function matchupsEqual(a, b) {
     }
 }
 
-var topRaces = [];
 
 function getElections(positions, numTopElections, createTable, alreadyAdded = [], appendLocation = ".main-section") {
     console.log("Getting Elections");
@@ -145,6 +144,7 @@ function getElections(positions, numTopElections, createTable, alreadyAdded = []
     var elapsedB = 0;
     var elapsedC = 0;
 
+    var topRacesList = [];
     var rowsList = [];
     
     console.log("ALL AVAILABLE RACES");
@@ -158,7 +158,7 @@ function getElections(positions, numTopElections, createTable, alreadyAdded = []
         elapsedA += elapsed1;
 
         let timeB1 = new Date().getTime();
-        getTopElections(matchup, numTopElections, alreadyAdded);
+        getTopElections(topRacesList, matchup, numTopElections, alreadyAdded);
         let timeB2 = new Date().getTime();
         let elapsed2 = timeB2 - timeB1;
         elapsedB += elapsed2;
@@ -176,7 +176,7 @@ function getElections(positions, numTopElections, createTable, alreadyAdded = []
     console.log("time elapsed for top races: " + elapsedB);
     console.log("time elapsed for create rows: " + elapsedC);
 
-    if (topRaces.length == 0) {
+    if (topRacesList.length == 0) {
         let errorP = $("<p />").text("Sorry, no races for the selected state and election type are available.");
         errorP.attr("id", "error-p");
         $(".main-section").append(errorP);
@@ -197,7 +197,7 @@ function getElections(positions, numTopElections, createTable, alreadyAdded = []
     }
     
 
-    topRaces.sort(function(a,b) {
+    topRacesList.sort(function(a,b) {
         if (a["money"] > b["money"]) {
             return -1;
         }
@@ -207,8 +207,8 @@ function getElections(positions, numTopElections, createTable, alreadyAdded = []
         return 0;
     });
 
-    for (var i=0; i<topRaces.length; i++) {
-        race = topRaces[i];
+    for (var i=0; i<topRacesList.length; i++) {
+        race = topRacesList[i];
         createCard(race, appendLocation);
     }
 
@@ -216,11 +216,11 @@ function getElections(positions, numTopElections, createTable, alreadyAdded = []
         track: true
     });
 
-    return topRaces;
+    return topRacesList;
 }
 
 
-function getTopElections(matchup, numRaces, alreadyAdded = []) {
+function getTopElections(topRaces, matchup, numRaces, alreadyAdded = []) {
 
     let fundraising = matchup["money"];
     let competetiveness = matchup["competetiveness"];
