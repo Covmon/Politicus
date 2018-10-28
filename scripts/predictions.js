@@ -63,6 +63,8 @@ function getMatchup(data, state, position, district) {
             "Predicted Vote Share": 0,
             "Predicted Win Probability": "0%"
         }
+        matchup["rating"] = "SOLID R";
+        matchup["color"] = "solid-red";
         
     } else if (matchup["REP"] == null) {
         if (Object.keys(matchup).length == 3) {
@@ -77,6 +79,8 @@ function getMatchup(data, state, position, district) {
             "Predicted Vote Share": 0,
             "Predicted Win Probability": "0%"
         }
+        matchup["rating"] = "SOLID D";
+        matchup["color"] = "solid-blue";
     } else {
         matchup["competetiveness"] = Math.abs(matchup["DEM"]["Predicted Vote Share"] - matchup["REP"]["Predicted Vote Share"]);
         matchup["color"] = evaluatePredictionColor(matchup["DEM"]["Predicted Win Probability"], matchup["REP"]["Predicted Win Probability"])
@@ -539,6 +543,9 @@ function createTableRow(matchup, rowsList) {
     var probabilityRep = rep["Predicted Win Probability"] + "%";
     var probabilityThird = third["Predicted Win Probability"] + "%";
 
+    let rating = matchup.rating;
+    let color = matchup.color;
+
     var s = dem.State;
     var candidateDem = dem.Candidate;
     var candidateRep = rep.Candidate;
@@ -552,17 +559,18 @@ function createTableRow(matchup, rowsList) {
     let race = "<p>" + matchup["title"] + "</p>";
     var candidates = "<p> <span class='blue'>" + candidateDem + incumbentDem + "</span> vs <span class='red'>" + candidateRep + incumbentRep + "</span> </p>";
     let projectionChart = createProjectionChart(matchup);
-    var probabilities = "<p class='number'> <span class='blue'>" + probabilityDem + " (D)</span> vs <span class='red'>" + probabilityRep + " (R)</span> </p>";
+    //var probabilities = "<p class='number'> <span class='blue'>" + probabilityDem + " (D)</span> vs <span class='red'>" + probabilityRep + " (R)</span> </p>";
+    var probabilities = "<h2 class='" + color + "'>" + rating + "</h2>";
 
     if (percentThird > 2 && percentDem < 0.01) {
         let partyThird = " (" + third.Party + ")";
         candidates = "<p> <span class='yellow'>" + candidateThird + partyThird + incumbentThird + "</span> vs <span class='red'>" + candidateRep + incumbentRep + "</span> </p>";
-        probabilities = "<p class='number'> <span class='yellow'>" + probabilityThird + " " + partyThird + "</span> vs <span class='red'>" + probabilityRep + " (R)</span> </p>";
+        //probabilities = "<p class='number'> <span class='yellow'>" + probabilityThird + " " + partyThird + "</span> vs <span class='red'>" + probabilityRep + " (R)</span> </p>";
 
     } else if (percentThird > 2 && percentRep < 0.01) {
         let partyThird = " (" + third.Party + ")";
         candidates = "<p> <span class='blue'>" + candidateDem + incumbentDem + "</span> vs <span class='yellow'>" + candidateThird + partyThird + incumbentThird + "</span> </p>";
-        probabilities = "<p class='number'> <span class='blue'>" + probabilityDem + " (D)</span> vs <span class='yellow'>" + probabilityThird + " " + partyThird + "</span> </p>";
+        //probabilities = "<p class='number'> <span class='blue'>" + probabilityDem + " (D)</span> vs <span class='yellow'>" + probabilityThird + " " + partyThird + "</span> </p>";
     
     }
 
@@ -591,7 +599,7 @@ function createTableRow(matchup, rowsList) {
             paging: false,
             ordering: true,
             language: {
-                searchPlaceholder: "State, position, or candidate",
+                searchPlaceholder: "State, race, candidate, or rating",
                 info: "Showing _START_ to _END_ of _TOTAL_ races",
                 infoFiltered: " - filtered from _MAX_ total races",
                 search: "Search:",
@@ -602,7 +610,7 @@ function createTableRow(matchup, rowsList) {
                 null,
                 null,
                 {"searchable": false, "width": "240px"},
-                {"searchable": false}
+                {"searchable": true}
             ]
         });
         

@@ -346,6 +346,44 @@ table .incumbent {
     background-color: rgb(238, 238, 238);
 }
 
+table h2 {
+    margin-top: 9px;
+    color: white !important;
+    padding: 0px 5px;
+    display: inline-flex;
+    border-radius: 2px;
+    font-family: "Roboto Mono",monospace;
+    font-size: 13px;
+}
+
+table .solid-blue {
+    background-color: #3377e4;
+}
+
+table .likely-blue {
+    background-color: #7da3e0;
+}
+
+table .lean-blue {
+    background-color: #a9c5f5;
+}
+
+table .solid-red {
+    background-color: #e4371d;
+}
+
+table .likely-red {
+    background-color: #f36d58;
+}
+
+table .lean-red {
+    background-color: #faa396;
+}
+
+table .purple {
+    background-color: #aa5ee9;
+}
+
 .bold {
     font-weight: 900;
 }
@@ -492,7 +530,7 @@ input {
     text-align: left !important;
     all:unset;
     display:inline-block;
-    width: auto;
+    width: 225px;
     background-color: white;
     cursor: text;
     border-radius: 5px;
