@@ -119,6 +119,9 @@ function getMatchup(data, state, position, district) {
 }
 
 function evaluatePredictionColor(predictionDem, predictionRep) {
+    console.log("Evaluate");
+    console.log(predictionDem);
+    console.log(predictionRep);
     let dem = parseFloat(predictionDem)/100;
     let rep = parseFloat(predictionRep)/100;
 
