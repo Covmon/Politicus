@@ -333,6 +333,11 @@ a:hover {
     color: rgb(244, 193, 68);
 }
 
+.incumbent {
+    padding: 1px;
+    background-color: rgb(241, 241, 241);
+}
+
 .bold {
     font-weight: 900;
 }
