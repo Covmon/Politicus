@@ -628,8 +628,8 @@ function createTableRow(matchup, rowsList) {
                 null,
                 null,
                 null,
-                {"searchable": false, "width": "260px"},
-                {"searchable": true},
+                {"searchable": false, "width": "250px"},
+                {"searchable": true, "width": "75px"},
                 {"searchable": false, "width": "125px"}
             ]
         });
