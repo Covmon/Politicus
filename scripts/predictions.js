@@ -119,15 +119,21 @@ function getMatchup(data, state, position, district) {
 }
 
 function evaluatePredictionColor(predictionDem, predictionRep) {
-    console.log("Evaluate");
-    console.log(predictionDem);
-    console.log(predictionRep);
-    let dem = parseFloat(predictionDem)/100;
-    let rep = parseFloat(predictionRep)/100;
+    var stringDem = predictionDem;
+    var stringRep = predictionRep;
+
+    if (predictionDem.includes(">") || predictionDem.includes("<)")) {
+        stringDem = predictionDem.substring(2);
+    }
+    if (predictionRep.includes(">") || predictionRep.includes("<)")) {
+        stringRep = predictionRep.substring(2);
+    }
+
+    let dem = parseFloat(stringDem)/100;
+    let rep = parseFloat(stringRep)/100;
 
     var color = ""
     let difference = dem - rep;
-    console.log(difference);
 
     if (difference > 0.9) {
         color = "solid-blue";
@@ -144,14 +150,24 @@ function evaluatePredictionColor(predictionDem, predictionRep) {
     } else {
         color = "solid-red";
     }
-    console.log(color);
 
     return color;
 }
 
 function evaluatePredictionDescription(predictionDem, predictionRep) {
-    let dem = parseFloat(predictionDem)/100;
-    let rep = parseFloat(predictionRep)/100;
+
+    var stringDem = predictionDem;
+    var stringRep = predictionRep;
+
+    if (predictionDem.includes(">") || predictionDem.includes("<)")) {
+        stringDem = predictionDem.substring(2);
+    }
+    if (predictionRep.includes(">") || predictionRep.includes("<)")) {
+        stringRep = predictionRep.substring(2);
+    }
+
+    let dem = parseFloat(stringDem)/100;
+    let rep = parseFloat(stringRep)/100;
 
     var description = ""
     let difference = dem - rep;
@@ -209,7 +225,7 @@ function createCard(matchup, appendLocation = ".main-section") {
 
     //Create card
     var color = "";
-    color = evaluatePredictionColor(dem["Predicted Win Probability"], rep["Predicted Win Probabilitiy"]);
+    color = evaluatePredictionColor(dem["Predicted Win Probability"], rep["Predicted Win Probability"]);
     var className = "prediction-card " + color;
 
     let cardCreate = $('<div />', {
