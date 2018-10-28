@@ -119,8 +119,8 @@ function getMatchup(data, state, position, district) {
 }
 
 function evaluatePredictionColor(predictionDem, predictionRep) {
-    let dem = parseFloat(predictionDem);
-    let rep = parseFloat(predictionRep);
+    let dem = parseFloat(predictionDem)/100;
+    let rep = parseFloat(predictionRep)/100;
 
     var color = ""
     let difference = dem - rep;
@@ -145,8 +145,8 @@ function evaluatePredictionColor(predictionDem, predictionRep) {
 }
 
 function evaluatePredictionDescription(predictionDem, predictionRep) {
-    let dem = parseFloat(predictionDem);
-    let rep = parseFloat(predictionRep);
+    let dem = parseFloat(predictionDem)/100;
+    let rep = parseFloat(predictionRep)/100;
 
     var description = ""
     let difference = dem - rep;
