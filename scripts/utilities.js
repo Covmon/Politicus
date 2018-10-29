@@ -1,10 +1,13 @@
 var data = {};
 let availableStates = ["CO", "IA", "MO", "NY", "SC", "TN", "KS", "GA", "UT", "MI", "ID"];
 var currentStates = availableStates;
+var currentAllMatchups = [];
 
 
 $(document).ready(function() {
     console.log("JS Utilites Script Loaded");
+    $('body').on('touchstart', function() {});
+
     let currentURL = window.location.href;
     availableStates.sort();
 
@@ -24,7 +27,6 @@ $(document).ready(function() {
     } else {
         sessionStorage.setItem("state", "All");
     }
-    console.log("Current state: " + state);
 
     if (sessionStorage.getItem("data_all") !== null) {
         let jsonString = sessionStorage.getItem("data_all")
@@ -34,13 +36,11 @@ $(document).ready(function() {
     }
 
     if (state != "All" && !currentURL.includes("index.html")) {
-        console.log("Get JSON for state " + state);
         currentStates = [state];
     } else {
         $("#reset-link").css({"color": "gray"})
     }
 
-    console.log("Current states: " + currentStates);
 });
 
 function getJSON(states, useAll) {
@@ -57,7 +57,6 @@ function getJSON(states, useAll) {
             success = true;
             console.log("Got JSON from local url " + url);
             let jsonP = JSON.parse(json);
-            console.log(jsonP);
             data[state] = jsonP.data;
         });
 
@@ -67,7 +66,6 @@ function getJSON(states, useAll) {
                 success = true;
                 console.log("Got JSON from online url " + urlOnline);
                 let jsonP = JSON.parse(json);
-                console.log(jsonP);
                 data[state] = jsonP.data;
             });
         }
@@ -146,13 +144,12 @@ function getElections(positions, numTopElections, createTable, alreadyAdded = []
 
     var topRacesList = [];
     var rowsList = [];
-    
-    console.log("ALL AVAILABLE RACES");
-    console.log(availableRaces);
 
     for (candidate of availableRaces) {
         let timeA1 = new Date().getTime();
         let matchup = getMatchup(data, candidate.State, candidate.Position, candidate.District);
+        currentAllMatchups.push(matchup);
+        console.log("push to all matchups");
         let timeA2 = new Date().getTime();
         let elapsed1 = timeA2 - timeA1;
         elapsedA += elapsed1;
@@ -258,6 +255,117 @@ function getTopElections(topRaces, matchup, numRaces, alreadyAdded = []) {
             }
         }
     }
+}
+
+function createSquareChart() {
+    let state = convertStateName(currentStates[0]);
+
+        let darkener = "<div id='darkener'></div>";
+        $("body").prepend(darkener);
+
+        let overallDiv = "<div class='overall-section'></div>";
+        $(".main-page").prepend(overallDiv);
+
+        let overallTitle = "<h2>Our Projection for the " + state + " Senate</h2>";
+        $(".overall-section").append(overallTitle);
+
+        let squaresDiv = createDivWithClass("squares");
+        $(".overall-section").append(squaresDiv);
+        let squares = $(".squares");
+
+        let total = currentAllMatchups.length;
+        
+        if (total >= 200) {
+            squares.css("height", "175px");
+        } else if (total >= 150) {
+            squares.css("height", "150px");
+        } else if (total >= 70) {
+            squares.css("height", "125px");
+        } else if (total >= 50) {
+            squares.css("height", "100px");
+        } else if (total >= 27) {
+            squares.css("height", "75px");
+        }
+
+        var solidDem = [];
+        var likelyDem = [];
+        var leanDem = [];
+        var tossUp = [];
+        var leanRep = [];
+        var likelyRep = [];
+        var solidRep = [];
+
+
+        for (matchup of currentAllMatchups) {
+            switch (matchup.rating) {
+                case "SOLID D":
+                    solidDem.push(matchup);
+                    break;
+                case "LIKELY D":
+                    likelyDem.push(matchup);
+                    break;
+                case "LEAN D":
+                    leanDem.push(matchup);
+                    break;
+                case "TOSS-UP":
+                    tossUp.push(matchup);
+                    break;
+                case "LEAN R":
+                    leanRep.push(matchup);
+                    break;
+                case "LIKELY R":
+                    likelyRep.push(matchup);
+                    break;
+                case "SOLID R":
+                    solidRep.push(matchup);
+                    break;
+            }
+        }
+
+        let matchupGroups = [solidDem, likelyDem, leanDem, tossUp, leanRep, likelyRep, solidRep];
+
+        for (group of matchupGroups) {
+
+            for (matchup of group) {
+                let square = "<div class='seat-square " + matchup.color + "' state='" + matchup.state + "' district='" + matchup.district + "' position='" + matchup.position + "'>" + "" /*matchup.district*/ + "</div>";
+                $(".squares").append(square);
+            }
+        }
+        
+        $(".seat-square").hover(function (event) {
+            var rect = $(this).get(0).getBoundingClientRect();
+
+            var left = rect.x + 15;
+            var right = left - 40 - 300;
+            var top = rect.top - 150;
+
+            var css = {"top": top, "left": left};
+
+            if (rect.left > window.innerWidth/2) {
+                css = {"top": top, "left": right};
+            }
+
+            let state = $(this).attr("state");
+            let district = $(this).attr("district");
+            let position = $(this).attr("position");
+
+            let matchup = getMatchup(data, state, position, district);
+            createCard(matchup, "body", true);
+            $("#card-popup").css(css);
+
+            $("#darkener").css("opacity", 0.3);
+
+            }, function () {
+                //out
+                $("#card-popup").remove();
+                $("#darkener").css("opacity", 0);
+            }
+        );
+}
+
+function createDivWithClass(cl) {
+    let div = "<div class='" + cl + "'></div>";
+    return div;
 }
 
 function getLowerBodyName(state) {

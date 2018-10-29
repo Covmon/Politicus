@@ -185,6 +185,62 @@ a:hover {
     color: rgb(140, 122, 202);
 }
 
+.overall-section {
+    margin-top: 20px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#darkener {
+    pointer-events: none;
+    opacity: 0;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    z-index: 9999;
+    top: 0;
+    left: 0;
+    transition-duration: 0.2s;
+}
+
+#card-popup {
+    text-align: center;
+    position: fixed;
+    z-index: 10000;
+    margin: none;
+    padding: none;
+}
+
+.seat-square {
+    display: inline-block;
+    cursor: crosshair;
+    width: 15px;
+    height: 15px;
+    border-radius: 2px;
+    border: 2px solid rgba(0, 0, 0, 0);
+    margin: 3px;
+    font-family: "Roboto Mono";
+    color: white !important;
+    font-size: 11.5px;
+}
+
+.seat-square:hover {
+    border: 2px solid rgb(41, 41, 41);
+}
+
+.squares {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 50px;
+    align-content: center;
+}
+
+.squares-column {
+    display: inline-block;
+}
+
 .main-section {
     margin-top: 20px;
     text-align: center;
@@ -256,32 +312,32 @@ a:hover {
 }
 
 .solid-blue, .solid-blue h2 {
-    background-color: #8fb8fa;
+    background-color: #a0c3fa;
     color: #4483e7;
 }
 
 .likely-blue, .likely-blue h2 {
-    background-color: #a0c3fc;
+    background-color: #c0d7fd;
     color: #4483e7;
 }
 
 .lean-blue, .lean-blue h2 {
-    background-color: #c5d7f5;
+    background-color: #d0def7;
     color: #4483e7;
 }
 
 .solid-red, .solid-red h2 {
-    background-color: #fd8371;
+    background-color: #fd9180;
     color: #e4371d;
 }
 
 .likely-red, .likely-red h2{
-    background-color: #faa497;
+    background-color: #fcb2a7;
     color: #e4371d;
 }
 
 .lean-red, .lean-red h2 {
-    background-color: #fac1b8;
+    background-color: #fccfc8;
     color: #e4371d;
 }
 
@@ -357,31 +413,31 @@ table h2 {
     font-size: 13px;
 }
 
-table .solid-blue {
-    background-color: #3377e4;
+table .solid-blue, .squares .solid-blue {
+    background-color: #4581e0;
 }
 
-table .likely-blue {
+table .likely-blue, .squares .likely-blue {
     background-color: #7da3e0;
 }
 
-table .lean-blue {
+table .lean-blue, .squares .lean-blue {
     background-color: #a9c5f5;
 }
 
-table .solid-red {
+table .solid-red, .squares .solid-red {
     background-color: #e4371d;
 }
 
-table .likely-red {
+table .likely-red, .squares .likely-red {
     background-color: #f36d58;
 }
 
-table .lean-red {
+table .lean-red, .squares .lean-red {
     background-color: #faa396;
 }
 
-table .purple {
+table .purple, .squares .purple {
     background-color: #aa5ee9;
 }
 

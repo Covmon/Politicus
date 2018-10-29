@@ -25,6 +25,7 @@ function getMatchup(data, state, position, district) {
         if (candidate.State == state && candidate.District == String(district) && candidate.Position == position) {
             matchupFound = true;
             var party = candidate.Party;
+            //Format middle names and special names
             if (!candidate.Candidate.includes("Jr.") && !candidate.Candidate.includes("Sr.") && !candidate.Candidate.includes("IV") && !candidate.Candidate.includes("III") && !candidate.Candidate.includes("II") && !candidate.Candidate.includes("I") && !candidate.Candidate.includes("V")) {
                 var spaces = candidate.Candidate.split(" ").length - 1;
                 if (spaces > 1) {
@@ -40,7 +41,9 @@ function getMatchup(data, state, position, district) {
                     candidate.Candidate = tmp[0] + " " + tmp[tmp.length-2] + " " + tmp[tmp.length-1];
                 }
             }
-            
+            matchup["state"] = state;
+            matchup["position"] = position;
+            matchup["district"] = district;
             matchup[party] = candidate;
             matchup["money"] += candidate["Total Money"];
         }
@@ -51,7 +54,7 @@ function getMatchup(data, state, position, district) {
     if (Object.keys(matchup).length == 2) { //No election found in our data set (JSON file), only keys are "money" and "competetiveness"
         noElection = true;
     } else if (matchup["DEM"] == null) {
-        if (Object.keys(matchup).length == 3) {
+        if (Object.keys(matchup).length == 6) {
             matchup["REP"]["Predicted Vote Share"] = 1;
         }
         matchup["DEM"] = {
@@ -67,7 +70,7 @@ function getMatchup(data, state, position, district) {
         matchup["color"] = "solid-red";
         
     } else if (matchup["REP"] == null) {
-        if (Object.keys(matchup).length == 3) {
+        if (Object.keys(matchup).length == 6) {
             matchup["DEM"]["Predicted Vote Share"] = 1;
         }
         matchup["REP"] = {
@@ -190,7 +193,7 @@ function evaluatePredictionDescription(predictionDem, predictionRep) {
     return description;
 }
 
-function createCard(matchup, appendLocation = ".main-section") {
+function createCard(matchup, appendLocation = ".main-section", isPopupCard = false) {
 
     actualCardNumber = numCards + 1;
 
@@ -234,6 +237,9 @@ function createCard(matchup, appendLocation = ".main-section") {
     
     var title = matchup["title"];
     var cardID = "card" + actualCardNumber;
+    if (isPopupCard) {
+        cardID = "card-popup";
+    }
 
     //Create card
     var color = "";
@@ -248,9 +254,12 @@ function createCard(matchup, appendLocation = ".main-section") {
             //$("#card1").toggleClass("hidden");
             //$("#card1").children().toggle();
     }})
-
-    $(appendLocation).append(cardCreate);
-    numCards++;
+    if (!isPopupCard) {
+        $(appendLocation).append(cardCreate);
+        numCards++;
+    } else {
+        $(appendLocation).prepend(cardCreate);
+    }
 
     //Add elements to card
     let card = $("#" + cardID);
