@@ -1,0 +1,665 @@
+,State,Position,District,Candidate,Party,Year Elected,Next Election,Number of Terms in Position,Unopposed in Last Election,DEM Unopposed in Primary,REP Unopposed in Primary
+0,Iowa,Attorney General,0,Tom Miller,DEM,2014,2018,4,No,Yes,Yes
+1,Iowa,Attorney General,0,Tom Miller,DEM,2014,2018,4,No,Yes,Yes
+2,Iowa,Attorney General,0,Tom Miller,DEM,2014,2018,4,No,Yes,Yes
+3,Iowa,Attorney General,0,Tom Miller,DEM,2014,2018,4,No,Yes,Yes
+4,Iowa,Attorney General,nan,Tom Miller,DEM,2014,2018,4,No,Yes,Yes
+5,Iowa,Governor,0,Terry Branstad,REP,2014,2018,2,No,No,No
+6,Iowa,Governor,0,Terry Branstad,REP,2014,2018,2,No,No,No
+7,Iowa,Governor,0,Terry Branstad,REP,2014,2018,2,No,No,No
+8,Iowa,Governor,0,Terry Branstad,REP,2014,2018,2,No,No,No
+9,Iowa,Governor,nan,Terry Branstad,REP,2014,2018,2,No,No,No
+10,Iowa,Secretary Of State,0,Paul Pate,REP,2014,2018,1,No,No,Yes
+11,Iowa,Secretary Of State,0,Paul Pate,REP,2014,2018,1,No,No,Yes
+12,Iowa,Secretary Of State,0,Paul Pate,REP,2014,2018,1,No,No,Yes
+13,Iowa,Secretary Of State,0,Paul Pate,REP,2014,2018,1,No,No,Yes
+14,Iowa,Secretary Of State,nan,Paul Pate,REP,2014,2018,1,No,No,Yes
+15,Iowa,State Representative,0,Charles Isenhart,DEM,2014,2016,2,Yes,Yes,Yes
+16,Iowa,State Representative,0,Charles Isenhart,DEM,2012,2014,1,Yes,Yes,Yes
+17,Iowa,State Representative,0,Charles Isenhart,DEM,2014,2016,2,Yes,Yes,Yes
+18,Iowa,State Representative,0,Charles Isenhart,DEM,2012,2014,1,Yes,Yes,Yes
+19,Iowa,State Representative,0,Charles Isenhart,DEM,2014,2016,2,Yes,Yes,Yes
+20,Iowa,State Representative,0,Charles Isenhart,DEM,2012,2014,1,Yes,Yes,Yes
+21,Iowa,State Representative,0,Charles Isenhart,DEM,2014,2016,2,Yes,Yes,Yes
+22,Iowa,State Representative,0,Charles Isenhart,DEM,2012,2014,1,Yes,Yes,Yes
+23,Iowa,State Representative,1,John Wills,REP,2014,2016,1,Yes,Yes,Yes
+24,Iowa,State Representative,1,John Wills,REP,2014,2016,1,Yes,Yes,Yes
+25,Iowa,State Representative,1,Jeff Smith,REP,2012,2014,1,Yes,Yes,Yes
+26,Iowa,State Representative,11,Gary Worthan,REP,2014,2016,2,Yes,Yes,Yes
+27,Iowa,State Representative,11,Gary Worthan,REP,2014,2016,2,Yes,Yes,Yes
+28,Iowa,State Representative,11,Gary Worthan,REP,2012,2014,1,Yes,Yes,Yes
+29,Iowa,State Representative,12,Brian Best,REP,2014,2016,1,No,Yes,Yes
+30,Iowa,State Representative,12,Brian Best,REP,2014,2016,1,No,Yes,Yes
+31,Iowa,State Representative,12,Dan Muhlbauer,DEM,2012,2014,1,No,Yes,Yes
+32,Iowa,State Representative,13,Chris Hall,DEM,2014,2016,2,No,Yes,Yes
+33,Iowa,State Representative,13,Chris Hall,DEM,2014,2016,2,No,Yes,Yes
+34,Iowa,State Representative,13,Chris Hall,DEM,2012,2014,1,No,Yes,Yes
+35,Iowa,State Representative,14,David Alan Dawson,DEM,2014,2016,2,Yes,Yes,Yes
+36,Iowa,State Representative,14,David Alan Dawson,DEM,2014,2016,2,Yes,Yes,Yes
+37,Iowa,State Representative,14,David Alan Dawson,DEM,2012,2014,1,No,Yes,Yes
+38,Iowa,State Representative,15,Charlie McConkey Jr.,DEM,2014,2016,1,No,Yes,No
+39,Iowa,State Representative,15,Charlie McConkey Jr.,DEM,2014,2016,1,No,Yes,No
+40,Iowa,State Representative,15,Mark Brandenburg,REP,2012,2014,1,No,Yes,No
+41,Iowa,State Representative,16,Mary Ann Hanusa,REP,2014,2016,2,No,Yes,Yes
+42,Iowa,State Representative,16,Mary Ann Hanusa,REP,2014,2016,2,No,Yes,Yes
+43,Iowa,State Representative,16,Mary Ann Hanusa,REP,2012,2014,1,No,Yes,Yes
+44,Iowa,State Representative,17,Matt Windschitl,REP,2014,2016,2,No,Yes,Yes
+45,Iowa,State Representative,17,Matt Windschitl,REP,2014,2016,2,No,Yes,Yes
+46,Iowa,State Representative,17,Matt Windschitl,REP,2012,2014,1,Yes,Yes,Yes
+47,Iowa,State Representative,18,Steven Holt,REP,2014,2016,1,No,Yes,Yes
+48,Iowa,State Representative,18,Steven Holt,REP,2014,2016,1,No,Yes,Yes
+49,Iowa,State Representative,18,Jason Schultz,REP,2012,2014,1,No,Yes,Yes
+50,Iowa,State Representative,19,Ralph Watts,REP,2014,2016,2,Yes,Yes,Yes
+51,Iowa,State Representative,19,Ralph Watts,REP,2014,2016,2,Yes,Yes,Yes
+52,Iowa,State Representative,19,Ralph Watts,REP,2012,2014,1,No,Yes,Yes
+53,Iowa,State Representative,2,Megan Lee Hess Jones,REP,2014,2016,2,No,Yes,Yes
+54,Iowa,State Representative,2,Megan Lee Hess Jones,REP,2014,2016,2,No,Yes,Yes
+55,Iowa,State Representative,2,Megan Lee Hess Jones,REP,2012,2014,1,No,Yes,Yes
+56,Iowa,State Representative,21,Jack Drake,REP,2014,2016,2,No,Yes,Yes
+57,Iowa,State Representative,21,Jack Drake,REP,2014,2016,2,No,Yes,Yes
+58,Iowa,State Representative,21,Jack Drake,REP,2012,2014,1,No,Yes,Yes
+59,Iowa,State Representative,22,Greg Forristall,REP,2014,2016,2,Yes,Yes,Yes
+60,Iowa,State Representative,22,Greg Forristall,REP,2014,2016,2,Yes,Yes,Yes
+61,Iowa,State Representative,22,Greg Forristall,REP,2012,2014,1,Yes,Yes,Yes
+62,Iowa,State Representative,23,Mark Costello,REP,2014,2016,2,Yes,Yes,No
+63,Iowa,State Representative,23,Mark Costello,REP,2014,2016,2,Yes,Yes,No
+64,Iowa,State Representative,23,Mark Costello,REP,2012,2014,1,Yes,Yes,No
+65,Iowa,State Representative,24,Cecil Dolecheck,REP,2014,2016,2,Yes,Yes,Yes
+66,Iowa,State Representative,24,Cecil Dolecheck,REP,2014,2016,2,Yes,Yes,Yes
+67,Iowa,State Representative,24,Cecil Dolecheck,REP,2012,2014,1,Yes,Yes,Yes
+68,Iowa,State Representative,25,Stan Gustafson,REP,2014,2016,1,No,Yes,Yes
+69,Iowa,State Representative,25,Stan Gustafson,REP,2014,2016,1,No,Yes,Yes
+70,Iowa,State Representative,25,Julian Garrett,REP,2012,2014,1,No,Yes,Yes
+71,Iowa,State Representative,26,Scott Ourth,DEM,2014,2016,2,No,Yes,No
+72,Iowa,State Representative,26,Scott Ourth,DEM,2014,2016,2,No,Yes,No
+73,Iowa,State Representative,26,Scott Ourth,DEM,2012,2014,1,No,Yes,No
+74,Iowa,State Representative,27,Joel Fry,REP,2014,2016,2,No,Yes,Yes
+75,Iowa,State Representative,27,Joel Fry,REP,2014,2016,2,No,Yes,Yes
+76,Iowa,State Representative,27,Joel Fry,REP,2012,2014,1,No,Yes,Yes
+77,Iowa,State Representative,28,Greg Heartsill,REP,2014,2016,2,No,No,No
+78,Iowa,State Representative,28,Greg Heartsill,REP,2014,2016,2,No,No,No
+79,Iowa,State Representative,28,Greg Heartsill,REP,2012,2014,1,No,No,No
+80,Iowa,State Representative,29,Dan Kelley,DEM,2014,2016,2,No,Yes,Yes
+81,Iowa,State Representative,29,Dan Kelley,DEM,2014,2016,2,No,Yes,Yes
+82,Iowa,State Representative,29,Dan Kelley,DEM,2012,2014,1,No,Yes,Yes
+83,Iowa,State Representative,3,Dan Huseman,REP,2014,2016,2,No,Yes,Yes
+84,Iowa,State Representative,3,Dan Huseman,REP,2014,2016,2,No,Yes,Yes
+85,Iowa,State Representative,3,Dan Huseman,REP,2012,2014,1,Yes,Yes,Yes
+86,Iowa,State Representative,31,Rick Olson,DEM,2014,2016,2,No,No,Yes
+87,Iowa,State Representative,31,Rick Olson,DEM,2014,2016,2,No,No,Yes
+88,Iowa,State Representative,31,Rick Olson,DEM,2012,2014,1,Yes,No,Yes
+89,Iowa,State Representative,32,Ruth Ann Gaines,DEM,2014,2016,2,Yes,Yes,Yes
+90,Iowa,State Representative,32,Ruth Ann Gaines,DEM,2014,2016,2,Yes,Yes,Yes
+91,Iowa,State Representative,32,Ruth Ann Gaines,DEM,2012,2014,1,No,Yes,Yes
+92,Iowa,State Representative,33,Brian Meyer,DEM,2014,2016,2,Yes,Yes,Yes
+93,Iowa,State Representative,33,Brian Meyer,DEM,2014,2016,2,Yes,Yes,Yes
+94,Iowa,State Representative,33,Kevin McCarthy,DEM,2012,2014,1,No,Yes,Yes
+95,Iowa,State Representative,34,Bruce Hunter,DEM,2014,2016,2,No,Yes,Yes
+96,Iowa,State Representative,34,Bruce Hunter,DEM,2014,2016,2,No,Yes,Yes
+97,Iowa,State Representative,34,Bruce Hunter,DEM,2012,2014,1,No,Yes,Yes
+98,Iowa,State Representative,35,Ako Abdul-Samad,DEM,2014,2016,2,Yes,Yes,Yes
+99,Iowa,State Representative,35,Ako Abdul-Samad,DEM,2014,2016,2,Yes,Yes,Yes
+100,Iowa,State Representative,35,Ako Abdul-Samad,DEM,2012,2014,1,No,Yes,Yes
+101,Iowa,State Representative,36,Marti Anderson,DEM,2014,2016,2,Yes,Yes,Yes
+102,Iowa,State Representative,36,Marti Anderson,DEM,2014,2016,2,Yes,Yes,Yes
+103,Iowa,State Representative,36,Marti Anderson,DEM,2012,2014,1,No,Yes,Yes
+104,Iowa,State Representative,37,John Landon,REP,2014,2016,2,Yes,Yes,Yes
+105,Iowa,State Representative,37,John Landon,REP,2014,2016,2,Yes,Yes,Yes
+106,Iowa,State Representative,37,John Landon,REP,2012,2014,1,No,Yes,Yes
+107,Iowa,State Representative,38,Kevin Koester,REP,2014,2016,2,No,No,Yes
+108,Iowa,State Representative,38,Kevin Koester,REP,2014,2016,2,No,No,Yes
+109,Iowa,State Representative,38,Kevin Koester,REP,2012,2014,1,No,No,Yes
+110,Iowa,State Representative,39,Jake Highfill,REP,2014,2016,2,No,Yes,Yes
+111,Iowa,State Representative,39,Jake Highfill,REP,2014,2016,2,No,Yes,Yes
+112,Iowa,State Representative,39,Jake Highfill,REP,2012,2014,1,No,Yes,Yes
+113,Iowa,State Representative,4,Dwayne Alons,REP,2014,2016,7,Yes,Yes,Yes
+114,Iowa,State Representative,4,Dwayne Alons,REP,2014,2016,7,Yes,Yes,Yes
+115,Iowa,State Representative,4,Dwayne Alons,REP,2012,2014,6,Yes,Yes,Yes
+116,Iowa,State Representative,41,Jo Oldson,DEM,2014,2016,2,No,Yes,Yes
+117,Iowa,State Representative,41,Jo Oldson,DEM,2014,2016,2,No,Yes,Yes
+118,Iowa,State Representative,41,Jo Oldson,DEM,2012,2014,1,No,Yes,Yes
+119,Iowa,State Representative,42,Peter Cownie,REP,2014,2016,2,No,Yes,Yes
+120,Iowa,State Representative,42,Peter Cownie,REP,2014,2016,2,No,Yes,Yes
+121,Iowa,State Representative,42,Peter Cownie,REP,2012,2014,1,No,Yes,Yes
+122,Iowa,State Representative,43,Christopher Hagenow,REP,2014,2016,2,No,Yes,Yes
+123,Iowa,State Representative,43,Christopher Hagenow,REP,2014,2016,2,No,Yes,Yes
+124,Iowa,State Representative,43,Christopher Hagenow,REP,2012,2014,1,No,Yes,Yes
+125,Iowa,State Representative,44,Rob Taylor,REP,2014,2016,2,Yes,Yes,No
+126,Iowa,State Representative,44,Rob Taylor,REP,2014,2016,2,Yes,Yes,No
+127,Iowa,State Representative,44,Rob Taylor,REP,2012,2014,1,No,Yes,No
+128,Iowa,State Representative,45,Beth Wessel-Kroeschell,DEM,2014,2016,6,No,Yes,Yes
+129,Iowa,State Representative,45,Beth Wessel-Kroeschell,DEM,2014,2016,6,No,Yes,Yes
+130,Iowa,State Representative,45,Beth Wessel-Kroeschell,DEM,2012,2014,5,No,Yes,Yes
+131,Iowa,State Representative,46,Lisa Heddens,DEM,2014,2016,6,Yes,Yes,Yes
+132,Iowa,State Representative,46,Lisa Heddens,DEM,2014,2016,6,Yes,Yes,Yes
+133,Iowa,State Representative,46,Lisa Heddens,DEM,2012,2014,5,No,Yes,Yes
+134,Iowa,State Representative,47,Chip Baltimore,REP,2014,2016,2,No,Yes,No
+135,Iowa,State Representative,47,Chip Baltimore,REP,2014,2016,2,No,Yes,No
+136,Iowa,State Representative,47,Chip Baltimore,REP,2012,2014,1,No,Yes,No
+137,Iowa,State Representative,48,Robert Bacon,REP,2014,2016,2,Yes,Yes,Yes
+138,Iowa,State Representative,48,Robert Bacon,REP,2014,2016,2,Yes,Yes,Yes
+139,Iowa,State Representative,48,Robert Bacon,REP,2012,2014,1,No,Yes,Yes
+140,Iowa,State Representative,49,Dave Deyoe,REP,2014,2016,2,No,Yes,Yes
+141,Iowa,State Representative,49,Dave Deyoe,REP,2014,2016,2,No,Yes,Yes
+142,Iowa,State Representative,49,Dave Deyoe,REP,2012,2014,1,No,Yes,Yes
+143,Iowa,State Representative,5,Chuck Soderberg,REP,2014,2016,2,Yes,Yes,No
+144,Iowa,State Representative,5,Chuck Soderberg,REP,2014,2016,2,Yes,Yes,No
+145,Iowa,State Representative,5,Chuck Soderberg,REP,2012,2014,1,Yes,Yes,No
+146,Iowa,State Representative,51,Josh Byrnes,REP,2014,2016,2,No,Yes,Yes
+147,Iowa,State Representative,51,Josh Byrnes,REP,2014,2016,2,No,Yes,Yes
+148,Iowa,State Representative,51,Josh Byrnes,REP,2012,2014,1,No,Yes,Yes
+149,Iowa,State Representative,52,Todd Prichard,DEM,2014,2016,2,Yes,Yes,Yes
+150,Iowa,State Representative,52,Todd Prichard,DEM,2014,2016,2,Yes,Yes,Yes
+151,Iowa,State Representative,52,Brian Quirk,DEM,2012,2014,1,No,Yes,Yes
+152,Iowa,State Representative,53,Sharon Steckman,DEM,2014,2016,2,Yes,Yes,Yes
+153,Iowa,State Representative,53,Sharon Steckman,DEM,2014,2016,2,Yes,Yes,Yes
+154,Iowa,State Representative,53,Sharon Steckman,DEM,2012,2014,1,Yes,Yes,Yes
+155,Iowa,State Representative,54,Linda Upmeyer,REP,2014,2016,2,Yes,Yes,Yes
+156,Iowa,State Representative,54,Linda Upmeyer,REP,2014,2016,2,Yes,Yes,Yes
+157,Iowa,State Representative,54,Linda Upmeyer,REP,2012,2014,1,Yes,Yes,Yes
+158,Iowa,State Representative,55,Darrel Branhagen,REP,2014,2016,1,No,Yes,Yes
+159,Iowa,State Representative,55,Darrel Branhagen,REP,2014,2016,1,No,Yes,Yes
+160,Iowa,State Representative,55,Roger Thomas,DEM,2012,2014,1,No,Yes,Yes
+161,Iowa,State Representative,56,Patti Ruff,DEM,2014,2016,2,No,No,Yes
+162,Iowa,State Representative,56,Patti Ruff,DEM,2014,2016,2,No,No,Yes
+163,Iowa,State Representative,56,Patti Ruff,DEM,2012,2014,1,No,No,Yes
+164,Iowa,State Representative,57,Nancy Dunkel,DEM,2014,2016,2,No,No,Yes
+165,Iowa,State Representative,57,Nancy Dunkel,DEM,2014,2016,2,No,No,Yes
+166,Iowa,State Representative,57,Nancy Dunkel,DEM,2012,2014,1,Yes,No,Yes
+167,Iowa,State Representative,58,Brian Moore,REP,2014,2016,2,No,Yes,Yes
+168,Iowa,State Representative,58,Brian Moore,REP,2014,2016,2,No,Yes,Yes
+169,Iowa,State Representative,58,Brian Moore,REP,2012,2014,1,No,Yes,Yes
+170,Iowa,State Representative,59,Bob Kressig,DEM,2014,2016,2,No,Yes,Yes
+171,Iowa,State Representative,59,Bob Kressig,DEM,2014,2016,2,No,Yes,Yes
+172,Iowa,State Representative,59,Bob Kressig,DEM,2012,2014,1,No,Yes,Yes
+173,Iowa,State Representative,6,Ronald Jorgensen,REP,2014,2016,2,Yes,No,No
+174,Iowa,State Representative,6,Ronald Jorgensen,REP,2014,2016,2,Yes,No,No
+175,Iowa,State Representative,6,Ronald Jorgensen,REP,2012,2014,1,Yes,No,No
+176,Iowa,State Representative,61,Timi Brown-Powers,DEM,2014,2016,1,No,Yes,Yes
+177,Iowa,State Representative,61,Timi Brown-Powers,DEM,2014,2016,1,No,Yes,Yes
+178,Iowa,State Representative,61,Anesa Kajtazovic,DEM,2012,2014,1,No,Yes,Yes
+179,Iowa,State Representative,62,Deborah Berry,DEM,2014,2016,2,Yes,Yes,Yes
+180,Iowa,State Representative,62,Deborah Berry,DEM,2014,2016,2,Yes,Yes,Yes
+181,Iowa,State Representative,62,Deborah Berry,DEM,2012,2014,1,No,Yes,Yes
+182,Iowa,State Representative,63,Sandy Salmon,REP,2014,2016,2,No,Yes,Yes
+183,Iowa,State Representative,63,Sandy Salmon,REP,2014,2016,2,No,Yes,Yes
+184,Iowa,State Representative,63,Sandy Salmon,DEM,2012,2014,1,No,Yes,Yes
+185,Iowa,State Representative,64,Bruce Bearinger,DEM,2014,2016,2,No,Yes,Yes
+186,Iowa,State Representative,64,Bruce Bearinger,DEM,2014,2016,2,No,Yes,Yes
+187,Iowa,State Representative,64,Bruce Bearinger,DEM,2012,2014,1,No,Yes,Yes
+188,Iowa,State Representative,65,Liz Bennett,DEM,2014,2016,1,Yes,Yes,Yes
+189,Iowa,State Representative,65,Liz Bennett,DEM,2014,2016,1,Yes,Yes,Yes
+190,Iowa,State Representative,65,Tyler Olson,DEM,2012,2014,1,Yes,Yes,Yes
+191,Iowa,State Representative,66,Art Staed,DEM,2014,2016,2,Yes,Yes,Yes
+192,Iowa,State Representative,66,Art Staed,DEM,2014,2016,2,Yes,Yes,Yes
+193,Iowa,State Representative,66,Art Staed,DEM,2012,2014,1,No,Yes,Yes
+194,Iowa,State Representative,67,Kraig Paulsen,REP,2014,2016,2,Yes,Yes,Yes
+195,Iowa,State Representative,67,Kraig Paulsen,REP,2014,2016,2,Yes,Yes,Yes
+196,Iowa,State Representative,67,Kraig Paulsen,REP,2012,2014,1,No,Yes,Yes
+197,Iowa,State Representative,68,Ken Rizer,REP,2014,2016,1,No,No,Yes
+198,Iowa,State Representative,68,Ken Rizer,REP,2014,2016,1,No,No,Yes
+199,Iowa,State Representative,68,Daniel Lundby,DEM,2012,2014,1,No,No,Yes
+200,Iowa,State Representative,69,Kirsten Running-Marquardt,DEM,2014,2016,2,Yes,Yes,Yes
+201,Iowa,State Representative,69,Kirsten Running-Marquardt,DEM,2014,2016,2,Yes,Yes,Yes
+202,Iowa,State Representative,69,Kirsten Running-Marquardt,DEM,2012,2014,1,Yes,Yes,Yes
+203,Iowa,State Representative,7,Tedd Gassman,REP,2014,2016,2,No,Yes,Yes
+204,Iowa,State Representative,7,Tedd Gassman,REP,2014,2016,2,No,Yes,Yes
+205,Iowa,State Representative,7,Tedd Gassman,REP,2012,2014,1,No,Yes,Yes
+206,Iowa,State Representative,71,Mark Smith,DEM,2014,2016,2,No,Yes,Yes
+207,Iowa,State Representative,71,Mark Smith,DEM,2014,2016,2,No,Yes,Yes
+208,Iowa,State Representative,71,Mark Smith,DEM,2012,2014,1,No,Yes,Yes
+209,Iowa,State Representative,72,Dean Fisher,REP,2014,2016,2,No,No,Yes
+210,Iowa,State Representative,72,Dean Fisher,REP,2014,2016,2,No,No,Yes
+211,Iowa,State Representative,72,Dean Fisher,REP,2012,2014,1,No,No,Yes
+212,Iowa,State Representative,73,Bobby Kaufmann,REP,2014,2016,2,No,Yes,Yes
+213,Iowa,State Representative,73,Bobby Kaufmann,REP,2014,2016,2,No,Yes,Yes
+214,Iowa,State Representative,73,Bobby Kaufmann,REP,2012,2014,1,No,Yes,Yes
+215,Iowa,State Representative,74,David Jacoby,DEM,2014,2016,2,Yes,Yes,Yes
+216,Iowa,State Representative,74,David Jacoby,DEM,2014,2016,2,Yes,Yes,Yes
+217,Iowa,State Representative,74,David Jacoby,DEM,2012,2014,1,Yes,Yes,Yes
+218,Iowa,State Representative,75,Dawn Pettengill,REP,2014,2016,2,No,No,Yes
+219,Iowa,State Representative,75,Dawn Pettengill,REP,2014,2016,2,No,No,Yes
+220,Iowa,State Representative,75,Dawn Pettengill,REP,2012,2014,1,No,No,Yes
+221,Iowa,State Representative,76,David Maxwell,REP,2014,2016,2,No,Yes,Yes
+222,Iowa,State Representative,76,David Maxwell,REP,2014,2016,2,No,Yes,Yes
+223,Iowa,State Representative,76,David Maxwell,REP,2012,2014,1,No,Yes,Yes
+224,Iowa,State Representative,77,Sally Stutsman,DEM,2014,2016,2,Yes,Yes,Yes
+225,Iowa,State Representative,77,Sally Stutsman,DEM,2014,2016,2,Yes,Yes,Yes
+226,Iowa,State Representative,77,Sally Stutsman,DEM,2012,2014,1,No,Yes,Yes
+227,Iowa,State Representative,78,Jarad Klein,REP,2014,2016,2,No,Yes,Yes
+228,Iowa,State Representative,78,Jarad Klein,REP,2014,2016,2,No,Yes,Yes
+229,Iowa,State Representative,78,Jarad Klein,REP,2012,2014,1,Yes,Yes,Yes
+230,Iowa,State Representative,79,Guy Vander Linden,REP,2014,2016,2,Yes,Yes,Yes
+231,Iowa,State Representative,79,Guy Vander Linden,REP,2014,2016,2,Yes,Yes,Yes
+232,Iowa,State Representative,79,Guy Vander Linden,REP,2012,2014,1,No,Yes,Yes
+233,Iowa,State Representative,8,Terry Baxter,REP,2014,2016,1,No,Yes,Yes
+234,Iowa,State Representative,8,Terry Baxter,REP,2014,2016,1,No,Yes,Yes
+235,Iowa,State Representative,8,V V) Rayhons,REP,2012,2014,1,Yes,Yes,Yes
+236,Iowa,State Representative,81,Mary Gaskill,DEM,2014,2016,2,Yes,Yes,Yes
+237,Iowa,State Representative,81,Mary Gaskill,DEM,2014,2016,2,Yes,Yes,Yes
+238,Iowa,State Representative,81,Mary Gaskill,DEM,2012,2014,1,No,Yes,Yes
+239,Iowa,State Representative,82,Curt Hanson,DEM,2014,2016,2,No,Yes,Yes
+240,Iowa,State Representative,82,Curt Hanson,DEM,2014,2016,2,No,Yes,Yes
+241,Iowa,State Representative,82,Curt Hanson,DEM,2012,2014,1,No,Yes,Yes
+242,Iowa,State Representative,83,Jerry Kearns,DEM,2014,2016,2,Yes,No,Yes
+243,Iowa,State Representative,83,Jerry Kearns,DEM,2014,2016,2,Yes,No,Yes
+244,Iowa,State Representative,83,Jerry Kearns,DEM,2012,2014,1,No,No,Yes
+245,Iowa,State Representative,84,David Heaton,REP,2014,2016,2,No,Yes,No
+246,Iowa,State Representative,84,David Heaton,REP,2014,2016,2,No,Yes,No
+247,Iowa,State Representative,84,David Heaton,REP,2012,2014,1,Yes,Yes,No
+248,Iowa,State Representative,85,Vicki Lensing,DEM,2014,2016,2,Yes,Yes,Yes
+249,Iowa,State Representative,85,Vicki Lensing,DEM,2014,2016,2,Yes,Yes,Yes
+250,Iowa,State Representative,85,Vicki Lensing,DEM,2012,2014,1,Yes,Yes,Yes
+251,Iowa,State Representative,86,Mary Mascher,DEM,2014,2016,2,Yes,Yes,Yes
+252,Iowa,State Representative,86,Mary Mascher,DEM,2014,2016,2,Yes,Yes,Yes
+253,Iowa,State Representative,86,Mary Mascher,DEM,2012,2014,1,Yes,Yes,Yes
+254,Iowa,State Representative,87,Dennis Cohoon,DEM,2014,2016,2,Yes,Yes,No
+255,Iowa,State Representative,87,Dennis Cohoon,DEM,2014,2016,2,Yes,Yes,No
+256,Iowa,State Representative,87,Dennis Cohoon,DEM,2012,2014,1,No,Yes,No
+257,Iowa,State Representative,88,Tom Sands,REP,2014,2016,2,Yes,No,Yes
+258,Iowa,State Representative,88,Tom Sands,REP,2014,2016,2,Yes,No,Yes
+259,Iowa,State Representative,88,Tom Sands,REP,2012,2014,1,No,No,Yes
+260,Iowa,State Representative,89,Jim Lykam,DEM,2014,2016,2,Yes,Yes,Yes
+261,Iowa,State Representative,89,Jim Lykam,DEM,2014,2016,2,Yes,Yes,Yes
+262,Iowa,State Representative,89,Jim Lykam,DEM,2012,2014,1,No,Yes,Yes
+263,Iowa,State Representative,9,Helen Miller,DEM,2014,2016,2,Yes,Yes,No
+264,Iowa,State Representative,9,Helen Miller,DEM,2014,2016,2,Yes,Yes,No
+265,Iowa,State Representative,9,Helen Miller,DEM,2012,2014,1,No,Yes,No
+266,Iowa,State Representative,91,Gary Carlson,REP,2014,2016,1,No,Yes,Yes
+267,Iowa,State Representative,91,Gary Carlson,REP,2014,2016,1,No,Yes,Yes
+268,Iowa,State Representative,91,Mark Lofgren,REP,2012,2014,1,No,Yes,Yes
+269,Iowa,State Representative,92,Ross Paustian,REP,2014,2016,1,No,Yes,Yes
+270,Iowa,State Representative,92,Ross Paustian,REP,2014,2016,1,No,Yes,Yes
+271,Iowa,State Representative,92,Frank Wood,DEM,2012,2014,1,No,Yes,Yes
+272,Iowa,State Representative,93,Phyllis Thede,DEM,2014,2016,2,No,Yes,Yes
+273,Iowa,State Representative,93,Phyllis Thede,DEM,2014,2016,2,No,Yes,Yes
+274,Iowa,State Representative,93,Phyllis Thede,DEM,2012,2014,1,No,Yes,Yes
+275,Iowa,State Representative,94,Linda Miller,REP,2014,2016,2,Yes,Yes,Yes
+276,Iowa,State Representative,94,Linda Miller,REP,2014,2016,2,Yes,Yes,Yes
+277,Iowa,State Representative,94,Linda Miller,REP,2012,2014,1,No,Yes,Yes
+278,Iowa,State Representative,95,Quentin Stanerson,REP,2014,2016,2,No,Yes,Yes
+279,Iowa,State Representative,95,Quentin Stanerson,REP,2014,2016,2,No,Yes,Yes
+280,Iowa,State Representative,95,Quentin Stanerson,REP,2012,2014,1,No,Yes,Yes
+281,Iowa,State Representative,96,Lee Hein,REP,2014,2016,2,No,Yes,Yes
+282,Iowa,State Representative,96,Lee Hein,REP,2014,2016,2,No,Yes,Yes
+283,Iowa,State Representative,96,Lee Hein,REP,2012,2014,1,Yes,Yes,Yes
+284,Iowa,State Representative,97,Norlin Mommsen,REP,2014,2016,1,No,Yes,Yes
+285,Iowa,State Representative,97,Norlin Mommsen,REP,2014,2016,1,No,Yes,Yes
+286,Iowa,State Representative,97,Steven Olson,REP,2012,2014,1,No,Yes,Yes
+287,Iowa,State Representative,98,Mary Lynn Wolfe,DEM,2014,2016,2,Yes,Yes,Yes
+288,Iowa,State Representative,98,Mary Lynn Wolfe,DEM,2014,2016,2,Yes,Yes,Yes
+289,Iowa,State Representative,98,Mary Lynn Wolfe,DEM,2012,2014,1,No,Yes,Yes
+290,Iowa,State Representative,99,Abby Finkenauer,DEM,2014,2016,1,No,No,Yes
+291,Iowa,State Representative,99,Abby Finkenauer,DEM,2014,2016,1,No,No,Yes
+292,Iowa,State Representative,99,Pat Joseph Murphy,DEM,2012,2014,1,No,No,Yes
+293,Iowa,State Representative,nan,Tom Shaw,REP,2012,2014,1,Yes,Yes,No
+294,Iowa,State Representative,nan,Clel Baudler,REP,2012,2014,1,No,Yes,No
+295,Iowa,State Representative,nan,Joe Riding,DEM,2012,2014,1,No,No,No
+296,Iowa,State Representative,nan,John Forbes,DEM,2012,2014,1,No,Yes,Yes
+297,Iowa,State Representative,nan,Pat Grassley,REP,2012,2014,1,Yes,Yes,Yes
+298,Iowa,State Representative,nan,Walt Rogers,REP,2012,2014,1,No,Yes,Yes
+299,Iowa,State Representative,nan,Todd Taylor,DEM,2012,2014,1,No,Yes,Yes
+300,Iowa,State Representative,nan,Larry Sheets,REP,2012,2014,1,No,Yes,No
+301,Iowa,State Representative,nan,Cindy Winckler,DEM,2012,2014,1,No,Yes,Yes
+302,Iowa,State Representative,nan,Mike Sexton,REP,2014,2016,1,No,Yes,No
+303,Iowa,State Representative,nan,Clel Baudler,REP,2014,2016,2,No,Yes,No
+304,Iowa,State Representative,nan,Zach Nunn,REP,2014,2016,1,No,No,No
+305,Iowa,State Representative,nan,John Forbes,DEM,2014,2016,2,No,Yes,Yes
+306,Iowa,State Representative,nan,Pat Grassley,REP,2014,2016,2,No,Yes,Yes
+307,Iowa,State Representative,nan,Walt Rogers,REP,2014,2016,2,No,Yes,Yes
+308,Iowa,State Representative,nan,Todd Taylor,DEM,2014,2016,2,Yes,Yes,Yes
+309,Iowa,State Representative,nan,Larry Sheets,REP,2014,2016,2,No,Yes,No
+310,Iowa,State Representative,nan,Cindy Winckler,DEM,2014,2016,2,Yes,Yes,Yes
+311,Iowa,State Representative,nan,Tom Shaw,REP,2012,2014,1,Yes,Yes,No
+312,Iowa,State Representative,nan,Clel Baudler,REP,2012,2014,1,No,Yes,No
+313,Iowa,State Representative,nan,Joe Riding,DEM,2012,2014,1,No,No,No
+314,Iowa,State Representative,nan,John Forbes,DEM,2012,2014,1,No,Yes,Yes
+315,Iowa,State Representative,nan,Pat Grassley,REP,2012,2014,1,Yes,Yes,Yes
+316,Iowa,State Representative,nan,Walt Rogers,REP,2012,2014,1,No,Yes,Yes
+317,Iowa,State Representative,nan,Todd Taylor,DEM,2012,2014,1,No,Yes,Yes
+318,Iowa,State Representative,nan,Larry Sheets,REP,2012,2014,1,No,Yes,No
+319,Iowa,State Representative,nan,Cindy Winckler,DEM,2012,2014,1,No,Yes,Yes
+320,Iowa,State Representative,nan,Mike Sexton,REP,2014,2016,1,No,Yes,No
+321,Iowa,State Representative,nan,Clel Baudler,REP,2014,2016,2,No,Yes,No
+322,Iowa,State Representative,nan,Zach Nunn,REP,2014,2016,1,No,No,No
+323,Iowa,State Representative,nan,John Forbes,DEM,2014,2016,2,No,Yes,Yes
+324,Iowa,State Representative,nan,Pat Grassley,REP,2014,2016,2,No,Yes,Yes
+325,Iowa,State Representative,nan,Walt Rogers,REP,2014,2016,2,No,Yes,Yes
+326,Iowa,State Representative,nan,Todd Taylor,DEM,2014,2016,2,Yes,Yes,Yes
+327,Iowa,State Representative,nan,Larry Sheets,REP,2014,2016,2,No,Yes,No
+328,Iowa,State Representative,nan,Cindy Winckler,DEM,2014,2016,2,Yes,Yes,Yes
+329,Iowa,State Representative,nan,Tom Shaw,REP,2012,2014,1,Yes,Yes,No
+330,Iowa,State Representative,nan,Clel Baudler,REP,2012,2014,1,No,Yes,No
+331,Iowa,State Representative,nan,Joe Riding,DEM,2012,2014,1,No,No,No
+332,Iowa,State Representative,nan,John Forbes,DEM,2012,2014,1,No,Yes,Yes
+333,Iowa,State Representative,nan,Pat Grassley,REP,2012,2014,1,Yes,Yes,Yes
+334,Iowa,State Representative,nan,Walt Rogers,REP,2012,2014,1,No,Yes,Yes
+335,Iowa,State Representative,nan,Todd Taylor,DEM,2012,2014,1,No,Yes,Yes
+336,Iowa,State Representative,nan,Larry Sheets,REP,2012,2014,1,No,Yes,No
+337,Iowa,State Representative,nan,Cindy Winckler,DEM,2012,2014,1,No,Yes,Yes
+338,Iowa,State Representative,nan,Mike Sexton,REP,2014,2016,1,No,Yes,No
+339,Iowa,State Representative,nan,Clel Baudler,REP,2014,2016,2,No,Yes,No
+340,Iowa,State Representative,nan,Zach Nunn,REP,2014,2016,1,No,No,No
+341,Iowa,State Representative,nan,John Forbes,DEM,2014,2016,2,No,Yes,Yes
+342,Iowa,State Representative,nan,Pat Grassley,REP,2014,2016,2,No,Yes,Yes
+343,Iowa,State Representative,nan,Walt Rogers,REP,2014,2016,2,No,Yes,Yes
+344,Iowa,State Representative,nan,Todd Taylor,DEM,2014,2016,2,Yes,Yes,Yes
+345,Iowa,State Representative,nan,Larry Sheets,REP,2014,2016,2,No,Yes,No
+346,Iowa,State Representative,nan,Cindy Winckler,DEM,2014,2016,2,Yes,Yes,Yes
+347,Iowa,State Representative,nan,Tom Shaw,REP,2012,2014,1,Yes,Yes,No
+348,Iowa,State Representative,nan,Clel Baudler,REP,2012,2014,1,No,Yes,No
+349,Iowa,State Representative,nan,Joe Riding,DEM,2012,2014,1,No,No,No
+350,Iowa,State Representative,nan,John Forbes,DEM,2012,2014,1,No,Yes,Yes
+351,Iowa,State Representative,nan,Pat Grassley,REP,2012,2014,1,Yes,Yes,Yes
+352,Iowa,State Representative,nan,Walt Rogers,REP,2012,2014,1,No,Yes,Yes
+353,Iowa,State Representative,nan,Todd Taylor,DEM,2012,2014,1,No,Yes,Yes
+354,Iowa,State Representative,nan,Larry Sheets,REP,2012,2014,1,No,Yes,No
+355,Iowa,State Representative,nan,Cindy Winckler,DEM,2012,2014,1,No,Yes,Yes
+356,Iowa,State Representative,nan,Mike Sexton,REP,2014,2016,1,No,Yes,No
+357,Iowa,State Representative,nan,Clel Baudler,REP,2014,2016,2,No,Yes,No
+358,Iowa,State Representative,nan,Zach Nunn,REP,2014,2016,1,No,No,No
+359,Iowa,State Representative,nan,John Forbes,DEM,2014,2016,2,No,Yes,Yes
+360,Iowa,State Representative,nan,Pat Grassley,REP,2014,2016,2,No,Yes,Yes
+361,Iowa,State Representative,nan,Walt Rogers,REP,2014,2016,2,No,Yes,Yes
+362,Iowa,State Representative,nan,Todd Taylor,DEM,2014,2016,2,Yes,Yes,Yes
+363,Iowa,State Representative,nan,Larry Sheets,REP,2014,2016,2,No,Yes,No
+364,Iowa,State Representative,nan,Cindy Winckler,DEM,2014,2016,2,Yes,Yes,Yes
+365,Iowa,State Representative,nan,John Wills,REP,2014,2016,1,Yes,Yes,Yes
+366,Iowa,State Representative,nan,Mike Sexton,REP,2014,2016,1,No,Yes,No
+367,Iowa,State Representative,nan,Charles Isenhart,DEM,2014,2016,2,Yes,Yes,Yes
+368,Iowa,State Representative,nan,Gary Worthan,REP,2014,2016,2,Yes,Yes,Yes
+369,Iowa,State Representative,nan,Brian Best,REP,2014,2016,1,No,Yes,Yes
+370,Iowa,State Representative,nan,Chris Hall,DEM,2014,2016,2,No,Yes,Yes
+371,Iowa,State Representative,nan,David Alan Dawson,DEM,2014,2016,2,Yes,Yes,Yes
+372,Iowa,State Representative,nan,Charlie McConkey Jr.,DEM,2014,2016,1,No,Yes,No
+373,Iowa,State Representative,nan,Mary Ann Hanusa,REP,2014,2016,2,No,Yes,Yes
+374,Iowa,State Representative,nan,Matt Windschitl,REP,2014,2016,2,No,Yes,Yes
+375,Iowa,State Representative,nan,Steven Holt,REP,2014,2016,1,No,Yes,Yes
+376,Iowa,State Representative,nan,Ralph Watts,REP,2014,2016,2,Yes,Yes,Yes
+377,Iowa,State Representative,nan,Megan Lee Hess Jones,REP,2014,2016,2,No,Yes,Yes
+378,Iowa,State Representative,nan,Clel Baudler,REP,2014,2016,2,No,Yes,No
+379,Iowa,State Representative,nan,Jack Drake,REP,2014,2016,2,No,Yes,Yes
+380,Iowa,State Representative,nan,Greg Forristall,REP,2014,2016,2,Yes,Yes,Yes
+381,Iowa,State Representative,nan,Mark Costello,REP,2014,2016,2,Yes,Yes,No
+382,Iowa,State Representative,nan,Cecil Dolecheck,REP,2014,2016,2,Yes,Yes,Yes
+383,Iowa,State Representative,nan,Stan Gustafson,REP,2014,2016,1,No,Yes,Yes
+384,Iowa,State Representative,nan,Scott Ourth,DEM,2014,2016,2,No,Yes,No
+385,Iowa,State Representative,nan,Joel Fry,REP,2014,2016,2,No,Yes,Yes
+386,Iowa,State Representative,nan,Greg Heartsill,REP,2014,2016,2,No,No,No
+387,Iowa,State Representative,nan,Dan Kelley,DEM,2014,2016,2,No,Yes,Yes
+388,Iowa,State Representative,nan,Dan Huseman,REP,2014,2016,2,No,Yes,Yes
+389,Iowa,State Representative,nan,Zach Nunn,REP,2014,2016,1,No,No,No
+390,Iowa,State Representative,nan,Rick Olson,DEM,2014,2016,2,No,No,Yes
+391,Iowa,State Representative,nan,Ruth Ann Gaines,DEM,2014,2016,2,Yes,Yes,Yes
+392,Iowa,State Representative,nan,Brian Meyer,DEM,2014,2016,2,Yes,Yes,Yes
+393,Iowa,State Representative,nan,Bruce Hunter,DEM,2014,2016,2,No,Yes,Yes
+394,Iowa,State Representative,nan,Ako Abdul-Samad,DEM,2014,2016,2,Yes,Yes,Yes
+395,Iowa,State Representative,nan,Marti Anderson,DEM,2014,2016,2,Yes,Yes,Yes
+396,Iowa,State Representative,nan,John Landon,REP,2014,2016,2,Yes,Yes,Yes
+397,Iowa,State Representative,nan,Kevin Koester,REP,2014,2016,2,No,No,Yes
+398,Iowa,State Representative,nan,Jake Highfill,REP,2014,2016,2,No,Yes,Yes
+399,Iowa,State Representative,nan,Dwayne Alons,REP,2014,2016,7,Yes,Yes,Yes
+400,Iowa,State Representative,nan,John Forbes,DEM,2014,2016,2,No,Yes,Yes
+401,Iowa,State Representative,nan,Jo Oldson,DEM,2014,2016,2,No,Yes,Yes
+402,Iowa,State Representative,nan,Peter Cownie,REP,2014,2016,2,No,Yes,Yes
+403,Iowa,State Representative,nan,Christopher Hagenow,REP,2014,2016,2,No,Yes,Yes
+404,Iowa,State Representative,nan,Rob Taylor,REP,2014,2016,2,Yes,Yes,No
+405,Iowa,State Representative,nan,Beth Wessel-Kroeschell,DEM,2014,2016,6,No,Yes,Yes
+406,Iowa,State Representative,nan,Lisa Heddens,DEM,2014,2016,6,Yes,Yes,Yes
+407,Iowa,State Representative,nan,Chip Baltimore,REP,2014,2016,2,No,Yes,No
+408,Iowa,State Representative,nan,Robert Bacon,REP,2014,2016,2,Yes,Yes,Yes
+409,Iowa,State Representative,nan,Dave Deyoe,REP,2014,2016,2,No,Yes,Yes
+410,Iowa,State Representative,nan,Chuck Soderberg,REP,2014,2016,2,Yes,Yes,No
+411,Iowa,State Representative,nan,Pat Grassley,REP,2014,2016,2,No,Yes,Yes
+412,Iowa,State Representative,nan,Josh Byrnes,REP,2014,2016,2,No,Yes,Yes
+413,Iowa,State Representative,nan,Todd Prichard,DEM,2014,2016,2,Yes,Yes,Yes
+414,Iowa,State Representative,nan,Sharon Steckman,DEM,2014,2016,2,Yes,Yes,Yes
+415,Iowa,State Representative,nan,Linda Upmeyer,REP,2014,2016,2,Yes,Yes,Yes
+416,Iowa,State Representative,nan,Darrel Branhagen,REP,2014,2016,1,No,Yes,Yes
+417,Iowa,State Representative,nan,Patti Ruff,DEM,2014,2016,2,No,No,Yes
+418,Iowa,State Representative,nan,Nancy Dunkel,DEM,2014,2016,2,No,No,Yes
+419,Iowa,State Representative,nan,Brian Moore,REP,2014,2016,2,No,Yes,Yes
+420,Iowa,State Representative,nan,Bob Kressig,DEM,2014,2016,2,No,Yes,Yes
+421,Iowa,State Representative,nan,Ronald Jorgensen,REP,2014,2016,2,Yes,No,No
+422,Iowa,State Representative,nan,Walt Rogers,REP,2014,2016,2,No,Yes,Yes
+423,Iowa,State Representative,nan,Timi Brown-Powers,DEM,2014,2016,1,No,Yes,Yes
+424,Iowa,State Representative,nan,Deborah Berry,DEM,2014,2016,2,Yes,Yes,Yes
+425,Iowa,State Representative,nan,Sandy Salmon,REP,2014,2016,2,No,Yes,Yes
+426,Iowa,State Representative,nan,Bruce Bearinger,DEM,2014,2016,2,No,Yes,Yes
+427,Iowa,State Representative,nan,Liz Bennett,DEM,2014,2016,1,Yes,Yes,Yes
+428,Iowa,State Representative,nan,Art Staed,DEM,2014,2016,2,Yes,Yes,Yes
+429,Iowa,State Representative,nan,Kraig Paulsen,REP,2014,2016,2,Yes,Yes,Yes
+430,Iowa,State Representative,nan,Ken Rizer,REP,2014,2016,1,No,No,Yes
+431,Iowa,State Representative,nan,Kirsten Running-Marquardt,DEM,2014,2016,2,Yes,Yes,Yes
+432,Iowa,State Representative,nan,Tedd Gassman,REP,2014,2016,2,No,Yes,Yes
+433,Iowa,State Representative,nan,Todd Taylor,DEM,2014,2016,2,Yes,Yes,Yes
+434,Iowa,State Representative,nan,Mark Smith,DEM,2014,2016,2,No,Yes,Yes
+435,Iowa,State Representative,nan,Dean Fisher,REP,2014,2016,2,No,No,Yes
+436,Iowa,State Representative,nan,Bobby Kaufmann,REP,2014,2016,2,No,Yes,Yes
+437,Iowa,State Representative,nan,David Jacoby,DEM,2014,2016,2,Yes,Yes,Yes
+438,Iowa,State Representative,nan,Dawn Pettengill,REP,2014,2016,2,No,No,Yes
+439,Iowa,State Representative,nan,David Maxwell,REP,2014,2016,2,No,Yes,Yes
+440,Iowa,State Representative,nan,Sally Stutsman,DEM,2014,2016,2,Yes,Yes,Yes
+441,Iowa,State Representative,nan,Jarad Klein,REP,2014,2016,2,No,Yes,Yes
+442,Iowa,State Representative,nan,Guy Vander Linden,REP,2014,2016,2,Yes,Yes,Yes
+443,Iowa,State Representative,nan,Terry Baxter,REP,2014,2016,1,No,Yes,Yes
+444,Iowa,State Representative,nan,Larry Sheets,REP,2014,2016,2,No,Yes,No
+445,Iowa,State Representative,nan,Mary Gaskill,DEM,2014,2016,2,Yes,Yes,Yes
+446,Iowa,State Representative,nan,Curt Hanson,DEM,2014,2016,2,No,Yes,Yes
+447,Iowa,State Representative,nan,Jerry Kearns,DEM,2014,2016,2,Yes,No,Yes
+448,Iowa,State Representative,nan,David Heaton,REP,2014,2016,2,No,Yes,No
+449,Iowa,State Representative,nan,Vicki Lensing,DEM,2014,2016,2,Yes,Yes,Yes
+450,Iowa,State Representative,nan,Mary Mascher,DEM,2014,2016,2,Yes,Yes,Yes
+451,Iowa,State Representative,nan,Dennis Cohoon,DEM,2014,2016,2,Yes,Yes,No
+452,Iowa,State Representative,nan,Tom Sands,REP,2014,2016,2,Yes,No,Yes
+453,Iowa,State Representative,nan,Jim Lykam,DEM,2014,2016,2,Yes,Yes,Yes
+454,Iowa,State Representative,nan,Helen Miller,DEM,2014,2016,2,Yes,Yes,No
+455,Iowa,State Representative,nan,Cindy Winckler,DEM,2014,2016,2,Yes,Yes,Yes
+456,Iowa,State Representative,nan,Gary Carlson,REP,2014,2016,1,No,Yes,Yes
+457,Iowa,State Representative,nan,Ross Paustian,REP,2014,2016,1,No,Yes,Yes
+458,Iowa,State Representative,nan,Phyllis Thede,DEM,2014,2016,2,No,Yes,Yes
+459,Iowa,State Representative,nan,Linda Miller,REP,2014,2016,2,Yes,Yes,Yes
+460,Iowa,State Representative,nan,Quentin Stanerson,REP,2014,2016,2,No,Yes,Yes
+461,Iowa,State Representative,nan,Lee Hein,REP,2014,2016,2,No,Yes,Yes
+462,Iowa,State Representative,nan,Norlin Mommsen,REP,2014,2016,1,No,Yes,Yes
+463,Iowa,State Representative,nan,Mary Lynn Wolfe,DEM,2014,2016,2,Yes,Yes,Yes
+464,Iowa,State Representative,nan,Abby Finkenauer,DEM,2014,2016,1,No,No,Yes
+465,Iowa,State Senator,1,David Johnson,REP,2014,2018,1,Yes,Yes,No
+466,Iowa,State Senator,1,David Johnson,REP,2014,2018,1,Yes,Yes,No
+467,Iowa,State Senator,11,Tom Shipley,REP,2014,2018,1,Yes,Yes,Yes
+468,Iowa,State Senator,11,Tom Shipley,REP,2014,2018,1,Yes,Yes,Yes
+469,Iowa,State Senator,12,Mark Costello,REP,2014,2016,1,No,Yes,Yes
+470,Iowa,State Senator,12,Mark Costello,REP,2014,2016,1,No,Yes,Yes
+471,Iowa,State Senator,12,Joni Ernst,REP,2012,2016,1,Yes,Yes,Yes
+472,Iowa,State Senator,13,Julian Garrett,REP,2014,2018,2,No,Yes,Yes
+473,Iowa,State Senator,13,Julian Garrett,REP,2013,2014,1,No,Yes,Yes
+474,Iowa,State Senator,13,Julian Garrett,REP,2013,2014,1,No,Yes,Yes
+475,Iowa,State Senator,13,Julian Garrett,REP,2013,2014,1,No,Yes,Yes
+476,Iowa,State Senator,13,Julian Garrett,REP,2014,2018,2,No,Yes,Yes
+477,Iowa,State Senator,14,Amy Beth Sinclair,REP,2012,2016,1,No,Yes,Yes
+478,Iowa,State Senator,14,Amy Beth Sinclair,REP,2012,2016,1,No,Yes,Yes
+479,Iowa,State Senator,15,Chaz Allen,DEM,2014,2018,1,No,No,No
+480,Iowa,State Senator,15,Chaz Allen,DEM,2014,2018,1,No,No,No
+481,Iowa,State Senator,16,Dick Dearden,DEM,2012,2016,1,No,Yes,Yes
+482,Iowa,State Senator,16,Dick Dearden,DEM,2012,2016,1,No,Yes,Yes
+483,Iowa,State Senator,17,Tony Bisignano,DEM,2014,2018,1,No,Yes,Yes
+484,Iowa,State Senator,17,Tony Bisignano,DEM,2014,2018,1,No,Yes,Yes
+485,Iowa,State Senator,18,Janet Petersen,DEM,2012,2016,1,No,Yes,Yes
+486,Iowa,State Senator,18,Liz Mathis,DEM,2011,2012,1,No,Yes,Yes
+487,Iowa,State Senator,18,Liz Mathis,DEM,2011,2012,1,No,Yes,Yes
+488,Iowa,State Senator,18,Liz Mathis,DEM,2011,2012,1,No,Yes,Yes
+489,Iowa,State Senator,18,Janet Petersen,DEM,2012,2016,1,No,Yes,Yes
+490,Iowa,State Senator,19,Jack Whitver,REP,2014,2018,1,No,Yes,No
+491,Iowa,State Senator,19,Jack Whitver,REP,2014,2018,1,No,Yes,No
+492,Iowa,State Senator,2,Randy Feenstra,REP,2012,2016,2,Yes,Yes,Yes
+493,Iowa,State Senator,2,Randy Feenstra,REP,2012,2016,2,Yes,Yes,Yes
+494,Iowa,State Senator,21,Matt McCoy,DEM,2014,2018,1,Yes,No,Yes
+495,Iowa,State Senator,21,Matt McCoy,DEM,2014,2018,1,Yes,No,Yes
+496,Iowa,State Senator,22,Charles Schneider,REP,2012,2016,1,No,Yes,Yes
+497,Iowa,State Senator,22,Charles Schneider,REP,2012,2016,1,No,Yes,Yes
+498,Iowa,State Senator,23,Herman Quirmbach,DEM,2014,2018,4,No,Yes,Yes
+499,Iowa,State Senator,23,Herman Quirmbach,DEM,2014,2018,4,No,Yes,Yes
+500,Iowa,State Senator,24,Jerry Behn,REP,2012,2016,3,No,Yes,Yes
+501,Iowa,State Senator,24,Jerry Behn,REP,2012,2016,3,No,Yes,Yes
+502,Iowa,State Senator,25,Bill Dix,REP,2014,2018,1,Yes,No,No
+503,Iowa,State Senator,25,Bill Dix,REP,2014,2018,1,Yes,No,No
+504,Iowa,State Senator,26,Mary Jo Wilhelm,DEM,2012,2016,1,No,Yes,Yes
+505,Iowa,State Senator,26,Mary Jo Wilhelm,DEM,2012,2016,1,No,Yes,Yes
+506,Iowa,State Senator,27,Amanda Elsie Ragan,DEM,2014,2018,1,No,Yes,Yes
+507,Iowa,State Senator,27,Amanda Elsie Ragan,DEM,2014,2018,1,No,Yes,Yes
+508,Iowa,State Senator,28,Michael Breitbach,REP,2012,2016,1,No,Yes,Yes
+509,Iowa,State Senator,28,Michael Breitbach,REP,2012,2016,1,No,Yes,Yes
+510,Iowa,State Senator,29,Tod Bowman,DEM,2014,2018,1,No,Yes,Yes
+511,Iowa,State Senator,29,Tod Bowman,DEM,2014,2018,1,No,Yes,Yes
+512,Iowa,State Senator,3,Bill Anderson,REP,2014,2018,1,Yes,Yes,Yes
+513,Iowa,State Senator,3,Bill Anderson,REP,2014,2018,1,Yes,Yes,Yes
+514,Iowa,State Senator,31,Bill Dotzler,DEM,2014,2018,1,Yes,Yes,Yes
+515,Iowa,State Senator,31,Bill Dotzler,DEM,2014,2018,1,Yes,Yes,Yes
+516,Iowa,State Senator,32,Brian Schoenjahn,DEM,2012,2016,1,No,Yes,Yes
+517,Iowa,State Senator,32,Brian Schoenjahn,DEM,2012,2016,1,No,Yes,Yes
+518,Iowa,State Senator,33,Robert Hogg,DEM,2014,2018,1,No,Yes,Yes
+519,Iowa,State Senator,33,Robert Hogg,DEM,2014,2018,1,No,Yes,Yes
+520,Iowa,State Senator,34,Liz Mathis,DEM,2012,2016,1,No,Yes,Yes
+521,Iowa,State Senator,34,Liz Mathis,DEM,2012,2016,1,No,Yes,Yes
+522,Iowa,State Senator,35,Wally Horn,DEM,2014,2018,1,Yes,Yes,Yes
+523,Iowa,State Senator,35,Jack Whitver,REP,2011,2014,1,No,Yes,Yes
+524,Iowa,State Senator,35,Jack Whitver,REP,2011,2014,1,No,Yes,Yes
+525,Iowa,State Senator,35,Jack Whitver,REP,2011,2014,1,No,Yes,Yes
+526,Iowa,State Senator,35,Wally Horn,DEM,2014,2018,1,Yes,Yes,Yes
+527,Iowa,State Senator,36,Steve Sodders,DEM,2012,2016,1,No,Yes,Yes
+528,Iowa,State Senator,36,Steve Sodders,DEM,2012,2016,1,No,Yes,Yes
+529,Iowa,State Senator,37,Robert Dvorsky,DEM,2014,2018,1,Yes,No,Yes
+530,Iowa,State Senator,37,Robert Dvorsky,DEM,2014,2018,1,Yes,No,Yes
+531,Iowa,State Senator,38,Tim Kapucian,REP,2012,2016,1,No,Yes,Yes
+532,Iowa,State Senator,38,Tim Kapucian,REP,2012,2016,1,No,Yes,Yes
+533,Iowa,State Senator,39,Kevin Kinney,DEM,2014,2018,1,No,Yes,Yes
+534,Iowa,State Senator,39,Kevin Kinney,DEM,2014,2018,1,No,Yes,Yes
+535,Iowa,State Senator,4,Dennis Guth,REP,2012,2016,1,No,Yes,Yes
+536,Iowa,State Senator,4,Dennis Guth,REP,2012,2016,1,No,Yes,Yes
+537,Iowa,State Senator,41,Mark Chelgren,REP,2014,2018,1,No,No,No
+538,Iowa,State Senator,41,Mark Chelgren,REP,2014,2018,1,No,No,No
+539,Iowa,State Senator,42,Richard Taylor,DEM,2012,2016,1,No,Yes,Yes
+540,Iowa,State Senator,42,Richard Taylor,DEM,2012,2016,1,No,Yes,Yes
+541,Iowa,State Senator,43,Joseph Bolkcom,DEM,2014,2018,1,Yes,Yes,Yes
+542,Iowa,State Senator,43,Joseph Bolkcom,DEM,2014,2018,1,Yes,Yes,Yes
+543,Iowa,State Senator,44,Thomas Courtney,DEM,2012,2016,4,No,Yes,Yes
+544,Iowa,State Senator,44,Thomas Courtney,DEM,2012,2016,4,No,Yes,Yes
+545,Iowa,State Senator,45,Joe Matthew Seng,DEM,2014,2018,1,Yes,Yes,Yes
+546,Iowa,State Senator,45,Joe Matthew Seng,DEM,2014,2018,1,Yes,Yes,Yes
+547,Iowa,State Senator,46,Chris Brase,DEM,2012,2016,1,No,Yes,Yes
+548,Iowa,State Senator,46,Chris Brase,DEM,2012,2016,1,No,Yes,Yes
+549,Iowa,State Senator,47,Roby Smith,REP,2014,2018,1,No,Yes,Yes
+550,Iowa,State Senator,47,Roby Smith,REP,2014,2018,1,No,Yes,Yes
+551,Iowa,State Senator,48,Daniel Zumbach,REP,2012,2016,1,No,Yes,Yes
+552,Iowa,State Senator,48,Joni Ernst,REP,2011,2012,1,No,Yes,Yes
+553,Iowa,State Senator,48,Joni Ernst,REP,2011,2012,1,No,Yes,Yes
+554,Iowa,State Senator,48,Joni Ernst,REP,2011,2012,1,No,Yes,Yes
+555,Iowa,State Senator,48,Daniel Zumbach,REP,2012,2016,1,No,Yes,Yes
+556,Iowa,State Senator,49,Rita Rottinghaus Hart,DEM,2014,2018,2,No,No,Yes
+557,Iowa,State Senator,49,Rita Rottinghaus Hart,DEM,2014,2018,2,No,No,Yes
+558,Iowa,State Senator,49,Rita Rottinghaus Hart,DEM,2012,2014,1,No,No,Yes
+559,Iowa,State Senator,5,Tim Kraayenbrink,REP,2014,2018,1,No,Yes,Yes
+560,Iowa,State Senator,5,Tim Kraayenbrink,REP,2014,2018,1,No,Yes,Yes
+561,Iowa,State Senator,6,Mark Segebart,REP,2012,2016,1,No,Yes,Yes
+562,Iowa,State Senator,6,Mark Segebart,REP,2012,2016,1,No,Yes,Yes
+563,Iowa,State Senator,7,Rick Bertrand,REP,2014,2018,1,No,Yes,No
+564,Iowa,State Senator,7,Rick Bertrand,REP,2014,2018,1,No,Yes,No
+565,Iowa,State Senator,8,Mike Gronstal,DEM,2012,2016,1,No,Yes,Yes
+566,Iowa,State Senator,8,Mike Gronstal,DEM,2012,2016,1,No,Yes,Yes
+567,Iowa,State Senator,9,Jason Schultz,REP,2014,2018,1,Yes,Yes,Yes
+568,Iowa,State Senator,9,Jason Schultz,REP,2014,2018,1,Yes,Yes,Yes
+569,Iowa,State Senator,nan,Jake Chapman,REP,2012,2016,1,Yes,Yes,Yes
+570,Iowa,State Senator,nan,Brad Zaun,REP,2012,2016,1,Yes,Yes,Yes
+571,Iowa,State Senator,nan,Jeffrey Danielson,DEM,2012,2016,1,No,Yes,Yes
+572,Iowa,State Senator,nan,Kenneth Rozenboom,REP,2012,2016,1,No,Yes,Yes
+573,Iowa,State Senator,nan,Pam Pamela Jochum,DEM,2012,2016,1,No,Yes,Yes
+574,Iowa,State Senator,nan,Jake Chapman,REP,2012,2016,1,Yes,Yes,Yes
+575,Iowa,State Senator,nan,Brad Zaun,REP,2012,2016,1,Yes,Yes,Yes
+576,Iowa,State Senator,nan,Jeffrey Danielson,DEM,2012,2016,1,No,Yes,Yes
+577,Iowa,State Senator,nan,Kenneth Rozenboom,REP,2012,2016,1,No,Yes,Yes
+578,Iowa,State Senator,nan,Pam Pamela Jochum,DEM,2012,2016,1,No,Yes,Yes
+579,Iowa,State Senator,nan,Jake Chapman,REP,2012,2016,1,Yes,Yes,Yes
+580,Iowa,State Senator,nan,Brad Zaun,REP,2012,2016,1,Yes,Yes,Yes
+581,Iowa,State Senator,nan,Jeffrey Danielson,DEM,2012,2016,1,No,Yes,Yes
+582,Iowa,State Senator,nan,Kenneth Rozenboom,REP,2012,2016,1,No,Yes,Yes
+583,Iowa,State Senator,nan,Pam Pamela Jochum,DEM,2012,2016,1,No,Yes,Yes
+584,Iowa,State Senator,nan,Jake Chapman,REP,2012,2016,1,Yes,Yes,Yes
+585,Iowa,State Senator,nan,Brad Zaun,REP,2012,2016,1,Yes,Yes,Yes
+586,Iowa,State Senator,nan,Jeffrey Danielson,DEM,2012,2016,1,No,Yes,Yes
+587,Iowa,State Senator,nan,Kenneth Rozenboom,REP,2012,2016,1,No,Yes,Yes
+588,Iowa,State Senator,nan,Pam Pamela Jochum,DEM,2012,2016,1,No,Yes,Yes
+589,Iowa,State Senator,nan,David Johnson,REP,2014,2018,1,Yes,Yes,No
+590,Iowa,State Senator,nan,Jake Chapman,REP,2012,2016,1,Yes,Yes,Yes
+591,Iowa,State Senator,nan,Tom Shipley,REP,2014,2018,1,Yes,Yes,Yes
+592,Iowa,State Senator,nan,Mark Costello,REP,2014,2016,1,No,Yes,Yes
+593,Iowa,State Senator,nan,Julian Garrett,REP,2013,2014,1,No,Yes,Yes
+594,Iowa,State Senator,nan,Julian Garrett,REP,2014,2018,2,No,Yes,Yes
+595,Iowa,State Senator,nan,Amy Beth Sinclair,REP,2012,2016,1,No,Yes,Yes
+596,Iowa,State Senator,nan,Chaz Allen,DEM,2014,2018,1,No,No,No
+597,Iowa,State Senator,nan,Dick Dearden,DEM,2012,2016,1,No,Yes,Yes
+598,Iowa,State Senator,nan,Tony Bisignano,DEM,2014,2018,1,No,Yes,Yes
+599,Iowa,State Senator,nan,Liz Mathis,DEM,2011,2012,1,No,Yes,Yes
+600,Iowa,State Senator,nan,Janet Petersen,DEM,2012,2016,1,No,Yes,Yes
+601,Iowa,State Senator,nan,Jack Whitver,REP,2014,2018,1,No,Yes,No
+602,Iowa,State Senator,nan,Randy Feenstra,REP,2012,2016,2,Yes,Yes,Yes
+603,Iowa,State Senator,nan,Brad Zaun,REP,2012,2016,1,Yes,Yes,Yes
+604,Iowa,State Senator,nan,Matt McCoy,DEM,2014,2018,1,Yes,No,Yes
+605,Iowa,State Senator,nan,Charles Schneider,REP,2012,2016,1,No,Yes,Yes
+606,Iowa,State Senator,nan,Herman Quirmbach,DEM,2014,2018,4,No,Yes,Yes
+607,Iowa,State Senator,nan,Jerry Behn,REP,2012,2016,3,No,Yes,Yes
+608,Iowa,State Senator,nan,Bill Dix,REP,2014,2018,1,Yes,No,No
+609,Iowa,State Senator,nan,Mary Jo Wilhelm,DEM,2012,2016,1,No,Yes,Yes
+610,Iowa,State Senator,nan,Amanda Elsie Ragan,DEM,2014,2018,1,No,Yes,Yes
+611,Iowa,State Senator,nan,Michael Breitbach,REP,2012,2016,1,No,Yes,Yes
+612,Iowa,State Senator,nan,Tod Bowman,DEM,2014,2018,1,No,Yes,Yes
+613,Iowa,State Senator,nan,Bill Anderson,REP,2014,2018,1,Yes,Yes,Yes
+614,Iowa,State Senator,nan,Jeffrey Danielson,DEM,2012,2016,1,No,Yes,Yes
+615,Iowa,State Senator,nan,Bill Dotzler,DEM,2014,2018,1,Yes,Yes,Yes
+616,Iowa,State Senator,nan,Brian Schoenjahn,DEM,2012,2016,1,No,Yes,Yes
+617,Iowa,State Senator,nan,Robert Hogg,DEM,2014,2018,1,No,Yes,Yes
+618,Iowa,State Senator,nan,Liz Mathis,DEM,2012,2016,1,No,Yes,Yes
+619,Iowa,State Senator,nan,Jack Whitver,REP,2011,2014,1,No,Yes,Yes
+620,Iowa,State Senator,nan,Wally Horn,DEM,2014,2018,1,Yes,Yes,Yes
+621,Iowa,State Senator,nan,Steve Sodders,DEM,2012,2016,1,No,Yes,Yes
+622,Iowa,State Senator,nan,Robert Dvorsky,DEM,2014,2018,1,Yes,No,Yes
+623,Iowa,State Senator,nan,Tim Kapucian,REP,2012,2016,1,No,Yes,Yes
+624,Iowa,State Senator,nan,Kevin Kinney,DEM,2014,2018,1,No,Yes,Yes
+625,Iowa,State Senator,nan,Dennis Guth,REP,2012,2016,1,No,Yes,Yes
+626,Iowa,State Senator,nan,Kenneth Rozenboom,REP,2012,2016,1,No,Yes,Yes
+627,Iowa,State Senator,nan,Mark Chelgren,REP,2014,2018,1,No,No,No
+628,Iowa,State Senator,nan,Richard Taylor,DEM,2012,2016,1,No,Yes,Yes
+629,Iowa,State Senator,nan,Joseph Bolkcom,DEM,2014,2018,1,Yes,Yes,Yes
+630,Iowa,State Senator,nan,Thomas Courtney,DEM,2012,2016,4,No,Yes,Yes
+631,Iowa,State Senator,nan,Joe Matthew Seng,DEM,2014,2018,1,Yes,Yes,Yes
+632,Iowa,State Senator,nan,Chris Brase,DEM,2012,2016,1,No,Yes,Yes
+633,Iowa,State Senator,nan,Roby Smith,REP,2014,2018,1,No,Yes,Yes
+634,Iowa,State Senator,nan,Joni Ernst,REP,2011,2012,1,No,Yes,Yes
+635,Iowa,State Senator,nan,Daniel Zumbach,REP,2012,2016,1,No,Yes,Yes
+636,Iowa,State Senator,nan,Rita Rottinghaus Hart,DEM,2014,2018,2,No,No,Yes
+637,Iowa,State Senator,nan,Tim Kraayenbrink,REP,2014,2018,1,No,Yes,Yes
+638,Iowa,State Senator,nan,Pam Pamela Jochum,DEM,2012,2016,1,No,Yes,Yes
+639,Iowa,State Senator,nan,Mark Segebart,REP,2012,2016,1,No,Yes,Yes
+640,Iowa,State Senator,nan,Rick Bertrand,REP,2014,2018,1,No,Yes,No
+641,Iowa,State Senator,nan,Mike Gronstal,DEM,2012,2016,1,No,Yes,Yes
+642,Iowa,State Senator,nan,Jason Schultz,REP,2014,2018,1,Yes,Yes,Yes
+643,Iowa,U.S. Representative,1,Rodney Blum,REP,2014,2016,1,No,No,Yes
+644,Iowa,U.S. Representative,1,Rodney Blum,REP,2014,2016,1,No,No,Yes
+645,Iowa,U.S. Representative,1,Bruce Braley,DEM,2012,2014,2,No,No,Yes
+646,Iowa,U.S. Representative,2,Dave Wayne Loebsack,DEM,2014,2016,3,No,Yes,Yes
+647,Iowa,U.S. Representative,2,Dave Wayne Loebsack,DEM,2014,2016,3,No,Yes,Yes
+648,Iowa,U.S. Representative,2,Dave Wayne Loebsack,DEM,2012,2014,2,No,Yes,Yes
+649,Iowa,U.S. Representative,3,David Young,REP,2014,2016,1,No,No,Yes
+650,Iowa,U.S. Representative,3,David Young,REP,2014,2016,1,No,No,Yes
+651,Iowa,U.S. Representative,3,Tom Latham,REP,2012,2014,1,No,No,Yes
+652,Iowa,U.S. Representative,4,Steve King,REP,2014,2016,2,No,No,No
+653,Iowa,U.S. Representative,4,Steve King,REP,2014,2016,2,No,No,No
+654,Iowa,U.S. Representative,4,Steve King,REP,2012,2014,1,No,No,No
+655,Iowa,U.S. Representative,nan,Rodney Blum,REP,2014,2016,1,No,No,Yes
+656,Iowa,U.S. Representative,nan,Dave Wayne Loebsack,DEM,2014,2016,3,No,Yes,Yes
+657,Iowa,U.S. Representative,nan,David Young,REP,2014,2016,1,No,No,Yes
+658,Iowa,U.S. Representative,nan,Steve King,REP,2014,2016,2,No,No,No
+659,Iowa,U.S. Senator,0,Joni Ernst,REP,2014,2020,1,No,Yes,Yes
+660,Iowa,U.S. Senator,0,Joni Ernst,REP,2014,2020,1,No,Yes,Yes
+661,Iowa,U.S. Senator,0,Joni Ernst,REP,2014,2020,1,No,Yes,Yes
+662,Iowa,U.S. Senator,0,Joni Ernst,REP,2014,2020,1,No,Yes,Yes
+663,Iowa,U.S. Senator,nan,Joni Ernst,REP,2014,2020,1,No,Yes,Yes
