@@ -1,181 +1,169 @@
 ,State,Position,District,Candidate,Party,Year Elected,Next Election,Number of Terms in Position,Unopposed in Last Election,DEM Unopposed in Primary,REP Unopposed in Primary
 0,Michigan,Attorney General,0.0,Bill Schuette,REP,2014,2018,2,No,Yes,No
-1,Michigan,Attorney General,0.0,Tonya Schuitmaker,REP,2018,2022,0,No,Yes,No
-2,Michigan,Attorney General,0.0,Bill Schuette,REP,2014,2018,2,No,Yes,No
-3,Michigan,Governor,0.0,Rick Dale Snyder,REP,2014,2018,2,No,No,No
-4,Michigan,Governor,0.0,Shri Thanedar,DEM,2018,2022,0,No,No,No
-5,Michigan,Governor,0.0,Shri Thanedar,DEM,2018,2022,0,No,No,No
-6,Michigan,Governor,0.0,Shri Thanedar,DEM,2018,2022,0,No,No,No
-7,Michigan,Governor,0.0,Rick Dale Snyder,REP,2014,2018,2,No,No,No
-8,Michigan,Secretary Of State,0.0,Ruth Johnson,REP,2014,2018,2,No,Yes,No
-9,Michigan,Secretary Of State,0.0,Stanley Grot,REP,2018,2022,0,No,Yes,No
-10,Michigan,Secretary Of State,0.0,Ruth Johnson,REP,2014,2018,2,No,Yes,No
-11,Michigan,State Representative,1.0,Brian Banks,DEM,2016,2018,3,No,No,Yes
-12,Michigan,State Representative,10.0,Leslie Love,DEM,2016,2018,2,No,No,No
-13,Michigan,State Representative,100.0,Scott Vansingel,REP,2016,2018,1,No,Yes,Yes
-14,Michigan,State Representative,101.0,Curt Vanderwall,REP,2016,2018,1,No,No,No
-15,Michigan,State Representative,102.0,Michele Hoitenga,REP,2016,2018,1,No,No,No
-16,Michigan,State Representative,103.0,Daire Rendon,REP,2016,2018,1,No,No,Yes
-17,Michigan,State Representative,104.0,Larry Inman,REP,2016,2018,2,No,Yes,Yes
-18,Michigan,State Representative,105.0,Triston Cole,REP,2016,2018,2,No,Yes,Yes
-19,Michigan,State Representative,106.0,Sue Allor,REP,2016,2018,1,No,No,Yes
-20,Michigan,State Representative,107.0,Lee Chatfield,REP,2016,2018,2,No,No,No
-21,Michigan,State Representative,108.0,Beau Matthew Lafave,REP,2016,2018,1,No,Yes,Yes
-22,Michigan,State Representative,109.0,John Kivela,DEM,2016,2018,3,No,Yes,Yes
-23,Michigan,State Representative,11.0,Jewell Jones,DEM,2016,2018,1,No,No,Yes
-24,Michigan,State Representative,110.0,Scott Dianda,DEM,2016,2018,3,No,Yes,No
-25,Michigan,State Representative,12.0,Erika-Marie Geiss,DEM,2016,2018,2,No,No,Yes
-26,Michigan,State Representative,13.0,Frank Liberati,DEM,2016,2018,2,No,No,Yes
-27,Michigan,State Representative,14.0,Cara Clemente,DEM,2016,2018,1,No,No,Yes
-28,Michigan,State Representative,15.0,Abdullah Hammoud,DEM,2016,2018,1,No,Yes,Yes
-29,Michigan,State Representative,16.0,Robert Kosowski,DEM,2016,2018,3,No,No,Yes
-30,Michigan,State Representative,17.0,Joseph Bellino Jr.,REP,2016,2018,1,No,Yes,Yes
-31,Michigan,State Representative,18.0,Kevin Hertel,DEM,2016,2018,1,No,Yes,Yes
-32,Michigan,State Representative,19.0,Laura Cox,REP,2016,2018,2,No,No,Yes
-33,Michigan,State Representative,2.0,Bettie Cook Scott,DEM,2016,2018,1,No,No,Yes
-34,Michigan,State Representative,20.0,Jeff Noble,REP,2016,2018,1,No,Yes,Yes
-35,Michigan,State Representative,21.0,Kristy Pagan,DEM,2016,2018,2,No,Yes,Yes
-36,Michigan,State Representative,22.0,John Chirkun,DEM,2016,2018,2,No,Yes,Yes
-37,Michigan,State Representative,23.0,Darrin Camilleri,DEM,2016,2018,1,No,Yes,Yes
-38,Michigan,State Representative,24.0,Steven Marino,REP,2016,2018,1,No,Yes,Yes
-39,Michigan,State Representative,25.0,Henry Yanez,DEM,2016,2018,3,No,Yes,Yes
-40,Michigan,State Representative,26.0,Jim Ellison,DEM,2016,2018,1,No,Yes,Yes
-41,Michigan,State Representative,27.0,Robert Wittenberg,DEM,2016,2018,2,No,No,Yes
-42,Michigan,State Representative,28.0,Patrick Green,DEM,2016,2018,1,No,No,Yes
-43,Michigan,State Representative,29.0,Timothy Greimel,DEM,2016,2018,3,No,No,Yes
-44,Michigan,State Representative,3.0,Wendell Byrd,DEM,2016,2018,2,No,No,Yes
-45,Michigan,State Representative,30.0,Diana Farrington,REP,2016,2018,1,No,No,Yes
-46,Michigan,State Representative,31.0,Bill Sowerby,DEM,2016,2018,1,No,No,No
-47,Michigan,State Representative,32.0,Pamela Hornberger,REP,2016,2018,1,No,Yes,Yes
-48,Michigan,State Representative,33.0,Jeffrey Yaroch,REP,2016,2018,1,No,Yes,Yes
-49,Michigan,State Representative,34.0,Sheldon Neeley,DEM,2016,2018,2,No,No,Yes
-50,Michigan,State Representative,35.0,Jeremy Moss,DEM,2016,2018,2,No,No,Yes
-51,Michigan,State Representative,36.0,Peter Lucido,REP,2016,2018,2,No,No,No
-52,Michigan,State Representative,37.0,Christine Greig,DEM,2016,2018,2,No,Yes,No
-53,Michigan,State Representative,38.0,Kathy Crawford,REP,2016,2018,2,No,No,No
-54,Michigan,State Representative,39.0,Klint Kesto,REP,2016,2018,3,No,Yes,No
-55,Michigan,State Representative,4.0,Rose Mary Robinson,DEM,2016,2018,3,No,No,Yes
-56,Michigan,State Representative,40.0,Michael McCready,REP,2016,2018,3,No,No,No
-57,Michigan,State Representative,41.0,Martin Howrylak,REP,2016,2018,3,No,Yes,No
-58,Michigan,State Representative,42.0,Lana Theis,REP,2016,2018,2,No,Yes,Yes
-59,Michigan,State Representative,43.0,Jim Tedder,REP,2016,2018,2,No,Yes,No
-60,Michigan,State Representative,44.0,Jim Runestad,REP,2016,2018,2,No,No,No
-61,Michigan,State Representative,45.0,Michael Webber,REP,2016,2018,2,No,No,Yes
-62,Michigan,State Representative,46.0,John Reilly,REP,2016,2018,1,No,No,Yes
-63,Michigan,State Representative,47.0,Hank Vaupel,REP,2016,2018,2,No,Yes,Yes
-64,Michigan,State Representative,48.0,Pam Faris,DEM,2016,2018,3,No,No,No
-65,Michigan,State Representative,49.0,Phil Phelps,DEM,2016,2018,3,No,No,Yes
-66,Michigan,State Representative,5.0,Frederick Durhal III,DEM,2016,2018,2,No,No,Yes
-67,Michigan,State Representative,50.0,Tim Sneller,DEM,2016,2018,1,No,Yes,Yes
-68,Michigan,State Representative,51.0,Joseph Graves,REP,2016,2018,3,No,Yes,No
-69,Michigan,State Representative,52.0,Donna Lasinski,DEM,2016,2018,1,No,Yes,Yes
-70,Michigan,State Representative,53.0,Yousef Rabhi,DEM,2016,2018,1,No,Yes,Yes
-71,Michigan,State Representative,54.0,Ronnie Peterson,DEM,2016,2018,1,No,No,No
-72,Michigan,State Representative,55.0,Adam Zemke,DEM,2016,2018,3,No,No,No
-73,Michigan,State Representative,56.0,Jason Sheppard,REP,2016,2018,2,No,Yes,Yes
-74,Michigan,State Representative,57.0,Bronna Kahle,REP,2016,2018,1,No,Yes,Yes
-75,Michigan,State Representative,58.0,Eric Leutheuser,REP,2016,2018,2,No,Yes,Yes
-76,Michigan,State Representative,59.0,Aaron Miller,REP,2016,2018,2,No,Yes,Yes
-77,Michigan,State Representative,6.0,Stephanie Chang,DEM,2016,2018,2,No,No,Yes
-78,Michigan,State Representative,60.0,Jon Hoadley,DEM,2016,2018,2,No,Yes,Yes
-79,Michigan,State Representative,61.0,Brandt Iden,REP,2016,2018,2,No,No,Yes
-80,Michigan,State Representative,62.0,John Gerard Bizon,REP,2016,2018,2,No,Yes,Yes
-81,Michigan,State Representative,63.0,David Maturen,REP,2016,2018,2,No,Yes,No
-82,Michigan,State Representative,64.0,Julie Alexander,REP,2016,2018,1,No,No,Yes
-83,Michigan,State Representative,65.0,Brett Roberts,REP,2016,2018,2,No,Yes,No
-84,Michigan,State Representative,66.0,Beth Griffin,REP,2016,2018,1,No,Yes,Yes
-85,Michigan,State Representative,67.0,Tom William Cochran,DEM,2016,2018,3,No,No,No
-86,Michigan,State Representative,68.0,Andrew Jason Schor,DEM,2016,2018,3,No,No,No
-87,Michigan,State Representative,69.0,Samir Singh,DEM,2016,2018,3,No,No,Yes
-88,Michigan,State Representative,7.0,Latanya Garrett,DEM,2016,2018,2,No,No,No
-89,Michigan,State Representative,70.0,James Lower,REP,2016,2018,1,No,Yes,Yes
-90,Michigan,State Representative,71.0,Tom Barrett,REP,2016,2018,2,No,No,No
-91,Michigan,State Representative,72.0,Steven Johnson,REP,2016,2018,1,No,Yes,No
-92,Michigan,State Representative,73.0,Chris Afendoulis,REP,2016,2018,2,No,Yes,No
-93,Michigan,State Representative,74.0,Robert Verheulen,REP,2016,2018,3,No,Yes,Yes
-94,Michigan,State Representative,75.0,David Lagrand,DEM,2016,2018,1,No,Yes,Yes
-95,Michigan,State Representative,76.0,Winnie Theresa Brinks,DEM,2016,2018,3,No,Yes,Yes
-96,Michigan,State Representative,77.0,Tommy Brann,REP,2016,2018,1,No,No,No
-97,Michigan,State Representative,78.0,Dave Pagel,REP,2016,2018,3,No,Yes,No
-98,Michigan,State Representative,79.0,Kim Lasata,REP,2016,2018,1,No,No,No
-99,Michigan,State Representative,8.0,Sherry Gay-Dagnogo,DEM,2016,2018,2,No,No,Yes
-100,Michigan,State Representative,80.0,Mary Whiteford,REP,2016,2018,1,No,No,Yes
-101,Michigan,State Representative,81.0,Daniel Lauwers,REP,2016,2018,3,No,Yes,No
-102,Michigan,State Representative,82.0,Gary Howell,REP,2016,2018,1,No,Yes,Yes
-103,Michigan,State Representative,83.0,Shane Hernandez,REP,2016,2018,1,No,Yes,Yes
-104,Michigan,State Representative,84.0,Edward Canfield,REP,2016,2018,2,No,Yes,No
-105,Michigan,State Representative,85.0,Ben Frederick,REP,2016,2018,1,No,Yes,Yes
-106,Michigan,State Representative,86.0,Thomas Albert,REP,2016,2018,1,No,Yes,Yes
-107,Michigan,State Representative,87.0,Julie Calley,REP,2016,2018,1,No,Yes,Yes
-108,Michigan,State Representative,88.0,Roger Victory,REP,2016,2018,3,No,Yes,No
-109,Michigan,State Representative,89.0,Jim Lilly,REP,2016,2018,1,No,Yes,No
-110,Michigan,State Representative,9.0,Sylvia Santana,DEM,2016,2018,1,No,No,Yes
-111,Michigan,State Representative,90.0,Daniela Garcia,REP,2016,2018,2,No,Yes,No
-112,Michigan,State Representative,91.0,Holly Hughes,REP,2016,2018,2,No,No,No
-113,Michigan,State Representative,92.0,Terry Sabo,DEM,2016,2018,1,No,Yes,Yes
-114,Michigan,State Representative,93.0,Thomas Leonard III,REP,2016,2018,3,No,Yes,No
-115,Michigan,State Representative,94.0,Tim Kelly,REP,2016,2018,3,No,Yes,No
-116,Michigan,State Representative,95.0,Vanessa Guerra,DEM,2016,2018,2,No,Yes,Yes
-117,Michigan,State Representative,96.0,Brian Elder,DEM,2016,2018,1,No,Yes,Yes
-118,Michigan,State Representative,97.0,Jason Wentworth,REP,2016,2018,1,No,No,Yes
-119,Michigan,State Representative,98.0,Gary Glenn,REP,2016,2018,2,No,Yes,No
-120,Michigan,State Representative,99.0,Roger Hauck,REP,2016,2018,1,No,No,Yes
-121,Michigan,State Senator,1.0,Coleman Young II,DEM,2014,2018,2,No,No,Yes
-122,Michigan,State Senator,10.0,Tory Rocca,REP,2014,2018,2,No,Yes,No
-123,Michigan,State Senator,11.0,Vincent Gregory,DEM,2014,2018,1,No,No,Yes
-124,Michigan,State Senator,12.0,Jim Marleau,REP,2014,2018,2,No,Yes,No
-125,Michigan,State Senator,13.0,Marty Knollenberg,REP,2014,2018,1,No,Yes,Yes
-126,Michigan,State Senator,14.0,David Robertson,REP,2014,2018,1,No,No,No
-127,Michigan,State Senator,15.0,Mike Kowall,REP,2014,2018,2,No,Yes,No
-128,Michigan,State Senator,16.0,Michael Shirkey,REP,2014,2018,1,No,Yes,No
-129,Michigan,State Senator,17.0,Dale Zorn,REP,2014,2018,1,No,Yes,Yes
-130,Michigan,State Senator,18.0,Rebekah Warren,DEM,2014,2018,2,No,No,Yes
-131,Michigan,State Senator,19.0,Mike Nofs,REP,2014,2018,2,No,Yes,No
-132,Michigan,State Senator,2.0,Bertram Courtney Johnson,DEM,2014,2018,2,No,No,No
-133,Michigan,State Senator,20.0,Margaret Obrien,REP,2014,2018,1,No,Yes,Yes
-134,Michigan,State Senator,21.0,John Proos IV,REP,2014,2018,2,No,Yes,No
-135,Michigan,State Senator,22.0,Joe Hune,REP,2014,2018,2,No,Yes,No
-136,Michigan,State Senator,23.0,Curtis Hertel Jr.,DEM,2014,2018,1,No,Yes,No
-137,Michigan,State Senator,24.0,Rick Jones,REP,2014,2018,2,No,Yes,No
-138,Michigan,State Senator,25.0,Phillip Pavlov,REP,2014,2018,2,No,Yes,Yes
-139,Michigan,State Senator,26.0,Tonya Schuitmaker,REP,2014,2018,1,No,Yes,No
-140,Michigan,State Senator,27.0,James Ananich,DEM,2013,2014,1,No,Yes,Yes
-141,Michigan,State Senator,27.0,James Ananich,DEM,2014,2018,2,No,Yes,Yes
-142,Michigan,State Senator,27.0,James Ananich,DEM,2013,2014,1,No,Yes,Yes
-143,Michigan,State Senator,28.0,Peter Macgregor,REP,2014,2018,1,No,No,Yes
-144,Michigan,State Senator,29.0,Dave Hildenbrand,REP,2014,2018,2,No,Yes,No
-145,Michigan,State Senator,3.0,Morris Hood,DEM,2014,2018,2,No,No,Yes
-146,Michigan,State Senator,30.0,Arlan Meekhof,REP,2014,2018,2,No,Yes,No
-147,Michigan,State Senator,31.0,Michael Green,REP,2014,2018,2,No,No,No
-148,Michigan,State Senator,32.0,Kenneth Horn,REP,2014,2018,1,No,No,Yes
-149,Michigan,State Senator,33.0,Judy Emmons,REP,2014,2018,2,No,No,No
-150,Michigan,State Senator,34.0,Goeff Hansen,REP,2014,2018,2,No,No,No
-151,Michigan,State Senator,35.0,Darwin Booher,REP,2014,2018,2,No,Yes,No
-152,Michigan,State Senator,36.0,Jim Stamas,REP,2014,2018,1,No,Yes,Yes
-153,Michigan,State Senator,37.0,Wayne Schmidt,REP,2014,2018,1,No,Yes,No
-154,Michigan,State Senator,38.0,Tom Casperson,REP,2014,2018,2,No,Yes,No
-155,Michigan,State Senator,4.0,Ian Conyers,DEM,2016,2018,1,No,No,Yes
-156,Michigan,State Senator,5.0,David Knezek Jr.,DEM,2014,2018,1,No,No,Yes
-157,Michigan,State Senator,6.0,Hoon-Yung Hopgood,DEM,2014,2018,1,No,No,Yes
-158,Michigan,State Senator,7.0,Patrick Colbeck,REP,2014,2018,2,No,No,Yes
-159,Michigan,State Senator,8.0,Jack Brandenburg,REP,2014,2018,1,No,No,No
-160,Michigan,State Senator,9.0,Steve Bieda,DEM,2014,2018,2,No,No,No
-161,Michigan,U.S. Representative,1.0,Jack Bergman,REP,2016,2018,1,No,Yes,Yes
-162,Michigan,U.S. Representative,10.0,Paul Mitchell III,REP,2016,2018,1,No,No,Yes
-163,Michigan,U.S. Representative,11.0,Dave Trott,REP,2016,2018,2,No,No,No
-164,Michigan,U.S. Representative,12.0,Debbie Dingell,DEM,2016,2018,2,No,Yes,Yes
-165,Michigan,U.S. Representative,13.0,John Conyers Jr.,DEM,2016,2018,3,No,No,Yes
-166,Michigan,U.S. Representative,14.0,Brenda Lawrence,DEM,2016,2018,2,No,Yes,Yes
-167,Michigan,U.S. Representative,2.0,Bill Huizenga,REP,2016,2018,4,No,Yes,Yes
-168,Michigan,U.S. Representative,3.0,Justin Amash,REP,2016,2018,4,No,No,Yes
-169,Michigan,U.S. Representative,4.0,John Moolenaar,REP,2016,2018,2,No,No,Yes
-170,Michigan,U.S. Representative,5.0,Daniel Kildee,DEM,2016,2018,3,No,Yes,Yes
-171,Michigan,U.S. Representative,6.0,Fred Stephen Upton,REP,2016,2018,4,No,No,Yes
-172,Michigan,U.S. Representative,7.0,Timothy Walberg,REP,2016,2018,4,No,No,Yes
-173,Michigan,U.S. Representative,8.0,Mike Bishop,REP,2016,2018,2,No,No,No
-174,Michigan,U.S. Representative,9.0,Sander Levin,DEM,2016,2018,3,No,No,Yes
-175,Michigan,U.S. Senator,0.0,Debbie Stabenow,DEM,2012,2018,1,No,Yes,No
-176,Michigan,U.S. Senator,0.0,Gary Peters,DEM,2014,2020,1,No,Yes,No
-177,Michigan,U.S. Senator,0.0,Sandy Pensler,REP,2018,2024,0,No,Yes,No
-178,Michigan,U.S. Senator,0.0,Gary Peters,DEM,2014,2020,1,No,Yes,No
-179,Michigan,U.S. Senator,0.0,Debbie Stabenow,DEM,2012,2018,1,No,Yes,No
+1,Michigan,Governor,0.0,Rick Dale Snyder,REP,2014,2018,2,No,No,No
+2,Michigan,Secretary Of State,0.0,Ruth Johnson,REP,2014,2018,2,No,Yes,No
+3,Michigan,State Representative,1.0,Brian Banks,DEM,2016,2018,3,No,No,Yes
+4,Michigan,State Representative,10.0,Leslie Love,DEM,2016,2018,2,No,No,No
+5,Michigan,State Representative,100.0,Scott Vansingel,REP,2016,2018,1,No,Yes,Yes
+6,Michigan,State Representative,101.0,Curt Vanderwall,REP,2016,2018,1,No,No,No
+7,Michigan,State Representative,102.0,Michele Hoitenga,REP,2016,2018,1,No,No,No
+8,Michigan,State Representative,103.0,Daire Rendon,REP,2016,2018,1,No,No,Yes
+9,Michigan,State Representative,104.0,Larry Inman,REP,2016,2018,2,No,Yes,Yes
+10,Michigan,State Representative,105.0,Triston Cole,REP,2016,2018,2,No,Yes,Yes
+11,Michigan,State Representative,106.0,Sue Allor,REP,2016,2018,1,No,No,Yes
+12,Michigan,State Representative,107.0,Lee Chatfield,REP,2016,2018,2,No,No,No
+13,Michigan,State Representative,108.0,Beau Matthew Lafave,REP,2016,2018,1,No,Yes,Yes
+14,Michigan,State Representative,109.0,John Kivela,DEM,2016,2018,3,No,Yes,Yes
+15,Michigan,State Representative,11.0,Jewell Jones,DEM,2016,2018,1,No,No,Yes
+16,Michigan,State Representative,110.0,Scott Dianda,DEM,2016,2018,3,No,Yes,No
+17,Michigan,State Representative,12.0,Erika-Marie Geiss,DEM,2016,2018,2,No,No,Yes
+18,Michigan,State Representative,13.0,Frank Liberati,DEM,2016,2018,2,No,No,Yes
+19,Michigan,State Representative,14.0,Cara Clemente,DEM,2016,2018,1,No,No,Yes
+20,Michigan,State Representative,15.0,Abdullah Hammoud,DEM,2016,2018,1,No,Yes,Yes
+21,Michigan,State Representative,16.0,Robert Kosowski,DEM,2016,2018,3,No,No,Yes
+22,Michigan,State Representative,17.0,Joseph Bellino Jr.,REP,2016,2018,1,No,Yes,Yes
+23,Michigan,State Representative,18.0,Kevin Hertel,DEM,2016,2018,1,No,Yes,Yes
+24,Michigan,State Representative,19.0,Laura Cox,REP,2016,2018,2,No,No,Yes
+25,Michigan,State Representative,2.0,Bettie Cook Scott,DEM,2016,2018,1,No,No,Yes
+26,Michigan,State Representative,20.0,Jeff Noble,REP,2016,2018,1,No,Yes,Yes
+27,Michigan,State Representative,21.0,Kristy Pagan,DEM,2016,2018,2,No,Yes,Yes
+28,Michigan,State Representative,22.0,John Chirkun,DEM,2016,2018,2,No,Yes,Yes
+29,Michigan,State Representative,23.0,Darrin Camilleri,DEM,2016,2018,1,No,Yes,Yes
+30,Michigan,State Representative,24.0,Steven Marino,REP,2016,2018,1,No,Yes,Yes
+31,Michigan,State Representative,25.0,Henry Yanez,DEM,2016,2018,3,No,Yes,Yes
+32,Michigan,State Representative,26.0,Jim Ellison,DEM,2016,2018,1,No,Yes,Yes
+33,Michigan,State Representative,27.0,Robert Wittenberg,DEM,2016,2018,2,No,No,Yes
+34,Michigan,State Representative,28.0,Patrick Green,DEM,2016,2018,1,No,No,Yes
+35,Michigan,State Representative,29.0,Timothy Greimel,DEM,2016,2018,3,No,No,Yes
+36,Michigan,State Representative,3.0,Wendell Byrd,DEM,2016,2018,2,No,No,Yes
+37,Michigan,State Representative,30.0,Diana Farrington,REP,2016,2018,1,No,No,Yes
+38,Michigan,State Representative,31.0,Bill Sowerby,DEM,2016,2018,1,No,No,No
+39,Michigan,State Representative,32.0,Pamela Hornberger,REP,2016,2018,1,No,Yes,Yes
+40,Michigan,State Representative,33.0,Jeffrey Yaroch,REP,2016,2018,1,No,Yes,Yes
+41,Michigan,State Representative,34.0,Sheldon Neeley,DEM,2016,2018,2,No,No,Yes
+42,Michigan,State Representative,35.0,Jeremy Moss,DEM,2016,2018,2,No,No,Yes
+43,Michigan,State Representative,36.0,Peter Lucido,REP,2016,2018,2,No,No,No
+44,Michigan,State Representative,37.0,Christine Greig,DEM,2016,2018,2,No,Yes,No
+45,Michigan,State Representative,38.0,Kathy Crawford,REP,2016,2018,2,No,No,No
+46,Michigan,State Representative,39.0,Klint Kesto,REP,2016,2018,3,No,Yes,No
+47,Michigan,State Representative,4.0,Rose Mary Robinson,DEM,2016,2018,3,No,No,Yes
+48,Michigan,State Representative,40.0,Michael McCready,REP,2016,2018,3,No,No,No
+49,Michigan,State Representative,41.0,Martin Howrylak,REP,2016,2018,3,No,Yes,No
+50,Michigan,State Representative,42.0,Lana Theis,REP,2016,2018,2,No,Yes,Yes
+51,Michigan,State Representative,43.0,Jim Tedder,REP,2016,2018,2,No,Yes,No
+52,Michigan,State Representative,44.0,Jim Runestad,REP,2016,2018,2,No,No,No
+53,Michigan,State Representative,45.0,Michael Webber,REP,2016,2018,2,No,No,Yes
+54,Michigan,State Representative,46.0,John Reilly,REP,2016,2018,1,No,No,Yes
+55,Michigan,State Representative,47.0,Hank Vaupel,REP,2016,2018,2,No,Yes,Yes
+56,Michigan,State Representative,48.0,Pam Faris,DEM,2016,2018,3,No,No,No
+57,Michigan,State Representative,49.0,Phil Phelps,DEM,2016,2018,3,No,No,Yes
+58,Michigan,State Representative,5.0,Frederick Durhal III,DEM,2016,2018,2,No,No,Yes
+59,Michigan,State Representative,50.0,Tim Sneller,DEM,2016,2018,1,No,Yes,Yes
+60,Michigan,State Representative,51.0,Joseph Graves,REP,2016,2018,3,No,Yes,No
+61,Michigan,State Representative,52.0,Donna Lasinski,DEM,2016,2018,1,No,Yes,Yes
+62,Michigan,State Representative,53.0,Yousef Rabhi,DEM,2016,2018,1,No,Yes,Yes
+63,Michigan,State Representative,54.0,Ronnie Peterson,DEM,2016,2018,1,No,No,No
+64,Michigan,State Representative,55.0,Adam Zemke,DEM,2016,2018,3,No,No,No
+65,Michigan,State Representative,56.0,Jason Sheppard,REP,2016,2018,2,No,Yes,Yes
+66,Michigan,State Representative,57.0,Bronna Kahle,REP,2016,2018,1,No,Yes,Yes
+67,Michigan,State Representative,58.0,Eric Leutheuser,REP,2016,2018,2,No,Yes,Yes
+68,Michigan,State Representative,59.0,Aaron Miller,REP,2016,2018,2,No,Yes,Yes
+69,Michigan,State Representative,6.0,Stephanie Chang,DEM,2016,2018,2,No,No,Yes
+70,Michigan,State Representative,60.0,Jon Hoadley,DEM,2016,2018,2,No,Yes,Yes
+71,Michigan,State Representative,61.0,Brandt Iden,REP,2016,2018,2,No,No,Yes
+72,Michigan,State Representative,62.0,John Gerard Bizon,REP,2016,2018,2,No,Yes,Yes
+73,Michigan,State Representative,63.0,David Maturen,REP,2016,2018,2,No,Yes,No
+74,Michigan,State Representative,64.0,Julie Alexander,REP,2016,2018,1,No,No,Yes
+75,Michigan,State Representative,65.0,Brett Roberts,REP,2016,2018,2,No,Yes,No
+76,Michigan,State Representative,66.0,Beth Griffin,REP,2016,2018,1,No,Yes,Yes
+77,Michigan,State Representative,67.0,Tom William Cochran,DEM,2016,2018,3,No,No,No
+78,Michigan,State Representative,68.0,Andrew Jason Schor,DEM,2016,2018,3,No,No,No
+79,Michigan,State Representative,69.0,Samir Singh,DEM,2016,2018,3,No,No,Yes
+80,Michigan,State Representative,7.0,Latanya Garrett,DEM,2016,2018,2,No,No,No
+81,Michigan,State Representative,70.0,James Lower,REP,2016,2018,1,No,Yes,Yes
+82,Michigan,State Representative,71.0,Tom Barrett,REP,2016,2018,2,No,No,No
+83,Michigan,State Representative,72.0,Steven Johnson,REP,2016,2018,1,No,Yes,No
+84,Michigan,State Representative,73.0,Chris Afendoulis,REP,2016,2018,2,No,Yes,No
+85,Michigan,State Representative,74.0,Robert Verheulen,REP,2016,2018,3,No,Yes,Yes
+86,Michigan,State Representative,75.0,David Lagrand,DEM,2016,2018,1,No,Yes,Yes
+87,Michigan,State Representative,76.0,Winnie Theresa Brinks,DEM,2016,2018,3,No,Yes,Yes
+88,Michigan,State Representative,77.0,Tommy Brann,REP,2016,2018,1,No,No,No
+89,Michigan,State Representative,78.0,Dave Pagel,REP,2016,2018,3,No,Yes,No
+90,Michigan,State Representative,79.0,Kim Lasata,REP,2016,2018,1,No,No,No
+91,Michigan,State Representative,8.0,Sherry Gay-Dagnogo,DEM,2016,2018,2,No,No,Yes
+92,Michigan,State Representative,80.0,Mary Whiteford,REP,2016,2018,1,No,No,Yes
+93,Michigan,State Representative,81.0,Daniel Lauwers,REP,2016,2018,3,No,Yes,No
+94,Michigan,State Representative,82.0,Gary Howell,REP,2016,2018,1,No,Yes,Yes
+95,Michigan,State Representative,83.0,Shane Hernandez,REP,2016,2018,1,No,Yes,Yes
+96,Michigan,State Representative,84.0,Edward Canfield,REP,2016,2018,2,No,Yes,No
+97,Michigan,State Representative,85.0,Ben Frederick,REP,2016,2018,1,No,Yes,Yes
+98,Michigan,State Representative,86.0,Thomas Albert,REP,2016,2018,1,No,Yes,Yes
+99,Michigan,State Representative,87.0,Julie Calley,REP,2016,2018,1,No,Yes,Yes
+100,Michigan,State Representative,88.0,Roger Victory,REP,2016,2018,3,No,Yes,No
+101,Michigan,State Representative,89.0,Jim Lilly,REP,2016,2018,1,No,Yes,No
+102,Michigan,State Representative,9.0,Sylvia Santana,DEM,2016,2018,1,No,No,Yes
+103,Michigan,State Representative,90.0,Daniela Garcia,REP,2016,2018,2,No,Yes,No
+104,Michigan,State Representative,91.0,Holly Hughes,REP,2016,2018,2,No,No,No
+105,Michigan,State Representative,92.0,Terry Sabo,DEM,2016,2018,1,No,Yes,Yes
+106,Michigan,State Representative,93.0,Thomas Leonard III,REP,2016,2018,3,No,Yes,No
+107,Michigan,State Representative,94.0,Tim Kelly,REP,2016,2018,3,No,Yes,No
+108,Michigan,State Representative,95.0,Vanessa Guerra,DEM,2016,2018,2,No,Yes,Yes
+109,Michigan,State Representative,96.0,Brian Elder,DEM,2016,2018,1,No,Yes,Yes
+110,Michigan,State Representative,97.0,Jason Wentworth,REP,2016,2018,1,No,No,Yes
+111,Michigan,State Representative,98.0,Gary Glenn,REP,2016,2018,2,No,Yes,No
+112,Michigan,State Representative,99.0,Roger Hauck,REP,2016,2018,1,No,No,Yes
+113,Michigan,State Senator,1.0,Coleman Young II,DEM,2014,2018,2,No,No,Yes
+114,Michigan,State Senator,10.0,Tory Rocca,REP,2014,2018,2,No,Yes,No
+115,Michigan,State Senator,11.0,Vincent Gregory,DEM,2014,2018,1,No,No,Yes
+116,Michigan,State Senator,12.0,Jim Marleau,REP,2014,2018,2,No,Yes,No
+117,Michigan,State Senator,13.0,Marty Knollenberg,REP,2014,2018,1,No,Yes,Yes
+118,Michigan,State Senator,14.0,David Robertson,REP,2014,2018,1,No,No,No
+119,Michigan,State Senator,15.0,Mike Kowall,REP,2014,2018,2,No,Yes,No
+120,Michigan,State Senator,16.0,Michael Shirkey,REP,2014,2018,1,No,Yes,No
+121,Michigan,State Senator,17.0,Dale Zorn,REP,2014,2018,1,No,Yes,Yes
+122,Michigan,State Senator,18.0,Rebekah Warren,DEM,2014,2018,2,No,No,Yes
+123,Michigan,State Senator,19.0,Mike Nofs,REP,2014,2018,2,No,Yes,No
+124,Michigan,State Senator,2.0,Bertram Courtney Johnson,DEM,2014,2018,2,No,No,No
+125,Michigan,State Senator,20.0,Margaret Obrien,REP,2014,2018,1,No,Yes,Yes
+126,Michigan,State Senator,21.0,John Proos IV,REP,2014,2018,2,No,Yes,No
+127,Michigan,State Senator,22.0,Joe Hune,REP,2014,2018,2,No,Yes,No
+128,Michigan,State Senator,23.0,Curtis Hertel Jr.,DEM,2014,2018,1,No,Yes,No
+129,Michigan,State Senator,24.0,Rick Jones,REP,2014,2018,2,No,Yes,No
+130,Michigan,State Senator,25.0,Phillip Pavlov,REP,2014,2018,2,No,Yes,Yes
+131,Michigan,State Senator,26.0,Tonya Schuitmaker,REP,2014,2018,1,No,Yes,No
+132,Michigan,State Senator,27.0,James Ananich,DEM,2013,2014,1,No,Yes,Yes
+133,Michigan,State Senator,27.0,James Ananich,DEM,2014,2018,2,No,Yes,Yes
+134,Michigan,State Senator,28.0,Peter Macgregor,REP,2014,2018,1,No,No,Yes
+135,Michigan,State Senator,29.0,Dave Hildenbrand,REP,2014,2018,2,No,Yes,No
+136,Michigan,State Senator,3.0,Morris Hood,DEM,2014,2018,2,No,No,Yes
+137,Michigan,State Senator,30.0,Arlan Meekhof,REP,2014,2018,2,No,Yes,No
+138,Michigan,State Senator,31.0,Michael Green,REP,2014,2018,2,No,No,No
+139,Michigan,State Senator,32.0,Kenneth Horn,REP,2014,2018,1,No,No,Yes
+140,Michigan,State Senator,33.0,Judy Emmons,REP,2014,2018,2,No,No,No
+141,Michigan,State Senator,34.0,Goeff Hansen,REP,2014,2018,2,No,No,No
+142,Michigan,State Senator,35.0,Darwin Booher,REP,2014,2018,2,No,Yes,No
+143,Michigan,State Senator,36.0,Jim Stamas,REP,2014,2018,1,No,Yes,Yes
+144,Michigan,State Senator,37.0,Wayne Schmidt,REP,2014,2018,1,No,Yes,No
+145,Michigan,State Senator,38.0,Tom Casperson,REP,2014,2018,2,No,Yes,No
+146,Michigan,State Senator,4.0,Ian Conyers,DEM,2016,2018,1,No,No,Yes
+147,Michigan,State Senator,5.0,David Knezek Jr.,DEM,2014,2018,1,No,No,Yes
+148,Michigan,State Senator,6.0,Hoon-Yung Hopgood,DEM,2014,2018,1,No,No,Yes
+149,Michigan,State Senator,7.0,Patrick Colbeck,REP,2014,2018,2,No,No,Yes
+150,Michigan,State Senator,8.0,Jack Brandenburg,REP,2014,2018,1,No,No,No
+151,Michigan,State Senator,9.0,Steve Bieda,DEM,2014,2018,2,No,No,No
+152,Michigan,U.S. Representative,1.0,Jack Bergman,REP,2016,2018,1,No,Yes,Yes
+153,Michigan,U.S. Representative,10.0,Paul Mitchell III,REP,2016,2018,1,No,No,Yes
+154,Michigan,U.S. Representative,11.0,Dave Trott,REP,2016,2018,2,No,No,No
+155,Michigan,U.S. Representative,12.0,Debbie Dingell,DEM,2016,2018,2,No,Yes,Yes
+156,Michigan,U.S. Representative,13.0,John Conyers Jr.,DEM,2016,2018,3,No,No,Yes
+157,Michigan,U.S. Representative,14.0,Brenda Lawrence,DEM,2016,2018,2,No,Yes,Yes
+158,Michigan,U.S. Representative,2.0,Bill Huizenga,REP,2016,2018,4,No,Yes,Yes
+159,Michigan,U.S. Representative,3.0,Justin Amash,REP,2016,2018,4,No,No,Yes
+160,Michigan,U.S. Representative,4.0,John Moolenaar,REP,2016,2018,2,No,No,Yes
+161,Michigan,U.S. Representative,5.0,Daniel Kildee,DEM,2016,2018,3,No,Yes,Yes
+162,Michigan,U.S. Representative,6.0,Fred Stephen Upton,REP,2016,2018,4,No,No,Yes
+163,Michigan,U.S. Representative,7.0,Timothy Walberg,REP,2016,2018,4,No,No,Yes
+164,Michigan,U.S. Representative,8.0,Mike Bishop,REP,2016,2018,2,No,No,No
+165,Michigan,U.S. Representative,9.0,Sander Levin,DEM,2016,2018,3,No,No,Yes
+166,Michigan,U.S. Senator,0.0,Debbie Stabenow,DEM,2012,2018,1,No,Yes,No
+167,Michigan,U.S. Senator,0.0,Gary Peters,DEM,2014,2020,1,No,Yes,No

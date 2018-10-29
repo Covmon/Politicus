@@ -1,253 +1,246 @@
 ,State,Position,District,Candidate,Party,Year Elected,Next Election,Number of Terms in Position,Unopposed in Last Election,DEM Unopposed in Primary,REP Unopposed in Primary
 0,New York,Attorney General,0.0,Eric Tadd Schneiderman,DEM,2014,2018,2,No,No,Yes
-1,New York,Attorney General,0.0,Sean Maloney,DEM,2018,2022,0,No,No,Yes
-2,New York,Attorney General,0.0,Sean Maloney,DEM,2018,2022,0,No,No,Yes
-3,New York,Attorney General,0.0,Eric Tadd Schneiderman,DEM,2014,2018,2,No,No,Yes
-4,New York,Comptroller,0.0,Thomas Dinapoli,DEM,2014,2018,2,No,Yes,Yes
-5,New York,Comptroller,0.0,Thomas Dinapoli,DEM,2014,2018,2,No,Yes,Yes
-6,New York,Governor,0.0,Andrew Cuomo,DEM,2014,2018,2,No,Yes,Yes
-7,New York,Governor,0.0,Andrew Cuomo,DEM,2014,2018,2,No,Yes,Yes
-8,New York,State Representative,1.0,Fred Thiele Jr.,DEM,2016,2018,3,No,Yes,Yes
-9,New York,State Representative,10.0,Chad Lupinacci,REP,2016,2018,3,No,No,No
-10,New York,State Representative,100.0,Aileen Gunther,DEM,2016,2018,3,Yes,Yes,Yes
-11,New York,State Representative,101.0,Brian Miller,REP,2016,2018,1,No,Yes,Yes
-12,New York,State Representative,102.0,Peter Lopez,REP,2016,2018,3,Yes,No,No
-13,New York,State Representative,103.0,Kevin Cahill,DEM,2016,2018,3,No,Yes,Yes
-14,New York,State Representative,104.0,Frank Skartados,DEM,2016,2018,3,No,No,Yes
-15,New York,State Representative,105.0,Kieran Michael Lalor,REP,2016,2018,3,No,Yes,Yes
-16,New York,State Representative,106.0,Didi Barrett,DEM,2016,2018,3,No,Yes,Yes
-17,New York,State Representative,107.0,Steven McLaughlin,REP,2016,2018,3,Yes,No,No
-18,New York,State Representative,108.0,John McDonald III,DEM,2016,2018,3,Yes,Yes,Yes
-19,New York,State Representative,109.0,Patricia Fahy,DEM,2016,2018,3,No,Yes,Yes
-20,New York,State Representative,11.0,Kimberly Jean-Pierre,DEM,2016,2018,2,No,Yes,Yes
-21,New York,State Representative,110.0,Phillip Steck,DEM,2016,2018,3,No,Yes,Yes
-22,New York,State Representative,111.0,Angelo Santabarbara,DEM,2016,2018,3,No,Yes,Yes
-23,New York,State Representative,112.0,Mary Beth Walsh,REP,2016,2018,1,No,Yes,Yes
-24,New York,State Representative,113.0,Carrie Woerner,DEM,2016,2018,2,No,Yes,Yes
-25,New York,State Representative,114.0,Daniel Stec,REP,2016,2018,3,No,Yes,Yes
-26,New York,State Representative,115.0,Billy Jones,DEM,2016,2018,1,No,Yes,Yes
-27,New York,State Representative,116.0,Addie Jenne Russell,DEM,2016,2018,3,No,Yes,Yes
-28,New York,State Representative,117.0,Kenneth Blankenbush,REP,2016,2018,3,Yes,Yes,Yes
-29,New York,State Representative,118.0,Marc Butler,REP,2016,2018,3,Yes,Yes,No
-30,New York,State Representative,119.0,Anthony Brindisi,DEM,2016,2018,3,Yes,Yes,No
-31,New York,State Representative,12.0,Andrew Raia,REP,2016,2018,3,No,No,Yes
-32,New York,State Representative,120.0,William Barclay,REP,2016,2018,3,Yes,Yes,Yes
-33,New York,State Representative,121.0,Bill Magee,DEM,2016,2018,3,No,No,Yes
-34,New York,State Representative,122.0,Clifford Crouch,REP,2016,2018,3,Yes,Yes,Yes
-35,New York,State Representative,123.0,Donna Lupardo,DEM,2016,2018,3,No,Yes,Yes
-36,New York,State Representative,124.0,Christopher Friend,REP,2016,2018,3,No,No,Yes
-37,New York,State Representative,125.0,Barbara Lifton,DEM,2016,2018,8,No,Yes,Yes
-38,New York,State Representative,126.0,Gary Finch,REP,2016,2018,3,No,Yes,Yes
-39,New York,State Representative,127.0,Albert Stirpe Jr.,DEM,2016,2018,3,No,Yes,Yes
-40,New York,State Representative,128.0,Pamela Jo Hunter,DEM,2016,2018,1,Yes,Yes,Yes
-41,New York,State Representative,129.0,William Magnarelli,DEM,2016,2018,3,Yes,Yes,Yes
-42,New York,State Representative,13.0,Charles Lavine,DEM,2016,2018,7,No,Yes,Yes
-43,New York,State Representative,130.0,Robert Oaks,REP,2016,2018,3,Yes,Yes,Yes
-44,New York,State Representative,131.0,Brian Kolb,REP,2016,2018,3,Yes,Yes,Yes
-45,New York,State Representative,132.0,Philip Palmesano,REP,2016,2018,3,Yes,Yes,Yes
-46,New York,State Representative,133.0,Joe Errigo,REP,2016,2018,1,No,Yes,Yes
-47,New York,State Representative,134.0,Peter Lawrence,REP,2016,2018,2,Yes,Yes,Yes
-48,New York,State Representative,135.0,Mark Johns,REP,2016,2018,4,No,Yes,Yes
-49,New York,State Representative,136.0,Joe Morelle,DEM,2016,2018,3,Yes,No,Yes
-50,New York,State Representative,137.0,David Gantt,DEM,2016,2018,3,Yes,No,Yes
-51,New York,State Representative,138.0,Harry Bronson,DEM,2016,2018,3,No,Yes,Yes
-52,New York,State Representative,139.0,Stephen Hawley,REP,2016,2018,6,Yes,Yes,Yes
-53,New York,State Representative,14.0,David McDonough,REP,2016,2018,3,No,Yes,Yes
-54,New York,State Representative,140.0,Robin Schimminger,DEM,2016,2018,9,No,Yes,Yes
-55,New York,State Representative,141.0,Crystal Peoples-Stokes,DEM,2016,2018,8,No,Yes,Yes
-56,New York,State Representative,142.0,Michael Kearns,DEM,2016,2018,3,Yes,No,No
-57,New York,State Representative,143.0,Monica Wallace,DEM,2016,2018,1,No,Yes,Yes
-58,New York,State Representative,144.0,Michael Norris,REP,2016,2018,1,Yes,Yes,Yes
-59,New York,State Representative,145.0,Angelo Morinello,REP,2016,2018,1,No,Yes,Yes
-60,New York,State Representative,146.0,Raymond Walter,REP,2016,2018,3,No,Yes,Yes
-61,New York,State Representative,147.0,David Dipietro,REP,2016,2018,3,Yes,Yes,Yes
-62,New York,State Representative,148.0,Joseph Giglio,REP,2016,2018,3,Yes,Yes,Yes
-63,New York,State Representative,149.0,Sean Ryan,DEM,2016,2018,3,Yes,Yes,Yes
-64,New York,State Representative,15.0,Michael Montesano,REP,2016,2018,4,No,Yes,Yes
-65,New York,State Representative,150.0,Andrew Goodell,REP,2016,2018,4,No,Yes,Yes
-66,New York,State Representative,16.0,Anthony Durso,DEM,2016,2018,1,No,Yes,Yes
-67,New York,State Representative,17.0,Thomas McKevitt,REP,2016,2018,6,No,No,No
-68,New York,State Representative,18.0,Earlene Hill Hooper,DEM,2016,2018,9,No,No,Yes
-69,New York,State Representative,19.0,Edward Ra,REP,2016,2018,3,No,Yes,Yes
-70,New York,State Representative,2.0,Anthony Palumbo,REP,2016,2018,2,No,Yes,No
-71,New York,State Representative,20.0,Melissa Miller,REP,2016,2018,1,No,Yes,Yes
-72,New York,State Representative,21.0,Brian Curran,REP,2016,2018,3,No,Yes,Yes
-73,New York,State Representative,22.0,Michaelle Solages,DEM,2016,2018,3,No,Yes,Yes
-74,New York,State Representative,23.0,Stacey Pheffer Amato,DEM,2016,2018,1,No,Yes,Yes
-75,New York,State Representative,24.0,David Weprin,DEM,2016,2018,4,No,Yes,Yes
-76,New York,State Representative,25.0,Nily Rozic,DEM,2016,2018,3,No,Yes,Yes
-77,New York,State Representative,26.0,Edward Braunstein,DEM,2016,2018,4,No,Yes,Yes
-78,New York,State Representative,27.0,Michael Simanowitz,DEM,2016,2018,3,Yes,Yes,Yes
-79,New York,State Representative,28.0,Andrew Hevesi,DEM,2016,2018,6,Yes,Yes,Yes
-80,New York,State Representative,29.0,Alicia Hyndman,DEM,2016,2018,1,Yes,Yes,Yes
-81,New York,State Representative,3.0,Dean Murray,REP,2016,2018,2,No,Yes,Yes
-82,New York,State Representative,30.0,Brian Barnwell,DEM,2016,2018,1,No,No,Yes
-83,New York,State Representative,31.0,Michele Titus,DEM,2016,2018,8,Yes,Yes,Yes
-84,New York,State Representative,32.0,Vivian Cook,DEM,2016,2018,9,Yes,Yes,Yes
-85,New York,State Representative,33.0,Clyde Vanel,DEM,2016,2018,1,No,No,Yes
-86,New York,State Representative,34.0,Michael Dendekker,DEM,2016,2018,5,Yes,Yes,Yes
-87,New York,State Representative,35.0,Jeffrion Aubry,DEM,2016,2018,9,Yes,No,Yes
-88,New York,State Representative,36.0,Aravella Simotas,DEM,2016,2018,4,Yes,Yes,Yes
-89,New York,State Representative,37.0,Catherine Nolan,DEM,2016,2018,9,Yes,Yes,Yes
-90,New York,State Representative,38.0,Michael Miller,DEM,2016,2018,4,No,Yes,Yes
-91,New York,State Representative,39.0,Francisco Moya,DEM,2016,2018,4,Yes,No,Yes
-92,New York,State Representative,4.0,Steven Englebright,DEM,2016,2018,9,No,Yes,Yes
-93,New York,State Representative,40.0,Ronald Kim,DEM,2016,2018,3,No,Yes,Yes
-94,New York,State Representative,41.0,Helene Weinstein,DEM,2016,2018,9,No,Yes,Yes
-95,New York,State Representative,42.0,Rodneyse Bichotte,DEM,2016,2018,2,No,No,Yes
-96,New York,State Representative,43.0,Diana Richardson,DEM,2016,2018,1,Yes,Yes,Yes
-97,New York,State Representative,44.0,Robert Carroll,DEM,2016,2018,1,No,Yes,Yes
-98,New York,State Representative,45.0,Steven Cymbrowitz,DEM,2016,2018,9,No,Yes,Yes
-99,New York,State Representative,46.0,Pamela Harris,DEM,2016,2018,1,No,Yes,Yes
-100,New York,State Representative,47.0,William Colton,DEM,2016,2018,9,No,Yes,Yes
-101,New York,State Representative,48.0,Dov Hikind,DEM,2016,2018,9,Yes,Yes,Yes
-102,New York,State Representative,49.0,Peter Abbate Jr.,DEM,2016,2018,9,No,Yes,Yes
-103,New York,State Representative,5.0,Alfred Graf,REP,2016,2018,4,No,No,No
-104,New York,State Representative,50.0,Joseph Lentol,DEM,2016,2018,9,Yes,Yes,Yes
-105,New York,State Representative,51.0,Felix Ortiz,DEM,2016,2018,9,No,Yes,Yes
-106,New York,State Representative,52.0,Jo Anne Simon,DEM,2016,2018,2,No,Yes,Yes
-107,New York,State Representative,53.0,Maritza Davila,DEM,2016,2018,2,Yes,No,Yes
-108,New York,State Representative,54.0,Erik Martin Dilan,DEM,2016,2018,2,No,Yes,Yes
-109,New York,State Representative,55.0,Latrice Monique Walker,DEM,2016,2018,2,No,Yes,Yes
-110,New York,State Representative,56.0,Tremaine Wright,DEM,2016,2018,1,Yes,Yes,Yes
-111,New York,State Representative,57.0,Walter Mosley III,DEM,2016,2018,3,Yes,Yes,Yes
-112,New York,State Representative,58.0,Nick Perry,DEM,2016,2018,9,Yes,Yes,Yes
-113,New York,State Representative,59.0,Jaime Williams,DEM,2016,2018,1,No,Yes,Yes
-114,New York,State Representative,6.0,Philip Ramos,DEM,2016,2018,8,Yes,Yes,Yes
-115,New York,State Representative,60.0,Charles Barron,DEM,2016,2018,2,No,No,Yes
-116,New York,State Representative,61.0,Matthew Titone,DEM,2016,2018,5,Yes,No,Yes
-117,New York,State Representative,62.0,Ronald Castorina Jr.,REP,2016,2018,1,Yes,Yes,No
-118,New York,State Representative,63.0,Michael Cusick,DEM,2016,2018,8,Yes,Yes,Yes
-119,New York,State Representative,64.0,Nicole Malliotakis,REP,2016,2018,3,Yes,Yes,Yes
-120,New York,State Representative,65.0,Yuh-Line Niou,DEM,2016,2018,1,No,Yes,Yes
-121,New York,State Representative,66.0,Deborah Glick,DEM,2016,2018,9,Yes,Yes,Yes
-122,New York,State Representative,67.0,Linda Rosenthal,DEM,2016,2018,6,No,Yes,Yes
-123,New York,State Representative,68.0,Robert Rodriguez,DEM,2016,2018,4,No,No,Yes
-124,New York,State Representative,69.0,Daniel Odonnell,DEM,2016,2018,8,No,No,Yes
-125,New York,State Representative,7.0,Andrew Garbarino,REP,2016,2018,3,No,Yes,Yes
-126,New York,State Representative,70.0,Inez Dickens,DEM,2016,2018,1,No,Yes,Yes
-127,New York,State Representative,71.0,Herman Farrell Jr.,DEM,2016,2018,9,No,No,Yes
-128,New York,State Representative,72.0,Carmen De La Rosa,DEM,2016,2018,1,Yes,No,Yes
-129,New York,State Representative,73.0,Dan Quart,DEM,2016,2018,3,No,Yes,Yes
-130,New York,State Representative,74.0,Brian Kavanagh,DEM,2016,2018,6,No,No,No
-131,New York,State Representative,75.0,Richard Gottfried,DEM,2016,2018,8,No,Yes,Yes
-132,New York,State Representative,76.0,Rebecca Seawright,DEM,2016,2018,2,No,Yes,Yes
-133,New York,State Representative,77.0,Latoya Joyner,DEM,2016,2018,2,No,Yes,Yes
-134,New York,State Representative,78.0,Jose Rivera,DEM,2016,2018,9,No,Yes,Yes
-135,New York,State Representative,79.0,Michael Blake,DEM,2016,2018,2,No,Yes,Yes
-136,New York,State Representative,8.0,Michael Fitzpatrick,REP,2016,2018,3,No,Yes,Yes
-137,New York,State Representative,80.0,Mark Gjonaj,DEM,2016,2018,3,No,No,No
-138,New York,State Representative,81.0,Jeffrey Dinowitz,DEM,2016,2018,9,No,Yes,Yes
-139,New York,State Representative,82.0,Michael Benedetto,DEM,2016,2018,7,No,Yes,Yes
-140,New York,State Representative,83.0,Carl Heastie,DEM,2016,2018,9,Yes,Yes,Yes
-141,New York,State Representative,84.0,Carmen Arroyo,DEM,2016,2018,8,No,Yes,Yes
-142,New York,State Representative,85.0,Marcos Crespo,DEM,2016,2018,4,No,Yes,Yes
-143,New York,State Representative,86.0,Victor Pichardo,DEM,2016,2018,2,No,Yes,Yes
-144,New York,State Representative,87.0,Luis Sepulveda,DEM,2016,2018,3,No,No,Yes
-145,New York,State Representative,88.0,Amy Paulin,DEM,2016,2018,9,No,Yes,Yes
-146,New York,State Representative,89.0,Gary Gary Pretlow,DEM,2016,2018,3,Yes,Yes,Yes
-147,New York,State Representative,9.0,Joseph Saladino,REP,2016,2018,3,No,Yes,Yes
-148,New York,State Representative,90.0,Shelley Mayer,DEM,2016,2018,3,Yes,Yes,Yes
-149,New York,State Representative,91.0,Steven Otis,DEM,2016,2018,3,Yes,Yes,Yes
-150,New York,State Representative,92.0,Thomas Abinanti,DEM,2016,2018,4,Yes,Yes,Yes
-151,New York,State Representative,93.0,David Buchwald,DEM,2016,2018,3,Yes,Yes,Yes
-152,New York,State Representative,94.0,Kevin Byrne,REP,2016,2018,1,No,Yes,Yes
-153,New York,State Representative,95.0,Sandra Galef,DEM,2016,2018,3,No,Yes,Yes
-154,New York,State Representative,96.0,Kenneth Zebrowski Jr.,DEM,2016,2018,3,No,Yes,Yes
-155,New York,State Representative,97.0,Ellen Jaffee,DEM,2016,2018,3,No,Yes,Yes
-156,New York,State Representative,98.0,Karl Brabenec,REP,2016,2018,2,No,Yes,Yes
-157,New York,State Representative,99.0,James Skoufis,DEM,2016,2018,3,No,Yes,Yes
-158,New York,State Senator,1.0,Kenneth Lavalle,REP,2016,2018,9,No,Yes,Yes
-159,New York,State Senator,10.0,James Sanders Jr.,DEM,2016,2018,3,No,Yes,Yes
-160,New York,State Senator,11.0,Tony Avella,DEM,2016,2018,4,No,No,Yes
-161,New York,State Senator,12.0,Michael Gianaris,DEM,2016,2018,4,No,Yes,Yes
-162,New York,State Senator,13.0,Jose Peralta,DEM,2016,2018,4,No,Yes,Yes
-163,New York,State Senator,14.0,Leroy Comrie Jr.,DEM,2016,2018,2,No,Yes,Yes
-164,New York,State Senator,15.0,Joseph Addabbo Jr.,DEM,2016,2018,5,No,Yes,No
-165,New York,State Senator,16.0,Toby Ann Stavisky,DEM,2016,2018,9,No,Yes,Yes
-166,New York,State Senator,17.0,Simcha Felder,DEM,2016,2018,3,Yes,No,Yes
-167,New York,State Senator,18.0,Martin Malave Dilan,DEM,2016,2018,3,Yes,No,Yes
-168,New York,State Senator,19.0,Roxanne Persaud,DEM,2016,2018,1,Yes,Yes,Yes
-169,New York,State Senator,2.0,John Flanagan Jr.,REP,2016,2018,8,No,Yes,Yes
-170,New York,State Senator,20.0,Jesse Hamilton,DEM,2016,2018,2,No,Yes,Yes
-171,New York,State Senator,21.0,Kevin Parker,DEM,2016,2018,8,No,Yes,Yes
-172,New York,State Senator,22.0,Martin Golden,REP,2016,2018,8,Yes,No,Yes
-173,New York,State Senator,23.0,Diane Savino,DEM,2016,2018,7,Yes,No,Yes
-174,New York,State Senator,24.0,Andrew Lanza,REP,2016,2018,6,Yes,Yes,Yes
-175,New York,State Senator,25.0,Velmanette Montgomery,DEM,2016,2018,3,No,Yes,Yes
-176,New York,State Senator,26.0,Brian P. Kavanagh,DEM,2017,2018,1,No,Yes,Yes
-177,New York,State Senator,27.0,Brad Hoylman,DEM,2016,2018,3,No,Yes,Yes
-178,New York,State Senator,28.0,Liz Krueger,DEM,2016,2018,3,No,Yes,Yes
-179,New York,State Senator,29.0,Jose Serrano,DEM,2016,2018,3,No,Yes,Yes
-180,New York,State Senator,3.0,Thomas Croci,REP,2016,2018,2,No,Yes,Yes
-181,New York,State Senator,30.0,Brian A. Benjamin,DEM,2017,2018,1,No,No,Yes
-182,New York,State Senator,31.0,Marisol Alcantara,DEM,2016,2018,1,No,No,Yes
-183,New York,State Senator,32.0,Ruben Diaz Sr.,DEM,2016,2018,7,No,No,No
-184,New York,State Senator,33.0,Gustavo Rivera,DEM,2016,2018,4,No,Yes,Yes
-185,New York,State Senator,34.0,Jeffrey Klein,DEM,2016,2018,7,No,Yes,Yes
-186,New York,State Senator,35.0,Andrea Stewart-Cousins,DEM,2016,2018,6,Yes,Yes,Yes
-187,New York,State Senator,36.0,Jamaal Bailey,DEM,2016,2018,1,No,Yes,Yes
-188,New York,State Senator,37.0,George Latimer,DEM,2016,2018,3,No,No,Yes
-189,New York,State Senator,38.0,David Carlucci,DEM,2016,2018,4,No,No,Yes
-190,New York,State Senator,39.0,William Larkin Jr.,REP,2016,2018,9,No,Yes,Yes
-191,New York,State Senator,4.0,Philip Boyle,REP,2016,2018,3,No,Yes,Yes
-192,New York,State Senator,40.0,Terrence Murphy,REP,2016,2018,2,No,No,Yes
-193,New York,State Senator,41.0,Susan Serino,REP,2016,2018,2,No,Yes,Yes
-194,New York,State Senator,42.0,John Bonacic,REP,2016,2018,8,No,No,Yes
-195,New York,State Senator,43.0,Kathleen Marchione,REP,2016,2018,3,No,Yes,Yes
-196,New York,State Senator,44.0,Neil Breslin,DEM,2016,2018,3,No,Yes,Yes
-197,New York,State Senator,45.0,Betty C Little,REP,2016,2018,8,No,Yes,Yes
-198,New York,State Senator,46.0,George Amedore Jr.,REP,2016,2018,2,No,Yes,Yes
-199,New York,State Senator,47.0,Joseph Griffo,REP,2016,2018,6,Yes,Yes,Yes
-200,New York,State Senator,48.0,Patricia Ritchie,REP,2016,2018,4,Yes,Yes,Yes
-201,New York,State Senator,49.0,James Tedisco II,REP,2016,2018,1,No,Yes,Yes
-202,New York,State Senator,5.0,Carl Marcellino,REP,2016,2018,9,No,Yes,Yes
-203,New York,State Senator,50.0,John Defrancisco,REP,2016,2018,8,Yes,Yes,Yes
-204,New York,State Senator,51.0,James Seward,REP,2016,2018,8,No,Yes,Yes
-205,New York,State Senator,52.0,Frederick Akshar II,REP,2016,2018,1,No,Yes,Yes
-206,New York,State Senator,53.0,David Valesky,DEM,2016,2018,3,Yes,Yes,Yes
-207,New York,State Senator,54.0,Pamela Helming,REP,2016,2018,1,No,Yes,Yes
-208,New York,State Senator,55.0,Rich Funke,REP,2016,2018,2,No,Yes,Yes
-209,New York,State Senator,56.0,Joseph Robach,REP,2016,2018,8,No,Yes,Yes
-210,New York,State Senator,57.0,Catharine Young,REP,2016,2018,6,No,Yes,Yes
-211,New York,State Senator,58.0,Tom Omara,REP,2016,2018,3,No,No,Yes
-212,New York,State Senator,59.0,Patrick Gallivan,REP,2016,2018,4,No,Yes,Yes
-213,New York,State Senator,6.0,Kemp Hannon,REP,2016,2018,9,No,Yes,Yes
-214,New York,State Senator,60.0,Christopher Jacobs,REP,2016,2018,1,No,Yes,Yes
-215,New York,State Senator,61.0,Michael Ranzenhofer,REP,2016,2018,5,No,Yes,Yes
-216,New York,State Senator,62.0,Robert Ortt,REP,2016,2018,2,Yes,Yes,Yes
-217,New York,State Senator,63.0,Timothy Kennedy,DEM,2016,2018,3,Yes,No,Yes
-218,New York,State Senator,7.0,Elaine Phillips,REP,2016,2018,1,No,Yes,Yes
-219,New York,State Senator,8.0,John Brooks,DEM,2016,2018,1,No,Yes,Yes
-220,New York,State Senator,9.0,Todd Kaminsky,DEM,2016,2018,1,No,Yes,Yes
-221,New York,U.S. Representative,1.0,Lee Michael Zeldin,REP,2016,2018,2,No,No,Yes
-222,New York,U.S. Representative,10.0,Jerrold Nadler,DEM,2016,2018,3,No,Yes,Yes
-223,New York,U.S. Representative,11.0,Dan Donovan Jr.,REP,2016,2018,1,No,No,No
-224,New York,U.S. Representative,12.0,Carolyn Maloney,DEM,2016,2018,3,No,No,Yes
-225,New York,U.S. Representative,13.0,Adriano Espaillat,DEM,2016,2018,1,No,Yes,Yes
-226,New York,U.S. Representative,14.0,Joe Crowley,DEM,2016,2018,3,No,Yes,Yes
-227,New York,U.S. Representative,15.0,Jose Serrano,DEM,2016,2018,3,No,Yes,Yes
-228,New York,U.S. Representative,16.0,Eliot Engel,DEM,2016,2018,3,No,No,Yes
-229,New York,U.S. Representative,17.0,Nita Lowey,DEM,2016,2018,3,Yes,Yes,Yes
-230,New York,U.S. Representative,18.0,Sean Patrick Maloney,DEM,2016,2018,3,No,Yes,Yes
-231,New York,U.S. Representative,19.0,John Faso,REP,2016,2018,1,No,No,Yes
-232,New York,U.S. Representative,2.0,Peter King,REP,2016,2018,3,No,No,Yes
-233,New York,U.S. Representative,20.0,Paul David Tonko,DEM,2016,2018,3,No,Yes,Yes
-234,New York,U.S. Representative,21.0,Elise Stefanik,REP,2016,2018,2,No,No,Yes
-235,New York,U.S. Representative,22.0,Claudia Tenney,REP,2016,2018,1,No,Yes,Yes
-236,New York,U.S. Representative,23.0,Thomas Reed II,REP,2016,2018,3,No,No,Yes
-237,New York,U.S. Representative,24.0,John Katko,REP,2016,2018,2,No,No,Yes
-238,New York,U.S. Representative,25.0,Louise Slaughter,DEM,2016,2018,3,No,No,No
-239,New York,U.S. Representative,26.0,Brian Higgins,DEM,2016,2018,3,No,Yes,Yes
-240,New York,U.S. Representative,27.0,Chris Collins,REP,2016,2018,3,No,Yes,Yes
-241,New York,U.S. Representative,3.0,Tom Suozzi,DEM,2016,2018,1,No,Yes,Yes
-242,New York,U.S. Representative,4.0,Kathleen Rice,DEM,2016,2018,2,No,Yes,Yes
-243,New York,U.S. Representative,5.0,Gregory Meeks,DEM,2016,2018,3,No,No,Yes
-244,New York,U.S. Representative,6.0,Grace Meng,DEM,2016,2018,3,No,Yes,Yes
-245,New York,U.S. Representative,7.0,Nydia Velazquez,DEM,2016,2018,3,No,Yes,Yes
-246,New York,U.S. Representative,8.0,Hakeem Jeffries,DEM,2016,2018,3,No,Yes,Yes
-247,New York,U.S. Representative,9.0,Yvette Clarke,DEM,2016,2018,3,No,No,Yes
-248,New York,U.S. Senator,0.0,Kirsten Elizabeth Gillibrand,DEM,2012,2018,1,No,Yes,Yes
-249,New York,U.S. Senator,0.0,Chuck Schumer,DEM,2016,2022,1,No,Yes,Yes
-250,New York,U.S. Senator,0.0,Chuck Schumer,DEM,2016,2022,1,No,Yes,Yes
-251,New York,U.S. Senator,0.0,Kirsten Elizabeth Gillibrand,DEM,2012,2018,1,No,Yes,Yes
+1,New York,Comptroller,0.0,Thomas Dinapoli,DEM,2014,2018,2,No,Yes,Yes
+2,New York,Governor,0.0,Andrew Cuomo,DEM,2014,2018,2,No,Yes,Yes
+3,New York,State Representative,1.0,Fred Thiele Jr.,DEM,2016,2018,3,No,Yes,Yes
+4,New York,State Representative,10.0,Chad Lupinacci,REP,2016,2018,3,No,No,No
+5,New York,State Representative,100.0,Aileen Gunther,DEM,2016,2018,3,Yes,Yes,Yes
+6,New York,State Representative,101.0,Brian Miller,REP,2016,2018,1,No,Yes,Yes
+7,New York,State Representative,102.0,Peter Lopez,REP,2016,2018,3,Yes,No,No
+8,New York,State Representative,103.0,Kevin Cahill,DEM,2016,2018,3,No,Yes,Yes
+9,New York,State Representative,104.0,Frank Skartados,DEM,2016,2018,3,No,No,Yes
+10,New York,State Representative,105.0,Kieran Michael Lalor,REP,2016,2018,3,No,Yes,Yes
+11,New York,State Representative,106.0,Didi Barrett,DEM,2016,2018,3,No,Yes,Yes
+12,New York,State Representative,107.0,Steven McLaughlin,REP,2016,2018,3,Yes,No,No
+13,New York,State Representative,108.0,John McDonald III,DEM,2016,2018,3,Yes,Yes,Yes
+14,New York,State Representative,109.0,Patricia Fahy,DEM,2016,2018,3,No,Yes,Yes
+15,New York,State Representative,11.0,Kimberly Jean-Pierre,DEM,2016,2018,2,No,Yes,Yes
+16,New York,State Representative,110.0,Phillip Steck,DEM,2016,2018,3,No,Yes,Yes
+17,New York,State Representative,111.0,Angelo Santabarbara,DEM,2016,2018,3,No,Yes,Yes
+18,New York,State Representative,112.0,Mary Beth Walsh,REP,2016,2018,1,No,Yes,Yes
+19,New York,State Representative,113.0,Carrie Woerner,DEM,2016,2018,2,No,Yes,Yes
+20,New York,State Representative,114.0,Daniel Stec,REP,2016,2018,3,No,Yes,Yes
+21,New York,State Representative,115.0,Billy Jones,DEM,2016,2018,1,No,Yes,Yes
+22,New York,State Representative,116.0,Addie Jenne Russell,DEM,2016,2018,3,No,Yes,Yes
+23,New York,State Representative,117.0,Kenneth Blankenbush,REP,2016,2018,3,Yes,Yes,Yes
+24,New York,State Representative,118.0,Marc Butler,REP,2016,2018,3,Yes,Yes,No
+25,New York,State Representative,119.0,Anthony Brindisi,DEM,2016,2018,3,Yes,Yes,No
+26,New York,State Representative,12.0,Andrew Raia,REP,2016,2018,3,No,No,Yes
+27,New York,State Representative,120.0,William Barclay,REP,2016,2018,3,Yes,Yes,Yes
+28,New York,State Representative,121.0,Bill Magee,DEM,2016,2018,3,No,No,Yes
+29,New York,State Representative,122.0,Clifford Crouch,REP,2016,2018,3,Yes,Yes,Yes
+30,New York,State Representative,123.0,Donna Lupardo,DEM,2016,2018,3,No,Yes,Yes
+31,New York,State Representative,124.0,Christopher Friend,REP,2016,2018,3,No,No,Yes
+32,New York,State Representative,125.0,Barbara Lifton,DEM,2016,2018,8,No,Yes,Yes
+33,New York,State Representative,126.0,Gary Finch,REP,2016,2018,3,No,Yes,Yes
+34,New York,State Representative,127.0,Albert Stirpe Jr.,DEM,2016,2018,3,No,Yes,Yes
+35,New York,State Representative,128.0,Pamela Jo Hunter,DEM,2016,2018,1,Yes,Yes,Yes
+36,New York,State Representative,129.0,William Magnarelli,DEM,2016,2018,3,Yes,Yes,Yes
+37,New York,State Representative,13.0,Charles Lavine,DEM,2016,2018,7,No,Yes,Yes
+38,New York,State Representative,130.0,Robert Oaks,REP,2016,2018,3,Yes,Yes,Yes
+39,New York,State Representative,131.0,Brian Kolb,REP,2016,2018,3,Yes,Yes,Yes
+40,New York,State Representative,132.0,Philip Palmesano,REP,2016,2018,3,Yes,Yes,Yes
+41,New York,State Representative,133.0,Joe Errigo,REP,2016,2018,1,No,Yes,Yes
+42,New York,State Representative,134.0,Peter Lawrence,REP,2016,2018,2,Yes,Yes,Yes
+43,New York,State Representative,135.0,Mark Johns,REP,2016,2018,4,No,Yes,Yes
+44,New York,State Representative,136.0,Joe Morelle,DEM,2016,2018,3,Yes,No,Yes
+45,New York,State Representative,137.0,David Gantt,DEM,2016,2018,3,Yes,No,Yes
+46,New York,State Representative,138.0,Harry Bronson,DEM,2016,2018,3,No,Yes,Yes
+47,New York,State Representative,139.0,Stephen Hawley,REP,2016,2018,6,Yes,Yes,Yes
+48,New York,State Representative,14.0,David McDonough,REP,2016,2018,3,No,Yes,Yes
+49,New York,State Representative,140.0,Robin Schimminger,DEM,2016,2018,9,No,Yes,Yes
+50,New York,State Representative,141.0,Crystal Peoples-Stokes,DEM,2016,2018,8,No,Yes,Yes
+51,New York,State Representative,142.0,Michael Kearns,DEM,2016,2018,3,Yes,No,No
+52,New York,State Representative,143.0,Monica Wallace,DEM,2016,2018,1,No,Yes,Yes
+53,New York,State Representative,144.0,Michael Norris,REP,2016,2018,1,Yes,Yes,Yes
+54,New York,State Representative,145.0,Angelo Morinello,REP,2016,2018,1,No,Yes,Yes
+55,New York,State Representative,146.0,Raymond Walter,REP,2016,2018,3,No,Yes,Yes
+56,New York,State Representative,147.0,David Dipietro,REP,2016,2018,3,Yes,Yes,Yes
+57,New York,State Representative,148.0,Joseph Giglio,REP,2016,2018,3,Yes,Yes,Yes
+58,New York,State Representative,149.0,Sean Ryan,DEM,2016,2018,3,Yes,Yes,Yes
+59,New York,State Representative,15.0,Michael Montesano,REP,2016,2018,4,No,Yes,Yes
+60,New York,State Representative,150.0,Andrew Goodell,REP,2016,2018,4,No,Yes,Yes
+61,New York,State Representative,16.0,Anthony Durso,DEM,2016,2018,1,No,Yes,Yes
+62,New York,State Representative,17.0,Thomas McKevitt,REP,2016,2018,6,No,No,No
+63,New York,State Representative,18.0,Earlene Hill Hooper,DEM,2016,2018,9,No,No,Yes
+64,New York,State Representative,19.0,Edward Ra,REP,2016,2018,3,No,Yes,Yes
+65,New York,State Representative,2.0,Anthony Palumbo,REP,2016,2018,2,No,Yes,No
+66,New York,State Representative,20.0,Melissa Miller,REP,2016,2018,1,No,Yes,Yes
+67,New York,State Representative,21.0,Brian Curran,REP,2016,2018,3,No,Yes,Yes
+68,New York,State Representative,22.0,Michaelle Solages,DEM,2016,2018,3,No,Yes,Yes
+69,New York,State Representative,23.0,Stacey Pheffer Amato,DEM,2016,2018,1,No,Yes,Yes
+70,New York,State Representative,24.0,David Weprin,DEM,2016,2018,4,No,Yes,Yes
+71,New York,State Representative,25.0,Nily Rozic,DEM,2016,2018,3,No,Yes,Yes
+72,New York,State Representative,26.0,Edward Braunstein,DEM,2016,2018,4,No,Yes,Yes
+73,New York,State Representative,27.0,Michael Simanowitz,DEM,2016,2018,3,Yes,Yes,Yes
+74,New York,State Representative,28.0,Andrew Hevesi,DEM,2016,2018,6,Yes,Yes,Yes
+75,New York,State Representative,29.0,Alicia Hyndman,DEM,2016,2018,1,Yes,Yes,Yes
+76,New York,State Representative,3.0,Dean Murray,REP,2016,2018,2,No,Yes,Yes
+77,New York,State Representative,30.0,Brian Barnwell,DEM,2016,2018,1,No,No,Yes
+78,New York,State Representative,31.0,Michele Titus,DEM,2016,2018,8,Yes,Yes,Yes
+79,New York,State Representative,32.0,Vivian Cook,DEM,2016,2018,9,Yes,Yes,Yes
+80,New York,State Representative,33.0,Clyde Vanel,DEM,2016,2018,1,No,No,Yes
+81,New York,State Representative,34.0,Michael Dendekker,DEM,2016,2018,5,Yes,Yes,Yes
+82,New York,State Representative,35.0,Jeffrion Aubry,DEM,2016,2018,9,Yes,No,Yes
+83,New York,State Representative,36.0,Aravella Simotas,DEM,2016,2018,4,Yes,Yes,Yes
+84,New York,State Representative,37.0,Catherine Nolan,DEM,2016,2018,9,Yes,Yes,Yes
+85,New York,State Representative,38.0,Michael Miller,DEM,2016,2018,4,No,Yes,Yes
+86,New York,State Representative,39.0,Francisco Moya,DEM,2016,2018,4,Yes,No,Yes
+87,New York,State Representative,4.0,Steven Englebright,DEM,2016,2018,9,No,Yes,Yes
+88,New York,State Representative,40.0,Ronald Kim,DEM,2016,2018,3,No,Yes,Yes
+89,New York,State Representative,41.0,Helene Weinstein,DEM,2016,2018,9,No,Yes,Yes
+90,New York,State Representative,42.0,Rodneyse Bichotte,DEM,2016,2018,2,No,No,Yes
+91,New York,State Representative,43.0,Diana Richardson,DEM,2016,2018,1,Yes,Yes,Yes
+92,New York,State Representative,44.0,Robert Carroll,DEM,2016,2018,1,No,Yes,Yes
+93,New York,State Representative,45.0,Steven Cymbrowitz,DEM,2016,2018,9,No,Yes,Yes
+94,New York,State Representative,46.0,Pamela Harris,DEM,2016,2018,1,No,Yes,Yes
+95,New York,State Representative,47.0,William Colton,DEM,2016,2018,9,No,Yes,Yes
+96,New York,State Representative,48.0,Dov Hikind,DEM,2016,2018,9,Yes,Yes,Yes
+97,New York,State Representative,49.0,Peter Abbate Jr.,DEM,2016,2018,9,No,Yes,Yes
+98,New York,State Representative,5.0,Alfred Graf,REP,2016,2018,4,No,No,No
+99,New York,State Representative,50.0,Joseph Lentol,DEM,2016,2018,9,Yes,Yes,Yes
+100,New York,State Representative,51.0,Felix Ortiz,DEM,2016,2018,9,No,Yes,Yes
+101,New York,State Representative,52.0,Jo Anne Simon,DEM,2016,2018,2,No,Yes,Yes
+102,New York,State Representative,53.0,Maritza Davila,DEM,2016,2018,2,Yes,No,Yes
+103,New York,State Representative,54.0,Erik Martin Dilan,DEM,2016,2018,2,No,Yes,Yes
+104,New York,State Representative,55.0,Latrice Monique Walker,DEM,2016,2018,2,No,Yes,Yes
+105,New York,State Representative,56.0,Tremaine Wright,DEM,2016,2018,1,Yes,Yes,Yes
+106,New York,State Representative,57.0,Walter Mosley III,DEM,2016,2018,3,Yes,Yes,Yes
+107,New York,State Representative,58.0,Nick Perry,DEM,2016,2018,9,Yes,Yes,Yes
+108,New York,State Representative,59.0,Jaime Williams,DEM,2016,2018,1,No,Yes,Yes
+109,New York,State Representative,6.0,Philip Ramos,DEM,2016,2018,8,Yes,Yes,Yes
+110,New York,State Representative,60.0,Charles Barron,DEM,2016,2018,2,No,No,Yes
+111,New York,State Representative,61.0,Matthew Titone,DEM,2016,2018,5,Yes,No,Yes
+112,New York,State Representative,62.0,Ronald Castorina Jr.,REP,2016,2018,1,Yes,Yes,No
+113,New York,State Representative,63.0,Michael Cusick,DEM,2016,2018,8,Yes,Yes,Yes
+114,New York,State Representative,64.0,Nicole Malliotakis,REP,2016,2018,3,Yes,Yes,Yes
+115,New York,State Representative,65.0,Yuh-Line Niou,DEM,2016,2018,1,No,Yes,Yes
+116,New York,State Representative,66.0,Deborah Glick,DEM,2016,2018,9,Yes,Yes,Yes
+117,New York,State Representative,67.0,Linda Rosenthal,DEM,2016,2018,6,No,Yes,Yes
+118,New York,State Representative,68.0,Robert Rodriguez,DEM,2016,2018,4,No,No,Yes
+119,New York,State Representative,69.0,Daniel Odonnell,DEM,2016,2018,8,No,No,Yes
+120,New York,State Representative,7.0,Andrew Garbarino,REP,2016,2018,3,No,Yes,Yes
+121,New York,State Representative,70.0,Inez Dickens,DEM,2016,2018,1,No,Yes,Yes
+122,New York,State Representative,71.0,Herman Farrell Jr.,DEM,2016,2018,9,No,No,Yes
+123,New York,State Representative,72.0,Carmen De La Rosa,DEM,2016,2018,1,Yes,No,Yes
+124,New York,State Representative,73.0,Dan Quart,DEM,2016,2018,3,No,Yes,Yes
+125,New York,State Representative,74.0,Brian Kavanagh,DEM,2016,2018,6,No,No,No
+126,New York,State Representative,75.0,Richard Gottfried,DEM,2016,2018,8,No,Yes,Yes
+127,New York,State Representative,76.0,Rebecca Seawright,DEM,2016,2018,2,No,Yes,Yes
+128,New York,State Representative,77.0,Latoya Joyner,DEM,2016,2018,2,No,Yes,Yes
+129,New York,State Representative,78.0,Jose Rivera,DEM,2016,2018,9,No,Yes,Yes
+130,New York,State Representative,79.0,Michael Blake,DEM,2016,2018,2,No,Yes,Yes
+131,New York,State Representative,8.0,Michael Fitzpatrick,REP,2016,2018,3,No,Yes,Yes
+132,New York,State Representative,80.0,Mark Gjonaj,DEM,2016,2018,3,No,No,No
+133,New York,State Representative,81.0,Jeffrey Dinowitz,DEM,2016,2018,9,No,Yes,Yes
+134,New York,State Representative,82.0,Michael Benedetto,DEM,2016,2018,7,No,Yes,Yes
+135,New York,State Representative,83.0,Carl Heastie,DEM,2016,2018,9,Yes,Yes,Yes
+136,New York,State Representative,84.0,Carmen Arroyo,DEM,2016,2018,8,No,Yes,Yes
+137,New York,State Representative,85.0,Marcos Crespo,DEM,2016,2018,4,No,Yes,Yes
+138,New York,State Representative,86.0,Victor Pichardo,DEM,2016,2018,2,No,Yes,Yes
+139,New York,State Representative,87.0,Luis Sepulveda,DEM,2016,2018,3,No,No,Yes
+140,New York,State Representative,88.0,Amy Paulin,DEM,2016,2018,9,No,Yes,Yes
+141,New York,State Representative,89.0,Gary Gary Pretlow,DEM,2016,2018,3,Yes,Yes,Yes
+142,New York,State Representative,9.0,Joseph Saladino,REP,2016,2018,3,No,Yes,Yes
+143,New York,State Representative,90.0,Shelley Mayer,DEM,2016,2018,3,Yes,Yes,Yes
+144,New York,State Representative,91.0,Steven Otis,DEM,2016,2018,3,Yes,Yes,Yes
+145,New York,State Representative,92.0,Thomas Abinanti,DEM,2016,2018,4,Yes,Yes,Yes
+146,New York,State Representative,93.0,David Buchwald,DEM,2016,2018,3,Yes,Yes,Yes
+147,New York,State Representative,94.0,Kevin Byrne,REP,2016,2018,1,No,Yes,Yes
+148,New York,State Representative,95.0,Sandra Galef,DEM,2016,2018,3,No,Yes,Yes
+149,New York,State Representative,96.0,Kenneth Zebrowski Jr.,DEM,2016,2018,3,No,Yes,Yes
+150,New York,State Representative,97.0,Ellen Jaffee,DEM,2016,2018,3,No,Yes,Yes
+151,New York,State Representative,98.0,Karl Brabenec,REP,2016,2018,2,No,Yes,Yes
+152,New York,State Representative,99.0,James Skoufis,DEM,2016,2018,3,No,Yes,Yes
+153,New York,State Senator,1.0,Kenneth Lavalle,REP,2016,2018,9,No,Yes,Yes
+154,New York,State Senator,10.0,James Sanders Jr.,DEM,2016,2018,3,No,Yes,Yes
+155,New York,State Senator,11.0,Tony Avella,DEM,2016,2018,4,No,No,Yes
+156,New York,State Senator,12.0,Michael Gianaris,DEM,2016,2018,4,No,Yes,Yes
+157,New York,State Senator,13.0,Jose Peralta,DEM,2016,2018,4,No,Yes,Yes
+158,New York,State Senator,14.0,Leroy Comrie Jr.,DEM,2016,2018,2,No,Yes,Yes
+159,New York,State Senator,15.0,Joseph Addabbo Jr.,DEM,2016,2018,5,No,Yes,No
+160,New York,State Senator,16.0,Toby Ann Stavisky,DEM,2016,2018,9,No,Yes,Yes
+161,New York,State Senator,17.0,Simcha Felder,DEM,2016,2018,3,Yes,No,Yes
+162,New York,State Senator,18.0,Martin Malave Dilan,DEM,2016,2018,3,Yes,No,Yes
+163,New York,State Senator,19.0,Roxanne Persaud,DEM,2016,2018,1,Yes,Yes,Yes
+164,New York,State Senator,2.0,John Flanagan Jr.,REP,2016,2018,8,No,Yes,Yes
+165,New York,State Senator,20.0,Jesse Hamilton,DEM,2016,2018,2,No,Yes,Yes
+166,New York,State Senator,21.0,Kevin Parker,DEM,2016,2018,8,No,Yes,Yes
+167,New York,State Senator,22.0,Martin Golden,REP,2016,2018,8,Yes,No,Yes
+168,New York,State Senator,23.0,Diane Savino,DEM,2016,2018,7,Yes,No,Yes
+169,New York,State Senator,24.0,Andrew Lanza,REP,2016,2018,6,Yes,Yes,Yes
+170,New York,State Senator,25.0,Velmanette Montgomery,DEM,2016,2018,3,No,Yes,Yes
+171,New York,State Senator,26.0,Brian P. Kavanagh,DEM,2017,2018,1,No,Yes,Yes
+172,New York,State Senator,27.0,Brad Hoylman,DEM,2016,2018,3,No,Yes,Yes
+173,New York,State Senator,28.0,Liz Krueger,DEM,2016,2018,3,No,Yes,Yes
+174,New York,State Senator,29.0,Jose Serrano,DEM,2016,2018,3,No,Yes,Yes
+175,New York,State Senator,3.0,Thomas Croci,REP,2016,2018,2,No,Yes,Yes
+176,New York,State Senator,30.0,Brian A. Benjamin,DEM,2017,2018,1,No,No,Yes
+177,New York,State Senator,31.0,Marisol Alcantara,DEM,2016,2018,1,No,No,Yes
+178,New York,State Senator,32.0,Ruben Diaz Sr.,DEM,2016,2018,7,No,No,No
+179,New York,State Senator,33.0,Gustavo Rivera,DEM,2016,2018,4,No,Yes,Yes
+180,New York,State Senator,34.0,Jeffrey Klein,DEM,2016,2018,7,No,Yes,Yes
+181,New York,State Senator,35.0,Andrea Stewart-Cousins,DEM,2016,2018,6,Yes,Yes,Yes
+182,New York,State Senator,36.0,Jamaal Bailey,DEM,2016,2018,1,No,Yes,Yes
+183,New York,State Senator,37.0,George Latimer,DEM,2016,2018,3,No,No,Yes
+184,New York,State Senator,38.0,David Carlucci,DEM,2016,2018,4,No,No,Yes
+185,New York,State Senator,39.0,William Larkin Jr.,REP,2016,2018,9,No,Yes,Yes
+186,New York,State Senator,4.0,Philip Boyle,REP,2016,2018,3,No,Yes,Yes
+187,New York,State Senator,40.0,Terrence Murphy,REP,2016,2018,2,No,No,Yes
+188,New York,State Senator,41.0,Susan Serino,REP,2016,2018,2,No,Yes,Yes
+189,New York,State Senator,42.0,John Bonacic,REP,2016,2018,8,No,No,Yes
+190,New York,State Senator,43.0,Kathleen Marchione,REP,2016,2018,3,No,Yes,Yes
+191,New York,State Senator,44.0,Neil Breslin,DEM,2016,2018,3,No,Yes,Yes
+192,New York,State Senator,45.0,Betty C Little,REP,2016,2018,8,No,Yes,Yes
+193,New York,State Senator,46.0,George Amedore Jr.,REP,2016,2018,2,No,Yes,Yes
+194,New York,State Senator,47.0,Joseph Griffo,REP,2016,2018,6,Yes,Yes,Yes
+195,New York,State Senator,48.0,Patricia Ritchie,REP,2016,2018,4,Yes,Yes,Yes
+196,New York,State Senator,49.0,James Tedisco II,REP,2016,2018,1,No,Yes,Yes
+197,New York,State Senator,5.0,Carl Marcellino,REP,2016,2018,9,No,Yes,Yes
+198,New York,State Senator,50.0,John Defrancisco,REP,2016,2018,8,Yes,Yes,Yes
+199,New York,State Senator,51.0,James Seward,REP,2016,2018,8,No,Yes,Yes
+200,New York,State Senator,52.0,Frederick Akshar II,REP,2016,2018,1,No,Yes,Yes
+201,New York,State Senator,53.0,David Valesky,DEM,2016,2018,3,Yes,Yes,Yes
+202,New York,State Senator,54.0,Pamela Helming,REP,2016,2018,1,No,Yes,Yes
+203,New York,State Senator,55.0,Rich Funke,REP,2016,2018,2,No,Yes,Yes
+204,New York,State Senator,56.0,Joseph Robach,REP,2016,2018,8,No,Yes,Yes
+205,New York,State Senator,57.0,Catharine Young,REP,2016,2018,6,No,Yes,Yes
+206,New York,State Senator,58.0,Tom Omara,REP,2016,2018,3,No,No,Yes
+207,New York,State Senator,59.0,Patrick Gallivan,REP,2016,2018,4,No,Yes,Yes
+208,New York,State Senator,6.0,Kemp Hannon,REP,2016,2018,9,No,Yes,Yes
+209,New York,State Senator,60.0,Christopher Jacobs,REP,2016,2018,1,No,Yes,Yes
+210,New York,State Senator,61.0,Michael Ranzenhofer,REP,2016,2018,5,No,Yes,Yes
+211,New York,State Senator,62.0,Robert Ortt,REP,2016,2018,2,Yes,Yes,Yes
+212,New York,State Senator,63.0,Timothy Kennedy,DEM,2016,2018,3,Yes,No,Yes
+213,New York,State Senator,7.0,Elaine Phillips,REP,2016,2018,1,No,Yes,Yes
+214,New York,State Senator,8.0,John Brooks,DEM,2016,2018,1,No,Yes,Yes
+215,New York,State Senator,9.0,Todd Kaminsky,DEM,2016,2018,1,No,Yes,Yes
+216,New York,U.S. Representative,1.0,Lee Michael Zeldin,REP,2016,2018,2,No,No,Yes
+217,New York,U.S. Representative,10.0,Jerrold Nadler,DEM,2016,2018,3,No,Yes,Yes
+218,New York,U.S. Representative,11.0,Dan Donovan Jr.,REP,2016,2018,1,No,No,No
+219,New York,U.S. Representative,12.0,Carolyn Maloney,DEM,2016,2018,3,No,No,Yes
+220,New York,U.S. Representative,13.0,Adriano Espaillat,DEM,2016,2018,1,No,Yes,Yes
+221,New York,U.S. Representative,14.0,Joe Crowley,DEM,2016,2018,3,No,Yes,Yes
+222,New York,U.S. Representative,15.0,Jose Serrano,DEM,2016,2018,3,No,Yes,Yes
+223,New York,U.S. Representative,16.0,Eliot Engel,DEM,2016,2018,3,No,No,Yes
+224,New York,U.S. Representative,17.0,Nita Lowey,DEM,2016,2018,3,Yes,Yes,Yes
+225,New York,U.S. Representative,18.0,Sean Patrick Maloney,DEM,2016,2018,3,No,Yes,Yes
+226,New York,U.S. Representative,19.0,John Faso,REP,2016,2018,1,No,No,Yes
+227,New York,U.S. Representative,2.0,Peter King,REP,2016,2018,3,No,No,Yes
+228,New York,U.S. Representative,20.0,Paul David Tonko,DEM,2016,2018,3,No,Yes,Yes
+229,New York,U.S. Representative,21.0,Elise Stefanik,REP,2016,2018,2,No,No,Yes
+230,New York,U.S. Representative,22.0,Claudia Tenney,REP,2016,2018,1,No,Yes,Yes
+231,New York,U.S. Representative,23.0,Thomas Reed II,REP,2016,2018,3,No,No,Yes
+232,New York,U.S. Representative,24.0,John Katko,REP,2016,2018,2,No,No,Yes
+233,New York,U.S. Representative,25.0,Louise Slaughter,DEM,2016,2018,3,No,No,No
+234,New York,U.S. Representative,26.0,Brian Higgins,DEM,2016,2018,3,No,Yes,Yes
+235,New York,U.S. Representative,27.0,Chris Collins,REP,2016,2018,3,No,Yes,Yes
+236,New York,U.S. Representative,3.0,Tom Suozzi,DEM,2016,2018,1,No,Yes,Yes
+237,New York,U.S. Representative,4.0,Kathleen Rice,DEM,2016,2018,2,No,Yes,Yes
+238,New York,U.S. Representative,5.0,Gregory Meeks,DEM,2016,2018,3,No,No,Yes
+239,New York,U.S. Representative,6.0,Grace Meng,DEM,2016,2018,3,No,Yes,Yes
+240,New York,U.S. Representative,7.0,Nydia Velazquez,DEM,2016,2018,3,No,Yes,Yes
+241,New York,U.S. Representative,8.0,Hakeem Jeffries,DEM,2016,2018,3,No,Yes,Yes
+242,New York,U.S. Representative,9.0,Yvette Clarke,DEM,2016,2018,3,No,No,Yes
+243,New York,U.S. Senator,0.0,Kirsten Elizabeth Gillibrand,DEM,2012,2018,1,No,Yes,Yes
+244,New York,U.S. Senator,0.0,Chuck Schumer,DEM,2016,2022,1,No,Yes,Yes

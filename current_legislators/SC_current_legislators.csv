@@ -1,658 +1,368 @@
 ,State,Position,District,Candidate,Party,Year Elected,Next Election,Number of Terms in Position,Unopposed in Last Election,DEM Unopposed in Primary,REP Unopposed in Primary
 0,South Carolina,Attorney General,0.0,Michael Alan Wilson,REP,2014,2018,2,No,Yes,No
-1,South Carolina,Attorney General,0.0,William Herlong,REP,2018,2022,0,No,Yes,No
-2,South Carolina,Attorney General,0.0,William Herlong,REP,2018,2022,0,No,Yes,No
-3,South Carolina,Attorney General,0.0,William Herlong,REP,2018,2022,0,No,Yes,No
-4,South Carolina,Attorney General,0.0,William Herlong,REP,2018,2022,0,No,Yes,No
-5,South Carolina,Attorney General,0.0,William Herlong,REP,2018,2022,0,No,Yes,No
-6,South Carolina,Attorney General,0.0,Michael Alan Wilson,REP,2014,2018,2,No,Yes,No
-7,South Carolina,Attorney General,0.0,William Herlong,REP,2018,2022,0,No,Yes,No
-8,South Carolina,Attorney General,0.0,Michael Alan Wilson,REP,2014,2018,2,No,Yes,No
-9,South Carolina,Attorney General,0.0,William Herlong,REP,2018,2022,0,No,Yes,No
-10,South Carolina,Attorney General,0.0,Michael Alan Wilson,REP,2014,2018,2,No,Yes,No
-11,South Carolina,Attorney General,0.0,William Herlong,REP,2018,2022,0,No,Yes,No
-12,South Carolina,Attorney General,0.0,Michael Alan Wilson,REP,2014,2018,2,No,Yes,No
-13,South Carolina,Attorney General,0.0,William Herlong,REP,2018,2022,0,No,Yes,No
-14,South Carolina,Attorney General,0.0,Michael Alan Wilson,REP,2014,2018,2,No,Yes,No
-15,South Carolina,Comptroller,0.0,Richard Eckstrom,REP,2014,2018,4,No,Yes,Yes
-16,South Carolina,Comptroller,0.0,Richard Eckstrom,REP,2014,2018,4,No,Yes,Yes
-17,South Carolina,Comptroller,0.0,Richard Eckstrom,REP,2014,2018,4,No,Yes,Yes
-18,South Carolina,Comptroller,0.0,Richard Eckstrom,REP,2014,2018,4,No,Yes,Yes
-19,South Carolina,Comptroller,0.0,Richard Eckstrom,REP,2014,2018,4,No,Yes,Yes
-20,South Carolina,Comptroller,0.0,Richard Eckstrom,REP,2014,2018,4,No,Yes,Yes
-21,South Carolina,Governor,0.0,Nikki Haley,REP,2014,2018,2,No,No,No
-22,South Carolina,Governor,0.0,John Warren Jr.,REP,2018,2022,0,No,No,No
-23,South Carolina,Governor,0.0,John Warren Jr.,REP,2018,2022,0,No,No,No
-24,South Carolina,Governor,0.0,John Warren Jr.,REP,2018,2022,0,No,No,No
-25,South Carolina,Governor,0.0,John Warren Jr.,REP,2018,2022,0,No,No,No
-26,South Carolina,Governor,0.0,John Warren Jr.,REP,2018,2022,0,No,No,No
-27,South Carolina,Governor,0.0,John Warren Jr.,REP,2018,2022,0,No,No,No
-28,South Carolina,Governor,0.0,John Warren Jr.,REP,2018,2022,0,No,No,No
-29,South Carolina,Governor,0.0,John Warren Jr.,REP,2018,2022,0,No,No,No
-30,South Carolina,Governor,0.0,John Warren Jr.,REP,2018,2022,0,No,No,No
-31,South Carolina,Governor,0.0,John Warren Jr.,REP,2018,2022,0,No,No,No
-32,South Carolina,Governor,0.0,Nikki Haley,REP,2014,2018,2,No,No,No
-33,South Carolina,Governor,0.0,John Warren Jr.,REP,2018,2022,0,No,No,No
-34,South Carolina,Governor,0.0,John Warren Jr.,REP,2018,2022,0,No,No,No
-35,South Carolina,Governor,0.0,Nikki Haley,REP,2014,2018,2,No,No,No
-36,South Carolina,Governor,0.0,John Warren Jr.,REP,2018,2022,0,No,No,No
-37,South Carolina,Governor,0.0,John Warren Jr.,REP,2018,2022,0,No,No,No
-38,South Carolina,Governor,0.0,Nikki Haley,REP,2014,2018,2,No,No,No
-39,South Carolina,Governor,0.0,John Warren Jr.,REP,2018,2022,0,No,No,No
-40,South Carolina,Governor,0.0,John Warren Jr.,REP,2018,2022,0,No,No,No
-41,South Carolina,Governor,0.0,Nikki Haley,REP,2014,2018,2,No,No,No
-42,South Carolina,Governor,0.0,John Warren Jr.,REP,2018,2022,0,No,No,No
-43,South Carolina,Governor,0.0,John Warren Jr.,REP,2018,2022,0,No,No,No
-44,South Carolina,Governor,0.0,Nikki Haley,REP,2014,2018,2,No,No,No
-45,South Carolina,Secretary Of State,0.0,John Mark Hammond,REP,2014,2018,4,No,Yes,No
-46,South Carolina,Secretary Of State,0.0,Nelson Faerber,REP,2018,2022,0,No,Yes,No
-47,South Carolina,Secretary Of State,0.0,Nelson Faerber,REP,2018,2022,0,No,Yes,No
-48,South Carolina,Secretary Of State,0.0,Nelson Faerber,REP,2018,2022,0,No,Yes,No
-49,South Carolina,Secretary Of State,0.0,Nelson Faerber,REP,2018,2022,0,No,Yes,No
-50,South Carolina,Secretary Of State,0.0,Nelson Faerber,REP,2018,2022,0,No,Yes,No
-51,South Carolina,Secretary Of State,0.0,John Mark Hammond,REP,2014,2018,4,No,Yes,No
-52,South Carolina,Secretary Of State,0.0,Nelson Faerber,REP,2018,2022,0,No,Yes,No
-53,South Carolina,Secretary Of State,0.0,John Mark Hammond,REP,2014,2018,4,No,Yes,No
-54,South Carolina,Secretary Of State,0.0,Nelson Faerber,REP,2018,2022,0,No,Yes,No
-55,South Carolina,Secretary Of State,0.0,John Mark Hammond,REP,2014,2018,4,No,Yes,No
-56,South Carolina,Secretary Of State,0.0,Nelson Faerber,REP,2018,2022,0,No,Yes,No
-57,South Carolina,Secretary Of State,0.0,John Mark Hammond,REP,2014,2018,4,No,Yes,No
-58,South Carolina,Secretary Of State,0.0,Nelson Faerber,REP,2018,2022,0,No,Yes,No
-59,South Carolina,Secretary Of State,0.0,John Mark Hammond,REP,2014,2018,4,No,Yes,No
-60,South Carolina,State Representative,1.0,Bill Whitmire,REP,2012,2014,6,No,Yes,Yes
-61,South Carolina,State Representative,1.0,Bill Whitmire,REP,2016,2018,8,Yes,Yes,Yes
-62,South Carolina,State Representative,1.0,Bill Whitmire,REP,2012,2014,6,No,Yes,Yes
-63,South Carolina,State Representative,10.0,Joshua Putnam,REP,2012,2014,2,Yes,Yes,Yes
-64,South Carolina,State Representative,10.0,Joshua Putnam,REP,2016,2018,4,No,Yes,Yes
-65,South Carolina,State Representative,10.0,Joshua Putnam,REP,2012,2014,2,Yes,Yes,Yes
-66,South Carolina,State Representative,100.0,Edward Southard,REP,2012,2014,1,No,Yes,No
-67,South Carolina,State Representative,100.0,Thomas Fernandez,REP,2018,2020,0,No,Yes,No
-68,South Carolina,State Representative,100.0,Edward Southard,REP,2012,2014,1,No,Yes,No
-69,South Carolina,State Representative,101.0,Ronnie Sabb,DEM,2012,2014,2,Yes,No,Yes
-70,South Carolina,State Representative,101.0,Alfred Darby,DEM,2018,2020,0,No,No,Yes
-71,South Carolina,State Representative,101.0,Ronnie Sabb,DEM,2012,2014,2,Yes,No,Yes
-72,South Carolina,State Representative,102.0,Joe Jefferson Jr.,DEM,2012,2014,5,No,Yes,Yes
-73,South Carolina,State Representative,102.0,Joe Jefferson Jr.,DEM,2016,2018,7,Yes,Yes,Yes
-74,South Carolina,State Representative,102.0,Joe Jefferson Jr.,DEM,2012,2014,5,No,Yes,Yes
-75,South Carolina,State Representative,103.0,Carl Anderson,DEM,2012,2014,5,No,No,Yes
-76,South Carolina,State Representative,103.0,Dedric Bonds,DEM,2018,2020,0,No,No,Yes
-77,South Carolina,State Representative,103.0,Carl Anderson,DEM,2012,2014,5,No,No,Yes
-78,South Carolina,State Representative,104.0,Tracy Edge,REP,2012,2014,7,No,Yes,No
-79,South Carolina,State Representative,104.0,Greg Duckworth,REP,2018,2020,2,No,Yes,No
-80,South Carolina,State Representative,104.0,Tracy Edge,REP,2012,2014,7,No,Yes,No
-81,South Carolina,State Representative,105.0,Kevin Hardee,PETITIONING CANDIDATE,2012,2014,1,No,Yes,Yes
-82,South Carolina,State Representative,105.0,Kevin Hardee,REP,2016,2018,3,Yes,Yes,Yes
-83,South Carolina,State Representative,105.0,Kevin Hardee,PETITIONING CANDIDATE,2012,2014,1,No,Yes,Yes
-84,South Carolina,State Representative,106.0,Nelson Hardwick,REP,2012,2014,5,Yes,Yes,Yes
-85,South Carolina,State Representative,106.0,Russell Fry,REP,2016,2018,2,Yes,Yes,Yes
-86,South Carolina,State Representative,106.0,Nelson Hardwick,REP,2012,2014,5,Yes,Yes,Yes
-87,South Carolina,State Representative,107.0,Alan Clemmons,REP,2012,2014,6,Yes,Yes,Yes
-88,South Carolina,State Representative,107.0,Alan Clemmons,REP,2016,2018,8,Yes,Yes,Yes
-89,South Carolina,State Representative,107.0,Alan Clemmons,REP,2012,2014,6,Yes,Yes,Yes
-90,South Carolina,State Representative,108.0,Stephen Goldfinch Jr.,REP,2012,2014,1,Yes,Yes,Yes
-91,South Carolina,State Representative,108.0,Lee Hewitt,REP,2016,2018,1,Yes,Yes,Yes
-92,South Carolina,State Representative,108.0,Stephen Goldfinch Jr.,REP,2012,2014,1,Yes,Yes,Yes
-93,South Carolina,State Representative,109.0,David Mack III,DEM,2012,2014,7,Yes,Yes,Yes
-94,South Carolina,State Representative,109.0,David Mack III,DEM,2016,2018,9,Yes,Yes,Yes
-95,South Carolina,State Representative,109.0,David Mack III,DEM,2012,2014,7,Yes,Yes,Yes
-96,South Carolina,State Representative,11.0,Craig Gagnon,REP,2012,2014,1,No,Yes,No
-97,South Carolina,State Representative,11.0,Dale Phillips,REP,2018,2020,0,No,Yes,No
-98,South Carolina,State Representative,11.0,Craig Gagnon,REP,2012,2014,1,No,Yes,No
-99,South Carolina,State Representative,110.0,Chip Bancroft Limehouse III,REP,2012,2014,7,Yes,Yes,No
-100,South Carolina,State Representative,110.0,Russell Guerard,REP,2018,2020,0,No,Yes,No
-101,South Carolina,State Representative,110.0,Chip Bancroft Limehouse III,REP,2012,2014,7,Yes,Yes,No
-102,South Carolina,State Representative,111.0,Wendell Gilliard,DEM,2012,2014,3,Yes,Yes,Yes
-103,South Carolina,State Representative,111.0,Wendell Gilliard,DEM,2016,2018,5,Yes,Yes,Yes
-104,South Carolina,State Representative,111.0,Wendell Gilliard,DEM,2012,2014,3,Yes,Yes,Yes
-105,South Carolina,State Representative,112.0,Mike Michael Sottile,REP,2012,2014,3,Yes,Yes,No
-106,South Carolina,State Representative,112.0,Jason Clouse,REP,2018,2020,0,No,Yes,No
-107,South Carolina,State Representative,112.0,Mike Michael Sottile,REP,2012,2014,3,Yes,Yes,No
-108,South Carolina,State Representative,113.0,Jackson Seth Whipper,DEM,2012,2014,6,Yes,Yes,Yes
-109,South Carolina,State Representative,113.0,Jackson Seth Whipper,DEM,2016,2018,8,Yes,Yes,Yes
-110,South Carolina,State Representative,113.0,Jackson Seth Whipper,DEM,2012,2014,6,Yes,Yes,Yes
-111,South Carolina,State Representative,114.0,Bobby Harrell Jr.,REP,2012,2014,7,No,Yes,Yes
-112,South Carolina,State Representative,114.0,Lin Bennett,REP,2016,2018,1,No,Yes,Yes
-113,South Carolina,State Representative,114.0,Bobby Harrell Jr.,REP,2012,2014,7,No,Yes,Yes
-114,South Carolina,State Representative,115.0,Peter McCoy,REP,2012,2014,2,No,Yes,Yes
-115,South Carolina,State Representative,115.0,Peter McCoy,REP,2016,2018,4,Yes,Yes,Yes
-116,South Carolina,State Representative,115.0,Peter McCoy,REP,2012,2014,2,No,Yes,Yes
-117,South Carolina,State Representative,116.0,Robert Brown,DEM,2012,2014,7,Yes,Yes,No
-118,South Carolina,State Representative,116.0,Charles Glover,REP,2018,2020,0,No,Yes,No
-119,South Carolina,State Representative,116.0,Robert Brown,DEM,2012,2014,7,Yes,Yes,No
-120,South Carolina,State Representative,117.0,Bill Crosby,REP,2012,2014,2,Yes,Yes,No
-121,South Carolina,State Representative,117.0,Jordan Pace,REP,2018,2020,0,No,Yes,No
-122,South Carolina,State Representative,117.0,Bill Crosby,REP,2012,2014,2,Yes,Yes,No
-123,South Carolina,State Representative,118.0,Bill Herbkersman,REP,2012,2014,6,Yes,Yes,Yes
-124,South Carolina,State Representative,118.0,Bill Herbkersman,REP,2016,2018,8,No,Yes,Yes
-125,South Carolina,State Representative,118.0,Bill Herbkersman,REP,2012,2014,6,Yes,Yes,Yes
-126,South Carolina,State Representative,119.0,Leon Stavrinakis,DEM,2012,2014,4,Yes,Yes,Yes
-127,South Carolina,State Representative,119.0,Leon Stavrinakis,DEM,2016,2018,6,No,Yes,Yes
-128,South Carolina,State Representative,119.0,Leon Stavrinakis,DEM,2012,2014,4,Yes,Yes,Yes
-129,South Carolina,State Representative,12.0,Anne Parks,DEM,2012,2014,7,Yes,Yes,Yes
-130,South Carolina,State Representative,12.0,Julia Parks,DEM,2016,2018,1,No,Yes,Yes
-131,South Carolina,State Representative,12.0,Anne Parks,DEM,2012,2014,7,Yes,Yes,Yes
-132,South Carolina,State Representative,120.0,Weston Newton,REP,2012,2014,1,Yes,No,Yes
-133,South Carolina,State Representative,120.0,Weston Newton,REP,2016,2018,3,Yes,No,Yes
-134,South Carolina,State Representative,120.0,Weston Newton,REP,2012,2014,1,Yes,No,Yes
-135,South Carolina,State Representative,121.0,Ken Hodges,DEM,2012,2014,4,Yes,Yes,Yes
-136,South Carolina,State Representative,121.0,Michael Rivers Sr.,DEM,2016,2018,1,No,Yes,Yes
-137,South Carolina,State Representative,121.0,Ken Hodges,DEM,2012,2014,4,Yes,Yes,Yes
-138,South Carolina,State Representative,122.0,Bill Bowers,DEM,2012,2014,1,Yes,No,Yes
-139,South Carolina,State Representative,122.0,Bill Bowers,DEM,2018,2020,3,No,No,Yes
-140,South Carolina,State Representative,122.0,Bill Bowers,DEM,2012,2014,1,Yes,No,Yes
-141,South Carolina,State Representative,123.0,Andy Patrick,REP,2012,2014,2,Yes,Yes,No
-142,South Carolina,State Representative,123.0,Phil Hartman,REP,2018,2020,0,No,Yes,No
-143,South Carolina,State Representative,123.0,Andy Patrick,REP,2012,2014,2,Yes,Yes,No
-144,South Carolina,State Representative,124.0,Shannon Erickson,REP,2012,2014,3,Yes,Yes,Yes
-145,South Carolina,State Representative,124.0,Shannon Erickson,REP,2016,2018,5,No,Yes,Yes
-146,South Carolina,State Representative,124.0,Shannon Erickson,REP,2012,2014,3,Yes,Yes,Yes
-147,South Carolina,State Representative,13.0,Robert Shannon Riley,REP,2012,2014,1,No,Yes,Yes
-148,South Carolina,State Representative,13.0,John McCravy,REP,2016,2018,1,No,Yes,Yes
-149,South Carolina,State Representative,13.0,Robert Shannon Riley,REP,2012,2014,1,No,Yes,Yes
-150,South Carolina,State Representative,14.0,Mike Pitts,REP,2012,2014,6,No,Yes,Yes
-151,South Carolina,State Representative,14.0,Mike Pitts,REP,2016,2018,8,Yes,Yes,Yes
-152,South Carolina,State Representative,14.0,Mike Pitts,REP,2012,2014,6,No,Yes,Yes
-153,South Carolina,State Representative,15.0,Samuel Rivers Jr.,PETITIONING CANDIDATE,2012,2014,1,No,Yes,No
-154,South Carolina,State Representative,15.0,Steven Smith,REP,2018,2020,0,No,Yes,No
-155,South Carolina,State Representative,15.0,Samuel Rivers Jr.,PETITIONING CANDIDATE,2012,2014,1,No,Yes,No
-156,South Carolina,State Representative,16.0,Mark Willis,REP,2012,2014,3,Yes,Yes,Yes
-157,South Carolina,State Representative,16.0,Mark Willis,REP,2016,2018,5,No,Yes,Yes
-158,South Carolina,State Representative,16.0,Mark Willis,REP,2012,2014,3,Yes,Yes,Yes
-159,South Carolina,State Representative,17.0,Tom Corbin,REP,2012,2014,2,Yes,Yes,No
-160,South Carolina,State Representative,17.0,Lee Brian Vining,REP,2018,2020,0,No,Yes,No
-161,South Carolina,State Representative,17.0,Tom Corbin,REP,2012,2014,2,Yes,Yes,No
-162,South Carolina,State Representative,18.0,Tommy Stringer,REP,2012,2014,3,Yes,Yes,No
-163,South Carolina,State Representative,18.0,Anthony Gilliard,REP,2018,2020,0,No,Yes,No
-164,South Carolina,State Representative,18.0,Tommy Stringer,REP,2012,2014,3,Yes,Yes,No
-165,South Carolina,State Representative,19.0,Dwight Loftis,REP,2012,2014,7,Yes,No,Yes
-166,South Carolina,State Representative,19.0,Hao Wu,DEM,2018,2020,0,No,No,Yes
-167,South Carolina,State Representative,19.0,Dwight Loftis,REP,2012,2014,7,Yes,No,Yes
-168,South Carolina,State Representative,2.0,Bill Sandifer III,REP,2012,2014,7,No,Yes,Yes
-169,South Carolina,State Representative,2.0,Bill Sandifer III,REP,2016,2018,9,Yes,Yes,Yes
-170,South Carolina,State Representative,2.0,Bill Sandifer III,REP,2012,2014,7,No,Yes,Yes
-171,South Carolina,State Representative,20.0,Dan Hamilton,REP,2012,2014,3,No,Yes,No
-172,South Carolina,State Representative,20.0,Robert Davis,REP,2018,2020,0,No,Yes,No
-173,South Carolina,State Representative,20.0,Dan Hamilton,REP,2012,2014,3,No,Yes,No
-174,South Carolina,State Representative,21.0,Phyllis Henderson,REP,2012,2014,1,Yes,Yes,No
-175,South Carolina,State Representative,21.0,Phyllis Henderson,REP,2018,2020,3,No,Yes,No
-176,South Carolina,State Representative,21.0,Phyllis Henderson,REP,2012,2014,1,Yes,Yes,No
-177,South Carolina,State Representative,22.0,Wendy Nanney,REP,2012,2014,3,No,Yes,No
-178,South Carolina,State Representative,22.0,Brett Brocato,REP,2018,2020,0,No,Yes,No
-179,South Carolina,State Representative,22.0,Wendy Nanney,REP,2012,2014,3,No,Yes,No
-180,South Carolina,State Representative,23.0,Chandra Dillard,DEM,2012,2014,3,Yes,Yes,Yes
-181,South Carolina,State Representative,23.0,Chandra Dillard,DEM,2016,2018,5,Yes,Yes,Yes
-182,South Carolina,State Representative,23.0,Chandra Dillard,DEM,2012,2014,3,Yes,Yes,Yes
-183,South Carolina,State Representative,24.0,Bruce Bannister,REP,2012,2014,4,No,Yes,Yes
-184,South Carolina,State Representative,24.0,Bruce Bannister,REP,2016,2018,6,Yes,Yes,Yes
-185,South Carolina,State Representative,24.0,Bruce Bannister,REP,2012,2014,4,No,Yes,Yes
-186,South Carolina,State Representative,25.0,Leola Robinson-Simpson,DEM,2012,2014,1,Yes,No,Yes
-187,South Carolina,State Representative,25.0,Jackie Logan,DEM,2018,2020,0,No,No,Yes
-188,South Carolina,State Representative,25.0,Leola Robinson-Simpson,DEM,2012,2014,1,Yes,No,Yes
-189,South Carolina,State Representative,26.0,Raye Felder,PETITIONING CANDIDATE,2012,2014,1,No,Yes,Yes
-190,South Carolina,State Representative,26.0,Raye Felder,REP,2016,2018,3,No,Yes,Yes
-191,South Carolina,State Representative,26.0,Raye Felder,PETITIONING CANDIDATE,2012,2014,1,No,Yes,Yes
-192,South Carolina,State Representative,27.0,Garry Smith,REP,2012,2014,5,No,Yes,No
-193,South Carolina,State Representative,27.0,Ira Williams,REP,2018,2020,0,No,Yes,No
-194,South Carolina,State Representative,27.0,Garry Smith,REP,2012,2014,5,No,Yes,No
-195,South Carolina,State Representative,28.0,Eric Bedingfield,REP,2012,2014,4,Yes,Yes,No
-196,South Carolina,State Representative,28.0,Bill Welch,REP,2018,2020,0,No,Yes,No
-197,South Carolina,State Representative,28.0,Eric Bedingfield,REP,2012,2014,4,Yes,Yes,No
-198,South Carolina,State Representative,29.0,Dennis Carroll Moss,REP,2012,2014,4,Yes,Yes,Yes
-199,South Carolina,State Representative,29.0,Dennis Carroll Moss,REP,2016,2018,6,Yes,Yes,Yes
-200,South Carolina,State Representative,29.0,Dennis Carroll Moss,REP,2012,2014,4,Yes,Yes,Yes
-201,South Carolina,State Representative,3.0,R Skelton,REP,2012,2014,6,No,Yes,Yes
-202,South Carolina,State Representative,3.0,Gary Clary,REP,2016,2018,2,No,Yes,Yes
-203,South Carolina,State Representative,3.0,R Skelton,REP,2012,2014,6,No,Yes,Yes
-204,South Carolina,State Representative,30.0,Steve Stephen Moss,REP,2012,2014,2,Yes,Yes,Yes
-205,South Carolina,State Representative,30.0,Steve Stephen Moss,REP,2016,2018,4,Yes,Yes,Yes
-206,South Carolina,State Representative,30.0,Steve Stephen Moss,REP,2012,2014,2,Yes,Yes,Yes
-207,South Carolina,State Representative,31.0,Harold Mitchell Jr.,DEM,2012,2014,4,Yes,Yes,Yes
-208,South Carolina,State Representative,31.0,Harold Mitchell Jr.,DEM,2016,2018,6,No,Yes,Yes
-209,South Carolina,State Representative,31.0,Harold Mitchell Jr.,DEM,2012,2014,4,Yes,Yes,Yes
-210,South Carolina,State Representative,32.0,Joseph Derham Cole Jr.,REP,2012,2014,3,Yes,Yes,No
-211,South Carolina,State Representative,32.0,Garvin Mintz Jr.,REP,2018,2020,0,No,Yes,No
-212,South Carolina,State Representative,32.0,Joseph Derham Cole Jr.,REP,2012,2014,3,Yes,Yes,No
-213,South Carolina,State Representative,33.0,Eddie Tallon,REP,2012,2014,2,Yes,Yes,No
-214,South Carolina,State Representative,33.0,Thomas Dimsdale,REP,2018,2020,0,No,Yes,No
-215,South Carolina,State Representative,33.0,Eddie Tallon,REP,2012,2014,2,Yes,Yes,No
-216,South Carolina,State Representative,34.0,Mike Michael Forrester,REP,2012,2014,3,No,Yes,Yes
-217,South Carolina,State Representative,34.0,Mike Michael Forrester,REP,2016,2018,5,No,Yes,Yes
-218,South Carolina,State Representative,34.0,Mike Michael Forrester,REP,2012,2014,3,No,Yes,Yes
-219,South Carolina,State Representative,35.0,Bill Chumley,REP,2012,2014,2,Yes,Yes,Yes
-220,South Carolina,State Representative,35.0,Bill Chumley,REP,2016,2018,4,Yes,Yes,Yes
-221,South Carolina,State Representative,35.0,Bill Chumley,REP,2012,2014,2,Yes,Yes,Yes
-222,South Carolina,State Representative,36.0,Merita Ann Allison,REP,2012,2014,3,No,Yes,Yes
-223,South Carolina,State Representative,36.0,Merita Ann Allison,REP,2016,2018,5,Yes,Yes,Yes
-224,South Carolina,State Representative,36.0,Merita Ann Allison,REP,2012,2014,3,No,Yes,Yes
-225,South Carolina,State Representative,37.0,Donna Hicks Wood,REP,2012,2014,1,Yes,Yes,No
-226,South Carolina,State Representative,37.0,Donna Hicks,REP,2018,2020,0,No,Yes,No
-227,South Carolina,State Representative,37.0,Donna Hicks Wood,REP,2012,2014,1,Yes,Yes,No
-228,South Carolina,State Representative,38.0,Doug Douglas Brannon,REP,2012,2014,2,Yes,Yes,No
-229,South Carolina,State Representative,38.0,Joan Clyborne,REP,2018,2020,0,No,Yes,No
-230,South Carolina,State Representative,38.0,Doug Douglas Brannon,REP,2012,2014,2,Yes,Yes,No
-231,South Carolina,State Representative,39.0,Ralph Shealy Kennedy,REP,2012,2014,1,No,Yes,Yes
-232,South Carolina,State Representative,39.0,Cal Forrest Jr.,REP,2016,2018,1,No,Yes,Yes
-233,South Carolina,State Representative,39.0,Ralph Shealy Kennedy,REP,2012,2014,1,No,Yes,Yes
-234,South Carolina,State Representative,4.0,Davey Hiott,REP,2012,2014,5,Yes,Yes,No
-235,South Carolina,State Representative,4.0,Philip Healy,REP,2018,2020,0,No,Yes,No
-236,South Carolina,State Representative,4.0,Davey Hiott,REP,2012,2014,5,Yes,Yes,No
-237,South Carolina,State Representative,40.0,Walt McLeod,DEM,2012,2014,7,Yes,Yes,Yes
-238,South Carolina,State Representative,40.0,Rick Martin Jr.,REP,2016,2018,1,No,Yes,Yes
-239,South Carolina,State Representative,40.0,Walt McLeod,DEM,2012,2014,7,Yes,Yes,Yes
-240,South Carolina,State Representative,41.0,Marygail Douglas,DEM,2012,2014,1,No,No,Yes
-241,South Carolina,State Representative,41.0,Marygail Douglas,DEM,2018,2020,3,No,No,Yes
-242,South Carolina,State Representative,41.0,Marygail Douglas,DEM,2012,2014,1,No,No,Yes
-243,South Carolina,State Representative,42.0,Mike Anthony,DEM,2012,2014,6,No,Yes,No
-244,South Carolina,State Representative,42.0,Phillip Russell II,REP,2018,2020,0,No,Yes,No
-245,South Carolina,State Representative,42.0,Mike Anthony,DEM,2012,2014,6,No,Yes,No
-246,South Carolina,State Representative,43.0,Greg Gregory Delleney Jr.,REP,2012,2014,7,Yes,Yes,No
-247,South Carolina,State Representative,43.0,Joseph Tate,REP,2018,2020,0,No,Yes,No
-248,South Carolina,State Representative,43.0,Greg Gregory Delleney Jr.,REP,2012,2014,7,Yes,Yes,No
-249,South Carolina,State Representative,44.0,Mandy Powers Norrell,DEM,2012,2014,1,No,Yes,Yes
-250,South Carolina,State Representative,44.0,Mandy Powers Norrell,DEM,2016,2018,3,Yes,Yes,Yes
-251,South Carolina,State Representative,44.0,Mandy Powers Norrell,DEM,2012,2014,1,No,Yes,Yes
-252,South Carolina,State Representative,45.0,Deborah Long,REP,2012,2014,3,Yes,Yes,Yes
-253,South Carolina,State Representative,45.0,Brandon Newton,REP,2016,2018,1,No,Yes,Yes
-254,South Carolina,State Representative,45.0,Deborah Long,REP,2012,2014,3,Yes,Yes,Yes
-255,South Carolina,State Representative,46.0,Gary Simrill,REP,2012,2014,7,Yes,Yes,Yes
-256,South Carolina,State Representative,46.0,Gary Simrill,REP,2016,2018,9,Yes,Yes,Yes
-257,South Carolina,State Representative,46.0,Gary Simrill,REP,2012,2014,7,Yes,Yes,Yes
-258,South Carolina,State Representative,47.0,Tommy Pope,REP,2012,2014,2,Yes,Yes,Yes
-259,South Carolina,State Representative,47.0,Tommy Pope,REP,2016,2018,4,No,Yes,Yes
-260,South Carolina,State Representative,47.0,Tommy Pope,REP,2012,2014,2,Yes,Yes,Yes
-261,South Carolina,State Representative,48.0,Ralph Norman,REP,2012,2014,2,Yes,Yes,Yes
-262,South Carolina,State Representative,48.0,Ralph Norman,REP,2016,2018,4,Yes,Yes,Yes
-263,South Carolina,State Representative,48.0,Ralph Norman,REP,2012,2014,2,Yes,Yes,Yes
-264,South Carolina,State Representative,49.0,John King,DEM,2012,2014,3,Yes,Yes,Yes
-265,South Carolina,State Representative,49.0,John King,DEM,2016,2018,5,Yes,Yes,Yes
-266,South Carolina,State Representative,49.0,John King,DEM,2012,2014,3,Yes,Yes,Yes
-267,South Carolina,State Representative,5.0,Phillip Owens,REP,2012,2014,6,Yes,Yes,No
-268,South Carolina,State Representative,5.0,David Cox,REP,2018,2020,0,No,Yes,No
-269,South Carolina,State Representative,5.0,Phillip Owens,REP,2012,2014,6,Yes,Yes,No
-270,South Carolina,State Representative,50.0,Grady Brown,DEM,2012,2014,7,Yes,Yes,Yes
-271,South Carolina,State Representative,50.0,William Walter Wheeler III,DEM,2016,2018,1,No,Yes,Yes
-272,South Carolina,State Representative,50.0,Grady Brown,DEM,2012,2014,7,Yes,Yes,Yes
-273,South Carolina,State Representative,51.0,David Weeks,DEM,2012,2014,7,Yes,Yes,Yes
-274,South Carolina,State Representative,51.0,David Weeks,DEM,2016,2018,9,Yes,Yes,Yes
-275,South Carolina,State Representative,51.0,David Weeks,DEM,2012,2014,7,Yes,Yes,Yes
-276,South Carolina,State Representative,52.0,Laurie Slade Funderburk,DEM,2012,2014,5,No,Yes,Yes
-277,South Carolina,State Representative,52.0,Laurie Slade Funderburk,DEM,2016,2018,7,Yes,Yes,Yes
-278,South Carolina,State Representative,52.0,Laurie Slade Funderburk,DEM,2012,2014,5,No,Yes,Yes
-279,South Carolina,State Representative,53.0,Ted Martin Vick,DEM,2012,2014,5,No,Yes,Yes
-280,South Carolina,State Representative,53.0,Richie Yow,REP,2016,2018,2,No,Yes,Yes
-281,South Carolina,State Representative,53.0,Ted Martin Vick,DEM,2012,2014,5,No,Yes,Yes
-282,South Carolina,State Representative,54.0,Elizabeth Munnerlyn,DEM,2012,2014,2,Yes,Yes,Yes
-283,South Carolina,State Representative,54.0,Pat Moore Henegan,DEM,2016,2018,2,No,Yes,Yes
-284,South Carolina,State Representative,54.0,Elizabeth Munnerlyn,DEM,2012,2014,2,Yes,Yes,Yes
-285,South Carolina,State Representative,55.0,Jackie Hayes,DEM,2012,2014,7,Yes,No,Yes
-286,South Carolina,State Representative,55.0,Jack Scott,DEM,2018,2020,0,No,No,Yes
-287,South Carolina,State Representative,55.0,Jackie Hayes,DEM,2012,2014,7,Yes,No,Yes
-288,South Carolina,State Representative,56.0,Mike Ryhal,PETITIONING CANDIDATE,2012,2014,1,No,Yes,No
-289,South Carolina,State Representative,56.0,Adam Miller,REP,2018,2020,0,No,Yes,No
-290,South Carolina,State Representative,56.0,Mike Ryhal,PETITIONING CANDIDATE,2012,2014,1,No,Yes,No
-291,South Carolina,State Representative,57.0,Wayne George,DEM,2012,2014,1,No,Yes,Yes
-292,South Carolina,State Representative,57.0,Lucas Atkinson,DEM,2016,2018,1,No,Yes,Yes
-293,South Carolina,State Representative,57.0,Wayne George,DEM,2012,2014,1,No,Yes,Yes
-294,South Carolina,State Representative,58.0,Liston Barfield,REP,2012,2014,7,No,Yes,Yes
-295,South Carolina,State Representative,58.0,Paul Morse,DEM,2018,2020,0,No,Yes,Yes
-296,South Carolina,State Representative,58.0,Liston Barfield,REP,2012,2014,7,No,Yes,Yes
-297,South Carolina,State Representative,59.0,Terry Alexander,DEM,2012,2014,4,Yes,Yes,Yes
-298,South Carolina,State Representative,59.0,Terry Alexander,DEM,2016,2018,6,Yes,Yes,Yes
-299,South Carolina,State Representative,59.0,Terry Alexander,DEM,2012,2014,4,Yes,Yes,Yes
-300,South Carolina,State Representative,6.0,Brian Keith White,REP,2012,2014,7,Yes,Yes,No
-301,South Carolina,State Representative,6.0,Richard Freemantle,REP,2018,2020,0,No,Yes,No
-302,South Carolina,State Representative,6.0,Brian Keith White,REP,2012,2014,7,Yes,Yes,No
-303,South Carolina,State Representative,60.0,Phillip Lowe,REP,2012,2014,4,Yes,Yes,Yes
-304,South Carolina,State Representative,60.0,Phillip Lowe,REP,2016,2018,6,Yes,Yes,Yes
-305,South Carolina,State Representative,60.0,Phillip Lowe,REP,2012,2014,4,Yes,Yes,Yes
-306,South Carolina,State Representative,61.0,Lester Branham Jr.,DEM,2012,2014,6,Yes,Yes,Yes
-307,South Carolina,State Representative,61.0,Roger Kirby,DEM,2016,2018,2,Yes,Yes,Yes
-308,South Carolina,State Representative,61.0,Lester Branham Jr.,DEM,2012,2014,6,Yes,Yes,Yes
-309,South Carolina,State Representative,62.0,Robert Williams,DEM,2012,2014,4,No,No,Yes
-310,South Carolina,State Representative,62.0,Linda Byrd-Spearman,DEM,2018,2020,0,No,No,Yes
-311,South Carolina,State Representative,62.0,Robert Williams,DEM,2012,2014,4,No,No,Yes
-312,South Carolina,State Representative,63.0,Kris Crawford,REP,2012,2014,4,No,Yes,Yes
-313,South Carolina,State Representative,63.0,Jay Jordan Jr.,REP,2016,2018,1,Yes,Yes,Yes
-314,South Carolina,State Representative,63.0,Kris Crawford,REP,2012,2014,4,No,Yes,Yes
-315,South Carolina,State Representative,64.0,Robert Ridgeway III,PETITIONING CANDIDATE,2012,2014,1,No,No,Yes
-316,South Carolina,State Representative,64.0,Mitchell Ellerby,DEM,2018,2020,0,No,No,Yes
-317,South Carolina,State Representative,64.0,Robert Ridgeway III,PETITIONING CANDIDATE,2012,2014,1,No,No,Yes
-318,South Carolina,State Representative,65.0,Jay Lucas,REP,2012,2014,7,Yes,Yes,Yes
-319,South Carolina,State Representative,65.0,Jay Lucas,REP,2016,2018,9,Yes,Yes,Yes
-320,South Carolina,State Representative,65.0,Jay Lucas,REP,2012,2014,7,Yes,Yes,Yes
-321,South Carolina,State Representative,66.0,Gilda Cobb-Hunter,DEM,2012,2014,7,Yes,Yes,Yes
-322,South Carolina,State Representative,66.0,Gilda Cobb-Hunter,DEM,2016,2018,9,Yes,Yes,Yes
-323,South Carolina,State Representative,66.0,Gilda Cobb-Hunter,DEM,2012,2014,7,Yes,Yes,Yes
-324,South Carolina,State Representative,67.0,George Murrell Smith Jr.,REP,2012,2014,6,Yes,Yes,Yes
-325,South Carolina,State Representative,67.0,George Murrell Smith Jr.,REP,2016,2018,8,Yes,Yes,Yes
-326,South Carolina,State Representative,67.0,George Murrell Smith Jr.,REP,2012,2014,6,Yes,Yes,Yes
-327,South Carolina,State Representative,68.0,Heather Ammons Crawford,REP,2012,2014,1,No,Yes,Yes
-328,South Carolina,State Representative,68.0,Heather Ammons Crawford,REP,2016,2018,3,Yes,Yes,Yes
-329,South Carolina,State Representative,68.0,Heather Ammons Crawford,REP,2012,2014,1,No,Yes,Yes
-330,South Carolina,State Representative,69.0,Rick Quinn Jr.,REP,2012,2014,2,No,Yes,No
-331,South Carolina,State Representative,69.0,Michael Weaver,REP,2018,2020,0,No,Yes,No
-332,South Carolina,State Representative,69.0,Rick Quinn Jr.,REP,2012,2014,2,No,Yes,No
-333,South Carolina,State Representative,7.0,Mike Gambrell,REP,2012,2014,4,Yes,Yes,No
-334,South Carolina,State Representative,7.0,Dennis Edward Grindstaff Jr.,REP,2018,2020,0,No,Yes,No
-335,South Carolina,State Representative,7.0,Mike Gambrell,REP,2012,2014,4,Yes,Yes,No
-336,South Carolina,State Representative,70.0,Joseph Neal,DEM,2012,2014,7,Yes,Yes,Yes
-337,South Carolina,State Representative,70.0,Joseph Neal,DEM,2016,2018,9,Yes,Yes,Yes
-338,South Carolina,State Representative,70.0,Joseph Neal,DEM,2012,2014,7,Yes,Yes,Yes
-339,South Carolina,State Representative,71.0,Nathan Ballentine,REP,2012,2014,5,Yes,Yes,No
-340,South Carolina,State Representative,71.0,Christopher Wolf,REP,2018,2020,0,No,Yes,No
-341,South Carolina,State Representative,71.0,Nathan Ballentine,REP,2012,2014,5,Yes,Yes,No
-342,South Carolina,State Representative,72.0,James Smith Jr.,DEM,2012,2014,2,Yes,Yes,Yes
-343,South Carolina,State Representative,72.0,James Smith Jr.,DEM,2016,2018,4,Yes,Yes,Yes
-344,South Carolina,State Representative,72.0,James Smith Jr.,DEM,2012,2014,2,Yes,Yes,Yes
-345,South Carolina,State Representative,73.0,Chris Hart,DEM,2012,2014,4,Yes,Yes,Yes
-346,South Carolina,State Representative,73.0,Chris Hart,DEM,2016,2018,6,Yes,Yes,Yes
-347,South Carolina,State Representative,73.0,Chris Hart,DEM,2012,2014,4,Yes,Yes,Yes
-348,South Carolina,State Representative,74.0,James Todd Rutherford,DEM,2012,2014,7,Yes,Yes,Yes
-349,South Carolina,State Representative,74.0,James Todd Rutherford,DEM,2016,2018,9,Yes,Yes,Yes
-350,South Carolina,State Representative,74.0,James Todd Rutherford,DEM,2012,2014,7,Yes,Yes,Yes
-351,South Carolina,State Representative,75.0,Kirkman Finlay III,REP,2012,2014,1,No,Yes,Yes
-352,South Carolina,State Representative,75.0,Kirkman Finlay III,REP,2016,2018,3,No,Yes,Yes
-353,South Carolina,State Representative,75.0,Kirkman Finlay III,REP,2012,2014,1,No,Yes,Yes
-354,South Carolina,State Representative,76.0,Leon Howard,DEM,2012,2014,7,No,No,Yes
-355,South Carolina,State Representative,76.0,Karil Nae Parker,DEM,2018,2020,0,No,No,Yes
-356,South Carolina,State Representative,76.0,Leon Howard,DEM,2012,2014,7,No,No,Yes
-357,South Carolina,State Representative,77.0,Joe McEachern,DEM,2012,2014,3,Yes,No,Yes
-358,South Carolina,State Representative,77.0,Joe McEachern,DEM,2018,2020,5,No,No,Yes
-359,South Carolina,State Representative,77.0,Joe McEachern,DEM,2012,2014,3,Yes,No,Yes
-360,South Carolina,State Representative,78.0,Beth Bernstein,DEM,2012,2014,1,No,Yes,Yes
-361,South Carolina,State Representative,78.0,Beth Bernstein,DEM,2016,2018,3,Yes,Yes,Yes
-362,South Carolina,State Representative,78.0,Beth Bernstein,DEM,2012,2014,1,No,Yes,Yes
-363,South Carolina,State Representative,79.0,Mia McLeod,DEM,2012,2014,2,Yes,Yes,Yes
-364,South Carolina,State Representative,79.0,"T Thigpen, IV",DEM,2016,2018,1,No,Yes,Yes
-365,South Carolina,State Representative,79.0,Mia McLeod,DEM,2012,2014,2,Yes,Yes,Yes
-366,South Carolina,State Representative,8.0,Don Bowen,REP,2012,2014,4,No,Yes,No
-367,South Carolina,State Representative,8.0,Don Bowen,REP,2018,2020,0,No,Yes,No
-368,South Carolina,State Representative,8.0,Don Bowen,REP,2012,2014,4,No,Yes,No
-369,South Carolina,State Representative,80.0,Jimmy Bales,DEM,2012,2014,7,Yes,Yes,Yes
-370,South Carolina,State Representative,80.0,Jimmy Bales,DEM,2016,2018,9,Yes,Yes,Yes
-371,South Carolina,State Representative,80.0,Jimmy Bales,DEM,2012,2014,7,Yes,Yes,Yes
-372,South Carolina,State Representative,81.0,Don Wells,REP,2012,2014,1,No,Yes,Yes
-373,South Carolina,State Representative,81.0,Bart Blackwell,REP,2016,2018,1,No,Yes,Yes
-374,South Carolina,State Representative,81.0,Don Wells,REP,2012,2014,1,No,Yes,Yes
-375,South Carolina,State Representative,82.0,William Clyburn,DEM,2012,2014,7,Yes,Yes,Yes
-376,South Carolina,State Representative,82.0,William Clyburn,DEM,2016,2018,9,Yes,Yes,Yes
-377,South Carolina,State Representative,82.0,William Clyburn,DEM,2012,2014,7,Yes,Yes,Yes
-378,South Carolina,State Representative,83.0,Bill Hixon,REP,2012,2014,2,Yes,Yes,Yes
-379,South Carolina,State Representative,83.0,Bill Hixon,REP,2016,2018,4,Yes,Yes,Yes
-380,South Carolina,State Representative,83.0,Bill Hixon,REP,2012,2014,2,Yes,Yes,Yes
-381,South Carolina,State Representative,84.0,James Roland Smith,REP,2012,2014,7,Yes,Yes,Yes
-382,South Carolina,State Representative,84.0,Chris Corley,REP,2016,2018,2,Yes,Yes,Yes
-383,South Carolina,State Representative,84.0,James Roland Smith,REP,2012,2014,7,Yes,Yes,Yes
-384,South Carolina,State Representative,85.0,Chip Huggins Jr.,REP,2012,2014,7,Yes,Yes,Yes
-385,South Carolina,State Representative,85.0,Chip Huggins Jr.,REP,2016,2018,9,Yes,Yes,Yes
-386,South Carolina,State Representative,85.0,Chip Huggins Jr.,REP,2012,2014,7,Yes,Yes,Yes
-387,South Carolina,State Representative,86.0,Bill Taylor,REP,2012,2014,2,Yes,Yes,Yes
-388,South Carolina,State Representative,86.0,Bill Taylor,REP,2016,2018,4,Yes,Yes,Yes
-389,South Carolina,State Representative,86.0,Bill Taylor,REP,2012,2014,2,Yes,Yes,Yes
-390,South Carolina,State Representative,87.0,Todd Atwater,REP,2012,2014,2,Yes,Yes,No
-391,South Carolina,State Representative,87.0,Anthony Carnes,REP,2018,2020,0,No,Yes,No
-392,South Carolina,State Representative,87.0,Todd Atwater,REP,2012,2014,2,Yes,Yes,No
-393,South Carolina,State Representative,88.0,Mac Toole,REP,2012,2014,6,Yes,Yes,Yes
-394,South Carolina,State Representative,88.0,Mac Toole,REP,2016,2018,8,Yes,Yes,Yes
-395,South Carolina,State Representative,88.0,Mac Toole,REP,2012,2014,6,Yes,Yes,Yes
-396,South Carolina,State Representative,89.0,Kenny Bingham,REP,2012,2014,7,Yes,Yes,No
-397,South Carolina,State Representative,89.0,Billy Oswald,REP,2018,2020,0,No,Yes,No
-398,South Carolina,State Representative,89.0,Kenny Bingham,REP,2012,2014,7,Yes,Yes,No
-399,South Carolina,State Representative,9.0,Anne Thayer,REP,2012,2014,2,Yes,Yes,Yes
-400,South Carolina,State Representative,9.0,Anne Thayer,REP,2016,2018,4,No,Yes,Yes
-401,South Carolina,State Representative,9.0,Anne Thayer,REP,2012,2014,2,Yes,Yes,Yes
-402,South Carolina,State Representative,90.0,Bakari Sellers,DEM,2012,2014,4,No,Yes,Yes
-403,South Carolina,State Representative,90.0,Justin Bamberg,DEM,2016,2018,2,No,Yes,Yes
-404,South Carolina,State Representative,90.0,Bakari Sellers,DEM,2012,2014,4,No,Yes,Yes
-405,South Carolina,State Representative,91.0,Lonnie Hosey,DEM,2012,2014,7,No,Yes,Yes
-406,South Carolina,State Representative,91.0,Lonnie Hosey,DEM,2016,2018,9,Yes,Yes,Yes
-407,South Carolina,State Representative,91.0,Lonnie Hosey,DEM,2012,2014,7,No,Yes,Yes
-408,South Carolina,State Representative,92.0,Joe Daning,REP,2012,2014,3,Yes,Yes,Yes
-409,South Carolina,State Representative,92.0,Joe Daning,REP,2016,2018,5,Yes,Yes,Yes
-410,South Carolina,State Representative,92.0,Joe Daning,REP,2012,2014,3,Yes,Yes,Yes
-411,South Carolina,State Representative,93.0,Harry Ott Jr.,DEM,2012,2014,7,Yes,Yes,Yes
-412,South Carolina,State Representative,93.0,Russell Ott,DEM,2016,2018,2,Yes,Yes,Yes
-413,South Carolina,State Representative,93.0,Harry Ott Jr.,DEM,2012,2014,7,Yes,Yes,Yes
-414,South Carolina,State Representative,94.0,Jenny Horne,REP,2012,2014,3,Yes,Yes,No
-415,South Carolina,State Representative,94.0,Glenn Zingarino,REP,2018,2020,0,No,Yes,No
-416,South Carolina,State Representative,94.0,Jenny Horne,REP,2012,2014,3,Yes,Yes,No
-417,South Carolina,State Representative,95.0,Jerry Govan Jr.,DEM,2012,2014,7,Yes,No,Yes
-418,South Carolina,State Representative,95.0,Kevin Ray,DEM,2018,2020,0,No,No,Yes
-419,South Carolina,State Representative,95.0,Jerry Govan Jr.,DEM,2012,2014,7,Yes,No,Yes
-420,South Carolina,State Representative,96.0,Kit Spires,REP,2012,2014,4,Yes,Yes,No
-421,South Carolina,State Representative,96.0,Perry Finch,REP,2018,2020,0,No,Yes,No
-422,South Carolina,State Representative,96.0,Kit Spires,REP,2012,2014,4,Yes,Yes,No
-423,South Carolina,State Representative,97.0,Patsy Knight,DEM,2012,2014,4,No,Yes,No
-424,South Carolina,State Representative,97.0,William Johnson Jr.,REP,2018,2020,0,No,Yes,No
-425,South Carolina,State Representative,97.0,Patsy Knight,DEM,2012,2014,4,No,Yes,No
-426,South Carolina,State Representative,98.0,Chris Murphy,REP,2012,2014,2,Yes,Yes,No
-427,South Carolina,State Representative,98.0,Larry Hargett,REP,2018,2020,0,No,Yes,No
-428,South Carolina,State Representative,98.0,Chris Murphy,REP,2012,2014,2,Yes,Yes,No
-429,South Carolina,State Representative,99.0,Jim Merrill,REP,2012,2014,7,Yes,No,No
-430,South Carolina,State Representative,99.0,Mark Smith,REP,2018,2020,0,No,No,No
-431,South Carolina,State Representative,99.0,Mark Smith,REP,2018,2020,0,No,No,No
-432,South Carolina,State Representative,99.0,Jim Merrill,REP,2012,2014,7,Yes,No,No
-433,South Carolina,State Senator,1.0,Thomas Alexander,REP,2012,2016,4,Yes,Yes,Yes
-434,South Carolina,State Senator,1.0,Thomas Alexander,REP,2016,2020,5,Yes,Yes,Yes
-435,South Carolina,State Senator,1.0,Thomas Alexander,REP,2012,2016,4,Yes,Yes,Yes
-436,South Carolina,State Senator,10.0,Floyd Nicholson,DEM,2012,2016,2,No,Yes,Yes
-437,South Carolina,State Senator,10.0,Floyd Nicholson,DEM,2016,2020,3,No,Yes,Yes
-438,South Carolina,State Senator,10.0,Floyd Nicholson,DEM,2012,2016,2,No,Yes,Yes
-439,South Carolina,State Senator,11.0,Glenn Reese,DEM,2012,2016,4,No,Yes,Yes
-440,South Carolina,State Senator,11.0,Glenn Reese,DEM,2016,2020,5,No,Yes,Yes
-441,South Carolina,State Senator,11.0,Glenn Reese,DEM,2012,2016,4,No,Yes,Yes
-442,South Carolina,State Senator,12.0,Marvin Lee Bright III,REP,2012,2016,2,No,Yes,Yes
-443,South Carolina,State Senator,12.0,Scott Talley,REP,2016,2020,1,No,Yes,Yes
-444,South Carolina,State Senator,12.0,Marvin Lee Bright III,REP,2012,2016,2,No,Yes,Yes
-445,South Carolina,State Senator,13.0,Shane Martin,REP,2012,2016,2,Yes,Yes,Yes
-446,South Carolina,State Senator,13.0,Shane Martin,REP,2016,2020,3,Yes,Yes,Yes
-447,South Carolina,State Senator,13.0,Shane Martin,REP,2012,2016,2,Yes,Yes,Yes
-448,South Carolina,State Senator,14.0,Harvey Smith Peeler Jr.,REP,2012,2016,4,Yes,Yes,Yes
-449,South Carolina,State Senator,14.0,Harvey Smith Peeler Jr.,REP,2016,2020,5,Yes,Yes,Yes
-450,South Carolina,State Senator,14.0,Harvey Smith Peeler Jr.,REP,2012,2016,4,Yes,Yes,Yes
-451,South Carolina,State Senator,15.0,Wes Wesley Hayes Jr.,REP,2012,2016,4,No,Yes,Yes
-452,South Carolina,State Senator,15.0,David Wes Climer,REP,2016,2020,1,Yes,Yes,Yes
-453,South Carolina,State Senator,15.0,Wes Wesley Hayes Jr.,REP,2012,2016,4,No,Yes,Yes
-656,South Carolina,State Senator,16,Chauncey Klugh Gregory,REP,2011,2012,1,No,Yes,Yes
-454,South Carolina,State Senator,16.0,Greg Klugh Gregory,REP,2012,2016,1,Yes,Yes,Yes
-455,South Carolina,State Senator,16.0,Greg Klugh Gregory,REP,2016,2020,2,Yes,Yes,Yes
-456,South Carolina,State Senator,16.0,Greg Klugh Gregory,REP,2012,2016,1,Yes,Yes,Yes
-457,South Carolina,State Senator,16.0,Chauncey Klugh Gregory,REP,2011,2012,1,No,Yes,Yes
-458,South Carolina,State Senator,17.0,Creighton Coleman,DEM,2012,2016,2,No,Yes,Yes
-459,South Carolina,State Senator,17.0,Michael Fanning,DEM,2016,2020,1,No,Yes,Yes
-460,South Carolina,State Senator,17.0,Creighton Coleman,DEM,2012,2016,2,No,Yes,Yes
-461,South Carolina,State Senator,18.0,Ronnie Cromer,REP,2012,2016,3,Yes,Yes,Yes
-462,South Carolina,State Senator,18.0,Ronnie Cromer,REP,2016,2020,4,Yes,Yes,Yes
-463,South Carolina,State Senator,18.0,Ronnie Cromer,REP,2012,2016,3,Yes,Yes,Yes
-464,South Carolina,State Senator,19.0,John Scott Jr.,DEM,2012,2016,2,Yes,Yes,Yes
-465,South Carolina,State Senator,19.0,John Scott Jr.,DEM,2016,2020,3,Yes,Yes,Yes
-466,South Carolina,State Senator,19.0,John Scott Jr.,DEM,2012,2016,2,Yes,Yes,Yes
-467,South Carolina,State Senator,2.0,Larry Martin,REP,2012,2016,4,No,Yes,Yes
-468,South Carolina,State Senator,2.0,Rex Fontaine Rice,REP,2016,2020,1,No,Yes,Yes
-469,South Carolina,State Senator,2.0,Larry Martin,REP,2012,2016,4,No,Yes,Yes
-470,South Carolina,State Senator,20.0,John Courson,REP,2012,2016,4,No,Yes,Yes
-471,South Carolina,State Senator,20.0,John Courson,REP,2016,2020,5,No,Yes,Yes
-472,South Carolina,State Senator,20.0,John Courson,REP,2012,2016,4,No,Yes,Yes
-473,South Carolina,State Senator,21.0,Darrell Jackson,DEM,2012,2016,4,Yes,Yes,Yes
-474,South Carolina,State Senator,21.0,Darrell Jackson,DEM,2016,2020,5,Yes,Yes,Yes
-475,South Carolina,State Senator,21.0,Darrell Jackson,DEM,2012,2016,4,Yes,Yes,Yes
-476,South Carolina,State Senator,22.0,Joel Lourie,DEM,2012,2016,3,Yes,Yes,Yes
-477,South Carolina,State Senator,22.0,Maymia McLeod,DEM,2016,2020,1,No,Yes,Yes
-478,South Carolina,State Senator,22.0,Joel Lourie,DEM,2012,2016,3,Yes,Yes,Yes
-479,South Carolina,State Senator,23.0,Katrina Shealy,PETITIONING CANDIDATE,2012,2016,1,No,Yes,Yes
-480,South Carolina,State Senator,23.0,Katrina Shealy,REP,2016,2020,2,Yes,Yes,Yes
-481,South Carolina,State Senator,23.0,Katrina Shealy,PETITIONING CANDIDATE,2012,2016,1,No,Yes,Yes
-482,South Carolina,State Senator,24.0,Tom Young,REP,2012,2016,1,Yes,Yes,Yes
-483,South Carolina,State Senator,24.0,Tom Young,REP,2016,2020,2,Yes,Yes,Yes
-484,South Carolina,State Senator,24.0,Tom Young,REP,2012,2016,1,Yes,Yes,Yes
-485,South Carolina,State Senator,25.0,Anthony Shane Massey,REP,2012,2016,2,Yes,Yes,Yes
-486,South Carolina,State Senator,25.0,Anthony Shane Massey,REP,2016,2020,3,Yes,Yes,Yes
-487,South Carolina,State Senator,25.0,Anthony Shane Massey,REP,2012,2016,2,Yes,Yes,Yes
-488,South Carolina,State Senator,26.0,Nikki Giles Setzler,DEM,2012,2016,4,No,Yes,Yes
-489,South Carolina,State Senator,26.0,Nikki Giles Setzler,DEM,2016,2020,5,No,Yes,Yes
-490,South Carolina,State Senator,26.0,Nikki Giles Setzler,DEM,2012,2016,4,No,Yes,Yes
-491,South Carolina,State Senator,27.0,Vincent Sheheen,DEM,2012,2016,3,Yes,Yes,Yes
-492,South Carolina,State Senator,27.0,Vincent Sheheen,DEM,2016,2020,4,Yes,Yes,Yes
-493,South Carolina,State Senator,27.0,Vincent Sheheen,DEM,2012,2016,3,Yes,Yes,Yes
-494,South Carolina,State Senator,28.0,Greg Gregory Hembree,REP,2012,2016,1,No,Yes,Yes
-495,South Carolina,State Senator,28.0,Greg Gregory Hembree,REP,2016,2020,2,Yes,Yes,Yes
-496,South Carolina,State Senator,28.0,Greg Gregory Hembree,REP,2012,2016,1,No,Yes,Yes
-497,South Carolina,State Senator,29.0,Gerald Malloy,DEM,2012,2016,3,Yes,Yes,Yes
-498,South Carolina,State Senator,29.0,Gerald Malloy,DEM,2016,2020,4,Yes,Yes,Yes
-499,South Carolina,State Senator,29.0,Gerald Malloy,DEM,2012,2016,3,Yes,Yes,Yes
-500,South Carolina,State Senator,3.0,Kevin Bryant,REP,2012,2016,2,Yes,Yes,Yes
-501,South Carolina,State Senator,3.0,Richard J. Cash,REP,2017,2020,1,No,Yes,Yes
-502,South Carolina,State Senator,3.0,Richard J. Cash,REP,2017,2020,1,No,Yes,Yes
-503,South Carolina,State Senator,3.0,Richard J. Cash,REP,2017,2020,1,No,Yes,Yes
-504,South Carolina,State Senator,3.0,Richard J. Cash,REP,2017,2020,1,No,Yes,Yes
-505,South Carolina,State Senator,3.0,Richard J. Cash,REP,2017,2020,1,No,Yes,Yes
-506,South Carolina,State Senator,3.0,Richard J. Cash,REP,2017,2020,1,No,Yes,Yes
-507,South Carolina,State Senator,3.0,Richard J. Cash,REP,2017,2020,1,No,Yes,Yes
-508,South Carolina,State Senator,3.0,Richard J. Cash,REP,2017,2020,1,No,Yes,Yes
-509,South Carolina,State Senator,3.0,Richard J. Cash,REP,2017,2020,1,No,Yes,Yes
-510,South Carolina,State Senator,3.0,Richard J. Cash,REP,2017,2020,1,No,Yes,Yes
-511,South Carolina,State Senator,3.0,Kevin Bryant,REP,2012,2016,2,Yes,Yes,Yes
-512,South Carolina,State Senator,30.0,Kent Williams,DEM,2012,2016,3,Yes,Yes,Yes
-513,South Carolina,State Senator,30.0,Kent Williams,DEM,2016,2020,4,Yes,Yes,Yes
-514,South Carolina,State Senator,30.0,Kent Williams,DEM,2012,2016,3,Yes,Yes,Yes
-515,South Carolina,State Senator,31.0,Hugh Kenneth Leatherman Sr.,REP,2012,2016,4,Yes,Yes,Yes
-516,South Carolina,State Senator,31.0,Hugh Kenneth Leatherman Sr.,REP,2016,2020,5,Yes,Yes,Yes
-517,South Carolina,State Senator,31.0,Hugh Kenneth Leatherman Sr.,REP,2012,2016,4,Yes,Yes,Yes
-518,South Carolina,State Senator,32.0,Yancey McGill,DEM,2012,2016,4,Yes,Yes,Yes
-519,South Carolina,State Senator,32.0,Ronnie Sabb,DEM,2016,2020,2,Yes,Yes,Yes
-520,South Carolina,State Senator,32.0,Yancey McGill,DEM,2012,2016,4,Yes,Yes,Yes
-521,South Carolina,State Senator,33.0,Luke Rankin,REP,2012,2016,4,Yes,Yes,Yes
-522,South Carolina,State Senator,33.0,Luke Rankin,REP,2016,2020,5,Yes,Yes,Yes
-523,South Carolina,State Senator,33.0,Luke Rankin,REP,2012,2016,4,Yes,Yes,Yes
-524,South Carolina,State Senator,34.0,Raymond Cleary III,REP,2012,2016,3,Yes,Yes,Yes
-525,South Carolina,State Senator,34.0,Stephen Goldfinch Jr.,REP,2016,2020,1,No,Yes,Yes
-526,South Carolina,State Senator,34.0,Raymond Cleary III,REP,2012,2016,3,Yes,Yes,Yes
-527,South Carolina,State Senator,35.0,Joseph Thomas McElveen III,DEM,2012,2016,1,No,Yes,Yes
-528,South Carolina,State Senator,35.0,Joseph Thomas McElveen III,DEM,2016,2020,2,Yes,Yes,Yes
-529,South Carolina,State Senator,35.0,Joseph Thomas McElveen III,DEM,2012,2016,1,No,Yes,Yes
-530,South Carolina,State Senator,36.0,Kevin Johnson,DEM,2012,2016,1,No,Yes,Yes
-531,South Carolina,State Senator,36.0,Kevin Johnson,DEM,2016,2020,2,No,Yes,Yes
-532,South Carolina,State Senator,36.0,Kevin Johnson,DEM,2012,2016,1,No,Yes,Yes
-533,South Carolina,State Senator,37.0,Larry Grooms,REP,2012,2016,4,Yes,Yes,Yes
-534,South Carolina,State Senator,37.0,Larry Grooms,REP,2016,2020,5,Yes,Yes,Yes
-535,South Carolina,State Senator,37.0,Larry Grooms,REP,2012,2016,4,Yes,Yes,Yes
-536,South Carolina,State Senator,38.0,Sean Bennett,REP,2012,2016,1,Yes,Yes,Yes
-537,South Carolina,State Senator,38.0,Sean Bennett,REP,2016,2020,2,Yes,Yes,Yes
-538,South Carolina,State Senator,38.0,Sean Bennett,REP,2012,2016,1,Yes,Yes,Yes
-539,South Carolina,State Senator,39.0,John Matthews Jr.,DEM,2012,2016,4,Yes,Yes,Yes
-540,South Carolina,State Senator,39.0,John Matthews Jr.,DEM,2016,2020,5,Yes,Yes,Yes
-541,South Carolina,State Senator,39.0,John Matthews Jr.,DEM,2012,2016,4,Yes,Yes,Yes
-542,South Carolina,State Senator,4.0,William Odell,REP,2012,2016,4,Yes,Yes,Yes
-543,South Carolina,State Senator,4.0,Mike Gambrell,REP,2016,2020,1,No,Yes,Yes
-544,South Carolina,State Senator,4.0,William Odell,REP,2012,2016,4,Yes,Yes,Yes
-545,South Carolina,State Senator,40.0,Brad Bradley Hutto,DEM,2012,2016,4,Yes,Yes,Yes
-546,South Carolina,State Senator,40.0,Brad Bradley Hutto,DEM,2016,2020,5,Yes,Yes,Yes
-547,South Carolina,State Senator,40.0,Brad Bradley Hutto,DEM,2012,2016,4,Yes,Yes,Yes
-548,South Carolina,State Senator,41.0,Paul Thurmond,REP,2012,2016,1,No,Yes,Yes
-549,South Carolina,State Senator,41.0,Sandra Senn,REP,2016,2020,1,No,Yes,Yes
-550,South Carolina,State Senator,41.0,Paul Thurmond,REP,2012,2016,1,No,Yes,Yes
-551,South Carolina,State Senator,42.0,Robert Ford,DEM,2012,2016,4,Yes,Yes,Yes
-552,South Carolina,State Senator,42.0,Marlon Kimpson,DEM,2013,2016,1,No,Yes,Yes
-553,South Carolina,State Senator,42.0,Marlon Kimpson,DEM,2016,2020,2,Yes,Yes,Yes
-554,South Carolina,State Senator,42.0,Marlon Kimpson,DEM,2013,2016,1,No,Yes,Yes
-555,South Carolina,State Senator,42.0,Marlon Kimpson,DEM,2013,2016,1,No,Yes,Yes
-556,South Carolina,State Senator,42.0,Marlon Kimpson,DEM,2013,2016,1,No,Yes,Yes
-557,South Carolina,State Senator,42.0,Marlon Kimpson,DEM,2013,2016,1,No,Yes,Yes
-558,South Carolina,State Senator,42.0,Marlon Kimpson,DEM,2013,2016,1,No,Yes,Yes
-559,South Carolina,State Senator,42.0,Robert Ford,DEM,2012,2016,4,Yes,Yes,Yes
-560,South Carolina,State Senator,43.0,Chip Campsen III,REP,2012,2016,3,Yes,Yes,Yes
-561,South Carolina,State Senator,43.0,Chip Campsen III,REP,2016,2020,4,Yes,Yes,Yes
-562,South Carolina,State Senator,43.0,Chip Campsen III,REP,2012,2016,3,Yes,Yes,Yes
-563,South Carolina,State Senator,44.0,Paul Campbell Jr.,REP,2012,2016,2,Yes,Yes,Yes
-564,South Carolina,State Senator,44.0,Paul Campbell Jr.,REP,2016,2020,3,Yes,Yes,Yes
-565,South Carolina,State Senator,44.0,Paul Campbell Jr.,REP,2012,2016,2,Yes,Yes,Yes
-566,South Carolina,State Senator,45.0,Clementa Pinckney,DEM,2012,2016,4,No,Yes,Yes
-567,South Carolina,State Senator,45.0,Margie Bright Matthews,DEM,2015,2016,1,No,Yes,Yes
-568,South Carolina,State Senator,45.0,Margie Bright Matthews,DEM,2016,2020,2,Yes,Yes,Yes
-569,South Carolina,State Senator,45.0,Margie Bright Matthews,DEM,2015,2016,1,No,Yes,Yes
-570,South Carolina,State Senator,45.0,Margie Bright Matthews,DEM,2015,2016,1,No,Yes,Yes
-571,South Carolina,State Senator,45.0,Margie Bright Matthews,DEM,2015,2016,1,No,Yes,Yes
-572,South Carolina,State Senator,45.0,Margie Bright Matthews,DEM,2015,2016,1,No,Yes,Yes
-573,South Carolina,State Senator,45.0,Margie Bright Matthews,DEM,2015,2016,1,No,Yes,Yes
-574,South Carolina,State Senator,45.0,Margie Bright Matthews,DEM,2015,2016,1,No,Yes,Yes
-575,South Carolina,State Senator,45.0,Margie Bright Matthews,DEM,2015,2016,1,No,Yes,Yes
-576,South Carolina,State Senator,45.0,Margie Bright Matthews,DEM,2015,2016,1,No,Yes,Yes
-577,South Carolina,State Senator,45.0,Clementa Pinckney,DEM,2012,2016,4,No,Yes,Yes
-578,South Carolina,State Senator,46.0,Thomas Davis,REP,2012,2016,2,Yes,Yes,Yes
-579,South Carolina,State Senator,46.0,Thomas Davis,REP,2016,2020,3,Yes,Yes,Yes
-580,South Carolina,State Senator,46.0,Thomas Davis,REP,2012,2016,2,Yes,Yes,Yes
-581,South Carolina,State Senator,5.0,Tom Corbin,REP,2012,2016,1,Yes,Yes,Yes
-582,South Carolina,State Senator,5.0,Tom Corbin,REP,2016,2020,2,Yes,Yes,Yes
-583,South Carolina,State Senator,5.0,Tom Corbin,REP,2012,2016,1,Yes,Yes,Yes
-584,South Carolina,State Senator,6.0,Michael Fair,REP,2012,2016,4,No,Yes,Yes
-585,South Carolina,State Senator,6.0,William Timmons IV,REP,2016,2020,1,No,Yes,Yes
-586,South Carolina,State Senator,6.0,Michael Fair,REP,2012,2016,4,No,Yes,Yes
-587,South Carolina,State Senator,7.0,Karl Allen,DEM,2012,2016,1,No,Yes,Yes
-588,South Carolina,State Senator,7.0,Karl Allen,DEM,2016,2020,2,No,Yes,Yes
-589,South Carolina,State Senator,7.0,Karl Allen,DEM,2012,2016,1,No,Yes,Yes
-590,South Carolina,State Senator,8.0,Clarence Ross Turner III,REP,2012,2016,1,No,Yes,Yes
-591,South Carolina,State Senator,8.0,Clarence Ross Turner III,REP,2016,2020,2,Yes,Yes,Yes
-592,South Carolina,State Senator,8.0,Clarence Ross Turner III,REP,2012,2016,1,No,Yes,Yes
-593,South Carolina,State Senator,9.0,Danny Verdin,REP,2012,2016,4,Yes,Yes,Yes
-594,South Carolina,State Senator,9.0,Daniel Verdin III,REP,2016,2020,1,Yes,Yes,Yes
-595,South Carolina,State Senator,9.0,Danny Verdin,REP,2012,2016,4,Yes,Yes,Yes
-596,South Carolina,Superintendent Of Public Instruction,0.0,Molly Mitchell Spearman,REP,2014,2018,1,No,Yes,Yes
-597,South Carolina,Superintendent Of Public Instruction,0.0,Molly Mitchell Spearman,REP,2014,2018,1,No,Yes,Yes
-598,South Carolina,Superintendent Of Public Instruction,0.0,Molly Mitchell Spearman,REP,2014,2018,1,No,Yes,Yes
-599,South Carolina,Superintendent Of Public Instruction,0.0,Molly Mitchell Spearman,REP,2014,2018,1,No,Yes,Yes
-600,South Carolina,Superintendent Of Public Instruction,0.0,Molly Mitchell Spearman,REP,2014,2018,1,No,Yes,Yes
-601,South Carolina,Superintendent Of Public Instruction,0.0,Molly Mitchell Spearman,REP,2014,2018,1,No,Yes,Yes
-602,South Carolina,U.S. Representative,1.0,Timothy Eugene Scott,REP,2012,2014,2,No,No,No
-603,South Carolina,U.S. Representative,1.0,Marshall C. Sanford Jr.,REP,2013,2014,1,No,No,No
-604,South Carolina,U.S. Representative,1.0,Mark Sanford Jr.,REP,2018,2020,2,No,No,No
-605,South Carolina,U.S. Representative,1.0,Mark Sanford Jr.,REP,2018,2020,2,No,No,No
-606,South Carolina,U.S. Representative,1.0,Marshall C. Sanford Jr.,REP,2013,2014,1,No,No,No
-607,South Carolina,U.S. Representative,1.0,Marshall C. Sanford Jr.,REP,2013,2014,1,No,No,No
-608,South Carolina,U.S. Representative,1.0,Marshall C. Sanford Jr.,REP,2013,2014,1,No,No,No
-609,South Carolina,U.S. Representative,1.0,Marshall C. Sanford Jr.,REP,2013,2014,1,No,No,No
-610,South Carolina,U.S. Representative,1.0,Marshall C. Sanford Jr.,REP,2013,2014,1,No,No,No
-611,South Carolina,U.S. Representative,1.0,Timothy Eugene Scott,REP,2012,2014,2,No,No,No
-612,South Carolina,U.S. Representative,2.0,Joe Graves Wilson,REP,2012,2014,2,Yes,No,Yes
-613,South Carolina,U.S. Representative,2.0,Philip Black,DEM,2018,2020,0,No,No,Yes
-614,South Carolina,U.S. Representative,2.0,Joe Graves Wilson,REP,2012,2014,2,Yes,No,Yes
-615,South Carolina,U.S. Representative,3.0,Jeff Duncan,REP,2012,2014,2,No,No,Yes
-616,South Carolina,U.S. Representative,3.0,Hosea Cleveland,DEM,2018,2020,0,No,No,Yes
-617,South Carolina,U.S. Representative,3.0,Jeff Duncan,REP,2012,2014,2,No,No,Yes
-618,South Carolina,U.S. Representative,4.0,Trey Gowdy III,REP,2012,2014,2,No,No,No
-619,South Carolina,U.S. Representative,4.0,William Morin III,DEM,2018,2020,0,No,No,No
-620,South Carolina,U.S. Representative,4.0,William Morin III,DEM,2018,2020,0,No,No,No
-621,South Carolina,U.S. Representative,4.0,Trey Gowdy III,REP,2012,2014,2,No,No,No
-622,South Carolina,U.S. Representative,5.0,Mick Michael Mulvaney,REP,2012,2014,2,No,No,Yes
-623,South Carolina,U.S. Representative,5.0,Ralph W. Norman,REP,2017,2018,1,No,No,Yes
-624,South Carolina,U.S. Representative,5.0,Ralph W. Norman,REP,2017,2018,1,No,No,Yes
-625,South Carolina,U.S. Representative,5.0,Ralph W. Norman,REP,2017,2018,1,No,No,Yes
-626,South Carolina,U.S. Representative,5.0,Ralph W. Norman,REP,2017,2018,1,No,No,Yes
-627,South Carolina,U.S. Representative,5.0,Ralph W. Norman,REP,2017,2018,1,No,No,Yes
-628,South Carolina,U.S. Representative,5.0,Ralph W. Norman,REP,2017,2018,1,No,No,Yes
-629,South Carolina,U.S. Representative,5.0,Ralph W. Norman,REP,2017,2018,1,No,No,Yes
-630,South Carolina,U.S. Representative,5.0,Ralph W. Norman,REP,2017,2018,1,No,No,Yes
-631,South Carolina,U.S. Representative,5.0,Ralph W. Norman,REP,2017,2018,1,No,No,Yes
-632,South Carolina,U.S. Representative,5.0,Ralph W. Norman,REP,2017,2018,1,No,No,Yes
-633,South Carolina,U.S. Representative,5.0,Mick Michael Mulvaney,REP,2012,2014,2,No,No,Yes
-634,South Carolina,U.S. Representative,6.0,Jim Clyburn,DEM,2012,2014,2,No,Yes,Yes
-635,South Carolina,U.S. Representative,6.0,Jim Clyburn,DEM,2016,2018,4,No,Yes,Yes
-636,South Carolina,U.S. Representative,6.0,Jim Clyburn,DEM,2012,2014,2,No,Yes,Yes
-637,South Carolina,U.S. Representative,7.0,Tom Rice Jr.,REP,2012,2014,1,No,No,No
-638,South Carolina,U.S. Representative,7.0,Bruce Fischer,DEM,2018,2020,0,No,No,No
-639,South Carolina,U.S. Representative,7.0,Bruce Fischer,DEM,2018,2020,0,No,No,No
-640,South Carolina,U.S. Representative,7.0,Tom Rice Jr.,REP,2012,2014,1,No,No,No
-641,South Carolina,U.S. Senator,0.0,Lindsey Olin Graham,REP,2014,2020,1,No,Yes,Yes
-642,South Carolina,U.S. Senator,0.0,Timothy Eugene Scott,REP,2016,2022,1,No,Yes,Yes
-643,South Carolina,U.S. Senator,0.0,Timothy Eugene Scott,REP,2016,2022,1,No,Yes,Yes
-644,South Carolina,U.S. Senator,0.0,Timothy Eugene Scott,REP,2016,2022,1,No,Yes,Yes
-645,South Carolina,U.S. Senator,0.0,Timothy Eugene Scott,REP,2016,2022,1,No,Yes,Yes
-646,South Carolina,U.S. Senator,0.0,Timothy Eugene Scott,REP,2016,2022,1,No,Yes,Yes
-647,South Carolina,U.S. Senator,0.0,Lindsey Olin Graham,REP,2014,2020,1,No,Yes,Yes
-648,South Carolina,U.S. Senator,0.0,Timothy Eugene Scott,REP,2016,2022,1,No,Yes,Yes
-649,South Carolina,U.S. Senator,0.0,Lindsey Olin Graham,REP,2014,2020,1,No,Yes,Yes
-650,South Carolina,U.S. Senator,0.0,Timothy Eugene Scott,REP,2016,2022,1,No,Yes,Yes
-651,South Carolina,U.S. Senator,0.0,Lindsey Olin Graham,REP,2014,2020,1,No,Yes,Yes
-652,South Carolina,U.S. Senator,0.0,Timothy Eugene Scott,REP,2016,2022,1,No,Yes,Yes
-653,South Carolina,U.S. Senator,0.0,Lindsey Olin Graham,REP,2014,2020,1,No,Yes,Yes
-654,South Carolina,U.S. Senator,0.0,Timothy Eugene Scott,REP,2016,2022,1,No,Yes,Yes
-655,South Carolina,U.S. Senator,0.0,Lindsey Olin Graham,REP,2014,2020,1,No,Yes,Yes
+1,South Carolina,Comptroller,0.0,Richard Eckstrom,REP,2014,2018,4,No,Yes,Yes
+2,South Carolina,Governor,0.0,Nikki Haley,REP,2014,2018,2,No,No,No
+3,South Carolina,Secretary Of State,0.0,John Mark Hammond,REP,2014,2018,4,No,Yes,No
+4,South Carolina,State Representative,1.0,Bill Whitmire,REP,2012,2014,6,No,Yes,Yes
+5,South Carolina,State Representative,1.0,Bill Whitmire,REP,2016,2018,8,Yes,Yes,Yes
+6,South Carolina,State Representative,10.0,Joshua Putnam,REP,2012,2014,2,Yes,Yes,Yes
+7,South Carolina,State Representative,10.0,Joshua Putnam,REP,2016,2018,4,No,Yes,Yes
+8,South Carolina,State Representative,100.0,Edward Southard,REP,2012,2014,1,No,Yes,No
+9,South Carolina,State Representative,100.0,Sylleste Davis,REP,2016,2018,1,No,Yes,No
+10,South Carolina,State Representative,101.0,Ronnie Sabb,DEM,2012,2014,2,Yes,No,Yes
+11,South Carolina,State Representative,101.0,Cezar McKnight,DEM,2016,2018,2,Yes,No,Yes
+12,South Carolina,State Representative,102.0,Joe Jefferson Jr.,DEM,2012,2014,5,No,Yes,Yes
+13,South Carolina,State Representative,102.0,Joe Jefferson Jr.,DEM,2016,2018,7,Yes,Yes,Yes
+14,South Carolina,State Representative,103.0,Carl Anderson,DEM,2012,2014,5,No,No,Yes
+15,South Carolina,State Representative,103.0,Carl Anderson,DEM,2016,2018,7,Yes,No,Yes
+16,South Carolina,State Representative,104.0,Tracy Edge,REP,2012,2014,7,No,Yes,No
+17,South Carolina,State Representative,104.0,Greg Duckworth,REP,2016,2018,2,Yes,Yes,No
+18,South Carolina,State Representative,105.0,Kevin Hardee,PETITIONING CANDIDATE,2012,2014,1,No,Yes,Yes
+19,South Carolina,State Representative,105.0,Kevin Hardee,REP,2016,2018,3,Yes,Yes,Yes
+20,South Carolina,State Representative,106.0,Nelson Hardwick,REP,2012,2014,5,Yes,Yes,Yes
+21,South Carolina,State Representative,106.0,Russell Fry,REP,2016,2018,2,Yes,Yes,Yes
+22,South Carolina,State Representative,107.0,Alan Clemmons,REP,2012,2014,6,Yes,Yes,Yes
+23,South Carolina,State Representative,107.0,Alan Clemmons,REP,2016,2018,8,Yes,Yes,Yes
+24,South Carolina,State Representative,108.0,Stephen Goldfinch Jr.,REP,2012,2014,1,Yes,Yes,Yes
+25,South Carolina,State Representative,108.0,Lee Hewitt,REP,2016,2018,1,Yes,Yes,Yes
+26,South Carolina,State Representative,109.0,David Mack III,DEM,2012,2014,7,Yes,Yes,Yes
+27,South Carolina,State Representative,109.0,David Mack III,DEM,2016,2018,9,Yes,Yes,Yes
+28,South Carolina,State Representative,11.0,Craig Gagnon,REP,2012,2014,1,No,Yes,No
+29,South Carolina,State Representative,11.0,Craig Gagnon,REP,2016,2018,3,Yes,Yes,No
+30,South Carolina,State Representative,110.0,Chip Bancroft Limehouse III,REP,2012,2014,7,Yes,Yes,No
+31,South Carolina,State Representative,110.0,William Cogswell Jr.,REP,2016,2018,1,No,Yes,No
+32,South Carolina,State Representative,111.0,Wendell Gilliard,DEM,2012,2014,3,Yes,Yes,Yes
+33,South Carolina,State Representative,111.0,Wendell Gilliard,DEM,2016,2018,5,Yes,Yes,Yes
+34,South Carolina,State Representative,112.0,Mike Michael Sottile,REP,2012,2014,3,Yes,Yes,No
+35,South Carolina,State Representative,112.0,Mike Michael Sottile,REP,2016,2018,5,Yes,Yes,No
+36,South Carolina,State Representative,113.0,Jackson Seth Whipper,DEM,2012,2014,6,Yes,Yes,Yes
+37,South Carolina,State Representative,113.0,Jackson Seth Whipper,DEM,2016,2018,8,Yes,Yes,Yes
+38,South Carolina,State Representative,114.0,Bobby Harrell Jr.,REP,2012,2014,7,No,Yes,Yes
+39,South Carolina,State Representative,114.0,Lin Bennett,REP,2016,2018,1,No,Yes,Yes
+40,South Carolina,State Representative,115.0,Peter McCoy,REP,2012,2014,2,No,Yes,Yes
+41,South Carolina,State Representative,115.0,Peter McCoy,REP,2016,2018,4,Yes,Yes,Yes
+42,South Carolina,State Representative,116.0,Robert Brown,DEM,2012,2014,7,Yes,Yes,No
+43,South Carolina,State Representative,116.0,Robert Brown,DEM,2016,2018,9,No,Yes,No
+44,South Carolina,State Representative,117.0,Bill Crosby,REP,2012,2014,2,Yes,Yes,No
+45,South Carolina,State Representative,117.0,Bill Crosby,REP,2016,2018,4,Yes,Yes,No
+46,South Carolina,State Representative,118.0,Bill Herbkersman,REP,2012,2014,6,Yes,Yes,Yes
+47,South Carolina,State Representative,118.0,Bill Herbkersman,REP,2016,2018,8,No,Yes,Yes
+48,South Carolina,State Representative,119.0,Leon Stavrinakis,DEM,2012,2014,4,Yes,Yes,Yes
+49,South Carolina,State Representative,119.0,Leon Stavrinakis,DEM,2016,2018,6,No,Yes,Yes
+50,South Carolina,State Representative,12.0,Anne Parks,DEM,2012,2014,7,Yes,Yes,Yes
+51,South Carolina,State Representative,12.0,Julia Parks,DEM,2016,2018,1,No,Yes,Yes
+52,South Carolina,State Representative,120.0,Weston Newton,REP,2012,2014,1,Yes,No,Yes
+53,South Carolina,State Representative,120.0,Weston Newton,REP,2016,2018,3,Yes,No,Yes
+54,South Carolina,State Representative,121.0,Ken Hodges,DEM,2012,2014,4,Yes,Yes,Yes
+55,South Carolina,State Representative,121.0,Michael Rivers Sr.,DEM,2016,2018,1,No,Yes,Yes
+56,South Carolina,State Representative,122.0,Bill Bowers,DEM,2012,2014,1,Yes,No,Yes
+57,South Carolina,State Representative,122.0,Bill Bowers,DEM,2016,2018,3,No,No,Yes
+58,South Carolina,State Representative,123.0,Andy Patrick,REP,2012,2014,2,Yes,Yes,No
+59,South Carolina,State Representative,123.0,Jeff Bradley,REP,2016,2018,2,Yes,Yes,No
+60,South Carolina,State Representative,124.0,Shannon Erickson,REP,2012,2014,3,Yes,Yes,Yes
+61,South Carolina,State Representative,124.0,Shannon Erickson,REP,2016,2018,5,No,Yes,Yes
+62,South Carolina,State Representative,13.0,Robert Shannon Riley,REP,2012,2014,1,No,Yes,Yes
+63,South Carolina,State Representative,13.0,John McCravy,REP,2016,2018,1,No,Yes,Yes
+64,South Carolina,State Representative,14.0,Mike Pitts,REP,2012,2014,6,No,Yes,Yes
+65,South Carolina,State Representative,14.0,Mike Pitts,REP,2016,2018,8,Yes,Yes,Yes
+66,South Carolina,State Representative,15.0,Samuel Rivers Jr.,PETITIONING CANDIDATE,2012,2014,1,No,Yes,No
+67,South Carolina,State Representative,15.0,Samuel Rivers Jr.,REP,2016,2018,3,No,Yes,No
+68,South Carolina,State Representative,16.0,Mark Willis,REP,2012,2014,3,Yes,Yes,Yes
+69,South Carolina,State Representative,16.0,Mark Willis,REP,2016,2018,5,No,Yes,Yes
+70,South Carolina,State Representative,17.0,Tom Corbin,REP,2012,2014,2,Yes,Yes,No
+71,South Carolina,State Representative,17.0,Mike Mikell Burns,REP,2016,2018,2,Yes,Yes,No
+72,South Carolina,State Representative,18.0,Tommy Stringer,REP,2012,2014,3,Yes,Yes,No
+73,South Carolina,State Representative,18.0,Tommy Stringer,REP,2016,2018,5,Yes,Yes,No
+74,South Carolina,State Representative,19.0,Dwight Loftis,REP,2012,2014,7,Yes,No,Yes
+75,South Carolina,State Representative,19.0,Dwight Loftis,REP,2016,2018,9,Yes,No,Yes
+76,South Carolina,State Representative,2.0,Bill Sandifer III,REP,2012,2014,7,No,Yes,Yes
+77,South Carolina,State Representative,2.0,Bill Sandifer III,REP,2016,2018,9,Yes,Yes,Yes
+78,South Carolina,State Representative,20.0,Dan Hamilton,REP,2012,2014,3,No,Yes,No
+79,South Carolina,State Representative,20.0,Dan Hamilton,REP,2016,2018,5,Yes,Yes,No
+80,South Carolina,State Representative,21.0,Phyllis Henderson,REP,2012,2014,1,Yes,Yes,No
+81,South Carolina,State Representative,21.0,Phyllis Henderson,REP,2016,2018,3,Yes,Yes,No
+82,South Carolina,State Representative,22.0,Wendy Nanney,REP,2012,2014,3,No,Yes,No
+83,South Carolina,State Representative,22.0,Jason Elliott,REP,2016,2018,1,Yes,Yes,No
+84,South Carolina,State Representative,23.0,Chandra Dillard,DEM,2012,2014,3,Yes,Yes,Yes
+85,South Carolina,State Representative,23.0,Chandra Dillard,DEM,2016,2018,5,Yes,Yes,Yes
+86,South Carolina,State Representative,24.0,Bruce Bannister,REP,2012,2014,4,No,Yes,Yes
+87,South Carolina,State Representative,24.0,Bruce Bannister,REP,2016,2018,6,Yes,Yes,Yes
+88,South Carolina,State Representative,25.0,Leola Robinson-Simpson,DEM,2012,2014,1,Yes,No,Yes
+89,South Carolina,State Representative,25.0,Leola Robinson-Simpson,DEM,2016,2018,3,No,No,Yes
+90,South Carolina,State Representative,26.0,Raye Felder,PETITIONING CANDIDATE,2012,2014,1,No,Yes,Yes
+91,South Carolina,State Representative,26.0,Raye Felder,REP,2016,2018,3,No,Yes,Yes
+92,South Carolina,State Representative,27.0,Garry Smith,REP,2012,2014,5,No,Yes,No
+93,South Carolina,State Representative,27.0,Garry Smith,REP,2016,2018,7,Yes,Yes,No
+94,South Carolina,State Representative,28.0,Eric Bedingfield,REP,2012,2014,4,Yes,Yes,No
+95,South Carolina,State Representative,28.0,Eric Bedingfield,REP,2016,2018,6,Yes,Yes,No
+96,South Carolina,State Representative,29.0,Dennis Carroll Moss,REP,2012,2014,4,Yes,Yes,Yes
+97,South Carolina,State Representative,29.0,Dennis Carroll Moss,REP,2016,2018,6,Yes,Yes,Yes
+98,South Carolina,State Representative,3.0,R Skelton,REP,2012,2014,6,No,Yes,Yes
+99,South Carolina,State Representative,3.0,Gary Clary,REP,2016,2018,2,No,Yes,Yes
+100,South Carolina,State Representative,30.0,Steve Stephen Moss,REP,2012,2014,2,Yes,Yes,Yes
+101,South Carolina,State Representative,30.0,Steve Stephen Moss,REP,2016,2018,4,Yes,Yes,Yes
+102,South Carolina,State Representative,31.0,Harold Mitchell Jr.,DEM,2012,2014,4,Yes,Yes,Yes
+103,South Carolina,State Representative,31.0,Harold Mitchell Jr.,DEM,2016,2018,6,No,Yes,Yes
+104,South Carolina,State Representative,32.0,Joseph Derham Cole Jr.,REP,2012,2014,3,Yes,Yes,No
+105,South Carolina,State Representative,32.0,Joseph Derham Cole Jr.,REP,2016,2018,5,Yes,Yes,No
+106,South Carolina,State Representative,33.0,Eddie Tallon,REP,2012,2014,2,Yes,Yes,No
+107,South Carolina,State Representative,33.0,Eddie Tallon,REP,2016,2018,4,Yes,Yes,No
+108,South Carolina,State Representative,34.0,Mike Michael Forrester,REP,2012,2014,3,No,Yes,Yes
+109,South Carolina,State Representative,34.0,Mike Michael Forrester,REP,2016,2018,5,No,Yes,Yes
+110,South Carolina,State Representative,35.0,Bill Chumley,REP,2012,2014,2,Yes,Yes,Yes
+111,South Carolina,State Representative,35.0,Bill Chumley,REP,2016,2018,4,Yes,Yes,Yes
+112,South Carolina,State Representative,36.0,Merita Ann Allison,REP,2012,2014,3,No,Yes,Yes
+113,South Carolina,State Representative,36.0,Merita Ann Allison,REP,2016,2018,5,Yes,Yes,Yes
+114,South Carolina,State Representative,37.0,Donna Hicks Wood,REP,2012,2014,1,Yes,Yes,No
+115,South Carolina,State Representative,37.0,Steven Long,REP,2016,2018,1,No,Yes,No
+116,South Carolina,State Representative,38.0,Doug Douglas Brannon,REP,2012,2014,2,Yes,Yes,No
+117,South Carolina,State Representative,38.0,Roy Josiah Magnuson,REP,2016,2018,1,Yes,Yes,No
+118,South Carolina,State Representative,39.0,Ralph Shealy Kennedy,REP,2012,2014,1,No,Yes,Yes
+119,South Carolina,State Representative,39.0,Cal Forrest Jr.,REP,2016,2018,1,No,Yes,Yes
+120,South Carolina,State Representative,4.0,Davey Hiott,REP,2012,2014,5,Yes,Yes,No
+121,South Carolina,State Representative,4.0,Davey Hiott,REP,2016,2018,7,No,Yes,No
+122,South Carolina,State Representative,40.0,Walt McLeod,DEM,2012,2014,7,Yes,Yes,Yes
+123,South Carolina,State Representative,40.0,Rick Martin Jr.,REP,2016,2018,1,No,Yes,Yes
+124,South Carolina,State Representative,41.0,Marygail Douglas,DEM,2012,2014,1,No,No,Yes
+125,South Carolina,State Representative,41.0,Marygail Douglas,DEM,2016,2018,3,Yes,No,Yes
+126,South Carolina,State Representative,42.0,Mike Anthony,DEM,2012,2014,6,No,Yes,No
+127,South Carolina,State Representative,42.0,Mike Anthony,DEM,2016,2018,8,No,Yes,No
+128,South Carolina,State Representative,43.0,Greg Gregory Delleney Jr.,REP,2012,2014,7,Yes,Yes,No
+129,South Carolina,State Representative,43.0,Greg Gregory Delleney Jr.,REP,2016,2018,9,Yes,Yes,No
+130,South Carolina,State Representative,44.0,Mandy Powers Norrell,DEM,2012,2014,1,No,Yes,Yes
+131,South Carolina,State Representative,44.0,Mandy Powers Norrell,DEM,2016,2018,3,Yes,Yes,Yes
+132,South Carolina,State Representative,45.0,Deborah Long,REP,2012,2014,3,Yes,Yes,Yes
+133,South Carolina,State Representative,45.0,Brandon Newton,REP,2016,2018,1,No,Yes,Yes
+134,South Carolina,State Representative,46.0,Gary Simrill,REP,2012,2014,7,Yes,Yes,Yes
+135,South Carolina,State Representative,46.0,Gary Simrill,REP,2016,2018,9,Yes,Yes,Yes
+136,South Carolina,State Representative,47.0,Tommy Pope,REP,2012,2014,2,Yes,Yes,Yes
+137,South Carolina,State Representative,47.0,Tommy Pope,REP,2016,2018,4,No,Yes,Yes
+138,South Carolina,State Representative,48.0,Ralph Norman,REP,2012,2014,2,Yes,Yes,Yes
+139,South Carolina,State Representative,48.0,Ralph Norman,REP,2016,2018,4,Yes,Yes,Yes
+140,South Carolina,State Representative,49.0,John King,DEM,2012,2014,3,Yes,Yes,Yes
+141,South Carolina,State Representative,49.0,John King,DEM,2016,2018,5,Yes,Yes,Yes
+142,South Carolina,State Representative,5.0,Phillip Owens,REP,2012,2014,6,Yes,Yes,No
+143,South Carolina,State Representative,5.0,Neal Anthony Collins,REP,2016,2018,2,Yes,Yes,No
+144,South Carolina,State Representative,50.0,Grady Brown,DEM,2012,2014,7,Yes,Yes,Yes
+145,South Carolina,State Representative,50.0,William Walter Wheeler III,DEM,2016,2018,1,No,Yes,Yes
+146,South Carolina,State Representative,51.0,David Weeks,DEM,2012,2014,7,Yes,Yes,Yes
+147,South Carolina,State Representative,51.0,David Weeks,DEM,2016,2018,9,Yes,Yes,Yes
+148,South Carolina,State Representative,52.0,Laurie Slade Funderburk,DEM,2012,2014,5,No,Yes,Yes
+149,South Carolina,State Representative,52.0,Laurie Slade Funderburk,DEM,2016,2018,7,Yes,Yes,Yes
+150,South Carolina,State Representative,53.0,Ted Martin Vick,DEM,2012,2014,5,No,Yes,Yes
+151,South Carolina,State Representative,53.0,Richie Yow,REP,2016,2018,2,No,Yes,Yes
+152,South Carolina,State Representative,54.0,Elizabeth Munnerlyn,DEM,2012,2014,2,Yes,Yes,Yes
+153,South Carolina,State Representative,54.0,Pat Moore Henegan,DEM,2016,2018,2,No,Yes,Yes
+154,South Carolina,State Representative,55.0,Jackie Hayes,DEM,2012,2014,7,Yes,No,Yes
+155,South Carolina,State Representative,55.0,Jackie Hayes,DEM,2016,2018,9,Yes,No,Yes
+156,South Carolina,State Representative,56.0,Mike Ryhal,PETITIONING CANDIDATE,2012,2014,1,No,Yes,No
+157,South Carolina,State Representative,56.0,Mike Ryhal,REP,2016,2018,3,Yes,Yes,No
+158,South Carolina,State Representative,57.0,Wayne George,DEM,2012,2014,1,No,Yes,Yes
+159,South Carolina,State Representative,57.0,Lucas Atkinson,DEM,2016,2018,1,No,Yes,Yes
+160,South Carolina,State Representative,58.0,Liston Barfield,REP,2012,2014,7,No,Yes,Yes
+161,South Carolina,State Representative,58.0,Jeff Johnson,REP,2016,2018,2,No,Yes,Yes
+162,South Carolina,State Representative,59.0,Terry Alexander,DEM,2012,2014,4,Yes,Yes,Yes
+163,South Carolina,State Representative,59.0,Terry Alexander,DEM,2016,2018,6,Yes,Yes,Yes
+164,South Carolina,State Representative,6.0,Brian Keith White,REP,2012,2014,7,Yes,Yes,No
+165,South Carolina,State Representative,6.0,Brian Keith White,REP,2016,2018,9,Yes,Yes,No
+166,South Carolina,State Representative,60.0,Phillip Lowe,REP,2012,2014,4,Yes,Yes,Yes
+167,South Carolina,State Representative,60.0,Phillip Lowe,REP,2016,2018,6,Yes,Yes,Yes
+168,South Carolina,State Representative,61.0,Lester Branham Jr.,DEM,2012,2014,6,Yes,Yes,Yes
+169,South Carolina,State Representative,61.0,Roger Kirby,DEM,2016,2018,2,Yes,Yes,Yes
+170,South Carolina,State Representative,62.0,Robert Williams,DEM,2012,2014,4,No,No,Yes
+171,South Carolina,State Representative,62.0,Robert Williams,DEM,2016,2018,6,Yes,No,Yes
+172,South Carolina,State Representative,63.0,Kris Crawford,REP,2012,2014,4,No,Yes,Yes
+173,South Carolina,State Representative,63.0,Jay Jordan Jr.,REP,2016,2018,1,Yes,Yes,Yes
+174,South Carolina,State Representative,64.0,Robert Ridgeway III,PETITIONING CANDIDATE,2012,2014,1,No,No,Yes
+175,South Carolina,State Representative,64.0,Robert Ridgeway III,DEM,2016,2018,3,Yes,No,Yes
+176,South Carolina,State Representative,65.0,Jay Lucas,REP,2012,2014,7,Yes,Yes,Yes
+177,South Carolina,State Representative,65.0,Jay Lucas,REP,2016,2018,9,Yes,Yes,Yes
+178,South Carolina,State Representative,66.0,Gilda Cobb-Hunter,DEM,2012,2014,7,Yes,Yes,Yes
+179,South Carolina,State Representative,66.0,Gilda Cobb-Hunter,DEM,2016,2018,9,Yes,Yes,Yes
+180,South Carolina,State Representative,67.0,George Murrell Smith Jr.,REP,2012,2014,6,Yes,Yes,Yes
+181,South Carolina,State Representative,67.0,George Murrell Smith Jr.,REP,2016,2018,8,Yes,Yes,Yes
+182,South Carolina,State Representative,68.0,Heather Ammons Crawford,REP,2012,2014,1,No,Yes,Yes
+183,South Carolina,State Representative,68.0,Heather Ammons Crawford,REP,2016,2018,3,Yes,Yes,Yes
+184,South Carolina,State Representative,69.0,Rick Quinn Jr.,REP,2012,2014,2,No,Yes,No
+185,South Carolina,State Representative,69.0,Rick Quinn Jr.,REP,2016,2018,4,Yes,Yes,No
+186,South Carolina,State Representative,7.0,Mike Gambrell,REP,2012,2014,4,Yes,Yes,No
+187,South Carolina,State Representative,7.0,Jay West IV,REP,2016,2018,1,No,Yes,No
+188,South Carolina,State Representative,70.0,Joseph Neal,DEM,2012,2014,7,Yes,Yes,Yes
+189,South Carolina,State Representative,70.0,Joseph Neal,DEM,2016,2018,9,Yes,Yes,Yes
+190,South Carolina,State Representative,71.0,Nathan Ballentine,REP,2012,2014,5,Yes,Yes,No
+191,South Carolina,State Representative,71.0,Nathan Ballentine,REP,2016,2018,7,Yes,Yes,No
+192,South Carolina,State Representative,72.0,James Smith Jr.,DEM,2012,2014,2,Yes,Yes,Yes
+193,South Carolina,State Representative,72.0,James Smith Jr.,DEM,2016,2018,4,Yes,Yes,Yes
+194,South Carolina,State Representative,73.0,Chris Hart,DEM,2012,2014,4,Yes,Yes,Yes
+195,South Carolina,State Representative,73.0,Chris Hart,DEM,2016,2018,6,Yes,Yes,Yes
+196,South Carolina,State Representative,74.0,James Todd Rutherford,DEM,2012,2014,7,Yes,Yes,Yes
+197,South Carolina,State Representative,74.0,James Todd Rutherford,DEM,2016,2018,9,Yes,Yes,Yes
+198,South Carolina,State Representative,75.0,Kirkman Finlay III,REP,2012,2014,1,No,Yes,Yes
+199,South Carolina,State Representative,75.0,Kirkman Finlay III,REP,2016,2018,3,No,Yes,Yes
+200,South Carolina,State Representative,76.0,Leon Howard,DEM,2012,2014,7,No,No,Yes
+201,South Carolina,State Representative,76.0,Leon Howard,DEM,2016,2018,9,Yes,No,Yes
+202,South Carolina,State Representative,77.0,Joe McEachern,DEM,2012,2014,3,Yes,No,Yes
+203,South Carolina,State Representative,77.0,Joe McEachern,DEM,2016,2018,5,Yes,No,Yes
+204,South Carolina,State Representative,78.0,Beth Bernstein,DEM,2012,2014,1,No,Yes,Yes
+205,South Carolina,State Representative,78.0,Beth Bernstein,DEM,2016,2018,3,Yes,Yes,Yes
+206,South Carolina,State Representative,79.0,Mia McLeod,DEM,2012,2014,2,Yes,Yes,Yes
+207,South Carolina,State Representative,79.0,"T Thigpen, IV",DEM,2016,2018,1,No,Yes,Yes
+208,South Carolina,State Representative,8.0,Don Bowen,REP,2012,2014,4,No,Yes,No
+209,South Carolina,State Representative,8.0,Jonathon Hill,REP,2016,2018,2,No,Yes,No
+210,South Carolina,State Representative,80.0,Jimmy Bales,DEM,2012,2014,7,Yes,Yes,Yes
+211,South Carolina,State Representative,80.0,Jimmy Bales,DEM,2016,2018,9,Yes,Yes,Yes
+212,South Carolina,State Representative,81.0,Don Wells,REP,2012,2014,1,No,Yes,Yes
+213,South Carolina,State Representative,81.0,Bart Blackwell,REP,2016,2018,1,No,Yes,Yes
+214,South Carolina,State Representative,82.0,William Clyburn,DEM,2012,2014,7,Yes,Yes,Yes
+215,South Carolina,State Representative,82.0,William Clyburn,DEM,2016,2018,9,Yes,Yes,Yes
+216,South Carolina,State Representative,83.0,Bill Hixon,REP,2012,2014,2,Yes,Yes,Yes
+217,South Carolina,State Representative,83.0,Bill Hixon,REP,2016,2018,4,Yes,Yes,Yes
+218,South Carolina,State Representative,84.0,James Roland Smith,REP,2012,2014,7,Yes,Yes,Yes
+219,South Carolina,State Representative,84.0,Chris Corley,REP,2016,2018,2,Yes,Yes,Yes
+220,South Carolina,State Representative,85.0,Chip Huggins Jr.,REP,2012,2014,7,Yes,Yes,Yes
+221,South Carolina,State Representative,85.0,Chip Huggins Jr.,REP,2016,2018,9,Yes,Yes,Yes
+222,South Carolina,State Representative,86.0,Bill Taylor,REP,2012,2014,2,Yes,Yes,Yes
+223,South Carolina,State Representative,86.0,Bill Taylor,REP,2016,2018,4,Yes,Yes,Yes
+224,South Carolina,State Representative,87.0,Todd Atwater,REP,2012,2014,2,Yes,Yes,No
+225,South Carolina,State Representative,87.0,Todd Atwater,REP,2016,2018,4,Yes,Yes,No
+226,South Carolina,State Representative,88.0,Mac Toole,REP,2012,2014,6,Yes,Yes,Yes
+227,South Carolina,State Representative,88.0,Mac Toole,REP,2016,2018,8,Yes,Yes,Yes
+228,South Carolina,State Representative,89.0,Kenny Bingham,REP,2012,2014,7,Yes,Yes,No
+229,South Carolina,State Representative,89.0,Micajah Caskey IV,REP,2016,2018,1,No,Yes,No
+230,South Carolina,State Representative,9.0,Anne Thayer,REP,2012,2014,2,Yes,Yes,Yes
+231,South Carolina,State Representative,9.0,Anne Thayer,REP,2016,2018,4,No,Yes,Yes
+232,South Carolina,State Representative,90.0,Bakari Sellers,DEM,2012,2014,4,No,Yes,Yes
+233,South Carolina,State Representative,90.0,Justin Bamberg,DEM,2016,2018,2,No,Yes,Yes
+234,South Carolina,State Representative,91.0,Lonnie Hosey,DEM,2012,2014,7,No,Yes,Yes
+235,South Carolina,State Representative,91.0,Lonnie Hosey,DEM,2016,2018,9,Yes,Yes,Yes
+236,South Carolina,State Representative,92.0,Joe Daning,REP,2012,2014,3,Yes,Yes,Yes
+237,South Carolina,State Representative,92.0,Joe Daning,REP,2016,2018,5,Yes,Yes,Yes
+238,South Carolina,State Representative,93.0,Harry Ott Jr.,DEM,2012,2014,7,Yes,Yes,Yes
+239,South Carolina,State Representative,93.0,Russell Ott,DEM,2016,2018,2,Yes,Yes,Yes
+240,South Carolina,State Representative,94.0,Jenny Horne,REP,2012,2014,3,Yes,Yes,No
+241,South Carolina,State Representative,94.0,Katie Arrington,REP,2016,2018,1,No,Yes,No
+242,South Carolina,State Representative,95.0,Jerry Govan Jr.,DEM,2012,2014,7,Yes,No,Yes
+243,South Carolina,State Representative,95.0,Jerry Govan Jr.,DEM,2016,2018,9,Yes,No,Yes
+244,South Carolina,State Representative,96.0,Kit Spires,REP,2012,2014,4,Yes,Yes,No
+245,South Carolina,State Representative,96.0,Kit Spires,REP,2016,2018,6,No,Yes,No
+246,South Carolina,State Representative,97.0,Patsy Knight,DEM,2012,2014,4,No,Yes,No
+247,South Carolina,State Representative,97.0,Patsy Knight,DEM,2016,2018,6,Yes,Yes,No
+248,South Carolina,State Representative,98.0,Chris Murphy,REP,2012,2014,2,Yes,Yes,No
+249,South Carolina,State Representative,98.0,Chris Murphy,REP,2016,2018,4,Yes,Yes,No
+250,South Carolina,State Representative,99.0,Jim Merrill,REP,2012,2014,7,Yes,No,No
+251,South Carolina,State Representative,99.0,Jim Merrill,REP,2016,2018,9,Yes,No,No
+252,South Carolina,State Senator,1.0,Thomas Alexander,REP,2012,2016,4,Yes,Yes,Yes
+253,South Carolina,State Senator,1.0,Thomas Alexander,REP,2016,2020,5,Yes,Yes,Yes
+254,South Carolina,State Senator,10.0,Floyd Nicholson,DEM,2012,2016,2,No,Yes,Yes
+255,South Carolina,State Senator,10.0,Floyd Nicholson,DEM,2016,2020,3,No,Yes,Yes
+256,South Carolina,State Senator,11.0,Glenn Reese,DEM,2012,2016,4,No,Yes,Yes
+257,South Carolina,State Senator,11.0,Glenn Reese,DEM,2016,2020,5,No,Yes,Yes
+258,South Carolina,State Senator,12.0,Marvin Lee Bright III,REP,2012,2016,2,No,Yes,Yes
+259,South Carolina,State Senator,12.0,Scott Talley,REP,2016,2020,1,No,Yes,Yes
+260,South Carolina,State Senator,13.0,Shane Martin,REP,2012,2016,2,Yes,Yes,Yes
+261,South Carolina,State Senator,13.0,Shane Martin,REP,2016,2020,3,Yes,Yes,Yes
+262,South Carolina,State Senator,14.0,Harvey Smith Peeler Jr.,REP,2012,2016,4,Yes,Yes,Yes
+263,South Carolina,State Senator,14.0,Harvey Smith Peeler Jr.,REP,2016,2020,5,Yes,Yes,Yes
+264,South Carolina,State Senator,15.0,Wes Wesley Hayes Jr.,REP,2012,2016,4,No,Yes,Yes
+265,South Carolina,State Senator,15.0,David Wes Climer,REP,2016,2020,1,Yes,Yes,Yes
+366,South Carolina,State Senator,16,Chauncey Klugh Gregory,REP,2011,2012,1,No,Yes,Yes
+266,South Carolina,State Senator,16.0,Greg Klugh Gregory,REP,2012,2016,1,Yes,Yes,Yes
+267,South Carolina,State Senator,16.0,Greg Klugh Gregory,REP,2016,2020,2,Yes,Yes,Yes
+268,South Carolina,State Senator,17.0,Creighton Coleman,DEM,2012,2016,2,No,Yes,Yes
+269,South Carolina,State Senator,17.0,Michael Fanning,DEM,2016,2020,1,No,Yes,Yes
+270,South Carolina,State Senator,18.0,Ronnie Cromer,REP,2012,2016,3,Yes,Yes,Yes
+271,South Carolina,State Senator,18.0,Ronnie Cromer,REP,2016,2020,4,Yes,Yes,Yes
+272,South Carolina,State Senator,19.0,John Scott Jr.,DEM,2012,2016,2,Yes,Yes,Yes
+273,South Carolina,State Senator,19.0,John Scott Jr.,DEM,2016,2020,3,Yes,Yes,Yes
+274,South Carolina,State Senator,2.0,Larry Martin,REP,2012,2016,4,No,Yes,Yes
+275,South Carolina,State Senator,2.0,Rex Fontaine Rice,REP,2016,2020,1,No,Yes,Yes
+276,South Carolina,State Senator,20.0,John Courson,REP,2012,2016,4,No,Yes,Yes
+277,South Carolina,State Senator,20.0,John Courson,REP,2016,2020,5,No,Yes,Yes
+278,South Carolina,State Senator,21.0,Darrell Jackson,DEM,2012,2016,4,Yes,Yes,Yes
+279,South Carolina,State Senator,21.0,Darrell Jackson,DEM,2016,2020,5,Yes,Yes,Yes
+280,South Carolina,State Senator,22.0,Joel Lourie,DEM,2012,2016,3,Yes,Yes,Yes
+281,South Carolina,State Senator,22.0,Maymia McLeod,DEM,2016,2020,1,No,Yes,Yes
+282,South Carolina,State Senator,23.0,Katrina Shealy,PETITIONING CANDIDATE,2012,2016,1,No,Yes,Yes
+283,South Carolina,State Senator,23.0,Katrina Shealy,REP,2016,2020,2,Yes,Yes,Yes
+284,South Carolina,State Senator,24.0,Tom Young,REP,2012,2016,1,Yes,Yes,Yes
+285,South Carolina,State Senator,24.0,Tom Young,REP,2016,2020,2,Yes,Yes,Yes
+286,South Carolina,State Senator,25.0,Anthony Shane Massey,REP,2012,2016,2,Yes,Yes,Yes
+287,South Carolina,State Senator,25.0,Anthony Shane Massey,REP,2016,2020,3,Yes,Yes,Yes
+288,South Carolina,State Senator,26.0,Nikki Giles Setzler,DEM,2012,2016,4,No,Yes,Yes
+289,South Carolina,State Senator,26.0,Nikki Giles Setzler,DEM,2016,2020,5,No,Yes,Yes
+290,South Carolina,State Senator,27.0,Vincent Sheheen,DEM,2012,2016,3,Yes,Yes,Yes
+291,South Carolina,State Senator,27.0,Vincent Sheheen,DEM,2016,2020,4,Yes,Yes,Yes
+292,South Carolina,State Senator,28.0,Greg Gregory Hembree,REP,2012,2016,1,No,Yes,Yes
+293,South Carolina,State Senator,28.0,Greg Gregory Hembree,REP,2016,2020,2,Yes,Yes,Yes
+294,South Carolina,State Senator,29.0,Gerald Malloy,DEM,2012,2016,3,Yes,Yes,Yes
+295,South Carolina,State Senator,29.0,Gerald Malloy,DEM,2016,2020,4,Yes,Yes,Yes
+296,South Carolina,State Senator,3.0,Kevin Bryant,REP,2012,2016,2,Yes,Yes,Yes
+297,South Carolina,State Senator,3.0,Richard J. Cash,REP,2017,2020,1,No,Yes,Yes
+298,South Carolina,State Senator,3.0,Kevin Bryant,REP,2016,2020,3,Yes,Yes,Yes
+299,South Carolina,State Senator,30.0,Kent Williams,DEM,2012,2016,3,Yes,Yes,Yes
+300,South Carolina,State Senator,30.0,Kent Williams,DEM,2016,2020,4,Yes,Yes,Yes
+301,South Carolina,State Senator,31.0,Hugh Kenneth Leatherman Sr.,REP,2012,2016,4,Yes,Yes,Yes
+302,South Carolina,State Senator,31.0,Hugh Kenneth Leatherman Sr.,REP,2016,2020,5,Yes,Yes,Yes
+303,South Carolina,State Senator,32.0,Yancey McGill,DEM,2012,2016,4,Yes,Yes,Yes
+304,South Carolina,State Senator,32.0,Ronnie Sabb,DEM,2016,2020,2,Yes,Yes,Yes
+305,South Carolina,State Senator,33.0,Luke Rankin,REP,2012,2016,4,Yes,Yes,Yes
+306,South Carolina,State Senator,33.0,Luke Rankin,REP,2016,2020,5,Yes,Yes,Yes
+307,South Carolina,State Senator,34.0,Raymond Cleary III,REP,2012,2016,3,Yes,Yes,Yes
+308,South Carolina,State Senator,34.0,Stephen Goldfinch Jr.,REP,2016,2020,1,No,Yes,Yes
+309,South Carolina,State Senator,35.0,Joseph Thomas McElveen III,DEM,2012,2016,1,No,Yes,Yes
+310,South Carolina,State Senator,35.0,Joseph Thomas McElveen III,DEM,2016,2020,2,Yes,Yes,Yes
+311,South Carolina,State Senator,36.0,Kevin Johnson,DEM,2012,2016,1,No,Yes,Yes
+312,South Carolina,State Senator,36.0,Kevin Johnson,DEM,2016,2020,2,No,Yes,Yes
+313,South Carolina,State Senator,37.0,Larry Grooms,REP,2012,2016,4,Yes,Yes,Yes
+314,South Carolina,State Senator,37.0,Larry Grooms,REP,2016,2020,5,Yes,Yes,Yes
+315,South Carolina,State Senator,38.0,Sean Bennett,REP,2012,2016,1,Yes,Yes,Yes
+316,South Carolina,State Senator,38.0,Sean Bennett,REP,2016,2020,2,Yes,Yes,Yes
+317,South Carolina,State Senator,39.0,John Matthews Jr.,DEM,2012,2016,4,Yes,Yes,Yes
+318,South Carolina,State Senator,39.0,John Matthews Jr.,DEM,2016,2020,5,Yes,Yes,Yes
+319,South Carolina,State Senator,4.0,William Odell,REP,2012,2016,4,Yes,Yes,Yes
+320,South Carolina,State Senator,4.0,Mike Gambrell,REP,2016,2020,1,No,Yes,Yes
+321,South Carolina,State Senator,40.0,Brad Bradley Hutto,DEM,2012,2016,4,Yes,Yes,Yes
+322,South Carolina,State Senator,40.0,Brad Bradley Hutto,DEM,2016,2020,5,Yes,Yes,Yes
+323,South Carolina,State Senator,41.0,Paul Thurmond,REP,2012,2016,1,No,Yes,Yes
+324,South Carolina,State Senator,41.0,Sandra Senn,REP,2016,2020,1,No,Yes,Yes
+325,South Carolina,State Senator,42.0,Robert Ford,DEM,2012,2016,4,Yes,Yes,Yes
+326,South Carolina,State Senator,42.0,Marlon Kimpson,DEM,2013,2016,1,No,Yes,Yes
+327,South Carolina,State Senator,42.0,Marlon Kimpson,DEM,2016,2020,2,Yes,Yes,Yes
+328,South Carolina,State Senator,43.0,Chip Campsen III,REP,2012,2016,3,Yes,Yes,Yes
+329,South Carolina,State Senator,43.0,Chip Campsen III,REP,2016,2020,4,Yes,Yes,Yes
+330,South Carolina,State Senator,44.0,Paul Campbell Jr.,REP,2012,2016,2,Yes,Yes,Yes
+331,South Carolina,State Senator,44.0,Paul Campbell Jr.,REP,2016,2020,3,Yes,Yes,Yes
+332,South Carolina,State Senator,45.0,Clementa Pinckney,DEM,2012,2016,4,No,Yes,Yes
+333,South Carolina,State Senator,45.0,Margie Bright Matthews,DEM,2015,2016,1,No,Yes,Yes
+334,South Carolina,State Senator,45.0,Margie Bright Matthews,DEM,2016,2020,2,Yes,Yes,Yes
+335,South Carolina,State Senator,46.0,Thomas Davis,REP,2012,2016,2,Yes,Yes,Yes
+336,South Carolina,State Senator,46.0,Thomas Davis,REP,2016,2020,3,Yes,Yes,Yes
+337,South Carolina,State Senator,5.0,Tom Corbin,REP,2012,2016,1,Yes,Yes,Yes
+338,South Carolina,State Senator,5.0,Tom Corbin,REP,2016,2020,2,Yes,Yes,Yes
+339,South Carolina,State Senator,6.0,Michael Fair,REP,2012,2016,4,No,Yes,Yes
+340,South Carolina,State Senator,6.0,William Timmons IV,REP,2016,2020,1,No,Yes,Yes
+341,South Carolina,State Senator,7.0,Karl Allen,DEM,2012,2016,1,No,Yes,Yes
+342,South Carolina,State Senator,7.0,Karl Allen,DEM,2016,2020,2,No,Yes,Yes
+343,South Carolina,State Senator,8.0,Clarence Ross Turner III,REP,2012,2016,1,No,Yes,Yes
+344,South Carolina,State Senator,8.0,Clarence Ross Turner III,REP,2016,2020,2,Yes,Yes,Yes
+345,South Carolina,State Senator,9.0,Danny Verdin,REP,2012,2016,4,Yes,Yes,Yes
+346,South Carolina,State Senator,9.0,Daniel Verdin III,REP,2016,2020,1,Yes,Yes,Yes
+347,South Carolina,Superintendent Of Public Instruction,0.0,Molly Mitchell Spearman,REP,2014,2018,1,No,Yes,Yes
+348,South Carolina,U.S. Representative,1.0,Timothy Eugene Scott,REP,2012,2014,2,No,No,No
+349,South Carolina,U.S. Representative,1.0,Marshall C. Sanford Jr.,REP,2013,2014,1,No,No,No
+350,South Carolina,U.S. Representative,1.0,Mark Sanford Jr.,REP,2016,2018,2,No,No,No
+351,South Carolina,U.S. Representative,2.0,Joe Graves Wilson,REP,2012,2014,2,Yes,No,Yes
+352,South Carolina,U.S. Representative,2.0,Addison Wilson,REP,2016,2018,1,No,No,Yes
+353,South Carolina,U.S. Representative,3.0,Jeff Duncan,REP,2012,2014,2,No,No,Yes
+354,South Carolina,U.S. Representative,3.0,Jeff Duncan,REP,2016,2018,4,No,No,Yes
+355,South Carolina,U.S. Representative,4.0,Trey Gowdy III,REP,2012,2014,2,No,No,No
+356,South Carolina,U.S. Representative,4.0,Trey Gowdy III,REP,2016,2018,4,No,No,No
+357,South Carolina,U.S. Representative,5.0,Mick Michael Mulvaney,REP,2012,2014,2,No,No,Yes
+358,South Carolina,U.S. Representative,5.0,Ralph W. Norman,REP,2017,2018,1,No,No,Yes
+359,South Carolina,U.S. Representative,5.0,Mick Michael Mulvaney,REP,2016,2018,4,No,No,Yes
+360,South Carolina,U.S. Representative,6.0,Jim Clyburn,DEM,2012,2014,2,No,Yes,Yes
+361,South Carolina,U.S. Representative,6.0,Jim Clyburn,DEM,2016,2018,4,No,Yes,Yes
+362,South Carolina,U.S. Representative,7.0,Tom Rice Jr.,REP,2012,2014,1,No,No,No
+363,South Carolina,U.S. Representative,7.0,Tom Thompson Rice Jr.,REP,2016,2018,1,No,No,No
+364,South Carolina,U.S. Senator,0.0,Lindsey Olin Graham,REP,2014,2020,1,No,Yes,Yes
+365,South Carolina,U.S. Senator,0.0,Timothy Eugene Scott,REP,2016,2022,1,No,Yes,Yes
