@@ -193,6 +193,10 @@ function evaluatePredictionDescription(predictionDem, predictionRep) {
     return description;
 }
 
+function createCardNoElection(district) {
+
+}
+
 function createCard(matchup, appendLocation = ".main-section", isPopupCard = false) {
 
     actualCardNumber = numCards + 1;
@@ -606,7 +610,7 @@ function createTableRow(matchup, rowsList) {
     let tdc = "</td>";
 
     var row = document.createElement("tr");
-    let innerHTML = td + state + tdc + td + race + tdc + td + candidates + tdc + td + projectionChart + tdc + td + ratings + tdc + td + probabilities + tdc;
+    let innerHTML = td + race + tdc + td + candidates + tdc + td + projectionChart + tdc + td + ratings + tdc + td + probabilities + tdc;
     row.innerHTML = innerHTML;
     let html = "<tr>" + innerHTML + "</tr>";
 
@@ -618,6 +622,12 @@ function createTableRow(matchup, rowsList) {
             scroll = true;
         } else {
             scroll = false;
+        }
+
+        var column1Sorting = {"type": "num-html"};
+        if (currentStates.length != 1) {
+            console.log("only 1 state");
+            column1Sorting = {"type": "html-num"};
         }
 
         $("#all-races-table").append(html);
@@ -634,8 +644,7 @@ function createTableRow(matchup, rowsList) {
                 emptyTable:  "No races found"
             },
             columns: [
-                null,
-                null,
+                column1Sorting,
                 null,
                 {"searchable": false, "width": "250px"},
                 {"searchable": true, "width": "75px"},

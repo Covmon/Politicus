@@ -164,6 +164,7 @@ a:hover {
 }
 
 .header {
+    padding-top: 20px;
     text-align: center;
 }
 
@@ -191,6 +192,10 @@ a:hover {
     margin-bottom: 50px;
 }
 
+.overall-section p {
+    font-family: "Roboto";
+}
+
 #darkener {
     pointer-events: none;
     opacity: 0;
@@ -204,6 +209,34 @@ a:hover {
     transition-duration: 0.2s;
 }
 
+.total-percentages {
+    margin-left: 17.5vw;
+    width: 50vw;
+    display: flex;
+    justify-content: space-between;
+    align-content: flex-start;
+    margin-top: -20px;
+    margin-bottom: 30px;
+}
+
+.dem-percentages p, .rep-percentages p {
+    margin-top: -20px;
+}
+
+.big-p {
+    font-size: 18px;
+    margin-top: -30px;
+}
+
+.total-percentages h2 {
+    padding: none;
+    margin: none;
+}
+
+.big-h2 {
+    font-size: 40px;
+}
+
 #card-popup {
     text-align: center;
     position: fixed;
@@ -215,10 +248,10 @@ a:hover {
 .seat-square {
     display: inline-block;
     cursor: crosshair;
-    width: 15px;
-    height: 15px;
+    width: 14px;
+    height: 14px;
     border-radius: 2px;
-    border: 2px solid rgba(0, 0, 0, 0);
+    border: 2.5px solid rgba(0, 0, 0, 0);
     margin: 3px;
     font-family: "Roboto Mono";
     color: white !important;
@@ -226,7 +259,11 @@ a:hover {
 }
 
 .seat-square:hover {
-    border: 2px solid rgb(41, 41, 41);
+    border: 2.5px solid rgb(41, 41, 41);
+}
+
+.squares-section {
+    margin-bottom: 40px;
 }
 
 .squares {
@@ -239,6 +276,18 @@ a:hover {
 
 .squares-column {
     display: inline-block;
+}
+
+#even {
+    color: #A1A1A1;
+    margin-top: -6px;
+}
+
+#even-triangle {
+    margin-top: -5px;
+    width: 16px;
+    height: auto;
+
 }
 
 .main-section {
@@ -842,18 +891,42 @@ input:focus {
         border-radius: 0;
     }
 
+    .main-page {
+        width: 90vw;
+        margin-left: 5vw;
+    }
+
     .main-page-scrolled {
         margin-top: 128px;
+    }
+
+    .big-h2 {
+        font-size: 30px;
+    }
+
+    .dem-percentages p, .rep-percentages p {
+        font-size: 13px;
+    }
+
+    .total-percentages {
+        margin-left: 5vw;
+        width: 80vw;
+        display: flex;
+        justify-content: space-between;
+        align-content: flex-start;
+        margin-top: -20px;
+        margin-bottom: 30px;
+    }
+
+    .big-p {
+        font-size: 15px !important;
+        margin-top: 10px;
     }
 
     #updated {
         text-align: center !important;
     }
 
-    .main-page {
-        width: 90vw;
-        margin-left: 5vw;
-    }
 
     .title-image {
         width: 90vw;

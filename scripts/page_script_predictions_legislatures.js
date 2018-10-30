@@ -4,7 +4,7 @@ $(document).ready(function() {
     getElections(["State Representative"], 6, true);
 
     if (currentStates.length == 1) {
-        createSquareChart();
+        createSquareChart("State House");
     }
 
 });

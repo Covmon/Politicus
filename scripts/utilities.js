@@ -1,7 +1,9 @@
 var data = {};
-let availableStates = ["CO", "IA", "MO", "NY", "SC", "TN", "KS", "GA", "UT", "MI", "ID"];
+var currentOverallData = {};
+let availableStates = ["CO", "IA", "MO", "NY", "SC", "TN", "KS", "GA", "UT", "MI", "ID", "MN"];
 var currentStates = availableStates;
 var currentAllMatchups = [];
+var currentDistrictsNoElection = [];
 
 
 $(document).ready(function() {
@@ -32,7 +34,7 @@ $(document).ready(function() {
         let jsonString = sessionStorage.getItem("data_all")
         data = JSON.parse(jsonString);
     } else {
-        getJSON(availableStates, true);
+        getJSONCandidates(availableStates, true);
     }
 
     if (state != "All" && !currentURL.includes("index.html")) {
@@ -41,9 +43,90 @@ $(document).ready(function() {
         $("#reset-link").css({"color": "gray"})
     }
 
+    if (state != "All" && currentURL.includes("state")) {
+        //Get overall json for this body
+        if (currentURL.includes("house")) {
+            getJSONOverall(state, "House");
+        } else if (currentURL.includes("senate")) {
+            getJSONOverall(state, "Senate");
+        }
+    } else if (!currentURL.includes("state")) {
+
+    }
+
+    jQuery.extend( jQuery.fn.dataTableExt.oSort, {
+        "num-html-pre": function ( a ) {
+            var x = String(a).replace( /<[\s\S]*?>/g, "" );
+            return parseFloat( x );
+        },
+     
+        "num-html-asc": function ( a, b ) {
+            return ((a < b) ? -1 : ((a > b) ? 1 : 0));
+        },
+     
+        "num-html-desc": function ( a, b ) {
+            return ((a < b) ? 1 : ((a > b) ? -1 : 0));
+        }
+    } );
+
 });
 
-function getJSON(states, useAll) {
+function getJSONOverall(state, body) {
+    $.ajaxSetup({
+        async: false
+    });
+
+    let url = "/predictions_data/" + state + "_" + body + "_Election_Predictions.json"; 
+
+    var success = false;
+    $.getJSON(url, function(json) {
+        success = true;
+        console.log("Got JSON from local url " + url);
+        let jsonP = JSON.parse(json);
+        let jsonPData = jsonP.data;
+        
+        for (party of jsonPData) {
+            if (party.Party == "REP") {
+                currentOverallData["REP"] = party;
+            } else if (party.Party == "DEM") {
+                currentOverallData["DEM"] = party;
+            } else if (party.Party == "LIB") {
+                currentOverallData["LIB"] = party;
+            } else if (party.Party == "IND") {
+                currentOverallData["IND"] = party;
+            }
+        }
+        currentOverallData["Total Seats"] = jsonPData[0]["Total Seats"];
+        currentOverallData["Seats Up for Election"] = jsonPData[0]["Seats Up for Election"];
+
+    });
+
+    if (!success) {
+        let urlOnline = "https://50fifty.us" + url;
+        $.getJSON(urlOnline, function(json) {
+            success = true;
+            console.log("Got JSON from online url " + urlOnline);
+            let jsonP = JSON.parse(json);
+            let jsonPData = jsonP.data;
+        
+            for (party of jsonPData) {
+                if (party.Party == "REP") {
+                    currentOverallData["REP"] = party;
+                } else if (party.Party == "DEM") {
+                    currentOverallData["DEM"] = party;
+                } else if (party.Party == "LIB") {
+                    currentOverallData["LIB"] = party;
+                } else if (party.Party == "IND") {
+                    currentOverallData["IND"] = party;
+                }
+            }
+            currentOverallData["Total Seats"] = jsonPData[0]["Total Seats"];
+            currentOverallData["Seats Up for Election"] = jsonPData[0]["Seats Up for Election"];
+        });
+    }
+}
+
+function getJSONCandidates(states, useAll) {
 
     $.ajaxSetup({
         async: false
@@ -114,7 +197,6 @@ function matchupsEqual(a, b) {
     }
 }
 
-
 function getElections(positions, numTopElections, createTable, alreadyAdded = [], appendLocation = ".main-section") {
     console.log("Getting Elections");
     var availableRaces = [];
@@ -137,6 +219,15 @@ function getElections(positions, numTopElections, createTable, alreadyAdded = []
             }
         }
     }
+    if (currentStates.length == 1) {
+        availableRaces.sort(function (a,b) {
+            if (Number.parseInt(a["District"]) > Number.parseInt(b["District"])) {
+                return 1;
+            } else {
+                return -1;
+            }
+        });
+    }
 
     var elapsedA = 0;
     var elapsedB = 0;
@@ -145,11 +236,12 @@ function getElections(positions, numTopElections, createTable, alreadyAdded = []
     var topRacesList = [];
     var rowsList = [];
 
-    for (candidate of availableRaces) {
+    for (var i=0;i<availableRaces.length;i++) {
+        candidate = availableRaces[i];
+
         let timeA1 = new Date().getTime();
         let matchup = getMatchup(data, candidate.State, candidate.Position, candidate.District);
         currentAllMatchups.push(matchup);
-        console.log("push to all matchups");
         let timeA2 = new Date().getTime();
         let elapsed1 = timeA2 - timeA1;
         elapsedA += elapsed1;
@@ -257,110 +349,244 @@ function getTopElections(topRaces, matchup, numRaces, alreadyAdded = []) {
     }
 }
 
-function createSquareChart() {
+function createSquareChart(type) {
     let state = convertStateName(currentStates[0]);
+    let lowerBody = getLowerBodyName(state);
 
-        let darkener = "<div id='darkener'></div>";
-        $("body").prepend(darkener);
+    let darkener = "<div id='darkener'></div>";
+    $("body").prepend(darkener);
 
-        let overallDiv = "<div class='overall-section'></div>";
-        $(".main-page").prepend(overallDiv);
+    let overallDiv = "<div class='overall-section'></div>";
+    $(".main-page").prepend(overallDiv);
 
-        let overallTitle = "<h2>Our Projection for the " + state + " Senate</h2>";
-        $(".overall-section").append(overallTitle);
+    var title;
 
-        let squaresDiv = createDivWithClass("squares");
-        $(".overall-section").append(squaresDiv);
-        let squares = $(".squares");
+    let overall = $(".overall-section");
+    var overallTitle;
+    if (type == "State Senate") {
+        title = state + " Senate";
+        overallTitle = "<h2>Our Projection for the " + state + " Senate</h2>";
+    } else if (type == "State House") {
+        title = state + " " + lowerBody;
+        overallTitle = "<h2>Our Projection for the " + state + " " + lowerBody + "</h2>";
+    } else if (type == "Governors") {
+        title = "Governors Offices";
+        overallTitle = "<h2>Our Projection for U.S. Governors Races</h2>";
+    } else if (type == "U.S. Senate") {
+        title = "U.S. Senate";
+        overallTitle = "<h2>Our Projection for the U.S. Senate</h2>";
+    } else {
+        title = "U.S. House";
+        overallTitle = "<h2>Our Projection for the U.S. House</h2>";
+    }
+    overall.append(overallTitle);
 
-        let total = currentAllMatchups.length;
-        
-        if (total >= 200) {
-            squares.css("height", "175px");
-        } else if (total >= 150) {
-            squares.css("height", "150px");
-        } else if (total >= 70) {
-            squares.css("height", "125px");
-        } else if (total >= 50) {
-            squares.css("height", "100px");
-        } else if (total >= 27) {
-            squares.css("height", "75px");
+    currentAllMatchups.sort(function(a,b) {
+        let index1 = Number.parseInt(a["district"]);
+        let index2 = Number.parseInt(b["district"]);
+        return (index1 > index2) ? 1 : -1;
+    });
+
+    let totalPercentagesDiv = createDivWithClass("total-percentages");
+    overall.append(totalPercentagesDiv);
+    let totalPercentages = $(".total-percentages");
+
+    let demPercentagesDiv = createDivWithClass("dem-percentages");
+    totalPercentages.append(demPercentagesDiv);
+    let demPercentages = $(".dem-percentages");
+
+    let repPercentagesDiv = createDivWithClass("rep-percentages");
+    totalPercentages.append(repPercentagesDiv);
+    let repPercentages = $(".rep-percentages");
+
+    console.log(currentOverallData);
+    let majorityChanceDem = (Number.parseFloat(currentOverallData["DEM"]["Predicted Majority Win Probability"]) * 100).toFixed(2);
+    let majorityChanceRep = (Number.parseFloat(currentOverallData["REP"]["Predicted Majority Win Probability"]) * 100).toFixed(2);
+
+    if (majorityChanceDem == 0.00) {
+        majorityChanceDem = 0;
+    } else if (majorityChanceDem == 100.00) {
+        majorityChanceDem = 100;
+    }
+    if (majorityChanceRep == 0.00) {
+        majorityChanceRep = 0;
+    } else if (majorityChanceRep == 100.00) {
+        majorityChanceRep = 100;
+    }
+
+    majorityChanceDemH = "<h2 class='blue big-h2'>" + majorityChanceDem + "%</h2>";
+    majorityChanceRepH = "<h2 class='red big-h2'>" + majorityChanceRep + "%</h2>";
+    demPercentages.append(majorityChanceDemH);
+    repPercentages.append(majorityChanceRepH);
+
+    let chanceDemP = "<p class='big-p'>Chance <span class='blue'>Democrats</span> win control</p>";
+    let chanceRepP = "<p class='big-p'>Chance <span class='red'>Republicans</span> win control</p>";
+    demPercentages.append(chanceDemP);
+    repPercentages.append(chanceRepP);
+
+    //
+    let supermajorityChanceDem = (Number.parseFloat(currentOverallData["DEM"]["Predicted Supermajority Win Probability"]) * 100).toFixed(2);
+    let supermajorityChanceRep = (Number.parseFloat(currentOverallData["REP"]["Predicted Supermajority Win Probability"]) * 100).toFixed(2);
+
+    if (supermajorityChanceDem == 0.00) {
+        supermajorityChanceDem = 0;
+    } else if (supermajorityChanceDem == 100.00) {
+        supermajorityChanceDem = 100;
+    }
+    if (supermajorityChanceRep == 0.00) {
+        supermajorityChanceRep = 0;
+    } else if (supermajorityChanceRep == 100.00) {
+        supermajorityChanceRep = 100;
+    }
+
+    supermajorityChanceDemH = "<h2 class='blue'>" + supermajorityChanceDem + "%</h2>";
+    supermajorityChanceRepH = "<h2 class='red'>" + supermajorityChanceRep + "%</h2>";
+    demPercentages.append(supermajorityChanceDemH);
+    repPercentages.append(supermajorityChanceRepH);
+
+    let superchanceDemP = "<p>Chance of supermajority</p>";
+    let superchanceRepP = "<p>Chance of supermajority</p>";
+    demPercentages.append(superchanceDemP);
+    repPercentages.append(superchanceRepP);
+
+    let squaresSectionDiv = createDivWithClass("squares-section");
+    overall.append(squaresSectionDiv);
+    let squaresSection = $(".squares-section");
+
+    let totalSeats = currentOverallData["Total Seats"];
+    let seatsUp = currentOverallData["Seats Up for Election"];
+    var seatsUpP;
+    if (totalSeats == seatsUp) {
+        seatsUpP = "<p><b>All " + seatsUp + " seats up for election</b></p>";
+    } else {
+        seatsUpP = "<p><b>" + seatsUp + " out of " + totalSeats + " seats up for election</b></p>";
+    }
+    squaresSection.append(seatsUpP);
+
+
+    let squaresDiv = createDivWithClass("squares");
+    squaresSection.append(squaresDiv);
+    let squares = $(".squares");
+
+    let total = currentAllMatchups.length;
+    
+    if (total >= 435) {
+        squares.css("height", "375px");
+    } if (total >= 200) {
+        squares.css("height", "175px");
+    } else if (total >= 150) {
+        squares.css("height", "150px");
+    } else if (total >= 70) {
+        squares.css("height", "125px");
+    } else if (total >= 50) {
+        squares.css("height", "100px");
+    } else if (total >= 27) {
+        squares.css("height", "75px");
+    }
+
+    var solidDem = [];
+    var likelyDem = [];
+    var leanDem = [];
+    var tossUp = [];
+    var leanRep = [];
+    var likelyRep = [];
+    var solidRep = [];
+
+
+    for (matchup of currentAllMatchups) {
+        switch (matchup.rating) {
+            case "SOLID D":
+                solidDem.push(matchup);
+                break;
+            case "LIKELY D":
+                likelyDem.push(matchup);
+                break;
+            case "LEAN D":
+                leanDem.push(matchup);
+                break;
+            case "TOSS-UP":
+                tossUp.push(matchup);
+                break;
+            case "LEAN R":
+                leanRep.push(matchup);
+                break;
+            case "LIKELY R":
+                likelyRep.push(matchup);
+                break;
+            case "SOLID R":
+                solidRep.push(matchup);
+                break;
+        }
+    }
+
+    let matchupGroups = [solidDem, likelyDem, leanDem, tossUp, leanRep, likelyRep, solidRep];
+    var squareNumber = 0;
+    for (group of matchupGroups) {
+
+        for (matchup of group) {
+            squareNumber += 1;
+            let square = "<div id='square-" + squareNumber + "' class='seat-square " + matchup.color + "' state='" + matchup.state + "' district='" + matchup.district + "' position='" + matchup.position + "'>" + "" /*matchup.district*/ + "</div>";
+            squares.append(square);
+        }
+    }
+
+    if (window.innerWidth < 800) {
+        let horizNumSquares = Math.floor(window.innerWidth/27);
+        let verticalNumSqares = Math.ceil(total/horizNumSquares);
+        let height = verticalNumSqares * 25;
+        squares.css("height", height + "px");
+    }
+
+    let triangle = "<img id='even-triangle' src='caret-arrow-up.svg' />";
+    squaresSection.append(triangle);
+
+    let even = "<p id='even'>Even</p>"
+    squaresSection.append(even);
+
+    let mostLikelyP = "<p><b>Most likely outcome:</b><p>";
+    overall.append(mostLikelyP);
+
+    let seatsDem = Math.round(currentOverallData["DEM"]["Predicted Seats"]);
+    let seatsRep = Math.round(currentOverallData["REP"]["Predicted Seats"]);
+    if (seatsDem + seatsRep != totalSeats) {
+        if (currentOverallData["DEM"]["Predicted Seats"] - seatsDem > currentOverallData["REP"]["Predicted Seats"] - seatsRep) {
+            seatsDem += 1;
+        } else {
+            seatsRep += 1;
+        }
+    }
+    let predictedSeatsP = "<p><span class='blue'>Democrats: " + seatsDem + " seats</span> vs. <span class='red'>Republicans: " + seatsRep + " seats</span></p>";
+    overall.append(predictedSeatsP);
+    
+    $(".seat-square").hover(function (event) {
+        var rect = $(this).get(0).getBoundingClientRect();
+
+        var left = rect.x + 15;
+        var right = left - 40 - 300;
+        var top = rect.top - 150;
+
+        var css = {"top": top, "left": left};
+
+        if (rect.left > window.innerWidth/2) {
+            css = {"top": top, "left": right};
         }
 
-        var solidDem = [];
-        var likelyDem = [];
-        var leanDem = [];
-        var tossUp = [];
-        var leanRep = [];
-        var likelyRep = [];
-        var solidRep = [];
+        let state = $(this).attr("state");
+        let district = $(this).attr("district");
+        let position = $(this).attr("position");
 
+        let matchup = getMatchup(data, state, position, district);
+        createCard(matchup, "body", true);
+        $("#card-popup").css(css);
 
-        for (matchup of currentAllMatchups) {
-            switch (matchup.rating) {
-                case "SOLID D":
-                    solidDem.push(matchup);
-                    break;
-                case "LIKELY D":
-                    likelyDem.push(matchup);
-                    break;
-                case "LEAN D":
-                    leanDem.push(matchup);
-                    break;
-                case "TOSS-UP":
-                    tossUp.push(matchup);
-                    break;
-                case "LEAN R":
-                    leanRep.push(matchup);
-                    break;
-                case "LIKELY R":
-                    likelyRep.push(matchup);
-                    break;
-                case "SOLID R":
-                    solidRep.push(matchup);
-                    break;
-            }
+        $("#darkener").css("opacity", 0.3);
+
+        }, function () {
+            //out
+            $("#card-popup").remove();
+            $("#darkener").css("opacity", 0);
         }
-
-        let matchupGroups = [solidDem, likelyDem, leanDem, tossUp, leanRep, likelyRep, solidRep];
-
-        for (group of matchupGroups) {
-
-            for (matchup of group) {
-                let square = "<div class='seat-square " + matchup.color + "' state='" + matchup.state + "' district='" + matchup.district + "' position='" + matchup.position + "'>" + "" /*matchup.district*/ + "</div>";
-                $(".squares").append(square);
-            }
-        }
-        
-        $(".seat-square").hover(function (event) {
-            var rect = $(this).get(0).getBoundingClientRect();
-
-            var left = rect.x + 15;
-            var right = left - 40 - 300;
-            var top = rect.top - 150;
-
-            var css = {"top": top, "left": left};
-
-            if (rect.left > window.innerWidth/2) {
-                css = {"top": top, "left": right};
-            }
-
-            let state = $(this).attr("state");
-            let district = $(this).attr("district");
-            let position = $(this).attr("position");
-
-            let matchup = getMatchup(data, state, position, district);
-            createCard(matchup, "body", true);
-            $("#card-popup").css(css);
-
-            $("#darkener").css("opacity", 0.3);
-
-            }, function () {
-                //out
-                $("#card-popup").remove();
-                $("#darkener").css("opacity", 0);
-            }
-        );
+    );
 }
 
 function createDivWithClass(cl) {
