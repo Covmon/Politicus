@@ -14,15 +14,18 @@ parser.add_argument("url", nargs='+', help="The url of the polling data.")
 parser.add_argument("--output", nargs="?", help="The output file name.")
 args = parser.parse_args()'''
 
+availableStates = ["Colorado", "Iowa", "Missouri", "New York", "South Carolina", "Tennessee", "Kansas", "Georgia", "Utah", "Michigan", "Idaho", "Minnesota"]
+
+
 def start():
     #for pd in args.url:
     print("Starting a url")
     urlSenate = "https://www.realclearpolitics.com/epolls/latest_polls/senate/"
     urlGovernor = "https://www.realclearpolitics.com/epolls/latest_polls/governor/"
     urlHouse = "https://www.realclearpolitics.com/epolls/latest_polls/house/"
-    url = urlSenate
+    url = urlGovernor
 
-    fileName = "polls_senate_10-26.csv"
+    fileName = "polls_governors_10-29.csv"
 
     get = requests.get(url)
     response = get.text
@@ -67,6 +70,15 @@ def getElectionPoll(allRowsList, rowsToIterate):
         
         indexDashRace = race.find("-") #15
         indexVsRace = race.find("vs.") #23
+
+        inAvailableState = False
+        for state in availableStates:
+            if state in race:
+                inAvailableState = True
+
+        if not inAvailableState:
+            continue
+
 
         if "Special Election" in race:
             indexSpecialElection = race.find("Special Election")
