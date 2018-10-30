@@ -193,7 +193,68 @@ function evaluatePredictionDescription(predictionDem, predictionRep) {
     return description;
 }
 
-function createCardNoElection(district) {
+function createCardNoElection(districtObj) {
+
+    let stateName = districtObj.State;
+    let position = districtObj.Position;
+    let district = districtObj.District;
+
+    var title = "";
+    switch (position) {
+        case "U.S. Representative":
+            title = "U.S. House, " + stateName + " District " + district;
+            break;
+        case "U.S. Senator":
+            title = "U.S. Senate, " + stateName;
+            break;
+        case "State Representative":
+        let officeName = getLowerBodyName(state);
+            title = stateName + " " + officeName + ", District " + district;
+            break;
+        case "State Senator":
+            title = stateName + " Senate" + ", District " + district;
+            break;
+        case "Secretary Of State":
+            title = stateName + " Secretary of State";
+            break;
+        default:
+            title = stateName + " " + position;
+            break;
+    }
+
+    let cardID = "card-popup";
+
+    //Create card
+    var color = districtObj.color;
+    var className = "prediction-card " + color;
+
+    let cardCreate = $('<div />', {
+        "class": className,
+        "id": cardID,
+        click: function(e){
+            e.preventDefault();
+    }})
+
+    $("body").prepend(cardCreate);
+
+    //Add elements to card
+    let card = $("#" + cardID);
+
+    let titleH1 = $("<h1 />").text(title);
+    card.append(titleH1);
+
+    projectionDescription = "NO ELECTION";
+    let projectionDescriptionP = $("<h2 />").text(projectionDescription);
+    card.append(projectionDescriptionP);
+
+    let candidatesP = "<p class='bold'><span class='white'>" + districtObj.Candidate + "</span></p>";
+    card.append(candidatesP);
+
+    let nextElectionsP = "<p class='white'>Next up for election:" + districtObj["Next Election"] + "</p>";
+    let termsInOfficeP = "<p class='white'>Terms in office:" + districtObj["Number of Terms in Position"] + "</p>";
+
+    card.append(nextElectionsP);
+    card.append(termsInOfficeP);
 
 }
 

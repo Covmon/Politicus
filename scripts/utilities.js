@@ -360,32 +360,42 @@ function createSquareChart(type) {
     $(".main-page").prepend(overallDiv);
 
     var title;
-
     let overall = $(".overall-section");
     var overallTitle;
-    if (type == "State Senate") {
+    if (type == "State Senator") {
         title = state + " Senate";
         overallTitle = "<h2>Our Projection for the " + state + " Senate</h2>";
-    } else if (type == "State House") {
+    } else if (type == "State Representative") {
         title = state + " " + lowerBody;
         overallTitle = "<h2>Our Projection for the " + state + " " + lowerBody + "</h2>";
-    } else if (type == "Governors") {
+    } else if (type == "Governor") {
         title = "Governors Offices";
         overallTitle = "<h2>Our Projection for U.S. Governors Races</h2>";
-    } else if (type == "U.S. Senate") {
-        title = "U.S. Senate";
+    } else if (type == "U.S. Senator") {
+        title = "U.S. Senator";
         overallTitle = "<h2>Our Projection for the U.S. Senate</h2>";
     } else {
-        title = "U.S. House";
+        title = "U.S. Representative";
         overallTitle = "<h2>Our Projection for the U.S. House</h2>";
     }
     overall.append(overallTitle);
 
+    //Sort all matchups
     currentAllMatchups.sort(function(a,b) {
         let index1 = Number.parseInt(a["district"]);
         let index2 = Number.parseInt(b["district"]);
         return (index1 > index2) ? 1 : -1;
     });
+
+    //Get districts with no election this year
+    let stateAbbrev = currentStates[0];
+    let currentAllLegislatures = currentLegislators[stateAbbrev];
+    for (district of currentAllLegislatures) {
+        if (district.Position == type && district["Next Election"] != 2018) {
+            currentDistrictsNoElection.push(district);
+        }
+    }
+    console.log(currentDistrictsNoElection);
 
     let totalPercentagesDiv = createDivWithClass("total-percentages");
     overall.append(totalPercentagesDiv);
@@ -403,19 +413,22 @@ function createSquareChart(type) {
     let majorityChanceDem = (Number.parseFloat(currentOverallData["DEM"]["Predicted Majority Win Probability"]) * 100).toFixed(2);
     let majorityChanceRep = (Number.parseFloat(currentOverallData["REP"]["Predicted Majority Win Probability"]) * 100).toFixed(2);
 
-    if (majorityChanceDem == 0.00) {
-        majorityChanceDem = 0;
+    var majChanceDemStr = String(majorityChanceDem);
+    var majChanceRepStr = String(majorityChanceRep);
+
+    if (majorityChanceDem < 0.0001) {
+        majChanceDemStr = "<0.01";
     } else if (majorityChanceDem == 100.00) {
-        majorityChanceDem = 100;
+        majChanceDemStr = "100";
     }
-    if (majorityChanceRep == 0.00) {
-        majorityChanceRep = 0;
+    if (majorityChanceRep < 0.0001) {
+        majChanceRepStr = "<0.01";
     } else if (majorityChanceRep == 100.00) {
-        majorityChanceRep = 100;
+        majChanceRepStr = "100";
     }
 
-    majorityChanceDemH = "<h2 class='blue big-h2'>" + majorityChanceDem + "%</h2>";
-    majorityChanceRepH = "<h2 class='red big-h2'>" + majorityChanceRep + "%</h2>";
+    majorityChanceDemH = "<h2 class='blue big-h2'>" + majChanceDemStr + "%</h2>";
+    majorityChanceRepH = "<h2 class='red big-h2'>" + majChanceRepStr + "%</h2>";
     demPercentages.append(majorityChanceDemH);
     repPercentages.append(majorityChanceRepH);
 
@@ -428,19 +441,22 @@ function createSquareChart(type) {
     let supermajorityChanceDem = (Number.parseFloat(currentOverallData["DEM"]["Predicted Supermajority Win Probability"]) * 100).toFixed(2);
     let supermajorityChanceRep = (Number.parseFloat(currentOverallData["REP"]["Predicted Supermajority Win Probability"]) * 100).toFixed(2);
 
-    if (supermajorityChanceDem == 0.00) {
-        supermajorityChanceDem = 0;
+    var supermajChanceDemStr = String(majorityChanceDem);
+    var supermajChanceRepStr = String(majorityChanceRep);
+
+    if (supermajorityChanceDem < 0.0001) {
+        supermajChanceDemStr = "<0.01";
     } else if (supermajorityChanceDem == 100.00) {
-        supermajorityChanceDem = 100;
+        supermajChanceDemStr = "100";
     }
-    if (supermajorityChanceRep == 0.00) {
-        supermajorityChanceRep = 0;
-    } else if (supermajorityChanceRep == 100.00) {
-        supermajorityChanceRep = 100;
+    if (supermajorityChanceRep < 0.0001) {
+        supermajChanceRepStr = "<0.01";
+    } else if (majorityChanceRep == 100.00) {
+        supermajChanceRepStr = "100";
     }
 
-    supermajorityChanceDemH = "<h2 class='blue'>" + supermajorityChanceDem + "%</h2>";
-    supermajorityChanceRepH = "<h2 class='red'>" + supermajorityChanceRep + "%</h2>";
+    supermajorityChanceDemH = "<h2 class='blue'>" + supermajChanceDemStr + "%</h2>";
+    supermajorityChanceRepH = "<h2 class='red'>" + supermajChanceRepStr + "%</h2>";
     demPercentages.append(supermajorityChanceDemH);
     repPercentages.append(supermajorityChanceRepH);
 
@@ -463,7 +479,6 @@ function createSquareChart(type) {
     }
     squaresSection.append(seatsUpP);
 
-
     let squaresDiv = createDivWithClass("squares");
     squaresSection.append(squaresDiv);
     let squares = $(".squares");
@@ -484,6 +499,7 @@ function createSquareChart(type) {
         squares.css("height", "75px");
     }
 
+    var noElectionDem = []
     var solidDem = [];
     var likelyDem = [];
     var leanDem = [];
@@ -491,7 +507,7 @@ function createSquareChart(type) {
     var leanRep = [];
     var likelyRep = [];
     var solidRep = [];
-
+    var noElectionRep = [];
 
     for (matchup of currentAllMatchups) {
         switch (matchup.rating) {
@@ -519,14 +535,36 @@ function createSquareChart(type) {
         }
     }
 
-    let matchupGroups = [solidDem, likelyDem, leanDem, tossUp, leanRep, likelyRep, solidRep];
+    for (var i=0;i<currentDistrictsNoElection.length;i++) {
+        let district = currentDistrictsNoElection[i];
+        district["Index"] = i;
+
+        if (district.Party == "REP") {
+            district["color"] = "already-red";
+
+            noElectionRep.push(district);
+        } else if (district.Party == "DEM") {
+            district["color"] = "already-blue";
+
+            noElectionDem.push(district);
+        }
+    }
+
+    let matchupGroups = [noElectionDem, solidDem, likelyDem, leanDem, tossUp, leanRep, likelyRep, solidRep, noElectionRep];
     var squareNumber = 0;
     for (group of matchupGroups) {
 
         for (matchup of group) {
             squareNumber += 1;
-            let square = "<div id='square-" + squareNumber + "' class='seat-square " + matchup.color + "' state='" + matchup.state + "' district='" + matchup.district + "' position='" + matchup.position + "'>" + "" /*matchup.district*/ + "</div>";
-            squares.append(square);
+
+            if (matchup.hasOwnProperty("Next Election")) {
+                let square = "<div id='square-" + squareNumber + "' index='" + matchup.Index +  "' hasElection='no' class='seat-square " + matchup.color + "'></div>";
+                squares.append(square);
+            } else {
+                let square = "<div id='square-" + squareNumber + "' hasElection='yes' class='seat-square " + matchup.color + "' state='" + matchup.state + "' district='" + matchup.district + "' position='" + matchup.position + "'></div>";
+                squares.append(square);
+            }
+            
         }
     }
 
@@ -574,9 +612,17 @@ function createSquareChart(type) {
         let state = $(this).attr("state");
         let district = $(this).attr("district");
         let position = $(this).attr("position");
+        let hasElection = $(this).attr("hasElection");
 
-        let matchup = getMatchup(data, state, position, district);
-        createCard(matchup, "body", true);
+        if (hasElection == "yes") {
+            let matchup = getMatchup(data, state, position, district);
+            createCard(matchup, "body", true);
+        } else {
+            let index = $(this).attr("index");
+            let district = currentDistrictsNoElection[index];
+            createCardNoElection(district);
+        }
+
         $("#card-popup").css(css);
 
         $("#darkener").css("opacity", 0.3);

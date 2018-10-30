@@ -360,6 +360,11 @@ a:hover {
     box-shadow: 0 4px 8px rgba(50,50,50, 0.5);
 }
 
+.already-blue, .already-blue h2 {
+    background-color: #90a4c4;
+    color: #284e8f;
+}
+
 .solid-blue, .solid-blue h2 {
     background-color: #a0c3fa;
     color: #4483e7;
@@ -388,6 +393,11 @@ a:hover {
 .lean-red, .lean-red h2 {
     background-color: #fccfc8;
     color: #e4371d;
+}
+
+.already-red, .already-red h2 {
+    background-color: #be7f76;
+    color: #b92e18;
 }
 
 .purple, .purple h2 {
@@ -432,6 +442,10 @@ a:hover {
 .red {
     /*text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;*/
     color: #e4371d;
+}
+
+.white {
+    color: white;
 }
 
 .yellow {

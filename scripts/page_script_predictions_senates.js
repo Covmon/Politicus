@@ -4,7 +4,7 @@ $(document).ready(function() {
     getElections(["State Senator"], 6, true);
 
     if (currentStates.length == 1) {
-        createSquareChart("State Senate");
+        createSquareChart("State Senator");
     }
 
 });
