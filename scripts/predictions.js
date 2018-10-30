@@ -247,11 +247,25 @@ function createCardNoElection(districtObj) {
     let projectionDescriptionP = $("<h2 />").text(projectionDescription);
     card.append(projectionDescriptionP);
 
-    let candidatesP = "<p class='bold'><span class='white'>" + districtObj.Candidate + "</span></p>";
+
+    var party = "";
+    var candidateColor = "";
+    if (districtObj.Party == "DEM") {
+        party = "Democrat";
+        candidateColor = "blue";
+    } else if (districtObj.Party == "REP") {
+        party = "Republican";
+        candidateColor = "red";
+    }
+
+    let candidatesP = "<p style='font-size: 17px' class='bold'><span class='" + candidateColor + "'>" + districtObj.Candidate + "</span></p>";
     card.append(candidatesP);
 
-    let nextElectionsP = "<p class='white'>Next up for election:" + districtObj["Next Election"] + "</p>";
-    let termsInOfficeP = "<p class='white'>Terms in office:" + districtObj["Number of Terms in Position"] + "</p>";
+    let partyP = "<p>" + party + "</p>";
+    card.append(partyP);
+
+    let nextElectionsP = "<p class='white'>Next up for election: <span class='number'>" + districtObj["Next Election"] + "</span></p>";
+    let termsInOfficeP = "<p class='white'>Terms in office: <span class='number'>" + districtObj["Number of Terms in Position"] + "</span></p>";
 
     card.append(nextElectionsP);
     card.append(termsInOfficeP);

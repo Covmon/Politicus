@@ -229,41 +229,21 @@ function getElections(positions, numTopElections, createTable, alreadyAdded = []
         });
     }
 
-    var elapsedA = 0;
-    var elapsedB = 0;
-    var elapsedC = 0;
-
     var topRacesList = [];
     var rowsList = [];
 
     for (var i=0;i<availableRaces.length;i++) {
         candidate = availableRaces[i];
 
-        let timeA1 = new Date().getTime();
         let matchup = getMatchup(data, candidate.State, candidate.Position, candidate.District);
         currentAllMatchups.push(matchup);
-        let timeA2 = new Date().getTime();
-        let elapsed1 = timeA2 - timeA1;
-        elapsedA += elapsed1;
 
-        let timeB1 = new Date().getTime();
         getTopElections(topRacesList, matchup, numTopElections, alreadyAdded);
-        let timeB2 = new Date().getTime();
-        let elapsed2 = timeB2 - timeB1;
-        elapsedB += elapsed2;
         
-        let timeC1 = new Date().getTime();
         if (createTable) {
             createTableRow(matchup, rowsList);
         }
-        let timeC2 = new Date().getTime();
-        let elapsed3 = timeC2 - timeC1;
-        elapsedC += elapsed3;
     }
-
-    console.log("time elapsed for get matchup: " + elapsedA);
-    console.log("time elapsed for top races: " + elapsedB);
-    console.log("time elapsed for create rows: " + elapsedC);
 
     if (topRacesList.length == 0) {
         let errorP = $("<p />").text("Sorry, no races for the selected state and election type are available.");
@@ -364,21 +344,22 @@ function createSquareChart(type) {
     var overallTitle;
     if (type == "State Senator") {
         title = state + " Senate";
-        overallTitle = "<h2>Our Projection for the " + state + " Senate</h2>";
+        overallTitle = "<h2 id='overall-title'>Our Projection for the " + state + " Senate</h2>";
     } else if (type == "State Representative") {
         title = state + " " + lowerBody;
-        overallTitle = "<h2>Our Projection for the " + state + " " + lowerBody + "</h2>";
+        overallTitle = "<h2 id='overall-title'>Our Projection for the " + state + " " + lowerBody + "</h2>";
     } else if (type == "Governor") {
         title = "Governors Offices";
-        overallTitle = "<h2>Our Projection for U.S. Governors Races</h2>";
+        overallTitle = "<h2 id='overall-title'>Our Projection for U.S. Governors Races</h2>";
     } else if (type == "U.S. Senator") {
         title = "U.S. Senator";
-        overallTitle = "<h2>Our Projection for the U.S. Senate</h2>";
+        overallTitle = "<h2 id='overall-title'>Our Projection for the U.S. Senate</h2>";
     } else {
         title = "U.S. Representative";
-        overallTitle = "<h2>Our Projection for the U.S. House</h2>";
+        overallTitle = "<h2 id='overall-title'>Our Projection for the U.S. House</h2>";
     }
     overall.append(overallTitle);
+    let titleElement = $("#overall-title");
 
     //Sort all matchups
     currentAllMatchups.sort(function(a,b) {
@@ -421,46 +402,51 @@ function createSquareChart(type) {
 
     let seatsDem = Math.round(currentOverallData["DEM"]["Predicted Seats"]);
     let seatsRep = Math.round(currentOverallData["REP"]["Predicted Seats"]);
-
     let seatGainRep = seatsRep - currentSeatsRep.length;
     let seatGainDem = seatsDem - currentSeatsDem.length;
-    
 
-    var seatGainDemStr;
-    var seatGainRepStr;
+    var seatGainColor = "";
+    var seatGainString = "";
+    var seatString = "Seats";
 
-    if (seatGainDem >= 0) {
-        seatGainDemStr = "+" + seatGainDem;
+    if (seatGainDem > 0) {
+        seatGainString = "D+" + seatGainDem;
+        seatGainColor = "blue";
+
+        if (Math.abs(seatGainDem) == 1) {
+            seatString = "Seat";
+        }
+    } else if (seatGainRep > 0) {
+        seatGainString = "R+" + seatGainRep;
+        seatGainColor = "red";
+
+        if (Math.abs(seatGainRep) == 1) {
+            seatString = "Seat";
+        }
     } else {
-        seatGainDemStr = "-" + seatGainDem;
+        seatGainString = "No Change";
+        seatString = "";
+        seatGainColor = "gray";
     }
 
-    if (seatGainRep >= 0) {
-        seatGainRepStr = "+" + seatGainRep;
-    } else {
-        seatGainRepStr = "-" + seatGainRep;
-    }
+    seatGainH = "<h2 class='big-h2 " + seatGainColor + "'>" + seatGainString + " " + seatString + "</h2>";
+    titleElement.after(seatGainH);
 
-    seatGainDemH = "<h2 class='blue big-h2'>" + seatGainDemStr + " Seats</h2>";
-    seatGainRepH = "<h2 class='red big-h2'>" + seatGainRepStr + " Seats</h2>";
-    demPercentages.append(seatGainDemH);
-    repPercentages.append(seatGainRepH);
-
-    let majorityChanceDem = (Number.parseFloat(currentOverallData["DEM"]["Predicted Majority Win Probability"]) * 100).toFixed(2);
-    let majorityChanceRep = (Number.parseFloat(currentOverallData["REP"]["Predicted Majority Win Probability"]) * 100).toFixed(2);
+    let majorityChanceDem = (Number.parseFloat(currentOverallData["DEM"]["Predicted Majority Win Probability"]) * 100).toFixed(1);
+    let majorityChanceRep = (Number.parseFloat(currentOverallData["REP"]["Predicted Majority Win Probability"]) * 100).toFixed(1);
 
     var majChanceDemStr = String(majorityChanceDem);
     var majChanceRepStr = String(majorityChanceRep);
 
-    if (majorityChanceDem < 0.0001) {
-        majChanceDemStr = "<0.01";
-    } else if (majorityChanceDem == 100.00) {
-        majChanceDemStr = "100";
+    if (majorityChanceDem <= 0.001) {
+        majChanceDemStr = "<0.1";
+    } else if (majorityChanceDem >= 99.8) {
+        majChanceDemStr = ">99.9";
     }
-    if (majorityChanceRep < 0.0001) {
-        majChanceRepStr = "<0.01";
-    } else if (majorityChanceRep == 100.00) {
-        majChanceRepStr = "100";
+    if (majorityChanceRep <= 0.001) {
+        majChanceRepStr = "<0.1";
+    } else if (majorityChanceRep >= 99.8) {
+        majChanceRepStr = ">99.9";
     }
 
     majorityChanceDemH = "<h2 class='blue'>" + majChanceDemStr + "%</h2>";
@@ -468,27 +454,36 @@ function createSquareChart(type) {
     demPercentages.append(majorityChanceDemH);
     repPercentages.append(majorityChanceRepH);
 
-    let chanceDemP = "<p>Chance <span class='blue'>Democrats</span> win control</p>";
-    let chanceRepP = "<p>Chance <span class='red'>Republicans</span> win control</p>";
+    var demWinLanguage = "win";
+    var repWinLanguage = "win";
+
+    if (currentSeatsDem > currentSeatsRep) {
+        demWinLanguage = "keep";
+    } else if (currentSeatsDem < currentSeatsRep) {
+        repWinLanguage = "keep";
+    }
+
+    let chanceDemP = "<p>Chance <span class='blue'>Democrats</span> " + demWinLanguage + " control</p>";
+    let chanceRepP = "<p>Chance <span class='red'>Republicans</span> " + repWinLanguage + " control</p>";
     demPercentages.append(chanceDemP);
     repPercentages.append(chanceRepP);
 
     //
-    let supermajorityChanceDem = (Number.parseFloat(currentOverallData["DEM"]["Predicted Supermajority Win Probability"]) * 100).toFixed(2);
-    let supermajorityChanceRep = (Number.parseFloat(currentOverallData["REP"]["Predicted Supermajority Win Probability"]) * 100).toFixed(2);
+    let supermajorityChanceDem = (Number.parseFloat(currentOverallData["DEM"]["Predicted Supermajority Win Probability"]) * 100).toFixed(1);
+    let supermajorityChanceRep = (Number.parseFloat(currentOverallData["REP"]["Predicted Supermajority Win Probability"]) * 100).toFixed(1);
 
     var supermajChanceDemStr = String(supermajorityChanceDem);
     var supermajChanceRepStr = String(supermajorityChanceRep);
-    
-    if (supermajorityChanceDem < 0.0001) {
-        supermajChanceDemStr = "<0.01";
-    } else if (supermajorityChanceDem == 100.00) {
-        supermajChanceDemStr = "100";
+
+    if (supermajorityChanceDem <= 0.1) {
+        supermajChanceDemStr = "<0.1";
+    } else if (supermajorityChanceDem >= 99.8) {
+        supermajChanceDemStr = ">99.9";
     }
-    if (supermajorityChanceRep < 0.0001) {
-        supermajChanceRepStr = "<0.01";
-    } else if (supermajorityChanceRep == 100.00) {
-        supermajChanceRepStr = "100";
+    if (supermajorityChanceRep <= 0.1) {
+        supermajChanceRepStr = "<0.1";
+    } else if (supermajorityChanceRep >= 99.8) {
+        supermajChanceRepStr = ">99.9";
     }
 
     supermajorityChanceDemH = "<h2 class='blue'>" + supermajChanceDemStr + "%</h2>";
@@ -515,25 +510,62 @@ function createSquareChart(type) {
     }
     squaresSection.append(seatsUpP);
 
+    let instructionsP = "<p class='gray' id='instructions'>Hover/tap for details</p>";
+    squaresSection.append(instructionsP);
+
     let squaresDiv = createDivWithClass("squares");
     squaresSection.append(squaresDiv);
     let squares = $(".squares");
 
-    let total = currentAllMatchups.length;
-    
+    let total = currentAllMatchups.length + currentDistrictsNoElection.length;
+    var rows = 1;
+
     if (total >= 435) {
-        squares.css("height", "375px");
+        rows = 15;
     } if (total >= 200) {
-        squares.css("height", "175px");
+        if (total % 6 == 0) {
+            rows = 6;
+        } else if (total % 8 == 0) {
+            rows = 8;
+        } else {
+            rows = 7;
+        }
     } else if (total >= 150) {
-        squares.css("height", "150px");
+        if (total % 5 == 0) {
+            rows = 5;
+        } else if (total % 7 == 0) {
+            rows = 7;
+        } else {
+            rows = 6;
+        }
     } else if (total >= 70) {
-        squares.css("height", "125px");
+        rows = 5;
     } else if (total >= 50) {
-        squares.css("height", "100px");
-    } else if (total >= 27) {
-        squares.css("height", "75px");
+        rows = 4;
+    } else if (total >= 36) {
+        rows = 3;
+    } else if (total >= 8) {
+        rows = 2;
     }
+
+    if (total % rows == 1 && rows != 1) {
+        rows -= 1;
+    }
+
+    let columns = Math.ceil(total/rows);
+    let minWidth = (columns * 25) + 50;
+
+    if (minWidth > 850) {
+        rows += 1;
+    }
+
+    if (total % rows == 1 && rows != 1) {
+        rows += 1;
+    }
+
+    let height = rows * 25;
+    let heightStr = height + "px";
+    squares.css("height", heightStr);
 
     var noElectionDem = []
     var solidDem = [];
@@ -604,7 +636,7 @@ function createSquareChart(type) {
         }
     }
 
-    if (window.innerWidth < 800) {
+    if (window.innerWidth < minWidth) {
         let horizNumSquares = Math.floor(window.innerWidth/27);
         let verticalNumSqares = Math.ceil(total/horizNumSquares);
         let height = verticalNumSqares * 25;
