@@ -153,7 +153,7 @@ a:hover {
 }
 
 .main-page {
-    margin-top: 40px;
+    margin-top: 10px;
     width: 85vw;
     margin-left: 7.5vw;
     text-align: center;
@@ -219,13 +219,19 @@ a:hover {
     margin-bottom: 30px;
 }
 
+
 .dem-percentages p, .rep-percentages p {
     margin-top: -20px;
 }
 
 .big-p {
-    font-size: 18px;
-    margin-top: -30px;
+    font-size: 17px;
+    margin-top: -47px;
+}
+
+.medium-p {
+    font-size: 16px;
+    margin-top: -27px;
 }
 
 .total-percentages h2 {
@@ -234,7 +240,13 @@ a:hover {
 }
 
 .big-h2 {
-    font-size: 40px;
+    margin-top: -10px;
+    font-size: 50px;
+}
+
+.medium-h2 {
+    margin-top: 0px;
+    font-size: 30px;
 }
 
 #card-popup {
@@ -263,7 +275,14 @@ a:hover {
 }
 
 .squares-section {
-    margin-bottom: 40px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+#instructions {
+    font-size: 14px;
+    margin-top: -13px;
+    margin-bottom: 2px;
 }
 
 .squares {
@@ -279,13 +298,13 @@ a:hover {
 }
 
 #even {
+    font-size: 14px;
     color: #A1A1A1;
     margin-top: -6px;
 }
 
 #even-triangle {
-    margin-top: -5px;
-    width: 16px;
+    width: 14px;
     height: auto;
 
 }
@@ -333,6 +352,7 @@ a:hover {
 }
 
 #predictions-nav-hr {
+    margin-bottom: 5px;
     transition-duration: 0.2s;
     width: 80%;
 }
@@ -483,7 +503,7 @@ table .solid-blue, .squares .solid-blue {
 }
 
 table .likely-blue, .squares .likely-blue {
-    background-color: #7da3e0;
+    background-color: #6e9fee;
 }
 
 table .lean-blue, .squares .lean-blue {
@@ -503,7 +523,7 @@ table .lean-red, .squares .lean-red {
 }
 
 table .purple, .squares .purple {
-    background-color: #aa5ee9;
+    background-color: #c885ff;
 }
 
 .bold {
@@ -610,12 +630,8 @@ table .pill-third {
     font-size: 12px;
     color: gray;
     margin-right: 10vw;
-}
-
-#instructions {
-    font-size: 14px;
-    margin-top: -5px;
-    margin-bottom: 2px;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 .number {
@@ -923,8 +939,23 @@ input:focus {
     }
 
     .big-h2 {
-        font-size: 30px;
+        font-size: 45px;
     }
+
+    .medium-h2 {
+        font-size: 27px;
+    }
+
+    .big-p {
+        font-size: 15px !important;
+        margin-top: -43px;
+    }
+
+    .medium-p {
+        font-size: 14px;
+        margin-top: -25px;
+    }
+
 
     .dem-percentages p, .rep-percentages p {
         font-size: 13px;
@@ -940,13 +971,9 @@ input:focus {
         margin-bottom: 30px;
     }
 
-    .big-p {
-        font-size: 15px !important;
-        margin-top: 10px;
-    }
-
     #updated {
         text-align: center !important;
+        margin-right: 0px;
     }
 
 

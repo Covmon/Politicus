@@ -407,6 +407,7 @@ function createSquareChart(type) {
 
     let seatsDem = Math.round(currentOverallData["DEM"]["Predicted Seats"]);
     let seatsRep = Math.round(currentOverallData["REP"]["Predicted Seats"]);
+
     let seatGainRep = seatsRep - currentSeatsRep.length;
     let seatGainDem = seatsDem - currentSeatsDem.length;
 
@@ -434,7 +435,10 @@ function createSquareChart(type) {
         seatGainColor = "gray";
     }
 
-    seatGainH = "<h2 class='big-h2 " + seatGainColor + "'>" + seatGainString + " " + seatString + "</h2>";
+    seatGainP = "<p class='medium-p' id='most-likely-change'>Seat gain</p>";
+    titleElement.after(seatGainP);
+
+    seatGainH = "<h2 class='medium-h2 " + seatGainColor + "'>" + seatGainString + " " + seatString + "</h2>";
     titleElement.after(seatGainH);
 
     let majorityChanceDem = (Number.parseFloat(currentOverallData["DEM"]["Predicted Majority Win Probability"]) * 100).toFixed(1);
@@ -496,13 +500,13 @@ function createSquareChart(type) {
     demPercentages.append(supermajorityChanceDemH);
     repPercentages.append(supermajorityChanceRepH);
 
-    let superchanceDemP = "<p>Chance of supermajority</p>";
-    let superchanceRepP = "<p>Chance of supermajority</p>";
+    let superchanceDemP = "<p>Chance of <span class='blue'>supermajority</span></p>";
+    let superchanceRepP = "<p>Chance of <span class='red'>supermajority</span></p>";
     demPercentages.append(superchanceDemP);
     repPercentages.append(superchanceRepP);
 
     let squaresSectionDiv = createDivWithClass("squares-section");
-    overall.append(squaresSectionDiv);
+    titleElement.after(squaresSectionDiv);
     let squaresSection = $(".squares-section");
 
     let totalSeats = currentOverallData["Total Seats"];
@@ -521,6 +525,12 @@ function createSquareChart(type) {
     let squaresDiv = createDivWithClass("squares");
     squaresSection.append(squaresDiv);
     let squares = $(".squares");
+
+    seatsP = "<p class='big-p' id='most-likely-change'>Most likely outcome</p>";
+    titleElement.after(seatsP);
+
+    seatsH = "<h2 class='big-h2'><span class='blue'>" + seatsDem + "</span> - <span class='red'>" + seatsRep + "</span></h2>";
+    titleElement.after(seatsH);
 
     let total = currentAllMatchups.length + currentDistrictsNoElection.length;
     var rows = 1;
