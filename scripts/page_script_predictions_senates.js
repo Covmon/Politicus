@@ -5,6 +5,10 @@ $(document).ready(function() {
 
     if (currentStates.length == 1) {
         createSquareChart("State Senator");
+    } else {
+        let instructions = '<p style="font-family: Roboto" class="gray">Select a state using the dropdown above to see predictions for a state\'s entire senate. Or, scroll down to view all state senate races.</p>';
+        $(".main-page").prepend(instructions);
     }
+
 
 });
