@@ -14,6 +14,9 @@ function getMatchup(data, state, position, district) {
     matchup["competetiveness"] = 1;
 
     let allCandidates = data[state];
+    if (allCandidates == null) {
+        return {};
+    }
     //console.log(allCandidates.length + " candidates in state " + state);
 
     for (var i=0; i<allCandidates.length; i++) {
@@ -556,12 +559,18 @@ function getNearbyMatchupsGoogle(civicAPIObject) {
         }
         
     }
-
+    var noPredictions = false;
     for (contest of nearbyMatchups) {
         var matchup = getMatchup(data, contest.state, contest.position, contest.district);
         if (!jQuery.isEmptyObject(matchup)) {
             createCard(matchup);
+        } else {
+            noPredictions = true;
         }
+    }
+    if (noPredictions) {
+        let errorP = "<p id='error-p'>Sorry, predictions for your location are not yet available. Check back later.</p>";
+        $(".main-section").append(errorP);
     }
 }
 

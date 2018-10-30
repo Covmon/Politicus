@@ -11,13 +11,15 @@ $(document).ready(function() {
     let currentURL = window.location.href;
     let defaultURLLength = 18;
     if (state != "All" && !currentURL.includes("predictions.html") && !currentURL.includes("index.html") && currentURL.length != defaultURLLength && currentURL.length != defaultURLLength + 1) {
-        let currentTitle = $(".main-section h2").text();
-        let stateName = convertStateName(state);
-        let newTitle = currentTitle + " in " + stateName;
-        $(".main-section h2").text(newTitle);
+        
+        if (!(state == "UT" && currentURL.includes("predictions_state_senates"))) {
+            let currentTitle = $(".main-section h2").text();
+            let stateName = convertStateName(state);
+            let newTitle = currentTitle + " in " + stateName;
+            $(".main-section h2").text(newTitle);
+        }
     }
     
-
     console.log(data);
     var length = 0;
     for( var key in data ) {

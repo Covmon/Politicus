@@ -25,10 +25,15 @@ $(document).ready(function() {
 
     if (sessionStorage.length != 0) {
         state = sessionStorage.getItem("state");
+        if (state == "UT" && currentURL.includes("predictions_state_senates")) {
+            state = "All";
+        }
         $("#select-state").val(state);
     } else {
         sessionStorage.setItem("state", "All");
     }
+
+    
 
     if (sessionStorage.getItem("data_all") !== null) {
         let jsonString = sessionStorage.getItem("data_all")
@@ -314,13 +319,13 @@ function getTopElections(topRaces, matchup, numRaces, alreadyAdded = []) {
     }
 
     if (topRaces.length < numRaces) {
-        if (competetiveness < 0.4 && !alreadyIncluded) {
+        if (competetiveness < 0.2 && !alreadyIncluded) {
             topRaces.push(matchup);
         }
     } else {
         for (var i=0; i<topRaces.length; i++) {
             let race = topRaces[i];
-            if (race["money"] < fundraising && competetiveness < 0.4 && !alreadyIncluded) {
+            if (race["money"] < fundraising && competetiveness < 0.2 && !alreadyIncluded) {
                 topRaces.splice(i, 1);
                 topRaces.push(matchup);
                 break;
