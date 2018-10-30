@@ -390,9 +390,17 @@ function createSquareChart(type) {
     //Get districts with no election this year
     let stateAbbrev = currentStates[0];
     let currentAllLegislatures = currentLegislators[stateAbbrev];
+    var currentSeatsDem = [];
+    var currentSeatsRep = [];
+
     for (district of currentAllLegislatures) {
         if (district.Position == type && district["Next Election"] != 2018) {
             currentDistrictsNoElection.push(district);
+        }
+        if (district.Position == type && district["Party"] == "REP") {
+            currentSeatsRep.push(district);
+        } else if (district.Position == type && district["Party"] == "DEM") {
+            currentSeatsDem.push(district);
         }
     }
     console.log(currentDistrictsNoElection);
@@ -410,6 +418,34 @@ function createSquareChart(type) {
     let repPercentages = $(".rep-percentages");
 
     console.log(currentOverallData);
+
+    let seatsDem = Math.round(currentOverallData["DEM"]["Predicted Seats"]);
+    let seatsRep = Math.round(currentOverallData["REP"]["Predicted Seats"]);
+
+    let seatGainRep = seatsRep - currentSeatsRep.length;
+    let seatGainDem = seatsDem - currentSeatsDem.length;
+    
+
+    var seatGainDemStr;
+    var seatGainRepStr;
+
+    if (seatGainDem >= 0) {
+        seatGainDemStr = "+" + seatGainDem;
+    } else {
+        seatGainDemStr = "-" + seatGainDem;
+    }
+
+    if (seatGainRep >= 0) {
+        seatGainRepStr = "+" + seatGainRep;
+    } else {
+        seatGainRepStr = "-" + seatGainRep;
+    }
+
+    seatGainDemH = "<h2 class='blue big-h2'>" + seatGainDemStr + " Seats</h2>";
+    seatGainRepH = "<h2 class='red big-h2'>" + seatGainRepStr + " Seats</h2>";
+    demPercentages.append(seatGainDemH);
+    repPercentages.append(seatGainRepH);
+
     let majorityChanceDem = (Number.parseFloat(currentOverallData["DEM"]["Predicted Majority Win Probability"]) * 100).toFixed(2);
     let majorityChanceRep = (Number.parseFloat(currentOverallData["REP"]["Predicted Majority Win Probability"]) * 100).toFixed(2);
 
@@ -427,13 +463,13 @@ function createSquareChart(type) {
         majChanceRepStr = "100";
     }
 
-    majorityChanceDemH = "<h2 class='blue big-h2'>" + majChanceDemStr + "%</h2>";
-    majorityChanceRepH = "<h2 class='red big-h2'>" + majChanceRepStr + "%</h2>";
+    majorityChanceDemH = "<h2 class='blue'>" + majChanceDemStr + "%</h2>";
+    majorityChanceRepH = "<h2 class='red'>" + majChanceRepStr + "%</h2>";
     demPercentages.append(majorityChanceDemH);
     repPercentages.append(majorityChanceRepH);
 
-    let chanceDemP = "<p class='big-p'>Chance <span class='blue'>Democrats</span> win control</p>";
-    let chanceRepP = "<p class='big-p'>Chance <span class='red'>Republicans</span> win control</p>";
+    let chanceDemP = "<p>Chance <span class='blue'>Democrats</span> win control</p>";
+    let chanceRepP = "<p>Chance <span class='red'>Republicans</span> win control</p>";
     demPercentages.append(chanceDemP);
     repPercentages.append(chanceRepP);
 
@@ -441,9 +477,9 @@ function createSquareChart(type) {
     let supermajorityChanceDem = (Number.parseFloat(currentOverallData["DEM"]["Predicted Supermajority Win Probability"]) * 100).toFixed(2);
     let supermajorityChanceRep = (Number.parseFloat(currentOverallData["REP"]["Predicted Supermajority Win Probability"]) * 100).toFixed(2);
 
-    var supermajChanceDemStr = String(majorityChanceDem);
-    var supermajChanceRepStr = String(majorityChanceRep);
-
+    var supermajChanceDemStr = String(supermajorityChanceDem);
+    var supermajChanceRepStr = String(supermajorityChanceRep);
+    
     if (supermajorityChanceDem < 0.0001) {
         supermajChanceDemStr = "<0.01";
     } else if (supermajorityChanceDem == 100.00) {
@@ -451,7 +487,7 @@ function createSquareChart(type) {
     }
     if (supermajorityChanceRep < 0.0001) {
         supermajChanceRepStr = "<0.01";
-    } else if (majorityChanceRep == 100.00) {
+    } else if (supermajorityChanceRep == 100.00) {
         supermajChanceRepStr = "100";
     }
 
@@ -584,8 +620,6 @@ function createSquareChart(type) {
     let mostLikelyP = "<p><b>Most likely outcome:</b><p>";
     overall.append(mostLikelyP);
 
-    let seatsDem = Math.round(currentOverallData["DEM"]["Predicted Seats"]);
-    let seatsRep = Math.round(currentOverallData["REP"]["Predicted Seats"]);
     if (seatsDem + seatsRep != totalSeats) {
         if (currentOverallData["DEM"]["Predicted Seats"] - seatsDem > currentOverallData["REP"]["Predicted Seats"] - seatsRep) {
             seatsDem += 1;
