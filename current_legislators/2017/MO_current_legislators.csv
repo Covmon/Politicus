@@ -1,0 +1,574 @@
+,State,Position,District,Candidate,Party,Year Elected,Next Election,Number of Terms in Position,Unopposed in Last Election,DEM Unopposed in Primary,REP Unopposed in Primary
+0,Missouri,Attorney General,0,Josh David Hawley,REP,2016,2020,0,No,Yes,Yes
+1,Missouri,Governor,0,Eric Greitens,REP,2016,2020,0,No,Yes,Yes
+2,Missouri,Lieutenant Governor,nan,Mike Parson,REP,2016,2020,0,No,Yes,Yes
+3,Missouri,Secretary Of State,0,Jay Ashcroft,REP,2016,2020,0,No,Yes,Yes
+4,Missouri,State Representative,1,Allen Andrews,REP,2016,2018,2,Yes,Yes,Yes
+5,Missouri,State Representative,1,Allen Andrews,REP,2014,2016,1,No,Yes,Yes
+6,Missouri,State Representative,1,Mike Thomson,REP,2012,2014,1,Yes,Yes,Yes
+7,Missouri,State Representative,2,Eggleston,REP,2016,2018,2,Yes,Yes,No
+8,Missouri,State Representative,2,Eggleston,REP,2014,2016,1,No,Yes,No
+9,Missouri,State Representative,2,Casey Lee Guernsey,REP,2012,2014,1,No,Yes,No
+10,Missouri,State Representative,3,Nate Belt Walker,REP,2016,2018,3,Yes,Yes,Yes
+11,Missouri,State Representative,3,Nate Belt Walker,REP,2014,2016,2,Yes,Yes,Yes
+12,Missouri,State Representative,3,Nate Belt Walker,REP,2012,2014,1,No,Yes,Yes
+13,Missouri,State Representative,4,Craig Redmon,REP,2016,2018,3,Yes,Yes,Yes
+14,Missouri,State Representative,4,Craig Redmon,REP,2014,2016,2,Yes,Yes,Yes
+15,Missouri,State Representative,4,Craig Redmon,REP,2012,2014,1,Yes,Yes,Yes
+16,Missouri,State Representative,5,Lindell Shumake,REP,2016,2018,3,No,Yes,No
+17,Missouri,State Representative,5,Lindell Shumake,REP,2014,2016,2,No,Yes,No
+18,Missouri,State Representative,5,Lindell Shumake,REP,2012,2014,1,No,Yes,No
+19,Missouri,State Representative,6,Tim Remole,REP,2016,2018,3,Yes,Yes,Yes
+20,Missouri,State Representative,6,Tim Remole,REP,2014,2016,2,No,Yes,Yes
+21,Missouri,State Representative,6,Tim Remole,REP,2012,2014,1,No,Yes,Yes
+22,Missouri,State Representative,7,Rusty Black,REP,2016,2018,1,Yes,Yes,Yes
+23,Missouri,State Representative,7,Mike Lair,REP,2014,2016,4,Yes,Yes,Yes
+24,Missouri,State Representative,7,Mike Lair,REP,2012,2014,3,No,Yes,Yes
+25,Missouri,State Representative,8,Jim Neely,REP,2016,2018,3,Yes,Yes,Yes
+26,Missouri,State Representative,8,Jim Neely,REP,2014,2016,2,No,Yes,Yes
+27,Missouri,State Representative,8,Jim Neely,REP,2012,2014,1,No,Yes,Yes
+28,Missouri,State Representative,9,Delus Johnson,REP,2016,2018,3,Yes,Yes,No
+29,Missouri,State Representative,9,Delus Johnson,REP,2014,2016,2,Yes,Yes,No
+30,Missouri,State Representative,9,Delus Johnson,REP,2012,2014,1,Yes,Yes,No
+31,Missouri,State Representative,10,Pat Conway,DEM,2016,2018,3,Yes,No,No
+32,Missouri,State Representative,10,Pat Conway,DEM,2014,2016,2,Yes,No,No
+33,Missouri,State Representative,10,Pat Conway,DEM,2012,2014,1,Yes,No,No
+34,Missouri,State Representative,11,Galen Wayne Higdon Jr.,REP,2016,2018,3,Yes,Yes,No
+35,Missouri,State Representative,11,Galen Wayne Higdon Jr.,REP,2014,2016,2,Yes,Yes,No
+36,Missouri,State Representative,11,Galen Wayne Higdon Jr.,REP,2012,2014,1,Yes,Yes,No
+37,Missouri,State Representative,12,Ken Wilson,REP,2016,2018,3,No,Yes,Yes
+38,Missouri,State Representative,12,Ken Wilson,REP,2014,2016,2,No,Yes,Yes
+39,Missouri,State Representative,12,Ken Wilson,REP,2012,2014,1,Yes,Yes,Yes
+40,Missouri,State Representative,13,Nick Marshall,REP,2016,2018,3,No,Yes,Yes
+41,Missouri,State Representative,13,Nick Marshall,REP,2014,2016,2,Yes,Yes,Yes
+42,Missouri,State Representative,13,Nick Marshall,REP,2012,2014,1,No,Yes,Yes
+43,Missouri,State Representative,14,Kevin Corlew,REP,2016,2018,2,No,Yes,Yes
+44,Missouri,State Representative,14,Kevin Corlew,REP,2014,2016,1,No,Yes,Yes
+45,Missouri,State Representative,14,Ron Schieber,REP,2012,2014,1,No,Yes,Yes
+46,Missouri,State Representative,15,Jon Carpenter,DEM,2016,2018,3,Yes,Yes,No
+47,Missouri,State Representative,15,Jon Carpenter,DEM,2014,2016,2,Yes,Yes,No
+48,Missouri,State Representative,15,Jon Carpenter,DEM,2012,2014,1,No,Yes,No
+49,Missouri,State Representative,16,Noel Shull,REP,2016,2018,3,Yes,Yes,Yes
+50,Missouri,State Representative,16,Noel Shull,REP,2014,2016,2,Yes,Yes,Yes
+51,Missouri,State Representative,16,Noel Shull,REP,2012,2014,1,No,Yes,Yes
+52,Missouri,State Representative,17,Mark Ellebracht,DEM,2016,2018,1,No,Yes,Yes
+53,Missouri,State Representative,17,Nick King,REP,2014,2016,1,No,Yes,Yes
+54,Missouri,State Representative,17,Myron Neth,REP,2012,2014,1,No,Yes,Yes
+55,Missouri,State Representative,18,Lauren Arthur,DEM,2016,2018,2,Yes,Yes,Yes
+56,Missouri,State Representative,18,Lauren Arthur,DEM,2014,2016,1,No,Yes,Yes
+57,Missouri,State Representative,18,Jay Swearingen,DEM,2012,2014,1,Yes,Yes,Yes
+58,Missouri,State Representative,19,Ingrid Burnett,DEM,2016,2018,1,No,Yes,Yes
+59,Missouri,State Representative,19,Joseph J) Rizzo,DEM,2014,2016,2,Yes,Yes,Yes
+60,Missouri,State Representative,19,Joseph J) Rizzo,DEM,2012,2014,1,Yes,Yes,Yes
+61,Missouri,State Representative,20,Bill Kidd,REP,2016,2018,2,No,Yes,Yes
+62,Missouri,State Representative,20,Bill Kidd,REP,2014,2016,1,No,Yes,Yes
+63,Missouri,State Representative,20,John Mayfield Sr.,DEM,2012,2014,1,No,Yes,Yes
+64,Missouri,State Representative,21,Ira Anders,DEM,2016,2018,3,No,No,Yes
+65,Missouri,State Representative,21,Ira Anders,DEM,2014,2016,2,Yes,No,Yes
+66,Missouri,State Representative,21,Ira Anders,DEM,2012,2014,1,No,No,Yes
+67,Missouri,State Representative,22,Brandon Ellington,DEM,2016,2018,3,Yes,Yes,Yes
+68,Missouri,State Representative,22,Brandon Ellington,DEM,2014,2016,2,Yes,Yes,Yes
+69,Missouri,State Representative,22,Brandon Ellington,DEM,2012,2014,1,Yes,Yes,Yes
+70,Missouri,State Representative,23,Randy Dunn,DEM,2016,2018,3,Yes,Yes,Yes
+71,Missouri,State Representative,23,Randy Dunn,DEM,2014,2016,2,Yes,Yes,Yes
+72,Missouri,State Representative,23,Randy Dunn,DEM,2012,2014,1,Yes,Yes,Yes
+73,Missouri,State Representative,24,Judy Morgan,DEM,2016,2018,3,Yes,Yes,Yes
+74,Missouri,State Representative,24,Judy Morgan,DEM,2014,2016,2,Yes,Yes,Yes
+75,Missouri,State Representative,24,Judy Morgan,DEM,2012,2014,1,No,Yes,Yes
+76,Missouri,State Representative,25,Greg Razer,DEM,2016,2018,1,Yes,Yes,Yes
+77,Missouri,State Representative,25,Jeremy Lafaver,DEM,2014,2016,2,Yes,Yes,Yes
+78,Missouri,State Representative,25,Jeremy Lafaver,DEM,2012,2014,1,No,Yes,Yes
+79,Missouri,State Representative,26,Gail McCann Beatty,DEM,2016,2018,3,Yes,No,Yes
+80,Missouri,State Representative,26,Gail McCann Beatty,DEM,2014,2016,2,Yes,No,Yes
+81,Missouri,State Representative,26,Gail McCann Beatty,DEM,2012,2014,1,Yes,No,Yes
+82,Missouri,State Representative,27,Richard Brown,DEM,2016,2018,1,Yes,Yes,Yes
+83,Missouri,State Representative,27,Bonnaye Mims,DEM,2014,2016,2,Yes,Yes,Yes
+84,Missouri,State Representative,27,Bonnaye Mims,DEM,2012,2014,1,Yes,Yes,Yes
+85,Missouri,State Representative,28,Jerome Barnes,DEM,2016,2018,1,No,No,Yes
+86,Missouri,State Representative,28,Tom McDonald,DEM,2014,2016,2,Yes,No,Yes
+87,Missouri,State Representative,28,Tom McDonald,DEM,2012,2014,1,No,No,Yes
+88,Missouri,State Representative,29,Rory Rowland,DEM,2016,2018,2,Yes,Yes,Yes
+89,Missouri,State Representative,29,Noel Torpey,REP,2014,2016,2,No,Yes,Yes
+90,Missouri,State Representative,29,Noel Torpey,REP,2012,2014,1,No,Yes,Yes
+91,Missouri,State Representative,30,Mike Cierpiot,REP,2016,2018,3,Yes,Yes,No
+92,Missouri,State Representative,30,Mike Cierpiot,REP,2014,2016,2,Yes,Yes,No
+93,Missouri,State Representative,30,Mike Cierpiot,REP,2012,2014,1,No,Yes,No
+94,Missouri,State Representative,31,Dan Stacy,REP,2016,2018,1,Yes,Yes,Yes
+95,Missouri,State Representative,31,Sheila Solon,REP,2014,2016,2,Yes,Yes,Yes
+96,Missouri,State Representative,31,Sheila Solon,REP,2012,2014,1,No,Yes,Yes
+97,Missouri,State Representative,32,Jeanie Lauer,REP,2016,2018,3,Yes,Yes,Yes
+98,Missouri,State Representative,32,Jeanie Lauer,REP,2014,2016,2,No,Yes,Yes
+99,Missouri,State Representative,32,Jeanie Lauer,REP,2012,2014,1,No,Yes,Yes
+100,Missouri,State Representative,33,Donna Pfautsch,REP,2016,2018,3,No,No,Yes
+101,Missouri,State Representative,33,Donna Pfautsch,REP,2014,2016,2,No,No,Yes
+102,Missouri,State Representative,33,Donna Pfautsch,REP,2012,2014,1,No,No,Yes
+103,Missouri,State Representative,34,Rebecca Roeber,REP,2016,2018,2,Yes,Yes,Yes
+104,Missouri,State Representative,34,Rebecca Roeber,REP,2014,2016,1,No,Yes,Yes
+105,Missouri,State Representative,34,Jeff Grisamore,REP,2012,2014,1,Yes,Yes,Yes
+106,Missouri,State Representative,35,Gary Cross,REP,2016,2018,3,Yes,Yes,No
+107,Missouri,State Representative,35,Gary Cross,REP,2014,2016,2,No,Yes,No
+108,Missouri,State Representative,35,Gary Cross,REP,2012,2014,1,Yes,Yes,No
+109,Missouri,State Representative,36,Daron McGee,DEM,2016,2018,1,Yes,Yes,Yes
+110,Missouri,State Representative,36,Kevin McManus,DEM,2014,2016,2,No,Yes,Yes
+111,Missouri,State Representative,36,Kevin McManus,DEM,2012,2014,1,Yes,Yes,Yes
+112,Missouri,State Representative,37,Joe Runions,DEM,2016,2018,3,Yes,Yes,Yes
+113,Missouri,State Representative,37,Joe Runions,DEM,2014,2016,2,Yes,Yes,Yes
+114,Missouri,State Representative,37,Joe Runions,DEM,2012,2014,1,No,Yes,Yes
+115,Missouri,State Representative,38,J Berry,REP,2016,2018,3,No,Yes,Yes
+116,Missouri,State Representative,38,J Berry,REP,2014,2016,2,Yes,Yes,Yes
+117,Missouri,State Representative,38,J Berry,REP,2012,2014,1,No,Yes,Yes
+118,Missouri,State Representative,39,Joe Don McGaugh,REP,2016,2018,3,Yes,No,No
+119,Missouri,State Representative,39,Joe Don McGaugh,REP,2014,2016,2,Yes,No,No
+120,Missouri,State Representative,39,Joe Don McGaugh,REP,2012,2014,1,No,No,No
+121,Missouri,State Representative,40,Jim Hansen,REP,2016,2018,3,Yes,Yes,Yes
+122,Missouri,State Representative,40,Jim Hansen,REP,2014,2016,2,No,Yes,Yes
+123,Missouri,State Representative,40,Jim Hansen,REP,2012,2014,1,No,Yes,Yes
+124,Missouri,State Representative,41,Randy Pietzman,REP,2016,2018,2,Yes,Yes,Yes
+125,Missouri,State Representative,41,Randy Pietzman,REP,2014,2016,1,No,Yes,Yes
+126,Missouri,State Representative,41,Edward Schieffer,DEM,2012,2014,1,No,Yes,Yes
+127,Missouri,State Representative,42,Bart Korman,REP,2016,2018,3,Yes,Yes,No
+128,Missouri,State Representative,42,Bart Korman,REP,2014,2016,2,No,Yes,No
+129,Missouri,State Representative,42,Bart Korman,REP,2012,2014,1,Yes,Yes,No
+130,Missouri,State Representative,43,Jay Houghton,REP,2016,2018,3,No,Yes,No
+131,Missouri,State Representative,43,Jay Houghton,REP,2014,2016,2,No,Yes,No
+132,Missouri,State Representative,43,Jay Houghton,REP,2012,2014,1,No,Yes,No
+133,Missouri,State Representative,44,Cheri Toalson Reisch,REP,2016,2018,1,No,Yes,Yes
+134,Missouri,State Representative,44,Caleb Rowden,REP,2014,2016,2,No,Yes,Yes
+135,Missouri,State Representative,44,Caleb Rowden,REP,2012,2014,1,No,Yes,Yes
+136,Missouri,State Representative,45,Kip Kendrick,DEM,2016,2018,2,No,Yes,Yes
+137,Missouri,State Representative,45,Kip Kendrick,DEM,2014,2016,1,Yes,Yes,Yes
+138,Missouri,State Representative,45,Chris Kelly,DEM,2012,2014,1,Yes,Yes,Yes
+139,Missouri,State Representative,46,Martha Stevens,DEM,2016,2018,1,No,Yes,Yes
+140,Missouri,State Representative,46,Stephen Webber,DEM,2014,2016,2,Yes,Yes,Yes
+141,Missouri,State Representative,46,Stephen Webber,DEM,2012,2014,1,No,Yes,Yes
+142,Missouri,State Representative,47,Chuck Basye,REP,2016,2018,2,No,Yes,Yes
+143,Missouri,State Representative,47,Chuck Basye,REP,2014,2016,1,No,Yes,Yes
+144,Missouri,State Representative,47,John Wright,DEM,2012,2014,1,No,Yes,Yes
+145,Missouri,State Representative,48,Dave Muntzel,REP,2016,2018,3,No,Yes,Yes
+146,Missouri,State Representative,48,Dave Muntzel,REP,2014,2016,2,Yes,Yes,Yes
+147,Missouri,State Representative,48,Dave Muntzel,REP,2012,2014,1,No,Yes,Yes
+148,Missouri,State Representative,49,Travis Fitzwater,REP,2016,2018,2,Yes,Yes,Yes
+149,Missouri,State Representative,49,Travis Fitzwater,REP,2014,2016,1,No,Yes,Yes
+150,Missouri,State Representative,49,Jeanie Riddle,REP,2012,2014,1,No,Yes,Yes
+151,Missouri,State Representative,50,Caleb Jones,REP,2016,2018,3,Yes,Yes,Yes
+152,Missouri,State Representative,50,Caleb Jones,REP,2014,2016,2,Yes,Yes,Yes
+153,Missouri,State Representative,50,Caleb Jones,REP,2012,2014,1,Yes,Yes,Yes
+154,Missouri,State Representative,51,Dean Dohrman,REP,2016,2018,3,No,Yes,Yes
+155,Missouri,State Representative,51,Dean Dohrman,REP,2014,2016,2,No,Yes,Yes
+156,Missouri,State Representative,51,Dean Dohrman,REP,2012,2014,1,No,Yes,Yes
+157,Missouri,State Representative,52,Nathan Beard,REP,2016,2018,2,No,Yes,Yes
+158,Missouri,State Representative,52,Nathan Beard,REP,2014,2016,1,Yes,Yes,Yes
+159,Missouri,State Representative,52,Stanley Cox,REP,2012,2014,1,No,Yes,Yes
+160,Missouri,State Representative,53,Glen Kolkmeyer,REP,2016,2018,3,Yes,Yes,Yes
+161,Missouri,State Representative,53,Glen Kolkmeyer,REP,2014,2016,2,No,Yes,Yes
+162,Missouri,State Representative,53,Glen Kolkmeyer,REP,2012,2014,1,No,Yes,Yes
+163,Missouri,State Representative,54,Dan Houx,REP,2016,2018,1,No,Yes,Yes
+164,Missouri,State Representative,54,Denny Hoskins,REP,2014,2016,2,No,Yes,Yes
+165,Missouri,State Representative,54,Denny Hoskins,REP,2012,2014,1,No,Yes,Yes
+166,Missouri,State Representative,55,Rick Brattin,REP,2016,2018,3,No,Yes,No
+167,Missouri,State Representative,55,Rick Brattin,REP,2014,2016,2,Yes,Yes,No
+168,Missouri,State Representative,55,Rick Brattin,REP,2012,2014,1,No,Yes,No
+169,Missouri,State Representative,56,Jack Scott Bondon,REP,2016,2018,2,No,Yes,Yes
+170,Missouri,State Representative,56,Jack Scott Bondon,REP,2014,2016,1,No,Yes,Yes
+171,Missouri,State Representative,56,Chris Molendorp,REP,2012,2014,1,No,Yes,Yes
+172,Missouri,State Representative,57,Wanda Brown,REP,2016,2018,3,No,Yes,Yes
+173,Missouri,State Representative,57,Wanda Brown,REP,2014,2016,2,No,Yes,Yes
+174,Missouri,State Representative,57,Wanda Brown,REP,2012,2014,1,No,Yes,Yes
+175,Missouri,State Representative,58,David Wood,REP,2016,2018,3,No,Yes,Yes
+176,Missouri,State Representative,58,David Wood,REP,2014,2016,2,Yes,Yes,Yes
+177,Missouri,State Representative,58,David Wood,REP,2012,2014,1,Yes,Yes,Yes
+178,Missouri,State Representative,59,Mike Bernskoetter,REP,2016,2018,3,Yes,Yes,No
+179,Missouri,State Representative,59,Mike Bernskoetter,REP,2014,2016,2,No,Yes,No
+180,Missouri,State Representative,59,Mike Bernskoetter,REP,2012,2014,1,No,Yes,No
+181,Missouri,State Representative,60,Jay Barnes,REP,2016,2018,3,No,No,No
+182,Missouri,State Representative,60,Jay Barnes,REP,2014,2016,2,Yes,No,No
+183,Missouri,State Representative,60,Jay Barnes,REP,2012,2014,1,No,No,No
+184,Missouri,State Representative,61,Justin Alferman,REP,2016,2018,2,No,Yes,Yes
+185,Missouri,State Representative,61,Justin Alferman,REP,2014,2016,1,No,Yes,Yes
+186,Missouri,State Representative,61,Dave Schatz,REP,2012,2014,1,No,Yes,Yes
+187,Missouri,State Representative,62,Tom Hurst,REP,2016,2018,3,Yes,Yes,Yes
+188,Missouri,State Representative,62,Tom Hurst,REP,2014,2016,2,Yes,Yes,Yes
+189,Missouri,State Representative,62,Tom Hurst,REP,2012,2014,1,No,Yes,Yes
+190,Missouri,State Representative,63,Bryan Spencer,REP,2016,2018,3,No,Yes,Yes
+191,Missouri,State Representative,63,Bryan Spencer,REP,2014,2016,2,No,Yes,Yes
+192,Missouri,State Representative,63,Bryan Spencer,REP,2012,2014,1,No,Yes,Yes
+193,Missouri,State Representative,64,Robert Cornejo,REP,2016,2018,3,No,Yes,No
+194,Missouri,State Representative,64,Robert Cornejo,REP,2014,2016,2,No,Yes,No
+195,Missouri,State Representative,64,Robert Cornejo,REP,2012,2014,1,No,Yes,No
+196,Missouri,State Representative,65,Tom Hannegan,REP,2016,2018,1,No,Yes,Yes
+197,Missouri,State Representative,65,Anne Zerr,REP,2014,2016,2,Yes,Yes,Yes
+198,Missouri,State Representative,65,Anne Zerr,REP,2012,2014,1,No,Yes,Yes
+199,Missouri,State Representative,66,Tommie Pierson Jr.,DEM,2016,2018,1,No,No,Yes
+200,Missouri,State Representative,66,Tommie Pierson Sr.,DEM,2014,2016,2,No,No,Yes
+201,Missouri,State Representative,66,Tommie Pierson Sr.,DEM,2012,2014,1,No,No,Yes
+202,Missouri,State Representative,67,Alan Green,DEM,2016,2018,2,Yes,Yes,Yes
+203,Missouri,State Representative,67,Alan Green,DEM,2014,2016,1,No,Yes,Yes
+204,Missouri,State Representative,67,Steve Webb,DEM,2012,2014,1,Yes,Yes,Yes
+205,Missouri,State Representative,68,Jay Mosley,DEM,2016,2018,1,No,Yes,Yes
+206,Missouri,State Representative,68,Keith English,DEM,2014,2016,2,No,Yes,Yes
+207,Missouri,State Representative,68,Keith English,DEM,2012,2014,1,No,Yes,Yes
+208,Missouri,State Representative,69,Gretchen Bangert,DEM,2016,2018,1,Yes,Yes,Yes
+209,Missouri,State Representative,69,Margo McNeil,DEM,2014,2016,2,No,Yes,Yes
+210,Missouri,State Representative,69,Margo McNeil,DEM,2012,2014,1,No,Yes,Yes
+211,Missouri,State Representative,70,Mark Matthiesen,REP,2016,2018,1,No,No,Yes
+212,Missouri,State Representative,70,Bill Otto,DEM,2014,2016,2,No,No,Yes
+213,Missouri,State Representative,70,Bill Otto,DEM,2012,2014,1,No,No,Yes
+214,Missouri,State Representative,71,Sue Meredith,DEM,2016,2018,3,No,No,Yes
+215,Missouri,State Representative,71,Sue Meredith,DEM,2014,2016,2,No,No,Yes
+216,Missouri,State Representative,71,Sue Meredith,DEM,2012,2014,1,Yes,No,Yes
+217,Missouri,State Representative,72,Mary Nichols,DEM,2016,2018,3,No,No,Yes
+218,Missouri,State Representative,72,Mary Nichols,DEM,2014,2016,2,No,No,Yes
+219,Missouri,State Representative,72,Mary Nichols,DEM,2012,2014,1,No,No,Yes
+220,Missouri,State Representative,73,Courtney Curtis,DEM,2016,2018,3,Yes,No,Yes
+221,Missouri,State Representative,73,Courtney Curtis,DEM,2014,2016,2,Yes,No,Yes
+222,Missouri,State Representative,73,Courtney Curtis,DEM,2012,2014,1,Yes,No,Yes
+223,Missouri,State Representative,74,Cora Faith Walker,DEM,2016,2018,1,Yes,Yes,Yes
+224,Missouri,State Representative,74,Sharon Pace,DEM,2014,2016,2,Yes,Yes,Yes
+225,Missouri,State Representative,74,Sharon Pace,DEM,2012,2014,1,Yes,Yes,Yes
+226,Missouri,State Representative,75,Alan Gray,DEM,2016,2018,1,Yes,No,Yes
+227,Missouri,State Representative,75,Rochelle Walton Gray,DEM,2014,2016,2,Yes,No,Yes
+228,Missouri,State Representative,75,Rochelle Walton Gray,DEM,2012,2014,1,Yes,No,Yes
+229,Missouri,State Representative,76,Joshua Peters,DEM,2016,2018,3,Yes,No,Yes
+230,Missouri,State Representative,76,Joshua Peters,DEM,2014,2016,2,Yes,No,Yes
+231,Missouri,State Representative,76,Chris Carter Sr.,DEM,2012,2014,1,Yes,No,Yes
+232,Missouri,State Representative,77,Steve Roberts II,DEM,2016,2018,1,Yes,No,Yes
+233,Missouri,State Representative,77,Kim Gardner,DEM,2014,2016,2,Yes,No,Yes
+234,Missouri,State Representative,77,Kim Gardner,DEM,2012,2014,1,Yes,No,Yes
+235,Missouri,State Representative,78,Bruce Franks Jr.,DEM,2016,2018,1,No,Yes,Yes
+236,Missouri,State Representative,78,Penny Hubbard,DEM,2014,2016,2,No,Yes,Yes
+237,Missouri,State Representative,78,Penny Hubbard,DEM,2012,2014,1,Yes,Yes,Yes
+238,Missouri,State Representative,79,Mike Butler,DEM,2016,2018,3,No,No,Yes
+239,Missouri,State Representative,79,Mike Butler,DEM,2014,2016,2,No,No,Yes
+240,Missouri,State Representative,79,Mike Butler,DEM,2012,2014,1,Yes,No,Yes
+241,Missouri,State Representative,80,Peter Merideth,DEM,2016,2018,1,No,No,Yes
+242,Missouri,State Representative,80,Mike Colona,DEM,2014,2016,2,No,No,Yes
+243,Missouri,State Representative,80,Mike Colona,DEM,2012,2014,1,Yes,No,Yes
+244,Missouri,State Representative,81,Fred Wessels,DEM,2016,2018,1,Yes,No,Yes
+245,Missouri,State Representative,81,Jake Hummel,DEM,2014,2016,2,No,No,Yes
+246,Missouri,State Representative,81,Jake Hummel,DEM,2012,2014,1,Yes,No,Yes
+247,Missouri,State Representative,82,Donna McBaringer,DEM,2016,2018,1,No,No,Yes
+248,Missouri,State Representative,82,Michele Kratky,DEM,2014,2016,2,No,No,Yes
+249,Missouri,State Representative,82,Michele Kratky,DEM,2012,2014,1,No,No,Yes
+250,Missouri,State Representative,83,Gina Mitten,DEM,2016,2018,3,No,Yes,Yes
+251,Missouri,State Representative,83,Gina Mitten,DEM,2014,2016,2,No,Yes,Yes
+252,Missouri,State Representative,83,Gina Mitten,DEM,2012,2014,1,Yes,Yes,Yes
+253,Missouri,State Representative,84,Karla May,DEM,2016,2018,3,Yes,No,Yes
+254,Missouri,State Representative,84,Karla May,DEM,2014,2016,2,Yes,No,Yes
+255,Missouri,State Representative,84,Karla May,DEM,2012,2014,1,Yes,No,Yes
+256,Missouri,State Representative,85,Clem Smith,DEM,2016,2018,3,No,No,Yes
+257,Missouri,State Representative,85,Clem Smith,DEM,2014,2016,2,Yes,No,Yes
+258,Missouri,State Representative,85,Clem Smith,DEM,2012,2014,1,Yes,No,Yes
+259,Missouri,State Representative,86,Joe Adams Jr.,DEM,2016,2018,2,No,No,Yes
+260,Missouri,State Representative,86,Joe Adams Jr.,DEM,2014,2016,1,Yes,No,Yes
+261,Missouri,State Representative,86,Rory Ellinger,DEM,2012,2014,1,Yes,No,Yes
+262,Missouri,State Representative,87,Stacey Newman,DEM,2016,2018,3,Yes,No,Yes
+263,Missouri,State Representative,87,Stacey Newman,DEM,2014,2016,2,Yes,No,Yes
+264,Missouri,State Representative,87,Stacey Newman,DEM,2012,2014,1,Yes,No,Yes
+265,Missouri,State Representative,88,Tracy McCreery,DEM,2016,2018,2,No,Yes,No
+266,Missouri,State Representative,88,Tracy McCreery,DEM,2014,2016,1,No,Yes,No
+267,Missouri,State Representative,88,Jill Seltzer Schupp,DEM,2012,2014,1,Yes,Yes,No
+268,Missouri,State Representative,89,Dean Plocher,REP,2016,2018,2,No,Yes,Yes
+269,Missouri,State Representative,89,John Diehl Jr.,REP,2014,2016,2,No,Yes,Yes
+270,Missouri,State Representative,89,John Diehl Jr.,REP,2012,2014,1,Yes,Yes,Yes
+271,Missouri,State Representative,90,Deb Lavender,DEM,2016,2018,2,No,Yes,Yes
+272,Missouri,State Representative,90,Deb Lavender,DEM,2014,2016,1,No,Yes,Yes
+273,Missouri,State Representative,90,Rick Stream,REP,2012,2014,1,No,Yes,Yes
+274,Missouri,State Representative,91,Sarah Unsicker,DEM,2016,2018,1,No,Yes,Yes
+275,Missouri,State Representative,91,Jeanne Kirkton,DEM,2014,2016,4,No,Yes,Yes
+276,Missouri,State Representative,91,Jeanne Kirkton,DEM,2012,2014,3,No,Yes,Yes
+277,Missouri,State Representative,92,Doug Beck,DEM,2016,2018,1,No,Yes,Yes
+278,Missouri,State Representative,92,Genise Montecillo,DEM,2014,2016,2,No,Yes,Yes
+279,Missouri,State Representative,92,Genise Montecillo,DEM,2012,2014,1,No,Yes,Yes
+280,Missouri,State Representative,93,Bob Robert Burns,DEM,2016,2018,3,No,Yes,Yes
+281,Missouri,State Representative,93,Bob Robert Burns,DEM,2014,2016,2,No,Yes,Yes
+282,Missouri,State Representative,93,Bob Robert Burns,DEM,2012,2014,1,No,Yes,Yes
+283,Missouri,State Representative,94,Cloria Brown,REP,2016,2018,2,No,Yes,No
+284,Missouri,State Representative,94,Cloria Brown,REP,2014,2016,1,No,Yes,No
+285,Missouri,State Representative,94,Vicki Lorenz Englund,DEM,2012,2014,1,No,Yes,No
+286,Missouri,State Representative,95,Marsha Ellen Haefner,REP,2016,2018,3,No,Yes,No
+287,Missouri,State Representative,95,Marsha Ellen Haefner,REP,2014,2016,2,Yes,Yes,No
+288,Missouri,State Representative,95,Marsha Ellen Haefner,REP,2012,2014,1,No,Yes,No
+289,Missouri,State Representative,96,David Gregory,REP,2016,2018,1,Yes,Yes,Yes
+290,Missouri,State Representative,96,Mike Leara,REP,2014,2016,2,No,Yes,Yes
+291,Missouri,State Representative,96,Mike Leara,REP,2012,2014,1,Yes,Yes,Yes
+292,Missouri,State Representative,97,John McCaherty,REP,2016,2018,3,No,No,No
+293,Missouri,State Representative,97,John McCaherty,REP,2014,2016,2,No,No,No
+294,Missouri,State Representative,97,John McCaherty,REP,2012,2014,1,No,No,No
+295,Missouri,State Representative,98,Shamed Dogan,REP,2016,2018,2,No,Yes,Yes
+296,Missouri,State Representative,98,Shamed Dogan,REP,2014,2016,1,Yes,Yes,Yes
+297,Missouri,State Representative,98,Dwight Scharnhorst,REP,2012,2014,1,Yes,Yes,Yes
+298,Missouri,State Representative,99,Jean Evans,REP,2016,2018,1,No,Yes,Yes
+299,Missouri,State Representative,99,Andrew Koenig,REP,2014,2016,2,No,Yes,Yes
+300,Missouri,State Representative,99,Andrew Koenig,REP,2012,2014,1,No,Yes,Yes
+301,Missouri,State Representative,100,Derek Grier,REP,2016,2018,1,Yes,Yes,Yes
+302,Missouri,State Representative,100,Sue Allen,REP,2014,2016,2,Yes,Yes,Yes
+303,Missouri,State Representative,100,Sue Allen,REP,2012,2014,1,Yes,Yes,Yes
+304,Missouri,State Representative,101,Bruce Degroot,REP,2016,2018,1,No,Yes,Yes
+305,Missouri,State Representative,101,Don Gosen,REP,2014,2016,2,No,Yes,Yes
+306,Missouri,State Representative,101,Don Gosen,REP,2012,2014,1,Yes,Yes,Yes
+307,Missouri,State Representative,102,Kurt Bahr,REP,2016,2018,3,Yes,No,No
+308,Missouri,State Representative,102,Kurt Bahr,REP,2014,2016,2,No,No,No
+309,Missouri,State Representative,102,Kurt Bahr,REP,2012,2014,1,No,No,No
+310,Missouri,State Representative,103,John Wiemann,REP,2016,2018,2,No,Yes,Yes
+311,Missouri,State Representative,103,John Wiemann,REP,2014,2016,1,No,Yes,Yes
+312,Missouri,State Representative,103,Doug Funderburk,REP,2012,2014,1,Yes,Yes,Yes
+313,Missouri,State Representative,104,Kathie Conway,REP,2016,2018,3,No,Yes,Yes
+314,Missouri,State Representative,104,Kathie Conway,REP,2014,2016,2,No,Yes,Yes
+315,Missouri,State Representative,104,Kathie Conway,REP,2012,2014,1,No,Yes,Yes
+316,Missouri,State Representative,105,Phil Christofanelli,REP,2016,2018,1,No,No,Yes
+317,Missouri,State Representative,105,Mark Parkinson,REP,2014,2016,2,No,No,Yes
+318,Missouri,State Representative,105,Mark Parkinson,REP,2012,2014,1,No,No,Yes
+319,Missouri,State Representative,106,Chrissy Sommer,REP,2016,2018,3,No,Yes,Yes
+320,Missouri,State Representative,106,Chrissy Sommer,REP,2014,2016,2,No,Yes,Yes
+321,Missouri,State Representative,106,Chrissy Sommer,REP,2012,2014,1,No,Yes,Yes
+322,Missouri,State Representative,107,Nick Schroer,REP,2016,2018,1,No,Yes,Yes
+323,Missouri,State Representative,107,Ron Hicks,REP,2014,2016,2,Yes,Yes,Yes
+324,Missouri,State Representative,107,Ron Hicks,REP,2012,2014,1,No,Yes,Yes
+325,Missouri,State Representative,108,Justin Hill,REP,2016,2018,2,No,Yes,Yes
+326,Missouri,State Representative,108,Justin Hill,REP,2014,2016,1,No,Yes,Yes
+327,Missouri,State Representative,108,Chuck Gatschenberger,REP,2012,2014,1,Yes,Yes,Yes
+328,Missouri,State Representative,109,Paul Curtman,REP,2016,2018,3,No,Yes,No
+329,Missouri,State Representative,109,Paul Curtman,REP,2014,2016,2,No,Yes,No
+330,Missouri,State Representative,109,Paul Curtman,REP,2012,2014,1,No,Yes,No
+331,Missouri,State Representative,110,Kirk Mathews,REP,2016,2018,2,Yes,Yes,No
+332,Missouri,State Representative,110,Kirk Mathews,REP,2014,2016,1,Yes,Yes,No
+333,Missouri,State Representative,110,Timothy Jones,REP,2012,2014,1,Yes,Yes,No
+334,Missouri,State Representative,111,Shane Roden,REP,2016,2018,2,No,Yes,No
+335,Missouri,State Representative,111,Shane Roden,REP,2014,2016,1,No,Yes,No
+336,Missouri,State Representative,111,Mike Frame,DEM,2012,2014,1,No,Yes,No
+337,Missouri,State Representative,112,Rob Vescovo,REP,2016,2018,2,No,Yes,Yes
+338,Missouri,State Representative,112,Rob Vescovo,REP,2014,2016,1,No,Yes,Yes
+339,Missouri,State Representative,112,Paul Wieland,REP,2012,2014,1,No,Yes,Yes
+340,Missouri,State Representative,113,Dan Shaul,REP,2016,2018,2,No,Yes,Yes
+341,Missouri,State Representative,113,Dan Shaul,REP,2014,2016,1,No,Yes,Yes
+342,Missouri,State Representative,113,Jeff Roorda,DEM,2012,2014,1,No,Yes,Yes
+343,Missouri,State Representative,114,Becky Ruth,REP,2016,2018,2,Yes,Yes,Yes
+344,Missouri,State Representative,114,Becky Ruth,REP,2014,2016,1,No,Yes,Yes
+345,Missouri,State Representative,114,Tj McKenna,DEM,2012,2014,1,No,Yes,Yes
+346,Missouri,State Representative,115,Elaine Freeman Gannon,REP,2016,2018,3,No,Yes,No
+347,Missouri,State Representative,115,Elaine Freeman Gannon,REP,2014,2016,2,No,Yes,No
+348,Missouri,State Representative,115,Elaine Freeman Gannon,REP,2012,2014,1,No,Yes,No
+349,Missouri,State Representative,116,Kevin Engler,REP,2016,2018,3,Yes,Yes,Yes
+350,Missouri,State Representative,116,Kevin Engler,REP,2014,2016,2,Yes,Yes,Yes
+351,Missouri,State Representative,116,Kevin Engler,REP,2012,2014,1,Yes,Yes,Yes
+352,Missouri,State Representative,117,Mike Henderson,REP,2016,2018,1,No,Yes,Yes
+353,Missouri,State Representative,117,Linda Black,DEM,2014,2016,2,Yes,Yes,Yes
+354,Missouri,State Representative,117,Linda Black,DEM,2012,2014,1,Yes,Yes,Yes
+355,Missouri,State Representative,118,Ben Harris,DEM,2016,2018,3,Yes,No,No
+356,Missouri,State Representative,118,Ben Harris,DEM,2014,2016,2,No,No,No
+357,Missouri,State Representative,118,Ben Harris,DEM,2012,2014,1,Yes,No,No
+358,Missouri,State Representative,119,Nate Tate,REP,2016,2018,1,Yes,Yes,Yes
+359,Missouri,State Representative,119,Dave Hinson,REP,2014,2016,2,No,Yes,Yes
+360,Missouri,State Representative,119,Dave Hinson,REP,2012,2014,1,Yes,Yes,Yes
+361,Missouri,State Representative,120,Jason Chipman,REP,2016,2018,2,Yes,Yes,Yes
+362,Missouri,State Representative,120,Jason Chipman,REP,2014,2016,1,No,Yes,Yes
+363,Missouri,State Representative,120,Jason Smith,REP,2012,2014,1,Yes,Yes,Yes
+364,Missouri,State Representative,121,Keith Frederick,REP,2016,2018,3,Yes,Yes,No
+365,Missouri,State Representative,121,Keith Frederick,REP,2014,2016,2,Yes,Yes,No
+366,Missouri,State Representative,121,Keith Frederick,REP,2012,2014,1,Yes,Yes,No
+367,Missouri,State Representative,122,Steven Lynch Jr.,REP,2016,2018,3,Yes,Yes,Yes
+368,Missouri,State Representative,122,Steven Lynch Jr.,REP,2014,2016,2,Yes,Yes,Yes
+369,Missouri,State Representative,122,Steven Lynch Jr.,REP,2012,2014,1,Yes,Yes,Yes
+370,Missouri,State Representative,123,Diane Franklin,REP,2016,2018,3,Yes,Yes,No
+371,Missouri,State Representative,123,Diane Franklin,REP,2014,2016,2,Yes,Yes,No
+372,Missouri,State Representative,123,Diane Franklin,REP,2012,2014,1,Yes,Yes,No
+373,Missouri,State Representative,124,Rocky Miller,REP,2016,2018,3,Yes,Yes,Yes
+374,Missouri,State Representative,124,Rocky Miller,REP,2014,2016,2,Yes,Yes,Yes
+375,Missouri,State Representative,124,Rocky Miller,REP,2012,2014,1,Yes,Yes,Yes
+376,Missouri,State Representative,125,Warren Love,REP,2016,2018,3,Yes,Yes,Yes
+377,Missouri,State Representative,125,Warren Love,REP,2014,2016,2,Yes,Yes,Yes
+378,Missouri,State Representative,125,Warren Love,REP,2012,2014,1,Yes,Yes,Yes
+379,Missouri,State Representative,126,Patricia Pike,REP,2016,2018,2,Yes,Yes,No
+380,Missouri,State Representative,126,Patricia Pike,REP,2014,2016,1,No,Yes,No
+381,Missouri,State Representative,126,Randy Pike,REP,2012,2014,1,Yes,Yes,No
+382,Missouri,State Representative,127,Mike Kelley,REP,2016,2018,3,No,Yes,No
+383,Missouri,State Representative,127,Mike Kelley,REP,2014,2016,2,Yes,Yes,No
+384,Missouri,State Representative,127,Mike Kelley,REP,2012,2014,1,Yes,Yes,No
+385,Missouri,State Representative,128,Mike Stephens,REP,2016,2018,1,No,Yes,Yes
+386,Missouri,State Representative,128,Sue Entlicher,REP,2014,2016,2,Yes,Yes,Yes
+387,Missouri,State Representative,128,Sue Entlicher,REP,2012,2014,1,Yes,Yes,Yes
+388,Missouri,State Representative,129,Sandy Crawford,REP,2016,2018,3,No,No,No
+389,Missouri,State Representative,129,Sandy Crawford,REP,2014,2016,2,No,No,No
+390,Missouri,State Representative,129,Sandy Crawford,REP,2012,2014,1,No,No,No
+391,Missouri,State Representative,130,Jeff Messenger,REP,2016,2018,3,No,Yes,Yes
+392,Missouri,State Representative,130,Jeff Messenger,REP,2014,2016,2,Yes,Yes,Yes
+393,Missouri,State Representative,130,Jeff Messenger,REP,2012,2014,1,No,Yes,Yes
+394,Missouri,State Representative,131,Sonya Murray Anderson,REP,2016,2018,3,No,Yes,Yes
+395,Missouri,State Representative,131,Sonya Murray Anderson,REP,2014,2016,2,No,Yes,Yes
+396,Missouri,State Representative,131,Sonya Murray Anderson,REP,2012,2014,1,Yes,Yes,Yes
+397,Missouri,State Representative,132,Crystal Quade,DEM,2016,2018,1,No,Yes,No
+398,Missouri,State Representative,132,Charlie Norr,DEM,2014,2016,2,No,Yes,No
+399,Missouri,State Representative,132,Charlie Norr,DEM,2012,2014,1,No,Yes,No
+400,Missouri,State Representative,133,Curtis Trent,REP,2016,2018,1,No,Yes,Yes
+401,Missouri,State Representative,133,Eric Burlison,REP,2014,2016,2,Yes,Yes,Yes
+402,Missouri,State Representative,133,Eric Burlison,REP,2012,2014,1,No,Yes,Yes
+403,Missouri,State Representative,134,Elijah Haahr,REP,2016,2018,3,No,Yes,No
+404,Missouri,State Representative,134,Elijah Haahr,REP,2014,2016,2,No,Yes,No
+405,Missouri,State Representative,134,Elijah Haahr,REP,2012,2014,1,No,Yes,No
+406,Missouri,State Representative,135,Steve Helms,REP,2016,2018,1,No,Yes,No
+407,Missouri,State Representative,135,Lincoln Hough,REP,2014,2016,2,No,Yes,No
+408,Missouri,State Representative,135,Lincoln Hough,REP,2012,2014,1,No,Yes,No
+409,Missouri,State Representative,136,Kevin Austin,REP,2016,2018,3,No,Yes,Yes
+410,Missouri,State Representative,136,Kevin Austin,REP,2014,2016,2,Yes,Yes,Yes
+411,Missouri,State Representative,136,Kevin Austin,REP,2012,2014,1,Yes,Yes,Yes
+412,Missouri,State Representative,137,Lyndall Fraker,REP,2016,2018,3,Yes,Yes,No
+413,Missouri,State Representative,137,Lyndall Fraker,REP,2014,2016,2,No,Yes,No
+414,Missouri,State Representative,137,Lyndall Fraker,REP,2012,2014,1,No,Yes,No
+415,Missouri,State Representative,138,Don Phillips,REP,2016,2018,3,Yes,Yes,No
+416,Missouri,State Representative,138,Don Phillips,REP,2014,2016,2,Yes,Yes,No
+417,Missouri,State Representative,138,Don Phillips,REP,2012,2014,1,Yes,Yes,No
+418,Missouri,State Representative,139,Jered Taylor,REP,2016,2018,2,Yes,Yes,Yes
+419,Missouri,State Representative,139,Jered Taylor,REP,2014,2016,1,Yes,Yes,Yes
+420,Missouri,State Representative,139,Kevin Elmer,REP,2012,2014,1,No,Yes,Yes
+421,Missouri,State Representative,140,Lynn Morris,REP,2016,2018,3,No,Yes,No
+422,Missouri,State Representative,140,Lynn Morris,REP,2014,2016,2,No,Yes,No
+423,Missouri,State Representative,140,Lynn Morris,REP,2012,2014,1,Yes,Yes,No
+424,Missouri,State Representative,141,Hannah Kelly,REP,2016,2018,1,Yes,Yes,Yes
+425,Missouri,State Representative,141,Tony Dugger,REP,2014,2016,2,Yes,Yes,Yes
+426,Missouri,State Representative,141,Tony Dugger,REP,2012,2014,1,Yes,Yes,Yes
+427,Missouri,State Representative,142,Robert Ross,REP,2016,2018,3,No,Yes,Yes
+428,Missouri,State Representative,142,Robert Ross,REP,2014,2016,2,Yes,Yes,Yes
+429,Missouri,State Representative,142,Robert Ross,REP,2012,2014,1,Yes,Yes,Yes
+430,Missouri,State Representative,143,Jeff Pogue,REP,2016,2018,3,Yes,Yes,No
+431,Missouri,State Representative,143,Jeff Pogue,REP,2014,2016,2,Yes,Yes,No
+432,Missouri,State Representative,143,Jeff Pogue,REP,2012,2014,1,No,Yes,No
+433,Missouri,State Representative,144,Paul Fitzwater,REP,2016,2018,3,Yes,Yes,No
+434,Missouri,State Representative,144,Paul Fitzwater,REP,2014,2016,2,Yes,Yes,No
+435,Missouri,State Representative,144,Paul Fitzwater,REP,2012,2014,1,No,Yes,No
+436,Missouri,State Representative,145,Rick Francis,REP,2016,2018,1,No,Yes,Yes
+437,Missouri,State Representative,145,Shelley White Keeney,REP,2014,2016,2,No,Yes,Yes
+438,Missouri,State Representative,145,Shelley White Keeney,REP,2012,2014,1,Yes,Yes,Yes
+439,Missouri,State Representative,146,Donna Lichtenegger,REP,2016,2018,3,Yes,Yes,No
+440,Missouri,State Representative,146,Donna Lichtenegger,REP,2014,2016,2,Yes,Yes,No
+441,Missouri,State Representative,146,Donna Lichtenegger,REP,2012,2014,1,Yes,Yes,No
+442,Missouri,State Representative,147,Kathy Swan,REP,2016,2018,3,No,Yes,Yes
+443,Missouri,State Representative,147,Kathy Swan,REP,2014,2016,2,No,Yes,Yes
+444,Missouri,State Representative,147,Kathy Swan,REP,2012,2014,1,Yes,Yes,Yes
+445,Missouri,State Representative,148,Holly Rehder,REP,2016,2018,3,Yes,Yes,Yes
+446,Missouri,State Representative,148,Holly Rehder,REP,2014,2016,2,Yes,Yes,Yes
+447,Missouri,State Representative,148,Holly Rehder,REP,2012,2014,1,No,Yes,Yes
+448,Missouri,State Representative,149,Don Rone Jr.,REP,2016,2018,2,No,Yes,Yes
+449,Missouri,State Representative,149,Don Rone Jr.,REP,2014,2016,1,No,Yes,Yes
+450,Missouri,State Representative,149,Steve Hodges,DEM,2012,2014,1,No,Yes,Yes
+451,Missouri,State Representative,150,Andrew McDaniel,REP,2016,2018,2,No,Yes,Yes
+452,Missouri,State Representative,150,Andrew McDaniel,REP,2014,2016,1,No,Yes,Yes
+453,Missouri,State Representative,150,Kent Hampton,REP,2012,2014,1,No,Yes,Yes
+454,Missouri,State Representative,151,Tila Rowland Hubrecht,REP,2016,2018,2,Yes,Yes,Yes
+455,Missouri,State Representative,151,Tila Rowland Hubrecht,REP,2014,2016,1,No,Yes,Yes
+456,Missouri,State Representative,151,Dennis Fowler,REP,2012,2014,1,No,Yes,Yes
+457,Missouri,State Representative,152,Todd Richardson,REP,2016,2018,3,Yes,Yes,Yes
+458,Missouri,State Representative,152,Todd Richardson,REP,2014,2016,2,Yes,Yes,Yes
+459,Missouri,State Representative,152,Todd Richardson,REP,2012,2014,1,Yes,Yes,Yes
+460,Missouri,State Representative,153,Steve Cookson,REP,2016,2018,4,No,Yes,No
+461,Missouri,State Representative,153,Steve Cookson,REP,2014,2016,3,No,Yes,No
+462,Missouri,State Representative,153,Steve Cookson,REP,2012,2014,2,No,Yes,No
+463,Missouri,State Representative,154,Shawn Rhoads,REP,2016,2018,3,No,Yes,No
+464,Missouri,State Representative,154,Shawn Rhoads,REP,2014,2016,2,Yes,Yes,No
+465,Missouri,State Representative,154,Shawn Rhoads,REP,2012,2014,1,No,Yes,No
+466,Missouri,State Representative,155,Lyle Rowland,REP,2016,2018,3,Yes,Yes,No
+467,Missouri,State Representative,155,Lyle Rowland,REP,2014,2016,2,Yes,Yes,No
+468,Missouri,State Representative,155,Lyle Rowland,REP,2012,2014,1,Yes,Yes,No
+469,Missouri,State Representative,156,Jeffery Justus,REP,2016,2018,3,Yes,Yes,No
+470,Missouri,State Representative,156,Jeffery Justus,REP,2014,2016,2,Yes,Yes,No
+471,Missouri,State Representative,156,Jeffery Justus,REP,2012,2014,1,Yes,Yes,No
+472,Missouri,State Representative,157,Mike Moon,REP,2016,2018,3,No,Yes,No
+473,Missouri,State Representative,157,Mike Moon,REP,2014,2016,2,No,Yes,No
+474,Missouri,State Representative,157,Don Ruzicka,REP,2012,2014,1,Yes,Yes,No
+475,Missouri,State Representative,158,Scott Fitzpatrick,REP,2016,2018,3,Yes,Yes,Yes
+476,Missouri,State Representative,158,Scott Fitzpatrick,REP,2014,2016,2,Yes,Yes,Yes
+477,Missouri,State Representative,158,Scott Fitzpatrick,REP,2012,2014,1,No,Yes,Yes
+478,Missouri,State Representative,159,Bill Lant,REP,2016,2018,3,Yes,Yes,No
+479,Missouri,State Representative,159,Bill Lant,REP,2014,2016,2,Yes,Yes,No
+480,Missouri,State Representative,159,Bill Lant,REP,2012,2014,1,Yes,Yes,No
+481,Missouri,State Representative,160,Bill Reiboldt,REP,2016,2018,3,Yes,Yes,No
+482,Missouri,State Representative,160,Bill Reiboldt,REP,2014,2016,2,Yes,Yes,No
+483,Missouri,State Representative,160,Bill Reiboldt,REP,2012,2014,1,Yes,Yes,No
+484,Missouri,State Representative,161,Bill White,REP,2016,2018,3,Yes,Yes,Yes
+485,Missouri,State Representative,161,Bill White,REP,2014,2016,2,No,Yes,Yes
+486,Missouri,State Representative,161,Bill White,REP,2012,2014,1,Yes,Yes,Yes
+487,Missouri,State Representative,162,Charlie Davis,REP,2016,2018,3,Yes,Yes,No
+488,Missouri,State Representative,162,Charlie Davis,REP,2014,2016,2,Yes,Yes,No
+489,Missouri,State Representative,162,Charlie Davis,REP,2012,2014,1,Yes,Yes,No
+490,Missouri,State Representative,163,Cody Smith,REP,2016,2018,1,Yes,Yes,Yes
+491,Missouri,State Representative,163,Tom Flanigan,REP,2014,2016,2,No,Yes,Yes
+492,Missouri,State Representative,163,Tom Flanigan,REP,2012,2014,1,Yes,Yes,Yes
+493,Missouri,State Senator,1,Scott Prescott Sifton Jr.,DEM,2016,2020,2,No,Yes,Yes
+494,Missouri,State Senator,1,Scott Prescott Sifton Jr.,DEM,2012,2016,1,No,Yes,Yes
+495,Missouri,State Senator,2,Bob Frank Onder Jr.,REP,2014,2018,1,Yes,Yes,Yes
+496,Missouri,State Senator,3,Gary Romine,REP,2016,2020,2,No,Yes,Yes
+497,Missouri,State Senator,3,Gary Romine,REP,2012,2016,1,No,Yes,Yes
+498,Missouri,State Senator,4,Jake Hummel,DEM,2016,2018,1,No,No,Yes
+499,Missouri,State Senator,4,Joe Keaveny,DEM,2014,2018,2,No,No,Yes
+500,Missouri,State Senator,5,Jamilah Nasheed,DEM,2016,2020,2,No,Yes,Yes
+501,Missouri,State Senator,5,Jamilah Nasheed,DEM,2012,2016,1,Yes,Yes,Yes
+502,Missouri,State Senator,6,Mike Kehoe,REP,2014,2018,2,No,No,Yes
+503,Missouri,State Senator,7,Jason Holsman,DEM,2016,2020,2,No,Yes,Yes
+504,Missouri,State Senator,7,Jason Holsman,DEM,2012,2016,1,Yes,Yes,Yes
+505,Missouri,State Senator,8,Will Kraus,REP,2014,2018,2,Yes,Yes,No
+506,Missouri,State Senator,9,Kiki Curls,DEM,2016,2020,2,Yes,Yes,Yes
+507,Missouri,State Senator,9,Kiki Curls,DEM,2012,2016,1,Yes,Yes,Yes
+572,Missouri,State Senator,9,Shalonn Curls,DEM,2011,2012,1,No,Yes,Yes
+508,Missouri,State Senator,10,Jeanie Riddle,REP,2014,2018,1,No,Yes,Yes
+509,Missouri,State Senator,11,Joseph J) Rizzo,DEM,2016,2020,1,No,Yes,Yes
+510,Missouri,State Senator,11,Paul Levota,DEM,2012,2016,1,Yes,Yes,Yes
+511,Missouri,State Senator,12,Daniel Hegeman,REP,2014,2018,1,Yes,Yes,Yes
+512,Missouri,State Senator,13,Gina Walsh,DEM,2016,2020,2,Yes,Yes,Yes
+513,Missouri,State Senator,13,Gina Walsh,DEM,2012,2016,1,No,Yes,Yes
+514,Missouri,State Senator,14,Maria Chappelle-Nadal,DEM,2014,2018,2,Yes,No,Yes
+515,Missouri,State Senator,15,Andrew Koenig,REP,2016,2020,1,No,Yes,Yes
+516,Missouri,State Senator,15,Eric Schmitt,REP,2012,2016,2,Yes,Yes,Yes
+517,Missouri,State Senator,16,Dan Brown,REP,2014,2018,2,Yes,Yes,No
+518,Missouri,State Senator,17,Ryan Silvey,REP,2016,2020,2,No,Yes,Yes
+519,Missouri,State Senator,17,Ryan Silvey,REP,2012,2016,1,No,Yes,Yes
+520,Missouri,State Senator,18,Brian Munzlinger,REP,2014,2018,2,Yes,Yes,No
+521,Missouri,State Senator,19,Caleb Rowden,REP,2016,2020,1,No,Yes,Yes
+522,Missouri,State Senator,19,Kurt Schaefer,REP,2012,2016,2,No,Yes,Yes
+523,Missouri,State Senator,20,Jay Wasson,REP,2014,2018,2,Yes,Yes,Yes
+524,Missouri,State Senator,21,Denny Hoskins,REP,2016,2020,1,No,Yes,Yes
+525,Missouri,State Senator,21,David Pearce,REP,2012,2016,1,No,Yes,Yes
+526,Missouri,State Senator,22,Paul Wieland,REP,2014,2018,1,No,No,Yes
+527,Missouri,State Senator,23,Bill Eigel,REP,2016,2020,1,No,Yes,Yes
+528,Missouri,State Senator,23,Thomas Dempsey,REP,2012,2016,2,Yes,Yes,Yes
+529,Missouri,State Senator,24,Jill Seltzer Schupp,DEM,2014,2018,1,No,Yes,Yes
+530,Missouri,State Senator,25,Doug Libla,REP,2016,2020,2,No,Yes,Yes
+531,Missouri,State Senator,25,Doug Libla,REP,2012,2016,1,No,Yes,Yes
+532,Missouri,State Senator,26,Dave Schatz,REP,2014,2018,1,No,Yes,Yes
+533,Missouri,State Senator,27,Wayne Wallingford Jr.,REP,2016,2020,2,No,Yes,Yes
+534,Missouri,State Senator,27,Wayne Wallingford Jr.,REP,2012,2016,1,Yes,Yes,Yes
+535,Missouri,State Senator,28,Mike Parson,REP,2014,2018,2,Yes,Yes,Yes
+536,Missouri,State Senator,29,David Sater,REP,2016,2020,2,Yes,Yes,Yes
+537,Missouri,State Senator,29,David Sater,REP,2012,2016,1,Yes,Yes,Yes
+538,Missouri,State Senator,30,Bob Dixon,REP,2014,2018,2,Yes,Yes,Yes
+539,Missouri,State Senator,31,Ed Emery,REP,2016,2020,2,No,Yes,Yes
+540,Missouri,State Senator,31,Ed Emery,REP,2012,2016,1,No,Yes,Yes
+541,Missouri,State Senator,32,Ron Richard,REP,2014,2018,2,Yes,Yes,No
+542,Missouri,State Senator,33,Mike Cunningham,REP,2016,2020,2,Yes,Yes,Yes
+543,Missouri,State Senator,33,Mike Cunningham,REP,2012,2016,1,Yes,Yes,Yes
+544,Missouri,State Senator,34,Rob Schaaf,REP,2014,2018,2,No,Yes,No
+545,Missouri,U.S. Representative,1,William Lacy Clay Jr.,DEM,2016,2018,4,No,No,No
+546,Missouri,U.S. Representative,1,William Lacy Clay Jr.,DEM,2014,2016,3,No,No,No
+547,Missouri,U.S. Representative,1,William Lacy Clay Jr.,DEM,2012,2014,2,No,No,No
+548,Missouri,U.S. Representative,2,Ann Wagner,REP,2016,2018,3,No,No,No
+549,Missouri,U.S. Representative,2,Ann Wagner,REP,2014,2016,2,No,No,No
+550,Missouri,U.S. Representative,2,Ann Wagner,REP,2012,2014,1,No,No,No
+551,Missouri,U.S. Representative,3,Blaine Luetkemeyer,REP,2016,2018,3,No,Yes,No
+552,Missouri,U.S. Representative,3,Blaine Luetkemeyer,REP,2014,2016,2,No,Yes,No
+553,Missouri,U.S. Representative,3,Blaine Luetkemeyer,REP,2012,2014,1,No,Yes,No
+554,Missouri,U.S. Representative,4,Vicki Hartzler,REP,2016,2018,4,No,No,No
+555,Missouri,U.S. Representative,4,Vicki Hartzler,REP,2014,2016,3,No,No,No
+556,Missouri,U.S. Representative,4,Vicki Hartzler,REP,2012,2014,2,No,No,No
+557,Missouri,U.S. Representative,5,Emanuel Cleaver II,DEM,2016,2018,4,No,Yes,No
+558,Missouri,U.S. Representative,5,Emanuel Cleaver II,DEM,2014,2016,3,No,Yes,No
+559,Missouri,U.S. Representative,5,Emanuel Cleaver II,DEM,2012,2014,2,No,Yes,No
+560,Missouri,U.S. Representative,6,Sam Graves Jr.,REP,2016,2018,4,No,No,Yes
+561,Missouri,U.S. Representative,6,Sam Graves Jr.,REP,2014,2016,3,No,No,Yes
+562,Missouri,U.S. Representative,6,Sam Graves Jr.,REP,2012,2014,2,No,No,Yes
+563,Missouri,U.S. Representative,7,Billy Long,REP,2016,2018,4,No,No,No
+564,Missouri,U.S. Representative,7,Billy Long,REP,2014,2016,3,No,No,No
+565,Missouri,U.S. Representative,7,Billy Long,REP,2012,2014,2,No,No,No
+566,Missouri,U.S. Representative,8,Jason Smith,REP,2016,2018,2,No,Yes,Yes
+567,Missouri,U.S. Representative,8,Jason Smith,REP,2014,2016,1,No,Yes,Yes
+568,Missouri,U.S. Representative,8,Jason T. Smith,REP,2013,2014,1,No,Yes,Yes
+569,Missouri,U.S. Representative,8,Jo Ann Emerson,REP,2012,2014,2,No,Yes,Yes
+570,Missouri,U.S. Senator,0,Roy Blunt,REP,2016,2022,0,No,No,No
+571,Missouri,U.S. Senator,0,Claire McCaskill,DEM,2012,2018,0,No,No,No

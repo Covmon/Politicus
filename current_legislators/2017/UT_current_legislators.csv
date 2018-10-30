@@ -77,14 +77,14 @@
 75,Utah,State Representative,74,Lowry Snow,REP,2016,2018,3,Yes,Yes,Yes
 76,Utah,State Representative,75,Walt Brooks,REP,2016,2018,1,No,Yes,Yes
 77,Utah,State Senator,1,Luz Robles Escamilla,DEM,2016,2020,3,No,Yes,Yes
-78,Utah,State Senator,2,Jim Dabakis,DEM,2014,2016,1,No,No,Yes
-79,Utah,State Senator,3,Gene Davis,DEM,2014,2016,4,Yes,Yes,No
-80,Utah,State Senator,4,Jani Iwamoto,DEM,2014,2016,1,No,Yes,Yes
-81,Utah,State Senator,5,Karen Mayne,DEM,2014,2016,3,Yes,Yes,Yes
+78,Utah,State Senator,2,Jim Dabakis,DEM,2014,2018,1,No,No,Yes
+79,Utah,State Senator,3,Gene Davis,DEM,2014,2018,4,Yes,Yes,No
+80,Utah,State Senator,4,Jani Iwamoto,DEM,2014,2018,1,No,Yes,Yes
+81,Utah,State Senator,5,Karen Mayne,DEM,2014,2018,3,Yes,Yes,Yes
 82,Utah,State Senator,6,Wayne Harper,REP,2016,2020,2,No,Yes,Yes
 83,Utah,State Senator,7,Deidre Henderson,REP,2016,2020,2,No,Yes,Yes
 84,Utah,State Senator,8,Brian Shiozawa,REP,2016,2020,2,No,No,No
-85,Utah,State Senator,9,Wayne Niederhauser,REP,2014,2016,3,No,Yes,Yes
+85,Utah,State Senator,9,Wayne Niederhauser,REP,2014,2018,3,No,Yes,Yes
 86,Utah,State Senator,10,Lincoln Fillmore,REP,2016,2020,1,No,Yes,Yes
 87,Utah,State Senator,11,Howard Stephenson,REP,2014,2018,4,No,Yes,No
 88,Utah,State Senator,12,Daniel Thatcher,REP,2014,2018,2,No,Yes,Yes
@@ -107,7 +107,8 @@
 105,Utah,State Senator,29,Don Ipson,REP,2016,2020,1,No,Yes,Yes
 106,Utah,U.S. Representative,1,Rob Bishop,REP,2016,2018,4,No,No,No
 107,Utah,U.S. Representative,2,Chris Stewart,REP,2016,2018,3,No,No,No
-108,Utah,U.S. Representative,3,John R. Curtis,REP,2017,2018,1,No,No,No
+108,Utah,U.S. Representative,3,Jason Chaffetz,REP,2016,2018,4,No,No,No
 109,Utah,U.S. Representative,4,Mia Love,REP,2016,2018,2,No,No,Yes
 110,Utah,U.S. Senator,0,Mike Lee,REP,2016,2022,0,No,No,No
 111,Utah,U.S. Senator,0,Orrin Grant Hatch,REP,2012,2018,0,No,No,No
+112,Utah,U.S. Senator,0,Mike Lee,REP,2016,2022,0,No,No,No
