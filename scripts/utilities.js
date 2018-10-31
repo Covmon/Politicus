@@ -13,6 +13,8 @@ $(document).ready(function() {
     $('body').on('touchstart', function() {});
 
     let currentURL = window.location.href;
+    var urlParams = new URLSearchParams(window.location.search);
+
     availableStates.sort();
 
     if (currentURL.includes("predictions")) {
@@ -24,12 +26,20 @@ $(document).ready(function() {
     }
 
     var state = "All";
+
     if (sessionStorage.length != 0) {
         state = sessionStorage.getItem("state");
         if (state == "UT" && currentURL.includes("predictions_state_senates")) {
             state = "All";
         }
         $("#select-state").val(state);
+    } else if (urlParams.has("state")) {
+        let urlState = urlParams.get('state');
+        if (availableStates.includes(urlState)) {
+            state = urlState;
+        }
+        sessionStorage.setItem("state", urlState);
+        $("#select-state").val(urlState);
     } else {
         sessionStorage.setItem("state", "All");
     }
