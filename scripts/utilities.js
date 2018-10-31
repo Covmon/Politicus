@@ -1,6 +1,7 @@
 var data = {};
 var currentOverallData = {};
 let availableStates = ["CO", "IA", "MO", "NY", "SC", "TN", "KS", "GA", "UT", "MI", "ID", "MN"];
+let availableStatesNoStateLegislatures = [];
 var currentStates = availableStates;
 var currentAllMatchups = [];
 var currentDistrictsNoElection = [];
@@ -23,7 +24,6 @@ $(document).ready(function() {
     }
 
     var state = "All";
-
     if (sessionStorage.length != 0) {
         state = sessionStorage.getItem("state");
         if (state == "UT" && currentURL.includes("predictions_state_senates")) {
@@ -34,19 +34,22 @@ $(document).ready(function() {
         sessionStorage.setItem("state", "All");
     }
 
-    
-
+    let allStatesNeededInJSON = availableStates.concat(availableStatesNoStateLegislatures);
     if (sessionStorage.getItem("data_all") !== null) {
         let jsonString = sessionStorage.getItem("data_all")
         data = JSON.parse(jsonString);
     } else {
-        getJSONCandidates(availableStates, true);
+        getJSONCandidates(allStatesNeededInJSON, true);
     }
 
     if (state != "All" && !currentURL.includes("index.html")) {
         currentStates = [state];
     } else {
         $("#reset-link").css({"color": "gray"})
+    }
+
+    if ((!(currentURL.includes("predictions_state_senates") && currentURL.includes("predictions_state_houses"))) && state == "All") {
+        currentStates = allStatesNeededInJSON;
     }
 
     if (state != "All" && currentURL.includes("state")) {
@@ -220,7 +223,7 @@ function getElections(positions, numTopElections, createTable, alreadyAdded = []
         if (!arraysEqual(race, lastRace)) {
             lastRace = race;
             for (pos of positions){
-                if (candidate.Position == pos || candidate.District == pos) {
+                if ((candidate.Position == pos || candidate.District == pos) && !(candidate.Position == "U.S. Senator" && pos == "0")) {
                     availableRaces.push(candidate);
                     break;
                 }
@@ -406,11 +409,12 @@ function createSquareChart(type) {
     totalPercentages.append(repPercentagesDiv);
     let repPercentages = $(".rep-percentages");
 
-    console.log(currentOverallData);
-
     let seatsDem = Math.round(currentOverallData["DEM"]["Predicted Seats"]);
     let seatsRep = Math.round(currentOverallData["REP"]["Predicted Seats"]);
 
+    //let seatsDemDecimal = Number.parseFloat(currentOverallData["DEM"]["Predicted Seats"]).toFixed(1);
+    //let seatsRepDecimal = Number.parseFloat(currentOverallData["REP"]["Predicted Seats"]).toFixed(1);
+    
     let seatGainRep = seatsRep - currentSeatsRep.length;
     let seatGainDem = seatsDem - currentSeatsDem.length;
 
@@ -438,7 +442,7 @@ function createSquareChart(type) {
         seatGainColor = "gray";
     }
 
-    seatGainP = "<p class='medium-p' id='most-likely-change'>Seat gain</p>";
+    seatGainP = "<p class='medium-p' id='most-likely-change'>Average seat gain</p>";
     titleElement.after(seatGainP);
 
     seatGainH = "<h2 class='medium-h2 " + seatGainColor + "'>" + seatGainString + " " + seatString + "</h2>";
