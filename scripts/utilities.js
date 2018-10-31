@@ -4,6 +4,7 @@ let availableStates = ["CO", "IA", "MO", "NY", "SC", "TN", "KS", "GA", "UT", "MI
 var currentStates = availableStates;
 var currentAllMatchups = [];
 var currentDistrictsNoElection = [];
+var isTouchDevice = false;
 
 
 $(document).ready(function() {
@@ -58,6 +59,8 @@ $(document).ready(function() {
     } else if (!currentURL.includes("state")) {
 
     }
+
+    isTouchDevice = is_touch_device();
 
     jQuery.extend( jQuery.fn.dataTableExt.oSort, {
         "num-html-pre": function ( a ) {
@@ -684,11 +687,18 @@ function createSquareChart(type) {
         var right = left - 40 - 300;
         var top = rect.top - 150;
 
+        if (window.innerWidth < 550 && isTouchDevice) {
+            top = (window.innerHeight - 275)/2;
+            left = (window.innerWidth - (300 + window.innerWidth * 0.05))/2;
+            right = (window.innerWidth - (300 + window.innerWidth * 0.05))/2;
+        }
+
         var css = {"top": top, "left": left};
 
         if (rect.left > window.innerWidth/2) {
             css = {"top": top, "left": right};
-        }
+        } 
+        
 
         let state = $(this).attr("state");
         let district = $(this).attr("district");
@@ -1019,3 +1029,19 @@ function convertStateName(state) {
         }
     }
 }
+
+function is_touch_device() {
+    var prefixes = ' -webkit- -moz- -o- -ms- '.split(' ');
+    var mq = function(query) {
+      return window.matchMedia(query).matches;
+    }
+  
+    if (('ontouchstart' in window) || window.DocumentTouch && document instanceof DocumentTouch) {
+      return true;
+    }
+  
+    // include the 'heartz' as a way to have a non matching MQ to help terminate the join
+    // https://git.io/vznFH
+    var query = ['(', prefixes.join('touch-enabled),('), 'heartz', ')'].join('');
+    return mq(query);
+  }
