@@ -375,7 +375,7 @@ function createCard(matchup, appendLocation = ".main-section", isPopupCard = fal
     let chart = createProjectionChart(matchup);
     card.append(chart);
 
-    let probabilityDescriptionP = $("<p />").text("Win probabilities:");
+    let probabilityDescriptionP = $("<p />").text("Chances of Winning:");
     card.append(probabilityDescriptionP);    
 
     card.append(probabilitiesP);
@@ -708,10 +708,10 @@ function createTableRow(matchup, rowsList) {
             scroll = false;
         }
 
-        var column1Sorting = {"type": "num-html"};
+        var column1Sorting = {"type": "num-html", "orderable": false};
         if (currentStates.length != 1) {
             console.log("only 1 state");
-            column1Sorting = {"type": "html-num"};
+            column1Sorting = {"type": "html-num", "orderable": false};
         }
 
         $("#all-races-table").append(html);
@@ -729,10 +729,10 @@ function createTableRow(matchup, rowsList) {
             },
             columns: [
                 column1Sorting,
-                null,
-                {"searchable": false, "width": "250px"},
-                {"searchable": true, "width": "75px"},
-                {"searchable": false, "width": "125px"}
+                {"orderable": false},
+                {"searchable": false, "width": "250px", "orderable": false},
+                {"searchable": true, "width": "75px", "orderable": false},
+                {"searchable": false, "width": "125px", "orderable": false}
             ]
         });
         
