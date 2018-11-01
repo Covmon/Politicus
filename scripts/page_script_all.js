@@ -37,11 +37,11 @@ $(document).ready(function() {
     $("#select-state").change(function() {
         if ($(this).val() != "All") {
             sessionStorage.setItem("state", $(this).val());
-            location.reload();
         } else {
             sessionStorage.removeItem("state");
-            window.location = window.location.pathname;
         }
+        window.location = window.location.pathname;
+
     });
 
     $("#reset-link").click(function() {
