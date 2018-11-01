@@ -1,5 +1,6 @@
 var numLoaded = 6;
 var alreadyAdded = [];
+var allOverallBodies = {};
 
 $(document).ready(function() {
     console.log("Starting JS Index Page");

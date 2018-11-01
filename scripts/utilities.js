@@ -1,13 +1,15 @@
 var data = {};
 var currentOverallData = {};
+var allOverallData = [];
 let availableStates = ["CO", "IA", "MO", "NY", "SC", "TN", "KS", "GA", "UT", "MI", "ID", "MN", "MA"];
+
 let availableStatesNoStateLegislatures = [];
 var currentStates = availableStates;
 var currentAllMatchups = [];
 var currentDistrictsNoElection = [];
 var currentAllCandidates = [];
-var isTouchDevice = false;
 
+var isTouchDevice = false;
 
 $(document).ready(function() {
     console.log("JS Utilites Script Loaded");
@@ -424,7 +426,7 @@ function createSquareChart(type) {
     //let currentAllLegislatures = currentLegislators[stateAbbrev];
     var currentSeatsDem = [];
     var currentSeatsRep = [];
-
+    console.log(currentAllCandidates);
     for (district of currentAllCandidates) {
         console.log("current");
         if (district.Position == type && district["Next Election"] != 2018) {
