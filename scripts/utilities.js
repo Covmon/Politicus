@@ -5,6 +5,7 @@ let availableStatesNoStateLegislatures = [];
 var currentStates = availableStates;
 var currentAllMatchups = [];
 var currentDistrictsNoElection = [];
+var currentAllCandidates = [];
 var isTouchDevice = false;
 
 
@@ -65,13 +66,13 @@ $(document).ready(function() {
 
     if (state != "All" && currentURL.includes("state")) {
         //Get overall json for this body
+        getJSONCurrentCandidates(state);
+
         if (currentURL.includes("house")) {
             getJSONOverall(state, "House");
         } else if (currentURL.includes("senate")) {
             getJSONOverall(state, "Senate");
         }
-    } else if (!currentURL.includes("state")) {
-
     }
 
     isTouchDevice = is_touch_device();
@@ -92,6 +93,34 @@ $(document).ready(function() {
     } );
 
 });
+
+function getJSONCurrentCandidates(state) {
+    $.ajaxSetup({
+        async: false
+    });
+
+    let url = "/current_legislators/json/" + state + "_current_legislators.json";
+
+    var success = false;
+    $.getJSON(url, function(json) {
+        success = true;
+        console.log("Got JSON from local url " + url);
+        let jsonP = JSON.parse(json);
+        let jsonPData = jsonP.data;
+        currentAllCandidates = jsonPData;
+    });
+
+    if (!success) {
+        let urlOnline = "https://50fifty.us" + url;
+        $.getJSON(urlOnline, function(json) {
+            success = true;
+            console.log("Got JSON from online url " + urlOnline);
+            let jsonP = JSON.parse(json);
+            let jsonPData = jsonP.data;
+            currentAllCandidates = jsonPData;
+        });
+    }
+}
 
 function getJSONOverall(state, body) {
     $.ajaxSetup({
@@ -267,7 +296,7 @@ function getElections(positions, numTopElections, createTable, alreadyAdded = []
         }
     }
 
-    if (topRacesList.length == 0) {
+    if (availableRaces.length == 0) {
         let errorP = $("<p />").text("Sorry, no races for the selected state and election type are available.");
         errorP.attr("id", "error-p");
         $(".main-section").append(errorP);
@@ -392,11 +421,12 @@ function createSquareChart(type) {
 
     //Get districts with no election this year
     let stateAbbrev = currentStates[0];
-    let currentAllLegislatures = currentLegislators[stateAbbrev];
+    //let currentAllLegislatures = currentLegislators[stateAbbrev];
     var currentSeatsDem = [];
     var currentSeatsRep = [];
 
-    for (district of currentAllLegislatures) {
+    for (district of currentAllCandidates) {
+        console.log("current");
         if (district.Position == type && district["Next Election"] != 2018) {
             currentDistrictsNoElection.push(district);
         }

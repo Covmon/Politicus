@@ -94,26 +94,78 @@ function getMatchup(data, state, position, district) {
     }
 
     let stateName = convertStateName(state);
-    switch (position) {
-        case "U.S. Representative":
-            matchup["title"] = "U.S. House, " + stateName + " District " + district;
-            break;
-        case "U.S. Senator":
-            matchup["title"] = "U.S. Senate, " + stateName;
-            break;
-        case "State Representative":
-        let officeName = getLowerBodyName(state);
-            matchup["title"] = stateName + " " + officeName + ", District " + district;
-            break;
-        case "State Senator":
-            matchup["title"] = stateName + " Senate" + ", District " + district;
-            break;
-        case "Secretary Of State":
-            matchup["title"] = stateName + " Secretary of State";
-            break;
-        default:
-            matchup["title"] = stateName + " " + position;
-            break;
+    if (state != "MA") {
+        switch (position) {
+            case "U.S. Representative":
+                matchup["title"] = "U.S. House, " + stateName + " District " + district;
+                break;
+            case "U.S. Senator":
+                matchup["title"] = "U.S. Senate, " + stateName;
+                break;
+            case "State Representative":
+            let officeName = getLowerBodyName(state);
+                matchup["title"] = stateName + " " + officeName + ", District " + district;
+                break;
+            case "State Senator":
+                matchup["title"] = stateName + " Senate" + ", District " + district;
+                break;
+            case "Secretary Of State":
+                matchup["title"] = stateName + " Secretary of State";
+                break;
+            default:
+                matchup["title"] = stateName + " " + position;
+                break;
+        }
+    } else {
+        if (district.includes("And")) {
+            let split = district.split("And");
+            district = split[0] + "and" + split[1];
+        }
+        
+        for (var k = 1; k < 20; k++) {
+            let ordinal1Wrong = k + "St";
+            let ordinal2Wrong = k + "Nd";
+            let ordinal3Wrong = k + "Rd";
+            let ordinal4Wrong = k + "Th";
+
+            let ordinal1 = k + "st";
+            let ordinal2 = k + "nd";
+            let ordinal3 = k + "rd";
+            let ordinal4 = k + "th";
+
+            let ordinalsWrong = [ordinal1Wrong, ordinal2Wrong, ordinal3Wrong, ordinal4Wrong];
+            let ordinalsRight = [ordinal1, ordinal2, ordinal3, ordinal4];
+
+            for (var j=0;j<ordinalsWrong.length;j++) {
+                let ordinal = ordinalsWrong[j];
+                if (district.includes(ordinal)) {
+                    let split = district.split(ordinal);
+                    district = split[0] + ordinalsRight[j] + split[1];
+                }
+            }
+        }
+
+        switch (position) {
+            case "U.S. Representative":
+                matchup["title"] = "U.S. House, " + stateName + " " + district;
+                break;
+            case "U.S. Senator":
+                matchup["title"] = "U.S. Senate, " + stateName;
+                break;
+            case "State Representative":
+            let officeName = getLowerBodyName(state);
+                matchup["title"] = stateName + " " + officeName + ", " + district;
+                break;
+            case "State Senator":
+                matchup["title"] = stateName + " Senate" + ", " + district;
+                break;
+            case "Secretary Of State":
+                matchup["title"] = stateName + " Secretary of State";
+                break;
+            default:
+                matchup["title"] = stateName + " " + position;
+                break;
+        }
     }
 
     if (noElection) {
