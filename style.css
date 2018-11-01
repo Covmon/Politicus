@@ -744,7 +744,6 @@ input:focus {
 
 .button {
     font-family: "Roboto", sans-serif;
-    margin-left: 10px;
     border-radius: 5px;
     padding: 10.5px;
     cursor: pointer;
@@ -752,6 +751,18 @@ input:focus {
     background-color: white;
     border: 2px solid rgb(240, 240, 240);
     transition-duration: 0.2s;
+    margin: 20px 5px 0px 5px;
+}
+
+.button-bold {
+    border-color: rgb(253, 198, 57) !important;
+    background-color: rgb(255, 232, 175) !important;
+}
+
+.button-bold:hover {
+    border-color: rgb(255, 208, 90) !important;
+    background-color: rgb(255, 208, 90) !important;
+
 }
 
 .normal-link {
@@ -810,6 +821,23 @@ input:focus {
 .text a:hover {
     background-color: rgb(233, 233, 233)
 }
+
+.how-it-works {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.how-it-works a {
+    font-family: "Roboto";
+    color: rgb(91, 61, 201);
+    text-decoration: none;
+    transition-duration: 0.1s;
+}
+
+.how-it-works a:hover {
+    background-color: rgb(233, 233, 233)
+}
+
 
 
 .footer {

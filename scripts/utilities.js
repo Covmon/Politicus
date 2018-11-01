@@ -1,6 +1,6 @@
 var data = {};
 var currentOverallData = {};
-let availableStates = ["CO", "IA", "MO", "NY", "SC", "TN", "KS", "GA", "UT", "MI", "ID", "MN"];
+let availableStates = ["CO", "IA", "MO", "NY", "SC", "TN", "KS", "GA", "UT", "MI", "ID", "MN", "MA"];
 let availableStatesNoStateLegislatures = [];
 var currentStates = availableStates;
 var currentAllMatchups = [];
