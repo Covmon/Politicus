@@ -710,7 +710,6 @@ function createTableRow(matchup, rowsList) {
 
         var column1Sorting = {"type": "num-html", "orderable": false};
         if (currentStates.length != 1) {
-            console.log("only 1 state");
             column1Sorting = {"type": "html-num", "orderable": false};
         }
 

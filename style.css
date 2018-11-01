@@ -362,6 +362,41 @@ a:hover {
     display: none;
 }
 
+.tight-elections {
+    margin-bottom: 50px;
+}
+
+.election-card {
+    height: 150px !important;
+    width: 250px !important;
+    cursor: pointer !important;
+}
+
+.election-card:hover {
+    background-color: #d0b1e9;
+}
+
+.election-card h3 {
+    font-size: 40px;
+    font-family: "Montserrat", sans-serif;
+    margin-top: -10px;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+
+.election-card p {
+    font-weight: normal !important;
+}
+
+.election-link {
+    text-decoration: none;
+}
+
+.election-card .no-margin {
+    font-size: 17px;
+    margin-top: -5px !important;
+}
+
 .prediction-card {
     height: 275px;
     width: 300px;
@@ -459,7 +494,7 @@ a:hover {
 }
 
 .gray {
-    color: gray;
+    color: gray !important;
 }
 
 .yellow {

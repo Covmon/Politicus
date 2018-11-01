@@ -26,22 +26,23 @@ $(document).ready(function() {
     }
 
     var state = "All";
-
-    if (sessionStorage.length != 0) {
-        state = sessionStorage.getItem("state");
-        if (state == "UT" && currentURL.includes("predictions_state_senates")) {
-            state = "All";
-        }
-        $("#select-state").val(state);
-    } else if (urlParams.has("state")) {
+    if (urlParams.has("state")) {
         let urlState = urlParams.get('state');
+        console.log("state in url " + urlState);
         if (availableStates.includes(urlState)) {
             state = urlState;
         }
         sessionStorage.setItem("state", urlState);
         $("#select-state").val(urlState);
+    } else if (sessionStorage.getItem("state") !== null) {
+        state = sessionStorage.getItem("state");
+        console.log("State stored " + state);
+        if (state == "UT" && currentURL.includes("predictions_state_senates")) {
+            state = "All";
+        }
+        $("#select-state").val(state);
     } else {
-        sessionStorage.setItem("state", "All");
+        //sessionStorage.setItem("state", "All");
     }
 
     let allStatesNeededInJSON = availableStates.concat(availableStatesNoStateLegislatures);

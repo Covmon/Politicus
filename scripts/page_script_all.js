@@ -1,7 +1,10 @@
 $(document).ready(function() {
     console.log("Starting JS All");
 
-    let state = sessionStorage.getItem("state");
+    var state = "All";
+    if (sessionStorage.getItem("state") !== null) {
+        state = sessionStorage.getItem("state");
+    }
     if (state == "All" && sessionStorage.getItem("data_all") === null) {
         console.log("Stringify our data");
         let jsonString = JSON.stringify(data);
@@ -32,13 +35,18 @@ $(document).ready(function() {
     $(".loading").remove();
 
     $("#select-state").change(function() {
-        sessionStorage.setItem("state", $(this).val());
-        location.reload();
+        if ($(this).val() != "All") {
+            sessionStorage.setItem("state", $(this).val());
+            location.reload();
+        } else {
+            sessionStorage.removeItem("state");
+            window.location = window.location.pathname;
+        }
     });
 
     $("#reset-link").click(function() {
-        sessionStorage.setItem("state", "All");
-        location.reload();
+        sessionStorage.removeItem("state");
+        window.location = window.location.pathname;
     });
 
     let gitURL = "https://api.github.com/repos/Covmon/Politicus/commits"
