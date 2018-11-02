@@ -462,7 +462,6 @@ function createSquareChart(type) {
 
     //Get districts with no election this year
     let stateAbbrev = currentStates[0];
-    //let currentAllLegislatures = currentLegislators[stateAbbrev];
     var currentSeatsDem = [];
     var currentSeatsRep = [];
     console.log(currentAllCandidates);
