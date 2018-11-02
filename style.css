@@ -363,7 +363,7 @@ a:hover {
 }
 
 .tight-elections {
-    margin-bottom: 50px;
+    margin-bottom: 40px;
 }
 
 .election-card {
@@ -372,8 +372,32 @@ a:hover {
     cursor: pointer !important;
 }
 
-.election-card:hover {
-    background-color: #d0b1e9;
+.purple.election-card:hover {
+    background-color: #d7affa;
+}
+
+.lean-red.election-card:hover {
+    background-color: #f7bab1;
+}
+
+.lean-blue.election-card:hover {
+    background-color: #bbd1f7;
+}
+
+.likely-red.election-card:hover {
+    background-color: #f79688;
+}
+
+.likely-blue.election-card:hover {
+    background-color: #a5c5f8;
+}
+
+.solid-blue.election-card:hover {
+    background-color: #8db6f7;   
+}
+
+.solid-red.election-card:hover {
+    background-color: #fc7863;
 }
 
 .election-card h3 {
@@ -431,7 +455,7 @@ a:hover {
 }
 
 .solid-red, .solid-red h2, .already-red, .already-red h2 {
-    background-color: #fd9180;
+    background-color: #fc8a78;
     color: #e4371d;
 }
 
@@ -762,7 +786,6 @@ input:focus {
 .button-bold:hover {
     border-color: rgb(255, 208, 90) !important;
     background-color: rgb(255, 208, 90) !important;
-
 }
 
 .normal-link {

@@ -9,6 +9,8 @@ var currentAllMatchups = [];
 var currentDistrictsNoElection = [];
 var currentAllCandidates = [];
 
+var numCardsToLoad = 9;
+
 var isTouchDevice = false;
 
 $(document).ready(function() {
@@ -76,13 +78,16 @@ $(document).ready(function() {
         } else if (currentURL.includes("senate")) {
             getJSONOverall(state, "Senate");
         }
-    } else if (currentURL.includes("index") || currentURL == "https://50fifty.us/") {
+    } else if (currentURL.includes("index") || currentURL == "https://50fifty.us/" || currentURL.includes("predictions_state_senates") || currentURL.includes("predictions_state_houses")) {
         getJSONAllOverall(["House", "Senate"]);
         console.log("get all overall data because we're on index");
         console.log(allOverallData);
     }
 
     isTouchDevice = is_touch_device();
+    if (isTouchDevice) {
+        numCardsToLoad = 6;
+    }
 
     jQuery.extend( jQuery.fn.dataTableExt.oSort, {
         "num-html-pre": function ( a ) {
@@ -421,6 +426,154 @@ function getTopElections(topRaces, matchup, numRaces, alreadyAdded = []) {
             }
         }
     }
+}
+
+function setupTopElections(numElections, types) {
+    var topBodies = [];
+
+
+    for (body of allOverallData) {
+
+        if (body.length != 0 ) {
+            var isCorrectType = false
+            for (type of types) {
+                if (body[0]["Position"] == type) {
+                    isCorrectType = true;
+                }
+            }
+            if (!isCorrectType) {
+                continue;
+            }
+            
+            var demPercentage = 100;
+            var repPercentage = 0;
+
+            for (party of body) {
+                if (party.Party == "REP") {
+                    repPercentage = party["Predicted Majority Win Probability"];
+                } else if (party.Party == "DEM") {
+                    demPercentage = party["Predicted Majority Win Probability"];
+                }
+            }
+            let differenceNoAbs = demPercentage - repPercentage;
+            let difference = Math.abs(differenceNoAbs);
+            body.push({"difference": differenceNoAbs});
+
+            if (topBodies.length < numElections) {
+                topBodies.push(body);
+            } else {
+                let highestDifference = 0;
+                let highestDifferenceIndex = 0;
+
+                for (var i=0;i<topBodies.length;i++) {
+                    let topBody = topBodies[i];
+
+                    var topDemPercentage = 100;
+                    var topRepPercentage = 0;
+
+                    for (topParty of topBody) {
+                        if (topParty.Party == "REP") {
+                            topRepPercentage = topParty["Predicted Majority Win Probability"];
+                        } else if (topParty.Party == "DEM") {
+                            topDemPercentage = topParty["Predicted Majority Win Probability"];
+
+                        }
+                    }
+                    let topDifference = Math.abs(topDemPercentage - topRepPercentage);
+
+                    if (topDifference > highestDifference) {
+                        highestDifference = topDifference;
+                        highestDifferenceIndex = i;
+                    }
+                }
+
+                if (difference < highestDifference) {
+                    topBodies.splice(highestDifferenceIndex, 1);
+                    topBodies.push(body);
+                }
+            }
+
+        }
+    }
+    console.log(topBodies);
+    for (var j=0;j<topBodies.length;j++) {
+
+        let html = "<a class='election-link election-link-" + (j + 1) + "' href=''><div class='prediction-card election-card purple tight-election-" + (j + 1) + "'><h1></h1><h3><span class='blue'></span> - <span class='red'></span></h3><p class='no-margin'>Most likely seats</p><p class='gray'>Click for more details</p></div></a>";
+        $(".tight-elections").append(html);
+
+        let body = topBodies[j];
+        console.log(body);
+
+        var rep = {};
+        var dem = {};
+
+        for (party of body) {
+            if (party.Party == "REP") {
+                rep = party;
+            } else if (party.Party == "DEM") {
+                dem = party;
+            }
+        }
+        
+        //<span class='blue'></span> - <span class='red'></span>
+        console.log(rep);
+        console.log(dem);
+
+        let demSeats = Math.round(dem["Predicted Seats"]);
+        let repSeats = Math.round(rep["Predicted Seats"]);
+
+        let className = ".tight-election-" + (j + 1);
+        let classNameLink = ".election-link-" + (j + 1);
+        let titleEle = $(className + " h1");
+        let seatsEle = $(className + " h3");
+        let linkEle = $(classNameLink);
+
+        let state = body[0].State;
+
+        let href = "";
+        
+        let difference = body[body.length - 1].difference;
+        
+        if (difference > 0.95) {
+            $(className).removeClass("purple");
+            $(className).addClass("solid-blue");
+        } else if (difference > 0.7) {
+            $(className).removeClass("purple");
+            $(className).addClass("likely-blue");
+        } else if (difference > 0.4) {
+            $(className).removeClass("purple");
+            $(className).addClass("lean-blue");
+        } else if (difference < -0.95) {
+            $(className).removeClass("purple");
+            $(className).addClass("solid-red");
+        } else if (difference < -0.7) {
+            $(className).removeClass("purple");
+            $(className).addClass("likely-red");
+        } else if (difference < -0.4) {
+            $(className).removeClass("purple");
+            $(className).addClass("lean-red");
+        }
+
+        var title = "";
+        let stateName = convertStateName(state);
+        switch(body[0].Position) {
+            case "State Senator":
+                title = stateName + " State Senate";
+                href = "predictions_state_senates.html?state=" + state;
+                break;
+            case "State Representative":
+                title = stateName + " State House";
+                href = "predictions_state_houses.html?state=" + state;
+                break;
+        }
+        titleEle.text(title);
+        linkEle.attr("href", href);
+
+        let seatsHTML = "<span class='blue'>" + demSeats + "</span> - <span class='red'>" + repSeats + "<span>";
+        seatsEle.html(seatsHTML);
+
+    }
+
 }
 
 function createSquareChart(type) {

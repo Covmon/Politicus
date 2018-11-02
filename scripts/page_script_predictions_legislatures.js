@@ -8,6 +8,12 @@ $(document).ready(function() {
     } else {
         let instructions = '<p style="font-family: Roboto" class="gray">Select a state using the dropdown above to see predictions for a state\'s entire house. Or, scroll down to view all state house races.</p>';
         $(".main-page").prepend(instructions);
+
+        let title = "<h2>State House Projections</h2>";
+        $(".tight-elections").append(title);
+
+        setupTopElections(numCardsToLoad, ["State Representative"]);
+
     }
 
 });
