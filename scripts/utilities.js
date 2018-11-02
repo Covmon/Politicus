@@ -57,7 +57,7 @@ $(document).ready(function() {
         getJSONCandidates(allStatesNeededInJSON, true);
     }
 
-    if (state != "All" && !(currentURL.includes("index.html") || currentURL == "https://50fifty.us")) {
+    if (state != "All" && !(currentURL.includes("index.html") || currentURL == "https://50fifty.us/")) {
         currentStates = [state];
     } else {
         $("#reset-link").css({"color": "gray"})
@@ -76,7 +76,7 @@ $(document).ready(function() {
         } else if (currentURL.includes("senate")) {
             getJSONOverall(state, "Senate");
         }
-    } else if (currentURL.includes("index") || currentURL == "https://50fifty.us") {
+    } else if (currentURL.includes("index") || currentURL == "https://50fifty.us/") {
         getJSONAllOverall(["House", "Senate"]);
         console.log("get all overall data because we're on index");
         console.log(allOverallData);

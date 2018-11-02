@@ -13,7 +13,7 @@ $(document).ready(function() {
 
     let currentURL = window.location.href;
     let defaultURLLength = 18;
-    if (state != "All" && !currentURL.includes("predictions.html") && !(currentURL.includes("index.html") || currentURL == "https://50fifty.us") && currentURL.length != defaultURLLength && currentURL.length != defaultURLLength + 1) {
+    if (state != "All" && !currentURL.includes("predictions.html") && !(currentURL.includes("index.html") || currentURL == "https://50fifty.us/") && currentURL.length != defaultURLLength && currentURL.length != defaultURLLength + 1) {
         
         if (!(state == "UT" && currentURL.includes("predictions_state_senates"))) {
             let currentTitle = $(".main-section h2").text();
