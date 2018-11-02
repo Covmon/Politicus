@@ -17,6 +17,7 @@ $(document).ready(function() {
 
     let currentURL = window.location.href;
     var urlParams = new URLSearchParams(window.location.search);
+    console.log(currentURL);
 
     availableStates.sort();
 
@@ -77,6 +78,7 @@ $(document).ready(function() {
         }
     } else if (currentURL.includes("index") || currentURL == "https://50fifty.us") {
         getJSONAllOverall(["House", "Senate"]);
+        console.log("get all overall data because we're on index");
         console.log(allOverallData);
     }
 
