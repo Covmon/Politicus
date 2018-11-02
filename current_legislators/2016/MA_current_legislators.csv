@@ -183,31 +183,35 @@
 181,Massachusetts,State Senator,2nd Suffolk And Middlesex,William Brownsberger,DEM,2014,2016,2,Yes,Yes,Yes
 182,Massachusetts,State Senator,2nd Worcester,Michael Moore,DEM,2014,2016,4,Yes,Yes,Yes
 183,Massachusetts,State Senator,3rd Essex,Thomas McGee,DEM,2014,2016,2,Yes,No,Yes
-205,Massachusetts,State Senator,3rd Essex And Middlesex,Thomas McGee,DEM,2010,2012,5,No,Yes,Yes
-184,Massachusetts,State Senator,3rd Middlesex,Michael Barrett,DEM,2014,2016,2,No,Yes,Yes
-185,Massachusetts,State Senator,4th Middlesex,Kenneth Donnelly,DEM,2014,2016,4,Yes,Yes,Yes
-186,Massachusetts,State Senator,5th Middlesex,Jason Lewis,DEM,2014,2016,1,No,No,Yes
-206,Massachusetts,State Senator,"Berkshire, Hampshire And Franklin",Benjamin Brackett Downing,DEM,2010,2012,3,Yes,Yes,Yes
-187,Massachusetts,State Senator,"Berkshire, Hampshire, Franklin And Hampden",Benjamin Brackett Downing,DEM,2014,2016,2,Yes,No,Yes
-188,Massachusetts,State Senator,Bristol And Norfolk,James Timilty,DEM,2014,2016,6,Yes,Yes,Yes
-189,Massachusetts,State Senator,Cape And Islands,Daniel Wolf,DEM,2014,2016,3,No,Yes,Yes
-190,Massachusetts,State Senator,Hampden,James Welch,DEM,2014,2016,3,Yes,No,Yes
-207,Massachusetts,State Senator,Hampshire And Franklin,Stanley Rosenberg,DEM,2010,2012,6,Yes,Yes,Yes
-191,Massachusetts,State Senator,"Hampshire, Franklin And Worcester",Stanley Rosenberg,DEM,2014,2016,2,Yes,No,Yes
-192,Massachusetts,State Senator,Middlesex,Salvatore Didomenico,DEM,2014,2016,2,Yes,Yes,Yes
-208,Massachusetts,State Senator,Middlesex And Essex,Katherine Clark,DEM,2010,2012,1,No,Yes,Yes
-193,Massachusetts,State Senator,Middlesex And Worcester,James Eldridge,DEM,2014,2016,4,Yes,Yes,Yes
-209,Massachusetts,State Senator,"Middlesex, Suffolk And Essex",Salvatore Didomenico,DEM,2010,2012,1,No,Yes,Yes
-194,Massachusetts,State Senator,Norfolk,Michael Rush,DEM,2014,2016,2,Yes,Yes,Yes
-195,Massachusetts,State Senator,Norfolk And Plymouth,John Keenan,DEM,2014,2016,3,No,Yes,Yes
-196,Massachusetts,State Senator,"Norfolk, Bristol And Middlesex",Richard Ross,REP,2014,2016,3,No,No,Yes
-197,Massachusetts,State Senator,"Norfolk, Bristol And Plymouth",Brian Joyce,DEM,2014,2016,7,Yes,Yes,Yes
-198,Massachusetts,State Senator,Plymouth And Barnstable,Vinny Manuel Demacedo,REP,2014,2016,1,No,No,Yes
-199,Massachusetts,State Senator,Plymouth And Norfolk,Robert Hedlund,REP,2014,2016,8,Yes,Yes,Yes
-210,Massachusetts,State Senator,Suffolk And Norfolk,Michael Rush,DEM,2010,2012,1,No,Yes,Yes
-200,Massachusetts,State Senator,Worcester And Middlesex,Jennifer Flanagan,DEM,2012,2014,3,Yes,Yes,Yes
-201,Massachusetts,State Senator,Worcester And Norfolk,Ryan Fattman,REP,2014,2016,1,No,Yes,Yes
-211,Massachusetts,State Senator,"Worcester, Hampden, Hampshire And Franklin",Stephen Brewer,DEM,2010,2012,5,No,Yes,Yes
-202,Massachusetts,State Senator,"Worcester, Hampden, Hampshire And Middlesex",Anne Gobi,DEM,2014,2016,1,No,Yes,Yes
-203,Massachusetts,U.S. Senator,0,Edward Markey,DEM,2014,2020,2,No,Yes,No
-204,Massachusetts,U.S. Senator,0,Elizabeth Warren,DEM,2012,2018,1,No,Yes,No
+184,Massachusetts,State Senator,3rd Essex And Middlesex,Thomas McGee,DEM,2010,2012,5,No,Yes,Yes
+185,Massachusetts,State Senator,3rd Middlesex,Michael Barrett,DEM,2014,2016,2,No,Yes,Yes
+186,Massachusetts,State Senator,4th Middlesex,Kenneth Donnelly,DEM,2014,2016,4,Yes,Yes,Yes
+187,Massachusetts,State Senator,5th Middlesex,Jason Lewis,DEM,2014,2016,1,No,No,Yes
+188,Massachusetts,State Senator,"Berkshire, Hampshire And Franklin",Benjamin Brackett Downing,DEM,2010,2012,3,Yes,Yes,Yes
+189,Massachusetts,State Senator,"Berkshire, Hampshire, Franklin And Hampden",Benjamin Brackett Downing,DEM,2014,2016,2,Yes,No,Yes
+190,Massachusetts,State Senator,Bristol And Norfolk,James Timilty,DEM,2014,2016,6,Yes,Yes,Yes
+191,Massachusetts,State Senator,Cape And Islands,Daniel Wolf,DEM,2014,2016,3,No,Yes,Yes
+192,Massachusetts,State Senator,Hampden,James Welch,DEM,2014,2016,3,Yes,No,Yes
+193,Massachusetts,State Senator,Hampshire And Franklin,Stanley Rosenberg,DEM,2010,2012,6,Yes,Yes,Yes
+194,Massachusetts,State Senator,"Hampshire, Franklin And Worcester",Stanley Rosenberg,DEM,2014,2016,2,Yes,No,Yes
+195,Massachusetts,State Senator,Middlesex,Salvatore Didomenico,DEM,2014,2016,2,Yes,Yes,Yes
+196,Massachusetts,State Senator,Middlesex And Essex,Katherine Clark,DEM,2010,2012,1,No,Yes,Yes
+197,Massachusetts,State Senator,Middlesex And Worcester,James Eldridge,DEM,2014,2016,4,Yes,Yes,Yes
+198,Massachusetts,State Senator,"Middlesex, Suffolk And Essex",Salvatore Didomenico,DEM,2010,2012,1,No,Yes,Yes
+199,Massachusetts,State Senator,Norfolk,Michael Rush,DEM,2014,2016,2,Yes,Yes,Yes
+200,Massachusetts,State Senator,Norfolk And Plymouth,John Keenan,DEM,2014,2016,3,No,Yes,Yes
+201,Massachusetts,State Senator,"Norfolk, Bristol And Middlesex",Richard Ross,REP,2014,2016,3,No,No,Yes
+202,Massachusetts,State Senator,"Norfolk, Bristol And Plymouth",Brian Joyce,DEM,2014,2016,7,Yes,Yes,Yes
+203,Massachusetts,State Senator,Plymouth And Barnstable,Vinny Manuel Demacedo,REP,2014,2016,1,No,No,Yes
+204,Massachusetts,State Senator,Plymouth And Norfolk,Robert Hedlund,REP,2014,2016,8,Yes,Yes,Yes
+205,Massachusetts,State Senator,Suffolk And Norfolk,Michael Rush,DEM,2010,2012,1,No,Yes,Yes
+206,Massachusetts,State Senator,Worcester And Middlesex,Jennifer Flanagan,DEM,2012,2014,3,Yes,Yes,Yes
+207,Massachusetts,State Senator,Worcester And Norfolk,Ryan Fattman,REP,2014,2016,1,No,Yes,Yes
+208,Massachusetts,State Senator,"Worcester, Hampden, Hampshire And Franklin",Stephen Brewer,DEM,2010,2012,5,No,Yes,Yes
+209,Massachusetts,State Senator,"Worcester, Hampden, Hampshire And Middlesex",Anne Gobi,DEM,2014,2016,1,No,Yes,Yes
+210,Massachusetts,U.S. Senator,0,Edward Markey,DEM,2014,2020,2,No,Yes,No
+211,Massachusetts,U.S. Senator,0,Elizabeth Warren,DEM,2012,2018,1,No,Yes,No
+212,Massachusetts,U.S. Senator,0,Edward Markey,DEM,2014,2020,2,No,Yes,No
+213,Massachusetts,U.S. Senator,0,Elizabeth Warren,DEM,2012,2018,1,No,Yes,No
+214,Massachusetts,U.S. Senator,0,Edward Markey,DEM,2014,2020,2,No,Yes,No
+215,Massachusetts,U.S. Senator,0,Elizabeth Warren,DEM,2012,2018,1,No,Yes,No
