@@ -42,7 +42,8 @@ function setupNewsArticle(articleText) {
     let date = lines[2];
 
 
-    let titleLower = title.replace(/\s+/g, '-').toLowerCase();
+    var titleLower = title.replace(/[\. ,:-]+/g, '-').toLowerCase();
+    titleLower = titleLower.replace("'", "");
     let id = "#" + titleLower;
 
     console.log("Title: " + title + ", author: " + author + ", date: " + date);

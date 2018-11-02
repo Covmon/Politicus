@@ -4,6 +4,8 @@ October 30, 2018
 
 We've worked on 50Fifty over the past few months, and now that it's released, we want to share details of how we collected data for our model and what factors impact our predictions.
 
+<h1>Overview</h1>
+
 Unlike other prediction models, which rely primarily on current polls and then add in other data, 50Fifty's model weighs a number of data points in each other's context. It does so using supervised machine learning, which involves finding patterns and relationships between different attributes, called "features," of political races, and using those relationships and known features to predict vote outcomes. We do not assign weights to each feature; rather, the model learns which features are most meaningful and what exactly they signify.
 
 The features used in our model include: historical election results, generic ballot polling, demographic data, fundraising, election-specific polling, incumbency, primary competition, and candidate experience. These features are elaborated on below. 
@@ -24,9 +26,9 @@ Our model is trained using tens of thousands of past elections going back to 200
 
 <b>Polling Data:</b> This feature is very straightforward. The model factors in the latest polling data in races for which it is available (polls are generally only available in U.S. Congress and Governors races). This allows the model to make race-specific adjustments based on factors that can't be measured by other features.
 
-<b>Incumbency</b> An incumbent, the candidate in a race who was previously elected (if any), gains some advantage over a challenger, even if the district's demographics and other factors favor the challenger's party.
+<b>Incumbency:</b> An incumbent, the candidate in a race who was previously elected (if any), gains some advantage over a challenger, even if the district's demographics and other factors favor the challenger's party.
 
-<b>Other Factors</b> We use a few other minor features, like whether a candidate faced an opponent in the primary election, and the experience of both candidates (as measured by number of terms served in elected office). However, the features above carry the majority of the weight in our predictions. It's incredible what machine learning can accomplish even in a system as complex as U.S. politics and with only a few data points.
+<b>Other Factors:</b> We use a few other minor features, like whether a candidate faced an opponent in the primary election, and the experience of both candidates (as measured by number of terms served in elected office). However, the features above carry the majority of the weight in our predictions. It's incredible what machine learning can accomplish even in a system as complex as U.S. politics and with only a few data points.
 
 Thanks for visiting 50Fifty! If you have any questions, comments, or suggestions, or want to write for us, please contact us at <a href="mailto:contact@50fifty.us">contact@50fifty.us</a>.
 
