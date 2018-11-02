@@ -1,763 +1,765 @@
 ,State,Position,District,Candidate,Party,Year Elected,Next Election,Number of Terms in Position,Unopposed in Last Election,DEM Unopposed in Primary,REP Unopposed in Primary
 0,Georgia,Attorney General,0,Samuel Olens,REP,2014,2018,0,No,Yes,Yes
 1,Georgia,Governor,0,Nathan Deal,REP,2014,2018,0,No,No,No
-2,Georgia,Lieutenant Governor,nan,Casey Cagle,REP,2014,2018,0,No,No,No
+2,Georgia,Lieutenant Governor,0,Casey Cagle,REP,2014,2018,0,No,No,No
 3,Georgia,Secretary Of State,0,Brian Kemp,REP,2014,2018,0,No,No,No
 4,Georgia,State Representative,1,John Deffenbaugh,REP,2014,2016,2,No,Yes,No
 5,Georgia,State Representative,1,John Deffenbaugh,REP,2012,2014,1,No,Yes,No
-526,Georgia,State Representative,1,Jay Neal,REP,2010,2012,4,Yes,Yes,No
-6,Georgia,State Representative,2,Steve Stephen Tarvin,REP,2014,2016,1,No,Yes,Yes
-7,Georgia,State Representative,2,Jay Neal,REP,2012,2014,1,Yes,Yes,Yes
-618,Georgia,State Representative,2,Martin Scott,REP,2010,2012,4,Yes,Yes,Yes
-8,Georgia,State Representative,3,Tom Weldon Jr.,REP,2014,2016,4,Yes,Yes,Yes
-9,Georgia,State Representative,3,Tom Weldon Jr.,REP,2012,2014,3,Yes,Yes,Yes
-629,Georgia,State Representative,3,Tom Weldon Jr.,REP,2010,2012,2,Yes,Yes,Yes
-10,Georgia,State Representative,4,Bruce Broadrick Sr.,REP,2014,2016,2,Yes,Yes,Yes
-11,Georgia,State Representative,4,Bruce Broadrick Sr.,REP,2012,2014,1,Yes,Yes,Yes
-640,Georgia,State Representative,4,Roger Williams,REP,2010,2012,4,Yes,Yes,Yes
-12,Georgia,State Representative,5,John Meadows,REP,2014,2016,6,Yes,Yes,Yes
-13,Georgia,State Representative,5,John Meadows,REP,2012,2014,5,No,Yes,Yes
-651,Georgia,State Representative,5,John Meadows,REP,2010,2012,4,Yes,Yes,Yes
-14,Georgia,State Representative,6,Tom Dickson,REP,2014,2016,6,Yes,Yes,Yes
-15,Georgia,State Representative,6,Tom Dickson,REP,2012,2014,5,Yes,Yes,Yes
-662,Georgia,State Representative,6,Tom Dickson,REP,2010,2012,4,No,Yes,Yes
-16,Georgia,State Representative,7,David Ralston,REP,2014,2016,6,Yes,Yes,No
-17,Georgia,State Representative,7,David Ralston,REP,2012,2014,5,Yes,Yes,No
-673,Georgia,State Representative,7,David Ralston,REP,2010,2012,4,Yes,Yes,No
-18,Georgia,State Representative,8,Stephen Allison,REP,2014,2016,4,Yes,Yes,No
-19,Georgia,State Representative,8,Stephen Allison,REP,2012,2014,3,No,Yes,No
-684,Georgia,State Representative,8,Stephen Allison,REP,2010,2012,2,No,Yes,No
-20,Georgia,State Representative,9,Kevin Kermit Tanner,REP,2014,2016,2,Yes,Yes,No
-21,Georgia,State Representative,9,Kevin Kermit Tanner,REP,2012,2014,1,Yes,Yes,No
-695,Georgia,State Representative,9,Hinton Amos Amerson,REP,2010,2012,4,Yes,Yes,No
-22,Georgia,State Representative,10,Terry Rogers,REP,2014,2016,3,Yes,Yes,Yes
-23,Georgia,State Representative,10,Terry Rogers,REP,2012,2014,2,Yes,Yes,Yes
-527,Georgia,State Representative,10,Rick Austin,REP,2010,2012,2,Yes,Yes,Yes
-24,Georgia,State Representative,11,Rick Jasperse,REP,2014,2016,2,No,Yes,Yes
-25,Georgia,State Representative,11,Rick Jasperse,REP,2012,2014,1,Yes,Yes,Yes
-538,Georgia,State Representative,11,Barbara Reece,DEM,2010,2012,4,Yes,Yes,Yes
-26,Georgia,State Representative,12,James Eddie Lumsden,REP,2014,2016,2,Yes,Yes,Yes
-27,Georgia,State Representative,12,James Eddie Lumsden,REP,2012,2014,1,No,Yes,Yes
-549,Georgia,State Representative,12,Rick Jasperse,REP,2010,2012,1,No,Yes,Yes
-28,Georgia,State Representative,13,Katie Dempsey,REP,2014,2016,5,No,Yes,Yes
-29,Georgia,State Representative,13,Katie Dempsey,REP,2012,2014,4,Yes,Yes,Yes
-560,Georgia,State Representative,13,Katie Dempsey,REP,2010,2012,3,No,Yes,Yes
-30,Georgia,State Representative,14,Christian Coomer,REP,2014,2016,3,Yes,Yes,Yes
-31,Georgia,State Representative,14,Christian Coomer,REP,2012,2014,2,Yes,Yes,Yes
-571,Georgia,State Representative,14,Christian Coomer,REP,2010,2012,1,No,Yes,Yes
-32,Georgia,State Representative,15,Paul Battles,REP,2014,2016,4,No,Yes,No
-33,Georgia,State Representative,15,Paul Battles,REP,2012,2014,3,No,Yes,No
-582,Georgia,State Representative,15,Paul Battles,REP,2010,2012,2,Yes,Yes,No
-34,Georgia,State Representative,16,Trey Kelley,REP,2014,2016,2,Yes,Yes,Yes
-35,Georgia,State Representative,16,Trey Kelley,REP,2012,2014,1,No,Yes,Yes
-593,Georgia,State Representative,16,Rick Crawford,DEM,2010,2012,3,Yes,Yes,Yes
-36,Georgia,State Representative,17,Howard Maxwell,REP,2014,2016,6,Yes,Yes,No
-37,Georgia,State Representative,17,Howard Maxwell,REP,2012,2014,5,Yes,Yes,No
-604,Georgia,State Representative,17,Howard Maxwell,REP,2010,2012,4,Yes,Yes,No
-38,Georgia,State Representative,18,Kevin Cooke,REP,2014,2016,3,No,Yes,Yes
-39,Georgia,State Representative,18,Kevin Cooke,REP,2012,2014,2,No,Yes,Yes
-615,Georgia,State Representative,18,Kevin Cooke,REP,2010,2012,1,Yes,Yes,Yes
-40,Georgia,State Representative,19,Paulette Rakestraw Braddock,REP,2014,2016,3,No,No,No
-41,Georgia,State Representative,19,Paulette Rakestraw Braddock,REP,2012,2014,2,Yes,No,No
-617,Georgia,State Representative,19,Paulette Rakestraw Braddock,REP,2010,2012,1,No,No,No
-42,Georgia,State Representative,20,Michael Caldwell,REP,2014,2016,2,Yes,Yes,Yes
-43,Georgia,State Representative,20,Michael Caldwell,REP,2012,2014,1,No,Yes,Yes
-619,Georgia,State Representative,20,Charlice Byrd,REP,2010,2012,4,No,Yes,Yes
-44,Georgia,State Representative,21,Scot Turner,REP,2014,2016,1,Yes,Yes,Yes
-45,Georgia,State Representative,21,Sean Jerguson,REP,2012,2014,1,Yes,Yes,Yes
-620,Georgia,State Representative,21,Calvin Hill,REP,2010,2012,4,No,Yes,Yes
-46,Georgia,State Representative,22,Wes Cantrell,REP,2014,2016,1,No,Yes,Yes
-47,Georgia,State Representative,22,Calvin Hill,REP,2012,2014,1,Yes,Yes,Yes
-621,Georgia,State Representative,22,Sean Jerguson,REP,2010,2012,3,No,Yes,Yes
-48,Georgia,State Representative,23,Mandi Ballinger,REP,2014,2016,2,Yes,Yes,Yes
-49,Georgia,State Representative,23,Mandi Ballinger,REP,2012,2014,1,Yes,Yes,Yes
-622,Georgia,State Representative,23,Mark Hamilton,REP,2010,2012,3,Yes,Yes,Yes
-50,Georgia,State Representative,24,Mark Hamilton,REP,2014,2016,2,Yes,Yes,No
-51,Georgia,State Representative,24,Mark Hamilton,REP,2012,2014,1,Yes,Yes,No
-623,Georgia,State Representative,24,Michael Dudgeon,REP,2010,2012,1,Yes,Yes,No
-52,Georgia,State Representative,25,Michael Dudgeon,REP,2014,2016,2,Yes,Yes,No
-53,Georgia,State Representative,25,Michael Dudgeon,REP,2012,2014,1,Yes,Yes,No
-624,Georgia,State Representative,25,James Mills,REP,2010,2012,4,No,Yes,No
-54,Georgia,State Representative,26,Geoffrey Duncan,REP,2014,2016,2,Yes,Yes,Yes
-55,Georgia,State Representative,26,Geoffrey Duncan,REP,2012,2014,1,Yes,Yes,Yes
-625,Georgia,State Representative,26,Carl Rogers,REP,2010,2012,4,No,Yes,Yes
-56,Georgia,State Representative,27,Lee Hawkins Jr.,REP,2014,2016,2,Yes,Yes,Yes
-57,Georgia,State Representative,27,Lee Hawkins Jr.,REP,2012,2014,1,Yes,Yes,Yes
-626,Georgia,State Representative,27,Doug Collins,REP,2010,2012,3,Yes,Yes,Yes
-58,Georgia,State Representative,28,Dan Daniel Gasaway,REP,2014,2016,2,Yes,Yes,No
-59,Georgia,State Representative,28,Dan Daniel Gasaway,REP,2012,2014,1,No,Yes,No
-627,Georgia,State Representative,28,Michael Harden,REP,2010,2012,2,No,Yes,No
-60,Georgia,State Representative,29,Carl Rogers,REP,2014,2016,2,Yes,Yes,Yes
-61,Georgia,State Representative,29,Carl Rogers,REP,2012,2014,1,Yes,Yes,Yes
-628,Georgia,State Representative,29,Alan Powell,DEM,2010,2012,4,Yes,Yes,Yes
-62,Georgia,State Representative,30,Emory Dunahoo Jr.,REP,2014,2016,2,Yes,No,Yes
-63,Georgia,State Representative,30,Emory Dunahoo Jr.,REP,2012,2014,1,Yes,No,Yes
-630,Georgia,State Representative,30,Thomas McCall,REP,2010,2012,4,No,No,Yes
-64,Georgia,State Representative,31,Tommy Benton Sr.,REP,2014,2016,6,Yes,Yes,No
-65,Georgia,State Representative,31,Tommy Benton Sr.,REP,2012,2014,5,Yes,Yes,No
-631,Georgia,State Representative,31,Tommy Benton Sr.,REP,2010,2012,4,Yes,Yes,No
-66,Georgia,State Representative,32,Alan Powell,REP,2014,2016,2,Yes,Yes,Yes
-67,Georgia,State Representative,32,Alan Powell,REP,2012,2014,1,No,Yes,Yes
-632,Georgia,State Representative,32,Judith Hubert Manning,REP,2010,2012,4,No,Yes,Yes
-68,Georgia,State Representative,33,Thomas McCall,REP,2014,2016,2,Yes,Yes,Yes
-69,Georgia,State Representative,33,Thomas McCall,REP,2012,2014,1,No,Yes,Yes
-633,Georgia,State Representative,33,David Wilkerson,DEM,2010,2012,1,Yes,Yes,Yes
-70,Georgia,State Representative,34,Bert Reeves,REP,2014,2016,1,Yes,Yes,Yes
-71,Georgia,State Representative,34,Charles Gregory,REP,2012,2014,1,Yes,Yes,Yes
-634,Georgia,State Representative,34,Rich Golick,REP,2010,2012,4,No,Yes,Yes
-72,Georgia,State Representative,35,Ed Edwin Setzler,REP,2014,2016,6,Yes,No,Yes
-73,Georgia,State Representative,35,Ed Edwin Setzler,REP,2012,2014,5,Yes,No,Yes
-635,Georgia,State Representative,35,Ed Edwin Setzler,REP,2010,2012,4,No,No,Yes
-74,Georgia,State Representative,36,Earl Ehrhart,REP,2014,2016,6,Yes,Yes,No
-75,Georgia,State Representative,36,Earl Ehrhart,REP,2012,2014,5,Yes,Yes,No
-636,Georgia,State Representative,36,Earl Ehrhart,REP,2010,2012,4,Yes,Yes,No
-76,Georgia,State Representative,37,Sam Teasley,REP,2014,2016,2,No,No,Yes
-77,Georgia,State Representative,37,Sam Teasley,REP,2012,2014,1,No,No,Yes
-637,Georgia,State Representative,37,Terry Johnson,DEM,2010,2012,4,No,No,Yes
-78,Georgia,State Representative,38,David Wilkerson,DEM,2014,2016,2,Yes,Yes,Yes
-79,Georgia,State Representative,38,David Wilkerson,DEM,2012,2014,1,Yes,Yes,Yes
-638,Georgia,State Representative,38,Sam Teasley,REP,2010,2012,1,No,Yes,Yes
-80,Georgia,State Representative,39,Erica Renee Thomas,DEM,2014,2016,1,Yes,No,Yes
-81,Georgia,State Representative,39,Alisha Thomas Morgan,DEM,2012,2014,5,Yes,No,Yes
-639,Georgia,State Representative,39,Alisha Thomas Morgan,DEM,2010,2012,4,Yes,No,Yes
-82,Georgia,State Representative,40,Rich Golick,REP,2014,2016,2,No,No,No
-83,Georgia,State Representative,40,Rich Golick,REP,2012,2014,1,Yes,No,No
-641,Georgia,State Representative,40,Stacey Godfrey Evans,DEM,2010,2012,1,No,No,No
-84,Georgia,State Representative,41,Michael Smith,DEM,2014,2016,2,Yes,Yes,No
-85,Georgia,State Representative,41,Michael Smith,DEM,2012,2014,1,No,Yes,No
-642,Georgia,State Representative,41,Sharon Cooper,REP,2010,2012,4,No,Yes,No
-86,Georgia,State Representative,42,Stacey Godfrey Evans,DEM,2014,2016,2,Yes,Yes,Yes
-87,Georgia,State Representative,42,Stacey Godfrey Evans,DEM,2012,2014,1,Yes,Yes,Yes
-643,Georgia,State Representative,42,Don Parsons,REP,2010,2012,4,Yes,Yes,Yes
-88,Georgia,State Representative,43,Sharon Cooper,REP,2014,2016,2,Yes,Yes,Yes
-89,Georgia,State Representative,43,Sharon Cooper,REP,2012,2014,1,Yes,Yes,Yes
-644,Georgia,State Representative,43,Bobby Franklin,REP,2010,2012,4,Yes,Yes,Yes
-90,Georgia,State Representative,44,Don Parsons,REP,2014,2016,2,Yes,Yes,No
-91,Georgia,State Representative,44,Don Parsons,REP,2012,2014,1,Yes,Yes,No
-645,Georgia,State Representative,44,Sheila Jones,DEM,2010,2012,4,Yes,Yes,No
-92,Georgia,State Representative,45,Matt Dollar,REP,2014,2016,6,Yes,Yes,Yes
-93,Georgia,State Representative,45,Matt Dollar,REP,2012,2014,5,Yes,Yes,Yes
-646,Georgia,State Representative,45,Matt Dollar,REP,2010,2012,4,No,Yes,Yes
-94,Georgia,State Representative,46,John Carson,REP,2014,2016,2,Yes,Yes,Yes
-95,Georgia,State Representative,46,John Carson,REP,2012,2014,1,No,Yes,Yes
-647,Georgia,State Representative,46,Jan Jones,REP,2010,2012,4,No,Yes,Yes
-96,Georgia,State Representative,47,Jan Jones,REP,2014,2016,2,Yes,Yes,Yes
-97,Georgia,State Representative,47,Jan Jones,REP,2012,2014,1,Yes,Yes,Yes
-648,Georgia,State Representative,47,Charles Martin Jr.,REP,2010,2012,4,Yes,Yes,Yes
-98,Georgia,State Representative,48,Harry Geisinger,REP,2014,2016,6,No,Yes,No
-99,Georgia,State Representative,48,Harry Geisinger,REP,2012,2014,5,Yes,Yes,No
-649,Georgia,State Representative,48,Harry Geisinger,REP,2010,2012,4,Yes,Yes,No
-100,Georgia,State Representative,49,Charles Martin Jr.,REP,2014,2016,2,Yes,Yes,Yes
-101,Georgia,State Representative,49,Charles Martin Jr.,REP,2012,2014,1,Yes,Yes,Yes
-650,Georgia,State Representative,49,Wendell Willard,REP,2010,2012,4,Yes,Yes,Yes
-102,Georgia,State Representative,50,Lynne Riley,REP,2014,2016,3,No,No,No
-103,Georgia,State Representative,50,Lynne Riley,REP,2012,2014,2,Yes,No,No
-652,Georgia,State Representative,50,Lynne Riley,REP,2010,2012,1,Yes,No,No
-104,Georgia,State Representative,51,Wendell Willard,REP,2014,2016,2,Yes,Yes,Yes
-105,Georgia,State Representative,51,Wendell Willard,REP,2012,2014,1,Yes,Yes,Yes
-653,Georgia,State Representative,51,Tom Rice,REP,2010,2012,4,Yes,Yes,Yes
-106,Georgia,State Representative,52,Joseph Beebe Wilkinson Jr.,REP,2014,2016,6,Yes,Yes,No
-107,Georgia,State Representative,52,Joseph Beebe Wilkinson Jr.,REP,2012,2014,5,Yes,Yes,No
-654,Georgia,State Representative,52,Joseph Beebe Wilkinson Jr.,REP,2010,2012,4,Yes,Yes,No
-108,Georgia,State Representative,53,Sheila Jones,DEM,2014,2016,2,Yes,Yes,Yes
-109,Georgia,State Representative,53,Sheila Jones,DEM,2012,2014,1,Yes,Yes,Yes
-655,Georgia,State Representative,53,Elly Dobbs,DEM,2010,2012,2,Yes,Yes,Yes
-110,Georgia,State Representative,54,Beth Beskin,REP,2014,2016,1,No,No,Yes
-111,Georgia,State Representative,54,Ed Lindsey,REP,2012,2014,5,No,No,Yes
-656,Georgia,State Representative,54,Ed Lindsey,REP,2010,2012,4,Yes,No,Yes
-112,Georgia,State Representative,55,Tyrone Brooks,DEM,2014,2016,2,Yes,Yes,Yes
-113,Georgia,State Representative,55,Tyrone Brooks,DEM,2012,2014,1,Yes,Yes,Yes
-657,Georgia,State Representative,55,Rashad Taylor,DEM,2010,2012,2,Yes,Yes,Yes
-114,Georgia,State Representative,56,Able Mable) Thomas,DEM,2014,2016,2,Yes,No,Yes
-115,Georgia,State Representative,56,Able Mable) Thomas,DEM,2012,2014,1,Yes,No,Yes
-658,Georgia,State Representative,56,Kathy Ashe,DEM,2010,2012,4,Yes,No,Yes
-116,Georgia,State Representative,57,Patricia Gardner,DEM,2014,2016,6,Yes,No,Yes
-117,Georgia,State Representative,57,Patricia Gardner,DEM,2012,2014,5,Yes,No,Yes
-659,Georgia,State Representative,57,Patricia Gardner,DEM,2010,2012,4,Yes,No,Yes
-118,Georgia,State Representative,58,Simone Bell,DEM,2014,2016,3,Yes,No,Yes
-119,Georgia,State Representative,58,Simone Bell,DEM,2012,2014,2,No,No,Yes
-660,Georgia,State Representative,58,Simone Bell,DEM,2010,2012,1,Yes,No,Yes
-120,Georgia,State Representative,59,Margaret Kaiser,DEM,2014,2016,5,Yes,Yes,Yes
-121,Georgia,State Representative,59,Margaret Kaiser,DEM,2012,2014,4,Yes,Yes,Yes
-661,Georgia,State Representative,59,Margaret Kaiser,DEM,2010,2012,3,Yes,Yes,Yes
-122,Georgia,State Representative,60,Keisha Sean Waites,DEM,2014,2016,2,Yes,No,Yes
-123,Georgia,State Representative,60,Keisha Sean Waites,DEM,2012,2014,1,No,No,Yes
-663,Georgia,State Representative,60,Gloria Bromell-Tinubu,DEM,2010,2012,1,Yes,No,Yes
-124,Georgia,State Representative,61,Roger Bruce,DEM,2014,2016,2,Yes,Yes,Yes
-125,Georgia,State Representative,61,Roger Bruce,DEM,2012,2014,1,Yes,Yes,Yes
-664,Georgia,State Representative,61,Ralph Long III,DEM,2010,2012,2,Yes,Yes,Yes
-126,Georgia,State Representative,62,Ladawn Blackett Jones,DEM,2014,2016,2,Yes,No,Yes
-127,Georgia,State Representative,62,Ladawn Blackett Jones,DEM,2012,2014,1,No,No,Yes
-665,Georgia,State Representative,62,Joe Heckstall,DEM,2010,2012,4,Yes,No,Yes
-128,Georgia,State Representative,63,Ronnie Mabra,DEM,2014,2016,2,Yes,No,Yes
-129,Georgia,State Representative,63,Ronnie Mabra,DEM,2012,2014,1,No,No,Yes
-666,Georgia,State Representative,63,Tyrone Brooks,DEM,2010,2012,4,Yes,No,Yes
-130,Georgia,State Representative,64,Virgil Fludd,DEM,2014,2016,2,Yes,Yes,Yes
-131,Georgia,State Representative,64,Virgil Fludd,DEM,2012,2014,1,Yes,Yes,Yes
-667,Georgia,State Representative,64,Roger Bruce,DEM,2010,2012,4,Yes,Yes,Yes
-132,Georgia,State Representative,65,Sharon Beasley-Teague,DEM,2014,2016,6,Yes,No,Yes
-133,Georgia,State Representative,65,Sharon Beasley-Teague,DEM,2012,2014,5,Yes,No,Yes
-668,Georgia,State Representative,65,Sharon Beasley-Teague,DEM,2010,2012,4,Yes,No,Yes
-134,Georgia,State Representative,66,Kimberly Alexander,DEM,2014,2016,2,No,Yes,Yes
-135,Georgia,State Representative,66,Kimberly Alexander,DEM,2012,2014,1,No,Yes,Yes
-669,Georgia,State Representative,66,Virgil Fludd,DEM,2010,2012,4,Yes,Yes,Yes
-136,Georgia,State Representative,67,Micah Gravley,REP,2014,2016,2,Yes,Yes,Yes
-137,Georgia,State Representative,67,Micah Gravley,REP,2012,2014,1,No,Yes,Yes
-670,Georgia,State Representative,67,Bill Hembree,REP,2010,2012,4,No,Yes,Yes
-138,Georgia,State Representative,68,Dusty Hightower,REP,2014,2016,2,Yes,Yes,Yes
-139,Georgia,State Representative,68,Dusty Hightower,REP,2012,2014,1,Yes,Yes,Yes
-671,Georgia,State Representative,68,Timothy Beardon,REP,2010,2012,4,Yes,Yes,Yes
-140,Georgia,State Representative,69,Randy Otis Nix,REP,2014,2016,5,Yes,Yes,Yes
-141,Georgia,State Representative,69,Randy Otis Nix,REP,2012,2014,4,No,Yes,Yes
-672,Georgia,State Representative,69,Randy Otis Nix,REP,2010,2012,3,Yes,Yes,Yes
-142,Georgia,State Representative,70,Lynn Ratigan Smith,REP,2014,2016,6,Yes,Yes,Yes
-143,Georgia,State Representative,70,Lynn Ratigan Smith,REP,2012,2014,5,Yes,Yes,Yes
-674,Georgia,State Representative,70,Lynn Ratigan Smith,REP,2010,2012,4,Yes,Yes,Yes
-144,Georgia,State Representative,71,David Jay Stover,REP,2014,2016,1,Yes,Yes,No
-145,Georgia,State Representative,71,Robert Stokely,REP,2012,2014,1,Yes,Yes,No
-675,Georgia,State Representative,71,Billy Horne,REP,2010,2012,4,Yes,Yes,No
-146,Georgia,State Representative,72,Matthew Ramsey,REP,2014,2016,4,Yes,Yes,No
-147,Georgia,State Representative,72,Matthew Ramsey,REP,2012,2014,3,Yes,Yes,No
-676,Georgia,State Representative,72,Matthew Ramsey,REP,2010,2012,2,Yes,Yes,No
-148,Georgia,State Representative,73,John Yates,REP,2014,2016,6,No,Yes,Yes
-149,Georgia,State Representative,73,John Yates,REP,2012,2014,5,Yes,Yes,Yes
-677,Georgia,State Representative,73,John Yates,REP,2010,2012,4,No,Yes,Yes
-150,Georgia,State Representative,74,Valencia Stovall,DEM,2014,2016,2,Yes,No,Yes
-151,Georgia,State Representative,74,Valencia Stovall,DEM,2012,2014,1,Yes,No,Yes
-678,Georgia,State Representative,74,Roberta Abdul-Salaam,DEM,2010,2012,4,Yes,No,Yes
-152,Georgia,State Representative,75,Michael Eugene Glanton Sr.,DEM,2014,2016,2,Yes,No,Yes
-153,Georgia,State Representative,75,Michael Eugene Glanton Sr.,DEM,2012,2014,1,Yes,No,Yes
-679,Georgia,State Representative,75,Yasmin Mikila Neal,DEM,2010,2012,1,No,No,Yes
-154,Georgia,State Representative,76,Sandra Scott,DEM,2014,2016,3,Yes,Yes,Yes
-155,Georgia,State Representative,76,Sandra Scott,DEM,2012,2014,2,Yes,Yes,Yes
-680,Georgia,State Representative,76,Sandra Scott,DEM,2010,2012,1,Yes,Yes,Yes
-156,Georgia,State Representative,77,Darryl Jordan,DEM,2014,2016,6,Yes,Yes,Yes
-157,Georgia,State Representative,77,Darryl Jordan,DEM,2012,2014,5,Yes,Yes,Yes
-681,Georgia,State Representative,77,Darryl Jordan,DEM,2010,2012,4,No,Yes,Yes
-158,Georgia,State Representative,78,Demetrius Douglas,DEM,2014,2016,2,No,Yes,Yes
-159,Georgia,State Representative,78,Demetrius Douglas,DEM,2012,2014,1,Yes,Yes,Yes
-682,Georgia,State Representative,78,Glenn Baker,DEM,2010,2012,2,Yes,Yes,Yes
-160,Georgia,State Representative,79,Tom Taylor,REP,2014,2016,3,Yes,Yes,Yes
-161,Georgia,State Representative,79,Tom Taylor,REP,2012,2014,2,Yes,Yes,Yes
-683,Georgia,State Representative,79,Tom Taylor,REP,2010,2012,1,No,Yes,Yes
-162,Georgia,State Representative,80,Mike Jacobs,REP,2014,2016,6,Yes,Yes,Yes
-163,Georgia,State Representative,80,Mike Jacobs,REP,2012,2014,5,No,Yes,Yes
-685,Georgia,State Representative,80,Mike Jacobs,REP,2010,2012,4,No,Yes,Yes
-164,Georgia,State Representative,81,Scott Holcomb,DEM,2014,2016,2,No,No,Yes
-165,Georgia,State Representative,81,Scott Holcomb,DEM,2012,2014,1,No,No,Yes
-686,Georgia,State Representative,81,Elena Parent,DEM,2010,2012,1,No,No,Yes
-166,Georgia,State Representative,82,Mary Margaret Oliver,DEM,2014,2016,2,Yes,Yes,Yes
-167,Georgia,State Representative,82,Mary Margaret Oliver,DEM,2012,2014,1,Yes,Yes,Yes
-687,Georgia,State Representative,82,Scott Holcomb,DEM,2010,2012,1,Yes,Yes,Yes
-168,Georgia,State Representative,83,Howard Mosby,DEM,2014,2016,2,No,No,Yes
-169,Georgia,State Representative,83,Howard Mosby,DEM,2012,2014,1,Yes,No,Yes
-688,Georgia,State Representative,83,Mary Margaret Oliver,DEM,2010,2012,4,Yes,No,Yes
-170,Georgia,State Representative,84,Rahn Mayo,DEM,2014,2016,2,Yes,Yes,Yes
-171,Georgia,State Representative,84,Rahn Mayo,DEM,2012,2014,1,Yes,Yes,Yes
-689,Georgia,State Representative,84,Stacey Yvonne Abrams,DEM,2010,2012,3,Yes,Yes,Yes
-172,Georgia,State Representative,85,Karla Lea Drenner,DEM,2014,2016,2,Yes,Yes,Yes
-173,Georgia,State Representative,85,Karla Lea Drenner,DEM,2012,2014,1,Yes,Yes,Yes
-690,Georgia,State Representative,85,Stephanie Stuckey Benfield,DEM,2010,2012,4,No,Yes,Yes
-174,Georgia,State Representative,86,Michele Henson,DEM,2014,2016,2,Yes,No,Yes
-175,Georgia,State Representative,86,Michele Henson,DEM,2012,2014,1,No,No,Yes
-691,Georgia,State Representative,86,Karla Lea Drenner,DEM,2010,2012,4,Yes,No,Yes
-176,Georgia,State Representative,87,Coach Williams,DEM,2014,2016,2,Yes,No,Yes
-177,Georgia,State Representative,87,Coach Williams,DEM,2012,2014,1,Yes,No,Yes
-692,Georgia,State Representative,87,Michele Henson,DEM,2010,2012,4,Yes,No,Yes
-178,Georgia,State Representative,88,Billy Mitchell,DEM,2014,2016,6,Yes,Yes,Yes
-179,Georgia,State Representative,88,Billy Mitchell,DEM,2012,2014,5,Yes,Yes,Yes
-693,Georgia,State Representative,88,Billy Mitchell,DEM,2010,2012,4,Yes,Yes,Yes
-180,Georgia,State Representative,89,Stacey Yvonne Abrams,DEM,2014,2016,2,Yes,Yes,Yes
-181,Georgia,State Representative,89,Stacey Yvonne Abrams,DEM,2012,2014,1,Yes,Yes,Yes
-694,Georgia,State Representative,89,Coach Williams,DEM,2010,2012,4,Yes,Yes,Yes
-182,Georgia,State Representative,90,Pamela Sturdivant Stephenson,DEM,2014,2016,2,Yes,No,Yes
-183,Georgia,State Representative,90,Pamela Sturdivant Stephenson,DEM,2012,2014,1,Yes,No,Yes
-696,Georgia,State Representative,90,Howard Mosby,DEM,2010,2012,4,Yes,No,Yes
-184,Georgia,State Representative,91,Dee Dawkins-Haigler,DEM,2014,2016,2,Yes,Yes,Yes
-185,Georgia,State Representative,91,Dee Dawkins-Haigler,DEM,2012,2014,1,Yes,Yes,Yes
-697,Georgia,State Representative,91,Rahn Mayo,DEM,2010,2012,2,Yes,Yes,Yes
-186,Georgia,State Representative,92,Tonya Anderson,DEM,2014,2016,2,Yes,Yes,Yes
-187,Georgia,State Representative,92,Tonya Anderson,DEM,2012,2014,1,No,Yes,Yes
-698,Georgia,State Representative,92,Pamela Sturdivant Stephenson,DEM,2010,2012,4,Yes,Yes,Yes
-188,Georgia,State Representative,93,Darshun Kendrick,DEM,2014,2016,2,Yes,Yes,Yes
-189,Georgia,State Representative,93,Darshun Kendrick,DEM,2012,2014,1,No,Yes,Yes
-699,Georgia,State Representative,93,Dee Dawkins-Haigler,DEM,2010,2012,2,Yes,Yes,Yes
-190,Georgia,State Representative,94,Karen Bennett,DEM,2014,2016,2,No,No,Yes
-191,Georgia,State Representative,94,Karen Bennett,DEM,2012,2014,1,Yes,No,Yes
-700,Georgia,State Representative,94,Darshun Kendrick,DEM,2010,2012,1,No,No,Yes
-192,Georgia,State Representative,95,Tom Rice,REP,2014,2016,2,No,Yes,Yes
-193,Georgia,State Representative,95,Tom Rice,REP,2012,2014,1,No,Yes,Yes
-701,Georgia,State Representative,95,Pamela Dickerson,DEM,2010,2012,1,No,Yes,Yes
-194,Georgia,State Representative,96,Pete Marin,DEM,2014,2016,6,Yes,Yes,Yes
-195,Georgia,State Representative,96,Pete Marin,DEM,2012,2014,5,No,Yes,Yes
-702,Georgia,State Representative,96,Pete Marin,DEM,2010,2012,4,Yes,Yes,Yes
-196,Georgia,State Representative,97,Brooks Coleman,REP,2014,2016,6,Yes,No,No
-197,Georgia,State Representative,97,Brooks Coleman,REP,2012,2014,5,Yes,No,No
-703,Georgia,State Representative,97,Brooks Coleman,REP,2010,2012,4,Yes,No,No
-198,Georgia,State Representative,98,David Clark,REP,2014,2016,1,No,Yes,Yes
-199,Georgia,State Representative,98,Josh Clark,REP,2012,2014,2,Yes,Yes,Yes
-704,Georgia,State Representative,98,Josh Clark,REP,2010,2012,1,Yes,Yes,Yes
-200,Georgia,State Representative,99,James Hugh Floyd,DEM,2014,2016,6,Yes,No,Yes
-201,Georgia,State Representative,99,James Hugh Floyd,DEM,2012,2014,5,Yes,No,Yes
-705,Georgia,State Representative,99,James Hugh Floyd,DEM,2010,2012,4,Yes,No,Yes
-202,Georgia,State Representative,100,Dewey McClain,DEM,2014,2016,2,Yes,Yes,Yes
-203,Georgia,State Representative,100,Brian Thomas,DEM,2012,2014,5,Yes,Yes,Yes
-528,Georgia,State Representative,100,Brian Thomas,DEM,2010,2012,4,Yes,Yes,Yes
-204,Georgia,State Representative,101,Valerie Clark,REP,2014,2016,2,Yes,Yes,Yes
-205,Georgia,State Representative,101,Valerie Clark,REP,2012,2014,1,No,Yes,Yes
-529,Georgia,State Representative,101,Buzz Samuel Brockway III,REP,2010,2012,1,Yes,Yes,Yes
-206,Georgia,State Representative,102,Buzz Samuel Brockway III,REP,2014,2016,2,Yes,No,No
-207,Georgia,State Representative,102,Buzz Samuel Brockway III,REP,2012,2014,1,Yes,No,No
-530,Georgia,State Representative,102,Bj Jin Pak,REP,2010,2012,1,No,No,No
-208,Georgia,State Representative,103,Timothy Barr,REP,2014,2016,2,Yes,Yes,Yes
-209,Georgia,State Representative,103,Timothy Barr,REP,2012,2014,1,Yes,Yes,Yes
-531,Georgia,State Representative,103,David Casas,REP,2010,2012,4,No,Yes,Yes
-210,Georgia,State Representative,104,Chuck Efstration,REP,2014,2016,1,Yes,Yes,Yes
-211,Georgia,State Representative,104,Donna Sheldon,REP,2012,2014,1,Yes,Yes,Yes
-532,Georgia,State Representative,104,Valerie Clark,REP,2010,2012,1,No,Yes,Yes
-212,Georgia,State Representative,105,Joyce Chandler,REP,2014,2016,2,No,Yes,No
-213,Georgia,State Representative,105,Joyce Chandler,REP,2012,2014,1,No,Yes,No
-533,Georgia,State Representative,105,Donna Sheldon,REP,2010,2012,4,Yes,Yes,No
-214,Georgia,State Representative,106,Brett Harrell,REP,2014,2016,3,Yes,Yes,Yes
-215,Georgia,State Representative,106,Brett Harrell,REP,2012,2014,2,Yes,Yes,Yes
-534,Georgia,State Representative,106,Brett Harrell,REP,2010,2012,1,No,Yes,Yes
-216,Georgia,State Representative,107,David Casas,REP,2014,2016,2,Yes,No,Yes
-217,Georgia,State Representative,107,David Casas,REP,2012,2014,1,No,No,Yes
-535,Georgia,State Representative,107,Len Walker,REP,2010,2012,4,Yes,No,Yes
-218,Georgia,State Representative,108,Bj Jin Pak,REP,2014,2016,2,Yes,Yes,Yes
-219,Georgia,State Representative,108,Bj Jin Pak,REP,2012,2014,1,Yes,Yes,Yes
-536,Georgia,State Representative,108,Terry Lamar England,REP,2010,2012,4,Yes,Yes,Yes
-220,Georgia,State Representative,109,Dale Rutledge,REP,2014,2016,2,Yes,No,No
-221,Georgia,State Representative,109,Dale Rutledge,REP,2012,2014,1,Yes,No,No
-537,Georgia,State Representative,109,Steve Davis,REP,2010,2012,4,No,No,No
-222,Georgia,State Representative,110,Andy Welch III,REP,2014,2016,3,No,Yes,Yes
-223,Georgia,State Representative,110,Andy Welch III,REP,2012,2014,2,Yes,Yes,Yes
-539,Georgia,State Representative,110,Andy Welch III,REP,2010,2012,1,No,Yes,Yes
-224,Georgia,State Representative,111,Robert Brian Strickland,REP,2014,2016,2,No,No,No
-225,Georgia,State Representative,111,Robert Brian Strickland,REP,2012,2014,1,No,No,No
-540,Georgia,State Representative,111,Bruce Brewster Williamson III,REP,2010,2012,1,Yes,No,No
-226,Georgia,State Representative,112,Dave Belton,REP,2014,2016,1,No,Yes,Yes
-227,Georgia,State Representative,112,Doug Holt,REP,2012,2014,5,Yes,Yes,Yes
-541,Georgia,State Representative,112,Doug Holt,REP,2010,2012,4,Yes,Yes,Yes
-228,Georgia,State Representative,113,Pamela Dickerson,DEM,2014,2016,2,Yes,No,Yes
-229,Georgia,State Representative,113,Pamela Dickerson,DEM,2012,2014,1,No,No,Yes
-542,Georgia,State Representative,113,Hank Huckaby,REP,2010,2012,1,No,No,Yes
-230,Georgia,State Representative,114,Tom Thomas Kirby,REP,2014,2016,2,No,Yes,Yes
-231,Georgia,State Representative,114,Tom Thomas Kirby,REP,2012,2014,1,Yes,Yes,Yes
-543,Georgia,State Representative,114,Keith Heard,DEM,2010,2012,4,Yes,Yes,Yes
-232,Georgia,State Representative,115,Bruce Brewster Williamson III,REP,2014,2016,2,Yes,Yes,Yes
-233,Georgia,State Representative,115,Bruce Brewster Williamson III,REP,2012,2014,1,Yes,Yes,Yes
-544,Georgia,State Representative,115,Douglas McKillip,DEM,2010,2012,3,Yes,Yes,Yes
-234,Georgia,State Representative,116,Terry Lamar England,REP,2014,2016,2,Yes,Yes,Yes
-235,Georgia,State Representative,116,Terry Lamar England,REP,2012,2014,1,Yes,Yes,Yes
-545,Georgia,State Representative,116,Robert Mickey Channell,REP,2010,2012,4,Yes,Yes,Yes
-236,Georgia,State Representative,117,Regina Quick,REP,2014,2016,2,Yes,Yes,Yes
-237,Georgia,State Representative,117,Regina Quick,REP,2012,2014,1,Yes,Yes,Yes
-546,Georgia,State Representative,117,Lee Anderson,REP,2010,2012,2,Yes,Yes,Yes
-238,Georgia,State Representative,118,Spencer Frye,DEM,2014,2016,2,Yes,Yes,Yes
-239,Georgia,State Representative,118,Spencer Frye,DEM,2012,2014,1,No,Yes,Yes
-547,Georgia,State Representative,118,Ben Harbin,REP,2010,2012,4,Yes,Yes,Yes
-240,Georgia,State Representative,119,Chuck Edward Williams,REP,2014,2016,2,Yes,Yes,No
-241,Georgia,State Representative,119,Chuck Edward Williams,REP,2012,2014,1,Yes,Yes,No
-548,Georgia,State Representative,119,Barbara Sims,REP,2010,2012,3,Yes,Yes,No
-242,Georgia,State Representative,120,Robert Mickey Channell,REP,2014,2016,2,Yes,Yes,Yes
-243,Georgia,State Representative,120,Robert Mickey Channell,REP,2012,2014,1,Yes,Yes,Yes
-550,Georgia,State Representative,120,Quincy Murphy,DEM,2010,2012,4,Yes,Yes,Yes
-244,Georgia,State Representative,121,Barry Fleming,REP,2014,2016,2,Yes,Yes,Yes
-245,Georgia,State Representative,121,Barry Fleming,REP,2012,2014,1,Yes,Yes,Yes
-551,Georgia,State Representative,121,Wayne Howard,DEM,2010,2012,4,Yes,Yes,Yes
-246,Georgia,State Representative,122,Ben Harbin,REP,2014,2016,2,Yes,Yes,Yes
-247,Georgia,State Representative,122,Ben Harbin,REP,2012,2014,1,Yes,Yes,Yes
-552,Georgia,State Representative,122,Earnest Smith,DEM,2010,2012,1,Yes,Yes,Yes
-248,Georgia,State Representative,123,Barbara Sims,REP,2014,2016,2,Yes,Yes,Yes
-249,Georgia,State Representative,123,Barbara Sims,REP,2012,2014,1,Yes,Yes,Yes
-553,Georgia,State Representative,123,Gloria Frazier,DEM,2010,2012,3,Yes,Yes,Yes
-250,Georgia,State Representative,124,Wayne Howard,DEM,2014,2016,2,Yes,Yes,Yes
-251,Georgia,State Representative,124,Wayne Howard,DEM,2012,2014,1,Yes,Yes,Yes
-554,Georgia,State Representative,124,Sistie Hudson,DEM,2010,2012,4,No,Yes,Yes
-252,Georgia,State Representative,125,Earnest Smith,DEM,2014,2016,2,No,Yes,Yes
-253,Georgia,State Representative,125,Earnest Smith,DEM,2012,2014,1,No,Yes,Yes
-555,Georgia,State Representative,125,Susan Holmes,REP,2010,2012,1,No,Yes,Yes
-254,Georgia,State Representative,126,Gloria Frazier,DEM,2014,2016,2,Yes,Yes,Yes
-255,Georgia,State Representative,126,Gloria Frazier,DEM,2012,2014,1,Yes,Yes,Yes
-556,Georgia,State Representative,126,David Knight,REP,2010,2012,4,Yes,Yes,Yes
-256,Georgia,State Representative,127,Brian Prince,DEM,2014,2016,1,Yes,Yes,Yes
-257,Georgia,State Representative,127,Quincy Murphy,DEM,2012,2014,1,Yes,Yes,Yes
-557,Georgia,State Representative,127,Billy Maddox,REP,2010,2012,2,Yes,Yes,Yes
-258,Georgia,State Representative,128,Willie Mack Jackson Sr.,DEM,2014,2016,2,Yes,Yes,Yes
-259,Georgia,State Representative,128,Willie Mack Jackson Sr.,DEM,2012,2014,1,Yes,Yes,Yes
-558,Georgia,State Representative,128,Carl Von Epps,DEM,2010,2012,4,Yes,Yes,Yes
-260,Georgia,State Representative,129,Susan Holmes,REP,2014,2016,2,Yes,Yes,Yes
-261,Georgia,State Representative,129,Susan Holmes,REP,2012,2014,1,Yes,Yes,Yes
-559,Georgia,State Representative,129,Kip Smith,REP,2010,2012,1,Yes,Yes,Yes
-262,Georgia,State Representative,130,David Knight,REP,2014,2016,2,Yes,Yes,No
-263,Georgia,State Representative,130,David Knight,REP,2012,2014,1,Yes,Yes,No
-561,Georgia,State Representative,130,Debbie Gignilliat Buckner,DEM,2010,2012,4,Yes,Yes,No
-264,Georgia,State Representative,131,Johnnie Caldwell Jr.,REP,2014,2016,2,Yes,Yes,No
-265,Georgia,State Representative,131,Johnnie Caldwell Jr.,REP,2012,2014,1,Yes,Yes,No
-562,Georgia,State Representative,131,Richard Smith,REP,2010,2012,4,Yes,Yes,No
-266,Georgia,State Representative,132,Bob Trammell Jr.,DEM,2014,2016,1,No,Yes,Yes
-267,Georgia,State Representative,132,Carl Von Epps,DEM,2012,2014,1,No,Yes,Yes
-563,Georgia,State Representative,132,Calvin Smyre,DEM,2010,2012,4,Yes,Yes,Yes
-268,Georgia,State Representative,133,John Pezold,REP,2014,2016,2,Yes,Yes,No
-269,Georgia,State Representative,133,John Pezold,REP,2012,2014,1,Yes,Yes,No
-564,Georgia,State Representative,133,Carolyn Hugley,DEM,2010,2012,4,Yes,Yes,No
-270,Georgia,State Representative,134,Richard Smith,REP,2014,2016,2,Yes,Yes,Yes
-271,Georgia,State Representative,134,Richard Smith,REP,2012,2014,1,Yes,Yes,Yes
-565,Georgia,State Representative,134,Michael Cheokas,DEM,2010,2012,4,Yes,Yes,Yes
-272,Georgia,State Representative,135,Calvin Smyre,DEM,2014,2016,2,Yes,Yes,Yes
-273,Georgia,State Representative,135,Calvin Smyre,DEM,2012,2014,1,No,Yes,Yes
-566,Georgia,State Representative,135,Lynmore James,DEM,2010,2012,4,Yes,Yes,Yes
-274,Georgia,State Representative,136,Carolyn Hugley,DEM,2014,2016,2,Yes,Yes,Yes
-275,Georgia,State Representative,136,Carolyn Hugley,DEM,2012,2014,1,No,Yes,Yes
-567,Georgia,State Representative,136,Anthony Sellier,REP,2010,2012,3,No,Yes,Yes
-276,Georgia,State Representative,137,Debbie Gignilliat Buckner,DEM,2014,2016,2,No,Yes,Yes
-277,Georgia,State Representative,137,Debbie Gignilliat Buckner,DEM,2012,2014,1,Yes,Yes,Yes
-568,Georgia,State Representative,137,Allen Peake,REP,2010,2012,3,Yes,Yes,Yes
-278,Georgia,State Representative,138,Michael Cheokas,REP,2014,2016,2,No,Yes,No
-279,Georgia,State Representative,138,Michael Cheokas,REP,2012,2014,1,No,Yes,No
-569,Georgia,State Representative,138,Nikki Randall,DEM,2010,2012,4,Yes,Yes,No
-280,Georgia,State Representative,139,Patty Bentley,DEM,2014,2016,2,Yes,Yes,Yes
-281,Georgia,State Representative,139,Patty Bentley,DEM,2012,2014,1,No,Yes,Yes
-570,Georgia,State Representative,139,David Lucas Sr.,DEM,2010,2012,4,Yes,Yes,Yes
-282,Georgia,State Representative,140,Robert Dickey III,REP,2014,2016,2,Yes,Yes,Yes
-283,Georgia,State Representative,140,Robert Dickey III,REP,2012,2014,1,Yes,Yes,Yes
-572,Georgia,State Representative,140,Bubber Epps,DEM,2010,2012,2,No,Yes,Yes
-284,Georgia,State Representative,141,Allen Peake,REP,2014,2016,2,Yes,Yes,No
-285,Georgia,State Representative,141,Allen Peake,REP,2012,2014,1,Yes,Yes,No
-573,Georgia,State Representative,141,Rusty Culver Kidd,IND,2010,2012,1,No,Yes,No
-286,Georgia,State Representative,142,Nikki Randall,DEM,2014,2016,2,Yes,No,Yes
-287,Georgia,State Representative,142,Nikki Randall,DEM,2012,2014,1,Yes,No,Yes
-574,Georgia,State Representative,142,Willie Mack Jackson Sr.,DEM,2010,2012,2,Yes,No,Yes
-288,Georgia,State Representative,143,James Beverly,DEM,2014,2016,2,Yes,No,Yes
-289,Georgia,State Representative,143,James Beverly,DEM,2012,2014,1,Yes,No,Yes
-575,Georgia,State Representative,143,Matt Matthew Hatchett,REP,2010,2012,1,No,No,Yes
-290,Georgia,State Representative,144,Bubber Epps,REP,2014,2016,2,No,No,No
-291,Georgia,State Representative,144,Bubber Epps,REP,2012,2014,1,No,No,No
-576,Georgia,State Representative,144,Jimmy Pruett Jr.,REP,2010,2012,3,Yes,No,No
-292,Georgia,State Representative,145,Rusty Culver Kidd,IND,2014,2016,2,Yes,Yes,Yes
-293,Georgia,State Representative,145,Rusty Culver Kidd,IND,2012,2014,1,No,Yes,Yes
-577,Georgia,State Representative,145,Willie Lee Talton,REP,2010,2012,4,No,Yes,Yes
-294,Georgia,State Representative,146,Larry Oneal Jr.,REP,2014,2016,6,Yes,Yes,Yes
-295,Georgia,State Representative,146,Larry Oneal Jr.,REP,2012,2014,5,Yes,Yes,Yes
-578,Georgia,State Representative,146,Larry Oneal Jr.,REP,2010,2012,4,Yes,Yes,Yes
-296,Georgia,State Representative,147,Heath Clark,REP,2014,2016,1,Yes,Yes,Yes
-297,Georgia,State Representative,147,Willie Lee Talton,REP,2012,2014,1,Yes,Yes,Yes
-579,Georgia,State Representative,147,Buddy Hall Harden,REP,2010,2012,2,Yes,Yes,Yes
-298,Georgia,State Representative,148,Buddy Hall Harden,REP,2014,2016,2,Yes,Yes,Yes
-299,Georgia,State Representative,148,Buddy Hall Harden,REP,2012,2014,1,Yes,Yes,Yes
-580,Georgia,State Representative,148,Bob Hanner,DEM,2010,2012,4,Yes,Yes,Yes
-300,Georgia,State Representative,149,Jimmy Pruett Jr.,REP,2014,2016,2,Yes,Yes,Yes
-301,Georgia,State Representative,149,Jimmy Pruett Jr.,REP,2012,2014,1,Yes,Yes,Yes
-581,Georgia,State Representative,149,Gerald Greene,DEM,2010,2012,4,Yes,Yes,Yes
-302,Georgia,State Representative,150,Matt Matthew Hatchett,REP,2014,2016,2,Yes,Yes,Yes
-303,Georgia,State Representative,150,Matt Matthew Hatchett,REP,2012,2014,1,No,Yes,Yes
-583,Georgia,State Representative,150,Winfred Dukes,DEM,2010,2012,4,No,Yes,Yes
-304,Georgia,State Representative,151,Gerald Greene,REP,2014,2016,2,No,Yes,Yes
-305,Georgia,State Representative,151,Gerald Greene,REP,2012,2014,1,Yes,Yes,Yes
-584,Georgia,State Representative,151,Carol Fullerton,DEM,2010,2012,2,Yes,Yes,Yes
-306,Georgia,State Representative,152,Eugene Ed Rynders,REP,2014,2016,6,Yes,No,Yes
-307,Georgia,State Representative,152,Eugene Ed Rynders,REP,2012,2014,5,Yes,No,Yes
-585,Georgia,State Representative,152,Eugene Ed Rynders,REP,2010,2012,4,Yes,No,Yes
-308,Georgia,State Representative,153,Darrel Ealum,DEM,2014,2016,1,No,No,Yes
-309,Georgia,State Representative,153,Carol Fullerton,DEM,2012,2014,1,Yes,No,Yes
-586,Georgia,State Representative,153,Tony McBrayer,REP,2010,2012,1,No,No,Yes
-310,Georgia,State Representative,154,Winfred Dukes,DEM,2014,2016,2,Yes,Yes,Yes
-311,Georgia,State Representative,154,Winfred Dukes,DEM,2012,2014,1,Yes,Yes,Yes
-587,Georgia,State Representative,154,Jay Hugh Roberts,REP,2010,2012,4,Yes,Yes,Yes
-312,Georgia,State Representative,155,Jay Hugh Roberts,REP,2014,2016,2,Yes,Yes,Yes
-313,Georgia,State Representative,155,Jay Hugh Roberts,REP,2012,2014,1,Yes,Yes,Yes
-588,Georgia,State Representative,155,Greg Morris,REP,2010,2012,4,Yes,Yes,Yes
-314,Georgia,State Representative,156,Greg Morris,REP,2014,2016,2,Yes,Yes,No
-315,Georgia,State Representative,156,Greg Morris,REP,2012,2014,1,Yes,Yes,No
-589,Georgia,State Representative,156,Butch Parrish,REP,2010,2012,4,Yes,Yes,No
-316,Georgia,State Representative,157,Bill Werkheiser,REP,2014,2016,1,No,Yes,No
-317,Georgia,State Representative,157,Delvis William Dutton,REP,2012,2014,1,Yes,Yes,No
-590,Georgia,State Representative,157,Jon Burns,REP,2010,2012,4,No,Yes,No
-318,Georgia,State Representative,158,Butch Parrish,REP,2014,2016,2,Yes,Yes,Yes
-319,Georgia,State Representative,158,Butch Parrish,REP,2012,2014,1,Yes,Yes,Yes
-591,Georgia,State Representative,158,Jan Tankersley,REP,2010,2012,1,Yes,Yes,Yes
-320,Georgia,State Representative,159,Jon Burns,REP,2014,2016,2,Yes,Yes,Yes
-321,Georgia,State Representative,159,Jon Burns,REP,2012,2014,1,Yes,Yes,Yes
-592,Georgia,State Representative,159,Ann Purcell,REP,2010,2012,1,No,Yes,Yes
-322,Georgia,State Representative,160,Jan Tankersley,REP,2014,2016,2,Yes,Yes,No
-323,Georgia,State Representative,160,Jan Tankersley,REP,2012,2014,1,No,Yes,No
-594,Georgia,State Representative,160,Bob Bryant Sr.,DEM,2010,2012,4,No,Yes,No
-324,Georgia,State Representative,161,Bill Hitchens Jr.,REP,2014,2016,2,Yes,Yes,Yes
-325,Georgia,State Representative,161,Bill Hitchens Jr.,REP,2012,2014,1,Yes,Yes,Yes
-595,Georgia,State Representative,161,Mickey Stephens,DEM,2010,2012,2,Yes,Yes,Yes
-326,Georgia,State Representative,162,Bob Bryant Sr.,DEM,2014,2016,2,Yes,Yes,Yes
-327,Georgia,State Representative,162,Bob Bryant Sr.,DEM,2012,2014,1,Yes,Yes,Yes
-596,Georgia,State Representative,162,Craig Gordon,DEM,2010,2012,3,Yes,Yes,Yes
-328,Georgia,State Representative,163,Craig Gordon,DEM,2014,2016,2,Yes,Yes,Yes
-329,Georgia,State Representative,163,Craig Gordon,DEM,2012,2014,1,Yes,Yes,Yes
-597,Georgia,State Representative,163,Ben Watson,REP,2010,2012,1,No,Yes,Yes
-330,Georgia,State Representative,164,Ron Stephens,REP,2014,2016,6,Yes,Yes,Yes
-331,Georgia,State Representative,164,Ron Stephens,REP,2012,2014,5,No,Yes,Yes
-598,Georgia,State Representative,164,Ron Stephens,REP,2010,2012,4,No,Yes,Yes
-332,Georgia,State Representative,165,Mickey Stephens,DEM,2014,2016,2,Yes,Yes,Yes
-333,Georgia,State Representative,165,Mickey Stephens,DEM,2012,2014,1,Yes,Yes,Yes
-599,Georgia,State Representative,165,Al Williams,DEM,2010,2012,4,Yes,Yes,Yes
-334,Georgia,State Representative,166,Jesse Petrea,REP,2014,2016,1,Yes,Yes,Yes
-335,Georgia,State Representative,166,Ben Watson,REP,2012,2014,1,Yes,Yes,Yes
-600,Georgia,State Representative,166,Delvis William Dutton,REP,2010,2012,1,Yes,Yes,Yes
-336,Georgia,State Representative,167,Jeff Jones,REP,2014,2016,1,Yes,Yes,Yes
-337,Georgia,State Representative,167,Jeff Chapman,REP,2012,2014,1,Yes,Yes,Yes
-601,Georgia,State Representative,167,Roger Lane,REP,2010,2012,4,Yes,Yes,Yes
-338,Georgia,State Representative,168,Al Williams,DEM,2014,2016,2,Yes,Yes,Yes
-339,Georgia,State Representative,168,Al Williams,DEM,2012,2014,1,Yes,Yes,Yes
-602,Georgia,State Representative,168,Tommy Smith,REP,2010,2012,4,Yes,Yes,Yes
-340,Georgia,State Representative,169,Dominic Lariccia,REP,2014,2016,1,No,Yes,Yes
-341,Georgia,State Representative,169,Chuck Sims,REP,2012,2014,5,Yes,Yes,Yes
-603,Georgia,State Representative,169,Chuck Sims,REP,2010,2012,4,Yes,Yes,Yes
-342,Georgia,State Representative,170,Penny Penelope Houston,REP,2014,2016,6,Yes,Yes,Yes
-343,Georgia,State Representative,170,Penny Penelope Houston,REP,2012,2014,5,Yes,Yes,Yes
-605,Georgia,State Representative,170,Penny Penelope Houston,REP,2010,2012,4,Yes,Yes,Yes
-344,Georgia,State Representative,171,Jay Powell Jr.,REP,2014,2016,4,Yes,Yes,Yes
-345,Georgia,State Representative,171,Jay Powell Jr.,REP,2012,2014,3,No,Yes,Yes
-606,Georgia,State Representative,171,Jay Powell Jr.,REP,2010,2012,2,No,Yes,Yes
-346,Georgia,State Representative,172,Sam Watson,REP,2014,2016,2,Yes,Yes,Yes
-347,Georgia,State Representative,172,Sam Watson,REP,2012,2014,1,Yes,Yes,Yes
-607,Georgia,State Representative,172,Eugene Talmadge Maddox,REP,2010,2012,4,No,Yes,Yes
-348,Georgia,State Representative,173,Darlene Taylor,REP,2014,2016,3,No,Yes,Yes
-349,Georgia,State Representative,173,Darlene Taylor,REP,2012,2014,2,No,Yes,Yes
-608,Georgia,State Representative,173,Darlene Taylor,REP,2010,2012,1,No,Yes,Yes
-350,Georgia,State Representative,174,John Corbett,REP,2014,2016,1,No,Yes,Yes
-351,Georgia,State Representative,174,Ellis Black,REP,2012,2014,5,No,Yes,Yes
-609,Georgia,State Representative,174,Ellis Black,DEM,2010,2012,4,Yes,Yes,Yes
-352,Georgia,State Representative,175,Amy Carter,REP,2014,2016,5,Yes,No,No
-353,Georgia,State Representative,175,Amy Carter,REP,2012,2014,4,No,No,No
-610,Georgia,State Representative,175,Amy Carter,DEM,2010,2012,3,Yes,No,No
-354,Georgia,State Representative,176,Jason Slaton Shaw Jr.,REP,2014,2016,3,Yes,Yes,Yes
-355,Georgia,State Representative,176,Jason Slaton Shaw Jr.,REP,2012,2014,2,Yes,Yes,Yes
-611,Georgia,State Representative,176,Jason Slaton Shaw Jr.,REP,2010,2012,1,No,Yes,Yes
-356,Georgia,State Representative,177,Dexter Sharper,DEM,2014,2016,2,Yes,Yes,Yes
-357,Georgia,State Representative,177,Dexter Sharper,DEM,2012,2014,1,No,Yes,Yes
-612,Georgia,State Representative,177,John Mark Hatfield,REP,2010,2012,4,Yes,Yes,Yes
-358,Georgia,State Representative,178,Chad Chadwick Nimmer,REP,2014,2016,3,Yes,Yes,No
-359,Georgia,State Representative,178,Chad Chadwick Nimmer,REP,2012,2014,2,Yes,Yes,No
-613,Georgia,State Representative,178,Mark Williams,REP,2010,2012,3,Yes,Yes,No
-360,Georgia,State Representative,179,Alex Alexander Atwood,REP,2014,2016,3,Yes,Yes,Yes
-361,Georgia,State Representative,179,Alex Alexander Atwood,REP,2012,2014,2,Yes,Yes,Yes
-614,Georgia,State Representative,179,Alex Alexander Atwood,REP,2010,2012,1,No,Yes,Yes
-362,Georgia,State Representative,180,Jason Chauncey Spencer,REP,2014,2016,3,Yes,Yes,No
-363,Georgia,State Representative,180,Jason Chauncey Spencer,REP,2012,2014,2,Yes,Yes,No
-616,Georgia,State Representative,180,Jason Chauncey Spencer,REP,2010,2012,1,No,Yes,No
-364,Georgia,State Senator,1,Ben Watson,REP,2014,2016,1,Yes,Yes,Yes
-365,Georgia,State Senator,1,Buddy Leroy Carter,REP,2012,2014,2,Yes,Yes,Yes
-706,Georgia,State Senator,1,Buddy Leroy Carter,REP,2010,2012,1,No,Yes,Yes
-366,Georgia,State Senator,2,Lester Jackson III,DEM,2014,2016,4,Yes,Yes,Yes
-367,Georgia,State Senator,2,Lester Jackson III,DEM,2012,2014,3,Yes,Yes,Yes
-717,Georgia,State Senator,2,Lester Jackson III,DEM,2010,2012,2,No,Yes,Yes
-368,Georgia,State Senator,3,William Ligon Jr.,REP,2014,2016,3,Yes,Yes,Yes
-369,Georgia,State Senator,3,William Ligon Jr.,REP,2012,2014,2,Yes,Yes,Yes
-728,Georgia,State Senator,3,William Ligon Jr.,REP,2010,2012,1,No,Yes,Yes
-370,Georgia,State Senator,4,Jack Hill,REP,2014,2016,6,Yes,Yes,Yes
-371,Georgia,State Senator,4,Jack Hill,REP,2012,2014,5,Yes,Yes,Yes
-739,Georgia,State Senator,4,Jack Hill,REP,2010,2012,4,Yes,Yes,Yes
-372,Georgia,State Senator,5,Curt Thompson,DEM,2014,2016,6,Yes,No,Yes
-373,Georgia,State Senator,5,Curt Thompson,DEM,2012,2014,5,Yes,No,Yes
-750,Georgia,State Senator,5,Curt Thompson,DEM,2010,2012,4,No,No,Yes
-374,Georgia,State Senator,6,Hunter Hill,REP,2014,2016,2,No,Yes,No
-375,Georgia,State Senator,6,Hunter Hill,REP,2012,2014,1,No,Yes,No
-758,Georgia,State Senator,6,Doug Stoner,DEM,2010,2012,4,No,Yes,No
-376,Georgia,State Senator,7,Tyler Harper,REP,2014,2016,2,Yes,Yes,Yes
-377,Georgia,State Senator,7,Tyler Harper,REP,2012,2014,1,No,Yes,Yes
-759,Georgia,State Senator,7,Greg Goggans,REP,2010,2012,4,Yes,Yes,Yes
-378,Georgia,State Senator,8,Ellis Black,REP,2014,2016,1,No,Yes,Yes
-379,Georgia,State Senator,8,Tim Golden,REP,2012,2014,5,No,Yes,Yes
-760,Georgia,State Senator,8,Tim Golden,DEM,2010,2012,4,Yes,Yes,Yes
-380,Georgia,State Senator,9,K Martin IV,REP,2014,2016,1,No,Yes,Yes
-381,Georgia,State Senator,9,Donald Balfour II,REP,2012,2014,5,No,Yes,Yes
-761,Georgia,State Senator,9,Donald Balfour II,REP,2010,2012,4,No,Yes,Yes
-382,Georgia,State Senator,10,Emanuel Jones,DEM,2014,2016,6,Yes,Yes,Yes
-383,Georgia,State Senator,10,Emanuel Jones,DEM,2012,2014,5,Yes,Yes,Yes
-707,Georgia,State Senator,10,Emanuel Jones,DEM,2010,2012,4,Yes,Yes,Yes
-384,Georgia,State Senator,11,Kenneth Dean Burke,REP,2014,2016,1,Yes,Yes,Yes
-385,Georgia,State Senator,11,Kenneth Dean Burke,REP,2013,2014,0,No,Yes,Yes
-386,Georgia,State Senator,11,John Bulloch,REP,2012,2014,5,Yes,Yes,Yes
-708,Georgia,State Senator,11,John Bulloch,REP,2010,2012,4,Yes,Yes,Yes
-387,Georgia,State Senator,12,Freddie Powell Sims,DEM,2014,2016,4,Yes,Yes,Yes
-388,Georgia,State Senator,12,Freddie Powell Sims,DEM,2012,2014,3,Yes,Yes,Yes
-709,Georgia,State Senator,12,Freddie Powell Sims,DEM,2010,2012,2,Yes,Yes,Yes
-389,Georgia,State Senator,13,Greg Kirk,REP,2014,2016,1,Yes,Yes,Yes
-390,Georgia,State Senator,13,John Dickey Crosby,REP,2012,2014,3,Yes,Yes,Yes
-710,Georgia,State Senator,13,John Dickey Crosby,REP,2010,2012,2,Yes,Yes,Yes
-391,Georgia,State Senator,14,Bruce Thompson,REP,2014,2016,1,Yes,Yes,Yes
-392,Georgia,State Senator,14,Bruce Thompson,REP,2013,2014,0,No,Yes,Yes
-393,Georgia,State Senator,14,Barry Loudermilk,REP,2012,2014,1,Yes,Yes,Yes
-711,Georgia,State Senator,14,George Hooks,DEM,2010,2012,4,Yes,Yes,Yes
-394,Georgia,State Senator,15,Ed Harbison,DEM,2014,2016,6,Yes,Yes,Yes
-395,Georgia,State Senator,15,Ed Harbison,DEM,2012,2014,5,No,Yes,Yes
-712,Georgia,State Senator,15,Ed Harbison,DEM,2010,2012,4,Yes,Yes,Yes
-396,Georgia,State Senator,16,Marty Harbin,REP,2014,2016,1,No,Yes,No
-397,Georgia,State Senator,16,Ronnie Chance,REP,2012,2014,5,Yes,Yes,No
-713,Georgia,State Senator,16,Ronnie Chance,REP,2010,2012,4,Yes,Yes,No
-398,Georgia,State Senator,17,Rick Jeffares,REP,2014,2016,3,Yes,No,No
-399,Georgia,State Senator,17,Rick Jeffares,REP,2012,2014,2,No,No,No
-714,Georgia,State Senator,17,Rick Jeffares,REP,2010,2012,1,No,No,No
-400,Georgia,State Senator,18,John Kennedy,REP,2014,2016,1,Yes,Yes,Yes
-401,Georgia,State Senator,18,Cecil Staton,REP,2012,2014,5,Yes,Yes,Yes
-715,Georgia,State Senator,18,Cecil Staton,REP,2010,2012,4,Yes,Yes,Yes
-402,Georgia,State Senator,19,Tommie Williams,REP,2014,2016,6,Yes,Yes,Yes
-403,Georgia,State Senator,19,Tommie Williams,REP,2012,2014,5,Yes,Yes,Yes
-716,Georgia,State Senator,19,Tommie Williams,REP,2010,2012,4,Yes,Yes,Yes
-404,Georgia,State Senator,20,Larry Walker,REP,2015,2016,1,No,Yes,Yes
-405,Georgia,State Senator,20,Thorborn Ross Tolleson Jr.,REP,2012,2014,5,Yes,Yes,Yes
-718,Georgia,State Senator,20,Thorborn Ross Tolleson Jr.,REP,2010,2012,4,Yes,Yes,Yes
-406,Georgia,State Senator,21,Brandon Beach,REP,2014,2016,2,Yes,Yes,Yes
-407,Georgia,State Senator,21,Brandon Beach,REP,2013,2014,1,No,Yes,Yes
-408,Georgia,State Senator,21,Chip Rogers,REP,2012,2014,5,Yes,Yes,Yes
-719,Georgia,State Senator,21,Chip Rogers,REP,2010,2012,4,No,Yes,Yes
-409,Georgia,State Senator,22,Harold Jones II,DEM,2014,2016,1,No,Yes,Yes
-410,Georgia,State Senator,22,Hardie Davis,DEM,2012,2014,2,Yes,Yes,Yes
-720,Georgia,State Senator,22,Hardie Davis,DEM,2010,2012,1,Yes,Yes,Yes
-411,Georgia,State Senator,23,Jesse Stone,REP,2014,2016,3,No,Yes,Yes
-412,Georgia,State Senator,23,Jesse Stone,REP,2012,2014,2,No,Yes,Yes
-721,Georgia,State Senator,23,Jesse Stone,REP,2010,2012,1,Yes,Yes,Yes
-413,Georgia,State Senator,24,Bill Jackson,REP,2014,2016,4,No,Yes,Yes
-414,Georgia,State Senator,24,Bill Jackson,REP,2012,2014,3,Yes,Yes,Yes
-722,Georgia,State Senator,24,Bill Jackson,REP,2010,2012,2,Yes,Yes,Yes
-415,Georgia,State Senator,25,Burt Burton Jones,REP,2014,2016,2,Yes,Yes,Yes
-416,Georgia,State Senator,25,Burt Burton Jones,REP,2012,2014,1,No,Yes,Yes
-723,Georgia,State Senator,25,Johnny Grant,REP,2010,2012,4,No,Yes,Yes
-417,Georgia,State Senator,26,David Lucas Sr.,DEM,2014,2016,2,Yes,Yes,Yes
-418,Georgia,State Senator,26,David Lucas Sr.,DEM,2012,2014,1,No,Yes,Yes
-419,Georgia,State Senator,26,Miriam Lucas Paris,DEM,2011,2012,0,No,Yes,Yes
-724,Georgia,State Senator,26,Robert Brown,DEM,2010,2012,4,Yes,Yes,Yes
-420,Georgia,State Senator,27,Michael Williams,REP,2014,2016,1,No,Yes,No
-421,Georgia,State Senator,27,Jack Murphy,REP,2012,2014,4,Yes,Yes,No
-725,Georgia,State Senator,27,Jack Murphy,REP,2010,2012,3,Yes,Yes,No
-422,Georgia,State Senator,28,Mike Robert Crane,REP,2014,2016,2,No,Yes,Yes
-423,Georgia,State Senator,28,Mike Robert Crane,REP,2012,2014,1,Yes,Yes,Yes
-424,Georgia,State Senator,28,Mike Robert Crane,REP,2011,2012,0,No,Yes,Yes
-726,Georgia,State Senator,28,Mitch Seabaugh,REP,2010,2012,4,Yes,Yes,Yes
-425,Georgia,State Senator,29,Joshua Robert McKoon,REP,2014,2016,3,No,No,No
-426,Georgia,State Senator,29,Joshua Robert McKoon,REP,2012,2014,2,Yes,No,No
-727,Georgia,State Senator,29,Joshua Robert McKoon,REP,2010,2012,1,No,No,No
-427,Georgia,State Senator,30,Mike Dugan,REP,2014,2016,2,No,Yes,Yes
-428,Georgia,State Senator,30,Mike Dugan,REP,2013,2014,1,No,Yes,Yes
-729,Georgia,State Senator,30,Bill Hambrick III,REP,2010,2012,4,No,Yes,Yes
-429,Georgia,State Senator,31,Bill Donald Heath Jr.,REP,2014,2016,6,No,Yes,Yes
-430,Georgia,State Senator,31,Bill Donald Heath Jr.,REP,2012,2014,5,No,Yes,Yes
-730,Georgia,State Senator,31,Bill Donald Heath Jr.,REP,2010,2012,4,No,Yes,Yes
-431,Georgia,State Senator,32,Judson Hill,REP,2014,2016,6,Yes,Yes,Yes
-432,Georgia,State Senator,32,Judson Hill,REP,2012,2014,5,Yes,Yes,Yes
-731,Georgia,State Senator,32,Judson Hill,REP,2010,2012,4,Yes,Yes,Yes
-433,Georgia,State Senator,33,Doc Rhett,DEM,2014,2016,1,Yes,Yes,Yes
-434,Georgia,State Senator,33,Stephen Thompson,DEM,2012,2014,5,Yes,Yes,Yes
-732,Georgia,State Senator,33,Stephen Thompson,DEM,2010,2012,4,No,Yes,Yes
-435,Georgia,State Senator,34,Valencia Seay,DEM,2014,2016,6,Yes,No,Yes
-436,Georgia,State Senator,34,Valencia Seay,DEM,2012,2014,5,Yes,No,Yes
-733,Georgia,State Senator,34,Valencia Seay,DEM,2010,2012,4,No,No,Yes
-437,Georgia,State Senator,35,Donzella James,DEM,2014,2016,3,No,No,Yes
-438,Georgia,State Senator,35,Donzella James,DEM,2012,2014,2,Yes,No,Yes
-734,Georgia,State Senator,35,Donzella James,DEM,2010,2012,1,Yes,No,Yes
-439,Georgia,State Senator,36,Nan Grogan Orrock,DEM,2014,2016,5,Yes,Yes,Yes
-440,Georgia,State Senator,36,Nan Grogan Orrock,DEM,2012,2014,4,Yes,Yes,Yes
-735,Georgia,State Senator,36,Nan Grogan Orrock,DEM,2010,2012,3,Yes,Yes,Yes
-441,Georgia,State Senator,37,Lindsey Tippins,REP,2014,2016,3,Yes,Yes,Yes
-442,Georgia,State Senator,37,Lindsey Tippins,REP,2012,2014,2,Yes,Yes,Yes
-736,Georgia,State Senator,37,Lindsey Tippins,REP,2010,2012,1,Yes,Yes,Yes
-443,Georgia,State Senator,38,Horacena Tate,DEM,2014,2016,6,Yes,Yes,Yes
-444,Georgia,State Senator,38,Horacena Tate,DEM,2012,2014,5,Yes,Yes,Yes
-737,Georgia,State Senator,38,Horacena Tate,DEM,2010,2012,4,No,Yes,Yes
-445,Georgia,State Senator,39,Vincent Fort,DEM,2014,2016,6,No,Yes,Yes
-446,Georgia,State Senator,39,Vincent Fort,DEM,2012,2014,5,Yes,Yes,Yes
-738,Georgia,State Senator,39,Vincent Fort,DEM,2010,2012,4,Yes,Yes,Yes
-447,Georgia,State Senator,40,Francis Millar,REP,2014,2016,3,No,No,Yes
-448,Georgia,State Senator,40,Francis Millar,REP,2012,2014,2,Yes,No,Yes
-740,Georgia,State Senator,40,Francis Millar,REP,2010,2012,1,No,No,Yes
-449,Georgia,State Senator,41,Steve Bradley Henson,DEM,2014,2016,6,Yes,No,Yes
-450,Georgia,State Senator,41,Steve Bradley Henson,DEM,2012,2014,5,Yes,No,Yes
-741,Georgia,State Senator,41,Steve Bradley Henson,DEM,2010,2012,4,No,No,Yes
-451,Georgia,State Senator,42,Elena Parent,DEM,2014,2016,1,No,Yes,Yes
-452,Georgia,State Senator,42,Jason Carter,DEM,2012,2014,2,No,Yes,Yes
-742,Georgia,State Senator,42,Jason Carter,DEM,2010,2012,1,Yes,Yes,Yes
-453,Georgia,State Senator,43,Janice Frey Van Ness,REP,2015,2016,0,No,No,Yes
-454,Georgia,State Senator,43,Ronald Ramsey Sr.,DEM,2012,2014,4,Yes,No,Yes
-743,Georgia,State Senator,43,Ronald Ramsey Sr.,DEM,2010,2012,3,No,No,Yes
-455,Georgia,State Senator,44,Gail Paulette Davenport,DEM,2014,2016,3,Yes,No,Yes
-456,Georgia,State Senator,44,Gail Paulette Davenport,DEM,2012,2014,2,No,No,Yes
-744,Georgia,State Senator,44,Gail Paulette Davenport,DEM,2010,2012,1,Yes,No,Yes
-457,Georgia,State Senator,45,Renee Unterman,REP,2014,2016,6,Yes,Yes,Yes
-458,Georgia,State Senator,45,Renee Unterman,REP,2012,2014,5,Yes,Yes,Yes
-745,Georgia,State Senator,45,Renee Unterman,REP,2010,2012,4,Yes,Yes,Yes
-459,Georgia,State Senator,46,Bill Cowsert,REP,2014,2016,5,Yes,Yes,Yes
-460,Georgia,State Senator,46,Bill Cowsert,REP,2012,2014,4,Yes,Yes,Yes
-746,Georgia,State Senator,46,Bill Cowsert,REP,2010,2012,3,Yes,Yes,Yes
-461,Georgia,State Senator,47,Frank Joseph Ginn,REP,2014,2016,3,Yes,Yes,No
-462,Georgia,State Senator,47,Frank Joseph Ginn,REP,2012,2014,2,No,Yes,No
-747,Georgia,State Senator,47,Frank Joseph Ginn,REP,2010,2012,1,No,Yes,No
-463,Georgia,State Senator,48,David Shafer,REP,2014,2016,6,Yes,Yes,Yes
-464,Georgia,State Senator,48,David Shafer,REP,2012,2014,5,Yes,Yes,Yes
-748,Georgia,State Senator,48,David Shafer,REP,2010,2012,4,Yes,Yes,Yes
-465,Georgia,State Senator,49,Butch Terrell Miller,REP,2014,2016,3,Yes,Yes,Yes
-466,Georgia,State Senator,49,Butch Terrell Miller,REP,2012,2014,2,Yes,Yes,Yes
-749,Georgia,State Senator,49,Butch Terrell Miller,REP,2010,2012,1,Yes,Yes,Yes
-467,Georgia,State Senator,50,John Wilkinson,REP,2014,2016,2,Yes,Yes,Yes
-468,Georgia,State Senator,50,John Wilkinson,REP,2012,2014,1,Yes,Yes,Yes
-469,Georgia,State Senator,50,John Wilkinson,REP,2011,2012,0,No,Yes,Yes
-751,Georgia,State Senator,50,Jim Butterworth,REP,2010,2012,2,Yes,Yes,Yes
-470,Georgia,State Senator,51,Steve Gooch,REP,2014,2016,3,Yes,Yes,Yes
-471,Georgia,State Senator,51,Steve Gooch,REP,2012,2014,2,Yes,Yes,Yes
-752,Georgia,State Senator,51,Steve Gooch,REP,2010,2012,1,No,Yes,Yes
-472,Georgia,State Senator,52,Chuck Hufstetler,REP,2014,2016,2,Yes,Yes,Yes
-473,Georgia,State Senator,52,Chuck Hufstetler,REP,2012,2014,1,Yes,Yes,Yes
-753,Georgia,State Senator,52,Barry Loudermilk,REP,2010,2012,1,No,Yes,Yes
-474,Georgia,State Senator,53,Jeff Mullis,REP,2014,2016,6,Yes,Yes,Yes
-475,Georgia,State Senator,53,Jeff Mullis,REP,2012,2014,5,Yes,Yes,Yes
-754,Georgia,State Senator,53,Jeff Mullis,REP,2010,2012,4,Yes,Yes,Yes
-476,Georgia,State Senator,54,Charlie Bethel,REP,2014,2016,3,Yes,Yes,No
-477,Georgia,State Senator,54,Charlie Bethel,REP,2012,2014,2,Yes,Yes,No
-755,Georgia,State Senator,54,Charlie Bethel,REP,2010,2012,1,Yes,Yes,No
-478,Georgia,State Senator,55,Gloria Butler,DEM,2014,2016,6,Yes,Yes,Yes
-479,Georgia,State Senator,55,Gloria Butler,DEM,2012,2014,5,Yes,Yes,Yes
-756,Georgia,State Senator,55,Gloria Butler,DEM,2010,2012,4,Yes,Yes,Yes
-480,Georgia,State Senator,56,John Albers,REP,2014,2016,3,No,No,Yes
-481,Georgia,State Senator,56,John Albers,REP,2012,2014,2,No,No,Yes
-757,Georgia,State Senator,56,John Albers,REP,2010,2012,1,No,No,Yes
-482,Georgia,Superintendent Of Public Instruction,0,Richard Woods,REP,2014,2018,0,No,No,No
-483,Georgia,U.S. Representative,1,Buddy Leroy Carter,REP,2014,2016,1,No,No,Yes
-484,Georgia,U.S. Representative,1,Jack Kingston,REP,2012,2014,2,No,No,Yes
-512,Georgia,U.S. Representative,1,Jack Kingston,REP,2010,2012,1,No,No,Yes
-485,Georgia,U.S. Representative,2,Sanford Bishop Jr.,DEM,2014,2016,3,No,Yes,Yes
-486,Georgia,U.S. Representative,2,Sanford Bishop Jr.,DEM,2012,2014,2,No,Yes,Yes
-517,Georgia,U.S. Representative,2,Sanford Bishop Jr.,DEM,2010,2012,1,No,Yes,Yes
-487,Georgia,U.S. Representative,3,Lynn Westmoreland,REP,2014,2016,3,Yes,No,Yes
-488,Georgia,U.S. Representative,3,Lynn Westmoreland,REP,2012,2014,2,Yes,No,Yes
-518,Georgia,U.S. Representative,3,Lynn Westmoreland,REP,2010,2012,1,No,No,Yes
-489,Georgia,U.S. Representative,4,Hank Johnson,DEM,2014,2016,2,Yes,No,Yes
-490,Georgia,U.S. Representative,4,Hank Johnson,DEM,2012,2014,1,No,No,Yes
-519,Georgia,U.S. Representative,4,Hank Johnson Jr.,DEM,2010,2012,1,No,No,Yes
-491,Georgia,U.S. Representative,5,John Lewis,DEM,2014,2016,3,Yes,Yes,Yes
-492,Georgia,U.S. Representative,5,John Lewis,DEM,2012,2014,2,No,Yes,Yes
-520,Georgia,U.S. Representative,5,John Lewis,DEM,2010,2012,1,No,Yes,Yes
-493,Georgia,U.S. Representative,6,Tom Edmunds Price,REP,2014,2016,3,No,No,Yes
-494,Georgia,U.S. Representative,6,Tom Edmunds Price,REP,2012,2014,2,No,No,Yes
-521,Georgia,U.S. Representative,6,Tom Edmunds Price,REP,2010,2012,1,Yes,No,Yes
-495,Georgia,U.S. Representative,7,Rob Robert Woodall,REP,2014,2016,3,No,No,No
-496,Georgia,U.S. Representative,7,Rob Robert Woodall,REP,2012,2014,2,No,No,No
-522,Georgia,U.S. Representative,7,Rob Robert Woodall,REP,2010,2012,1,No,No,No
-497,Georgia,U.S. Representative,8,Austin Austin Scott,REP,2014,2016,3,Yes,Yes,Yes
-498,Georgia,U.S. Representative,8,Austin Austin Scott,REP,2012,2014,2,Yes,Yes,Yes
-523,Georgia,U.S. Representative,8,Austin Austin Scott,REP,2010,2012,1,No,Yes,Yes
-499,Georgia,U.S. Representative,9,Doug Collins,REP,2014,2016,2,No,No,Yes
-500,Georgia,U.S. Representative,9,Doug Collins,REP,2012,2014,1,No,No,Yes
-524,Georgia,U.S. Representative,9,Tom Thomas Graves Jr.,REP,2010,2012,1,No,No,Yes
-501,Georgia,U.S. Representative,10,Jody Brownlow Hice,REP,2014,2016,1,No,No,No
-502,Georgia,U.S. Representative,10,Paul Collins Broun,REP,2012,2014,2,Yes,No,No
-513,Georgia,U.S. Representative,10,Paul Collins Broun,REP,2010,2012,1,No,No,No
-503,Georgia,U.S. Representative,11,Barry Loudermilk,REP,2014,2016,1,No,Yes,Yes
-504,Georgia,U.S. Representative,11,Phil Phillip Gingrey,REP,2012,2014,2,No,Yes,Yes
-514,Georgia,U.S. Representative,11,Phil Phillip Gingrey,REP,2010,2012,1,Yes,Yes,Yes
-505,Georgia,U.S. Representative,12,Rick Allen,REP,2014,2016,1,No,No,No
-506,Georgia,U.S. Representative,12,John Barrow,DEM,2012,2014,2,No,No,No
-515,Georgia,U.S. Representative,12,John Barrow,DEM,2010,2012,1,No,No,No
-507,Georgia,U.S. Representative,13,David Scott,DEM,2014,2016,3,Yes,Yes,No
-508,Georgia,U.S. Representative,13,David Scott,DEM,2012,2014,2,No,Yes,No
-516,Georgia,U.S. Representative,13,David Scott,DEM,2010,2012,1,No,Yes,No
-509,Georgia,U.S. Representative,14,Tom Thomas Graves Jr.,REP,2014,2016,2,Yes,Yes,Yes
-510,Georgia,U.S. Representative,14,Tom Thomas Graves Jr.,REP,2012,2014,1,No,Yes,Yes
-511,Georgia,U.S. Senator,0,David Perdue,REP,2014,2020,0,No,Yes,Yes
-525,Georgia,U.S. Senator,0,Johnny Isakson,REP,2010,2016,0,No,Yes,Yes
+6,Georgia,State Representative,1,Jay Neal,REP,2010,2012,4,Yes,Yes,No
+7,Georgia,State Representative,2,Steve Stephen Tarvin,REP,2014,2016,1,No,Yes,Yes
+8,Georgia,State Representative,2,Jay Neal,REP,2012,2014,1,Yes,Yes,Yes
+9,Georgia,State Representative,2,Martin Scott,REP,2010,2012,4,Yes,Yes,Yes
+10,Georgia,State Representative,3,Tom Weldon Jr.,REP,2014,2016,4,Yes,Yes,Yes
+11,Georgia,State Representative,3,Tom Weldon Jr.,REP,2012,2014,3,Yes,Yes,Yes
+12,Georgia,State Representative,3,Tom Weldon Jr.,REP,2010,2012,2,Yes,Yes,Yes
+13,Georgia,State Representative,4,Bruce Broadrick Sr.,REP,2014,2016,2,Yes,Yes,Yes
+14,Georgia,State Representative,4,Bruce Broadrick Sr.,REP,2012,2014,1,Yes,Yes,Yes
+15,Georgia,State Representative,4,Roger Williams,REP,2010,2012,4,Yes,Yes,Yes
+16,Georgia,State Representative,5,John Meadows,REP,2014,2016,6,Yes,Yes,Yes
+17,Georgia,State Representative,5,John Meadows,REP,2012,2014,5,No,Yes,Yes
+18,Georgia,State Representative,5,John Meadows,REP,2010,2012,4,Yes,Yes,Yes
+19,Georgia,State Representative,6,Tom Dickson,REP,2014,2016,6,Yes,Yes,Yes
+20,Georgia,State Representative,6,Tom Dickson,REP,2012,2014,5,Yes,Yes,Yes
+21,Georgia,State Representative,6,Tom Dickson,REP,2010,2012,4,No,Yes,Yes
+22,Georgia,State Representative,7,David Ralston,REP,2014,2016,6,Yes,Yes,No
+23,Georgia,State Representative,7,David Ralston,REP,2012,2014,5,Yes,Yes,No
+24,Georgia,State Representative,7,David Ralston,REP,2010,2012,4,Yes,Yes,No
+25,Georgia,State Representative,8,Stephen Allison,REP,2014,2016,4,Yes,Yes,No
+26,Georgia,State Representative,8,Stephen Allison,REP,2012,2014,3,No,Yes,No
+27,Georgia,State Representative,8,Stephen Allison,REP,2010,2012,2,No,Yes,No
+28,Georgia,State Representative,9,Kevin Kermit Tanner,REP,2014,2016,2,Yes,Yes,No
+29,Georgia,State Representative,9,Kevin Kermit Tanner,REP,2012,2014,1,Yes,Yes,No
+30,Georgia,State Representative,9,Hinton Amos Amerson,REP,2010,2012,4,Yes,Yes,No
+31,Georgia,State Representative,10,Terry Rogers,REP,2014,2016,3,Yes,Yes,Yes
+32,Georgia,State Representative,10,Terry Rogers,REP,2012,2014,2,Yes,Yes,Yes
+33,Georgia,State Representative,10,Rick Austin,REP,2010,2012,2,Yes,Yes,Yes
+34,Georgia,State Representative,11,Rick Jasperse,REP,2014,2016,2,No,Yes,Yes
+35,Georgia,State Representative,11,Rick Jasperse,REP,2012,2014,1,Yes,Yes,Yes
+36,Georgia,State Representative,11,Barbara Reece,DEM,2010,2012,4,Yes,Yes,Yes
+37,Georgia,State Representative,12,James Eddie Lumsden,REP,2014,2016,2,Yes,Yes,Yes
+38,Georgia,State Representative,12,James Eddie Lumsden,REP,2012,2014,1,No,Yes,Yes
+39,Georgia,State Representative,12,Rick Jasperse,REP,2010,2012,1,No,Yes,Yes
+40,Georgia,State Representative,13,Katie Dempsey,REP,2014,2016,5,No,Yes,Yes
+41,Georgia,State Representative,13,Katie Dempsey,REP,2012,2014,4,Yes,Yes,Yes
+42,Georgia,State Representative,13,Katie Dempsey,REP,2010,2012,3,No,Yes,Yes
+43,Georgia,State Representative,14,Christian Coomer,REP,2014,2016,3,Yes,Yes,Yes
+44,Georgia,State Representative,14,Christian Coomer,REP,2012,2014,2,Yes,Yes,Yes
+45,Georgia,State Representative,14,Christian Coomer,REP,2010,2012,1,No,Yes,Yes
+46,Georgia,State Representative,15,Paul Battles,REP,2014,2016,4,No,Yes,No
+47,Georgia,State Representative,15,Paul Battles,REP,2012,2014,3,No,Yes,No
+48,Georgia,State Representative,15,Paul Battles,REP,2010,2012,2,Yes,Yes,No
+49,Georgia,State Representative,16,Trey Kelley,REP,2014,2016,2,Yes,Yes,Yes
+50,Georgia,State Representative,16,Trey Kelley,REP,2012,2014,1,No,Yes,Yes
+51,Georgia,State Representative,16,Rick Crawford,DEM,2010,2012,3,Yes,Yes,Yes
+52,Georgia,State Representative,17,Howard Maxwell,REP,2014,2016,6,Yes,Yes,No
+53,Georgia,State Representative,17,Howard Maxwell,REP,2012,2014,5,Yes,Yes,No
+54,Georgia,State Representative,17,Howard Maxwell,REP,2010,2012,4,Yes,Yes,No
+55,Georgia,State Representative,18,Kevin Cooke,REP,2014,2016,3,No,Yes,Yes
+56,Georgia,State Representative,18,Kevin Cooke,REP,2012,2014,2,No,Yes,Yes
+57,Georgia,State Representative,18,Kevin Cooke,REP,2010,2012,1,Yes,Yes,Yes
+58,Georgia,State Representative,19,Paulette Rakestraw Braddock,REP,2014,2016,3,No,No,No
+59,Georgia,State Representative,19,Paulette Rakestraw Braddock,REP,2012,2014,2,Yes,No,No
+60,Georgia,State Representative,19,Paulette Rakestraw Braddock,REP,2010,2012,1,No,No,No
+61,Georgia,State Representative,20,Michael Caldwell,REP,2014,2016,2,Yes,Yes,Yes
+62,Georgia,State Representative,20,Michael Caldwell,REP,2012,2014,1,No,Yes,Yes
+63,Georgia,State Representative,20,Charlice Byrd,REP,2010,2012,4,No,Yes,Yes
+64,Georgia,State Representative,21,Scot Turner,REP,2014,2016,1,Yes,Yes,Yes
+65,Georgia,State Representative,21,Sean Jerguson,REP,2012,2014,1,Yes,Yes,Yes
+66,Georgia,State Representative,21,Calvin Hill,REP,2010,2012,4,No,Yes,Yes
+67,Georgia,State Representative,22,Wes Cantrell,REP,2014,2016,1,No,Yes,Yes
+68,Georgia,State Representative,22,Calvin Hill,REP,2012,2014,1,Yes,Yes,Yes
+69,Georgia,State Representative,22,Sean Jerguson,REP,2010,2012,3,No,Yes,Yes
+70,Georgia,State Representative,23,Mandi Ballinger,REP,2014,2016,2,Yes,Yes,Yes
+71,Georgia,State Representative,23,Mandi Ballinger,REP,2012,2014,1,Yes,Yes,Yes
+72,Georgia,State Representative,23,Mark Hamilton,REP,2010,2012,3,Yes,Yes,Yes
+73,Georgia,State Representative,24,Mark Hamilton,REP,2014,2016,2,Yes,Yes,No
+74,Georgia,State Representative,24,Mark Hamilton,REP,2012,2014,1,Yes,Yes,No
+75,Georgia,State Representative,24,Michael Dudgeon,REP,2010,2012,1,Yes,Yes,No
+76,Georgia,State Representative,25,Michael Dudgeon,REP,2014,2016,2,Yes,Yes,No
+77,Georgia,State Representative,25,Michael Dudgeon,REP,2012,2014,1,Yes,Yes,No
+78,Georgia,State Representative,25,James Mills,REP,2010,2012,4,No,Yes,No
+79,Georgia,State Representative,26,Geoffrey Duncan,REP,2014,2016,2,Yes,Yes,Yes
+80,Georgia,State Representative,26,Geoffrey Duncan,REP,2012,2014,1,Yes,Yes,Yes
+81,Georgia,State Representative,26,Carl Rogers,REP,2010,2012,4,No,Yes,Yes
+82,Georgia,State Representative,27,Lee Hawkins Jr.,REP,2014,2016,2,Yes,Yes,Yes
+83,Georgia,State Representative,27,Lee Hawkins Jr.,REP,2012,2014,1,Yes,Yes,Yes
+84,Georgia,State Representative,27,Doug Collins,REP,2010,2012,3,Yes,Yes,Yes
+85,Georgia,State Representative,28,Dan Daniel Gasaway,REP,2014,2016,2,Yes,Yes,No
+86,Georgia,State Representative,28,Dan Daniel Gasaway,REP,2012,2014,1,No,Yes,No
+87,Georgia,State Representative,28,Michael Harden,REP,2010,2012,2,No,Yes,No
+88,Georgia,State Representative,29,Carl Rogers,REP,2014,2016,2,Yes,Yes,Yes
+89,Georgia,State Representative,29,Carl Rogers,REP,2012,2014,1,Yes,Yes,Yes
+90,Georgia,State Representative,29,Alan Powell,DEM,2010,2012,4,Yes,Yes,Yes
+91,Georgia,State Representative,30,Emory Dunahoo Jr.,REP,2014,2016,2,Yes,No,Yes
+92,Georgia,State Representative,30,Emory Dunahoo Jr.,REP,2012,2014,1,Yes,No,Yes
+93,Georgia,State Representative,30,Thomas McCall,REP,2010,2012,4,No,No,Yes
+94,Georgia,State Representative,31,Tommy Benton Sr.,REP,2014,2016,6,Yes,Yes,No
+95,Georgia,State Representative,31,Tommy Benton Sr.,REP,2012,2014,5,Yes,Yes,No
+96,Georgia,State Representative,31,Tommy Benton Sr.,REP,2010,2012,4,Yes,Yes,No
+97,Georgia,State Representative,32,Alan Powell,REP,2014,2016,2,Yes,Yes,Yes
+98,Georgia,State Representative,32,Alan Powell,REP,2012,2014,1,No,Yes,Yes
+99,Georgia,State Representative,32,Judith Hubert Manning,REP,2010,2012,4,No,Yes,Yes
+100,Georgia,State Representative,33,Thomas McCall,REP,2014,2016,2,Yes,Yes,Yes
+101,Georgia,State Representative,33,Thomas McCall,REP,2012,2014,1,No,Yes,Yes
+102,Georgia,State Representative,33,David Wilkerson,DEM,2010,2012,1,Yes,Yes,Yes
+103,Georgia,State Representative,34,Bert Reeves,REP,2014,2016,1,Yes,Yes,Yes
+104,Georgia,State Representative,34,Charles Gregory,REP,2012,2014,1,Yes,Yes,Yes
+105,Georgia,State Representative,34,Rich Golick,REP,2010,2012,4,No,Yes,Yes
+106,Georgia,State Representative,35,Ed Edwin Setzler,REP,2014,2016,6,Yes,No,Yes
+107,Georgia,State Representative,35,Ed Edwin Setzler,REP,2012,2014,5,Yes,No,Yes
+108,Georgia,State Representative,35,Ed Edwin Setzler,REP,2010,2012,4,No,No,Yes
+109,Georgia,State Representative,36,Earl Ehrhart,REP,2014,2016,6,Yes,Yes,No
+110,Georgia,State Representative,36,Earl Ehrhart,REP,2012,2014,5,Yes,Yes,No
+111,Georgia,State Representative,36,Earl Ehrhart,REP,2010,2012,4,Yes,Yes,No
+112,Georgia,State Representative,37,Sam Teasley,REP,2014,2016,2,No,No,Yes
+113,Georgia,State Representative,37,Sam Teasley,REP,2012,2014,1,No,No,Yes
+114,Georgia,State Representative,37,Terry Johnson,DEM,2010,2012,4,No,No,Yes
+115,Georgia,State Representative,38,David Wilkerson,DEM,2014,2016,2,Yes,Yes,Yes
+116,Georgia,State Representative,38,David Wilkerson,DEM,2012,2014,1,Yes,Yes,Yes
+117,Georgia,State Representative,38,Sam Teasley,REP,2010,2012,1,No,Yes,Yes
+118,Georgia,State Representative,39,Erica Renee Thomas,DEM,2014,2016,1,Yes,No,Yes
+119,Georgia,State Representative,39,Alisha Thomas Morgan,DEM,2012,2014,5,Yes,No,Yes
+120,Georgia,State Representative,39,Alisha Thomas Morgan,DEM,2010,2012,4,Yes,No,Yes
+121,Georgia,State Representative,40,Rich Golick,REP,2014,2016,2,No,No,No
+122,Georgia,State Representative,40,Rich Golick,REP,2012,2014,1,Yes,No,No
+123,Georgia,State Representative,40,Stacey Godfrey Evans,DEM,2010,2012,1,No,No,No
+124,Georgia,State Representative,41,Michael Smith,DEM,2014,2016,2,Yes,Yes,No
+125,Georgia,State Representative,41,Michael Smith,DEM,2012,2014,1,No,Yes,No
+126,Georgia,State Representative,41,Sharon Cooper,REP,2010,2012,4,No,Yes,No
+127,Georgia,State Representative,42,Stacey Godfrey Evans,DEM,2014,2016,2,Yes,Yes,Yes
+128,Georgia,State Representative,42,Stacey Godfrey Evans,DEM,2012,2014,1,Yes,Yes,Yes
+129,Georgia,State Representative,42,Don Parsons,REP,2010,2012,4,Yes,Yes,Yes
+130,Georgia,State Representative,43,Sharon Cooper,REP,2014,2016,2,Yes,Yes,Yes
+131,Georgia,State Representative,43,Sharon Cooper,REP,2012,2014,1,Yes,Yes,Yes
+132,Georgia,State Representative,43,Bobby Franklin,REP,2010,2012,4,Yes,Yes,Yes
+133,Georgia,State Representative,44,Don Parsons,REP,2014,2016,2,Yes,Yes,No
+134,Georgia,State Representative,44,Don Parsons,REP,2012,2014,1,Yes,Yes,No
+135,Georgia,State Representative,44,Sheila Jones,DEM,2010,2012,4,Yes,Yes,No
+136,Georgia,State Representative,45,Matt Dollar,REP,2014,2016,6,Yes,Yes,Yes
+137,Georgia,State Representative,45,Matt Dollar,REP,2012,2014,5,Yes,Yes,Yes
+138,Georgia,State Representative,45,Matt Dollar,REP,2010,2012,4,No,Yes,Yes
+139,Georgia,State Representative,46,John Carson,REP,2014,2016,2,Yes,Yes,Yes
+140,Georgia,State Representative,46,John Carson,REP,2012,2014,1,No,Yes,Yes
+141,Georgia,State Representative,46,Jan Jones,REP,2010,2012,4,No,Yes,Yes
+142,Georgia,State Representative,47,Jan Jones,REP,2014,2016,2,Yes,Yes,Yes
+143,Georgia,State Representative,47,Jan Jones,REP,2012,2014,1,Yes,Yes,Yes
+144,Georgia,State Representative,47,Charles Martin Jr.,REP,2010,2012,4,Yes,Yes,Yes
+145,Georgia,State Representative,48,Harry Geisinger,REP,2014,2016,6,No,Yes,No
+146,Georgia,State Representative,48,Harry Geisinger,REP,2012,2014,5,Yes,Yes,No
+147,Georgia,State Representative,48,Harry Geisinger,REP,2010,2012,4,Yes,Yes,No
+148,Georgia,State Representative,49,Charles Martin Jr.,REP,2014,2016,2,Yes,Yes,Yes
+149,Georgia,State Representative,49,Charles Martin Jr.,REP,2012,2014,1,Yes,Yes,Yes
+150,Georgia,State Representative,49,Wendell Willard,REP,2010,2012,4,Yes,Yes,Yes
+151,Georgia,State Representative,50,Lynne Riley,REP,2014,2016,3,No,No,No
+152,Georgia,State Representative,50,Lynne Riley,REP,2012,2014,2,Yes,No,No
+153,Georgia,State Representative,50,Lynne Riley,REP,2010,2012,1,Yes,No,No
+154,Georgia,State Representative,51,Wendell Willard,REP,2014,2016,2,Yes,Yes,Yes
+155,Georgia,State Representative,51,Wendell Willard,REP,2012,2014,1,Yes,Yes,Yes
+156,Georgia,State Representative,51,Tom Rice,REP,2010,2012,4,Yes,Yes,Yes
+157,Georgia,State Representative,52,Joseph Beebe Wilkinson Jr.,REP,2014,2016,6,Yes,Yes,No
+158,Georgia,State Representative,52,Joseph Beebe Wilkinson Jr.,REP,2012,2014,5,Yes,Yes,No
+159,Georgia,State Representative,52,Joseph Beebe Wilkinson Jr.,REP,2010,2012,4,Yes,Yes,No
+160,Georgia,State Representative,53,Sheila Jones,DEM,2014,2016,2,Yes,Yes,Yes
+161,Georgia,State Representative,53,Sheila Jones,DEM,2012,2014,1,Yes,Yes,Yes
+162,Georgia,State Representative,53,Elly Dobbs,DEM,2010,2012,2,Yes,Yes,Yes
+163,Georgia,State Representative,54,Beth Beskin,REP,2014,2016,1,No,No,Yes
+164,Georgia,State Representative,54,Ed Lindsey,REP,2012,2014,5,No,No,Yes
+165,Georgia,State Representative,54,Ed Lindsey,REP,2010,2012,4,Yes,No,Yes
+166,Georgia,State Representative,55,Tyrone Brooks,DEM,2014,2016,2,Yes,Yes,Yes
+167,Georgia,State Representative,55,Tyrone Brooks,DEM,2012,2014,1,Yes,Yes,Yes
+168,Georgia,State Representative,55,Rashad Taylor,DEM,2010,2012,2,Yes,Yes,Yes
+169,Georgia,State Representative,56,Able Mable) Thomas,DEM,2014,2016,2,Yes,No,Yes
+170,Georgia,State Representative,56,Able Mable) Thomas,DEM,2012,2014,1,Yes,No,Yes
+171,Georgia,State Representative,56,Kathy Ashe,DEM,2010,2012,4,Yes,No,Yes
+172,Georgia,State Representative,57,Patricia Gardner,DEM,2014,2016,6,Yes,No,Yes
+173,Georgia,State Representative,57,Patricia Gardner,DEM,2012,2014,5,Yes,No,Yes
+174,Georgia,State Representative,57,Patricia Gardner,DEM,2010,2012,4,Yes,No,Yes
+175,Georgia,State Representative,58,Simone Bell,DEM,2014,2016,3,Yes,No,Yes
+176,Georgia,State Representative,58,Simone Bell,DEM,2012,2014,2,No,No,Yes
+177,Georgia,State Representative,58,Simone Bell,DEM,2010,2012,1,Yes,No,Yes
+178,Georgia,State Representative,59,Margaret Kaiser,DEM,2014,2016,5,Yes,Yes,Yes
+179,Georgia,State Representative,59,Margaret Kaiser,DEM,2012,2014,4,Yes,Yes,Yes
+180,Georgia,State Representative,59,Margaret Kaiser,DEM,2010,2012,3,Yes,Yes,Yes
+181,Georgia,State Representative,60,Keisha Sean Waites,DEM,2014,2016,2,Yes,No,Yes
+182,Georgia,State Representative,60,Keisha Sean Waites,DEM,2012,2014,1,No,No,Yes
+183,Georgia,State Representative,60,Gloria Bromell-Tinubu,DEM,2010,2012,1,Yes,No,Yes
+184,Georgia,State Representative,61,Roger Bruce,DEM,2014,2016,2,Yes,Yes,Yes
+185,Georgia,State Representative,61,Roger Bruce,DEM,2012,2014,1,Yes,Yes,Yes
+186,Georgia,State Representative,61,Ralph Long III,DEM,2010,2012,2,Yes,Yes,Yes
+187,Georgia,State Representative,62,Ladawn Blackett Jones,DEM,2014,2016,2,Yes,No,Yes
+188,Georgia,State Representative,62,Ladawn Blackett Jones,DEM,2012,2014,1,No,No,Yes
+189,Georgia,State Representative,62,Joe Heckstall,DEM,2010,2012,4,Yes,No,Yes
+190,Georgia,State Representative,63,Ronnie Mabra,DEM,2014,2016,2,Yes,No,Yes
+191,Georgia,State Representative,63,Ronnie Mabra,DEM,2012,2014,1,No,No,Yes
+192,Georgia,State Representative,63,Tyrone Brooks,DEM,2010,2012,4,Yes,No,Yes
+193,Georgia,State Representative,64,Virgil Fludd,DEM,2014,2016,2,Yes,Yes,Yes
+194,Georgia,State Representative,64,Virgil Fludd,DEM,2012,2014,1,Yes,Yes,Yes
+195,Georgia,State Representative,64,Roger Bruce,DEM,2010,2012,4,Yes,Yes,Yes
+196,Georgia,State Representative,65,Sharon Beasley-Teague,DEM,2014,2016,6,Yes,No,Yes
+197,Georgia,State Representative,65,Sharon Beasley-Teague,DEM,2012,2014,5,Yes,No,Yes
+198,Georgia,State Representative,65,Sharon Beasley-Teague,DEM,2010,2012,4,Yes,No,Yes
+199,Georgia,State Representative,66,Kimberly Alexander,DEM,2014,2016,2,No,Yes,Yes
+200,Georgia,State Representative,66,Kimberly Alexander,DEM,2012,2014,1,No,Yes,Yes
+201,Georgia,State Representative,66,Virgil Fludd,DEM,2010,2012,4,Yes,Yes,Yes
+202,Georgia,State Representative,67,Micah Gravley,REP,2014,2016,2,Yes,Yes,Yes
+203,Georgia,State Representative,67,Micah Gravley,REP,2012,2014,1,No,Yes,Yes
+204,Georgia,State Representative,67,Bill Hembree,REP,2010,2012,4,No,Yes,Yes
+205,Georgia,State Representative,68,Dusty Hightower,REP,2014,2016,2,Yes,Yes,Yes
+206,Georgia,State Representative,68,Dusty Hightower,REP,2012,2014,1,Yes,Yes,Yes
+207,Georgia,State Representative,68,Timothy Beardon,REP,2010,2012,4,Yes,Yes,Yes
+208,Georgia,State Representative,69,Randy Otis Nix,REP,2014,2016,5,Yes,Yes,Yes
+209,Georgia,State Representative,69,Randy Otis Nix,REP,2012,2014,4,No,Yes,Yes
+210,Georgia,State Representative,69,Randy Otis Nix,REP,2010,2012,3,Yes,Yes,Yes
+211,Georgia,State Representative,70,Lynn Ratigan Smith,REP,2014,2016,6,Yes,Yes,Yes
+212,Georgia,State Representative,70,Lynn Ratigan Smith,REP,2012,2014,5,Yes,Yes,Yes
+213,Georgia,State Representative,70,Lynn Ratigan Smith,REP,2010,2012,4,Yes,Yes,Yes
+214,Georgia,State Representative,71,David Jay Stover,REP,2014,2016,1,Yes,Yes,No
+215,Georgia,State Representative,71,Robert Stokely,REP,2012,2014,1,Yes,Yes,No
+216,Georgia,State Representative,71,Billy Horne,REP,2010,2012,4,Yes,Yes,No
+217,Georgia,State Representative,72,Matthew Ramsey,REP,2014,2016,4,Yes,Yes,No
+218,Georgia,State Representative,72,Matthew Ramsey,REP,2012,2014,3,Yes,Yes,No
+219,Georgia,State Representative,72,Matthew Ramsey,REP,2010,2012,2,Yes,Yes,No
+220,Georgia,State Representative,73,John Yates,REP,2014,2016,6,No,Yes,Yes
+221,Georgia,State Representative,73,John Yates,REP,2012,2014,5,Yes,Yes,Yes
+222,Georgia,State Representative,73,John Yates,REP,2010,2012,4,No,Yes,Yes
+223,Georgia,State Representative,74,Valencia Stovall,DEM,2014,2016,2,Yes,No,Yes
+224,Georgia,State Representative,74,Valencia Stovall,DEM,2012,2014,1,Yes,No,Yes
+225,Georgia,State Representative,74,Roberta Abdul-Salaam,DEM,2010,2012,4,Yes,No,Yes
+226,Georgia,State Representative,75,Michael Eugene Glanton Sr.,DEM,2014,2016,2,Yes,No,Yes
+227,Georgia,State Representative,75,Michael Eugene Glanton Sr.,DEM,2012,2014,1,Yes,No,Yes
+228,Georgia,State Representative,75,Yasmin Mikila Neal,DEM,2010,2012,1,No,No,Yes
+229,Georgia,State Representative,76,Sandra Scott,DEM,2014,2016,3,Yes,Yes,Yes
+230,Georgia,State Representative,76,Sandra Scott,DEM,2012,2014,2,Yes,Yes,Yes
+231,Georgia,State Representative,76,Sandra Scott,DEM,2010,2012,1,Yes,Yes,Yes
+232,Georgia,State Representative,77,Darryl Jordan,DEM,2014,2016,6,Yes,Yes,Yes
+233,Georgia,State Representative,77,Darryl Jordan,DEM,2012,2014,5,Yes,Yes,Yes
+234,Georgia,State Representative,77,Darryl Jordan,DEM,2010,2012,4,No,Yes,Yes
+235,Georgia,State Representative,78,Demetrius Douglas,DEM,2014,2016,2,No,Yes,Yes
+236,Georgia,State Representative,78,Demetrius Douglas,DEM,2012,2014,1,Yes,Yes,Yes
+237,Georgia,State Representative,78,Glenn Baker,DEM,2010,2012,2,Yes,Yes,Yes
+238,Georgia,State Representative,79,Tom Taylor,REP,2014,2016,3,Yes,Yes,Yes
+239,Georgia,State Representative,79,Tom Taylor,REP,2012,2014,2,Yes,Yes,Yes
+240,Georgia,State Representative,79,Tom Taylor,REP,2010,2012,1,No,Yes,Yes
+241,Georgia,State Representative,80,Mike Jacobs,REP,2014,2016,6,Yes,Yes,Yes
+242,Georgia,State Representative,80,Mike Jacobs,REP,2012,2014,5,No,Yes,Yes
+243,Georgia,State Representative,80,Mike Jacobs,REP,2010,2012,4,No,Yes,Yes
+244,Georgia,State Representative,81,Scott Holcomb,DEM,2014,2016,2,No,No,Yes
+245,Georgia,State Representative,81,Scott Holcomb,DEM,2012,2014,1,No,No,Yes
+246,Georgia,State Representative,81,Elena Parent,DEM,2010,2012,1,No,No,Yes
+247,Georgia,State Representative,82,Mary Margaret Oliver,DEM,2014,2016,2,Yes,Yes,Yes
+248,Georgia,State Representative,82,Mary Margaret Oliver,DEM,2012,2014,1,Yes,Yes,Yes
+249,Georgia,State Representative,82,Scott Holcomb,DEM,2010,2012,1,Yes,Yes,Yes
+250,Georgia,State Representative,83,Howard Mosby,DEM,2014,2016,2,No,No,Yes
+251,Georgia,State Representative,83,Howard Mosby,DEM,2012,2014,1,Yes,No,Yes
+252,Georgia,State Representative,83,Mary Margaret Oliver,DEM,2010,2012,4,Yes,No,Yes
+253,Georgia,State Representative,84,Rahn Mayo,DEM,2014,2016,2,Yes,Yes,Yes
+254,Georgia,State Representative,84,Rahn Mayo,DEM,2012,2014,1,Yes,Yes,Yes
+255,Georgia,State Representative,84,Stacey Yvonne Abrams,DEM,2010,2012,3,Yes,Yes,Yes
+256,Georgia,State Representative,85,Karla Lea Drenner,DEM,2014,2016,2,Yes,Yes,Yes
+257,Georgia,State Representative,85,Karla Lea Drenner,DEM,2012,2014,1,Yes,Yes,Yes
+258,Georgia,State Representative,85,Stephanie Stuckey Benfield,DEM,2010,2012,4,No,Yes,Yes
+259,Georgia,State Representative,86,Michele Henson,DEM,2014,2016,2,Yes,No,Yes
+260,Georgia,State Representative,86,Michele Henson,DEM,2012,2014,1,No,No,Yes
+261,Georgia,State Representative,86,Karla Lea Drenner,DEM,2010,2012,4,Yes,No,Yes
+262,Georgia,State Representative,87,Coach Williams,DEM,2014,2016,2,Yes,No,Yes
+263,Georgia,State Representative,87,Coach Williams,DEM,2012,2014,1,Yes,No,Yes
+264,Georgia,State Representative,87,Michele Henson,DEM,2010,2012,4,Yes,No,Yes
+265,Georgia,State Representative,88,Billy Mitchell,DEM,2014,2016,6,Yes,Yes,Yes
+266,Georgia,State Representative,88,Billy Mitchell,DEM,2012,2014,5,Yes,Yes,Yes
+267,Georgia,State Representative,88,Billy Mitchell,DEM,2010,2012,4,Yes,Yes,Yes
+268,Georgia,State Representative,89,Stacey Yvonne Abrams,DEM,2014,2016,2,Yes,Yes,Yes
+269,Georgia,State Representative,89,Stacey Yvonne Abrams,DEM,2012,2014,1,Yes,Yes,Yes
+270,Georgia,State Representative,89,Coach Williams,DEM,2010,2012,4,Yes,Yes,Yes
+271,Georgia,State Representative,90,Pamela Sturdivant Stephenson,DEM,2014,2016,2,Yes,No,Yes
+272,Georgia,State Representative,90,Pamela Sturdivant Stephenson,DEM,2012,2014,1,Yes,No,Yes
+273,Georgia,State Representative,90,Howard Mosby,DEM,2010,2012,4,Yes,No,Yes
+274,Georgia,State Representative,91,Dee Dawkins-Haigler,DEM,2014,2016,2,Yes,Yes,Yes
+275,Georgia,State Representative,91,Dee Dawkins-Haigler,DEM,2012,2014,1,Yes,Yes,Yes
+276,Georgia,State Representative,91,Rahn Mayo,DEM,2010,2012,2,Yes,Yes,Yes
+277,Georgia,State Representative,92,Tonya Anderson,DEM,2014,2016,2,Yes,Yes,Yes
+278,Georgia,State Representative,92,Tonya Anderson,DEM,2012,2014,1,No,Yes,Yes
+279,Georgia,State Representative,92,Pamela Sturdivant Stephenson,DEM,2010,2012,4,Yes,Yes,Yes
+280,Georgia,State Representative,93,Darshun Kendrick,DEM,2014,2016,2,Yes,Yes,Yes
+281,Georgia,State Representative,93,Darshun Kendrick,DEM,2012,2014,1,No,Yes,Yes
+282,Georgia,State Representative,93,Dee Dawkins-Haigler,DEM,2010,2012,2,Yes,Yes,Yes
+283,Georgia,State Representative,94,Karen Bennett,DEM,2014,2016,2,No,No,Yes
+284,Georgia,State Representative,94,Karen Bennett,DEM,2012,2014,1,Yes,No,Yes
+285,Georgia,State Representative,94,Darshun Kendrick,DEM,2010,2012,1,No,No,Yes
+286,Georgia,State Representative,95,Tom Rice,REP,2014,2016,2,No,Yes,Yes
+287,Georgia,State Representative,95,Tom Rice,REP,2012,2014,1,No,Yes,Yes
+288,Georgia,State Representative,95,Pamela Dickerson,DEM,2010,2012,1,No,Yes,Yes
+289,Georgia,State Representative,96,Pete Marin,DEM,2014,2016,6,Yes,Yes,Yes
+290,Georgia,State Representative,96,Pete Marin,DEM,2012,2014,5,No,Yes,Yes
+291,Georgia,State Representative,96,Pete Marin,DEM,2010,2012,4,Yes,Yes,Yes
+292,Georgia,State Representative,97,Brooks Coleman,REP,2014,2016,6,Yes,No,No
+293,Georgia,State Representative,97,Brooks Coleman,REP,2012,2014,5,Yes,No,No
+294,Georgia,State Representative,97,Brooks Coleman,REP,2010,2012,4,Yes,No,No
+295,Georgia,State Representative,98,David Clark,REP,2014,2016,1,No,Yes,Yes
+296,Georgia,State Representative,98,Josh Clark,REP,2012,2014,2,Yes,Yes,Yes
+297,Georgia,State Representative,98,Josh Clark,REP,2010,2012,1,Yes,Yes,Yes
+298,Georgia,State Representative,99,James Hugh Floyd,DEM,2014,2016,6,Yes,No,Yes
+299,Georgia,State Representative,99,James Hugh Floyd,DEM,2012,2014,5,Yes,No,Yes
+300,Georgia,State Representative,99,James Hugh Floyd,DEM,2010,2012,4,Yes,No,Yes
+301,Georgia,State Representative,100,Dewey McClain,DEM,2014,2016,2,Yes,Yes,Yes
+302,Georgia,State Representative,100,Brian Thomas,DEM,2012,2014,5,Yes,Yes,Yes
+303,Georgia,State Representative,100,Brian Thomas,DEM,2010,2012,4,Yes,Yes,Yes
+304,Georgia,State Representative,101,Valerie Clark,REP,2014,2016,2,Yes,Yes,Yes
+305,Georgia,State Representative,101,Valerie Clark,REP,2012,2014,1,No,Yes,Yes
+306,Georgia,State Representative,101,Buzz Samuel Brockway III,REP,2010,2012,1,Yes,Yes,Yes
+307,Georgia,State Representative,102,Buzz Samuel Brockway III,REP,2014,2016,2,Yes,No,No
+308,Georgia,State Representative,102,Buzz Samuel Brockway III,REP,2012,2014,1,Yes,No,No
+309,Georgia,State Representative,102,Bj Jin Pak,REP,2010,2012,1,No,No,No
+310,Georgia,State Representative,103,Timothy Barr,REP,2014,2016,2,Yes,Yes,Yes
+311,Georgia,State Representative,103,Timothy Barr,REP,2012,2014,1,Yes,Yes,Yes
+312,Georgia,State Representative,103,David Casas,REP,2010,2012,4,No,Yes,Yes
+313,Georgia,State Representative,104,Chuck Efstration,REP,2014,2016,1,Yes,Yes,Yes
+314,Georgia,State Representative,104,Donna Sheldon,REP,2012,2014,1,Yes,Yes,Yes
+315,Georgia,State Representative,104,Valerie Clark,REP,2010,2012,1,No,Yes,Yes
+316,Georgia,State Representative,105,Joyce Chandler,REP,2014,2016,2,No,Yes,No
+317,Georgia,State Representative,105,Joyce Chandler,REP,2012,2014,1,No,Yes,No
+318,Georgia,State Representative,105,Donna Sheldon,REP,2010,2012,4,Yes,Yes,No
+319,Georgia,State Representative,106,Brett Harrell,REP,2014,2016,3,Yes,Yes,Yes
+320,Georgia,State Representative,106,Brett Harrell,REP,2012,2014,2,Yes,Yes,Yes
+321,Georgia,State Representative,106,Brett Harrell,REP,2010,2012,1,No,Yes,Yes
+322,Georgia,State Representative,107,David Casas,REP,2014,2016,2,Yes,No,Yes
+323,Georgia,State Representative,107,David Casas,REP,2012,2014,1,No,No,Yes
+324,Georgia,State Representative,107,Len Walker,REP,2010,2012,4,Yes,No,Yes
+325,Georgia,State Representative,108,Bj Jin Pak,REP,2014,2016,2,Yes,Yes,Yes
+326,Georgia,State Representative,108,Bj Jin Pak,REP,2012,2014,1,Yes,Yes,Yes
+327,Georgia,State Representative,108,Terry Lamar England,REP,2010,2012,4,Yes,Yes,Yes
+328,Georgia,State Representative,109,Dale Rutledge,REP,2014,2016,2,Yes,No,No
+329,Georgia,State Representative,109,Dale Rutledge,REP,2012,2014,1,Yes,No,No
+330,Georgia,State Representative,109,Steve Davis,REP,2010,2012,4,No,No,No
+331,Georgia,State Representative,110,Andy Welch III,REP,2014,2016,3,No,Yes,Yes
+332,Georgia,State Representative,110,Andy Welch III,REP,2012,2014,2,Yes,Yes,Yes
+333,Georgia,State Representative,110,Andy Welch III,REP,2010,2012,1,No,Yes,Yes
+334,Georgia,State Representative,111,Robert Brian Strickland,REP,2014,2016,2,No,No,No
+335,Georgia,State Representative,111,Robert Brian Strickland,REP,2012,2014,1,No,No,No
+336,Georgia,State Representative,111,Bruce Brewster Williamson III,REP,2010,2012,1,Yes,No,No
+337,Georgia,State Representative,112,Dave Belton,REP,2014,2016,1,No,Yes,Yes
+338,Georgia,State Representative,112,Doug Holt,REP,2012,2014,5,Yes,Yes,Yes
+339,Georgia,State Representative,112,Doug Holt,REP,2010,2012,4,Yes,Yes,Yes
+340,Georgia,State Representative,113,Pamela Dickerson,DEM,2014,2016,2,Yes,No,Yes
+341,Georgia,State Representative,113,Pamela Dickerson,DEM,2012,2014,1,No,No,Yes
+342,Georgia,State Representative,113,Hank Huckaby,REP,2010,2012,1,No,No,Yes
+343,Georgia,State Representative,114,Tom Thomas Kirby,REP,2014,2016,2,No,Yes,Yes
+344,Georgia,State Representative,114,Tom Thomas Kirby,REP,2012,2014,1,Yes,Yes,Yes
+345,Georgia,State Representative,114,Keith Heard,DEM,2010,2012,4,Yes,Yes,Yes
+346,Georgia,State Representative,115,Bruce Brewster Williamson III,REP,2014,2016,2,Yes,Yes,Yes
+347,Georgia,State Representative,115,Bruce Brewster Williamson III,REP,2012,2014,1,Yes,Yes,Yes
+348,Georgia,State Representative,115,Douglas McKillip,DEM,2010,2012,3,Yes,Yes,Yes
+349,Georgia,State Representative,116,Terry Lamar England,REP,2014,2016,2,Yes,Yes,Yes
+350,Georgia,State Representative,116,Terry Lamar England,REP,2012,2014,1,Yes,Yes,Yes
+351,Georgia,State Representative,116,Robert Mickey Channell,REP,2010,2012,4,Yes,Yes,Yes
+352,Georgia,State Representative,117,Regina Quick,REP,2014,2016,2,Yes,Yes,Yes
+353,Georgia,State Representative,117,Regina Quick,REP,2012,2014,1,Yes,Yes,Yes
+354,Georgia,State Representative,117,Lee Anderson,REP,2010,2012,2,Yes,Yes,Yes
+355,Georgia,State Representative,118,Spencer Frye,DEM,2014,2016,2,Yes,Yes,Yes
+356,Georgia,State Representative,118,Spencer Frye,DEM,2012,2014,1,No,Yes,Yes
+357,Georgia,State Representative,118,Ben Harbin,REP,2010,2012,4,Yes,Yes,Yes
+358,Georgia,State Representative,119,Chuck Edward Williams,REP,2014,2016,2,Yes,Yes,No
+359,Georgia,State Representative,119,Chuck Edward Williams,REP,2012,2014,1,Yes,Yes,No
+360,Georgia,State Representative,119,Barbara Sims,REP,2010,2012,3,Yes,Yes,No
+361,Georgia,State Representative,120,Robert Mickey Channell,REP,2014,2016,2,Yes,Yes,Yes
+362,Georgia,State Representative,120,Robert Mickey Channell,REP,2012,2014,1,Yes,Yes,Yes
+363,Georgia,State Representative,120,Quincy Murphy,DEM,2010,2012,4,Yes,Yes,Yes
+364,Georgia,State Representative,121,Barry Fleming,REP,2014,2016,2,Yes,Yes,Yes
+365,Georgia,State Representative,121,Barry Fleming,REP,2012,2014,1,Yes,Yes,Yes
+366,Georgia,State Representative,121,Wayne Howard,DEM,2010,2012,4,Yes,Yes,Yes
+367,Georgia,State Representative,122,Ben Harbin,REP,2014,2016,2,Yes,Yes,Yes
+368,Georgia,State Representative,122,Ben Harbin,REP,2012,2014,1,Yes,Yes,Yes
+369,Georgia,State Representative,122,Earnest Smith,DEM,2010,2012,1,Yes,Yes,Yes
+370,Georgia,State Representative,123,Barbara Sims,REP,2014,2016,2,Yes,Yes,Yes
+371,Georgia,State Representative,123,Barbara Sims,REP,2012,2014,1,Yes,Yes,Yes
+372,Georgia,State Representative,123,Gloria Frazier,DEM,2010,2012,3,Yes,Yes,Yes
+373,Georgia,State Representative,124,Wayne Howard,DEM,2014,2016,2,Yes,Yes,Yes
+374,Georgia,State Representative,124,Wayne Howard,DEM,2012,2014,1,Yes,Yes,Yes
+375,Georgia,State Representative,124,Sistie Hudson,DEM,2010,2012,4,No,Yes,Yes
+376,Georgia,State Representative,125,Earnest Smith,DEM,2014,2016,2,No,Yes,Yes
+377,Georgia,State Representative,125,Earnest Smith,DEM,2012,2014,1,No,Yes,Yes
+378,Georgia,State Representative,125,Susan Holmes,REP,2010,2012,1,No,Yes,Yes
+379,Georgia,State Representative,126,Gloria Frazier,DEM,2014,2016,2,Yes,Yes,Yes
+380,Georgia,State Representative,126,Gloria Frazier,DEM,2012,2014,1,Yes,Yes,Yes
+381,Georgia,State Representative,126,David Knight,REP,2010,2012,4,Yes,Yes,Yes
+382,Georgia,State Representative,127,Brian Prince,DEM,2014,2016,1,Yes,Yes,Yes
+383,Georgia,State Representative,127,Quincy Murphy,DEM,2012,2014,1,Yes,Yes,Yes
+384,Georgia,State Representative,127,Billy Maddox,REP,2010,2012,2,Yes,Yes,Yes
+385,Georgia,State Representative,128,Willie Mack Jackson Sr.,DEM,2014,2016,2,Yes,Yes,Yes
+386,Georgia,State Representative,128,Willie Mack Jackson Sr.,DEM,2012,2014,1,Yes,Yes,Yes
+387,Georgia,State Representative,128,Carl Von Epps,DEM,2010,2012,4,Yes,Yes,Yes
+388,Georgia,State Representative,129,Susan Holmes,REP,2014,2016,2,Yes,Yes,Yes
+389,Georgia,State Representative,129,Susan Holmes,REP,2012,2014,1,Yes,Yes,Yes
+390,Georgia,State Representative,129,Kip Smith,REP,2010,2012,1,Yes,Yes,Yes
+391,Georgia,State Representative,130,David Knight,REP,2014,2016,2,Yes,Yes,No
+392,Georgia,State Representative,130,David Knight,REP,2012,2014,1,Yes,Yes,No
+393,Georgia,State Representative,130,Debbie Gignilliat Buckner,DEM,2010,2012,4,Yes,Yes,No
+394,Georgia,State Representative,131,Johnnie Caldwell Jr.,REP,2014,2016,2,Yes,Yes,No
+395,Georgia,State Representative,131,Johnnie Caldwell Jr.,REP,2012,2014,1,Yes,Yes,No
+396,Georgia,State Representative,131,Richard Smith,REP,2010,2012,4,Yes,Yes,No
+397,Georgia,State Representative,132,Bob Trammell Jr.,DEM,2014,2016,1,No,Yes,Yes
+398,Georgia,State Representative,132,Carl Von Epps,DEM,2012,2014,1,No,Yes,Yes
+399,Georgia,State Representative,132,Calvin Smyre,DEM,2010,2012,4,Yes,Yes,Yes
+400,Georgia,State Representative,133,John Pezold,REP,2014,2016,2,Yes,Yes,No
+401,Georgia,State Representative,133,John Pezold,REP,2012,2014,1,Yes,Yes,No
+402,Georgia,State Representative,133,Carolyn Hugley,DEM,2010,2012,4,Yes,Yes,No
+403,Georgia,State Representative,134,Richard Smith,REP,2014,2016,2,Yes,Yes,Yes
+404,Georgia,State Representative,134,Richard Smith,REP,2012,2014,1,Yes,Yes,Yes
+405,Georgia,State Representative,134,Michael Cheokas,DEM,2010,2012,4,Yes,Yes,Yes
+406,Georgia,State Representative,135,Calvin Smyre,DEM,2014,2016,2,Yes,Yes,Yes
+407,Georgia,State Representative,135,Calvin Smyre,DEM,2012,2014,1,No,Yes,Yes
+408,Georgia,State Representative,135,Lynmore James,DEM,2010,2012,4,Yes,Yes,Yes
+409,Georgia,State Representative,136,Carolyn Hugley,DEM,2014,2016,2,Yes,Yes,Yes
+410,Georgia,State Representative,136,Carolyn Hugley,DEM,2012,2014,1,No,Yes,Yes
+411,Georgia,State Representative,136,Anthony Sellier,REP,2010,2012,3,No,Yes,Yes
+412,Georgia,State Representative,137,Debbie Gignilliat Buckner,DEM,2014,2016,2,No,Yes,Yes
+413,Georgia,State Representative,137,Debbie Gignilliat Buckner,DEM,2012,2014,1,Yes,Yes,Yes
+414,Georgia,State Representative,137,Allen Peake,REP,2010,2012,3,Yes,Yes,Yes
+415,Georgia,State Representative,138,Michael Cheokas,REP,2014,2016,2,No,Yes,No
+416,Georgia,State Representative,138,Michael Cheokas,REP,2012,2014,1,No,Yes,No
+417,Georgia,State Representative,138,Nikki Randall,DEM,2010,2012,4,Yes,Yes,No
+418,Georgia,State Representative,139,Patty Bentley,DEM,2014,2016,2,Yes,Yes,Yes
+419,Georgia,State Representative,139,Patty Bentley,DEM,2012,2014,1,No,Yes,Yes
+420,Georgia,State Representative,139,David Lucas Sr.,DEM,2010,2012,4,Yes,Yes,Yes
+421,Georgia,State Representative,140,Robert Dickey III,REP,2014,2016,2,Yes,Yes,Yes
+422,Georgia,State Representative,140,Robert Dickey III,REP,2012,2014,1,Yes,Yes,Yes
+423,Georgia,State Representative,140,Bubber Epps,DEM,2010,2012,2,No,Yes,Yes
+424,Georgia,State Representative,141,Allen Peake,REP,2014,2016,2,Yes,Yes,No
+425,Georgia,State Representative,141,Allen Peake,REP,2012,2014,1,Yes,Yes,No
+426,Georgia,State Representative,141,Rusty Culver Kidd,IND,2010,2012,1,No,Yes,No
+427,Georgia,State Representative,142,Nikki Randall,DEM,2014,2016,2,Yes,No,Yes
+428,Georgia,State Representative,142,Nikki Randall,DEM,2012,2014,1,Yes,No,Yes
+429,Georgia,State Representative,142,Willie Mack Jackson Sr.,DEM,2010,2012,2,Yes,No,Yes
+430,Georgia,State Representative,143,James Beverly,DEM,2014,2016,2,Yes,No,Yes
+431,Georgia,State Representative,143,James Beverly,DEM,2012,2014,1,Yes,No,Yes
+432,Georgia,State Representative,143,Matt Matthew Hatchett,REP,2010,2012,1,No,No,Yes
+433,Georgia,State Representative,144,Bubber Epps,REP,2014,2016,2,No,No,No
+434,Georgia,State Representative,144,Bubber Epps,REP,2012,2014,1,No,No,No
+435,Georgia,State Representative,144,Jimmy Pruett Jr.,REP,2010,2012,3,Yes,No,No
+436,Georgia,State Representative,145,Rusty Culver Kidd,IND,2014,2016,2,Yes,Yes,Yes
+437,Georgia,State Representative,145,Rusty Culver Kidd,IND,2012,2014,1,No,Yes,Yes
+438,Georgia,State Representative,145,Willie Lee Talton,REP,2010,2012,4,No,Yes,Yes
+439,Georgia,State Representative,146,Larry Oneal Jr.,REP,2014,2016,6,Yes,Yes,Yes
+440,Georgia,State Representative,146,Larry Oneal Jr.,REP,2012,2014,5,Yes,Yes,Yes
+441,Georgia,State Representative,146,Larry Oneal Jr.,REP,2010,2012,4,Yes,Yes,Yes
+442,Georgia,State Representative,147,Heath Clark,REP,2014,2016,1,Yes,Yes,Yes
+443,Georgia,State Representative,147,Willie Lee Talton,REP,2012,2014,1,Yes,Yes,Yes
+444,Georgia,State Representative,147,Buddy Hall Harden,REP,2010,2012,2,Yes,Yes,Yes
+445,Georgia,State Representative,148,Buddy Hall Harden,REP,2014,2016,2,Yes,Yes,Yes
+446,Georgia,State Representative,148,Buddy Hall Harden,REP,2012,2014,1,Yes,Yes,Yes
+447,Georgia,State Representative,148,Bob Hanner,DEM,2010,2012,4,Yes,Yes,Yes
+448,Georgia,State Representative,149,Jimmy Pruett Jr.,REP,2014,2016,2,Yes,Yes,Yes
+449,Georgia,State Representative,149,Jimmy Pruett Jr.,REP,2012,2014,1,Yes,Yes,Yes
+450,Georgia,State Representative,149,Gerald Greene,DEM,2010,2012,4,Yes,Yes,Yes
+451,Georgia,State Representative,150,Matt Matthew Hatchett,REP,2014,2016,2,Yes,Yes,Yes
+452,Georgia,State Representative,150,Matt Matthew Hatchett,REP,2012,2014,1,No,Yes,Yes
+453,Georgia,State Representative,150,Winfred Dukes,DEM,2010,2012,4,No,Yes,Yes
+454,Georgia,State Representative,151,Gerald Greene,REP,2014,2016,2,No,Yes,Yes
+455,Georgia,State Representative,151,Gerald Greene,REP,2012,2014,1,Yes,Yes,Yes
+456,Georgia,State Representative,151,Carol Fullerton,DEM,2010,2012,2,Yes,Yes,Yes
+457,Georgia,State Representative,152,Eugene Ed Rynders,REP,2014,2016,6,Yes,No,Yes
+458,Georgia,State Representative,152,Eugene Ed Rynders,REP,2012,2014,5,Yes,No,Yes
+459,Georgia,State Representative,152,Eugene Ed Rynders,REP,2010,2012,4,Yes,No,Yes
+460,Georgia,State Representative,153,Darrel Ealum,DEM,2014,2016,1,No,No,Yes
+461,Georgia,State Representative,153,Carol Fullerton,DEM,2012,2014,1,Yes,No,Yes
+462,Georgia,State Representative,153,Tony McBrayer,REP,2010,2012,1,No,No,Yes
+463,Georgia,State Representative,154,Winfred Dukes,DEM,2014,2016,2,Yes,Yes,Yes
+464,Georgia,State Representative,154,Winfred Dukes,DEM,2012,2014,1,Yes,Yes,Yes
+465,Georgia,State Representative,154,Jay Hugh Roberts,REP,2010,2012,4,Yes,Yes,Yes
+466,Georgia,State Representative,155,Jay Hugh Roberts,REP,2014,2016,2,Yes,Yes,Yes
+467,Georgia,State Representative,155,Jay Hugh Roberts,REP,2012,2014,1,Yes,Yes,Yes
+468,Georgia,State Representative,155,Greg Morris,REP,2010,2012,4,Yes,Yes,Yes
+469,Georgia,State Representative,156,Greg Morris,REP,2014,2016,2,Yes,Yes,No
+470,Georgia,State Representative,156,Greg Morris,REP,2012,2014,1,Yes,Yes,No
+471,Georgia,State Representative,156,Butch Parrish,REP,2010,2012,4,Yes,Yes,No
+472,Georgia,State Representative,157,Bill Werkheiser,REP,2014,2016,1,No,Yes,No
+473,Georgia,State Representative,157,Delvis William Dutton,REP,2012,2014,1,Yes,Yes,No
+474,Georgia,State Representative,157,Jon Burns,REP,2010,2012,4,No,Yes,No
+475,Georgia,State Representative,158,Butch Parrish,REP,2014,2016,2,Yes,Yes,Yes
+476,Georgia,State Representative,158,Butch Parrish,REP,2012,2014,1,Yes,Yes,Yes
+477,Georgia,State Representative,158,Jan Tankersley,REP,2010,2012,1,Yes,Yes,Yes
+478,Georgia,State Representative,159,Jon Burns,REP,2014,2016,2,Yes,Yes,Yes
+479,Georgia,State Representative,159,Jon Burns,REP,2012,2014,1,Yes,Yes,Yes
+480,Georgia,State Representative,159,Ann Purcell,REP,2010,2012,1,No,Yes,Yes
+481,Georgia,State Representative,160,Jan Tankersley,REP,2014,2016,2,Yes,Yes,No
+482,Georgia,State Representative,160,Jan Tankersley,REP,2012,2014,1,No,Yes,No
+483,Georgia,State Representative,160,Bob Bryant Sr.,DEM,2010,2012,4,No,Yes,No
+484,Georgia,State Representative,161,Bill Hitchens Jr.,REP,2014,2016,2,Yes,Yes,Yes
+485,Georgia,State Representative,161,Bill Hitchens Jr.,REP,2012,2014,1,Yes,Yes,Yes
+486,Georgia,State Representative,161,Mickey Stephens,DEM,2010,2012,2,Yes,Yes,Yes
+487,Georgia,State Representative,162,Bob Bryant Sr.,DEM,2014,2016,2,Yes,Yes,Yes
+488,Georgia,State Representative,162,Bob Bryant Sr.,DEM,2012,2014,1,Yes,Yes,Yes
+489,Georgia,State Representative,162,Craig Gordon,DEM,2010,2012,3,Yes,Yes,Yes
+490,Georgia,State Representative,163,Craig Gordon,DEM,2014,2016,2,Yes,Yes,Yes
+491,Georgia,State Representative,163,Craig Gordon,DEM,2012,2014,1,Yes,Yes,Yes
+492,Georgia,State Representative,163,Ben Watson,REP,2010,2012,1,No,Yes,Yes
+493,Georgia,State Representative,164,Ron Stephens,REP,2014,2016,6,Yes,Yes,Yes
+494,Georgia,State Representative,164,Ron Stephens,REP,2012,2014,5,No,Yes,Yes
+495,Georgia,State Representative,164,Ron Stephens,REP,2010,2012,4,No,Yes,Yes
+496,Georgia,State Representative,165,Mickey Stephens,DEM,2014,2016,2,Yes,Yes,Yes
+497,Georgia,State Representative,165,Mickey Stephens,DEM,2012,2014,1,Yes,Yes,Yes
+498,Georgia,State Representative,165,Al Williams,DEM,2010,2012,4,Yes,Yes,Yes
+499,Georgia,State Representative,166,Jesse Petrea,REP,2014,2016,1,Yes,Yes,Yes
+500,Georgia,State Representative,166,Ben Watson,REP,2012,2014,1,Yes,Yes,Yes
+501,Georgia,State Representative,166,Delvis William Dutton,REP,2010,2012,1,Yes,Yes,Yes
+502,Georgia,State Representative,167,Jeff Jones,REP,2014,2016,1,Yes,Yes,Yes
+503,Georgia,State Representative,167,Jeff Chapman,REP,2012,2014,1,Yes,Yes,Yes
+504,Georgia,State Representative,167,Roger Lane,REP,2010,2012,4,Yes,Yes,Yes
+505,Georgia,State Representative,168,Al Williams,DEM,2014,2016,2,Yes,Yes,Yes
+506,Georgia,State Representative,168,Al Williams,DEM,2012,2014,1,Yes,Yes,Yes
+507,Georgia,State Representative,168,Tommy Smith,REP,2010,2012,4,Yes,Yes,Yes
+508,Georgia,State Representative,169,Dominic Lariccia,REP,2014,2016,1,No,Yes,Yes
+509,Georgia,State Representative,169,Chuck Sims,REP,2012,2014,5,Yes,Yes,Yes
+510,Georgia,State Representative,169,Chuck Sims,REP,2010,2012,4,Yes,Yes,Yes
+511,Georgia,State Representative,170,Penny Penelope Houston,REP,2014,2016,6,Yes,Yes,Yes
+512,Georgia,State Representative,170,Penny Penelope Houston,REP,2012,2014,5,Yes,Yes,Yes
+513,Georgia,State Representative,170,Penny Penelope Houston,REP,2010,2012,4,Yes,Yes,Yes
+514,Georgia,State Representative,171,Jay Powell Jr.,REP,2014,2016,4,Yes,Yes,Yes
+515,Georgia,State Representative,171,Jay Powell Jr.,REP,2012,2014,3,No,Yes,Yes
+516,Georgia,State Representative,171,Jay Powell Jr.,REP,2010,2012,2,No,Yes,Yes
+517,Georgia,State Representative,172,Sam Watson,REP,2014,2016,2,Yes,Yes,Yes
+518,Georgia,State Representative,172,Sam Watson,REP,2012,2014,1,Yes,Yes,Yes
+519,Georgia,State Representative,172,Eugene Talmadge Maddox,REP,2010,2012,4,No,Yes,Yes
+520,Georgia,State Representative,173,Darlene Taylor,REP,2014,2016,3,No,Yes,Yes
+521,Georgia,State Representative,173,Darlene Taylor,REP,2012,2014,2,No,Yes,Yes
+522,Georgia,State Representative,173,Darlene Taylor,REP,2010,2012,1,No,Yes,Yes
+523,Georgia,State Representative,174,John Corbett,REP,2014,2016,1,No,Yes,Yes
+524,Georgia,State Representative,174,Ellis Black,REP,2012,2014,5,No,Yes,Yes
+525,Georgia,State Representative,174,Ellis Black,DEM,2010,2012,4,Yes,Yes,Yes
+526,Georgia,State Representative,175,Amy Carter,REP,2014,2016,5,Yes,No,No
+527,Georgia,State Representative,175,Amy Carter,REP,2012,2014,4,No,No,No
+528,Georgia,State Representative,175,Amy Carter,DEM,2010,2012,3,Yes,No,No
+529,Georgia,State Representative,176,Jason Slaton Shaw Jr.,REP,2014,2016,3,Yes,Yes,Yes
+530,Georgia,State Representative,176,Jason Slaton Shaw Jr.,REP,2012,2014,2,Yes,Yes,Yes
+531,Georgia,State Representative,176,Jason Slaton Shaw Jr.,REP,2010,2012,1,No,Yes,Yes
+532,Georgia,State Representative,177,Dexter Sharper,DEM,2014,2016,2,Yes,Yes,Yes
+533,Georgia,State Representative,177,Dexter Sharper,DEM,2012,2014,1,No,Yes,Yes
+534,Georgia,State Representative,177,John Mark Hatfield,REP,2010,2012,4,Yes,Yes,Yes
+535,Georgia,State Representative,178,Chad Chadwick Nimmer,REP,2014,2016,3,Yes,Yes,No
+536,Georgia,State Representative,178,Chad Chadwick Nimmer,REP,2012,2014,2,Yes,Yes,No
+537,Georgia,State Representative,178,Mark Williams,REP,2010,2012,3,Yes,Yes,No
+538,Georgia,State Representative,179,Alex Alexander Atwood,REP,2014,2016,3,Yes,Yes,Yes
+539,Georgia,State Representative,179,Alex Alexander Atwood,REP,2012,2014,2,Yes,Yes,Yes
+540,Georgia,State Representative,179,Alex Alexander Atwood,REP,2010,2012,1,No,Yes,Yes
+541,Georgia,State Representative,180,Jason Chauncey Spencer,REP,2014,2016,3,Yes,Yes,No
+542,Georgia,State Representative,180,Jason Chauncey Spencer,REP,2012,2014,2,Yes,Yes,No
+543,Georgia,State Representative,180,Jason Chauncey Spencer,REP,2010,2012,1,No,Yes,No
+544,Georgia,State Senator,1,Ben Watson,REP,2014,2016,1,Yes,Yes,Yes
+545,Georgia,State Senator,1,Buddy Leroy Carter,REP,2012,2014,2,Yes,Yes,Yes
+546,Georgia,State Senator,1,Buddy Leroy Carter,REP,2010,2012,1,No,Yes,Yes
+547,Georgia,State Senator,2,Lester Jackson III,DEM,2014,2016,4,Yes,Yes,Yes
+548,Georgia,State Senator,2,Lester Jackson III,DEM,2012,2014,3,Yes,Yes,Yes
+549,Georgia,State Senator,2,Lester Jackson III,DEM,2010,2012,2,No,Yes,Yes
+550,Georgia,State Senator,3,William Ligon Jr.,REP,2014,2016,3,Yes,Yes,Yes
+551,Georgia,State Senator,3,William Ligon Jr.,REP,2012,2014,2,Yes,Yes,Yes
+552,Georgia,State Senator,3,William Ligon Jr.,REP,2010,2012,1,No,Yes,Yes
+553,Georgia,State Senator,4,Jack Hill,REP,2014,2016,6,Yes,Yes,Yes
+554,Georgia,State Senator,4,Jack Hill,REP,2012,2014,5,Yes,Yes,Yes
+555,Georgia,State Senator,4,Jack Hill,REP,2010,2012,4,Yes,Yes,Yes
+556,Georgia,State Senator,5,Curt Thompson,DEM,2014,2016,6,Yes,No,Yes
+557,Georgia,State Senator,5,Curt Thompson,DEM,2012,2014,5,Yes,No,Yes
+558,Georgia,State Senator,5,Curt Thompson,DEM,2010,2012,4,No,No,Yes
+559,Georgia,State Senator,6,Hunter Hill,REP,2014,2016,2,No,Yes,No
+560,Georgia,State Senator,6,Hunter Hill,REP,2012,2014,1,No,Yes,No
+561,Georgia,State Senator,6,Doug Stoner,DEM,2010,2012,4,No,Yes,No
+562,Georgia,State Senator,7,Tyler Harper,REP,2014,2016,2,Yes,Yes,Yes
+563,Georgia,State Senator,7,Tyler Harper,REP,2012,2014,1,No,Yes,Yes
+564,Georgia,State Senator,7,Greg Goggans,REP,2010,2012,4,Yes,Yes,Yes
+565,Georgia,State Senator,8,Ellis Black,REP,2014,2016,1,No,Yes,Yes
+566,Georgia,State Senator,8,Tim Golden,REP,2012,2014,5,No,Yes,Yes
+567,Georgia,State Senator,8,Tim Golden,DEM,2010,2012,4,Yes,Yes,Yes
+568,Georgia,State Senator,9,K Martin IV,REP,2014,2016,1,No,Yes,Yes
+569,Georgia,State Senator,9,Donald Balfour II,REP,2012,2014,5,No,Yes,Yes
+570,Georgia,State Senator,9,Donald Balfour II,REP,2010,2012,4,No,Yes,Yes
+571,Georgia,State Senator,10,Emanuel Jones,DEM,2014,2016,6,Yes,Yes,Yes
+572,Georgia,State Senator,10,Emanuel Jones,DEM,2012,2014,5,Yes,Yes,Yes
+573,Georgia,State Senator,10,Emanuel Jones,DEM,2010,2012,4,Yes,Yes,Yes
+574,Georgia,State Senator,11,Kenneth Dean Burke,REP,2014,2016,1,Yes,Yes,Yes
+575,Georgia,State Senator,11,Kenneth Dean Burke,REP,2013,2014,0,No,Yes,Yes
+576,Georgia,State Senator,11,John Bulloch,REP,2012,2014,5,Yes,Yes,Yes
+577,Georgia,State Senator,11,John Bulloch,REP,2010,2012,4,Yes,Yes,Yes
+578,Georgia,State Senator,12,Freddie Powell Sims,DEM,2014,2016,4,Yes,Yes,Yes
+579,Georgia,State Senator,12,Freddie Powell Sims,DEM,2012,2014,3,Yes,Yes,Yes
+580,Georgia,State Senator,12,Freddie Powell Sims,DEM,2010,2012,2,Yes,Yes,Yes
+581,Georgia,State Senator,13,Greg Kirk,REP,2014,2016,1,Yes,Yes,Yes
+582,Georgia,State Senator,13,John Dickey Crosby,REP,2012,2014,3,Yes,Yes,Yes
+583,Georgia,State Senator,13,John Dickey Crosby,REP,2010,2012,2,Yes,Yes,Yes
+584,Georgia,State Senator,14,Bruce Thompson,REP,2014,2016,1,Yes,Yes,Yes
+585,Georgia,State Senator,14,Bruce Thompson,REP,2013,2014,0,No,Yes,Yes
+586,Georgia,State Senator,14,Barry Loudermilk,REP,2012,2014,1,Yes,Yes,Yes
+587,Georgia,State Senator,14,George Hooks,DEM,2010,2012,4,Yes,Yes,Yes
+588,Georgia,State Senator,15,Ed Harbison,DEM,2014,2016,6,Yes,Yes,Yes
+589,Georgia,State Senator,15,Ed Harbison,DEM,2012,2014,5,No,Yes,Yes
+590,Georgia,State Senator,15,Ed Harbison,DEM,2010,2012,4,Yes,Yes,Yes
+591,Georgia,State Senator,16,Marty Harbin,REP,2014,2016,1,No,Yes,No
+592,Georgia,State Senator,16,Ronnie Chance,REP,2012,2014,5,Yes,Yes,No
+593,Georgia,State Senator,16,Ronnie Chance,REP,2010,2012,4,Yes,Yes,No
+594,Georgia,State Senator,17,Rick Jeffares,REP,2014,2016,3,Yes,No,No
+595,Georgia,State Senator,17,Rick Jeffares,REP,2012,2014,2,No,No,No
+596,Georgia,State Senator,17,Rick Jeffares,REP,2010,2012,1,No,No,No
+597,Georgia,State Senator,18,John Kennedy,REP,2014,2016,1,Yes,Yes,Yes
+598,Georgia,State Senator,18,Cecil Staton,REP,2012,2014,5,Yes,Yes,Yes
+599,Georgia,State Senator,18,Cecil Staton,REP,2010,2012,4,Yes,Yes,Yes
+600,Georgia,State Senator,19,Tommie Williams,REP,2014,2016,6,Yes,Yes,Yes
+601,Georgia,State Senator,19,Tommie Williams,REP,2012,2014,5,Yes,Yes,Yes
+602,Georgia,State Senator,19,Tommie Williams,REP,2010,2012,4,Yes,Yes,Yes
+603,Georgia,State Senator,20,Larry Walker,REP,2015,2016,1,No,Yes,Yes
+604,Georgia,State Senator,20,Thorborn Ross Tolleson Jr.,REP,2012,2014,5,Yes,Yes,Yes
+605,Georgia,State Senator,20,Thorborn Ross Tolleson Jr.,REP,2010,2012,4,Yes,Yes,Yes
+606,Georgia,State Senator,21,Brandon Beach,REP,2014,2016,2,Yes,Yes,Yes
+607,Georgia,State Senator,21,Brandon Beach,REP,2013,2014,1,No,Yes,Yes
+608,Georgia,State Senator,21,Chip Rogers,REP,2012,2014,5,Yes,Yes,Yes
+609,Georgia,State Senator,21,Chip Rogers,REP,2010,2012,4,No,Yes,Yes
+610,Georgia,State Senator,22,Harold Jones II,DEM,2014,2016,1,No,Yes,Yes
+611,Georgia,State Senator,22,Hardie Davis,DEM,2012,2014,2,Yes,Yes,Yes
+612,Georgia,State Senator,22,Hardie Davis,DEM,2010,2012,1,Yes,Yes,Yes
+613,Georgia,State Senator,23,Jesse Stone,REP,2014,2016,3,No,Yes,Yes
+614,Georgia,State Senator,23,Jesse Stone,REP,2012,2014,2,No,Yes,Yes
+615,Georgia,State Senator,23,Jesse Stone,REP,2010,2012,1,Yes,Yes,Yes
+616,Georgia,State Senator,24,Bill Jackson,REP,2014,2016,4,No,Yes,Yes
+617,Georgia,State Senator,24,Bill Jackson,REP,2012,2014,3,Yes,Yes,Yes
+618,Georgia,State Senator,24,Bill Jackson,REP,2010,2012,2,Yes,Yes,Yes
+619,Georgia,State Senator,25,Burt Burton Jones,REP,2014,2016,2,Yes,Yes,Yes
+620,Georgia,State Senator,25,Burt Burton Jones,REP,2012,2014,1,No,Yes,Yes
+621,Georgia,State Senator,25,Johnny Grant,REP,2010,2012,4,No,Yes,Yes
+622,Georgia,State Senator,26,David Lucas Sr.,DEM,2014,2016,2,Yes,Yes,Yes
+623,Georgia,State Senator,26,David Lucas Sr.,DEM,2012,2014,1,No,Yes,Yes
+624,Georgia,State Senator,26,Miriam Lucas Paris,DEM,2011,2012,0,No,Yes,Yes
+625,Georgia,State Senator,26,Robert Brown,DEM,2010,2012,4,Yes,Yes,Yes
+626,Georgia,State Senator,27,Michael Williams,REP,2014,2016,1,No,Yes,No
+627,Georgia,State Senator,27,Jack Murphy,REP,2012,2014,4,Yes,Yes,No
+628,Georgia,State Senator,27,Jack Murphy,REP,2010,2012,3,Yes,Yes,No
+629,Georgia,State Senator,28,Mike Robert Crane,REP,2014,2016,2,No,Yes,Yes
+630,Georgia,State Senator,28,Mike Robert Crane,REP,2012,2014,1,Yes,Yes,Yes
+631,Georgia,State Senator,28,Mike Robert Crane,REP,2011,2012,0,No,Yes,Yes
+632,Georgia,State Senator,28,Mitch Seabaugh,REP,2010,2012,4,Yes,Yes,Yes
+633,Georgia,State Senator,29,Joshua Robert McKoon,REP,2014,2016,3,No,No,No
+634,Georgia,State Senator,29,Joshua Robert McKoon,REP,2012,2014,2,Yes,No,No
+635,Georgia,State Senator,29,Joshua Robert McKoon,REP,2010,2012,1,No,No,No
+636,Georgia,State Senator,30,Mike Dugan,REP,2014,2016,2,No,Yes,Yes
+637,Georgia,State Senator,30,Mike Dugan,REP,2013,2014,1,No,Yes,Yes
+638,Georgia,State Senator,30,Bill Hambrick III,REP,2010,2012,4,No,Yes,Yes
+639,Georgia,State Senator,31,Bill Donald Heath Jr.,REP,2014,2016,6,No,Yes,Yes
+640,Georgia,State Senator,31,Bill Donald Heath Jr.,REP,2012,2014,5,No,Yes,Yes
+641,Georgia,State Senator,31,Bill Donald Heath Jr.,REP,2010,2012,4,No,Yes,Yes
+642,Georgia,State Senator,32,Judson Hill,REP,2014,2016,6,Yes,Yes,Yes
+643,Georgia,State Senator,32,Judson Hill,REP,2012,2014,5,Yes,Yes,Yes
+644,Georgia,State Senator,32,Judson Hill,REP,2010,2012,4,Yes,Yes,Yes
+645,Georgia,State Senator,33,Doc Rhett,DEM,2014,2016,1,Yes,Yes,Yes
+646,Georgia,State Senator,33,Stephen Thompson,DEM,2012,2014,5,Yes,Yes,Yes
+647,Georgia,State Senator,33,Stephen Thompson,DEM,2010,2012,4,No,Yes,Yes
+648,Georgia,State Senator,34,Valencia Seay,DEM,2014,2016,6,Yes,No,Yes
+649,Georgia,State Senator,34,Valencia Seay,DEM,2012,2014,5,Yes,No,Yes
+650,Georgia,State Senator,34,Valencia Seay,DEM,2010,2012,4,No,No,Yes
+651,Georgia,State Senator,35,Donzella James,DEM,2014,2016,3,No,No,Yes
+652,Georgia,State Senator,35,Donzella James,DEM,2012,2014,2,Yes,No,Yes
+653,Georgia,State Senator,35,Donzella James,DEM,2010,2012,1,Yes,No,Yes
+654,Georgia,State Senator,36,Nan Grogan Orrock,DEM,2014,2016,5,Yes,Yes,Yes
+655,Georgia,State Senator,36,Nan Grogan Orrock,DEM,2012,2014,4,Yes,Yes,Yes
+656,Georgia,State Senator,36,Nan Grogan Orrock,DEM,2010,2012,3,Yes,Yes,Yes
+657,Georgia,State Senator,37,Lindsey Tippins,REP,2014,2016,3,Yes,Yes,Yes
+658,Georgia,State Senator,37,Lindsey Tippins,REP,2012,2014,2,Yes,Yes,Yes
+659,Georgia,State Senator,37,Lindsey Tippins,REP,2010,2012,1,Yes,Yes,Yes
+660,Georgia,State Senator,38,Horacena Tate,DEM,2014,2016,6,Yes,Yes,Yes
+661,Georgia,State Senator,38,Horacena Tate,DEM,2012,2014,5,Yes,Yes,Yes
+662,Georgia,State Senator,38,Horacena Tate,DEM,2010,2012,4,No,Yes,Yes
+663,Georgia,State Senator,39,Vincent Fort,DEM,2014,2016,6,No,Yes,Yes
+664,Georgia,State Senator,39,Vincent Fort,DEM,2012,2014,5,Yes,Yes,Yes
+665,Georgia,State Senator,39,Vincent Fort,DEM,2010,2012,4,Yes,Yes,Yes
+666,Georgia,State Senator,40,Francis Millar,REP,2014,2016,3,No,No,Yes
+667,Georgia,State Senator,40,Francis Millar,REP,2012,2014,2,Yes,No,Yes
+668,Georgia,State Senator,40,Francis Millar,REP,2010,2012,1,No,No,Yes
+669,Georgia,State Senator,41,Steve Bradley Henson,DEM,2014,2016,6,Yes,No,Yes
+670,Georgia,State Senator,41,Steve Bradley Henson,DEM,2012,2014,5,Yes,No,Yes
+671,Georgia,State Senator,41,Steve Bradley Henson,DEM,2010,2012,4,No,No,Yes
+672,Georgia,State Senator,42,Elena Parent,DEM,2014,2016,1,No,Yes,Yes
+673,Georgia,State Senator,42,Jason Carter,DEM,2012,2014,2,No,Yes,Yes
+674,Georgia,State Senator,42,Jason Carter,DEM,2010,2012,1,Yes,Yes,Yes
+675,Georgia,State Senator,43,Janice Frey Van Ness,REP,2015,2016,0,No,No,Yes
+676,Georgia,State Senator,43,Ronald Ramsey Sr.,DEM,2012,2014,4,Yes,No,Yes
+677,Georgia,State Senator,43,Ronald Ramsey Sr.,DEM,2010,2012,3,No,No,Yes
+678,Georgia,State Senator,44,Gail Paulette Davenport,DEM,2014,2016,3,Yes,No,Yes
+679,Georgia,State Senator,44,Gail Paulette Davenport,DEM,2012,2014,2,No,No,Yes
+680,Georgia,State Senator,44,Gail Paulette Davenport,DEM,2010,2012,1,Yes,No,Yes
+681,Georgia,State Senator,45,Renee Unterman,REP,2014,2016,6,Yes,Yes,Yes
+682,Georgia,State Senator,45,Renee Unterman,REP,2012,2014,5,Yes,Yes,Yes
+683,Georgia,State Senator,45,Renee Unterman,REP,2010,2012,4,Yes,Yes,Yes
+684,Georgia,State Senator,46,Bill Cowsert,REP,2014,2016,5,Yes,Yes,Yes
+685,Georgia,State Senator,46,Bill Cowsert,REP,2012,2014,4,Yes,Yes,Yes
+686,Georgia,State Senator,46,Bill Cowsert,REP,2010,2012,3,Yes,Yes,Yes
+687,Georgia,State Senator,47,Frank Joseph Ginn,REP,2014,2016,3,Yes,Yes,No
+688,Georgia,State Senator,47,Frank Joseph Ginn,REP,2012,2014,2,No,Yes,No
+689,Georgia,State Senator,47,Frank Joseph Ginn,REP,2010,2012,1,No,Yes,No
+690,Georgia,State Senator,48,David Shafer,REP,2014,2016,6,Yes,Yes,Yes
+691,Georgia,State Senator,48,David Shafer,REP,2012,2014,5,Yes,Yes,Yes
+692,Georgia,State Senator,48,David Shafer,REP,2010,2012,4,Yes,Yes,Yes
+693,Georgia,State Senator,49,Butch Terrell Miller,REP,2014,2016,3,Yes,Yes,Yes
+694,Georgia,State Senator,49,Butch Terrell Miller,REP,2012,2014,2,Yes,Yes,Yes
+695,Georgia,State Senator,49,Butch Terrell Miller,REP,2010,2012,1,Yes,Yes,Yes
+696,Georgia,State Senator,50,John Wilkinson,REP,2014,2016,2,Yes,Yes,Yes
+697,Georgia,State Senator,50,John Wilkinson,REP,2012,2014,1,Yes,Yes,Yes
+698,Georgia,State Senator,50,John Wilkinson,REP,2011,2012,0,No,Yes,Yes
+699,Georgia,State Senator,50,Jim Butterworth,REP,2010,2012,2,Yes,Yes,Yes
+700,Georgia,State Senator,51,Steve Gooch,REP,2014,2016,3,Yes,Yes,Yes
+701,Georgia,State Senator,51,Steve Gooch,REP,2012,2014,2,Yes,Yes,Yes
+702,Georgia,State Senator,51,Steve Gooch,REP,2010,2012,1,No,Yes,Yes
+703,Georgia,State Senator,52,Chuck Hufstetler,REP,2014,2016,2,Yes,Yes,Yes
+704,Georgia,State Senator,52,Chuck Hufstetler,REP,2012,2014,1,Yes,Yes,Yes
+705,Georgia,State Senator,52,Barry Loudermilk,REP,2010,2012,1,No,Yes,Yes
+706,Georgia,State Senator,53,Jeff Mullis,REP,2014,2016,6,Yes,Yes,Yes
+707,Georgia,State Senator,53,Jeff Mullis,REP,2012,2014,5,Yes,Yes,Yes
+708,Georgia,State Senator,53,Jeff Mullis,REP,2010,2012,4,Yes,Yes,Yes
+709,Georgia,State Senator,54,Charlie Bethel,REP,2014,2016,3,Yes,Yes,No
+710,Georgia,State Senator,54,Charlie Bethel,REP,2012,2014,2,Yes,Yes,No
+711,Georgia,State Senator,54,Charlie Bethel,REP,2010,2012,1,Yes,Yes,No
+712,Georgia,State Senator,55,Gloria Butler,DEM,2014,2016,6,Yes,Yes,Yes
+713,Georgia,State Senator,55,Gloria Butler,DEM,2012,2014,5,Yes,Yes,Yes
+714,Georgia,State Senator,55,Gloria Butler,DEM,2010,2012,4,Yes,Yes,Yes
+715,Georgia,State Senator,56,John Albers,REP,2014,2016,3,No,No,Yes
+716,Georgia,State Senator,56,John Albers,REP,2012,2014,2,No,No,Yes
+717,Georgia,State Senator,56,John Albers,REP,2010,2012,1,No,No,Yes
+718,Georgia,Superintendent Of Public Instruction,0,Richard Woods,REP,2014,2018,0,No,No,No
+719,Georgia,U.S. Representative,1,Buddy Leroy Carter,REP,2014,2016,1,No,No,Yes
+720,Georgia,U.S. Representative,1,Jack Kingston,REP,2012,2014,2,No,No,Yes
+721,Georgia,U.S. Representative,1,Jack Kingston,REP,2010,2012,1,No,No,Yes
+722,Georgia,U.S. Representative,2,Sanford Bishop Jr.,DEM,2014,2016,3,No,Yes,Yes
+723,Georgia,U.S. Representative,2,Sanford Bishop Jr.,DEM,2012,2014,2,No,Yes,Yes
+724,Georgia,U.S. Representative,2,Sanford Bishop Jr.,DEM,2010,2012,1,No,Yes,Yes
+725,Georgia,U.S. Representative,3,Lynn Westmoreland,REP,2014,2016,3,Yes,No,Yes
+726,Georgia,U.S. Representative,3,Lynn Westmoreland,REP,2012,2014,2,Yes,No,Yes
+727,Georgia,U.S. Representative,3,Lynn Westmoreland,REP,2010,2012,1,No,No,Yes
+728,Georgia,U.S. Representative,4,Hank Johnson,DEM,2014,2016,2,Yes,No,Yes
+729,Georgia,U.S. Representative,4,Hank Johnson,DEM,2012,2014,1,No,No,Yes
+730,Georgia,U.S. Representative,4,Hank Johnson Jr.,DEM,2010,2012,1,No,No,Yes
+731,Georgia,U.S. Representative,5,John Lewis,DEM,2014,2016,3,Yes,Yes,Yes
+732,Georgia,U.S. Representative,5,John Lewis,DEM,2012,2014,2,No,Yes,Yes
+733,Georgia,U.S. Representative,5,John Lewis,DEM,2010,2012,1,No,Yes,Yes
+734,Georgia,U.S. Representative,6,Tom Edmunds Price,REP,2014,2016,3,No,No,Yes
+735,Georgia,U.S. Representative,6,Tom Edmunds Price,REP,2012,2014,2,No,No,Yes
+736,Georgia,U.S. Representative,6,Tom Edmunds Price,REP,2010,2012,1,Yes,No,Yes
+737,Georgia,U.S. Representative,7,Rob Robert Woodall,REP,2014,2016,3,No,No,No
+738,Georgia,U.S. Representative,7,Rob Robert Woodall,REP,2012,2014,2,No,No,No
+739,Georgia,U.S. Representative,7,Rob Robert Woodall,REP,2010,2012,1,No,No,No
+740,Georgia,U.S. Representative,8,Austin Austin Scott,REP,2014,2016,3,Yes,Yes,Yes
+741,Georgia,U.S. Representative,8,Austin Austin Scott,REP,2012,2014,2,Yes,Yes,Yes
+742,Georgia,U.S. Representative,8,Austin Austin Scott,REP,2010,2012,1,No,Yes,Yes
+743,Georgia,U.S. Representative,9,Doug Collins,REP,2014,2016,2,No,No,Yes
+744,Georgia,U.S. Representative,9,Doug Collins,REP,2012,2014,1,No,No,Yes
+745,Georgia,U.S. Representative,9,Tom Thomas Graves Jr.,REP,2010,2012,1,No,No,Yes
+746,Georgia,U.S. Representative,10,Jody Brownlow Hice,REP,2014,2016,1,No,No,No
+747,Georgia,U.S. Representative,10,Paul Collins Broun,REP,2012,2014,2,Yes,No,No
+748,Georgia,U.S. Representative,10,Paul Collins Broun,REP,2010,2012,1,No,No,No
+749,Georgia,U.S. Representative,11,Barry Loudermilk,REP,2014,2016,1,No,Yes,Yes
+750,Georgia,U.S. Representative,11,Phil Phillip Gingrey,REP,2012,2014,2,No,Yes,Yes
+751,Georgia,U.S. Representative,11,Phil Phillip Gingrey,REP,2010,2012,1,Yes,Yes,Yes
+752,Georgia,U.S. Representative,12,Rick Allen,REP,2014,2016,1,No,No,No
+753,Georgia,U.S. Representative,12,John Barrow,DEM,2012,2014,2,No,No,No
+754,Georgia,U.S. Representative,12,John Barrow,DEM,2010,2012,1,No,No,No
+755,Georgia,U.S. Representative,13,David Scott,DEM,2014,2016,3,Yes,Yes,No
+756,Georgia,U.S. Representative,13,David Scott,DEM,2012,2014,2,No,Yes,No
+757,Georgia,U.S. Representative,13,David Scott,DEM,2010,2012,1,No,Yes,No
+758,Georgia,U.S. Representative,14,Tom Thomas Graves Jr.,REP,2014,2016,2,Yes,Yes,Yes
+759,Georgia,U.S. Representative,14,Tom Thomas Graves Jr.,REP,2012,2014,1,No,Yes,Yes
+760,Georgia,U.S. Senator,0,David Perdue,REP,2014,2020,0,No,Yes,Yes
+761,Georgia,U.S. Senator,0,Johnny Isakson,REP,2010,2016,0,No,Yes,Yes
+762,Georgia,U.S. Senator,0,David Perdue,REP,2014,2020,1,No,Yes,Yes
+763,Georgia,U.S. Senator,0,Johnny Isakson,REP,2010,2016,1,No,Yes,Yes

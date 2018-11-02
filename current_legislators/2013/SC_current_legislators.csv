@@ -1,7 +1,7 @@
 ,State,Position,District,Candidate,Party,Year Elected,Next Election,Number of Terms in Position,Unopposed in Last Election,DEM Unopposed in Primary,REP Unopposed in Primary
 0,South Carolina,Attorney General,0,Michael Alan Wilson,REP,2010,2014,0,No,Yes,No
 1,South Carolina,Comptroller,0,Richard Eckstrom,REP,2010,2014,0,No,Yes,Yes
-2,South Carolina,Governor,nan,Nikki Haley,REP,2010,2014,0,No,No,No
+2,South Carolina,Governor,0,Nikki Haley,REP,2010,2014,0,No,No,No
 3,South Carolina,Secretary Of State,0,John Mark Hammond,REP,2010,2014,0,No,Yes,No
 4,South Carolina,State Representative,1,Bill Whitmire,REP,2012,2014,6,No,Yes,Yes
 5,South Carolina,State Representative,1,Bill Whitmire,REP,2008,2010,4,Yes,Yes,Yes
@@ -352,3 +352,4 @@
 350,South Carolina,U.S. Representative,6,Jim Clyburn,DEM,2012,2014,2,No,Yes,Yes
 351,South Carolina,U.S. Representative,7,Tom Rice Jr.,REP,2012,2014,1,No,No,No
 352,South Carolina,U.S. Senator,0,Jim Demint,REP,2010,2016,0,No,Yes,Yes
+353,South Carolina,U.S. Senator,0,Jim Demint,REP,2010,2016,1,No,Yes,Yes

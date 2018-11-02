@@ -1,7 +1,7 @@
 ,State,Position,District,Candidate,Party,Year Elected,Next Election,Number of Terms in Position,Unopposed in Last Election,DEM Unopposed in Primary,REP Unopposed in Primary
 0,Georgia,Attorney General,0,Samuel Olens,REP,2014,2018,0,No,Yes,Yes
 1,Georgia,Governor,0,Nathan Deal,REP,2014,2018,0,No,No,No
-2,Georgia,Lieutenant Governor,nan,Casey Cagle,REP,2014,2018,0,No,No,No
+2,Georgia,Lieutenant Governor,0,Casey Cagle,REP,2014,2018,0,No,No,No
 3,Georgia,Secretary Of State,0,Brian Kemp,REP,2014,2018,0,No,No,No
 4,Georgia,State Representative,1,John Deffenbaugh,REP,2016,2018,3,Yes,Yes,No
 5,Georgia,State Representative,1,John Deffenbaugh,REP,2012,2014,1,No,Yes,No
@@ -418,97 +418,99 @@
 416,Georgia,State Senator,25,Burt Burton Jones,REP,2012,2014,1,No,Yes,Yes
 417,Georgia,State Senator,26,David Lucas Sr.,DEM,2016,2018,3,Yes,Yes,Yes
 418,Georgia,State Senator,26,David Lucas Sr.,DEM,2012,2014,1,No,Yes,Yes
-510,Georgia,State Senator,26,Miriam Lucas Paris,DEM,2011,2012,0,No,Yes,Yes
-419,Georgia,State Senator,27,Michael Williams,REP,2016,2018,2,No,Yes,No
-420,Georgia,State Senator,27,Jack Murphy,REP,2012,2014,4,Yes,Yes,No
-421,Georgia,State Senator,28,Matt Brass,REP,2016,2018,1,Yes,Yes,Yes
-422,Georgia,State Senator,28,Mike Robert Crane,REP,2012,2014,1,Yes,Yes,Yes
-511,Georgia,State Senator,28,Mike Robert Crane,REP,2011,2012,0,No,Yes,Yes
-423,Georgia,State Senator,29,Joshua Robert McKoon,REP,2016,2018,4,No,No,No
-424,Georgia,State Senator,29,Joshua Robert McKoon,REP,2012,2014,2,Yes,No,No
-425,Georgia,State Senator,30,Mike Dugan,REP,2016,2018,3,Yes,Yes,Yes
-426,Georgia,State Senator,30,Mike Dugan,REP,2013,2014,1,No,Yes,Yes
-427,Georgia,State Senator,31,Bill Donald Heath Jr.,REP,2016,2018,7,Yes,Yes,Yes
-428,Georgia,State Senator,31,Bill Donald Heath Jr.,REP,2012,2014,5,No,Yes,Yes
-429,Georgia,State Senator,32,Judson Hill,REP,2016,2018,7,Yes,Yes,Yes
-430,Georgia,State Senator,32,Judson Hill,REP,2012,2014,5,Yes,Yes,Yes
-431,Georgia,State Senator,33,Doc Rhett,DEM,2016,2018,2,Yes,Yes,Yes
-432,Georgia,State Senator,33,Stephen Thompson,DEM,2012,2014,5,Yes,Yes,Yes
-433,Georgia,State Senator,34,Valencia Seay,DEM,2016,2018,7,Yes,No,Yes
-434,Georgia,State Senator,34,Valencia Seay,DEM,2012,2014,5,Yes,No,Yes
-435,Georgia,State Senator,35,Donzella James,DEM,2016,2018,4,Yes,No,Yes
-436,Georgia,State Senator,35,Donzella James,DEM,2012,2014,2,Yes,No,Yes
-437,Georgia,State Senator,36,Nan Grogan Orrock,DEM,2016,2018,6,Yes,Yes,Yes
-438,Georgia,State Senator,36,Nan Grogan Orrock,DEM,2012,2014,4,Yes,Yes,Yes
-439,Georgia,State Senator,37,Lindsey Tippins,REP,2016,2018,4,Yes,Yes,Yes
-440,Georgia,State Senator,37,Lindsey Tippins,REP,2012,2014,2,Yes,Yes,Yes
-441,Georgia,State Senator,38,Horacena Tate,DEM,2016,2018,7,No,Yes,Yes
-442,Georgia,State Senator,38,Horacena Tate,DEM,2012,2014,5,Yes,Yes,Yes
-443,Georgia,State Senator,39,Vincent Fort,DEM,2016,2018,7,Yes,Yes,Yes
-444,Georgia,State Senator,39,Vincent Fort,DEM,2012,2014,5,Yes,Yes,Yes
-445,Georgia,State Senator,40,Francis Millar,REP,2016,2018,4,No,No,Yes
-446,Georgia,State Senator,40,Francis Millar,REP,2012,2014,2,Yes,No,Yes
-447,Georgia,State Senator,41,Steve Bradley Henson,DEM,2016,2018,7,Yes,No,Yes
-448,Georgia,State Senator,41,Steve Bradley Henson,DEM,2012,2014,5,Yes,No,Yes
-449,Georgia,State Senator,42,Elena Parent,DEM,2016,2018,2,No,Yes,Yes
-450,Georgia,State Senator,42,Jason Carter,DEM,2012,2014,2,No,Yes,Yes
-451,Georgia,State Senator,43,Tonya Anderson,DEM,2016,2018,1,No,No,Yes
-452,Georgia,State Senator,43,Ronald Ramsey Sr.,DEM,2012,2014,4,Yes,No,Yes
-453,Georgia,State Senator,44,Gail Paulette Davenport,DEM,2016,2018,4,Yes,No,Yes
-454,Georgia,State Senator,44,Gail Paulette Davenport,DEM,2012,2014,2,No,No,Yes
-455,Georgia,State Senator,45,Renee Unterman,REP,2016,2018,7,Yes,Yes,Yes
-456,Georgia,State Senator,45,Renee Unterman,REP,2012,2014,5,Yes,Yes,Yes
-457,Georgia,State Senator,46,Bill Cowsert,REP,2016,2018,6,Yes,Yes,Yes
-458,Georgia,State Senator,46,Bill Cowsert,REP,2012,2014,4,Yes,Yes,Yes
-459,Georgia,State Senator,47,Frank Joseph Ginn,REP,2016,2018,4,Yes,Yes,No
-460,Georgia,State Senator,47,Frank Joseph Ginn,REP,2012,2014,2,No,Yes,No
-461,Georgia,State Senator,48,David Shafer,REP,2016,2018,7,Yes,Yes,Yes
-462,Georgia,State Senator,48,David Shafer,REP,2012,2014,5,Yes,Yes,Yes
-463,Georgia,State Senator,49,Butch Terrell Miller,REP,2016,2018,4,Yes,Yes,Yes
-464,Georgia,State Senator,49,Butch Terrell Miller,REP,2012,2014,2,Yes,Yes,Yes
-465,Georgia,State Senator,50,John Wilkinson,REP,2016,2018,3,Yes,Yes,Yes
-466,Georgia,State Senator,50,John Wilkinson,REP,2012,2014,1,Yes,Yes,Yes
-512,Georgia,State Senator,50,John Wilkinson,REP,2011,2012,0,No,Yes,Yes
-467,Georgia,State Senator,51,Steve Gooch,REP,2016,2018,4,Yes,Yes,Yes
-468,Georgia,State Senator,51,Steve Gooch,REP,2012,2014,2,Yes,Yes,Yes
-469,Georgia,State Senator,52,Chuck Hufstetler,REP,2016,2018,3,Yes,Yes,Yes
-470,Georgia,State Senator,52,Chuck Hufstetler,REP,2012,2014,1,Yes,Yes,Yes
-471,Georgia,State Senator,53,Jeff Mullis,REP,2016,2018,7,Yes,Yes,Yes
-472,Georgia,State Senator,53,Jeff Mullis,REP,2012,2014,5,Yes,Yes,Yes
-473,Georgia,State Senator,54,Charlie Bethel,REP,2016,2018,4,No,Yes,No
-474,Georgia,State Senator,54,Charlie Bethel,REP,2012,2014,2,Yes,Yes,No
-475,Georgia,State Senator,55,Gloria Butler,DEM,2016,2018,7,No,Yes,Yes
-476,Georgia,State Senator,55,Gloria Butler,DEM,2012,2014,5,Yes,Yes,Yes
-477,Georgia,State Senator,56,John Albers,REP,2016,2018,4,No,No,Yes
-478,Georgia,State Senator,56,John Albers,REP,2012,2014,2,No,No,Yes
-479,Georgia,Superintendent Of Public Instruction,0,Richard Woods,REP,2014,2018,0,No,No,No
-480,Georgia,U.S. Representative,1,Buddy Leroy Carter,REP,2016,2018,2,Yes,No,Yes
-481,Georgia,U.S. Representative,1,Jack Kingston,REP,2012,2014,2,No,No,Yes
-482,Georgia,U.S. Representative,2,Sanford Bishop Jr.,DEM,2016,2018,4,No,Yes,Yes
-483,Georgia,U.S. Representative,2,Sanford Bishop Jr.,DEM,2012,2014,2,No,Yes,Yes
-484,Georgia,U.S. Representative,3,Drew Ferguson IV,REP,2016,2018,1,No,No,Yes
-485,Georgia,U.S. Representative,3,Lynn Westmoreland,REP,2012,2014,2,Yes,No,Yes
-486,Georgia,U.S. Representative,4,Hank Johnson,DEM,2016,2018,3,No,No,Yes
-487,Georgia,U.S. Representative,4,Hank Johnson,DEM,2012,2014,1,No,No,Yes
-488,Georgia,U.S. Representative,5,John Lewis,DEM,2016,2018,4,No,Yes,Yes
-489,Georgia,U.S. Representative,5,John Lewis,DEM,2012,2014,2,No,Yes,Yes
-490,Georgia,U.S. Representative,6,Tom Edmunds Price,REP,2016,2018,4,No,No,Yes
-491,Georgia,U.S. Representative,6,Tom Edmunds Price,REP,2012,2014,2,No,No,Yes
-492,Georgia,U.S. Representative,7,Rob Robert Woodall,REP,2016,2018,4,No,No,No
-493,Georgia,U.S. Representative,7,Rob Robert Woodall,REP,2012,2014,2,No,No,No
-494,Georgia,U.S. Representative,8,Austin Austin Scott,REP,2016,2018,4,No,Yes,Yes
-495,Georgia,U.S. Representative,8,Austin Austin Scott,REP,2012,2014,2,Yes,Yes,Yes
-496,Georgia,U.S. Representative,9,Doug Collins,REP,2016,2018,3,Yes,No,Yes
-497,Georgia,U.S. Representative,9,Doug Collins,REP,2012,2014,1,No,No,Yes
-498,Georgia,U.S. Representative,10,Jody Brownlow Hice,REP,2016,2018,2,Yes,No,No
-499,Georgia,U.S. Representative,10,Paul Collins Broun,REP,2012,2014,2,Yes,No,No
-500,Georgia,U.S. Representative,11,Barry Loudermilk,REP,2016,2018,2,No,Yes,Yes
-501,Georgia,U.S. Representative,11,Phil Phillip Gingrey,REP,2012,2014,2,No,Yes,Yes
-502,Georgia,U.S. Representative,12,Rick Allen,REP,2016,2018,2,No,No,No
-503,Georgia,U.S. Representative,12,John Barrow,DEM,2012,2014,2,No,No,No
-504,Georgia,U.S. Representative,13,David Scott,DEM,2016,2018,4,Yes,Yes,No
-505,Georgia,U.S. Representative,13,David Scott,DEM,2012,2014,2,No,Yes,No
-506,Georgia,U.S. Representative,14,Tom Thomas Graves Jr.,REP,2016,2018,3,Yes,Yes,Yes
-507,Georgia,U.S. Representative,14,Tom Thomas Graves Jr.,REP,2012,2014,1,No,Yes,Yes
-508,Georgia,U.S. Senator,0,Johnny Isakson,REP,2016,2022,0,No,Yes,Yes
-509,Georgia,U.S. Senator,0,David Perdue,REP,2014,2020,0,No,Yes,Yes
+419,Georgia,State Senator,26,Miriam Lucas Paris,DEM,2011,2012,0,No,Yes,Yes
+420,Georgia,State Senator,27,Michael Williams,REP,2016,2018,2,No,Yes,No
+421,Georgia,State Senator,27,Jack Murphy,REP,2012,2014,4,Yes,Yes,No
+422,Georgia,State Senator,28,Matt Brass,REP,2016,2018,1,Yes,Yes,Yes
+423,Georgia,State Senator,28,Mike Robert Crane,REP,2012,2014,1,Yes,Yes,Yes
+424,Georgia,State Senator,28,Mike Robert Crane,REP,2011,2012,0,No,Yes,Yes
+425,Georgia,State Senator,29,Joshua Robert McKoon,REP,2016,2018,4,No,No,No
+426,Georgia,State Senator,29,Joshua Robert McKoon,REP,2012,2014,2,Yes,No,No
+427,Georgia,State Senator,30,Mike Dugan,REP,2016,2018,3,Yes,Yes,Yes
+428,Georgia,State Senator,30,Mike Dugan,REP,2013,2014,1,No,Yes,Yes
+429,Georgia,State Senator,31,Bill Donald Heath Jr.,REP,2016,2018,7,Yes,Yes,Yes
+430,Georgia,State Senator,31,Bill Donald Heath Jr.,REP,2012,2014,5,No,Yes,Yes
+431,Georgia,State Senator,32,Judson Hill,REP,2016,2018,7,Yes,Yes,Yes
+432,Georgia,State Senator,32,Judson Hill,REP,2012,2014,5,Yes,Yes,Yes
+433,Georgia,State Senator,33,Doc Rhett,DEM,2016,2018,2,Yes,Yes,Yes
+434,Georgia,State Senator,33,Stephen Thompson,DEM,2012,2014,5,Yes,Yes,Yes
+435,Georgia,State Senator,34,Valencia Seay,DEM,2016,2018,7,Yes,No,Yes
+436,Georgia,State Senator,34,Valencia Seay,DEM,2012,2014,5,Yes,No,Yes
+437,Georgia,State Senator,35,Donzella James,DEM,2016,2018,4,Yes,No,Yes
+438,Georgia,State Senator,35,Donzella James,DEM,2012,2014,2,Yes,No,Yes
+439,Georgia,State Senator,36,Nan Grogan Orrock,DEM,2016,2018,6,Yes,Yes,Yes
+440,Georgia,State Senator,36,Nan Grogan Orrock,DEM,2012,2014,4,Yes,Yes,Yes
+441,Georgia,State Senator,37,Lindsey Tippins,REP,2016,2018,4,Yes,Yes,Yes
+442,Georgia,State Senator,37,Lindsey Tippins,REP,2012,2014,2,Yes,Yes,Yes
+443,Georgia,State Senator,38,Horacena Tate,DEM,2016,2018,7,No,Yes,Yes
+444,Georgia,State Senator,38,Horacena Tate,DEM,2012,2014,5,Yes,Yes,Yes
+445,Georgia,State Senator,39,Vincent Fort,DEM,2016,2018,7,Yes,Yes,Yes
+446,Georgia,State Senator,39,Vincent Fort,DEM,2012,2014,5,Yes,Yes,Yes
+447,Georgia,State Senator,40,Francis Millar,REP,2016,2018,4,No,No,Yes
+448,Georgia,State Senator,40,Francis Millar,REP,2012,2014,2,Yes,No,Yes
+449,Georgia,State Senator,41,Steve Bradley Henson,DEM,2016,2018,7,Yes,No,Yes
+450,Georgia,State Senator,41,Steve Bradley Henson,DEM,2012,2014,5,Yes,No,Yes
+451,Georgia,State Senator,42,Elena Parent,DEM,2016,2018,2,No,Yes,Yes
+452,Georgia,State Senator,42,Jason Carter,DEM,2012,2014,2,No,Yes,Yes
+453,Georgia,State Senator,43,Tonya Anderson,DEM,2016,2018,1,No,No,Yes
+454,Georgia,State Senator,43,Ronald Ramsey Sr.,DEM,2012,2014,4,Yes,No,Yes
+455,Georgia,State Senator,44,Gail Paulette Davenport,DEM,2016,2018,4,Yes,No,Yes
+456,Georgia,State Senator,44,Gail Paulette Davenport,DEM,2012,2014,2,No,No,Yes
+457,Georgia,State Senator,45,Renee Unterman,REP,2016,2018,7,Yes,Yes,Yes
+458,Georgia,State Senator,45,Renee Unterman,REP,2012,2014,5,Yes,Yes,Yes
+459,Georgia,State Senator,46,Bill Cowsert,REP,2016,2018,6,Yes,Yes,Yes
+460,Georgia,State Senator,46,Bill Cowsert,REP,2012,2014,4,Yes,Yes,Yes
+461,Georgia,State Senator,47,Frank Joseph Ginn,REP,2016,2018,4,Yes,Yes,No
+462,Georgia,State Senator,47,Frank Joseph Ginn,REP,2012,2014,2,No,Yes,No
+463,Georgia,State Senator,48,David Shafer,REP,2016,2018,7,Yes,Yes,Yes
+464,Georgia,State Senator,48,David Shafer,REP,2012,2014,5,Yes,Yes,Yes
+465,Georgia,State Senator,49,Butch Terrell Miller,REP,2016,2018,4,Yes,Yes,Yes
+466,Georgia,State Senator,49,Butch Terrell Miller,REP,2012,2014,2,Yes,Yes,Yes
+467,Georgia,State Senator,50,John Wilkinson,REP,2016,2018,3,Yes,Yes,Yes
+468,Georgia,State Senator,50,John Wilkinson,REP,2012,2014,1,Yes,Yes,Yes
+469,Georgia,State Senator,50,John Wilkinson,REP,2011,2012,0,No,Yes,Yes
+470,Georgia,State Senator,51,Steve Gooch,REP,2016,2018,4,Yes,Yes,Yes
+471,Georgia,State Senator,51,Steve Gooch,REP,2012,2014,2,Yes,Yes,Yes
+472,Georgia,State Senator,52,Chuck Hufstetler,REP,2016,2018,3,Yes,Yes,Yes
+473,Georgia,State Senator,52,Chuck Hufstetler,REP,2012,2014,1,Yes,Yes,Yes
+474,Georgia,State Senator,53,Jeff Mullis,REP,2016,2018,7,Yes,Yes,Yes
+475,Georgia,State Senator,53,Jeff Mullis,REP,2012,2014,5,Yes,Yes,Yes
+476,Georgia,State Senator,54,Charlie Bethel,REP,2016,2018,4,No,Yes,No
+477,Georgia,State Senator,54,Charlie Bethel,REP,2012,2014,2,Yes,Yes,No
+478,Georgia,State Senator,55,Gloria Butler,DEM,2016,2018,7,No,Yes,Yes
+479,Georgia,State Senator,55,Gloria Butler,DEM,2012,2014,5,Yes,Yes,Yes
+480,Georgia,State Senator,56,John Albers,REP,2016,2018,4,No,No,Yes
+481,Georgia,State Senator,56,John Albers,REP,2012,2014,2,No,No,Yes
+482,Georgia,Superintendent Of Public Instruction,0,Richard Woods,REP,2014,2018,0,No,No,No
+483,Georgia,U.S. Representative,1,Buddy Leroy Carter,REP,2016,2018,2,Yes,No,Yes
+484,Georgia,U.S. Representative,1,Jack Kingston,REP,2012,2014,2,No,No,Yes
+485,Georgia,U.S. Representative,2,Sanford Bishop Jr.,DEM,2016,2018,4,No,Yes,Yes
+486,Georgia,U.S. Representative,2,Sanford Bishop Jr.,DEM,2012,2014,2,No,Yes,Yes
+487,Georgia,U.S. Representative,3,Drew Ferguson IV,REP,2016,2018,1,No,No,Yes
+488,Georgia,U.S. Representative,3,Lynn Westmoreland,REP,2012,2014,2,Yes,No,Yes
+489,Georgia,U.S. Representative,4,Hank Johnson,DEM,2016,2018,3,No,No,Yes
+490,Georgia,U.S. Representative,4,Hank Johnson,DEM,2012,2014,1,No,No,Yes
+491,Georgia,U.S. Representative,5,John Lewis,DEM,2016,2018,4,No,Yes,Yes
+492,Georgia,U.S. Representative,5,John Lewis,DEM,2012,2014,2,No,Yes,Yes
+493,Georgia,U.S. Representative,6,Tom Edmunds Price,REP,2016,2018,4,No,No,Yes
+494,Georgia,U.S. Representative,6,Tom Edmunds Price,REP,2012,2014,2,No,No,Yes
+495,Georgia,U.S. Representative,7,Rob Robert Woodall,REP,2016,2018,4,No,No,No
+496,Georgia,U.S. Representative,7,Rob Robert Woodall,REP,2012,2014,2,No,No,No
+497,Georgia,U.S. Representative,8,Austin Austin Scott,REP,2016,2018,4,No,Yes,Yes
+498,Georgia,U.S. Representative,8,Austin Austin Scott,REP,2012,2014,2,Yes,Yes,Yes
+499,Georgia,U.S. Representative,9,Doug Collins,REP,2016,2018,3,Yes,No,Yes
+500,Georgia,U.S. Representative,9,Doug Collins,REP,2012,2014,1,No,No,Yes
+501,Georgia,U.S. Representative,10,Jody Brownlow Hice,REP,2016,2018,2,Yes,No,No
+502,Georgia,U.S. Representative,10,Paul Collins Broun,REP,2012,2014,2,Yes,No,No
+503,Georgia,U.S. Representative,11,Barry Loudermilk,REP,2016,2018,2,No,Yes,Yes
+504,Georgia,U.S. Representative,11,Phil Phillip Gingrey,REP,2012,2014,2,No,Yes,Yes
+505,Georgia,U.S. Representative,12,Rick Allen,REP,2016,2018,2,No,No,No
+506,Georgia,U.S. Representative,12,John Barrow,DEM,2012,2014,2,No,No,No
+507,Georgia,U.S. Representative,13,David Scott,DEM,2016,2018,4,Yes,Yes,No
+508,Georgia,U.S. Representative,13,David Scott,DEM,2012,2014,2,No,Yes,No
+509,Georgia,U.S. Representative,14,Tom Thomas Graves Jr.,REP,2016,2018,3,Yes,Yes,Yes
+510,Georgia,U.S. Representative,14,Tom Thomas Graves Jr.,REP,2012,2014,1,No,Yes,Yes
+511,Georgia,U.S. Senator,0,Johnny Isakson,REP,2016,2022,0,No,Yes,Yes
+512,Georgia,U.S. Senator,0,David Perdue,REP,2014,2020,0,No,Yes,Yes
+513,Georgia,U.S. Senator,0,Johnny Isakson,REP,2016,2022,1,No,Yes,Yes
+514,Georgia,U.S. Senator,0,David Perdue,REP,2014,2020,1,No,Yes,Yes

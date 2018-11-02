@@ -1,431 +1,432 @@
 ,State,Position,District,Candidate,Party,Year Elected,Next Election,Number of Terms in Position,Unopposed in Last Election,DEM Unopposed in Primary,REP Unopposed in Primary
 0,South Carolina,Attorney General,0,Michael Alan Wilson,REP,2010,2014,0,No,Yes,No
 1,South Carolina,Comptroller,0,Richard Eckstrom,REP,2010,2014,0,No,Yes,Yes
-2,South Carolina,Governor,nan,Nikki Haley,REP,2010,2014,0,No,No,No
+2,South Carolina,Governor,0,Nikki Haley,REP,2010,2014,0,No,No,No
 3,South Carolina,Secretary Of State,0,John Mark Hammond,REP,2010,2014,0,No,Yes,No
 4,South Carolina,State Representative,1,Bill Whitmire,REP,2010,2012,5,Yes,Yes,Yes
 5,South Carolina,State Representative,1,Bill Whitmire,REP,2008,2010,4,Yes,Yes,Yes
-306,South Carolina,State Representative,1,Bill Whitmire,REP,2006,2008,3,No,Yes,Yes
-6,South Carolina,State Representative,2,Bill Sandifer III,REP,2010,2012,6,Yes,Yes,Yes
-7,South Carolina,State Representative,2,Bill Sandifer III,REP,2008,2010,5,Yes,Yes,Yes
-342,South Carolina,State Representative,2,Bill Sandifer III,REP,2006,2008,4,Yes,Yes,Yes
-8,South Carolina,State Representative,3,R Skelton,REP,2010,2012,5,Yes,Yes,Yes
-9,South Carolina,State Representative,3,R Skelton,REP,2008,2010,4,No,Yes,Yes
-353,South Carolina,State Representative,3,R Skelton,REP,2006,2008,3,Yes,Yes,Yes
-10,South Carolina,State Representative,4,Davey Hiott,REP,2010,2012,4,Yes,Yes,No
-11,South Carolina,State Representative,4,Davey Hiott,REP,2008,2010,3,Yes,Yes,No
-364,South Carolina,State Representative,4,Davey Hiott,REP,2006,2008,2,Yes,Yes,No
-12,South Carolina,State Representative,5,Phillip Owens,REP,2010,2012,5,Yes,Yes,No
-13,South Carolina,State Representative,5,Phillip Owens,REP,2008,2010,4,Yes,Yes,No
-375,South Carolina,State Representative,5,Phillip Owens,REP,2006,2008,3,Yes,Yes,No
-14,South Carolina,State Representative,6,Brian Keith White,REP,2010,2012,6,Yes,Yes,No
-15,South Carolina,State Representative,6,Brian Keith White,REP,2008,2010,5,Yes,Yes,No
-386,South Carolina,State Representative,6,Brian Keith White,REP,2006,2008,4,Yes,Yes,No
-16,South Carolina,State Representative,7,Mike Gambrell,REP,2010,2012,3,Yes,Yes,No
-17,South Carolina,State Representative,7,Mike Gambrell,REP,2008,2010,2,No,Yes,No
-397,South Carolina,State Representative,7,Mike Gambrell,REP,2006,2008,1,No,Yes,No
-18,South Carolina,State Representative,8,Don Bowen,REP,2010,2012,3,No,Yes,No
-19,South Carolina,State Representative,8,Don Bowen,REP,2008,2010,2,No,Yes,No
-408,South Carolina,State Representative,8,Don Bowen,REP,2006,2008,1,No,Yes,No
-20,South Carolina,State Representative,9,Anne Thayer,REP,2010,2012,1,No,Yes,Yes
-21,South Carolina,State Representative,9,Michael Thompson,REP,2008,2010,5,Yes,Yes,Yes
-419,South Carolina,State Representative,9,Michael Thompson,REP,2006,2008,4,Yes,Yes,Yes
-22,South Carolina,State Representative,10,Daniel Cooper,REP,2010,2012,6,No,Yes,Yes
-23,South Carolina,State Representative,10,Daniel Cooper,REP,2008,2010,5,Yes,Yes,Yes
-307,South Carolina,State Representative,10,Daniel Cooper,REP,2006,2008,4,Yes,Yes,Yes
-24,South Carolina,State Representative,11,Paul Agnew,DEM,2010,2012,4,Yes,Yes,No
-25,South Carolina,State Representative,11,Paul Agnew,DEM,2008,2010,3,Yes,Yes,No
-318,South Carolina,State Representative,11,Paul Agnew,DEM,2006,2008,2,Yes,Yes,No
-26,South Carolina,State Representative,12,Anne Parks,DEM,2010,2012,6,No,Yes,Yes
-27,South Carolina,State Representative,12,Anne Parks,DEM,2008,2010,5,Yes,Yes,Yes
-329,South Carolina,State Representative,12,Anne Parks,DEM,2006,2008,4,No,Yes,Yes
-28,South Carolina,State Representative,13,Gene Pinson,REP,2010,2012,5,No,Yes,Yes
-29,South Carolina,State Representative,13,Gene Pinson,REP,2008,2010,4,Yes,Yes,Yes
-335,South Carolina,State Representative,13,Gene Pinson,REP,2006,2008,3,Yes,Yes,Yes
-30,South Carolina,State Representative,14,Mike Pitts,REP,2010,2012,5,No,Yes,Yes
-31,South Carolina,State Representative,14,Mike Pitts,REP,2008,2010,4,Yes,Yes,Yes
-336,South Carolina,State Representative,14,Mike Pitts,REP,2006,2008,3,Yes,Yes,Yes
-32,South Carolina,State Representative,15,David Tribble Jr.,REP,2010,2012,1,Yes,Yes,No
-33,South Carolina,State Representative,15,Jeff Duncan,REP,2008,2010,4,Yes,Yes,No
-337,South Carolina,State Representative,15,Jeff Duncan,REP,2006,2008,3,No,Yes,No
-34,South Carolina,State Representative,16,Mark Willis,REP,2010,2012,2,Yes,Yes,Yes
-35,South Carolina,State Representative,16,Mark Willis,REP,2008,2010,1,No,Yes,Yes
-338,South Carolina,State Representative,16,John Adam Taylor,REP,2006,2008,4,Yes,Yes,Yes
-36,South Carolina,State Representative,17,Tom Corbin,REP,2010,2012,1,No,Yes,No
-37,South Carolina,State Representative,17,Harry Cato,REP,2008,2010,5,Yes,Yes,No
-339,South Carolina,State Representative,17,Harry Cato,REP,2006,2008,4,Yes,Yes,No
-38,South Carolina,State Representative,18,Tommy Stringer,REP,2010,2012,2,No,Yes,No
-39,South Carolina,State Representative,18,Tommy Stringer,REP,2008,2010,1,Yes,Yes,No
-340,South Carolina,State Representative,18,Phil Shoopman,REP,2006,2008,1,No,Yes,No
-40,South Carolina,State Representative,19,Dwight Loftis,REP,2010,2012,6,Yes,No,Yes
-41,South Carolina,State Representative,19,Dwight Loftis,REP,2008,2010,5,Yes,No,Yes
-341,South Carolina,State Representative,19,Dwight Loftis,REP,2006,2008,4,Yes,No,Yes
-42,South Carolina,State Representative,20,Dan Hamilton,REP,2010,2012,2,No,Yes,No
-43,South Carolina,State Representative,20,Dan Hamilton,REP,2008,2010,1,Yes,Yes,No
-343,South Carolina,State Representative,20,Glenn Hamilton,REP,2006,2008,4,Yes,Yes,No
-44,South Carolina,State Representative,21,William Wylie,REP,2008,2010,1,Yes,Yes,No
-344,South Carolina,State Representative,21,Robert Leach,REP,2006,2008,4,Yes,Yes,No
-45,South Carolina,State Representative,22,Wendy Nanney,REP,2010,2012,2,No,Yes,No
-46,South Carolina,State Representative,22,Wendy Nanney,REP,2008,2010,1,Yes,Yes,No
-345,South Carolina,State Representative,22,Gloria Arias Haskins,REP,2006,2008,3,Yes,Yes,No
-47,South Carolina,State Representative,23,Chandra Dillard,DEM,2010,2012,2,No,Yes,Yes
-48,South Carolina,State Representative,23,Chandra Dillard,DEM,2008,2010,1,No,Yes,Yes
-346,South Carolina,State Representative,23,Fletcher Smith Jr.,DEM,2006,2008,4,Yes,Yes,Yes
-49,South Carolina,State Representative,24,Bruce Bannister,REP,2010,2012,3,No,Yes,Yes
-50,South Carolina,State Representative,24,Bruce Bannister,REP,2008,2010,2,Yes,Yes,Yes
-347,South Carolina,State Representative,24,Bruce Bannister,REP,2006,2008,1,Yes,Yes,Yes
-51,South Carolina,State Representative,25,Karl Allen,DEM,2010,2012,6,Yes,No,Yes
-52,South Carolina,State Representative,25,Karl Allen,DEM,2008,2010,5,No,No,Yes
-348,South Carolina,State Representative,25,Karl Allen,DEM,2006,2008,4,Yes,No,Yes
-53,South Carolina,State Representative,26,Eric Bikas,REP,2010,2012,1,No,Yes,Yes
-54,South Carolina,State Representative,26,Rex Fontaine Rice,REP,2008,2010,5,Yes,Yes,Yes
-349,South Carolina,State Representative,26,Rex Fontaine Rice,REP,2006,2008,4,Yes,Yes,Yes
-55,South Carolina,State Representative,27,Garry Smith,REP,2010,2012,4,No,Yes,No
-56,South Carolina,State Representative,27,Garry Smith,REP,2008,2010,3,Yes,Yes,No
-350,South Carolina,State Representative,27,Garry Smith,REP,2006,2008,2,Yes,Yes,No
-57,South Carolina,State Representative,28,Eric Bedingfield,REP,2010,2012,3,No,Yes,No
-58,South Carolina,State Representative,28,Eric Bedingfield,REP,2008,2010,2,No,Yes,No
-351,South Carolina,State Representative,28,Eric Bedingfield,REP,2006,2008,1,No,Yes,No
-59,South Carolina,State Representative,29,Dennis Carroll Moss,REP,2010,2012,3,Yes,Yes,Yes
-60,South Carolina,State Representative,29,Dennis Carroll Moss,DEM,2008,2010,2,No,Yes,Yes
-352,South Carolina,State Representative,29,Dennis Carroll Moss,DEM,2006,2008,1,No,Yes,Yes
-61,South Carolina,State Representative,30,Steve Stephen Moss,REP,2010,2012,1,Yes,Yes,Yes
-62,South Carolina,State Representative,30,Olin Ray Philips,DEM,2008,2010,5,No,Yes,Yes
-354,South Carolina,State Representative,30,Olin Ray Philips,DEM,2006,2008,4,No,Yes,Yes
-63,South Carolina,State Representative,31,Harold Mitchell Jr.,DEM,2010,2012,3,No,Yes,Yes
-64,South Carolina,State Representative,31,Harold Mitchell Jr.,DEM,2008,2010,2,Yes,Yes,Yes
-355,South Carolina,State Representative,31,Harold Mitchell Jr.,DEM,2006,2008,1,Yes,Yes,Yes
-65,South Carolina,State Representative,32,Joseph Derham Cole Jr.,REP,2010,2012,2,Yes,Yes,No
-66,South Carolina,State Representative,32,Joseph Derham Cole Jr.,REP,2008,2010,1,No,Yes,No
-356,South Carolina,State Representative,32,Doug Smith,REP,2006,2008,4,Yes,Yes,No
-67,South Carolina,State Representative,33,Eddie Tallon,REP,2010,2012,1,Yes,Yes,No
-68,South Carolina,State Representative,33,Lanny Littlejohn Sr.,REP,2008,2010,5,No,Yes,No
-357,South Carolina,State Representative,33,Lanny Littlejohn Sr.,REP,2006,2008,4,Yes,Yes,No
-69,South Carolina,State Representative,34,Mike Michael Forrester,REP,2010,2012,2,Yes,Yes,Yes
-70,South Carolina,State Representative,34,Mike Michael Forrester,REP,2008,2010,1,No,Yes,Yes
-358,South Carolina,State Representative,34,Scott Talley,REP,2006,2008,4,Yes,Yes,Yes
-71,South Carolina,State Representative,35,Bill Chumley,REP,2010,2012,1,No,Yes,Yes
-72,South Carolina,State Representative,35,Keith Kelly,REP,2008,2010,2,Yes,Yes,Yes
-359,South Carolina,State Representative,35,Keith Kelly,REP,2006,2008,1,No,Yes,Yes
-73,South Carolina,State Representative,36,Merita Ann Allison,REP,2010,2012,2,No,Yes,Yes
-74,South Carolina,State Representative,36,Merita Ann Allison,REP,2008,2010,1,Yes,Yes,Yes
-360,South Carolina,State Representative,36,Joseph Mahaffey,REP,2006,2008,3,No,Yes,Yes
-75,South Carolina,State Representative,37,Steve Parker,REP,2010,2012,2,No,Yes,No
-76,South Carolina,State Representative,37,Steve Parker,REP,2008,2010,1,No,Yes,No
-361,South Carolina,State Representative,37,Guy Ralph Davenport Jr.,REP,2006,2008,4,Yes,Yes,No
-77,South Carolina,State Representative,38,Doug Douglas Brannon,REP,2010,2012,1,No,Yes,No
-78,South Carolina,State Representative,38,Joey Millwood,REP,2008,2010,1,No,Yes,No
-362,South Carolina,State Representative,38,Bob Walker,REP,2006,2008,4,Yes,Yes,No
-79,South Carolina,State Representative,39,Marion Frye,REP,2010,2012,6,No,Yes,Yes
-80,South Carolina,State Representative,39,Marion Frye,REP,2008,2010,5,No,Yes,Yes
-363,South Carolina,State Representative,39,Marion Frye,REP,2006,2008,4,Yes,Yes,Yes
-81,South Carolina,State Representative,40,Walt McLeod,DEM,2010,2012,6,Yes,Yes,Yes
-82,South Carolina,State Representative,40,Walt McLeod,DEM,2008,2010,5,Yes,Yes,Yes
-365,South Carolina,State Representative,40,Walt McLeod,DEM,2006,2008,4,Yes,Yes,Yes
-83,South Carolina,State Representative,41,Boyd Brown,DEM,2010,2012,2,No,No,Yes
-84,South Carolina,State Representative,41,Boyd Brown,DEM,2008,2010,1,No,No,Yes
-366,South Carolina,State Representative,41,Creighton Coleman,DEM,2006,2008,4,Yes,No,Yes
-85,South Carolina,State Representative,42,Mike Anthony,DEM,2010,2012,5,No,Yes,No
-86,South Carolina,State Representative,42,Mike Anthony,DEM,2008,2010,4,Yes,Yes,No
-367,South Carolina,State Representative,42,Mike Anthony,DEM,2006,2008,3,Yes,Yes,No
-87,South Carolina,State Representative,43,Greg Gregory Delleney Jr.,REP,2010,2012,6,Yes,Yes,No
-88,South Carolina,State Representative,43,Greg Gregory Delleney Jr.,REP,2008,2010,5,Yes,Yes,No
-368,South Carolina,State Representative,43,Greg Gregory Delleney Jr.,REP,2006,2008,4,Yes,Yes,No
-89,South Carolina,State Representative,44,Jimmy Neal,DEM,2010,2012,6,No,Yes,Yes
-90,South Carolina,State Representative,44,Jimmy Neal,DEM,2008,2010,5,Yes,Yes,Yes
-369,South Carolina,State Representative,44,Jimmy Neal,DEM,2006,2008,4,Yes,Yes,Yes
-91,South Carolina,State Representative,45,Deborah Long,REP,2010,2012,2,No,Yes,Yes
-92,South Carolina,State Representative,45,Deborah Long,REP,2008,2010,1,No,Yes,Yes
-370,South Carolina,State Representative,45,Mick Michael Mulvaney,REP,2006,2008,1,No,Yes,Yes
-93,South Carolina,State Representative,46,Gary Simrill,REP,2010,2012,6,No,Yes,Yes
-94,South Carolina,State Representative,46,Gary Simrill,REP,2008,2010,5,No,Yes,Yes
-371,South Carolina,State Representative,46,Gary Simrill,REP,2006,2008,4,Yes,Yes,Yes
-95,South Carolina,State Representative,47,Tommy Pope,REP,2010,2012,1,No,Yes,Yes
-96,South Carolina,State Representative,47,Herbert Kirsh,DEM,2008,2010,5,Yes,Yes,Yes
-372,South Carolina,State Representative,47,Herbert Kirsh,DEM,2006,2008,4,Yes,Yes,Yes
-97,South Carolina,State Representative,48,Ralph Norman,REP,2010,2012,1,No,Yes,Yes
-98,South Carolina,State Representative,48,Carl Gullick,REP,2008,2010,2,Yes,Yes,Yes
-373,South Carolina,State Representative,48,Carl Gullick,REP,2006,2008,1,No,Yes,Yes
-99,South Carolina,State Representative,49,John King,DEM,2010,2012,2,Yes,Yes,Yes
-100,South Carolina,State Representative,49,John King,DEM,2008,2010,1,No,Yes,Yes
-374,South Carolina,State Representative,49,Bessie Moody-Lawrence,DEM,2006,2008,4,Yes,Yes,Yes
-101,South Carolina,State Representative,50,Grady Brown,DEM,2010,2012,6,Yes,Yes,Yes
-102,South Carolina,State Representative,50,Grady Brown,DEM,2008,2010,5,Yes,Yes,Yes
-376,South Carolina,State Representative,50,Grady Brown,DEM,2006,2008,4,Yes,Yes,Yes
-103,South Carolina,State Representative,51,David Weeks,DEM,2010,2012,6,Yes,Yes,Yes
-104,South Carolina,State Representative,51,David Weeks,DEM,2008,2010,5,Yes,Yes,Yes
-377,South Carolina,State Representative,51,David Weeks,DEM,2006,2008,4,Yes,Yes,Yes
-105,South Carolina,State Representative,52,Laurie Slade Funderburk,DEM,2010,2012,4,Yes,Yes,Yes
-106,South Carolina,State Representative,52,Laurie Slade Funderburk,DEM,2008,2010,3,Yes,Yes,Yes
-378,South Carolina,State Representative,52,Laurie Slade Funderburk,DEM,2006,2008,2,Yes,Yes,Yes
-107,South Carolina,State Representative,53,Ted Martin Vick,DEM,2010,2012,4,Yes,Yes,Yes
-108,South Carolina,State Representative,53,Ted Martin Vick,DEM,2008,2010,3,Yes,Yes,Yes
-379,South Carolina,State Representative,53,Ted Martin Vick,DEM,2006,2008,2,Yes,Yes,Yes
-109,South Carolina,State Representative,54,Elizabeth Munnerlyn,DEM,2010,2012,1,Yes,Yes,Yes
-110,South Carolina,State Representative,54,Douglas Jennings Jr.,DEM,2008,2010,5,Yes,Yes,Yes
-380,South Carolina,State Representative,54,Douglas Jennings Jr.,DEM,2006,2008,4,Yes,Yes,Yes
-111,South Carolina,State Representative,55,Jackie Hayes,DEM,2010,2012,6,Yes,No,Yes
-112,South Carolina,State Representative,55,Jackie Hayes,DEM,2008,2010,5,Yes,No,Yes
-381,South Carolina,State Representative,55,Jackie Hayes,DEM,2006,2008,4,No,No,Yes
-113,South Carolina,State Representative,56,Denny Neilson,DEM,2010,2012,6,Yes,Yes,No
-114,South Carolina,State Representative,56,Denny Neilson,DEM,2008,2010,5,Yes,Yes,No
-382,South Carolina,State Representative,56,Denny Neilson,DEM,2006,2008,4,No,Yes,No
-115,South Carolina,State Representative,57,James Battle Jr.,DEM,2010,2012,6,Yes,Yes,Yes
-116,South Carolina,State Representative,57,James Battle Jr.,DEM,2008,2010,5,Yes,Yes,Yes
-383,South Carolina,State Representative,57,James Battle Jr.,DEM,2006,2008,4,Yes,Yes,Yes
-117,South Carolina,State Representative,58,Liston Barfield,REP,2010,2012,6,No,Yes,Yes
-118,South Carolina,State Representative,58,Liston Barfield,REP,2008,2010,5,No,Yes,Yes
-384,South Carolina,State Representative,58,Liston Barfield,REP,2006,2008,4,Yes,Yes,Yes
-119,South Carolina,State Representative,59,Terry Alexander,DEM,2010,2012,3,Yes,Yes,Yes
-120,South Carolina,State Representative,59,Terry Alexander,DEM,2008,2010,2,Yes,Yes,Yes
-385,South Carolina,State Representative,59,Terry Alexander,DEM,2006,2008,1,Yes,Yes,Yes
-121,South Carolina,State Representative,60,Phillip Lowe,REP,2010,2012,3,No,Yes,Yes
-122,South Carolina,State Representative,60,Phillip Lowe,REP,2008,2010,2,No,Yes,Yes
-387,South Carolina,State Representative,60,Phillip Lowe,REP,2006,2008,1,No,Yes,Yes
-123,South Carolina,State Representative,61,Lester Branham Jr.,DEM,2010,2012,5,Yes,Yes,Yes
-124,South Carolina,State Representative,61,Lester Branham Jr.,DEM,2008,2010,4,Yes,Yes,Yes
-388,South Carolina,State Representative,61,Lester Branham Jr.,DEM,2006,2008,3,Yes,Yes,Yes
-125,South Carolina,State Representative,62,Robert Williams,DEM,2010,2012,3,Yes,No,Yes
-126,South Carolina,State Representative,62,Robert Williams,DEM,2008,2010,2,Yes,No,Yes
-389,South Carolina,State Representative,62,Robert Williams,DEM,2006,2008,1,No,No,Yes
-127,South Carolina,State Representative,63,Kris Crawford,REP,2010,2012,3,No,Yes,Yes
-128,South Carolina,State Representative,63,Kris Crawford,REP,2008,2010,2,No,Yes,Yes
-390,South Carolina,State Representative,63,Kris Crawford,REP,2006,2008,1,No,Yes,Yes
-129,South Carolina,State Representative,64,Cathy Brand Harvin,DEM,2010,2012,3,Yes,No,Yes
-130,South Carolina,State Representative,64,Cathy Brand Harvin,DEM,2008,2010,2,No,No,Yes
-391,South Carolina,State Representative,64,Cathy Brand Harvin,DEM,2006,2008,1,Yes,No,Yes
-131,South Carolina,State Representative,65,Jay Lucas,REP,2010,2012,6,Yes,Yes,Yes
-132,South Carolina,State Representative,65,Jay Lucas,REP,2008,2010,5,Yes,Yes,Yes
-392,South Carolina,State Representative,65,Jay Lucas,REP,2006,2008,4,Yes,Yes,Yes
-133,South Carolina,State Representative,66,Gilda Cobb-Hunter,DEM,2010,2012,6,Yes,Yes,Yes
-134,South Carolina,State Representative,66,Gilda Cobb-Hunter,DEM,2008,2010,5,No,Yes,Yes
-393,South Carolina,State Representative,66,Gilda Cobb-Hunter,DEM,2006,2008,4,No,Yes,Yes
-135,South Carolina,State Representative,67,George Murrell Smith Jr.,REP,2010,2012,5,Yes,Yes,Yes
-136,South Carolina,State Representative,67,George Murrell Smith Jr.,REP,2008,2010,4,Yes,Yes,Yes
-394,South Carolina,State Representative,67,George Murrell Smith Jr.,REP,2006,2008,3,Yes,Yes,Yes
-137,South Carolina,State Representative,68,Thad Viers,REP,2010,2012,5,Yes,Yes,Yes
-138,South Carolina,State Representative,68,Thad Viers,REP,2008,2010,4,Yes,Yes,Yes
-395,South Carolina,State Representative,68,Thad Viers,REP,2006,2008,3,Yes,Yes,Yes
-139,South Carolina,State Representative,69,Rick Quinn Jr.,REP,2010,2012,1,No,Yes,No
-140,South Carolina,State Representative,69,Ted Pitts,REP,2008,2010,4,Yes,Yes,No
-396,South Carolina,State Representative,69,Ted Pitts,REP,2006,2008,3,Yes,Yes,No
-141,South Carolina,State Representative,70,Joseph Neal,DEM,2010,2012,6,Yes,Yes,Yes
-142,South Carolina,State Representative,70,Joseph Neal,DEM,2008,2010,5,Yes,Yes,Yes
-398,South Carolina,State Representative,70,Joseph Neal,DEM,2006,2008,4,Yes,Yes,Yes
-143,South Carolina,State Representative,71,Nathan Ballentine,REP,2010,2012,4,Yes,Yes,No
-144,South Carolina,State Representative,71,Nathan Ballentine,REP,2008,2010,3,Yes,Yes,No
-399,South Carolina,State Representative,71,Nathan Ballentine,REP,2006,2008,2,Yes,Yes,No
-145,South Carolina,State Representative,72,James Smith Jr.,DEM,2010,2012,1,Yes,Yes,Yes
-146,South Carolina,State Representative,72,Jim Smith Jr.,DEM,2008,2010,5,Yes,Yes,Yes
-400,South Carolina,State Representative,72,Jim Smith Jr.,DEM,2006,2008,4,Yes,Yes,Yes
-147,South Carolina,State Representative,73,Chris Hart,DEM,2010,2012,3,Yes,Yes,Yes
-148,South Carolina,State Representative,73,Chris Hart,DEM,2008,2010,2,Yes,Yes,Yes
-401,South Carolina,State Representative,73,Chris Hart,DEM,2006,2008,1,Yes,Yes,Yes
-149,South Carolina,State Representative,74,James Todd Rutherford,DEM,2010,2012,6,No,Yes,Yes
-150,South Carolina,State Representative,74,James Todd Rutherford,DEM,2008,2010,5,No,Yes,Yes
-402,South Carolina,State Representative,74,James Todd Rutherford,DEM,2006,2008,4,Yes,Yes,Yes
-151,South Carolina,State Representative,75,James Hodges Harrison,REP,2010,2012,6,Yes,Yes,Yes
-152,South Carolina,State Representative,75,James Hodges Harrison,REP,2008,2010,5,Yes,Yes,Yes
-403,South Carolina,State Representative,75,James Hodges Harrison,REP,2006,2008,4,No,Yes,Yes
-153,South Carolina,State Representative,76,Leon Howard,DEM,2010,2012,6,No,No,Yes
-154,South Carolina,State Representative,76,Leon Howard,DEM,2008,2010,5,No,No,Yes
-404,South Carolina,State Representative,76,Leon Howard,DEM,2006,2008,4,No,No,Yes
-155,South Carolina,State Representative,77,Joe McEachern,DEM,2010,2012,2,Yes,No,Yes
-156,South Carolina,State Representative,77,Joe McEachern,DEM,2008,2010,1,No,No,Yes
-405,South Carolina,State Representative,77,John Scott Jr.,DEM,2006,2008,4,No,No,Yes
-157,South Carolina,State Representative,78,Joan Brady,REP,2010,2012,4,No,Yes,Yes
-158,South Carolina,State Representative,78,Joan Brady,REP,2008,2010,3,Yes,Yes,Yes
-406,South Carolina,State Representative,78,Joan Brady,REP,2006,2008,2,Yes,Yes,Yes
-159,South Carolina,State Representative,79,Mia McLeod,DEM,2010,2012,1,No,Yes,Yes
-160,South Carolina,State Representative,79,Anton Gunn,DEM,2008,2010,1,No,Yes,Yes
-407,South Carolina,State Representative,79,Bill Cotty,REP,2006,2008,4,No,Yes,Yes
-161,South Carolina,State Representative,80,Jimmy Bales,DEM,2010,2012,6,Yes,Yes,Yes
-162,South Carolina,State Representative,80,Jimmy Bales,DEM,2008,2010,5,Yes,Yes,Yes
-409,South Carolina,State Representative,80,Jimmy Bales,DEM,2006,2008,4,No,Yes,Yes
-163,South Carolina,State Representative,81,Tom Young,REP,2010,2012,2,Yes,Yes,Yes
-164,South Carolina,State Representative,81,Tom Young,REP,2008,2010,1,Yes,Yes,Yes
-410,South Carolina,State Representative,81,Skipper Perry Jr.,REP,2006,2008,4,Yes,Yes,Yes
-165,South Carolina,State Representative,82,William Clyburn,DEM,2010,2012,6,Yes,Yes,Yes
-166,South Carolina,State Representative,82,William Clyburn,DEM,2008,2010,5,Yes,Yes,Yes
-411,South Carolina,State Representative,82,William Clyburn,DEM,2006,2008,4,Yes,Yes,Yes
-167,South Carolina,State Representative,83,Bill Hixon,REP,2010,2012,1,Yes,Yes,Yes
-168,South Carolina,State Representative,83,Don Smith,REP,2008,2010,5,No,Yes,Yes
-412,South Carolina,State Representative,83,Don Smith,REP,2006,2008,4,Yes,Yes,Yes
-169,South Carolina,State Representative,84,James Roland Smith,REP,2010,2012,6,Yes,Yes,Yes
-170,South Carolina,State Representative,84,James Roland Smith,REP,2008,2010,5,No,Yes,Yes
-413,South Carolina,State Representative,84,James Roland Smith,REP,2006,2008,4,Yes,Yes,Yes
-171,South Carolina,State Representative,85,Chip Huggins Jr.,REP,2010,2012,6,No,Yes,Yes
-172,South Carolina,State Representative,85,Chip Huggins Jr.,REP,2008,2010,5,No,Yes,Yes
-414,South Carolina,State Representative,85,Chip Huggins Jr.,REP,2006,2008,4,Yes,Yes,Yes
-173,South Carolina,State Representative,86,Bill Taylor,REP,2010,2012,1,Yes,Yes,Yes
-174,South Carolina,State Representative,86,Jim Stewart,REP,2008,2010,4,Yes,Yes,Yes
-415,South Carolina,State Representative,86,Jim Stewart,REP,2006,2008,3,Yes,Yes,Yes
-175,South Carolina,State Representative,87,Todd Atwater,REP,2010,2012,1,No,Yes,No
-176,South Carolina,State Representative,87,Nikki Haley,REP,2008,2010,3,No,Yes,No
-416,South Carolina,State Representative,87,Nikki Haley,REP,2006,2008,2,Yes,Yes,No
-177,South Carolina,State Representative,88,Mac Toole,REP,2010,2012,5,Yes,Yes,Yes
-178,South Carolina,State Representative,88,Mac Toole,REP,2008,2010,4,Yes,Yes,Yes
-417,South Carolina,State Representative,88,Mac Toole,REP,2006,2008,3,Yes,Yes,Yes
-179,South Carolina,State Representative,89,Kenny Bingham,REP,2010,2012,6,Yes,Yes,No
-180,South Carolina,State Representative,89,Kenny Bingham,REP,2008,2010,5,Yes,Yes,No
-418,South Carolina,State Representative,89,Kenny Bingham,REP,2006,2008,4,Yes,Yes,No
-181,South Carolina,State Representative,90,Bakari Sellers,DEM,2010,2012,3,Yes,Yes,Yes
-182,South Carolina,State Representative,90,Bakari Sellers,DEM,2008,2010,2,Yes,Yes,Yes
-420,South Carolina,State Representative,90,Bakari Sellers,DEM,2006,2008,1,Yes,Yes,Yes
-183,South Carolina,State Representative,91,Lonnie Hosey,DEM,2010,2012,6,No,Yes,Yes
-184,South Carolina,State Representative,91,Lonnie Hosey,DEM,2008,2010,5,Yes,Yes,Yes
-421,South Carolina,State Representative,91,Lonnie Hosey,DEM,2006,2008,4,Yes,Yes,Yes
-185,South Carolina,State Representative,92,Joe Daning,REP,2010,2012,2,Yes,Yes,Yes
-186,South Carolina,State Representative,92,Joe Daning,REP,2008,2010,1,Yes,Yes,Yes
-422,South Carolina,State Representative,92,Shirley Hinson,REP,2006,2008,4,Yes,Yes,Yes
-187,South Carolina,State Representative,93,Harry Ott Jr.,DEM,2010,2012,6,No,Yes,Yes
-188,South Carolina,State Representative,93,Harry Ott Jr.,DEM,2008,2010,5,Yes,Yes,Yes
-423,South Carolina,State Representative,93,Harry Ott Jr.,DEM,2006,2008,4,Yes,Yes,Yes
-189,South Carolina,State Representative,94,Jenny Horne,REP,2010,2012,2,Yes,Yes,No
-190,South Carolina,State Representative,94,Jenny Horne,REP,2008,2010,1,Yes,Yes,No
-424,South Carolina,State Representative,94,Converse Chellis III,REP,2006,2008,4,Yes,Yes,No
-191,South Carolina,State Representative,95,Jerry Govan Jr.,DEM,2010,2012,6,Yes,No,Yes
-192,South Carolina,State Representative,95,Jerry Govan Jr.,DEM,2008,2010,5,Yes,No,Yes
-425,South Carolina,State Representative,95,Jerry Govan Jr.,DEM,2006,2008,4,Yes,No,Yes
-193,South Carolina,State Representative,96,Kit Spires,REP,2010,2012,3,Yes,Yes,No
-194,South Carolina,State Representative,96,Kit Spires,REP,2008,2010,2,Yes,Yes,No
-426,South Carolina,State Representative,96,Kit Spires,REP,2006,2008,1,No,Yes,No
-195,South Carolina,State Representative,97,Patsy Knight,DEM,2010,2012,3,Yes,Yes,No
-196,South Carolina,State Representative,97,Patsy Knight,DEM,2008,2010,2,No,Yes,No
-427,South Carolina,State Representative,97,Patsy Knight,DEM,2006,2008,1,No,Yes,No
-197,South Carolina,State Representative,98,Chris Murphy,REP,2010,2012,1,No,Yes,No
-198,South Carolina,State Representative,98,Annette Young,REP,2008,2010,5,No,Yes,No
-428,South Carolina,State Representative,98,Annette Young,REP,2006,2008,4,Yes,Yes,No
-199,South Carolina,State Representative,99,Jim Merrill,REP,2010,2012,6,Yes,No,No
-200,South Carolina,State Representative,99,Jim Merrill,REP,2008,2010,5,Yes,No,No
-429,South Carolina,State Representative,99,Jim Merrill,REP,2006,2008,4,Yes,No,No
-201,South Carolina,State Representative,100,David Umphlett Jr.,REP,2010,2012,5,Yes,Yes,No
-202,South Carolina,State Representative,100,David Umphlett Jr.,REP,2008,2010,4,Yes,Yes,No
-308,South Carolina,State Representative,100,David Umphlett Jr.,REP,2006,2008,3,Yes,Yes,No
-203,South Carolina,State Representative,101,Ronnie Sabb,DEM,2010,2012,1,No,No,Yes
-204,South Carolina,State Representative,101,Ken Kennedy,DEM,2008,2010,5,Yes,No,Yes
-309,South Carolina,State Representative,101,Ken Kennedy,DEM,2006,2008,4,Yes,No,Yes
-205,South Carolina,State Representative,102,Joe Jefferson Jr.,DEM,2010,2012,4,No,Yes,Yes
-206,South Carolina,State Representative,102,Joe Jefferson Jr.,DEM,2008,2010,3,Yes,Yes,Yes
-310,South Carolina,State Representative,102,Joe Jefferson Jr.,DEM,2006,2008,2,Yes,Yes,Yes
-207,South Carolina,State Representative,103,Carl Anderson,DEM,2010,2012,4,Yes,No,Yes
-208,South Carolina,State Representative,103,Carl Anderson,DEM,2008,2010,3,Yes,No,Yes
+6,South Carolina,State Representative,1,Bill Whitmire,REP,2006,2008,3,No,Yes,Yes
+7,South Carolina,State Representative,2,Bill Sandifer III,REP,2010,2012,6,Yes,Yes,Yes
+8,South Carolina,State Representative,2,Bill Sandifer III,REP,2008,2010,5,Yes,Yes,Yes
+9,South Carolina,State Representative,2,Bill Sandifer III,REP,2006,2008,4,Yes,Yes,Yes
+10,South Carolina,State Representative,3,R Skelton,REP,2010,2012,5,Yes,Yes,Yes
+11,South Carolina,State Representative,3,R Skelton,REP,2008,2010,4,No,Yes,Yes
+12,South Carolina,State Representative,3,R Skelton,REP,2006,2008,3,Yes,Yes,Yes
+13,South Carolina,State Representative,4,Davey Hiott,REP,2010,2012,4,Yes,Yes,No
+14,South Carolina,State Representative,4,Davey Hiott,REP,2008,2010,3,Yes,Yes,No
+15,South Carolina,State Representative,4,Davey Hiott,REP,2006,2008,2,Yes,Yes,No
+16,South Carolina,State Representative,5,Phillip Owens,REP,2010,2012,5,Yes,Yes,No
+17,South Carolina,State Representative,5,Phillip Owens,REP,2008,2010,4,Yes,Yes,No
+18,South Carolina,State Representative,5,Phillip Owens,REP,2006,2008,3,Yes,Yes,No
+19,South Carolina,State Representative,6,Brian Keith White,REP,2010,2012,6,Yes,Yes,No
+20,South Carolina,State Representative,6,Brian Keith White,REP,2008,2010,5,Yes,Yes,No
+21,South Carolina,State Representative,6,Brian Keith White,REP,2006,2008,4,Yes,Yes,No
+22,South Carolina,State Representative,7,Mike Gambrell,REP,2010,2012,3,Yes,Yes,No
+23,South Carolina,State Representative,7,Mike Gambrell,REP,2008,2010,2,No,Yes,No
+24,South Carolina,State Representative,7,Mike Gambrell,REP,2006,2008,1,No,Yes,No
+25,South Carolina,State Representative,8,Don Bowen,REP,2010,2012,3,No,Yes,No
+26,South Carolina,State Representative,8,Don Bowen,REP,2008,2010,2,No,Yes,No
+27,South Carolina,State Representative,8,Don Bowen,REP,2006,2008,1,No,Yes,No
+28,South Carolina,State Representative,9,Anne Thayer,REP,2010,2012,1,No,Yes,Yes
+29,South Carolina,State Representative,9,Michael Thompson,REP,2008,2010,5,Yes,Yes,Yes
+30,South Carolina,State Representative,9,Michael Thompson,REP,2006,2008,4,Yes,Yes,Yes
+31,South Carolina,State Representative,10,Daniel Cooper,REP,2010,2012,6,No,Yes,Yes
+32,South Carolina,State Representative,10,Daniel Cooper,REP,2008,2010,5,Yes,Yes,Yes
+33,South Carolina,State Representative,10,Daniel Cooper,REP,2006,2008,4,Yes,Yes,Yes
+34,South Carolina,State Representative,11,Paul Agnew,DEM,2010,2012,4,Yes,Yes,No
+35,South Carolina,State Representative,11,Paul Agnew,DEM,2008,2010,3,Yes,Yes,No
+36,South Carolina,State Representative,11,Paul Agnew,DEM,2006,2008,2,Yes,Yes,No
+37,South Carolina,State Representative,12,Anne Parks,DEM,2010,2012,6,No,Yes,Yes
+38,South Carolina,State Representative,12,Anne Parks,DEM,2008,2010,5,Yes,Yes,Yes
+39,South Carolina,State Representative,12,Anne Parks,DEM,2006,2008,4,No,Yes,Yes
+40,South Carolina,State Representative,13,Gene Pinson,REP,2010,2012,5,No,Yes,Yes
+41,South Carolina,State Representative,13,Gene Pinson,REP,2008,2010,4,Yes,Yes,Yes
+42,South Carolina,State Representative,13,Gene Pinson,REP,2006,2008,3,Yes,Yes,Yes
+43,South Carolina,State Representative,14,Mike Pitts,REP,2010,2012,5,No,Yes,Yes
+44,South Carolina,State Representative,14,Mike Pitts,REP,2008,2010,4,Yes,Yes,Yes
+45,South Carolina,State Representative,14,Mike Pitts,REP,2006,2008,3,Yes,Yes,Yes
+46,South Carolina,State Representative,15,David Tribble Jr.,REP,2010,2012,1,Yes,Yes,No
+47,South Carolina,State Representative,15,Jeff Duncan,REP,2008,2010,4,Yes,Yes,No
+48,South Carolina,State Representative,15,Jeff Duncan,REP,2006,2008,3,No,Yes,No
+49,South Carolina,State Representative,16,Mark Willis,REP,2010,2012,2,Yes,Yes,Yes
+50,South Carolina,State Representative,16,Mark Willis,REP,2008,2010,1,No,Yes,Yes
+51,South Carolina,State Representative,16,John Adam Taylor,REP,2006,2008,4,Yes,Yes,Yes
+52,South Carolina,State Representative,17,Tom Corbin,REP,2010,2012,1,No,Yes,No
+53,South Carolina,State Representative,17,Harry Cato,REP,2008,2010,5,Yes,Yes,No
+54,South Carolina,State Representative,17,Harry Cato,REP,2006,2008,4,Yes,Yes,No
+55,South Carolina,State Representative,18,Tommy Stringer,REP,2010,2012,2,No,Yes,No
+56,South Carolina,State Representative,18,Tommy Stringer,REP,2008,2010,1,Yes,Yes,No
+57,South Carolina,State Representative,18,Phil Shoopman,REP,2006,2008,1,No,Yes,No
+58,South Carolina,State Representative,19,Dwight Loftis,REP,2010,2012,6,Yes,No,Yes
+59,South Carolina,State Representative,19,Dwight Loftis,REP,2008,2010,5,Yes,No,Yes
+60,South Carolina,State Representative,19,Dwight Loftis,REP,2006,2008,4,Yes,No,Yes
+61,South Carolina,State Representative,20,Dan Hamilton,REP,2010,2012,2,No,Yes,No
+62,South Carolina,State Representative,20,Dan Hamilton,REP,2008,2010,1,Yes,Yes,No
+63,South Carolina,State Representative,20,Glenn Hamilton,REP,2006,2008,4,Yes,Yes,No
+64,South Carolina,State Representative,21,William Wylie,REP,2008,2010,1,Yes,Yes,No
+65,South Carolina,State Representative,21,Robert Leach,REP,2006,2008,4,Yes,Yes,No
+66,South Carolina,State Representative,22,Wendy Nanney,REP,2010,2012,2,No,Yes,No
+67,South Carolina,State Representative,22,Wendy Nanney,REP,2008,2010,1,Yes,Yes,No
+68,South Carolina,State Representative,22,Gloria Arias Haskins,REP,2006,2008,3,Yes,Yes,No
+69,South Carolina,State Representative,23,Chandra Dillard,DEM,2010,2012,2,No,Yes,Yes
+70,South Carolina,State Representative,23,Chandra Dillard,DEM,2008,2010,1,No,Yes,Yes
+71,South Carolina,State Representative,23,Fletcher Smith Jr.,DEM,2006,2008,4,Yes,Yes,Yes
+72,South Carolina,State Representative,24,Bruce Bannister,REP,2010,2012,3,No,Yes,Yes
+73,South Carolina,State Representative,24,Bruce Bannister,REP,2008,2010,2,Yes,Yes,Yes
+74,South Carolina,State Representative,24,Bruce Bannister,REP,2006,2008,1,Yes,Yes,Yes
+75,South Carolina,State Representative,25,Karl Allen,DEM,2010,2012,6,Yes,No,Yes
+76,South Carolina,State Representative,25,Karl Allen,DEM,2008,2010,5,No,No,Yes
+77,South Carolina,State Representative,25,Karl Allen,DEM,2006,2008,4,Yes,No,Yes
+78,South Carolina,State Representative,26,Eric Bikas,REP,2010,2012,1,No,Yes,Yes
+79,South Carolina,State Representative,26,Rex Fontaine Rice,REP,2008,2010,5,Yes,Yes,Yes
+80,South Carolina,State Representative,26,Rex Fontaine Rice,REP,2006,2008,4,Yes,Yes,Yes
+81,South Carolina,State Representative,27,Garry Smith,REP,2010,2012,4,No,Yes,No
+82,South Carolina,State Representative,27,Garry Smith,REP,2008,2010,3,Yes,Yes,No
+83,South Carolina,State Representative,27,Garry Smith,REP,2006,2008,2,Yes,Yes,No
+84,South Carolina,State Representative,28,Eric Bedingfield,REP,2010,2012,3,No,Yes,No
+85,South Carolina,State Representative,28,Eric Bedingfield,REP,2008,2010,2,No,Yes,No
+86,South Carolina,State Representative,28,Eric Bedingfield,REP,2006,2008,1,No,Yes,No
+87,South Carolina,State Representative,29,Dennis Carroll Moss,REP,2010,2012,3,Yes,Yes,Yes
+88,South Carolina,State Representative,29,Dennis Carroll Moss,DEM,2008,2010,2,No,Yes,Yes
+89,South Carolina,State Representative,29,Dennis Carroll Moss,DEM,2006,2008,1,No,Yes,Yes
+90,South Carolina,State Representative,30,Steve Stephen Moss,REP,2010,2012,1,Yes,Yes,Yes
+91,South Carolina,State Representative,30,Olin Ray Philips,DEM,2008,2010,5,No,Yes,Yes
+92,South Carolina,State Representative,30,Olin Ray Philips,DEM,2006,2008,4,No,Yes,Yes
+93,South Carolina,State Representative,31,Harold Mitchell Jr.,DEM,2010,2012,3,No,Yes,Yes
+94,South Carolina,State Representative,31,Harold Mitchell Jr.,DEM,2008,2010,2,Yes,Yes,Yes
+95,South Carolina,State Representative,31,Harold Mitchell Jr.,DEM,2006,2008,1,Yes,Yes,Yes
+96,South Carolina,State Representative,32,Joseph Derham Cole Jr.,REP,2010,2012,2,Yes,Yes,No
+97,South Carolina,State Representative,32,Joseph Derham Cole Jr.,REP,2008,2010,1,No,Yes,No
+98,South Carolina,State Representative,32,Doug Smith,REP,2006,2008,4,Yes,Yes,No
+99,South Carolina,State Representative,33,Eddie Tallon,REP,2010,2012,1,Yes,Yes,No
+100,South Carolina,State Representative,33,Lanny Littlejohn Sr.,REP,2008,2010,5,No,Yes,No
+101,South Carolina,State Representative,33,Lanny Littlejohn Sr.,REP,2006,2008,4,Yes,Yes,No
+102,South Carolina,State Representative,34,Mike Michael Forrester,REP,2010,2012,2,Yes,Yes,Yes
+103,South Carolina,State Representative,34,Mike Michael Forrester,REP,2008,2010,1,No,Yes,Yes
+104,South Carolina,State Representative,34,Scott Talley,REP,2006,2008,4,Yes,Yes,Yes
+105,South Carolina,State Representative,35,Bill Chumley,REP,2010,2012,1,No,Yes,Yes
+106,South Carolina,State Representative,35,Keith Kelly,REP,2008,2010,2,Yes,Yes,Yes
+107,South Carolina,State Representative,35,Keith Kelly,REP,2006,2008,1,No,Yes,Yes
+108,South Carolina,State Representative,36,Merita Ann Allison,REP,2010,2012,2,No,Yes,Yes
+109,South Carolina,State Representative,36,Merita Ann Allison,REP,2008,2010,1,Yes,Yes,Yes
+110,South Carolina,State Representative,36,Joseph Mahaffey,REP,2006,2008,3,No,Yes,Yes
+111,South Carolina,State Representative,37,Steve Parker,REP,2010,2012,2,No,Yes,No
+112,South Carolina,State Representative,37,Steve Parker,REP,2008,2010,1,No,Yes,No
+113,South Carolina,State Representative,37,Guy Ralph Davenport Jr.,REP,2006,2008,4,Yes,Yes,No
+114,South Carolina,State Representative,38,Doug Douglas Brannon,REP,2010,2012,1,No,Yes,No
+115,South Carolina,State Representative,38,Joey Millwood,REP,2008,2010,1,No,Yes,No
+116,South Carolina,State Representative,38,Bob Walker,REP,2006,2008,4,Yes,Yes,No
+117,South Carolina,State Representative,39,Marion Frye,REP,2010,2012,6,No,Yes,Yes
+118,South Carolina,State Representative,39,Marion Frye,REP,2008,2010,5,No,Yes,Yes
+119,South Carolina,State Representative,39,Marion Frye,REP,2006,2008,4,Yes,Yes,Yes
+120,South Carolina,State Representative,40,Walt McLeod,DEM,2010,2012,6,Yes,Yes,Yes
+121,South Carolina,State Representative,40,Walt McLeod,DEM,2008,2010,5,Yes,Yes,Yes
+122,South Carolina,State Representative,40,Walt McLeod,DEM,2006,2008,4,Yes,Yes,Yes
+123,South Carolina,State Representative,41,Boyd Brown,DEM,2010,2012,2,No,No,Yes
+124,South Carolina,State Representative,41,Boyd Brown,DEM,2008,2010,1,No,No,Yes
+125,South Carolina,State Representative,41,Creighton Coleman,DEM,2006,2008,4,Yes,No,Yes
+126,South Carolina,State Representative,42,Mike Anthony,DEM,2010,2012,5,No,Yes,No
+127,South Carolina,State Representative,42,Mike Anthony,DEM,2008,2010,4,Yes,Yes,No
+128,South Carolina,State Representative,42,Mike Anthony,DEM,2006,2008,3,Yes,Yes,No
+129,South Carolina,State Representative,43,Greg Gregory Delleney Jr.,REP,2010,2012,6,Yes,Yes,No
+130,South Carolina,State Representative,43,Greg Gregory Delleney Jr.,REP,2008,2010,5,Yes,Yes,No
+131,South Carolina,State Representative,43,Greg Gregory Delleney Jr.,REP,2006,2008,4,Yes,Yes,No
+132,South Carolina,State Representative,44,Jimmy Neal,DEM,2010,2012,6,No,Yes,Yes
+133,South Carolina,State Representative,44,Jimmy Neal,DEM,2008,2010,5,Yes,Yes,Yes
+134,South Carolina,State Representative,44,Jimmy Neal,DEM,2006,2008,4,Yes,Yes,Yes
+135,South Carolina,State Representative,45,Deborah Long,REP,2010,2012,2,No,Yes,Yes
+136,South Carolina,State Representative,45,Deborah Long,REP,2008,2010,1,No,Yes,Yes
+137,South Carolina,State Representative,45,Mick Michael Mulvaney,REP,2006,2008,1,No,Yes,Yes
+138,South Carolina,State Representative,46,Gary Simrill,REP,2010,2012,6,No,Yes,Yes
+139,South Carolina,State Representative,46,Gary Simrill,REP,2008,2010,5,No,Yes,Yes
+140,South Carolina,State Representative,46,Gary Simrill,REP,2006,2008,4,Yes,Yes,Yes
+141,South Carolina,State Representative,47,Tommy Pope,REP,2010,2012,1,No,Yes,Yes
+142,South Carolina,State Representative,47,Herbert Kirsh,DEM,2008,2010,5,Yes,Yes,Yes
+143,South Carolina,State Representative,47,Herbert Kirsh,DEM,2006,2008,4,Yes,Yes,Yes
+144,South Carolina,State Representative,48,Ralph Norman,REP,2010,2012,1,No,Yes,Yes
+145,South Carolina,State Representative,48,Carl Gullick,REP,2008,2010,2,Yes,Yes,Yes
+146,South Carolina,State Representative,48,Carl Gullick,REP,2006,2008,1,No,Yes,Yes
+147,South Carolina,State Representative,49,John King,DEM,2010,2012,2,Yes,Yes,Yes
+148,South Carolina,State Representative,49,John King,DEM,2008,2010,1,No,Yes,Yes
+149,South Carolina,State Representative,49,Bessie Moody-Lawrence,DEM,2006,2008,4,Yes,Yes,Yes
+150,South Carolina,State Representative,50,Grady Brown,DEM,2010,2012,6,Yes,Yes,Yes
+151,South Carolina,State Representative,50,Grady Brown,DEM,2008,2010,5,Yes,Yes,Yes
+152,South Carolina,State Representative,50,Grady Brown,DEM,2006,2008,4,Yes,Yes,Yes
+153,South Carolina,State Representative,51,David Weeks,DEM,2010,2012,6,Yes,Yes,Yes
+154,South Carolina,State Representative,51,David Weeks,DEM,2008,2010,5,Yes,Yes,Yes
+155,South Carolina,State Representative,51,David Weeks,DEM,2006,2008,4,Yes,Yes,Yes
+156,South Carolina,State Representative,52,Laurie Slade Funderburk,DEM,2010,2012,4,Yes,Yes,Yes
+157,South Carolina,State Representative,52,Laurie Slade Funderburk,DEM,2008,2010,3,Yes,Yes,Yes
+158,South Carolina,State Representative,52,Laurie Slade Funderburk,DEM,2006,2008,2,Yes,Yes,Yes
+159,South Carolina,State Representative,53,Ted Martin Vick,DEM,2010,2012,4,Yes,Yes,Yes
+160,South Carolina,State Representative,53,Ted Martin Vick,DEM,2008,2010,3,Yes,Yes,Yes
+161,South Carolina,State Representative,53,Ted Martin Vick,DEM,2006,2008,2,Yes,Yes,Yes
+162,South Carolina,State Representative,54,Elizabeth Munnerlyn,DEM,2010,2012,1,Yes,Yes,Yes
+163,South Carolina,State Representative,54,Douglas Jennings Jr.,DEM,2008,2010,5,Yes,Yes,Yes
+164,South Carolina,State Representative,54,Douglas Jennings Jr.,DEM,2006,2008,4,Yes,Yes,Yes
+165,South Carolina,State Representative,55,Jackie Hayes,DEM,2010,2012,6,Yes,No,Yes
+166,South Carolina,State Representative,55,Jackie Hayes,DEM,2008,2010,5,Yes,No,Yes
+167,South Carolina,State Representative,55,Jackie Hayes,DEM,2006,2008,4,No,No,Yes
+168,South Carolina,State Representative,56,Denny Neilson,DEM,2010,2012,6,Yes,Yes,No
+169,South Carolina,State Representative,56,Denny Neilson,DEM,2008,2010,5,Yes,Yes,No
+170,South Carolina,State Representative,56,Denny Neilson,DEM,2006,2008,4,No,Yes,No
+171,South Carolina,State Representative,57,James Battle Jr.,DEM,2010,2012,6,Yes,Yes,Yes
+172,South Carolina,State Representative,57,James Battle Jr.,DEM,2008,2010,5,Yes,Yes,Yes
+173,South Carolina,State Representative,57,James Battle Jr.,DEM,2006,2008,4,Yes,Yes,Yes
+174,South Carolina,State Representative,58,Liston Barfield,REP,2010,2012,6,No,Yes,Yes
+175,South Carolina,State Representative,58,Liston Barfield,REP,2008,2010,5,No,Yes,Yes
+176,South Carolina,State Representative,58,Liston Barfield,REP,2006,2008,4,Yes,Yes,Yes
+177,South Carolina,State Representative,59,Terry Alexander,DEM,2010,2012,3,Yes,Yes,Yes
+178,South Carolina,State Representative,59,Terry Alexander,DEM,2008,2010,2,Yes,Yes,Yes
+179,South Carolina,State Representative,59,Terry Alexander,DEM,2006,2008,1,Yes,Yes,Yes
+180,South Carolina,State Representative,60,Phillip Lowe,REP,2010,2012,3,No,Yes,Yes
+181,South Carolina,State Representative,60,Phillip Lowe,REP,2008,2010,2,No,Yes,Yes
+182,South Carolina,State Representative,60,Phillip Lowe,REP,2006,2008,1,No,Yes,Yes
+183,South Carolina,State Representative,61,Lester Branham Jr.,DEM,2010,2012,5,Yes,Yes,Yes
+184,South Carolina,State Representative,61,Lester Branham Jr.,DEM,2008,2010,4,Yes,Yes,Yes
+185,South Carolina,State Representative,61,Lester Branham Jr.,DEM,2006,2008,3,Yes,Yes,Yes
+186,South Carolina,State Representative,62,Robert Williams,DEM,2010,2012,3,Yes,No,Yes
+187,South Carolina,State Representative,62,Robert Williams,DEM,2008,2010,2,Yes,No,Yes
+188,South Carolina,State Representative,62,Robert Williams,DEM,2006,2008,1,No,No,Yes
+189,South Carolina,State Representative,63,Kris Crawford,REP,2010,2012,3,No,Yes,Yes
+190,South Carolina,State Representative,63,Kris Crawford,REP,2008,2010,2,No,Yes,Yes
+191,South Carolina,State Representative,63,Kris Crawford,REP,2006,2008,1,No,Yes,Yes
+192,South Carolina,State Representative,64,Cathy Brand Harvin,DEM,2010,2012,3,Yes,No,Yes
+193,South Carolina,State Representative,64,Cathy Brand Harvin,DEM,2008,2010,2,No,No,Yes
+194,South Carolina,State Representative,64,Cathy Brand Harvin,DEM,2006,2008,1,Yes,No,Yes
+195,South Carolina,State Representative,65,Jay Lucas,REP,2010,2012,6,Yes,Yes,Yes
+196,South Carolina,State Representative,65,Jay Lucas,REP,2008,2010,5,Yes,Yes,Yes
+197,South Carolina,State Representative,65,Jay Lucas,REP,2006,2008,4,Yes,Yes,Yes
+198,South Carolina,State Representative,66,Gilda Cobb-Hunter,DEM,2010,2012,6,Yes,Yes,Yes
+199,South Carolina,State Representative,66,Gilda Cobb-Hunter,DEM,2008,2010,5,No,Yes,Yes
+200,South Carolina,State Representative,66,Gilda Cobb-Hunter,DEM,2006,2008,4,No,Yes,Yes
+201,South Carolina,State Representative,67,George Murrell Smith Jr.,REP,2010,2012,5,Yes,Yes,Yes
+202,South Carolina,State Representative,67,George Murrell Smith Jr.,REP,2008,2010,4,Yes,Yes,Yes
+203,South Carolina,State Representative,67,George Murrell Smith Jr.,REP,2006,2008,3,Yes,Yes,Yes
+204,South Carolina,State Representative,68,Thad Viers,REP,2010,2012,5,Yes,Yes,Yes
+205,South Carolina,State Representative,68,Thad Viers,REP,2008,2010,4,Yes,Yes,Yes
+206,South Carolina,State Representative,68,Thad Viers,REP,2006,2008,3,Yes,Yes,Yes
+207,South Carolina,State Representative,69,Rick Quinn Jr.,REP,2010,2012,1,No,Yes,No
+208,South Carolina,State Representative,69,Ted Pitts,REP,2008,2010,4,Yes,Yes,No
+209,South Carolina,State Representative,69,Ted Pitts,REP,2006,2008,3,Yes,Yes,No
+210,South Carolina,State Representative,70,Joseph Neal,DEM,2010,2012,6,Yes,Yes,Yes
+211,South Carolina,State Representative,70,Joseph Neal,DEM,2008,2010,5,Yes,Yes,Yes
+212,South Carolina,State Representative,70,Joseph Neal,DEM,2006,2008,4,Yes,Yes,Yes
+213,South Carolina,State Representative,71,Nathan Ballentine,REP,2010,2012,4,Yes,Yes,No
+214,South Carolina,State Representative,71,Nathan Ballentine,REP,2008,2010,3,Yes,Yes,No
+215,South Carolina,State Representative,71,Nathan Ballentine,REP,2006,2008,2,Yes,Yes,No
+216,South Carolina,State Representative,72,James Smith Jr.,DEM,2010,2012,1,Yes,Yes,Yes
+217,South Carolina,State Representative,72,Jim Smith Jr.,DEM,2008,2010,5,Yes,Yes,Yes
+218,South Carolina,State Representative,72,Jim Smith Jr.,DEM,2006,2008,4,Yes,Yes,Yes
+219,South Carolina,State Representative,73,Chris Hart,DEM,2010,2012,3,Yes,Yes,Yes
+220,South Carolina,State Representative,73,Chris Hart,DEM,2008,2010,2,Yes,Yes,Yes
+221,South Carolina,State Representative,73,Chris Hart,DEM,2006,2008,1,Yes,Yes,Yes
+222,South Carolina,State Representative,74,James Todd Rutherford,DEM,2010,2012,6,No,Yes,Yes
+223,South Carolina,State Representative,74,James Todd Rutherford,DEM,2008,2010,5,No,Yes,Yes
+224,South Carolina,State Representative,74,James Todd Rutherford,DEM,2006,2008,4,Yes,Yes,Yes
+225,South Carolina,State Representative,75,James Hodges Harrison,REP,2010,2012,6,Yes,Yes,Yes
+226,South Carolina,State Representative,75,James Hodges Harrison,REP,2008,2010,5,Yes,Yes,Yes
+227,South Carolina,State Representative,75,James Hodges Harrison,REP,2006,2008,4,No,Yes,Yes
+228,South Carolina,State Representative,76,Leon Howard,DEM,2010,2012,6,No,No,Yes
+229,South Carolina,State Representative,76,Leon Howard,DEM,2008,2010,5,No,No,Yes
+230,South Carolina,State Representative,76,Leon Howard,DEM,2006,2008,4,No,No,Yes
+231,South Carolina,State Representative,77,Joe McEachern,DEM,2010,2012,2,Yes,No,Yes
+232,South Carolina,State Representative,77,Joe McEachern,DEM,2008,2010,1,No,No,Yes
+233,South Carolina,State Representative,77,John Scott Jr.,DEM,2006,2008,4,No,No,Yes
+234,South Carolina,State Representative,78,Joan Brady,REP,2010,2012,4,No,Yes,Yes
+235,South Carolina,State Representative,78,Joan Brady,REP,2008,2010,3,Yes,Yes,Yes
+236,South Carolina,State Representative,78,Joan Brady,REP,2006,2008,2,Yes,Yes,Yes
+237,South Carolina,State Representative,79,Mia McLeod,DEM,2010,2012,1,No,Yes,Yes
+238,South Carolina,State Representative,79,Anton Gunn,DEM,2008,2010,1,No,Yes,Yes
+239,South Carolina,State Representative,79,Bill Cotty,REP,2006,2008,4,No,Yes,Yes
+240,South Carolina,State Representative,80,Jimmy Bales,DEM,2010,2012,6,Yes,Yes,Yes
+241,South Carolina,State Representative,80,Jimmy Bales,DEM,2008,2010,5,Yes,Yes,Yes
+242,South Carolina,State Representative,80,Jimmy Bales,DEM,2006,2008,4,No,Yes,Yes
+243,South Carolina,State Representative,81,Tom Young,REP,2010,2012,2,Yes,Yes,Yes
+244,South Carolina,State Representative,81,Tom Young,REP,2008,2010,1,Yes,Yes,Yes
+245,South Carolina,State Representative,81,Skipper Perry Jr.,REP,2006,2008,4,Yes,Yes,Yes
+246,South Carolina,State Representative,82,William Clyburn,DEM,2010,2012,6,Yes,Yes,Yes
+247,South Carolina,State Representative,82,William Clyburn,DEM,2008,2010,5,Yes,Yes,Yes
+248,South Carolina,State Representative,82,William Clyburn,DEM,2006,2008,4,Yes,Yes,Yes
+249,South Carolina,State Representative,83,Bill Hixon,REP,2010,2012,1,Yes,Yes,Yes
+250,South Carolina,State Representative,83,Don Smith,REP,2008,2010,5,No,Yes,Yes
+251,South Carolina,State Representative,83,Don Smith,REP,2006,2008,4,Yes,Yes,Yes
+252,South Carolina,State Representative,84,James Roland Smith,REP,2010,2012,6,Yes,Yes,Yes
+253,South Carolina,State Representative,84,James Roland Smith,REP,2008,2010,5,No,Yes,Yes
+254,South Carolina,State Representative,84,James Roland Smith,REP,2006,2008,4,Yes,Yes,Yes
+255,South Carolina,State Representative,85,Chip Huggins Jr.,REP,2010,2012,6,No,Yes,Yes
+256,South Carolina,State Representative,85,Chip Huggins Jr.,REP,2008,2010,5,No,Yes,Yes
+257,South Carolina,State Representative,85,Chip Huggins Jr.,REP,2006,2008,4,Yes,Yes,Yes
+258,South Carolina,State Representative,86,Bill Taylor,REP,2010,2012,1,Yes,Yes,Yes
+259,South Carolina,State Representative,86,Jim Stewart,REP,2008,2010,4,Yes,Yes,Yes
+260,South Carolina,State Representative,86,Jim Stewart,REP,2006,2008,3,Yes,Yes,Yes
+261,South Carolina,State Representative,87,Todd Atwater,REP,2010,2012,1,No,Yes,No
+262,South Carolina,State Representative,87,Nikki Haley,REP,2008,2010,3,No,Yes,No
+263,South Carolina,State Representative,87,Nikki Haley,REP,2006,2008,2,Yes,Yes,No
+264,South Carolina,State Representative,88,Mac Toole,REP,2010,2012,5,Yes,Yes,Yes
+265,South Carolina,State Representative,88,Mac Toole,REP,2008,2010,4,Yes,Yes,Yes
+266,South Carolina,State Representative,88,Mac Toole,REP,2006,2008,3,Yes,Yes,Yes
+267,South Carolina,State Representative,89,Kenny Bingham,REP,2010,2012,6,Yes,Yes,No
+268,South Carolina,State Representative,89,Kenny Bingham,REP,2008,2010,5,Yes,Yes,No
+269,South Carolina,State Representative,89,Kenny Bingham,REP,2006,2008,4,Yes,Yes,No
+270,South Carolina,State Representative,90,Bakari Sellers,DEM,2010,2012,3,Yes,Yes,Yes
+271,South Carolina,State Representative,90,Bakari Sellers,DEM,2008,2010,2,Yes,Yes,Yes
+272,South Carolina,State Representative,90,Bakari Sellers,DEM,2006,2008,1,Yes,Yes,Yes
+273,South Carolina,State Representative,91,Lonnie Hosey,DEM,2010,2012,6,No,Yes,Yes
+274,South Carolina,State Representative,91,Lonnie Hosey,DEM,2008,2010,5,Yes,Yes,Yes
+275,South Carolina,State Representative,91,Lonnie Hosey,DEM,2006,2008,4,Yes,Yes,Yes
+276,South Carolina,State Representative,92,Joe Daning,REP,2010,2012,2,Yes,Yes,Yes
+277,South Carolina,State Representative,92,Joe Daning,REP,2008,2010,1,Yes,Yes,Yes
+278,South Carolina,State Representative,92,Shirley Hinson,REP,2006,2008,4,Yes,Yes,Yes
+279,South Carolina,State Representative,93,Harry Ott Jr.,DEM,2010,2012,6,No,Yes,Yes
+280,South Carolina,State Representative,93,Harry Ott Jr.,DEM,2008,2010,5,Yes,Yes,Yes
+281,South Carolina,State Representative,93,Harry Ott Jr.,DEM,2006,2008,4,Yes,Yes,Yes
+282,South Carolina,State Representative,94,Jenny Horne,REP,2010,2012,2,Yes,Yes,No
+283,South Carolina,State Representative,94,Jenny Horne,REP,2008,2010,1,Yes,Yes,No
+284,South Carolina,State Representative,94,Converse Chellis III,REP,2006,2008,4,Yes,Yes,No
+285,South Carolina,State Representative,95,Jerry Govan Jr.,DEM,2010,2012,6,Yes,No,Yes
+286,South Carolina,State Representative,95,Jerry Govan Jr.,DEM,2008,2010,5,Yes,No,Yes
+287,South Carolina,State Representative,95,Jerry Govan Jr.,DEM,2006,2008,4,Yes,No,Yes
+288,South Carolina,State Representative,96,Kit Spires,REP,2010,2012,3,Yes,Yes,No
+289,South Carolina,State Representative,96,Kit Spires,REP,2008,2010,2,Yes,Yes,No
+290,South Carolina,State Representative,96,Kit Spires,REP,2006,2008,1,No,Yes,No
+291,South Carolina,State Representative,97,Patsy Knight,DEM,2010,2012,3,Yes,Yes,No
+292,South Carolina,State Representative,97,Patsy Knight,DEM,2008,2010,2,No,Yes,No
+293,South Carolina,State Representative,97,Patsy Knight,DEM,2006,2008,1,No,Yes,No
+294,South Carolina,State Representative,98,Chris Murphy,REP,2010,2012,1,No,Yes,No
+295,South Carolina,State Representative,98,Annette Young,REP,2008,2010,5,No,Yes,No
+296,South Carolina,State Representative,98,Annette Young,REP,2006,2008,4,Yes,Yes,No
+297,South Carolina,State Representative,99,Jim Merrill,REP,2010,2012,6,Yes,No,No
+298,South Carolina,State Representative,99,Jim Merrill,REP,2008,2010,5,Yes,No,No
+299,South Carolina,State Representative,99,Jim Merrill,REP,2006,2008,4,Yes,No,No
+300,South Carolina,State Representative,100,David Umphlett Jr.,REP,2010,2012,5,Yes,Yes,No
+301,South Carolina,State Representative,100,David Umphlett Jr.,REP,2008,2010,4,Yes,Yes,No
+302,South Carolina,State Representative,100,David Umphlett Jr.,REP,2006,2008,3,Yes,Yes,No
+303,South Carolina,State Representative,101,Ronnie Sabb,DEM,2010,2012,1,No,No,Yes
+304,South Carolina,State Representative,101,Ken Kennedy,DEM,2008,2010,5,Yes,No,Yes
+305,South Carolina,State Representative,101,Ken Kennedy,DEM,2006,2008,4,Yes,No,Yes
+306,South Carolina,State Representative,102,Joe Jefferson Jr.,DEM,2010,2012,4,No,Yes,Yes
+307,South Carolina,State Representative,102,Joe Jefferson Jr.,DEM,2008,2010,3,Yes,Yes,Yes
+308,South Carolina,State Representative,102,Joe Jefferson Jr.,DEM,2006,2008,2,Yes,Yes,Yes
+309,South Carolina,State Representative,103,Carl Anderson,DEM,2010,2012,4,Yes,No,Yes
+310,South Carolina,State Representative,103,Carl Anderson,DEM,2008,2010,3,Yes,No,Yes
 311,South Carolina,State Representative,103,Carl Anderson,DEM,2006,2008,2,Yes,No,Yes
-209,South Carolina,State Representative,104,Tracy Edge,REP,2010,2012,6,No,Yes,No
-210,South Carolina,State Representative,104,Tracy Edge,REP,2008,2010,5,No,Yes,No
-312,South Carolina,State Representative,104,Tracy Edge,REP,2006,2008,4,No,Yes,No
-211,South Carolina,State Representative,105,George Hearn,REP,2010,2012,2,Yes,Yes,Yes
-212,South Carolina,State Representative,105,George Hearn,REP,2008,2010,1,Yes,Yes,Yes
-313,South Carolina,State Representative,105,Billy David Witherspoon,REP,2006,2008,4,Yes,Yes,Yes
-213,South Carolina,State Representative,106,Nelson Hardwick,REP,2010,2012,4,Yes,Yes,Yes
-214,South Carolina,State Representative,106,Nelson Hardwick,REP,2008,2010,3,Yes,Yes,Yes
-314,South Carolina,State Representative,106,Nelson Hardwick,REP,2006,2008,2,Yes,Yes,Yes
-215,South Carolina,State Representative,107,Alan Clemmons,REP,2010,2012,5,Yes,Yes,Yes
-216,South Carolina,State Representative,107,Alan Clemmons,REP,2008,2010,4,Yes,Yes,Yes
-315,South Carolina,State Representative,107,Alan Clemmons,REP,2006,2008,3,No,Yes,Yes
-217,South Carolina,State Representative,108,Kevin Ryan,REP,2010,2012,1,No,Yes,Yes
-218,South Carolina,State Representative,108,Vida Miller,DEM,2008,2010,5,No,Yes,Yes
-316,South Carolina,State Representative,108,Vida Miller,DEM,2006,2008,4,No,Yes,Yes
-219,South Carolina,State Representative,109,David Mack III,DEM,2010,2012,6,Yes,Yes,Yes
-220,South Carolina,State Representative,109,David Mack III,DEM,2008,2010,5,No,Yes,Yes
-317,South Carolina,State Representative,109,David Mack III,DEM,2006,2008,4,Yes,Yes,Yes
-221,South Carolina,State Representative,110,Chip Bancroft Limehouse III,REP,2010,2012,6,Yes,Yes,No
-222,South Carolina,State Representative,110,Chip Bancroft Limehouse III,REP,2008,2010,5,No,Yes,No
-319,South Carolina,State Representative,110,Chip Bancroft Limehouse III,REP,2006,2008,4,Yes,Yes,No
-223,South Carolina,State Representative,111,Wendell Gilliard,DEM,2010,2012,2,Yes,Yes,Yes
-224,South Carolina,State Representative,111,Wendell Gilliard,DEM,2008,2010,1,Yes,Yes,Yes
-320,South Carolina,State Representative,111,Floyd Breeland,DEM,2006,2008,4,Yes,Yes,Yes
-225,South Carolina,State Representative,112,Mike Michael Sottile,REP,2010,2012,2,Yes,Yes,No
-226,South Carolina,State Representative,112,Mike Michael Sottile,REP,2008,2010,1,Yes,Yes,No
-321,South Carolina,State Representative,112,Ben Hagood,REP,2006,2008,3,Yes,Yes,No
-227,South Carolina,State Representative,113,Jackson Seth Whipper,DEM,2010,2012,5,Yes,Yes,Yes
-228,South Carolina,State Representative,113,Jackson Seth Whipper,DEM,2008,2010,4,Yes,Yes,Yes
-322,South Carolina,State Representative,113,Jackson Seth Whipper,DEM,2006,2008,3,Yes,Yes,Yes
-229,South Carolina,State Representative,114,Bobby Harrell Jr.,REP,2010,2012,6,Yes,Yes,Yes
-230,South Carolina,State Representative,114,Bobby Harrell Jr.,REP,2008,2010,5,Yes,Yes,Yes
-323,South Carolina,State Representative,114,Bobby Harrell Jr.,REP,2006,2008,4,Yes,Yes,Yes
-231,South Carolina,State Representative,115,Peter McCoy,REP,2010,2012,1,No,Yes,Yes
-232,South Carolina,State Representative,115,Anne Peterson Hutto,DEM,2008,2010,1,No,Yes,Yes
-324,South Carolina,State Representative,115,Wallace Scarborough,REP,2006,2008,4,No,Yes,Yes
-233,South Carolina,State Representative,116,Robert Brown,DEM,2010,2012,6,No,Yes,No
-234,South Carolina,State Representative,116,Robert Brown,DEM,2008,2010,5,Yes,Yes,No
-325,South Carolina,State Representative,116,Robert Brown,DEM,2006,2008,4,Yes,Yes,No
-235,South Carolina,State Representative,117,Bill Crosby,REP,2010,2012,1,No,Yes,No
-236,South Carolina,State Representative,117,Timothy Eugene Scott,REP,2008,2010,1,Yes,Yes,No
-326,South Carolina,State Representative,117,Thomas Middleton Dantzler,REP,2006,2008,4,Yes,Yes,No
-237,South Carolina,State Representative,118,Bill Herbkersman,REP,2010,2012,5,Yes,Yes,Yes
-238,South Carolina,State Representative,118,Bill Herbkersman,REP,2008,2010,4,Yes,Yes,Yes
-327,South Carolina,State Representative,118,Bill Herbkersman,REP,2006,2008,3,Yes,Yes,Yes
-239,South Carolina,State Representative,119,Leon Stavrinakis,DEM,2010,2012,3,No,Yes,Yes
-240,South Carolina,State Representative,119,Leon Stavrinakis,DEM,2008,2010,2,No,Yes,Yes
-328,South Carolina,State Representative,119,Leon Stavrinakis,DEM,2006,2008,1,No,Yes,Yes
-241,South Carolina,State Representative,120,Bill Bowers,DEM,2010,2012,6,No,No,Yes
-242,South Carolina,State Representative,120,Bill Bowers,DEM,2008,2010,5,Yes,No,Yes
-330,South Carolina,State Representative,120,Bill Bowers,DEM,2006,2008,4,No,No,Yes
-243,South Carolina,State Representative,121,Ken Hodges,DEM,2010,2012,3,Yes,Yes,Yes
-244,South Carolina,State Representative,121,Ken Hodges,DEM,2008,2010,2,No,Yes,Yes
-331,South Carolina,State Representative,121,Ken Hodges,DEM,2006,2008,1,No,Yes,Yes
-245,South Carolina,State Representative,122,Curtis Brantley,DEM,2010,2012,3,Yes,No,Yes
-246,South Carolina,State Representative,122,Curtis Brantley,DEM,2008,2010,2,Yes,No,Yes
-332,South Carolina,State Representative,122,Curtis Brantley,DEM,2006,2008,1,Yes,No,Yes
-247,South Carolina,State Representative,123,Andy Patrick,REP,2010,2012,1,No,Yes,No
-248,South Carolina,State Representative,123,Richard Chalk,REP,2008,2010,3,Yes,Yes,No
-333,South Carolina,State Representative,123,Richard Chalk,REP,2006,2008,2,No,Yes,No
-249,South Carolina,State Representative,124,Shannon Erickson,REP,2010,2012,2,Yes,Yes,Yes
-250,South Carolina,State Representative,124,Shannon Erickson,REP,2008,2010,1,No,Yes,Yes
-334,South Carolina,State Representative,124,Catherine Ceips,REP,2006,2008,3,Yes,Yes,Yes
-251,South Carolina,State Senator,1,Thomas Alexander,REP,2008,2012,3,No,Yes,Yes
-252,South Carolina,State Senator,2,Larry Martin,REP,2008,2012,3,Yes,Yes,Yes
-253,South Carolina,State Senator,3,Kevin Bryant,REP,2008,2012,1,No,Yes,Yes
-254,South Carolina,State Senator,4,William Odell,REP,2008,2012,3,No,Yes,Yes
-255,South Carolina,State Senator,5,Phil Shoopman,REP,2008,2012,1,Yes,Yes,Yes
-256,South Carolina,State Senator,6,Michael Fair,REP,2008,2012,3,Yes,Yes,Yes
-257,South Carolina,State Senator,7,Ralph Anderson,DEM,2008,2012,3,No,Yes,Yes
-258,South Carolina,State Senator,8,David Lloyd Thomas,REP,2008,2012,3,Yes,Yes,Yes
-259,South Carolina,State Senator,9,Danny Verdin,REP,2008,2012,3,Yes,Yes,Yes
-260,South Carolina,State Senator,10,Floyd Nicholson,DEM,2008,2012,1,No,Yes,Yes
-261,South Carolina,State Senator,11,Glenn Reese,DEM,2008,2012,3,No,Yes,Yes
-262,South Carolina,State Senator,12,Marvin Lee Bright III,REP,2008,2012,1,No,Yes,Yes
-263,South Carolina,State Senator,13,Shane Martin,REP,2008,2012,1,No,Yes,Yes
-264,South Carolina,State Senator,14,Harvey Smith Peeler Jr.,REP,2008,2012,3,Yes,Yes,Yes
-265,South Carolina,State Senator,15,Wes Wesley Hayes Jr.,REP,2008,2012,3,Yes,Yes,Yes
-266,South Carolina,State Senator,16,Chauncey Klugh Gregory,REP,2011,2012,1,No,Yes,Yes
-267,South Carolina,State Senator,16,Mick Michael Mulvaney,REP,2008,2012,1,No,Yes,Yes
-268,South Carolina,State Senator,17,Creighton Coleman,DEM,2008,2012,1,No,Yes,Yes
-269,South Carolina,State Senator,18,Ronnie Cromer,REP,2008,2012,2,No,Yes,Yes
-270,South Carolina,State Senator,19,John Scott Jr.,DEM,2008,2012,1,No,Yes,Yes
-271,South Carolina,State Senator,20,John Courson,REP,2008,2012,3,Yes,Yes,Yes
-272,South Carolina,State Senator,21,Darrell Jackson,DEM,2008,2012,3,Yes,Yes,Yes
-273,South Carolina,State Senator,22,Joel Lourie,DEM,2008,2012,2,No,Yes,Yes
-274,South Carolina,State Senator,23,Jake Knotts Jr.,REP,2008,2012,2,Yes,Yes,Yes
-275,South Carolina,State Senator,24,Greg Ryberg,REP,2008,2012,3,Yes,Yes,Yes
-276,South Carolina,State Senator,25,Anthony Shane Massey,REP,2008,2012,1,No,Yes,Yes
-277,South Carolina,State Senator,26,Nikki Giles Setzler,DEM,2008,2012,3,No,Yes,Yes
-278,South Carolina,State Senator,27,Vincent Sheheen,DEM,2008,2012,2,Yes,Yes,Yes
-279,South Carolina,State Senator,28,Dick Elliott,DEM,2008,2012,3,No,Yes,Yes
-280,South Carolina,State Senator,29,Gerald Malloy,DEM,2008,2012,2,Yes,Yes,Yes
-281,South Carolina,State Senator,30,Kent Williams,DEM,2008,2012,2,Yes,Yes,Yes
-282,South Carolina,State Senator,31,Hugh Kenneth Leatherman Sr.,REP,2008,2012,3,Yes,Yes,Yes
-283,South Carolina,State Senator,32,Yancey McGill,DEM,2008,2012,3,Yes,Yes,Yes
-284,South Carolina,State Senator,33,Luke Rankin,REP,2008,2012,3,No,Yes,Yes
-285,South Carolina,State Senator,34,Raymond Cleary III,REP,2008,2012,2,Yes,Yes,Yes
-286,South Carolina,State Senator,35,Phil Leventis,DEM,2008,2012,3,No,Yes,Yes
-287,South Carolina,State Senator,36,John Land III,DEM,2008,2012,3,Yes,Yes,Yes
-288,South Carolina,State Senator,37,Larry Grooms,REP,2008,2012,3,Yes,Yes,Yes
-289,South Carolina,State Senator,38,Mike Rose,REP,2008,2012,1,No,Yes,Yes
-290,South Carolina,State Senator,39,John Matthews Jr.,DEM,2008,2012,3,Yes,Yes,Yes
-291,South Carolina,State Senator,40,Brad Bradley Hutto,DEM,2008,2012,3,No,Yes,Yes
-292,South Carolina,State Senator,41,Glenn McConnell,REP,2008,2012,3,Yes,Yes,Yes
-293,South Carolina,State Senator,42,Robert Ford,DEM,2008,2012,3,No,Yes,Yes
-294,South Carolina,State Senator,43,Chip Campsen III,REP,2008,2012,2,Yes,Yes,Yes
-295,South Carolina,State Senator,44,Paul Campbell Jr.,REP,2008,2012,1,Yes,Yes,Yes
-296,South Carolina,State Senator,45,Clementa Pinckney,DEM,2008,2012,3,Yes,Yes,Yes
-297,South Carolina,State Senator,46,Thomas Davis,REP,2008,2012,1,No,Yes,Yes
-298,South Carolina,Superintendent Of Public Instruction,0,Mick Zais,REP,2010,2014,0,No,Yes,Yes
-299,South Carolina,U.S. Representative,1,Timothy Eugene Scott,REP,2010,2012,1,No,No,No
-300,South Carolina,U.S. Representative,2,Joe Graves Wilson,REP,2010,2012,1,No,No,Yes
-301,South Carolina,U.S. Representative,3,Jeff Duncan,REP,2010,2012,1,No,No,Yes
-302,South Carolina,U.S. Representative,4,Trey Gowdy III,REP,2010,2012,1,No,No,No
-303,South Carolina,U.S. Representative,5,Mick Michael Mulvaney,REP,2010,2012,1,No,No,Yes
-304,South Carolina,U.S. Representative,6,Jim Clyburn,DEM,2010,2012,1,No,Yes,Yes
-305,South Carolina,U.S. Senator,0,Jim Demint,REP,2010,2016,0,No,Yes,Yes
+312,South Carolina,State Representative,104,Tracy Edge,REP,2010,2012,6,No,Yes,No
+313,South Carolina,State Representative,104,Tracy Edge,REP,2008,2010,5,No,Yes,No
+314,South Carolina,State Representative,104,Tracy Edge,REP,2006,2008,4,No,Yes,No
+315,South Carolina,State Representative,105,George Hearn,REP,2010,2012,2,Yes,Yes,Yes
+316,South Carolina,State Representative,105,George Hearn,REP,2008,2010,1,Yes,Yes,Yes
+317,South Carolina,State Representative,105,Billy David Witherspoon,REP,2006,2008,4,Yes,Yes,Yes
+318,South Carolina,State Representative,106,Nelson Hardwick,REP,2010,2012,4,Yes,Yes,Yes
+319,South Carolina,State Representative,106,Nelson Hardwick,REP,2008,2010,3,Yes,Yes,Yes
+320,South Carolina,State Representative,106,Nelson Hardwick,REP,2006,2008,2,Yes,Yes,Yes
+321,South Carolina,State Representative,107,Alan Clemmons,REP,2010,2012,5,Yes,Yes,Yes
+322,South Carolina,State Representative,107,Alan Clemmons,REP,2008,2010,4,Yes,Yes,Yes
+323,South Carolina,State Representative,107,Alan Clemmons,REP,2006,2008,3,No,Yes,Yes
+324,South Carolina,State Representative,108,Kevin Ryan,REP,2010,2012,1,No,Yes,Yes
+325,South Carolina,State Representative,108,Vida Miller,DEM,2008,2010,5,No,Yes,Yes
+326,South Carolina,State Representative,108,Vida Miller,DEM,2006,2008,4,No,Yes,Yes
+327,South Carolina,State Representative,109,David Mack III,DEM,2010,2012,6,Yes,Yes,Yes
+328,South Carolina,State Representative,109,David Mack III,DEM,2008,2010,5,No,Yes,Yes
+329,South Carolina,State Representative,109,David Mack III,DEM,2006,2008,4,Yes,Yes,Yes
+330,South Carolina,State Representative,110,Chip Bancroft Limehouse III,REP,2010,2012,6,Yes,Yes,No
+331,South Carolina,State Representative,110,Chip Bancroft Limehouse III,REP,2008,2010,5,No,Yes,No
+332,South Carolina,State Representative,110,Chip Bancroft Limehouse III,REP,2006,2008,4,Yes,Yes,No
+333,South Carolina,State Representative,111,Wendell Gilliard,DEM,2010,2012,2,Yes,Yes,Yes
+334,South Carolina,State Representative,111,Wendell Gilliard,DEM,2008,2010,1,Yes,Yes,Yes
+335,South Carolina,State Representative,111,Floyd Breeland,DEM,2006,2008,4,Yes,Yes,Yes
+336,South Carolina,State Representative,112,Mike Michael Sottile,REP,2010,2012,2,Yes,Yes,No
+337,South Carolina,State Representative,112,Mike Michael Sottile,REP,2008,2010,1,Yes,Yes,No
+338,South Carolina,State Representative,112,Ben Hagood,REP,2006,2008,3,Yes,Yes,No
+339,South Carolina,State Representative,113,Jackson Seth Whipper,DEM,2010,2012,5,Yes,Yes,Yes
+340,South Carolina,State Representative,113,Jackson Seth Whipper,DEM,2008,2010,4,Yes,Yes,Yes
+341,South Carolina,State Representative,113,Jackson Seth Whipper,DEM,2006,2008,3,Yes,Yes,Yes
+342,South Carolina,State Representative,114,Bobby Harrell Jr.,REP,2010,2012,6,Yes,Yes,Yes
+343,South Carolina,State Representative,114,Bobby Harrell Jr.,REP,2008,2010,5,Yes,Yes,Yes
+344,South Carolina,State Representative,114,Bobby Harrell Jr.,REP,2006,2008,4,Yes,Yes,Yes
+345,South Carolina,State Representative,115,Peter McCoy,REP,2010,2012,1,No,Yes,Yes
+346,South Carolina,State Representative,115,Anne Peterson Hutto,DEM,2008,2010,1,No,Yes,Yes
+347,South Carolina,State Representative,115,Wallace Scarborough,REP,2006,2008,4,No,Yes,Yes
+348,South Carolina,State Representative,116,Robert Brown,DEM,2010,2012,6,No,Yes,No
+349,South Carolina,State Representative,116,Robert Brown,DEM,2008,2010,5,Yes,Yes,No
+350,South Carolina,State Representative,116,Robert Brown,DEM,2006,2008,4,Yes,Yes,No
+351,South Carolina,State Representative,117,Bill Crosby,REP,2010,2012,1,No,Yes,No
+352,South Carolina,State Representative,117,Timothy Eugene Scott,REP,2008,2010,1,Yes,Yes,No
+353,South Carolina,State Representative,117,Thomas Middleton Dantzler,REP,2006,2008,4,Yes,Yes,No
+354,South Carolina,State Representative,118,Bill Herbkersman,REP,2010,2012,5,Yes,Yes,Yes
+355,South Carolina,State Representative,118,Bill Herbkersman,REP,2008,2010,4,Yes,Yes,Yes
+356,South Carolina,State Representative,118,Bill Herbkersman,REP,2006,2008,3,Yes,Yes,Yes
+357,South Carolina,State Representative,119,Leon Stavrinakis,DEM,2010,2012,3,No,Yes,Yes
+358,South Carolina,State Representative,119,Leon Stavrinakis,DEM,2008,2010,2,No,Yes,Yes
+359,South Carolina,State Representative,119,Leon Stavrinakis,DEM,2006,2008,1,No,Yes,Yes
+360,South Carolina,State Representative,120,Bill Bowers,DEM,2010,2012,6,No,No,Yes
+361,South Carolina,State Representative,120,Bill Bowers,DEM,2008,2010,5,Yes,No,Yes
+362,South Carolina,State Representative,120,Bill Bowers,DEM,2006,2008,4,No,No,Yes
+363,South Carolina,State Representative,121,Ken Hodges,DEM,2010,2012,3,Yes,Yes,Yes
+364,South Carolina,State Representative,121,Ken Hodges,DEM,2008,2010,2,No,Yes,Yes
+365,South Carolina,State Representative,121,Ken Hodges,DEM,2006,2008,1,No,Yes,Yes
+366,South Carolina,State Representative,122,Curtis Brantley,DEM,2010,2012,3,Yes,No,Yes
+367,South Carolina,State Representative,122,Curtis Brantley,DEM,2008,2010,2,Yes,No,Yes
+368,South Carolina,State Representative,122,Curtis Brantley,DEM,2006,2008,1,Yes,No,Yes
+369,South Carolina,State Representative,123,Andy Patrick,REP,2010,2012,1,No,Yes,No
+370,South Carolina,State Representative,123,Richard Chalk,REP,2008,2010,3,Yes,Yes,No
+371,South Carolina,State Representative,123,Richard Chalk,REP,2006,2008,2,No,Yes,No
+372,South Carolina,State Representative,124,Shannon Erickson,REP,2010,2012,2,Yes,Yes,Yes
+373,South Carolina,State Representative,124,Shannon Erickson,REP,2008,2010,1,No,Yes,Yes
+374,South Carolina,State Representative,124,Catherine Ceips,REP,2006,2008,3,Yes,Yes,Yes
+375,South Carolina,State Senator,1,Thomas Alexander,REP,2008,2012,3,No,Yes,Yes
+376,South Carolina,State Senator,2,Larry Martin,REP,2008,2012,3,Yes,Yes,Yes
+377,South Carolina,State Senator,3,Kevin Bryant,REP,2008,2012,1,No,Yes,Yes
+378,South Carolina,State Senator,4,William Odell,REP,2008,2012,3,No,Yes,Yes
+379,South Carolina,State Senator,5,Phil Shoopman,REP,2008,2012,1,Yes,Yes,Yes
+380,South Carolina,State Senator,6,Michael Fair,REP,2008,2012,3,Yes,Yes,Yes
+381,South Carolina,State Senator,7,Ralph Anderson,DEM,2008,2012,3,No,Yes,Yes
+382,South Carolina,State Senator,8,David Lloyd Thomas,REP,2008,2012,3,Yes,Yes,Yes
+383,South Carolina,State Senator,9,Danny Verdin,REP,2008,2012,3,Yes,Yes,Yes
+384,South Carolina,State Senator,10,Floyd Nicholson,DEM,2008,2012,1,No,Yes,Yes
+385,South Carolina,State Senator,11,Glenn Reese,DEM,2008,2012,3,No,Yes,Yes
+386,South Carolina,State Senator,12,Marvin Lee Bright III,REP,2008,2012,1,No,Yes,Yes
+387,South Carolina,State Senator,13,Shane Martin,REP,2008,2012,1,No,Yes,Yes
+388,South Carolina,State Senator,14,Harvey Smith Peeler Jr.,REP,2008,2012,3,Yes,Yes,Yes
+389,South Carolina,State Senator,15,Wes Wesley Hayes Jr.,REP,2008,2012,3,Yes,Yes,Yes
+390,South Carolina,State Senator,16,Chauncey Klugh Gregory,REP,2011,2012,1,No,Yes,Yes
+391,South Carolina,State Senator,16,Mick Michael Mulvaney,REP,2008,2012,1,No,Yes,Yes
+392,South Carolina,State Senator,17,Creighton Coleman,DEM,2008,2012,1,No,Yes,Yes
+393,South Carolina,State Senator,18,Ronnie Cromer,REP,2008,2012,2,No,Yes,Yes
+394,South Carolina,State Senator,19,John Scott Jr.,DEM,2008,2012,1,No,Yes,Yes
+395,South Carolina,State Senator,20,John Courson,REP,2008,2012,3,Yes,Yes,Yes
+396,South Carolina,State Senator,21,Darrell Jackson,DEM,2008,2012,3,Yes,Yes,Yes
+397,South Carolina,State Senator,22,Joel Lourie,DEM,2008,2012,2,No,Yes,Yes
+398,South Carolina,State Senator,23,Jake Knotts Jr.,REP,2008,2012,2,Yes,Yes,Yes
+399,South Carolina,State Senator,24,Greg Ryberg,REP,2008,2012,3,Yes,Yes,Yes
+400,South Carolina,State Senator,25,Anthony Shane Massey,REP,2008,2012,1,No,Yes,Yes
+401,South Carolina,State Senator,26,Nikki Giles Setzler,DEM,2008,2012,3,No,Yes,Yes
+402,South Carolina,State Senator,27,Vincent Sheheen,DEM,2008,2012,2,Yes,Yes,Yes
+403,South Carolina,State Senator,28,Dick Elliott,DEM,2008,2012,3,No,Yes,Yes
+404,South Carolina,State Senator,29,Gerald Malloy,DEM,2008,2012,2,Yes,Yes,Yes
+405,South Carolina,State Senator,30,Kent Williams,DEM,2008,2012,2,Yes,Yes,Yes
+406,South Carolina,State Senator,31,Hugh Kenneth Leatherman Sr.,REP,2008,2012,3,Yes,Yes,Yes
+407,South Carolina,State Senator,32,Yancey McGill,DEM,2008,2012,3,Yes,Yes,Yes
+408,South Carolina,State Senator,33,Luke Rankin,REP,2008,2012,3,No,Yes,Yes
+409,South Carolina,State Senator,34,Raymond Cleary III,REP,2008,2012,2,Yes,Yes,Yes
+410,South Carolina,State Senator,35,Phil Leventis,DEM,2008,2012,3,No,Yes,Yes
+411,South Carolina,State Senator,36,John Land III,DEM,2008,2012,3,Yes,Yes,Yes
+412,South Carolina,State Senator,37,Larry Grooms,REP,2008,2012,3,Yes,Yes,Yes
+413,South Carolina,State Senator,38,Mike Rose,REP,2008,2012,1,No,Yes,Yes
+414,South Carolina,State Senator,39,John Matthews Jr.,DEM,2008,2012,3,Yes,Yes,Yes
+415,South Carolina,State Senator,40,Brad Bradley Hutto,DEM,2008,2012,3,No,Yes,Yes
+416,South Carolina,State Senator,41,Glenn McConnell,REP,2008,2012,3,Yes,Yes,Yes
+417,South Carolina,State Senator,42,Robert Ford,DEM,2008,2012,3,No,Yes,Yes
+418,South Carolina,State Senator,43,Chip Campsen III,REP,2008,2012,2,Yes,Yes,Yes
+419,South Carolina,State Senator,44,Paul Campbell Jr.,REP,2008,2012,1,Yes,Yes,Yes
+420,South Carolina,State Senator,45,Clementa Pinckney,DEM,2008,2012,3,Yes,Yes,Yes
+421,South Carolina,State Senator,46,Thomas Davis,REP,2008,2012,1,No,Yes,Yes
+422,South Carolina,Superintendent Of Public Instruction,0,Mick Zais,REP,2010,2014,0,No,Yes,Yes
+423,South Carolina,U.S. Representative,1,Timothy Eugene Scott,REP,2010,2012,1,No,No,No
+424,South Carolina,U.S. Representative,2,Joe Graves Wilson,REP,2010,2012,1,No,No,Yes
+425,South Carolina,U.S. Representative,3,Jeff Duncan,REP,2010,2012,1,No,No,Yes
+426,South Carolina,U.S. Representative,4,Trey Gowdy III,REP,2010,2012,1,No,No,No
+427,South Carolina,U.S. Representative,5,Mick Michael Mulvaney,REP,2010,2012,1,No,No,Yes
+428,South Carolina,U.S. Representative,6,Jim Clyburn,DEM,2010,2012,1,No,Yes,Yes
+429,South Carolina,U.S. Senator,0,Jim Demint,REP,2010,2016,0,No,Yes,Yes
+430,South Carolina,U.S. Senator,0,Jim Demint,REP,2010,2016,1,No,Yes,Yes

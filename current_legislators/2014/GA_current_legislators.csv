@@ -1,7 +1,7 @@
 ,State,Position,District,Candidate,Party,Year Elected,Next Election,Number of Terms in Position,Unopposed in Last Election,DEM Unopposed in Primary,REP Unopposed in Primary
 0,Georgia,Attorney General,0,Samuel Olens,REP,2010,2014,0,No,Yes,Yes
 1,Georgia,Governor,0,Nathan Deal,REP,2010,2014,0,No,No,No
-2,Georgia,Lieutenant Governor,nan,Casey Cagle,REP,2010,2014,0,No,No,No
+2,Georgia,Lieutenant Governor,0,Casey Cagle,REP,2010,2014,0,No,No,No
 3,Georgia,Secretary Of State,0,Brian Kemp,REP,2010,2014,0,No,No,No
 4,Georgia,State Representative,1,John Deffenbaugh,REP,2012,2014,1,No,Yes,No
 5,Georgia,State Representative,2,Jay Neal,REP,2012,2014,1,Yes,Yes,Yes
@@ -255,3 +255,4 @@
 253,Georgia,U.S. Representative,13,David Scott,DEM,2012,2014,2,No,Yes,No
 254,Georgia,U.S. Representative,14,Tom Thomas Graves Jr.,REP,2012,2014,1,No,Yes,Yes
 255,Georgia,U.S. Senator,0,Johnny Isakson,REP,2010,2016,0,No,Yes,Yes
+256,Georgia,U.S. Senator,0,Johnny Isakson,REP,2010,2016,1,No,Yes,Yes
