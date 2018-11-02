@@ -2,7 +2,7 @@ Our Methodology: How 50Fifty's Predictions Work
 Sam Mahle and Noah Covey
 October 30, 2018
 
-We've worked on 50Fifty over the past few months, and now that it's released, we want to share details of how we collected data for our model and what factors impact our predictions.
+This article shares details of how we collected data for our model and what factors impact our predictions. The first section is an overview of the model, and the second details the specific data points the model takes into account.
 
 <h1>Overview</h1>
 

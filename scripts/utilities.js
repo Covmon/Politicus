@@ -85,7 +85,7 @@ $(document).ready(function() {
     }
 
     isTouchDevice = is_touch_device();
-    if (isTouchDevice) {
+    if (window.innerWidth < 500) {
         numCardsToLoad = 6;
     }
 
