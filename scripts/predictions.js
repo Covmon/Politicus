@@ -646,7 +646,7 @@ class MatchupGoogle {
         } else {
             this.position = contest.office;
         }
-        this.district = (contest.district.id != null) ? contest.district.id : "0";
+        this.district = (contest.district.id != null) ? contest.district.id : "Statewide";
     }
 }
 

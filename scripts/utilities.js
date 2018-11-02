@@ -75,6 +75,9 @@ $(document).ready(function() {
         } else if (currentURL.includes("senate")) {
             getJSONOverall(state, "Senate");
         }
+    } else if (currentURL.includes("index")) {
+        getJSONAllOverall(["House", "Senate"]);
+        console.log(allOverallData);
     }
 
     isTouchDevice = is_touch_device();
@@ -122,6 +125,42 @@ function getJSONCurrentCandidates(state) {
             currentAllCandidates = jsonPData;
         });
     }
+}
+
+function getJSONAllOverall(bodies) {
+    $.ajaxSetup({
+        async: false
+    });
+    for (state of availableStates) {
+        for (body of bodies) {
+            let url = "/predictions_data/" + state + "_" + body + "_Election_Predictions.json"; 
+
+            var success = false;
+            $.getJSON(url, function(json) {
+                success = true;
+                console.log("Got JSON from local url " + url);
+                let jsonP = JSON.parse(json);
+                let jsonPData = jsonP.data;
+                
+                allOverallData.push(jsonPData);
+            });
+        
+            if (!success) {
+                let urlOnline = "https://50fifty.us" + url;
+                $.getJSON(urlOnline, function(json) {
+                    success = true;
+                    console.log("Got JSON from online url " + urlOnline);
+                    let jsonP = JSON.parse(json);
+                    let jsonPData = jsonP.data;
+                
+                    allOverallData.push(jsonPData);
+                });
+            }
+
+        }
+
+    }
+
 }
 
 function getJSONOverall(state, body) {
@@ -265,7 +304,7 @@ function getElections(positions, numTopElections, createTable, alreadyAdded = []
         if (!arraysEqual(race, lastRace)) {
             lastRace = race;
             for (pos of positions){
-                if ((candidate.Position == pos || candidate.District == pos) && !(candidate.Position == "U.S. Senator" && pos == "0")) {
+                if ((candidate.Position == pos || candidate.District == pos) && !(candidate.Position == "U.S. Senator" && pos == "Statewide")) {
                     availableRaces.push(candidate);
                     break;
                 }
