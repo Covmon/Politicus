@@ -624,7 +624,7 @@ function createSquareChart(type) {
     var currentSeatsRepNumber = 0;
     var currentSeatsDemNumber = 0;
 
-    if (type == "U.S. Representtive") {
+    if (type == "U.S. Representative") {
         currentSeatsRepNumber = 240;
         currentSeatsDemNumber = 195;
     } else {
@@ -703,7 +703,7 @@ function createSquareChart(type) {
         seatGainColor = "gray";
     }
 
-    seatGainP = "<p class='medium-p' id='most-likely-change'>Average seat gain</p>";
+    seatGainP = "<p class='medium-p' id='most-likely-change'>Expected seat gain</p>";
     titleElement.after(seatGainP);
 
     seatGainH = "<h2 class='medium-h2 " + seatGainColor + "'>" + seatGainString + " " + seatString + "</h2>";
@@ -733,6 +733,9 @@ function createSquareChart(type) {
 
     var demWinLanguage = "win";
     var repWinLanguage = "win";
+    console.log("current seats");
+    console.log(currentSeatsDemNumber);
+    console.log(currentSeatsRepNumber);
 
     if (currentSeatsDemNumber > currentSeatsRepNumber) {
         demWinLanguage = "keep";
@@ -967,7 +970,6 @@ function createSquareChart(type) {
     $(".upper-lower-column-right").append(upperRepPredictedP);
     */
     overall.append("<hr>");
-
 
     
     $(".seat-square").hover(function (event) {

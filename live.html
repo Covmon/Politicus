@@ -31,10 +31,9 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/base/jquery-ui.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
-    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
-    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
 
     <!--Custom scripts-->
+    <script type="text/javascript" src="scripts/page_script_live.js"></script>
 </head>
 
 <body>
@@ -55,13 +54,9 @@
     </div>
 
     <div id="live-blog">
-        <iframe name="lb24" frameborder="0" height="960px" width="50%" class="lb24-iframe" scrolling="auto" src="//v.24liveblog.com/iframe/?id=2117628630659462619" ></iframe> 
+        <iframe id="live-blog-frame" name="lb24" frameborder="0" height="960px" class="lb24-iframe" scrolling="auto" src="//v.24liveblog.com/iframe/?id=2117628630659462619" ></iframe> 
         <script src="https://v.24liveblog.com/iframe.js"></script>
     </div>
-
-    <script>
-        $(".lb24-liveblog-white-label").remove();
-    </script>
 
     <!--
     <div id="LB24_LIVE_CONTENT" data-eid="2117628630659462619"></div>

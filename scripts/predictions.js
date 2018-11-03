@@ -370,7 +370,6 @@ function createCard(matchup, appendLocation = ".main-section", isPopupCard = fal
     var probabilityRep = rep["Predicted Win Probability"] + "%";
     var probabilityThird = third["Predicted Win Probability"] + "%";
 
-
     let thirdPartyString = " (" + third.Party + "): ";
 
     if (third["Predicted Vote Share"] < 0.02) {
