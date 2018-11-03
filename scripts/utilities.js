@@ -52,6 +52,7 @@ $(document).ready(function() {
     }
 
     let allStatesNeededInJSON = availableStates.concat(availableStatesNoStateLegislatures);
+    allStatesNeededInJSON.sort();
     if (sessionStorage.getItem("data_all") !== null) {
         let jsonString = sessionStorage.getItem("data_all")
         data = JSON.parse(jsonString);
