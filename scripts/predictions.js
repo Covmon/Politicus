@@ -368,6 +368,15 @@ function createCard(matchup, appendLocation = ".main-section", isPopupCard = fal
     var probabilityDem = dem["Predicted Win Probability"] + "%";
     var probabilityRep = rep["Predicted Win Probability"] + "%";
     var probabilityThird = third["Predicted Win Probability"] + "%";
+
+
+    let thirdPartyString = " (" + third.Party + "): ";
+
+    if (third["Predicted Vote Share"] < 0.02) {
+        third["Candidate"] = "Others";
+        third["Party"] = "";
+        thirdPartyString = "";
+    }
     
     var title = matchup["title"];
     var cardID = "card" + actualCardNumber;
@@ -410,11 +419,11 @@ function createCard(matchup, appendLocation = ".main-section", isPopupCard = fal
 
     if (percentThird > 2 && percentDem < 0.01) {
         let partyThird = " (" + third.Party + ")";
-        candidatesP = "<p> <span class='yellow'>" + third.Candidate + partyThird + incumbentThird + "</span> vs <span class='red'>" + rep.Candidate + incumbentRep + "</span> </p>";
+        candidatesP = "<p> <span class='yellow'>" + third.Candidate + thirdPartyString + incumbentThird + "</span> vs <span class='red'>" + rep.Candidate + incumbentRep + "</span> </p>";
         probabilitiesP = "<p class='number' id='vote-share'> <span class='yellow'>" + probabilityThird + " " + partyThird + "</span> vs <span class='red'>" + probabilityRep + " (R)</span> </p>";
     } else if (percentThird > 2 && percentRep < 0.01) {
         let partyThird = " (" + third.Party + ")";
-        candidatesP = "<p> <span class='blue'>" + dem.Candidate + incumbentDem + " </span> vs <span class='yellow'>" + third.Candidate + partyThird + incumbentThird + "</span> </p>";
+        candidatesP = "<p> <span class='blue'>" + dem.Candidate + incumbentDem + " </span> vs <span class='yellow'>" + third.Candidate + thirdPartyString + incumbentThird + "</span> </p>";
         probabilitiesP = "<p class='number' id='vote-share'> <span class='blue'>" + probabilityDem + " (D)</span> vs <span class='yellow'>" + probabilityThird + " " + partyThird + "</span> </p>";
     
     }
@@ -454,6 +463,14 @@ function createProjectionChart(matchup) {
     var percentRep = Number((predictionRep * 100).toFixed(1));
     var percentThird = Number((predictionThird * 100).toFixed(1));
 
+    let thirdPartyString = " (" + third.Party + "): ";
+
+    if (third["Predicted Vote Share"] < 0.02) {
+        third["Party"] = "";
+        third["Candidate"] = "Others";
+        thirdPartyString = ": ";
+    }
+
     var lengthDem = predictionDem * 200;
     var lengthRep = predictionRep * 200;
     var lengthThird = predictionThird * 200;
@@ -481,19 +498,19 @@ function createProjectionChart(matchup) {
     var pillThird = "";
     
     if (percentThird > 2 && percentDem < 0.01) {
-        pillThird = "<div title='" + third.Candidate + " (" + third.Party + "): " + percentThird + "%' class='pill-third pill-third-left' style='width:" + lengthThird + "px'> </div>";
+        pillThird = "<div title='" + third.Candidate + thirdPartyString + percentThird + "%' class='pill-third pill-third-left' style='width:" + lengthThird + "px'> </div>";
         pillDem = "<div class='pill-none' style='width:" + lengthDem + "px'> <p class='number'>" + percentDem + "%</p> </div>";
     } else if (percentThird > 2 && percentRep < 0.01) {
-        pillThird = "<div title='" + third.Candidate + " (" + third.Party + "): " + percentThird + "%' class='pill-third pill-third-right' style='width:" + lengthThird + "px'> </div>";
+        pillThird = "<div title='" + third.Candidate + thirdPartyString + percentThird + "%' class='pill-third pill-third-right' style='width:" + lengthThird + "px'> </div>";
         pillRep = "<div class='pill-none' style='width:" + lengthRep + "px'> <p class='number'>" + percentRep + "%</p> </div>";
     } else if (percentThird > 2 && percentDem < 25) {
-        pillThird = "<div title='" + third.Candidate + " (" + third.Party + "): " + percentThird + "%' class='pill-third' style='width:" + lengthThird + "px'> </div>";
+        pillThird = "<div title='" + third.Candidate + thirdPartyString + percentThird + "%' class='pill-third' style='width:" + lengthThird + "px'> </div>";
         pillDem = "<div title='" + dem.Candidate + " (" + dem.Party + "): " + percentDem + "%'class='pill-left' style='width:" + lengthDem + "px'> <p class='number'>%</p> </div>";
     } else if (percentThird > 2 && percentRep < 25) {
-        pillThird = "<div title='" + third.Candidate + " (" + third.Party + "): " + percentThird + "%' class='pill-third' style='width:" + lengthThird + "px'> </div>";
+        pillThird = "<div title='" + third.Candidate + thirdPartyString + percentThird + "%' class='pill-third' style='width:" + lengthThird + "px'> </div>";
         pillRep = "<div title='" + rep.Candidate + " (" + rep.Party + "): " + percentRep + "%' class='pill-right' style='width:" + lengthRep + "px'><p class='number'>%</p> </div>";
     } else if (percentThird > 2) {
-        pillThird = "<div title='" + third.Candidate + " (" + third.Party + "): " + percentThird + "%' class='pill-third' style='width:" + lengthThird + "px'> </div>";
+        pillThird = "<div title='" + third.Candidate + thirdPartyString + percentThird + "%' class='pill-third' style='width:" + lengthThird + "px'> </div>";
     }
 
     return pillDem + pillThird + pillRep;
@@ -687,6 +704,15 @@ function createTableRow(matchup, rowsList) {
     var probabilityRep = (!rep["Predicted Win Probability"].includes("%"))? rep["Predicted Win Probability"] + "%" : rep["Predicted Win Probability"];
     var probabilityThird = third["Predicted Win Probability"] + "%";
 
+    let thirdPartyString = " (" + third.Party + "): ";
+
+
+    if (third["Predicted Vote Share"] < 0.02) {
+        third["Party"] = "";
+        third["Candidate"] = "Others";
+        thirdPartyString = "";
+    }
+
     if (probabilityDem == "> 99.99%") {
         probabilityDem = ">99.9%";
     } else if (probabilityDem == "< 0.01%") {
@@ -732,12 +758,12 @@ function createTableRow(matchup, rowsList) {
 
     if (percentThird > 2 && percentDem < 0.01) {
         let partyThird = " (" + third.Party + ")";
-        candidates = "<p> <span class='yellow'>" + candidateThird + partyThird + incumbentThird + "</span> vs <span class='red'>" + candidateRep + incumbentRep + "</span> </p>";
+        candidates = "<p> <span class='yellow'>" + candidateThird + thirdPartyString + incumbentThird + "</span> vs <span class='red'>" + candidateRep + incumbentRep + "</span> </p>";
         probabilities = "<p class='number'> <span class='yellow'>" + probabilityThird + "</span> vs <span class='red'>" + probabilityRep + "</span> </p>";
 
     } else if (percentThird > 2 && percentRep < 0.01) {
         let partyThird = " (" + third.Party + ")";
-        candidates = "<p> <span class='blue'>" + candidateDem + incumbentDem + "</span> vs <span class='yellow'>" + candidateThird + partyThird + incumbentThird + "</span> </p>";
+        candidates = "<p> <span class='blue'>" + candidateDem + incumbentDem + "</span> vs <span class='yellow'>" + candidateThird + thirdPartyString + incumbentThird + "</span> </p>";
         probabilities = "<p class='number'> <span class='blue'>" + probabilityDem + "</span> vs <span class='yellow'>" + probabilityThird + "</span> </p>";
     
     }

@@ -69,6 +69,10 @@ $(document).ready(function() {
         currentStates = allStatesNeededInJSON;
     }
 
+    if (currentURL.includes("predictions_house")) {
+        getJSONOverall("US", "House");
+    }
+
     if (state != "All" && currentURL.includes("state")) {
         //Get overall json for this body
         getJSONCurrentCandidates(state);
@@ -616,22 +620,31 @@ function createSquareChart(type) {
     });
 
     //Get districts with no election this year
-    let stateAbbrev = currentStates[0];
-    var currentSeatsDem = [];
-    var currentSeatsRep = [];
-    console.log(currentAllCandidates);
-    for (district of currentAllCandidates) {
-        console.log("current");
-        if (district.Position == type && district["Next Election"] != 2018) {
-            currentDistrictsNoElection.push(district);
+    var currentSeatsRepNumber = 0;
+    var currentSeatsDemNumber = 0;
+
+    if (type == "U.S. Representtive") {
+        currentSeatsRepNumber = 240;
+        currentSeatsDemNumber = 195;
+    } else {
+        var currentSeatsDem = [];
+        var currentSeatsRep = [];
+        console.log(currentAllCandidates);
+        for (district of currentAllCandidates) {
+            console.log("current");
+            if (district.Position == type && district["Next Election"] != 2018) {
+                currentDistrictsNoElection.push(district);
+            }
+            if (district.Position == type && district["Party"] == "REP") {
+                currentSeatsRep.push(district);
+            } else if (district.Position == type && district["Party"] == "DEM") {
+                currentSeatsDem.push(district);
+            }
         }
-        if (district.Position == type && district["Party"] == "REP") {
-            currentSeatsRep.push(district);
-        } else if (district.Position == type && district["Party"] == "DEM") {
-            currentSeatsDem.push(district);
-        }
+        console.log(currentDistrictsNoElection);
+        currentSeatsRepNumber = currentSeatsRep.length;
+        currentSeatsDemNumber = currentSeatsDem.length;
     }
-    console.log(currentDistrictsNoElection);
 
     let totalPercentagesDiv = createDivWithClass("total-percentages");
     overall.append(totalPercentagesDiv);
@@ -645,9 +658,17 @@ function createSquareChart(type) {
     totalPercentages.append(repPercentagesDiv);
     let repPercentages = $(".rep-percentages");
 
-    let totalSeats = currentOverallData["Total Seats"];
+    var totalSeats;
     let seatsDem = Math.round(currentOverallData["DEM"]["Predicted Seats"]);
     let seatsRep = Math.round(currentOverallData["REP"]["Predicted Seats"]);
+
+    if (type == "U.S. Representative") {
+        totalSeats = 435;
+    } else if (type == "U.S. Senator") {
+        totalSeats = 100;
+    } else {
+        totalSeats = currentOverallData["Total Seats"];
+    }
 
     if (seatsDem + seatsRep != totalSeats) {
         if (currentOverallData["DEM"]["Predicted Seats"] - seatsDem > currentOverallData["REP"]["Predicted Seats"] - seatsRep) {
@@ -657,8 +678,8 @@ function createSquareChart(type) {
         }
     }
     
-    let seatGainRep = seatsRep - currentSeatsRep.length;
-    let seatGainDem = seatsDem - currentSeatsDem.length;
+    let seatGainRep = seatsRep - currentSeatsRepNumber;
+    let seatGainDem = seatsDem - currentSeatsDemNumber;
 
     var seatGainColor = "";
     var seatGainString = "";
@@ -715,9 +736,9 @@ function createSquareChart(type) {
     var demWinLanguage = "win";
     var repWinLanguage = "win";
 
-    if (currentSeatsDem > currentSeatsRep) {
+    if (currentSeatsDemNumber > currentSeatsRepNumber) {
         demWinLanguage = "keep";
-    } else if (currentSeatsDem < currentSeatsRep) {
+    } else if (currentSeatsDemNumber < currentSeatsRepNumber) {
         repWinLanguage = "keep";
     }
 
