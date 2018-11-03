@@ -8,6 +8,7 @@ $(document).ready(function() {
 
 
 function getMatchup(data, state, position, district) {
+
     var matchup = {};
     var matchupFound = false;
     matchup["money"] = 0;
@@ -503,13 +504,13 @@ function createProjectionChart(matchup) {
     } else if (percentThird > 2 && percentRep < 0.01) {
         pillThird = "<div title='" + third.Candidate + thirdPartyString + percentThird + "%' class='pill-third pill-third-right' style='width:" + lengthThird + "px'> </div>";
         pillRep = "<div class='pill-none' style='width:" + lengthRep + "px'> <p class='number'>" + percentRep + "%</p> </div>";
-    } else if (percentThird > 2 && percentDem < 25) {
+    } else if (percentThird > 1 && percentDem < 25) {
         pillThird = "<div title='" + third.Candidate + thirdPartyString + percentThird + "%' class='pill-third' style='width:" + lengthThird + "px'> </div>";
         pillDem = "<div title='" + dem.Candidate + " (" + dem.Party + "): " + percentDem + "%'class='pill-left' style='width:" + lengthDem + "px'> <p class='number'>%</p> </div>";
-    } else if (percentThird > 2 && percentRep < 25) {
+    } else if (percentThird > 1 && percentRep < 25) {
         pillThird = "<div title='" + third.Candidate + thirdPartyString + percentThird + "%' class='pill-third' style='width:" + lengthThird + "px'> </div>";
         pillRep = "<div title='" + rep.Candidate + " (" + rep.Party + "): " + percentRep + "%' class='pill-right' style='width:" + lengthRep + "px'><p class='number'>%</p> </div>";
-    } else if (percentThird > 2) {
+    } else if (percentThird > 1) {
         pillThird = "<div title='" + third.Candidate + thirdPartyString + percentThird + "%' class='pill-third' style='width:" + lengthThird + "px'> </div>";
     }
 
