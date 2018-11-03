@@ -1,5 +1,5 @@
 ,State,Position,District,Candidate,Party,Year Elected,Next Election,Number of Terms in Position,Unopposed in Last Election,DEM Unopposed in Primary,REP Unopposed in Primary
-0,Tennessee,Governor,nan,Bill Haslam,REP,2014,2018,0,No,No,No
+0,Tennessee,Governor,0,Bill Haslam,REP,2014,2018,0,No,No,No
 1,Tennessee,State Representative,1,Jon Lundberg,REP,2014,2016,5,Yes,Yes,Yes
 2,Tennessee,State Representative,1,Jon Lundberg,REP,2012,2014,4,Yes,Yes,Yes
 3,Tennessee,State Representative,1,Jon Lundberg,REP,2010,2012,3,Yes,Yes,Yes
@@ -378,3 +378,5 @@
 376,Tennessee,U.S. Representative,9,Stephen Cohen,DEM,2010,2012,1,No,No,Yes
 377,Tennessee,U.S. Senator,0,Lamar Alexander,REP,2014,2020,0,No,No,No
 378,Tennessee,U.S. Senator,0,Bob Corker Jr.,REP,2012,2018,0,No,No,No
+379,Tennessee,U.S. Senator,0,Lamar Alexander,REP,2014,2020,1,No,No,No
+380,Tennessee,U.S. Senator,0,Robert Corker Jr.,REP,2012,2018,1,No,No,No

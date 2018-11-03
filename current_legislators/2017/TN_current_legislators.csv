@@ -1,5 +1,5 @@
 ,State,Position,District,Candidate,Party,Year Elected,Next Election,Number of Terms in Position,Unopposed in Last Election,DEM Unopposed in Primary,REP Unopposed in Primary
-0,Tennessee,Governor,nan,Bill Haslam,REP,2014,2018,0,No,No,No
+0,Tennessee,Governor,0,Bill Haslam,REP,2014,2018,0,No,No,No
 1,Tennessee,State Representative,1,John Crawford,REP,2016,2018,1,Yes,Yes,Yes
 2,Tennessee,State Representative,1,Jon Lundberg,REP,2012,2014,4,Yes,Yes,Yes
 3,Tennessee,State Representative,2,Bud Hulsey,REP,2016,2018,2,No,Yes,Yes
@@ -225,46 +225,48 @@
 223,Tennessee,State Senator,17,Mae Beavers,REP,2014,2018,4,Yes,Yes,Yes
 224,Tennessee,State Senator,18,Ferrell Haile,REP,2016,2020,2,Yes,Yes,Yes
 225,Tennessee,State Senator,18,Ferrell Haile,REP,2012,2016,1,No,Yes,Yes
-268,Tennessee,State Senator,18,Kerry E. Roberts,REP,2011,2012,1,No,Yes,Yes
-226,Tennessee,State Senator,19,Thelma Harper,DEM,2014,2018,4,No,No,Yes
-227,Tennessee,State Senator,20,Steven Reid Dickerson,REP,2016,2020,2,No,Yes,Yes
-228,Tennessee,State Senator,20,Steven Reid Dickerson,REP,2012,2016,1,No,Yes,Yes
-229,Tennessee,State Senator,21,Jeff Paul Yarbro,DEM,2014,2018,1,No,Yes,Yes
-230,Tennessee,State Senator,22,Mark Green,REP,2016,2020,2,No,Yes,Yes
-231,Tennessee,State Senator,22,Mark Green,REP,2012,2016,1,No,Yes,Yes
-232,Tennessee,State Senator,23,Jack Johnson,REP,2014,2018,3,No,Yes,Yes
-233,Tennessee,State Senator,24,John Stevens,REP,2016,2020,2,Yes,Yes,Yes
-234,Tennessee,State Senator,24,John Stevens,REP,2012,2016,1,No,Yes,Yes
-235,Tennessee,State Senator,25,Kerry Roberts,REP,2014,2018,1,No,Yes,Yes
-236,Tennessee,State Senator,26,Dolores Gresham,REP,2016,2020,3,Yes,Yes,Yes
-237,Tennessee,State Senator,26,Dolores Gresham,REP,2012,2016,2,No,Yes,Yes
-238,Tennessee,State Senator,27,Edward Jackson,REP,2014,2018,1,No,No,No
-239,Tennessee,State Senator,28,Joey Hensley,REP,2016,2020,2,No,Yes,Yes
-240,Tennessee,State Senator,28,Joey Hensley,REP,2012,2016,1,No,Yes,Yes
-241,Tennessee,State Senator,29,Lee Harris,DEM,2014,2018,1,No,Yes,No
-242,Tennessee,State Senator,30,Sara Kyle,DEM,2016,2020,2,Yes,Yes,Yes
-243,Tennessee,State Senator,30,James Kyle Jr.,DEM,2012,2016,1,No,Yes,Yes
-244,Tennessee,State Senator,31,Brian Kelsey,REP,2014,2018,2,Yes,No,Yes
-245,Tennessee,State Senator,32,Mark Norris,REP,2016,2020,5,Yes,Yes,Yes
-246,Tennessee,State Senator,32,Mark Norris,REP,2012,2016,4,Yes,Yes,Yes
-247,Tennessee,State Senator,33,Reginald Tate,DEM,2014,2018,3,Yes,No,Yes
-248,Tennessee,U.S. Representative,1,Phil Phillip Roe,REP,2016,2018,4,No,Yes,No
-249,Tennessee,U.S. Representative,1,Phil Phillip Roe,REP,2012,2014,2,No,Yes,No
-250,Tennessee,U.S. Representative,2,Jimmy Duncan Jr.,REP,2016,2018,4,No,No,No
-251,Tennessee,U.S. Representative,2,Jimmy Duncan Jr.,REP,2012,2014,2,No,No,No
-252,Tennessee,U.S. Representative,3,Chuck Fleischmann,REP,2016,2018,4,No,Yes,No
-253,Tennessee,U.S. Representative,3,Chuck Fleischmann,REP,2012,2014,2,No,Yes,No
-254,Tennessee,U.S. Representative,4,Scott Desjarlais,REP,2016,2018,4,No,No,No
-255,Tennessee,U.S. Representative,4,Scott Desjarlais,REP,2012,2014,2,No,No,No
-256,Tennessee,U.S. Representative,5,Jim Cooper,DEM,2016,2018,4,No,Yes,No
-257,Tennessee,U.S. Representative,5,Jim Cooper,DEM,2012,2014,2,No,Yes,No
-258,Tennessee,U.S. Representative,6,Diane Lynn Black,REP,2016,2018,4,No,No,No
-259,Tennessee,U.S. Representative,6,Diane Lynn Black,REP,2012,2014,2,No,No,No
-260,Tennessee,U.S. Representative,7,Marsha Blackburn,REP,2016,2018,4,No,No,Yes
-261,Tennessee,U.S. Representative,7,Marsha Blackburn,REP,2012,2014,2,No,No,Yes
-262,Tennessee,U.S. Representative,8,David Kustoff,REP,2016,2018,1,No,No,No
-263,Tennessee,U.S. Representative,8,Stephen Lee Fincher,REP,2012,2014,2,No,No,No
-264,Tennessee,U.S. Representative,9,Stephen Cohen,DEM,2016,2018,4,No,No,Yes
-265,Tennessee,U.S. Representative,9,Stephen Cohen,DEM,2012,2014,2,No,No,Yes
-266,Tennessee,U.S. Senator,0,Lamar Alexander,REP,2014,2020,0,No,No,No
-267,Tennessee,U.S. Senator,0,Bob Corker Jr.,REP,2012,2018,0,No,No,No
+226,Tennessee,State Senator,18,Kerry E. Roberts,REP,2011,2012,1,No,Yes,Yes
+227,Tennessee,State Senator,19,Thelma Harper,DEM,2014,2018,4,No,No,Yes
+228,Tennessee,State Senator,20,Steven Reid Dickerson,REP,2016,2020,2,No,Yes,Yes
+229,Tennessee,State Senator,20,Steven Reid Dickerson,REP,2012,2016,1,No,Yes,Yes
+230,Tennessee,State Senator,21,Jeff Paul Yarbro,DEM,2014,2018,1,No,Yes,Yes
+231,Tennessee,State Senator,22,Mark Green,REP,2016,2020,2,No,Yes,Yes
+232,Tennessee,State Senator,22,Mark Green,REP,2012,2016,1,No,Yes,Yes
+233,Tennessee,State Senator,23,Jack Johnson,REP,2014,2018,3,No,Yes,Yes
+234,Tennessee,State Senator,24,John Stevens,REP,2016,2020,2,Yes,Yes,Yes
+235,Tennessee,State Senator,24,John Stevens,REP,2012,2016,1,No,Yes,Yes
+236,Tennessee,State Senator,25,Kerry Roberts,REP,2014,2018,1,No,Yes,Yes
+237,Tennessee,State Senator,26,Dolores Gresham,REP,2016,2020,3,Yes,Yes,Yes
+238,Tennessee,State Senator,26,Dolores Gresham,REP,2012,2016,2,No,Yes,Yes
+239,Tennessee,State Senator,27,Edward Jackson,REP,2014,2018,1,No,No,No
+240,Tennessee,State Senator,28,Joey Hensley,REP,2016,2020,2,No,Yes,Yes
+241,Tennessee,State Senator,28,Joey Hensley,REP,2012,2016,1,No,Yes,Yes
+242,Tennessee,State Senator,29,Lee Harris,DEM,2014,2018,1,No,Yes,No
+243,Tennessee,State Senator,30,Sara Kyle,DEM,2016,2020,2,Yes,Yes,Yes
+244,Tennessee,State Senator,30,James Kyle Jr.,DEM,2012,2016,1,No,Yes,Yes
+245,Tennessee,State Senator,31,Brian Kelsey,REP,2014,2018,2,Yes,No,Yes
+246,Tennessee,State Senator,32,Mark Norris,REP,2016,2020,5,Yes,Yes,Yes
+247,Tennessee,State Senator,32,Mark Norris,REP,2012,2016,4,Yes,Yes,Yes
+248,Tennessee,State Senator,33,Reginald Tate,DEM,2014,2018,3,Yes,No,Yes
+249,Tennessee,U.S. Representative,1,Phil Phillip Roe,REP,2016,2018,4,No,Yes,No
+250,Tennessee,U.S. Representative,1,Phil Phillip Roe,REP,2012,2014,2,No,Yes,No
+251,Tennessee,U.S. Representative,2,Jimmy Duncan Jr.,REP,2016,2018,4,No,No,No
+252,Tennessee,U.S. Representative,2,Jimmy Duncan Jr.,REP,2012,2014,2,No,No,No
+253,Tennessee,U.S. Representative,3,Chuck Fleischmann,REP,2016,2018,4,No,Yes,No
+254,Tennessee,U.S. Representative,3,Chuck Fleischmann,REP,2012,2014,2,No,Yes,No
+255,Tennessee,U.S. Representative,4,Scott Desjarlais,REP,2016,2018,4,No,No,No
+256,Tennessee,U.S. Representative,4,Scott Desjarlais,REP,2012,2014,2,No,No,No
+257,Tennessee,U.S. Representative,5,Jim Cooper,DEM,2016,2018,4,No,Yes,No
+258,Tennessee,U.S. Representative,5,Jim Cooper,DEM,2012,2014,2,No,Yes,No
+259,Tennessee,U.S. Representative,6,Diane Lynn Black,REP,2016,2018,4,No,No,No
+260,Tennessee,U.S. Representative,6,Diane Lynn Black,REP,2012,2014,2,No,No,No
+261,Tennessee,U.S. Representative,7,Marsha Blackburn,REP,2016,2018,4,No,No,Yes
+262,Tennessee,U.S. Representative,7,Marsha Blackburn,REP,2012,2014,2,No,No,Yes
+263,Tennessee,U.S. Representative,8,David Kustoff,REP,2016,2018,1,No,No,No
+264,Tennessee,U.S. Representative,8,Stephen Lee Fincher,REP,2012,2014,2,No,No,No
+265,Tennessee,U.S. Representative,9,Stephen Cohen,DEM,2016,2018,4,No,No,Yes
+266,Tennessee,U.S. Representative,9,Stephen Cohen,DEM,2012,2014,2,No,No,Yes
+267,Tennessee,U.S. Senator,0,Lamar Alexander,REP,2014,2020,0,No,No,No
+268,Tennessee,U.S. Senator,0,Bob Corker Jr.,REP,2012,2018,0,No,No,No
+269,Tennessee,U.S. Senator,0,Lamar Alexander,REP,2014,2020,1,No,No,No
+270,Tennessee,U.S. Senator,0,Robert Corker Jr.,REP,2012,2018,1,No,No,No
