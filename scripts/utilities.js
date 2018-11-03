@@ -69,7 +69,7 @@ $(document).ready(function() {
         currentStates = allStatesNeededInJSON;
     }
 
-    if (currentURL.includes("predictions_house")) {
+    if (currentURL.includes("predictions_house") && state == "All") {
         getJSONOverall("US", "House");
     }
 
