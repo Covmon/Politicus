@@ -2,8 +2,8 @@ var data = {};
 var currentOverallData = {};
 var allOverallData = [];
 let availableStates = ["CO", "IA", "MO", "NY", "SC", "TN", "KS", "GA", "UT", "MI", "ID", "MN", "MA"];
-
-let availableStatesNoStateLegislatures = [];
+//missing from house states: AK, DE, MT, ND, SD, VT, WY
+let availableStatesNoStateLegislatures = ["AL", "AR", "AZ", "CA", "CT", "FL", "HI", "IL", "IN", "KY", "LA", "MD", "ME", "MS", "NC", "NE", "NH", "NJ", "NM", "NV", "OH", "OK", "OR", "PA", "RI", "TX", "VA", "WA", "WI", "WV"];
 var currentStates = availableStates;
 var currentAllMatchups = [];
 var currentDistrictsNoElection = [];
