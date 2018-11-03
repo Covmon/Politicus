@@ -629,9 +629,7 @@ function createSquareChart(type) {
     } else {
         var currentSeatsDem = [];
         var currentSeatsRep = [];
-        console.log(currentAllCandidates);
         for (district of currentAllCandidates) {
-            console.log("current");
             if (district.Position == type && district["Next Election"] != 2018) {
                 currentDistrictsNoElection.push(district);
             }
@@ -641,7 +639,6 @@ function createSquareChart(type) {
                 currentSeatsDem.push(district);
             }
         }
-        console.log(currentDistrictsNoElection);
         currentSeatsRepNumber = currentSeatsRep.length;
         currentSeatsDemNumber = currentSeatsDem.length;
     }
@@ -801,7 +798,7 @@ function createSquareChart(type) {
     seatsH = "<h2 class='big-h2'><span class='blue'>" + seatsDem + "</span> - <span class='red'>" + seatsRep + "</span></h2>";
     titleElement.after(seatsH);
     
-    let total = currentAllMatchups.length + currentDistrictsNoElection.length;
+    let total = totalSeats;
     var rows = 1;
 
     if (total >= 435) {
