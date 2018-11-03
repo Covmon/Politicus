@@ -870,6 +870,7 @@ input:focus {
 }
 
 #live-blog {
+    width: 100vw !important;
     margin-left: 25%;
 }
 
