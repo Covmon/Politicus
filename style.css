@@ -219,6 +219,14 @@ a:hover {
     margin-bottom: 30px;
 }
 
+.upper-lower {
+    display: flex;
+    margin-left: 17.5vw;
+    width: 50vw;
+    justify-content: space-between;
+    align-content: flex-start;
+}
+
 
 .dem-percentages p, .rep-percentages p {
     margin-top: -20px;
@@ -1041,7 +1049,6 @@ input:focus {
         font-size: 14px;
         margin-top: -25px;
     }
-
 
     .dem-percentages p, .rep-percentages p {
         font-size: 13px;

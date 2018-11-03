@@ -1,0 +1,1301 @@
+State,District,Position,Party,Candidate,Vote Share
+Alabama,1,U.S. Representative,R,Jo Bonner,0.830
+Alabama,1,U.S. Representative,C,David Walter,0.170
+Alabama,2,U.S. Representative,R,Martha Roby,0.513
+Alabama,2,U.S. Representative,D,Bobby Bright,0.487
+Alabama,3,U.S. Representative,R,Mike Rogers,0.591
+Alabama,3,U.S. Representative,D,Steve Segrest,0.409
+Alabama,4,U.S. Representative,R,Robert Aderholt,1.000
+Alabama,5,U.S. Representative,R,Mo Brooks,0.585
+Alabama,5,U.S. Representative,D,Steve Raby,0.415
+Alabama,6,U.S. Representative,R,Spencer Bachus,1.000
+Alabama,7,U.S. Representative,D,Terri Sewell,0.726
+Alabama,7,U.S. Representative,R,Don Chamberlain,0.274
+Alaska,At-Large,U.S. Representative,R,Don Young,0.690
+Alaska,At-Large,U.S. Representative,D,Harry Crawford,0.305
+Arizona,1,U.S. Representative,R,Paul Gosar,0.497
+Arizona,1,U.S. Representative,D,Ann Kirkpatrick,0.437
+Arizona,1,U.S. Representative,L,Nicole Patti,0.066
+Arizona,2,U.S. Representative,R,Trent Franks,0.649
+Arizona,2,U.S. Representative,D,John Thrasher,0.311
+Arizona,2,U.S. Representative,L,Powell Gammill,0.040
+Arizona,3,U.S. Representative,R,Ben Quayle,0.522
+Arizona,3,U.S. Representative,D,Jon Hulburd,0.411
+Arizona,3,U.S. Representative,L,Michael Shoen,0.050
+Arizona,3,U.S. Representative,G,Leonard Clark,0.016
+Arizona,4,U.S. Representative,D,Ed Pastor,0.669
+Arizona,4,U.S. Representative,R,Janet Contreras,0.275
+Arizona,4,U.S. Representative,L,Joe Cobb,0.030
+Arizona,4,U.S. Representative,G,Rebecca DeWitt,0.026
+Arizona,5,U.S. Representative,R,David Schweikert,0.520
+Arizona,5,U.S. Representative,D,Harry Mitchell,0.432
+Arizona,5,U.S. Representative,L,Nick Coons,0.048
+Arizona,6,U.S. Representative,R,Jeff Flake,0.664
+Arizona,6,U.S. Representative,D,Rebecca Schneider,0.291
+Arizona,6,U.S. Representative,G,Richard Grayson,0.031
+Arizona,6,U.S. Representative,L,Darell Tapp,0.014
+Arizona,7,U.S. Representative,D,Raul Grijalva,0.502
+Arizona,7,U.S. Representative,R,Ruth McClung,0.442
+Arizona,7,U.S. Representative,I,Harley Meyer,0.028
+Arizona,7,U.S. Representative,L,George Keane,0.027
+Arizona,8,U.S. Representative,D,Gabrielle Giffords,0.488
+Arizona,8,U.S. Representative,R,Jesse Kelly,0.473
+Arizona,8,U.S. Representative,L,Steven Stoltz,0.039
+Arkansas,1,U.S. Representative,R,Rick Crawford,0.518
+Arkansas,1,U.S. Representative,D,Chad Causey,0.435
+Arkansas,1,U.S. Representative,G,Ken Adler,0.046
+Arkansas,2,U.S. Representative,R,Tim Griffin,0.579
+Arkansas,2,U.S. Representative,D,Joyce Elliott,0.383
+Arkansas,2,U.S. Representative,I,Lance Levi,0.021
+Arkansas,2,U.S. Representative,G,Lewis Kennedy,0.017
+Arkansas,3,U.S. Representative,R,Steve Womack,0.724
+Arkansas,3,U.S. Representative,D,David Whitaker,0.276
+Arkansas,4,U.S. Representative,D,Mike Ross,0.575
+Arkansas,4,U.S. Representative,R,Beth Anne Rankin,0.402
+Arkansas,4,U.S. Representative,G,Joshua Drake,0.023
+California,1,U.S. Representative,D,Mike Thompson,0.630
+California,1,U.S. Representative,R,Loren Hanks,0.310
+California,1,U.S. Representative,G,Carol Wolman,0.035
+California,1,U.S. Representative,L,Mike Rodrigues,0.025
+California,2,U.S. Representative,R,Wally Herger,0.571
+California,2,U.S. Representative,D,Jim Reed,0.429
+California,2,U.S. Representative,W/I,Mark A. Jensen,0.000
+California,3,U.S. Representative,R,Dan Lungren,0.501
+California,3,U.S. Representative,D,Ami Bera,0.432
+California,3,U.S. Representative,AI,Jerry Leidecker,0.025
+California,3,U.S. Representative,L,Douglas Arthur Tuma,0.024
+California,3,U.S. Representative,PF,Mike Roskey,0.018
+California,4,U.S. Representative,R,Tom McClintock,0.613
+California,4,U.S. Representative,D,Clint Curtis,0.314
+California,4,U.S. Representative,G,Ben Emery,0.073
+California,5,U.S. Representative,D,Doris Matsui,0.720
+California,5,U.S. Representative,R,Paul Smith,0.253
+California,5,U.S. Representative,PF,Gerald Allen Frink,0.027
+California,6,U.S. Representative,D,Lynn Woolsey,0.659
+California,6,U.S. Representative,R,Jim Judd,0.296
+California,6,U.S. Representative,PF,Eugene Ruyle,0.023
+California,6,U.S. Representative,L,Joel Smolen,0.022
+California,7,U.S. Representative,D,George Miller,0.683
+California,7,U.S. Representative,R,Rick Tubbs,0.317
+California,8,U.S. Representative,D,Nancy Pelosi,0.801
+California,8,U.S. Representative,R,John Dennis,0.151
+California,8,U.S. Representative,PF,Gloria La Riva,0.025
+California,8,U.S. Representative,L,Philip Berg,0.023
+California,8,U.S. Representative,W/I,Summer Shields,0.000
+California,9,U.S. Representative,D,Barbara Lee,0.843
+California,9,U.S. Representative,R,Gerald Hashimoto,0.108
+California,9,U.S. Representative,G,Dave Heller,0.023
+California,9,U.S. Representative,L,James Eyer,0.019
+California,9,U.S. Representative,PF,Larry Allen,0.008
+California,10,U.S. Representative,D,John Garamendi,0.588
+California,10,U.S. Representative,R,Gary Clift,0.379
+California,10,U.S. Representative,G,Jeremy Cloward,0.033
+California,11,U.S. Representative,D,Jerry McNerney,0.480
+California,11,U.S. Representative,R,David Harmer,0.469
+California,11,U.S. Representative,AI,David Christensen,0.052
+California,11,U.S. Representative,W/I,Robert Beadles,0.000
+California,12,U.S. Representative,D,Jackie Speier,0.756
+California,12,U.S. Representative,R,Mike Moloney,0.221
+California,12,U.S. Representative,L,Mark Paul Williams,0.023
+California,12,U.S. Representative,W/I,Joseph Michael Harding,0.000
+California,13,U.S. Representative,D,Pete Stark,0.720
+California,13,U.S. Representative,R,Forest Baker,0.277
+California,13,U.S. Representative,W/I,Chris Pareja,0.003
+California,14,U.S. Representative,D,Anna Eshoo,0.691
+California,14,U.S. Representative,R,Dave Chapman,0.278
+California,14,U.S. Representative,L,Paul Lazaga,0.031
+California,15,U.S. Representative,D,Mike Honda,0.676
+California,15,U.S. Representative,R,Scott Kirkland,0.324
+California,16,U.S. Representative,D,Zoe Lofgren,0.678
+California,16,U.S. Representative,R,Daniel Sahagún,0.243
+California,16,U.S. Representative,L,Edward Gonzalez,0.079
+California,17,U.S. Representative,D,Sam Farr,0.666
+California,17,U.S. Representative,R,Jeff Taylor,0.265
+California,17,U.S. Representative,L,Mary Larkin,0.049
+California,17,U.S. Representative,G,Eric Petersen,0.019
+California,17,U.S. Representative,W/I,Ronald P. Kabat,0.001
+California,18,U.S. Representative,D,Dennis Cardoza,0.585
+California,18,U.S. Representative,R,Michael Clarke Berryhill,0.415
+California,19,U.S. Representative,R,Jeff Denham,0.646
+California,19,U.S. Representative,D,Loraine Goodwin,0.351
+California,19,U.S. Representative,D-W/I,Les Marsden,0.003
+California,20,U.S. Representative,D,Jim Costa,0.517
+California,20,U.S. Representative,R,Andy Vidak,0.483
+California,21,U.S. Representative,R,Devin Nunes,1.000
+California,22,U.S. Representative,R,Kevin McCarthy,0.988
+California,22,U.S. Representative,W/I,John Uebersax,0.012
+California,23,U.S. Representative,D,Lois Capps,0.578
+California,23,U.S. Representative,R,Tom Watson,0.376
+California,23,U.S. Representative,I,John Hager,0.029
+California,23,U.S. Representative,L,Darrell Stafford,0.017
+California,24,U.S. Representative,R,Elton Gallegly,0.599
+California,24,U.S. Representative,D,Timothy Allison,0.401
+California,25,U.S. Representative,R,Howard McKeon,0.618
+California,25,U.S. Representative,D,Jackie Conaway,0.382
+California,26,U.S. Representative,R,David Dreier,0.541
+California,26,U.S. Representative,D,Russ Warner,0.365
+California,26,U.S. Representative,AI,David Miller,0.061
+California,26,U.S. Representative,L,Randall Weissbuch,0.032
+California,27,U.S. Representative,D,Brad Sherman,0.652
+California,27,U.S. Representative,R,Mark Reed,0.348
+California,28,U.S. Representative,D,Howard Berman,0.695
+California,28,U.S. Representative,R,Merlin Froyd,0.224
+California,28,U.S. Representative,L,Carlos Rodriguez,0.081
+California,29,U.S. Representative,D,Adam Schiff,0.648
+California,29,U.S. Representative,R, John Colbert,0.320
+California,29,U.S. Representative,L,William Cushing,0.032
+California,30,U.S. Representative,D,Henry Waxman,0.646
+California,30,U.S. Representative,R,Chuck Wilkerson,0.319
+California,30,U.S. Representative,L,Erich Miller,0.021
+California,30,U.S. Representative,PF,Richard Castaldo,0.013
+California,31,U.S. Representative,D,Xavier Becerra,0.838
+California,31,U.S. Representative,R,Stephen Smith,0.162
+California,31,U.S. Representative,W/I,Sal Genovese,0.000
+California,32,U.S. Representative,D,Judy Chu,0.710
+California,32,U.S. Representative,R,Ed Schmerling,0.290
+California,33,U.S. Representative,D,Karen Bass,0.861
+California,33,U.S. Representative,R,James Andion,0.139
+California,34,U.S. Representative,D,Lucille Roybal-Allard,0.772
+California,34,U.S. Representative,R,Wayne Miller,0.228
+California,35,U.S. Representative,D,Maxine Waters,0.793
+California,35,U.S. Representative,R,Bruce Brown,0.207
+California,35,U.S. Representative,W/I,Suleiman Charles Edmonson,0.000
+California,36,U.S. Representative,D,Jane Harman,0.596
+California,36,U.S. Representative,R,Mattie Fein,0.347
+California,36,U.S. Representative,L,Herb Peters,0.056
+California,37,U.S. Representative,D,Laura Richardson,0.684
+California,37,U.S. Representative,R,Star Parker,0.232
+California,37,U.S. Representative,I,Nicholas Dibs,0.084
+California,38,U.S. Representative,D,Grace Napolitano,0.735
+California,38,U.S. Representative,R,Robert Vaughn,0.265
+California,39,U.S. Representative,D,Linda Sánchez,0.633
+California,39,U.S. Representative,R,Larry Andre,0.326
+California,39,U.S. Representative,AI,John Smith,0.041
+California,40,U.S. Representative,R,Ed Royce,0.668
+California,40,U.S. Representative,D,Christina Avalos,0.332
+California,41,U.S. Representative,R,Jerry Lewis,0.632
+California,41,U.S. Representative,D,Pat Meagher,0.368
+California,41,U.S. Representative,W/I,Pamela Zander,0.000
+California,42,U.S. Representative,R,Gary Miller,0.622
+California,42,U.S. Representative,D,Michael Williamson,0.319
+California,42,U.S. Representative,L,Mark Lambert,0.059
+California,43,U.S. Representative,D,Joe Baca,0.655
+California,43,U.S. Representative,R,Scott Folkens,0.345
+California,44,U.S. Representative,R,Ken Calvert,0.556
+California,44,U.S. Representative,D,Bill Hedrick,0.444
+California,45,U.S. Representative,R,Mary Bono Mack,0.515
+California,45,U.S. Representative,D,Steve Pougnet,0.421
+California,45,U.S. Representative,AI,Bill Lussenheide,0.064
+California,46,U.S. Representative,R,Dana Rohrabacher,0.622
+California,46,U.S. Representative,D,Ken Arnold,0.378
+California,46,U.S. Representative,D-W/I,Jay Shah,0.000
+California,47,U.S. Representative,D,Loretta Sanchez,0.530
+California,47,U.S. Representative,R,Van Tran,0.393
+California,47,U.S. Representative,I,Ceci Iglesias,0.078
+California,48,U.S. Representative,R,John Campbell,0.599
+California,48,U.S. Representative,D,Beth Krom,0.345
+California,48,U.S. Representative,L,Mike Binkley,0.036
+California,49,U.S. Representative,R,Darrell Issa,0.628
+California,49,U.S. Representative,D,Howard Katz,0.315
+California,49,U.S. Representative,AI,Dion Clark,0.035
+California,49,U.S. Representative,L,Mike Paster,0.023
+California,50,U.S. Representative,R,Brian Bilbray,0.566
+California,50,U.S. Representative,D,Francine Busby,0.390
+California,50,U.S. Representative,L,Lars Grossmith,0.022
+California,50,U.S. Representative,PF,Miriam Clark,0.022
+California,51,U.S. Representative,D,Bob Filner,0.601
+California,51,U.S. Representative,R,Nick Popaditch,0.399
+California,51,U.S. Representative,W/I,Marcus Shapiro,0.000
+California,52,U.S. Representative,R,Duncan D. Hunter,0.631
+California,52,U.S. Representative,D,Ray Lutz,0.321
+California,52,U.S. Representative,L,Michael Benoit,0.049
+California,53,U.S. Representative,D,Susan Davis,0.623
+California,53,U.S. Representative,R,Michael Crimmins,0.340
+California,53,U.S. Representative,L,Paul Dekker,0.037
+Colorado,1,U.S. Representative,D,Diana DeGette,0.674
+Colorado,1,U.S. Representative,R,Mike Fallon,0.288
+Colorado,1,U.S. Representative,G,Gary Swing,0.014
+Colorado,1,U.S. Representative,L,Clint Jones,0.014
+Colorado,1,U.S. Representative,C,Chris Styskal,0.010
+Colorado,2,U.S. Representative,D,Jared Polis,0.574
+Colorado,2,U.S. Representative,R,Stephen Bailey,0.379
+Colorado,2,U.S. Representative,C,Jenna Goss,0.027
+Colorado,2,U.S. Representative,L,Curtis Harris,0.020
+Colorado,3,U.S. Representative,R,Scott Tipton,0.501
+Colorado,3,U.S. Representative,D,John Salazar,0.458
+Colorado,3,U.S. Representative,L,Gregory Gilman,0.022
+Colorado,3,U.S. Representative,I,Jake Segrest,0.019
+Colorado,4,U.S. Representative,R,Cory Gardner,0.525
+Colorado,4,U.S. Representative,D,Betsy Markey,0.414
+Colorado,4,U.S. Representative,C,Doug Aden,0.047
+Colorado,4,U.S. Representative,I,Ken Waskiewicz,0.015
+Colorado,5,U.S. Representative,R,Doug Lamborn,0.658
+Colorado,5,U.S. Representative,D,Kevin Bradley,0.293
+Colorado,5,U.S. Representative,C,Brian Scott,0.025
+Colorado,5,U.S. Representative,L,Jerrell Klaver,0.024
+Colorado,6,U.S. Representative,R,Mike Coffman,0.657
+Colorado,6,U.S. Representative,D,John Flerlage,0.315
+Colorado,6,U.S. Representative,L,Rob McNealy,0.028
+Colorado,7,U.S. Representative,D,Ed Perlmutter,0.534
+Colorado,7,U.S. Representative,R,Ryan Frazier,0.418
+Colorado,7,U.S. Representative,L,Buck Bailey,0.048
+Connecticut,1,U.S. Representative,D,John Larson,0.613
+Connecticut,1,U.S. Representative,R,Ann Brickley,0.372
+Connecticut,1,U.S. Representative,G,Kenneth Krayeske,0.011
+Connecticut,1,U.S. Representative,SA,Christopher Hutchinson,0.004
+Connecticut,2,U.S. Representative,D,Joe Courtney,0.599
+Connecticut,2,U.S. Representative,R,Janet Peckinpaugh,0.388
+Connecticut,2,U.S. Representative,G,Scott Deshefy,0.013
+Connecticut,3,U.S. Representative,D,Rosa DeLauro,0.651
+Connecticut,3,U.S. Representative,R,Larry Labriola,0.336
+Connecticut,3,U.S. Representative,G,Charles Pillsbury,0.013
+Connecticut,4,U.S. Representative,D,Jim Himes,0.531
+Connecticut,4,U.S. Representative,R,Dan Debicella,0.469
+Connecticut,5,U.S. Representative,D,Chris Murphy,0.541
+Connecticut,5,U.S. Representative,R,Sam Caligiuri,0.459
+Delaware,At-Large,U.S. Representative,D,John Carney,0.568
+Delaware,At-Large,U.S. Representative,R,Glen Urquhart,0.410
+Delaware,At-Large,U.S. Representative,I,Earl Lofland,0.012
+Delaware,At-Large,U.S. Representative,L,Brent Wangen,0.006
+Delaware,At-Large,U.S. Representative,BE,Jeffrey Brown,0.004
+Florida,1,U.S. Representative,R,Jeff Miller,0.800
+Florida,1,U.S. Representative,I,Joe Cantrell,0.109
+Florida,1,U.S. Representative,I,John Krause,0.086
+Florida,1,U.S. Representative,W-I,Jim Bryan,0.006
+Florida,2,U.S. Representative,R,Steve Southerland,0.536
+Florida,2,U.S. Representative,D,Allen Boyd,0.414
+Florida,2,U.S. Representative,I,Paul McKain,0.028
+Florida,2,U.S. Representative,I,Dianne Berryhill,0.022
+Florida,3,U.S. Representative,D,Corrine Brown,0.630
+Florida,3,U.S. Representative,R,Mike Yost,0.339
+Florida,3,U.S. Representative,I,Terry Martin-Black,0.031
+Florida,4,U.S. Representative,R,Ander Crenshaw,0.772
+Florida,4,U.S. Representative,I,Troy Stanley,0.228
+Florida,5,U.S. Representative,R,Rich Nugent,0.674
+Florida,5,U.S. Representative,D,Jim Piccillo,0.326
+Florida,6,U.S. Representative,R,Cliff Stearns,0.715
+Florida,6,U.S. Representative,I,Steve Schonberg,0.285
+Florida,7,U.S. Representative,R,John Mica,0.690
+Florida,7,U.S. Representative,D,Heather Beaven,0.310
+Florida,8,U.S. Representative,R,Dan Webster,0.561
+Florida,8,U.S. Representative,D,Alan Grayson,0.382
+Florida,8,U.S. Representative,Tea,Peg Dunmire,0.038
+Florida,8,U.S. Representative,I,George Metcalfe,0.019
+Florida,9,U.S. Representative,R,Gus Bilirakis,0.714
+Florida,9,U.S. Representative,D,Anita de Palma,0.286
+Florida,10,U.S. Representative,R,Bill Young,0.659
+Florida,10,U.S. Representative,D,Charlie Justice,0.341
+Florida,11,U.S. Representative,D,Kathy Castor,0.596
+Florida,11,U.S. Representative,R,Mike Prendergast,0.404
+Florida,12,U.S. Representative,R,Dennis Ross,0.481
+Florida,12,U.S. Representative,D,Lori Edwards,0.411
+Florida,12,U.S. Representative,Tea,Randy Wilkinson,0.107
+Florida,13,U.S. Representative,R,Vern Buchanan,0.689
+Florida,13,U.S. Representative,D,James Golden,0.311
+Florida,14,U.S. Representative,R,Connie Mack,0.686
+Florida,14,U.S. Representative,D,James Lloyd Roach,0.271
+Florida,14,U.S. Representative,I,William Maverick St. Claire,0.043
+Florida,15,U.S. Representative,R,Bill Posey,0.647
+Florida,15,U.S. Representative,D,Shannon Roberts,0.353
+Florida,16,U.S. Representative,R,Tom Rooney,0.669
+Florida,16,U.S. Representative,D,Jim Horn,0.331
+Florida,17,U.S. Representative,D,Frederica Wilson,0.862
+Florida,17,U.S. Representative,I,Roderick Vereen,0.138
+Florida,18,U.S. Representative,R,Ileana Ros-Lehtinen,0.689
+Florida,18,U.S. Representative,D,Rolando Banciella,0.311
+Florida,19,U.S. Representative,D,Ted Deutch,0.626
+Florida,19,U.S. Representative,R,Joe Budd,0.373
+Florida,20,U.S. Representative,D,Debbie Wasserman Schultz,0.602
+Florida,20,U.S. Representative,R,Karen Harrington,0.381
+Florida,20,U.S. Representative,I,Stanley Blumenthal,0.010
+Florida,20,U.S. Representative,I,Robert Kunst,0.008
+Florida,21,U.S. Representative,R,Mario Díaz-Balart,1.000
+Florida,22,U.S. Representative,R,Allen West,0.544
+Florida,22,U.S. Representative,D,Ron Klein,0.456
+Florida,23,U.S. Representative,D,Alcee Hastings,0.791
+Florida,23,U.S. Representative,R,Bernard Sansaricq,0.209
+Florida,24,U.S. Representative,R,Sandy Adams,0.596
+Florida,24,U.S. Representative,D, Suzanne Kosmas,0.403
+Florida,25,U.S. Representative,R,David Rivera,0.522
+Florida,25,U.S. Representative,D,Joe Garcia,0.426
+Florida,25,U.S. Representative,Tea,Roly Arroyo,0.030
+Florida,25,U.S. Representative,FL Whig,Craig Porter,0.022
+Georgia,1,U.S. Representative,R,Jack Kingston,0.716
+Georgia,1,U.S. Representative,D,Oscar Harris,0.284
+Georgia,2,U.S. Representative,D,Sanford Bishop,0.514
+Georgia,2,U.S. Representative,R,Mike Keown,0.486
+Georgia,3,U.S. Representative,R,Lynn Westmoreland,0.695
+Georgia,3,U.S. Representative,D,Frank Saunders,0.305
+Georgia,4,U.S. Representative,D,Hank Johnson,0.747
+Georgia,4,U.S. Representative,R,Liz Carter,0.253
+Georgia,5,U.S. Representative,D,John Lewis,0.737
+Georgia,5,U.S. Representative,R,Fenn Little,0.263
+Georgia,6,U.S. Representative,R,Tom Price,1.000
+Georgia,7,U.S. Representative,R,Rob Woodall,0.671
+Georgia,7,U.S. Representative,D,Doug Heckman,0.329
+Georgia,8,U.S. Representative,R,Austin Scott,0.527
+Georgia,8,U.S. Representative,D,Jim Marshall,0.473
+Georgia,9,U.S. Representative,R,Tom Graves,1.000
+Georgia,10,U.S. Representative,R,Paul Broun,0.674
+Georgia,10,U.S. Representative,D,Russell Edwards,0.326
+Georgia,11,U.S. Representative,R,Phil Gingrey,1.000
+Georgia,12,U.S. Representative,D,John Barrow,0.566
+Georgia,12,U.S. Representative,R,Raymond McKinney,0.434
+Georgia,13,U.S. Representative,D,David Scott,0.694
+Georgia,13,U.S. Representative,R,Mike Crane,0.306
+Hawaii,1,U.S. Representative,D,Colleen Hanabusa,0.532
+Hawaii,1,U.S. Representative,R,Charles Djou,0.468
+Hawaii,2,U.S. Representative,D,Mazie Hirono,0.722
+Hawaii,2,U.S. Representative,R,John Willoughby,0.253
+Hawaii,2,U.S. Representative,L,Patric Brock,0.018
+Hawaii,2,U.S. Representative,I,Andrew Von Sonn,0.007
+Idaho,1,U.S. Representative,R,Raúl Labrador,0.510
+Idaho,1,U.S. Representative,D,Walt Minnick,0.413
+Idaho,1,U.S. Representative,I,Dave Olson,0.058
+Idaho,1,U.S. Representative,L,Mike Washburn,0.019
+Idaho,2,U.S. Representative,R,Mike Simpson,0.688
+Idaho,2,U.S. Representative,D,Mike Crawford,0.244
+Idaho,2,U.S. Representative,I,Brian Schad,0.068
+Illinois,1,U.S. Representative,D,Bobby Rush,0.803
+Illinois,1,U.S. Representative,R,Ray Wardingley,0.159
+Illinois,1,U.S. Representative,G,Jeff Adams,0.038
+Illinois,2,U.S. Representative,D,Jesse Jackson Jr.,0.805
+Illinois,2,U.S. Representative,R,Isaac C. Hayes,0.138
+Illinois,2,U.S. Representative,G,Anthony Williams,0.057
+Illinois,3,U.S. Representative,D,Dan Lipinski,0.697
+Illinois,3,U.S. Representative,R,Michael Bendas,0.243
+Illinois,3,U.S. Representative,G,Laurel Lambert Schmidt,0.060
+Illinois,4,U.S. Representative,D,Luis Gutiérrez,0.774
+Illinois,4,U.S. Representative,R,Israel Vázquez,0.143
+Illinois,4,U.S. Representative,G,Robert J. Burns,0.083
+Illinois,5,U.S. Representative,D,Michael Quigley,0.706
+Illinois,5,U.S. Representative,R,David Ratowitz,0.254
+Illinois,5,U.S. Representative,G,Matthew Reichel,0.040
+Illinois,6,U.S. Representative,R,Peter Roskam,0.637
+Illinois,6,U.S. Representative,D,Benjamin Lowe,0.363
+Illinois,7,U.S. Representative,D,Danny Davis,0.815
+Illinois,7,U.S. Representative,R,Mark Weiman,0.161
+Illinois,7,U.S. Representative,I,Clarence Desmond Clemons,0.024
+Illinois,8,U.S. Representative,R,Joe Walsh,0.485
+Illinois,8,U.S. Representative,D,Melissa Bean,0.483
+Illinois,8,U.S. Representative,G,Bill Scheurer,0.032
+Illinois,9,U.S. Representative,D,Jan Schakowsky,0.663
+Illinois,9,U.S. Representative,R,Joel Pollak,0.311
+Illinois,9,U.S. Representative,G,Simon Ribeiro,0.025
+Illinois,10,U.S. Representative,R,Robert Dold,0.511
+Illinois,10,U.S. Representative,D,Daniel Seals,0.489
+Illinois,11,U.S. Representative,R,Adam Kinzinger,0.574
+Illinois,11,U.S. Representative,D,Debbie Halvorson,0.426
+Illinois,12,U.S. Representative,D,Jerry Costello,0.598
+Illinois,12,U.S. Representative,R,Teri Newman,0.365
+Illinois,12,U.S. Representative,G,Rodger Jennings,0.036
+Illinois,13,U.S. Representative,R,Judy Biggert,0.638
+Illinois,13,U.S. Representative,D,Scott Harper,0.362
+Illinois,14,U.S. Representative,R,Randy Hultgren,0.513
+Illinois,14,U.S. Representative,D,Bill Foster,0.450
+Illinois,14,U.S. Representative,G,Daniel Kairis,0.036
+Illinois,15,U.S. Representative,R,Tim Johnson,0.643
+Illinois,15,U.S. Representative,D,David Gill,0.357
+Illinois,16,U.S. Representative,R,Donald Manzullo,0.650
+Illinois,16,U.S. Representative,D,George Gaulrapp,0.310
+Illinois,16,U.S. Representative,G,Terry Campbell,0.040
+Illinois,17,U.S. Representative,R,Bobby Schilling,0.526
+Illinois,17,U.S. Representative,D,Phil Hare,0.430
+Illinois,17,U.S. Representative,G,Roger Davis,0.044
+Illinois,18,U.S. Representative,R,Aaron Schock,0.691
+Illinois,18,U.S. Representative,D, D.K. Hirner,0.258
+Illinois,18,U.S. Representative,G,Sheldon Schafer,0.051
+Illinois,19,U.S. Representative,R,John Shimkus,0.712
+Illinois,19,U.S. Representative,D,Tim Bagwell,0.288
+Indiana,1,U.S. Representative,D,Pete Visclosky,0.586
+Indiana,1,U.S. Representative,R,Mark Leyva,0.386
+Indiana,1,U.S. Representative,L,Jon Morris,0.028
+Indiana,2,U.S. Representative,D,Joe Donnelly,0.482
+Indiana,2,U.S. Representative,R,Jackie Walorski,0.468
+Indiana,2,U.S. Representative,L,Mark Vogel,0.050
+Indiana,3Special,U.S. Representative,R,Marlin Stutzman,0.627
+Indiana,3Special,U.S. Representative,D, Tom Hayhurst,0.331
+Indiana,3Special,U.S. Representative,L,Scott Wise,0.043
+Indiana,3,U.S. Representative,R,Marlin Stutzman,0.628
+Indiana,3,U.S. Representative,D, Tom Hayhurst,0.331
+Indiana,3,U.S. Representative,L,Scott Wise,0.041
+Indiana,4,U.S. Representative,R,Todd Rokita,0.686
+Indiana,4,U.S. Representative,D,David Sanders,0.263
+Indiana,4,U.S. Representative,L,John Duncan,0.051
+Indiana,5,U.S. Representative,R,Dan Burton,0.621
+Indiana,5,U.S. Representative,D,Tim Crawford,0.254
+Indiana,5,U.S. Representative,L,Richard Reid,0.078
+Indiana,5,U.S. Representative,I,Jesse Trueblood,0.048
+Indiana,6,U.S. Representative,R,Mike Pence,0.666
+Indiana,6,U.S. Representative,D,Barry Welsh,0.299
+Indiana,6,U.S. Representative,L,T. J. Thompson Jr.,0.035
+Indiana,7,U.S. Representative,D,André Carson,0.589
+Indiana,7,U.S. Representative,R,Marvin Scott,0.378
+Indiana,7,U.S. Representative,L,Dav Wilson,0.033
+Indiana,8,U.S. Representative,R,Larry Bucshon,0.576
+Indiana,8,U.S. Representative,D,Trent VanHaaften,0.374
+Indiana,8,U.S. Representative,L,John Cunningham,0.050
+Indiana,9,U.S. Representative,R,Todd Young,0.523
+Indiana,9,U.S. Representative,D,Baron Hill,0.423
+Indiana,9,U.S. Representative,L,Greg Knott,0.054
+Iowa,1,U.S. Representative,D,Bruce Braley,0.495
+Iowa,1,U.S. Representative,R,Benjamin Lange,0.475
+Iowa,1,U.S. Representative,L,Rob Petsche,0.019
+Iowa,1,U.S. Representative,I,Jason Faulkner,0.010
+Iowa,2,U.S. Representative,D,David Loebsack,0.510
+Iowa,2,U.S. Representative,R,Mariannette Miller-Meeks,0.459
+Iowa,2,U.S. Representative,L,Gary Sicard,0.019
+Iowa,2,U.S. Representative,C,Jon Tack,0.011
+Iowa,3,U.S. Representative,D,Leonard Boswell,0.507
+Iowa,3,U.S. Representative,R,Brad Zaun,0.465
+Iowa,3,U.S. Representative,SW,Rebecca Williamson,0.026
+Iowa,4,U.S. Representative,R,Tom Latham,0.656
+Iowa,4,U.S. Representative,D,Bill Maske,0.320
+Iowa,4,U.S. Representative,I,Dan Lensing,0.024
+Iowa,5,U.S. Representative,R,Steve King,0.658
+Iowa,5,U.S. Representative,D,Matt Campbell,0.323
+Iowa,5,U.S. Representative,I,Martin James Monroe,0.019
+Kansas,1,U.S. Representative,R,Tim Huelskamp,0.737
+Kansas,1,U.S. Representative,D,Alan Jilka,0.228
+Kansas,1,U.S. Representative,L,Jack Warner,0.033
+Kansas,2,U.S. Representative,R,Lynn Jenkins,0.631
+Kansas,2,U.S. Representative,D,Cheryl Hudspeth,0.323
+Kansas,2,U.S. Representative,L,Robert Garrard,0.045
+Kansas,3,U.S. Representative,R,Kevin Yoder,0.584
+Kansas,3,U.S. Representative,D,Stephene Moore,0.386
+Kansas,3,U.S. Representative,L,Jasmin Talbert,0.029
+Kansas,4,U.S. Representative,R,Mike Pompeo,0.587
+Kansas,4,U.S. Representative,D,Raj Goyle,0.364
+Kansas,4,U.S. Representative,Ref,Susan Ducey,0.024
+Kansas,4,U.S. Representative,L,Shawn Smith,0.022
+Kentucky,1,U.S. Representative,R,Ed Whitfield,0.712
+Kentucky,1,U.S. Representative,D,Charles Kendall Hatchett,0.288
+Kentucky,2,U.S. Representative,R,Brett Guthrie,0.679
+Kentucky,2,U.S. Representative,D,Ed Marksberry,0.321
+Kentucky,3,U.S. Representative,D,John Yarmuth,0.547
+Kentucky,3,U.S. Representative,R,Todd Lally,0.440
+Kentucky,3,U.S. Representative,L,Edward Martin,0.008
+Kentucky,3,U.S. Representative,I,Michael Hansen,0.005
+Kentucky,4,U.S. Representative,R,Geoff Davis,0.695
+Kentucky,4,U.S. Representative,D, John Waltz,0.305
+Kentucky,5,U.S. Representative,R,Hal Rogers,0.774
+Kentucky,5,U.S. Representative,D,Jim Holbert,0.226
+Kentucky,6,U.S. Representative,D,Ben Chandler,0.501
+Kentucky,6,U.S. Representative,R,Andy Barr,0.498
+Louisiana,1,U.S. Representative,R,Steve Scalise,0.785
+Louisiana,1,U.S. Representative,D,Myron Katz,0.192
+Louisiana,1,U.S. Representative,I,Arden Wells,0.023
+Louisiana,2,U.S. Representative,D,Cedric Richmond,0.646
+Louisiana,2,U.S. Representative,R,Joseph Cao,0.335
+Louisiana,2,U.S. Representative,I,Anthony Marquize,0.014
+Louisiana,2,U.S. Representative,I,Jack Radosta,0.005
+Louisiana,3,U.S. Representative,R,Jeff Landry,0.638
+Louisiana,3,U.S. Representative,D,Ravi Sangisetty,0.362
+Louisiana,4,U.S. Representative,R,John Fleming,0.623
+Louisiana,4,U.S. Representative,D,David Melville,0.324
+Louisiana,4,U.S. Representative,I,Artis Cash,0.053
+Louisiana,5,U.S. Representative,R,Rodney Alexander,0.786
+Louisiana,5,U.S. Representative,I,Tom Gibbs,0.214
+Louisiana,6,U.S. Representative,R,Bill Cassidy,0.656
+Louisiana,6,U.S. Representative,D,Merritt McDonald,0.344
+Louisiana,7,U.S. Representative,R,Charles Boustany,1.000
+Maine,1,U.S. Representative,D,Chellie Pingree,0.568
+Maine,1,U.S. Representative,R,Dean Peter Scontras,0.432
+Maine,2,U.S. Representative,D,Mike Michaud,0.551
+Maine,2,U.S. Representative,R,Jason Levesque,0.449
+Maryland,1,U.S. Representative,R,Andy Harris,0.541
+Maryland,1,U.S. Representative,D,Frank Kratovil,0.420
+Maryland,1,U.S. Representative,L,Richard James Davis,0.038
+Maryland,2,U.S. Representative,D,Dutch Ruppersberger,0.642
+Maryland,2,U.S. Representative,R,Marcello Cardarelli,0.333
+Maryland,2,U.S. Representative,L,Lorenzo Gaztanaga,0.024
+Maryland,3,U.S. Representative,D,John Sarbanes,0.611
+Maryland,3,U.S. Representative,R,Jim Wilhelm,0.360
+Maryland,3,U.S. Representative,L,Jerry McKinley,0.022
+Maryland,3,U.S. Representative,C,Alain Lareau,0.007
+Maryland,4,U.S. Representative,D,Donna Edwards,0.834
+Maryland,4,U.S. Representative,R,Robert Broadus,0.164
+Maryland,5,U.S. Representative,D,Steny Hoyer,0.643
+Maryland,5,U.S. Representative,R,Charles Lollar,0.346
+Maryland,5,U.S. Representative,L,Gavin Shickle,0.011
+Maryland,6,U.S. Representative,R,Roscoe Bartlett,0.615
+Maryland,6,U.S. Representative,D,Andrew Duck,0.332
+Maryland,6,U.S. Representative,L,Dan Massey,0.028
+Maryland,6,U.S. Representative,C,Michael Reed,0.024
+Maryland,7,U.S. Representative,D,Elijah Cummings,0.752
+Maryland,7,U.S. Representative,R,Frank Mirable Jr.,0.228
+Maryland,7,U.S. Representative,L,Scott Spencer,0.019
+Maryland,8,U.S. Representative,D,Chris Van Hollen Jr.,0.733
+Maryland,8,U.S. Representative,R,Michael Lee Philips,0.250
+Maryland,8,U.S. Representative,L,Mark Grannis,0.013
+Maryland,8,U.S. Representative,C,Fred Nordhorn,0.003
+Massachusetts,1,U.S. Representative,D,John Olver,0.600
+Massachusetts,1,U.S. Representative,R,William Gunn,0.349
+Massachusetts,1,U.S. Representative,I,Michael Engel,0.051
+Massachusetts,2,U.S. Representative,D,Richard Neal,0.574
+Massachusetts,2,U.S. Representative,R,Thomas Wesley,0.426
+Massachusetts,3,U.S. Representative,D,Jim McGovern,0.565
+Massachusetts,3,U.S. Representative,R,Martin Lamb,0.392
+Massachusetts,3,U.S. Representative,I,Patrick Barron,0.043
+Massachusetts,4,U.S. Representative,D,Barney Frank,0.539
+Massachusetts,4,U.S. Representative,R,Sean Bielat,0.434
+Massachusetts,4,U.S. Representative,I,Susan Allen,0.015
+Massachusetts,4,U.S. Representative,I,Donald Jordan,0.012
+Massachusetts,5,U.S. Representative,D,Niki Tsongas,0.549
+Massachusetts,5,U.S. Representative,R,Jonathan Golnik,0.423
+Massachusetts,5,U.S. Representative,I,Dale Brown,0.020
+Massachusetts,5,U.S. Representative,I,Robert Clark,0.009
+Massachusetts,6,U.S. Representative,D,John Tierney,0.569
+Massachusetts,6,U.S. Representative,R,Bill Hudak,0.431
+Massachusetts,7,U.S. Representative,D,Ed Markey,0.665
+Massachusetts,7,U.S. Representative,R,Gerry Dembrowski,0.335
+Massachusetts,8,U.S. Representative,D,Mike Capuano,1.000
+Massachusetts,9,U.S. Representative,D,Stephen Lynch,0.684
+Massachusetts,9,U.S. Representative,R,Vernon Harrison,0.261
+Massachusetts,9,U.S. Representative,I,Philip Dunkelbarger,0.056
+Massachusetts,10,U.S. Representative,D,William Keating,0.469
+Massachusetts,10,U.S. Representative,R,Jeff Perry,0.424
+Massachusetts,10,U.S. Representative,I,Maryanne Lewis,0.059
+Massachusetts,10,U.S. Representative,I,James Sheets,0.037
+Massachusetts,10,U.S. Representative,I,Joe Van Nes,0.011
+Michigan,1,U.S. Representative,R,Dan Benishek,0.519
+Michigan,1,U.S. Representative,D,Gary McDowell,0.409
+Michigan,1,U.S. Representative,I,Glenn Wilson,0.034
+Michigan,1,U.S. Representative,UST,Pat Lambert,0.018
+Michigan,1,U.S. Representative,L,Keith Shelton,0.011
+Michigan,1,U.S. Representative,G,Ellis Boal,0.009
+Michigan,2,U.S. Representative,R,Bill Huizenga,0.653
+Michigan,2,U.S. Representative,D,Fred Johnson,0.316
+Michigan,2,U.S. Representative,L,Jay Gillotte,0.012
+Michigan,2,U.S. Representative,UST,Ronald Graeser,0.010
+Michigan,2,U.S. Representative,G,Lloyd Clarke,0.009
+Michigan,3,U.S. Representative,R,Justin Amash,0.597
+Michigan,3,U.S. Representative,D,Pat Miles,0.375
+Michigan,3,U.S. Representative,L,James Rogers,0.012
+Michigan,3,U.S. Representative,UST,Ted Gerrard,0.010
+Michigan,3,U.S. Representative,G,Charlie Shick,0.007
+Michigan,4,U.S. Representative,R,Dave Camp,0.662
+Michigan,4,U.S. Representative,D,Jerry Campbell,0.305
+Michigan,4,U.S. Representative,UST,John Emerick,0.017
+Michigan,4,U.S. Representative,L,Clint Foster,0.016
+Michigan,5,U.S. Representative,D,Dale Kildee,0.530
+Michigan,5,U.S. Representative,R,John Kuipec,0.443
+Michigan,5,U.S. Representative,G,Matt de Heus,0.013
+Michigan,5,U.S. Representative,L,Michael Moon,0.013
+Michigan,6,U.S. Representative,R,Fred Upton,0.620
+Michigan,6,U.S. Representative,D,Don Cooney,0.336
+Michigan,6,U.S. Representative,UST,Mel Vaulkner,0.018
+Michigan,6,U.S. Representative,L,Fred Strand,0.017
+Michigan,6,U.S. Representative,G,Pat Foster,0.009
+Michigan,7,U.S. Representative,R,Tim Walberg,0.502
+Michigan,7,U.S. Representative,D,Mark Schauer,0.454
+Michigan,7,U.S. Representative,I,Scott Aughney,0.016
+Michigan,7,U.S. Representative,L,Greg Merle,0.014
+Michigan,7,U.S. Representative,G,Richard Wunsch,0.014
+Michigan,8,U.S. Representative,R,Mike Rogers,0.641
+Michigan,8,U.S. Representative,D,Lance Enderle,0.343
+Michigan,8,U.S. Representative,L,Bob Dashairya,0.016
+Michigan,9,U.S. Representative,D,Gary Peters,0.498
+Michigan,9,U.S. Representative,R,Andrew Raczkowski,0.472
+Michigan,9,U.S. Representative,G,Douglas Campbell,0.010
+Michigan,9,U.S. Representative,L,Adam Goodman,0.010
+Michigan,9,U.S. Representative,I,Bob Gray,0.007
+Michigan,9,U.S. Representative,I,Matthew Kuofie,0.003
+Michigan,10,U.S. Representative,R,Candice Miller,0.720
+Michigan,10,U.S. Representative,D,Henry Yanez,0.250
+Michigan,10,U.S. Representative,L,Claude Beavers,0.016
+Michigan,10,U.S. Representative,G,Candace Caveny,0.014
+Michigan,11,U.S. Representative,R,Thad McCotter,0.593
+Michigan,11,U.S. Representative,D,Natalie Mosher,0.385
+Michigan,11,U.S. Representative,L,John Tatar,0.022
+Michigan,12,U.S. Representative,D,Sander Levin,0.611
+Michigan,12,U.S. Representative,R,Don Volaric,0.350
+Michigan,12,U.S. Representative,G,Julia Williams,0.015
+Michigan,12,U.S. Representative,L,Leonard Schwartz,0.011
+Michigan,12,U.S. Representative,UST,Lester Townsend,0.011
+Michigan,12,U.S. Representative,I,Alan Jacquemotte,0.002
+Michigan,13,U.S. Representative,D,Hansen Clarke,0.794
+Michigan,13,U.S. Representative,R,John Hauler,0.185
+Michigan,13,U.S. Representative,G,George Corsetti,0.008
+Michigan,13,U.S. Representative,I,Duane Montgomery,0.007
+Michigan,13,U.S. Representative,L,Heidi Peterson,0.006
+Michigan,14,U.S. Representative,D,John Conyers Jr.,0.768
+Michigan,14,U.S. Representative,R,Don Ukrainec,0.199
+Michigan,14,U.S. Representative,UST,Marc Sosnowski,0.021
+Michigan,14,U.S. Representative,L,Rick Secula,0.012
+Michigan,15,U.S. Representative,D,John Dingell,0.568
+Michigan,15,U.S. Representative,R,Rob Steele,0.401
+Michigan,15,U.S. Representative,G,Aimee Smith,0.013
+Michigan,15,U.S. Representative,L,Kerry Lee Morgan,0.009
+Michigan,15,U.S. Representative,UST,Matthew Furman,0.009
+Minnesota,1,U.S. Representative,D,Tim Walz,0.493
+Minnesota,1,U.S. Representative,R,Randy Demmer,0.441
+Minnesota,1,U.S. Representative,IP,Steven Wilson,0.053
+Minnesota,1,U.S. Representative,I,Lars Johnson,0.012
+Minnesota,2,U.S. Representative,R,John Kline,0.633
+Minnesota,2,U.S. Representative,D,Shelly Madore,0.366
+Minnesota,3,U.S. Representative,R,Erik Paulsen,0.588
+Minnesota,3,U.S. Representative,D,Jim Meffert,0.366
+Minnesota,3,U.S. Representative,IP,Jon Oleson,0.046
+Minnesota,4,U.S. Representative,D,Betty McCollum,0.591
+Minnesota,4,U.S. Representative,R,Teresa Collett,0.346
+Minnesota,4,U.S. Representative,IP,Steve Carlson,0.061
+Minnesota,5,U.S. Representative,D,Keith Ellison,0.677
+Minnesota,5,U.S. Representative,R,Joel Demos,0.241
+Minnesota,5,U.S. Representative,I,Lynn Torgerson,0.037
+Minnesota,5,U.S. Representative,IP,Tom Schrunk,0.033
+Minnesota,5,U.S. Representative,I,Michael Cavlan,0.011
+Minnesota,6,U.S. Representative,R,Michele Bachmann,0.525
+Minnesota,6,U.S. Representative,D,Tarryl Clark,0.398
+Minnesota,6,U.S. Representative,IP,Bob Anderson,0.058
+Minnesota,6,U.S. Representative,I,Aubrey Immelman,0.018
+Minnesota,7,U.S. Representative,D,Collin Peterson,0.552
+Minnesota,7,U.S. Representative,R,Lee Byberg,0.376
+Minnesota,7,U.S. Representative,I,Gene Waldorf,0.039
+Minnesota,7,U.S. Representative,IP,Glen Menze,0.033
+Minnesota,8,U.S. Representative,R,Chip Cravaack,0.482
+Minnesota,8,U.S. Representative,D,Jim Oberstar,0.466
+Minnesota,8,U.S. Representative,IP,Timothy Olson,0.043
+Minnesota,8,U.S. Representative,C,George Burton,0.009
+Mississippi,1,U.S. Representative,R,Alan Nunnelee,0.553
+Mississippi,1,U.S. Representative,D,Travis Childers,0.408
+Mississippi,1,U.S. Representative,I,Wally Pang,0.010
+Mississippi,1,U.S. Representative,I,Les Green,0.009
+Mississippi,1,U.S. Representative,I,A. G. Baddley,0.009
+Mississippi,1,U.S. Representative,C,Gail Giaranita,0.006
+Mississippi,1,U.S. Representative,I,Rico Hoskins,0.002
+Mississippi,1,U.S. Representative,L,Harold Taylor,0.002
+Mississippi,1,U.S. Representative,Ref,Barbara Washer,0.002
+Mississippi,2,U.S. Representative,D,Bennie Thompson,0.615
+Mississippi,2,U.S. Representative,R,Bill Marcy,0.376
+Mississippi,2,U.S. Representative,Ref,Ashley Norwood,0.009
+Mississippi,3,U.S. Representative,R,Gregg Harper,0.680
+Mississippi,3,U.S. Representative,D,Joel Gill,0.312
+Mississippi,3,U.S. Representative,Ref,Tracella Lou O'Hara Hill,0.008
+Mississippi,4,U.S. Representative,R,Steven Palazzo,0.519
+Mississippi,4,U.S. Representative,D,Gene Taylor,0.468
+Mississippi,4,U.S. Representative,L,Tim Hampton,0.009
+Mississippi,4,U.S. Representative,Ref,Anna Jewel Revies,0.004
+Missouri,1,U.S. Representative,D,Lacy Clay,0.736
+Missouri,1,U.S. Representative,R,Robyn Hamlin,0.236
+Missouri,1,U.S. Representative,L,Julie Stone,0.028
+Missouri,2,U.S. Representative,R,Todd Akin,0.679
+Missouri,2,U.S. Representative,D,Arthur Lieber,0.292
+Missouri,2,U.S. Representative,L,Steve Mosbacher,0.029
+Missouri,3,U.S. Representative,D,Russ Carnahan,0.489
+Missouri,3,U.S. Representative,R,Ed Martin,0.467
+Missouri,3,U.S. Representative,L,Steven Hedrick,0.028
+Missouri,3,U.S. Representative,C,Nick Ivanovich,0.016
+Missouri,4,U.S. Representative,R,Vicky Hartzler,0.504
+Missouri,4,U.S. Representative,D,Ike Skelton,0.451
+Missouri,4,U.S. Representative,L,Jason Michael Braun,0.027
+Missouri,4,U.S. Representative,C,Greg Cowan,0.017
+Missouri,5,U.S. Representative,D,Emanuel Cleaver,0.533
+Missouri,5,U.S. Representative,R,Jacob Turk,0.442
+Missouri,5,U.S. Representative,L,Randy Langkraehr,0.016
+Missouri,5,U.S. Representative,C,Dave Lay,0.009
+Missouri,6,U.S. Representative,R,Sam Graves,0.694
+Missouri,6,U.S. Representative,D,Clint Hylton,0.305
+Missouri,7,U.S. Representative,R,Billy Long,0.634
+Missouri,7,U.S. Representative,D,Scott Eckersley,0.304
+Missouri,7,U.S. Representative,L,Kevin Craig,0.062
+Missouri,8,U.S. Representative,R,Jo Ann Emerson,0.656
+Missouri,8,U.S. Representative,D,Tommy Sowers,0.288
+Missouri,8,U.S. Representative,I,Larry Bill,0.037
+Missouri,8,U.S. Representative,L,Rick Vandeven,0.020
+Missouri,9,U.S. Representative,R,Blaine Luetkemeyer,0.774
+Missouri,9,U.S. Representative,L,Christopher Dwyer,0.223
+Missouri,9,U.S. Representative,W-I,Jeff Reed,0.004
+Montana,At-Large,U.S. Representative,R,Denny Rehberg,0.603
+Montana,At-Large,U.S. Representative,D,Dennis McDonald,0.338
+Montana,At-Large,U.S. Representative,L,Mike Fellows,0.057
+Nebraska,1,U.S. Representative,R,Jeff Fortenberry,0.713
+Nebraska,1,U.S. Representative,D,Ivy Harper,0.287
+Nebraska,2,U.S. Representative,R,Lee Terry,0.608
+Nebraska,2,U.S. Representative,D,Tom White,0.392
+Nebraska,3,U.S. Representative,R,Adrian Smith,0.701
+Nebraska,3,U.S. Representative,D,Rebekah Davis,0.179
+Nebraska,3,U.S. Representative,I,Dan Hill,0.120
+Nevada,1,U.S. Representative,D,Shelley Berkley,0.617
+Nevada,1,U.S. Representative,R,Kenneth A. Wegner,0.353
+Nevada,1,U.S. Representative,IA,Jonathan J. Hansen,0.017
+Nevada,1,U.S. Representative,L,Ed Klapproth,0.013
+Nevada,2,U.S. Representative,R,Dean Heller,0.633
+Nevada,2,U.S. Representative,D,Nancy Price,0.327
+Nevada,2,U.S. Representative,IA,Russell Best,0.040
+Nevada,3,U.S. Representative,R,Joe Heck,0.481
+Nevada,3,U.S. Representative,D,Dina Titus,0.475
+Nevada,3,U.S. Representative,I,Barry Michaels,0.024
+Nevada,3,U.S. Representative,L,Joseph P. Silvestri,0.015
+Nevada,3,U.S. Representative,IA,Scott David Narder,0.005
+New Hampshire,1,U.S. Representative,R,Frank Guinta,0.540
+New Hampshire,1,U.S. Representative,D,Carol Shea-Porter,0.424
+New Hampshire,1,U.S. Representative,L,Philip Hodson,0.035
+New Hampshire,2,U.S. Representative,R,Charlie Bass,0.483
+New Hampshire,2,U.S. Representative,D,Ann McLane Kuster,0.468
+New Hampshire,2,U.S. Representative,I,Tim vanBlommesteyn,0.028
+New Hampshire,2,U.S. Representative,L,Howard Wilson,0.021
+New Jersey,1,U.S. Representative,D,Rob Andrews,0.632
+New Jersey,1,U.S. Representative,R,Dale Glading,0.348
+New Jersey,1,U.S. Representative,G,Mark Heacock,0.010
+New Jersey,1,U.S. Representative,I,Margaret Chapman,0.007
+New Jersey,1,U.S. Representative,I,Nicky Petrutz,0.003
+New Jersey,2,U.S. Representative,R,Frank LoBiondo,0.655
+New Jersey,2,U.S. Representative,D,Gary Stein,0.309
+New Jersey,2,U.S. Representative,C,Peter Boyce,0.025
+New Jersey,2,U.S. Representative,I,Mark Lovett,0.007
+New Jersey,2,U.S. Representative,I,Vitov Valdes-Munoz,0.004
+New Jersey,3,U.S. Representative,R,Jon Runyan,0.500
+New Jersey,3,U.S. Representative,D,John Adler,0.473
+New Jersey,3,U.S. Representative,Tea,Peter DeStefano,0.015
+New Jersey,3,U.S. Representative,L,Russ Conger,0.007
+New Jersey,3,U.S. Representative,I,Lawrence Donahue,0.005
+New Jersey,4,U.S. Representative,R,Chris Smith,0.694
+New Jersey,4,U.S. Representative,D,Howard Kleinhendler,0.279
+New Jersey,4,U.S. Representative,L,Joe Siano,0.016
+New Jersey,4,U.S. Representative,G,Steven Welzer,0.008
+New Jersey,4,U.S. Representative,I,David Meiswinkle,0.003
+New Jersey,5,U.S. Representative,R,Scott Garrett,0.650
+New Jersey,5,U.S. Representative,D,Tod Thiese,0.327
+New Jersey,5,U.S. Representative,G,Ed Fanning,0.012
+New Jersey,5,U.S. Representative,I,Mark Quick,0.009
+New Jersey,5,U.S. Representative,I,James Radigan,0.002
+New Jersey,6,U.S. Representative,D,Frank Pallone,0.547
+New Jersey,6,U.S. Representative,R,Anna C. Little,0.437
+New Jersey,6,U.S. Representative,I,Jack Freudenheim,0.009
+New Jersey,6,U.S. Representative,I,Karen Anne Zaletel,0.007
+New Jersey,7,U.S. Representative,R,Leonard Lance,0.594
+New Jersey,7,U.S. Representative,D, Ed Potosnak,0.406
+New Jersey,8,U.S. Representative,D,Bill Pascrell,0.627
+New Jersey,8,U.S. Representative,R,Roland Straten,0.361
+New Jersey,8,U.S. Representative,I, Raymond Giangrasso,0.012
+New Jersey,9,U.S. Representative,D,Steve Rothman,0.607
+New Jersey,9,U.S. Representative,R,Michael Agosta,0.378
+New Jersey,9,U.S. Representative,G,Patricia Alessandrini,0.014
+New Jersey,10,U.S. Representative,D,Don Payne,0.852
+New Jersey,10,U.S. Representative,R,Michael Alonso,0.128
+New Jersey,10,U.S. Representative,I,Joanne Miller,0.010
+New Jersey,10,U.S. Representative,I,Robert Louis Toussaint,0.010
+New Jersey,11,U.S. Representative,R,Rodney Frelinghuysen,0.672
+New Jersey,11,U.S. Representative,D,Douglas Herbert,0.305
+New Jersey,11,U.S. Representative,L,Jim Gawron,0.023
+New Jersey,12,U.S. Representative,D,Rush Holt Jr.,0.530
+New Jersey,12,U.S. Representative,R,Scott M. Sipprelle,0.459
+New Jersey,12,U.S. Representative,TVH,Kenneth Cody,0.011
+New Jersey,13,U.S. Representative,D,Albio Sires,0.741
+New Jersey,13,U.S. Representative,R,Henrietta Dwyer,0.230
+New Jersey,13,U.S. Representative,I,Anthony Zanowic,0.018
+New Jersey,13,U.S. Representative,I,Máximo Gómez Nacer,0.011
+New Mexico,1,U.S. Representative,D,Martin Heinrich,0.518
+New Mexico,1,U.S. Representative,R,Jon Barela,0.482
+New Mexico,2,U.S. Representative,R,Steve Pearce,0.554
+New Mexico,2,U.S. Representative,D,Harry Teague,0.446
+New Mexico,3,U.S. Representative,D,Ben Lujan,0.570
+New Mexico,3,U.S. Representative,R, Tom Mullins,0.430
+New York,1,U.S. Representative,D,Tim Bishop,0.502
+New York,1,U.S. Representative,R,Randy Altschuler,0.498
+New York,2,U.S. Representative,D,Steve Israel,0.564
+New York,2,U.S. Representative,R,John Gomez,0.429
+New York,2,U.S. Representative,C,Anthony Tolda,0.007
+New York,3,U.S. Representative,R,Peter King,0.720
+New York,3,U.S. Representative,D,Howard Kudler,0.280
+New York,4,U.S. Representative,D,Carolyn McCarthy,0.536
+New York,4,U.S. Representative,R,Fran Becker,0.464
+New York,5,U.S. Representative,D,Gary Ackerman,0.631
+New York,5,U.S. Representative,R,James Milano,0.362
+New York,5,U.S. Representative,L,Elizabeth Berney,0.007
+New York,6,U.S. Representative,D,Gregory Meeks,0.878
+New York,6,U.S. Representative,R,Asher Taub,0.122
+New York,7,U.S. Representative,D,Joseph Crowley,0.806
+New York,7,U.S. Representative,R,Ken Reynolds,0.182
+New York,7,U.S. Representative,G,Anthony Gronowicz,0.012
+New York,8,U.S. Representative,D,Jerrold Nadler,0.755
+New York,8,U.S. Representative,R,Susan Kone,0.245
+New York,9,U.S. Representative,D,Anthony Weiner,0.608
+New York,9,U.S. Representative,R,Bob Turner,0.392
+New York,10,U.S. Representative,D,Ed Towns,0.911
+New York,10,U.S. Representative,R,Diana Muniz,0.071
+New York,10,U.S. Representative,Cons,Ernest Johnson,0.018
+New York,11,U.S. Representative,D,Yvette Clarke,0.906
+New York,11,U.S. Representative,R,Hugh Carr,0.094
+New York,12,U.S. Representative,D,Nydia Velázquez,0.939
+New York,12,U.S. Representative,Cons,Alice Gaffney,0.061
+New York,13,U.S. Representative,R,Mike Grimm,0.513
+New York,13,U.S. Representative,D,Michael McMahon,0.480
+New York,13,U.S. Representative,L,Tom Vendittelli,0.007
+New York,14,U.S. Representative,D,Carolyn Maloney,0.751
+New York,14,U.S. Representative,R,David Brumberg,0.224
+New York,14,U.S. Representative,Cons,Timothy Healy,0.013
+New York,14,U.S. Representative,IP,Dino LaVerghetta,0.011
+New York,15,U.S. Representative,D,Charles Rangel,0.804
+New York,15,U.S. Representative,R,Michael Faulkner,0.104
+New York,15,U.S. Representative,IP,Craig Schley,0.068
+New York,15,U.S. Representative,SW,Roger Calero,0.023
+New York,16,U.S. Representative,D,José Serrano,0.963
+New York,16,U.S. Representative,R,Frank Della Valle,0.037
+New York,17,U.S. Representative,D,Eliot Engel,0.729
+New York,17,U.S. Representative,R,Anthony Mele,0.228
+New York,17,U.S. Representative,Cons,York Kleinhandler,0.043
+New York,18,U.S. Representative,D,Nita Lowey,0.622
+New York,18,U.S. Representative,R,James Russell,0.378
+New York,19,U.S. Representative,R,Nan Hayworth,0.527
+New York,19,U.S. Representative,D,John Hall,0.473
+New York,20,U.S. Representative,R,Chris Gibson,0.549
+New York,20,U.S. Representative,D,Scott Murphy,0.451
+New York,21,U.S. Representative,D,Paul Tonko,0.593
+New York,21,U.S. Representative,R,Theodore Danz,0.407
+New York,22,U.S. Representative,D,Maurice Hinchey,0.527
+New York,22,U.S. Representative,R,George Phillips,0.473
+New York,23,U.S. Representative,D,Bill Owens,0.475
+New York,23,U.S. Representative,R,Matt Doheny,0.464
+New York,23,U.S. Representative,Cons,Doug Hoffman,0.061
+New York,24,U.S. Representative,R,Richard L. Hanna,0.531
+New York,24,U.S. Representative,D,Mike Arcuri,0.469
+New York,25,U.S. Representative,R,Ann Marie Buerkle,0.502
+New York,25,U.S. Representative,D,Dan Maffei,0.498
+New York,26,U.S. Representative,R,Chris Lee,0.736
+New York,26,U.S. Representative,D,Philip Fedele,0.264
+New York,27,U.S. Representative,D,Brian Higgins,0.609
+New York,27,U.S. Representative,R,Leonard Roberto,0.391
+New York,28,U.S. Representative,D,Louise Slaughter,0.649
+New York,28,U.S. Representative,R,Jill Rowland,0.351
+New York,29,U.S. Representative,R,Tom Reed,0.566
+New York,29,U.S. Representative,D,Matthew Zeller,0.434
+North Carolina,1,U.S. Representative,D,G.K. Butterfield,0.593
+North Carolina,1,U.S. Representative,R,Ashley Woolard,0.407
+North Carolina,2,U.S. Representative,R,Renee Ellmers,0.495
+North Carolina,2,U.S. Representative,D,Bob Etheridge,0.487
+North Carolina,2,U.S. Representative,L,Tom Rose,0.018
+North Carolina,3,U.S. Representative,R,Walter Jones Jr.,0.719
+North Carolina,3,U.S. Representative,D,Johnny Rouse,0.257
+North Carolina,3,U.S. Representative,L,Darryl Holloman,0.024
+North Carolina,4,U.S. Representative,D,David Price,0.572
+North Carolina,4,U.S. Representative,R,B.J. Lawson,0.428
+North Carolina,5,U.S. Representative,R,Virginia Foxx,0.659
+North Carolina,6,U.S. Representative,R,Howard Coble,0.752
+North Carolina,6,U.S. Representative,D,Gregory Scott Turner,0.248
+North Carolina,7,U.S. Representative,D,Mike McIntyre,0.537
+North Carolina,7,U.S. Representative,R,Ilario Pantano,0.463
+North Carolina,8,U.S. Representative,D,Larry Kissell,0.530
+North Carolina,8,U.S. Representative,R,Harold Johnson,0.437
+North Carolina,8,U.S. Representative,L,Thomas Hill,0.030
+North Carolina,9,U.S. Representative,R,Sue Myrick,0.690
+North Carolina,9,U.S. Representative,D,Jeff Doctor,0.310
+North Carolina,10,U.S. Representative,R,Patrick McHenry,0.712
+North Carolina,10,U.S. Representative,D,Jeff Gregory,0.288
+North Carolina,11,U.S. Representative,D,Heath Shuler,0.543
+North Carolina,11,U.S. Representative,R,Jeff Miller,0.457
+North Carolina,12,U.S. Representative,D,Mel Watt,0.639
+North Carolina,12,U.S. Representative,R,Greg Dority,0.341
+North Carolina,12,U.S. Representative,L,Lon Vernon Cecil,0.020
+North Carolina,13,U.S. Representative,D,Brad Miller,0.555
+North Carolina,13,U.S. Representative,R,William Randall,0.445
+North Dakota,At-Large,U.S. Representative,R,Rick Berg,0.547
+North Dakota,At-Large,U.S. Representative,D-NPL,Earl Pomeroy,0.449
+Ohio,1,U.S. Representative,R,Steve Chabot,0.515
+Ohio,1,U.S. Representative,D,Steve Driehaus,0.460
+Ohio,1,U.S. Representative,L,Jim Berns,0.015
+Ohio,1,U.S. Representative,G,Rich Stevenson,0.010
+Ohio,2,U.S. Representative,R,Jean Schmidt,0.585
+Ohio,2,U.S. Representative,D,Surya Yalamanchili,0.347
+Ohio,2,U.S. Representative,L,Marc Johnston,0.068
+Ohio,3,U.S. Representative,R,Mike Turner,0.681
+Ohio,3,U.S. Representative,D,Joe Roberts,0.319
+Ohio,4,U.S. Representative,R,Jim Jordan,0.715
+Ohio,4,U.S. Representative,D,Doug Litt,0.247
+Ohio,4,U.S. Representative,L,Donald Kissick,0.038
+Ohio,5,U.S. Representative,R,Bob Latta,0.678
+Ohio,5,U.S. Representative,D,Caleb Finkenbiner,0.265
+Ohio,5,U.S. Representative,L,Brian Smith,0.057
+Ohio,6,U.S. Representative,R,Bill Johnson,0.502
+Ohio,6,U.S. Representative,D,Charlie Wilson,0.451
+Ohio,6,U.S. Representative,C,Richard Cadle,0.025
+Ohio,6,U.S. Representative,L,Martin Elsass,0.022
+Ohio,7,U.S. Representative,R,Steve Austria,0.622
+Ohio,7,U.S. Representative,D,Bill Conner,0.323
+Ohio,7,U.S. Representative,L,John Anderson,0.043
+Ohio,7,U.S. Representative,C,David Easton,0.013
+Ohio,8,U.S. Representative,R,John Boehner,0.656
+Ohio,8,U.S. Representative,D,Justin Coussoule,0.303
+Ohio,8,U.S. Representative,L,David Harlow,0.024
+Ohio,8,U.S. Representative,C,James Condit,0.017
+Ohio,9,U.S. Representative,D,Marcy Kaptur,0.594
+Ohio,9,U.S. Representative,R,Rich Iott,0.406
+Ohio,10,U.S. Representative,D,Dennis Kucinich,0.530
+Ohio,10,U.S. Representative,R,Peter Corrigan,0.439
+Ohio,10,U.S. Representative,L,Jeff Goggins,0.031
+Ohio,11,U.S. Representative,D,Marcia Fudge,0.829
+Ohio,11,U.S. Representative,R,Thomas Pekarek,0.171
+Ohio,12,U.S. Representative,R,Pat Tiberi,0.558
+Ohio,12,U.S. Representative,D,Paula Brooks,0.409
+Ohio,12,U.S. Representative,L,Travis Irvine,0.032
+Ohio,13,U.S. Representative,D,Betty Sutton,0.557
+Ohio,13,U.S. Representative,R,Tom Ganley,0.443
+Ohio,14,U.S. Representative,R,Steve LaTourette,0.649
+Ohio,14,U.S. Representative,D,William O'Neill,0.315
+Ohio,14,U.S. Representative,L,John Jelenic,0.036
+Ohio,15,U.S. Representative,R,Steve Stivers,0.541
+Ohio,15,U.S. Representative,D,Mary Jo Kilroy,0.413
+Ohio,15,U.S. Representative,L,William Kammerer,0.028
+Ohio,15,U.S. Representative,C,David Ryon,0.018
+Ohio,16,U.S. Representative,R,Jim Renacci,0.521
+Ohio,16,U.S. Representative,D,John Boccieri,0.413
+Ohio,16,U.S. Representative,L,Jeffrey Blevins,0.066
+Ohio,17,U.S. Representative,D,Tim Ryan,0.539
+Ohio,17,U.S. Representative,R,Jim Graham,0.301
+Ohio,17,U.S. Representative,I,Jim Traficant,0.160
+Ohio,18,U.S. Representative,R,Bob Gibbs,0.539
+Ohio,18,U.S. Representative,D,Zack Space,0.405
+Ohio,18,U.S. Representative,C,Lindsey Dean Sutton,0.056
+Oklahoma,1,U.S. Representative,R,John Sullivan,0.768
+Oklahoma,1,U.S. Representative,I,Angelia O'Dell,0.232
+Oklahoma,2,U.S. Representative,D,Dan Boren,0.565
+Oklahoma,2,U.S. Representative,R,Charles Thompson,0.435
+Oklahoma,3,U.S. Representative,R,Frank Lucas,0.780
+Oklahoma,3,U.S. Representative,D, Frankie Robbins,0.220
+Oklahoma,4,U.S. Representative,R,Tom Cole,1.000
+Oklahoma,5,U.S. Representative,R,James Lankford,0.625
+Oklahoma,5,U.S. Representative,D,Billy Coyle,0.345
+Oklahoma,5,U.S. Representative,I,Clark Duffe,0.016
+Oklahoma,5,U.S. Representative,I,Dave White,0.014
+Oregon,1,U.S. Representative,D,David Wu,0.548
+Oregon,1,U.S. Representative,R,Rob Cornilles,0.420
+Oregon,1,U.S. Representative,C,Don LaMunyon,0.013
+Oregon,1,U.S. Representative,PG,Chris Henry,0.010
+Oregon,1,U.S. Representative,L,Joe Tabor,0.009
+Oregon,2,U.S. Representative,R,Greg Walden,0.741
+Oregon,2,U.S. Representative,D,Joyce Segers,0.259
+Oregon,3,U.S. Representative,D,Earl Blumenauer,0.701
+Oregon,3,U.S. Representative,R,Delia Lopez,0.246
+Oregon,3,U.S. Representative,L,Jeff Lawrence,0.030
+Oregon,3,U.S. Representative,PG,Michael Meo,0.023
+Oregon,4,U.S. Representative,D,Peter DeFazio,0.546
+Oregon,4,U.S. Representative,R,Art Robinson,0.437
+Oregon,4,U.S. Representative,PG,Mike Beilstein,0.017
+Oregon,5,U.S. Representative,D,Kurt Schrader,0.513
+Oregon,5,U.S. Representative,R,Scott Bruun,0.460
+Oregon,5,U.S. Representative,PG,Chris Lugo,0.027
+Pennsylvania,1,U.S. Representative,D,Bob Brady,1.000
+Pennsylvania,2,U.S. Representative,D,Chaka Fattah,0.893
+Pennsylvania,2,U.S. Representative,R,Rick Hellberg,0.107
+Pennsylvania,3,U.S. Representative,R,Mike Kelly,0.557
+Pennsylvania,3,U.S. Representative,D,Kathy Dahlkemper,0.443
+Pennsylvania,4,U.S. Representative,D,Jason Altmire,0.508
+Pennsylvania,4,U.S. Representative,R,Keith Rothfus,0.492
+Pennsylvania,5,U.S. Representative,R,G.T. Thompson,0.687
+Pennsylvania,5,U.S. Representative,D,Michael Pipe,0.282
+Pennsylvania,5,U.S. Representative,L,Vernon Etzel,0.031
+Pennsylvania,6,U.S. Representative,R,Jim Gerlach,0.571
+Pennsylvania,6,U.S. Representative,D,Manan Trivedi,0.429
+Pennsylvania,7,U.S. Representative,R,Pat Meehan,0.549
+Pennsylvania,7,U.S. Representative,D,Bryan Lentz,0.440
+Pennsylvania,7,U.S. Representative,I,Jim Schneller,0.011
+Pennsylvania,8,U.S. Representative,R,Mike Fitzpatrick,0.535
+Pennsylvania,8,U.S. Representative,D,Patrick Murphy,0.465
+Pennsylvania,9,U.S. Representative,R,Bill Shuster,0.731
+Pennsylvania,9,U.S. Representative,D,Tom Conners,0.269
+Pennsylvania,10,U.S. Representative,R,Tom Marino,0.552
+Pennsylvania,10,U.S. Representative,D,Chris Carney,0.448
+Pennsylvania,11,U.S. Representative,R,Lou Barletta,0.547
+Pennsylvania,11,U.S. Representative,D,Paul Kanjorski,0.453
+Pennsylvania,12,U.S. Representative,D,Mark Critz,0.508
+Pennsylvania,12,U.S. Representative,R,Tim Burns,0.492
+Pennsylvania,13,U.S. Representative,D,Allyson Schwartz,0.563
+Pennsylvania,13,U.S. Representative,R,Dee Adcock,0.437
+Pennsylvania,14,U.S. Representative,D,Mike Doyle,0.688
+Pennsylvania,14,U.S. Representative,R,Melissa Haluszczak,0.282
+Pennsylvania,14,U.S. Representative,G,Ed Bortz,0.030
+Pennsylvania,15,U.S. Representative,R,Charlie Dent,0.535
+Pennsylvania,15,U.S. Representative,D,John Callahan,0.390
+Pennsylvania,15,U.S. Representative,I,Jake Towne,0.075
+Pennsylvania,16,U.S. Representative,R,Joe Pitts,0.654
+Pennsylvania,16,U.S. Representative,D,Lois Herr,0.346
+Pennsylvania,17,U.S. Representative,D,Tim Holden,0.555
+Pennsylvania,17,U.S. Representative,R,Dave Argall,0.445
+Pennsylvania,18,U.S. Representative,R,Tim Murphy,0.673
+Pennsylvania,18,U.S. Representative,D,Dan Connolly,0.327
+Pennsylvania,19,U.S. Representative,R,Todd Platts,0.719
+Pennsylvania,19,U.S. Representative,D,Ryan Sanders,0.233
+Pennsylvania,19,U.S. Representative,I,Joshua Monighan,0.048
+Rhode Island,1,U.S. Representative,D,David Cicilline,0.506
+Rhode Island,1,U.S. Representative,R,John J. Loughlin,0.446
+Rhode Island,1,U.S. Representative,I,Kenneth Capalbo,0.040
+Rhode Island,1,U.S. Representative,I,Gregory Raposa,0.008
+Rhode Island,2,U.S. Representative,D,Jim Langevin,0.599
+Rhode Island,2,U.S. Representative,R,Mark Zaccaria,0.318
+Rhode Island,2,U.S. Representative,I,John Matson,0.084
+South Carolina,1,U.S. Representative,R,Tim Scott,0.654
+South Carolina,1,U.S. Representative,D,Ben Frasier,0.287
+South Carolina,1,U.S. Representative,WF,Robert Burton,0.018
+South Carolina,1,U.S. Representative,G,Bob Dobbs,0.014
+South Carolina,1,U.S. Representative,L,Keith Blandford,0.012
+South Carolina,1,U.S. Representative,Ind,Jimmy Wood,0.011
+South Carolina,1,U.S. Representative,UC,Mac McCullough,0.004
+South Carolina,2,U.S. Representative,R,Joe Wilson,0.535
+South Carolina,2,U.S. Representative,D,Rob Miller,0.438
+South Carolina,2,U.S. Representative,L,Eddie McCain,0.016
+South Carolina,2,U.S. Representative,C,Marc Beaman,0.011
+South Carolina,3,U.S. Representative,R,Jeff Duncan,0.625
+South Carolina,3,U.S. Representative,D,Jane Ballard Dyer,0.362
+South Carolina,3,U.S. Representative,C,John Dalen,0.013
+South Carolina,4,U.S. Representative,R,Trey Gowdy,0.635
+South Carolina,4,U.S. Representative,D,Paul Corden,0.288
+South Carolina,4,U.S. Representative,C,Dave Edwards,0.051
+South Carolina,4,U.S. Representative,L,Rick Mahler,0.014
+South Carolina,4,U.S. Representative,G,Faye Walters,0.012
+South Carolina,5,U.S. Representative,R,Mick Mulvaney,0.551
+South Carolina,5,U.S. Representative,D,John Spratt,0.449
+South Carolina,6,U.S. Representative,D,Jim Clyburn,0.629
+South Carolina,6,U.S. Representative,R,Jim Pratt,0.364
+South Carolina,6,U.S. Representative,G,Nammu Muhammad,0.007
+South Dakota,At-Large,U.S. Representative,R,Kristi Noem,0.481
+South Dakota,At-Large,U.S. Representative,D,Stephanie Herseth Sandlin,0.459
+South Dakota,At-Large,U.S. Representative,I,Thomas Marking,0.060
+Tennessee,1,U.S. Representative,R,Phil Roe,0.808
+Tennessee,1,U.S. Representative,D,Michael Clark,0.171
+Tennessee,1,U.S. Representative,I,Kermit Steck,0.021
+Tennessee,2,U.S. Representative,R,Jimmy Duncan,0.817
+Tennessee,2,U.S. Representative,D,Dave Hancock,0.147
+Tennessee,2,U.S. Representative,I,Joseph Leinweber Jr.,0.014
+Tennessee,2,U.S. Representative,I,Andy Andrew,0.012
+Tennessee,2,U.S. Representative,I,Greg Samples,0.007
+Tennessee,2,U.S. Representative,I,H. Headings,0.003
+Tennessee,3,U.S. Representative,R,Charles Fleischmann,0.568
+Tennessee,3,U.S. Representative,D,John Wolfe Jr.,0.280
+Tennessee,3,U.S. Representative,I,Savas Kyriakidis,0.105
+Tennessee,3,U.S. Representative,I,Mark DeVol,0.036
+Tennessee,3,U.S. Representative,I,Don Barkman,0.005
+Tennessee,3,U.S. Representative,I,Gregory Goodwin,0.002
+Tennessee,3,U.S. Representative,I,Robert Humphries,0.002
+Tennessee,3,U.S. Representative,I,Mo Kiah,0.001
+Tennessee,4,U.S. Representative,R,Scott DesJarlais,0.571
+Tennessee,4,U.S. Representative,D,Lincoln Davis,0.386
+Tennessee,4,U.S. Representative,I,Paul Curtis,0.017
+Tennessee,4,U.S. Representative,I,Gerald York,0.012
+Tennessee,4,U.S. Representative,I,James Gray,0.009
+Tennessee,4,U.S. Representative,I,Richard Johnson,0.005
+Tennessee,5,U.S. Representative,D,Jim Cooper,0.562
+Tennessee,5,U.S. Representative,R,David Hall,0.421
+Tennessee,5,U.S. Representative,I,Stephen Collings,0.003
+Tennessee,5,U.S. Representative,I,Jacqueline Miller,0.003
+Tennessee,5,U.S. Representative,I,John Smith,0.003
+Tennessee,5,U.S. Representative,I,William Crook,0.002
+Tennessee,5,U.S. Representative,I,John Miglietta,0.002
+Tennessee,5,U.S. Representative,I,James Whitfield II,0.002
+Tennessee,5,U.S. Representative,I,Nathan Harden,0.001
+Tennessee,5,U.S. Representative,I,Joe Moore,0.001
+Tennessee,5,U.S. Representative,I,Thomas Taylor,0.001
+Tennessee,6,U.S. Representative,R,Diane Black,0.673
+Tennessee,6,U.S. Representative,D,Brett Carter,0.294
+Tennessee,6,U.S. Representative,I,Jim Boyd,0.011
+Tennessee,6,U.S. Representative,I,Tommy Hay,0.007
+Tennessee,6,U.S. Representative,I,David Purcell,0.007
+Tennessee,6,U.S. Representative,I,Brandon Gore,0.006
+Tennessee,6,U.S. Representative,I,Stephen Sprague,0.003
+Tennessee,7,U.S. Representative,R,Marsha Blackburn,0.724
+Tennessee,7,U.S. Representative,D,Greg Rabidoux,0.248
+Tennessee,7,U.S. Representative,I,Bill Stone,0.029
+Tennessee,8,U.S. Representative,R,Stephen Fincher,0.590
+Tennessee,8,U.S. Representative,D,Roy Herron,0.388
+Tennessee,8,U.S. Representative,I,Donn Janes,0.015
+Tennessee,8,U.S. Representative,I,Mark Rawles,0.007
+Tennessee,9,U.S. Representative,D,Steve Cohen,0.740
+Tennessee,9,U.S. Representative,R,Charlotte Bergmann,0.251
+Tennessee,9,U.S. Representative,I,Sandra Sullivan,0.005
+Tennessee,9,U.S. Representative,I,Perry Steele,0.004
+Texas,1,U.S. Representative,R,Louie Gohmert,0.897
+Texas,1,U.S. Representative,L,Charles Parkes,0.103
+Texas,3,U.S. Representative,R,Sam Johnson,0.663
+Texas,3,U.S. Representative,D,John Lingenfelder,0.313
+Texas,3,U.S. Representative,L,Christopher Claytor,0.024
+Texas,4,U.S. Representative,R,Ralph Hall,0.732
+Texas,4,U.S. Representative,D,VaLinda Hathcox,0.220
+Texas,4,U.S. Representative,L,Jim Prindle,0.025
+Texas,4,U.S. Representative,I,Shane Shepard,0.023
+Texas,5,U.S. Representative,R,Jeb Hensarling,0.705
+Texas,5,U.S. Representative,D,Tom Berry,0.275
+Texas,5,U.S. Representative,L,Ken Ashby,0.020
+Texas,6,U.S. Representative,R,Joe Barton,0.659
+Texas,6,U.S. Representative,D,David Cozad,0.312
+Texas,6,U.S. Representative,L,Byron Severns,0.029
+Texas,7,U.S. Representative,R,John Culberson,0.814
+Texas,7,U.S. Representative,L,Bob Townsend,0.180
+Texas,7,U.S. Representative,W-I,Lisa Squiers,0.006
+Texas,8,U.S. Representative,R,Kevin Brady,0.803
+Texas,8,U.S. Representative,D,Kent Hargett,0.172
+Texas,8,U.S. Representative,L,Bruce West,0.025
+Texas,9,U.S. Representative,D,Al Green,0.757
+Texas,9,U.S. Representative,R,Steve Mueller,0.229
+Texas,9,U.S. Representative,L,Michael Hope,0.014
+Texas,10,U.S. Representative,R,Michael McCaul,0.647
+Texas,10,U.S. Representative,D,Ted Ankrum,0.330
+Texas,10,U.S. Representative,L,J.P. Perkins,0.023
+Texas,11,U.S. Representative,R,Mike Conaway,0.808
+Texas,11,U.S. Representative,D,James Quillan,0.154
+Texas,11,U.S. Representative,L,James Powell,0.028
+Texas,11,U.S. Representative,G,Jim Howe,0.009
+Texas,12,U.S. Representative,R,Kay Granger,0.719
+Texas,12,U.S. Representative,D,Tracey Smith,0.251
+Texas,12,U.S. Representative,L,Matthew Sodolow,0.030
+Texas,13,U.S. Representative,R,Mac Thornberry,0.871
+Texas,13,U.S. Representative,I,Keith Dyer,0.086
+Texas,13,U.S. Representative,L,John Burwell,0.043
+Texas,14,U.S. Representative,R,Ron Paul,0.760
+Texas,14,U.S. Representative,D,Robert Pruett,0.240
+Texas,15,U.S. Representative,D,Ruben Hinojosa,0.557
+Texas,15,U.S. Representative,R,Eddie Zamora,0.416
+Texas,15,U.S. Representative,L,Aaron Cohn,0.027
+Texas,16,U.S. Representative,D,Silvestre Reyes,0.581
+Texas,16,U.S. Representative,R,Tim Besco,0.366
+Texas,16,U.S. Representative,L,Bill Collins,0.051
+Texas,16,U.S. Representative,W-I,Tim Collins,0.003
+Texas,17,U.S. Representative,R,Bill Flores,0.618
+Texas,17,U.S. Representative,D,Chet Edwards,0.366
+Texas,17,U.S. Representative,L,Richard Kelly,0.016
+Texas,18,U.S. Representative,D,Sheila Jackson Lee,0.701
+Texas,18,U.S. Representative,R,John Faulk,0.273
+Texas,18,U.S. Representative,L,Mike Taylor,0.026
+Texas,19,U.S. Representative,R,Randy Neugebauer,0.777
+Texas,19,U.S. Representative,D,Andy Wilson,0.191
+Texas,19,U.S. Representative,L,Chip Peterson,0.032
+Texas,20,U.S. Representative,D,Charlie Gonzalez,0.636
+Texas,20,U.S. Representative,R,Clayton Trotter,0.345
+Texas,20,U.S. Representative,L,Michael Idrogo,0.019
+Texas,21,U.S. Representative,R,Lamar Smith,0.689
+Texas,21,U.S. Representative,D,Laney Melnick,0.279
+Texas,21,U.S. Representative,L,James Arthur Strohm,0.032
+Texas,22,U.S. Representative,R,Pete Olson,0.675
+Texas,22,U.S. Representative,D,Kesha Rogers,0.298
+Texas,22,U.S. Representative,L,Steven Susman,0.027
+Texas,23,U.S. Representative,R,Quico Canseco,0.494
+Texas,23,U.S. Representative,D,Ciro Rodriguez,0.444
+Texas,23,U.S. Representative,I,Craig Stephens,0.036
+Texas,23,U.S. Representative,L,Martin Nitschke,0.016
+Texas,23,U.S. Representative,G,Ed Scharf,0.009
+Texas,24,U.S. Representative,R,Kenny Marchant,0.816
+Texas,24,U.S. Representative,L,David Sparks,0.184
+Texas,25,U.S. Representative,D,Lloyd Doggett,0.528
+Texas,25,U.S. Representative,R,Donna Campbell,0.448
+Texas,25,U.S. Representative,L,Jim Stutsman,0.023
+Texas,26,U.S. Representative,R,Michael Burgess,0.671
+Texas,26,U.S. Representative,D,Neil Durrance,0.307
+Texas,26,U.S. Representative,L,Mark Boler,0.022
+Texas,27,U.S. Representative,R,Blake Farenthold,0.479
+Texas,27,U.S. Representative,D,Solomon Ortiz,0.471
+Texas,27,U.S. Representative,L,Ed Mishou,0.050
+Texas,28,U.S. Representative,D,Henry Cuellar,0.563
+Texas,28,U.S. Representative,R,Bryan Underwood,0.420
+Texas,28,U.S. Representative,L,Stephen Kaat,0.017
+Texas,29,U.S. Representative,D,Gene Green,0.646
+Texas,29,U.S. Representative,R,Roy Morales,0.341
+Texas,29,U.S. Representative,L,Brad Walters,0.013
+Texas,30,U.S. Representative,D,Eddie Bernice Johnson,0.757
+Texas,30,U.S. Representative,R,Stephen Broden,0.216
+Texas,30,U.S. Representative,L,J. B. Oswalt,0.026
+Texas,31,U.S. Representative,R,John Carter,0.825
+Texas,31,U.S. Representative,L,Bill Oliver,0.175
+Texas,32,U.S. Representative,R,Pete Sessions,0.626
+Texas,32,U.S. Representative,D,Grier Raggio,0.349
+Texas,32,U.S. Representative,L,John Jay Myers,0.025
+Utah,1,U.S. Representative,R,Rob Bishop,0.692
+Utah,1,U.S. Representative,D,Morgan Bowen,0.239
+Utah,1,U.S. Representative,C,Kirk Pearson,0.047
+Utah,1,U.S. Representative,L,Jared Paul Stratton,0.022
+Utah,2,U.S. Representative,D,Jim Matheson,0.505
+Utah,2,U.S. Representative,R,Morgan Philpot,0.461
+Utah,2,U.S. Representative,C,Randall Hinton,0.018
+Utah,2,U.S. Representative,I,Dave Glissmeyer,0.009
+Utah,2,U.S. Representative,I,Wayne Hill,0.007
+Utah,3,U.S. Representative,R,Jason Chaffetz,0.723
+Utah,3,U.S. Representative,D,Karen Hyer,0.229
+Utah,3,U.S. Representative,C,Douglas Sligting,0.024
+Utah,3,U.S. Representative,L,Jake Shannon,0.015
+Utah,3,U.S. Representative,I,Joseph Puente,0.008
+Vermont,At-Large,U.S. Representative,D,Peter Welch,0.646
+Vermont,At-Large,U.S. Representative,R,Paul Beaudry,0.320
+Vermont,At-Large,U.S. Representative,I,Gus Jaccaci,0.020
+Vermont,At-Large,U.S. Representative,S,Jane Newton,0.014
+Virginia,1,U.S. Representative,R,Rob Wittman,0.639
+Virginia,1,U.S. Representative,D,Krystal Ball,0.348
+Virginia,1,U.S. Representative,IG,Glenda Gail Parker,0.012
+Virginia,2,U.S. Representative,R,Scott Rigell,0.531
+Virginia,2,U.S. Representative,D,Glenn Nye,0.425
+Virginia,2,U.S. Representative,I,Kenny Golden,0.043
+Virginia,3,U.S. Representative,D,Bobby Scott,0.700
+Virginia,3,U.S. Representative,R,Chuck Smith,0.272
+Virginia,3,U.S. Representative,L,James Quigley,0.015
+Virginia,3,U.S. Representative,I,John D. Kelly,0.012
+Virginia,4,U.S. Representative,R,Randy Forbes,0.623
+Virginia,4,U.S. Representative,D, Wynne LeGrow,0.375
+Virginia,5,U.S. Representative,R,Robert Hurt,0.508
+Virginia,5,U.S. Representative,D,Tom Perriello,0.470
+Virginia,5,U.S. Representative,I,Jeffrey Clark,0.021
+Virginia,6,U.S. Representative,R,Bob Goodlatte,0.763
+Virginia,6,U.S. Representative,I,Jeffrey Vanke,0.130
+Virginia,6,U.S. Representative,L,Stuart Bain,0.092
+Virginia,7,U.S. Representative,R,Eric Cantor,0.592
+Virginia,7,U.S. Representative,D,Rick Waugh,0.341
+Virginia,7,U.S. Representative,IG,Floyd Bayne,0.065
+Virginia,8,U.S. Representative,D,Jim Moran,0.610
+Virginia,8,U.S. Representative,R,Patrick Murphy,0.373
+Virginia,8,U.S. Representative,IG,Ron Fisher,0.014
+Virginia,9,U.S. Representative,R,Morgan Griffith,0.512
+Virginia,9,U.S. Representative,D,Rick Boucher,0.464
+Virginia,9,U.S. Representative,I,Jeremiah Heaton,0.023
+Virginia,10,U.S. Representative,R,Frank Wolf,0.629
+Virginia,10,U.S. Representative,D,Jeff Barnett,0.348
+Virginia,10,U.S. Representative,L,William Redpath,0.022
+Virginia,11,U.S. Representative,D,Gerry Connolly,0.492
+Virginia,11,U.S. Representative,R,Keith Fimian,0.488
+Virginia,11,U.S. Representative,I,Chris DeCarlo,0.008
+Virginia,11,U.S. Representative,L,David Dotson,0.006
+Virginia,11,U.S. Representative,IG,David Gillis,0.004
+Washington,1,U.S. Representative,D,Jay Inslee,0.577
+Washington,1,U.S. Representative,R,James Watkins,0.423
+Washington,2,U.S. Representative,D,Rick Larsen,0.511
+Washington,2,U.S. Representative,R,John Koster,0.489
+Washington,3,U.S. Representative,R,Jaime Herrera,0.530
+Washington,3,U.S. Representative,D,Denny Heck,0.470
+Washington,4,U.S. Representative,R,Doc Hastings,0.676
+Washington,4,U.S. Representative,D,Jay Clough,0.324
+Washington,5,U.S. Representative,R,Cathy McMorris Rodgers,0.637
+Washington,5,U.S. Representative,D,Daryl Romeyn,0.363
+Washington,6,U.S. Representative,D,Norm Dicks,0.580
+Washington,6,U.S. Representative,R, Doug Cloud,0.420
+Washington,7,U.S. Representative,D,Jim McDermott,0.830
+Washington,7,U.S. Representative,I,Bob Jeffers-Schroder,0.170
+Washington,8,U.S. Representative,R,Dave Reichert,0.521
+Washington,8,U.S. Representative,D,Suzan DelBene,0.479
+Washington,9,U.S. Representative,D,Adam Smith,0.549
+Washington,9,U.S. Representative,R, Dick Muri,0.451
+West Virginia,1,U.S. Representative,R,David McKinley,0.504
+West Virginia,1,U.S. Representative,D,Mike Oliverio,0.496
+West Virginia,2,U.S. Representative,R,Shelley Capito,0.685
+West Virginia,2,U.S. Representative,D,Virginia Lynch Graf,0.297
+West Virginia,2,U.S. Representative,C,Phil Hudok,0.018
+West Virginia,3,U.S. Representative,D,Nick Rahall,0.560
+West Virginia,3,U.S. Representative,R,Spike Maynard,0.440
+Wisconsin,1,U.S. Representative,R,Paul Ryan,0.682
+Wisconsin,1,U.S. Representative,D,John Heckenlively,0.301
+Wisconsin,1,U.S. Representative,L,Joseph Kexel,0.016
+Wisconsin,2,U.S. Representative,D,Tammy Baldwin,0.618
+Wisconsin,2,U.S. Representative,R,Chad Lee,0.382
+Wisconsin,3,U.S. Representative,D,Ron Kind,0.503
+Wisconsin,3,U.S. Representative,R,Dan Kapanke,0.465
+Wisconsin,3,U.S. Representative,I,Michael Krsiean,0.032
+Wisconsin,4,U.S. Representative,D,Gwen Moore,0.690
+Wisconsin,4,U.S. Representative,R,Dan Sebring,0.296
+Wisconsin,4,U.S. Representative,I,Ahmad Ayyash,0.014
+Wisconsin,5,U.S. Representative,R,Jim Sensenbrenner,0.693
+Wisconsin,5,U.S. Representative,D,Todd Kolosso,0.274
+Wisconsin,5,U.S. Representative,I,Robert R. Raymond,0.033
+Wisconsin,6,U.S. Representative,R,Tom Petri,0.707
+Wisconsin,6,U.S. Representative,D,Joseph Kallas,0.293
+Wisconsin,7,U.S. Representative,R,Sean Duffy,0.521
+Wisconsin,7,U.S. Representative,D,Julie Lassa,0.444
+Wisconsin,7,U.S. Representative,I,Gary Kauther,0.033
+Wisconsin,8,U.S. Representative,R,Reid Ribble,0.548
+Wisconsin,8,U.S. Representative,D,Steve Kagen,0.451
+Wyoming,At-Large,U.S. Representative,R,Cynthia Lummis,0.705
+Wyoming,At-Large,U.S. Representative,D,David Wendt,0.245
+Wyoming,At-Large,U.S. Representative,L,John Love,0.050

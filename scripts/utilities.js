@@ -558,11 +558,11 @@ function setupTopElections(numElections, types) {
         let stateName = convertStateName(state);
         switch(body[0].Position) {
             case "State Senator":
-                title = stateName + " State Senate";
+                title = stateName + " Senate";
                 href = "predictions_state_senates.html?state=" + state;
                 break;
             case "State Representative":
-                title = stateName + " State House";
+                title = stateName + " House";
                 href = "predictions_state_houses.html?state=" + state;
                 break;
         }
@@ -645,11 +645,17 @@ function createSquareChart(type) {
     totalPercentages.append(repPercentagesDiv);
     let repPercentages = $(".rep-percentages");
 
+    let totalSeats = currentOverallData["Total Seats"];
     let seatsDem = Math.round(currentOverallData["DEM"]["Predicted Seats"]);
     let seatsRep = Math.round(currentOverallData["REP"]["Predicted Seats"]);
 
-    //let seatsDemDecimal = Number.parseFloat(currentOverallData["DEM"]["Predicted Seats"]).toFixed(1);
-    //let seatsRepDecimal = Number.parseFloat(currentOverallData["REP"]["Predicted Seats"]).toFixed(1);
+    if (seatsDem + seatsRep != totalSeats) {
+        if (currentOverallData["DEM"]["Predicted Seats"] - seatsDem > currentOverallData["REP"]["Predicted Seats"] - seatsRep) {
+            seatsDem += 1;
+        } else {
+            seatsRep += 1;
+        }
+    }
     
     let seatGainRep = seatsRep - currentSeatsRep.length;
     let seatGainDem = seatsDem - currentSeatsDem.length;
@@ -752,7 +758,6 @@ function createSquareChart(type) {
     titleElement.after(squaresSectionDiv);
     let squaresSection = $(".squares-section");
 
-    let totalSeats = currentOverallData["Total Seats"];
     let seatsUp = currentOverallData["Seats Up for Election"];
     var seatsUpP;
     if (totalSeats == seatsUp) {
@@ -769,12 +774,13 @@ function createSquareChart(type) {
     squaresSection.append(squaresDiv);
     let squares = $(".squares");
 
+    /*
     seatsP = "<p class='big-p' id='most-likely-change'>Most likely outcome</p>";
     titleElement.after(seatsP);
 
     seatsH = "<h2 class='big-h2'><span class='blue'>" + seatsDem + "</span> - <span class='red'>" + seatsRep + "</span></h2>";
     titleElement.after(seatsH);
-
+    */
     let total = currentAllMatchups.length + currentDistrictsNoElection.length;
     var rows = 1;
 
@@ -907,18 +913,44 @@ function createSquareChart(type) {
     let even = "<p id='even'>Even</p>"
     squaresSection.append(even);
 
+    /*
+    let upperEndDem = Math.round(currentOverallData["DEM"]["Upper-End Predicted Seats"]);
+    let upperEndRep = Math.round(currentOverallData["REP"]["Upper-End Predicted Seats"]);
+
+    let lowerEndDem = totalSeats - upperEndRep;// Math.round(currentOverallData["DEM"]["Lower-End Predicted Seats"]);
+    let lowerEndRep = totalSeats - upperEndDem;// Math.round(currentOverallData["REP"]["Lower-End Predicted Seats"]);
+
     let mostLikelyP = "<p><b>Most likely outcome:</b><p>";
     overall.append(mostLikelyP);
 
-    if (seatsDem + seatsRep != totalSeats) {
-        if (currentOverallData["DEM"]["Predicted Seats"] - seatsDem > currentOverallData["REP"]["Predicted Seats"] - seatsRep) {
-            seatsDem += 1;
-        } else {
-            seatsRep += 1;
-        }
-    }
     let predictedSeatsP = "<p><span class='blue'>Democrats: " + seatsDem + " seats</span> vs. <span class='red'>Republicans: " + seatsRep + " seats</span></p>";
     overall.append(predictedSeatsP);
+
+    let divUpperLower = createDivWithClass("upper-lower");
+    overall.append(divUpperLower);
+    let upperLower = $(".upper-lower");
+
+    let divUpperDem =  createDivWithClass("upper-lower-column-left");
+    let divUpperRep = createDivWithClass("upper-lower-column-right");
+
+    upperLower.append(divUpperDem);
+    upperLower.append(divUpperRep);
+
+    let upperDemP = "<p><b>Upper-end for Democrats</b><p>";
+    $(".upper-lower-column-left").append(upperDemP);
+
+    let upperDemPredictedP = "<p><span class='blue'>" + upperEndDem + " seats</span> vs. <span class='red'>" + lowerEndRep + " seats</span></p>";
+    $(".upper-lower-column-left").append(upperDemPredictedP);
+
+    let upperRepP = "<p><b>Upper-end for Republicans</b><p>";
+    $(".upper-lower-column-right").append(upperRepP);
+
+    let upperRepPredictedP = "<p><span class='blue'>" + lowerEndDem + " seats</span> vs. <span class='red'>" + upperEndRep + " seats</span></p>";
+    $(".upper-lower-column-right").append(upperRepPredictedP);
+    */
+    overall.append("<hr>");
+
+
     
     $(".seat-square").hover(function (event) {
         var rect = $(this).get(0).getBoundingClientRect();
