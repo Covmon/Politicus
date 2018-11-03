@@ -1,0 +1,1156 @@
+,State,District,Position,Party,Candidate,Vote Share,
+0,Alabama,1,U.S. Representative,REP,Jo Bonner,0.605,
+1,Alabama,1,U.S. Representative,IND,Judy McCain Belk,0.37799999999999995,DEM
+2,Alabama,1,U.S. Representative,LIB,Dick Coffee,0.017,
+3,Alabama,2,U.S. Representative,REP,Terry Everett,0.688,
+4,Alabama,3,U.S. Representative,REP,Mike Rogers,0.503,
+5,Alabama,4,U.S. Representative,REP,Robert Aderholt,0.867,
+6,Alabama,4,U.S. Representative,LIB,Tony Hughes McLendon,0.13,
+7,Alabama,5,U.S. Representative,IND,"Robert ""Bud"" Cramer",0.733,DEM
+8,Alabama,6,U.S. Representative,REP,Spencer Bachus,0.898,
+9,Alabama,6,U.S. Representative,LIB,J. Holden McAllister,0.099,
+10,Alabama,7,U.S. Representative,IND,Artur Davis,0.924,DEM
+11,Alabama,7,U.S. Representative,LIB,Lauren Orth McCay,0.073,
+12,Alaska,At-Large,U.S. Representative,REP,Don Young,0.745,
+13,Alaska,At-Large,U.S. Representative,IND,Clifford Mark Greene,0.17300000000000001,DEM
+14,Alaska,At-Large,U.S. Representative,IND,Russell F. DeForest,0.063,
+15,Alaska,At-Large,U.S. Representative,LIB,Rob Clift,0.017,
+16,Arizona,1,U.S. Representative,REP,Rick Renzi,0.49200000000000005,
+17,Arizona,1,U.S. Representative,IND,George Cordova,0.456,DEM
+18,Arizona,1,U.S. Representative,LIB,Edwin Porr,0.052000000000000005,
+19,Arizona,2,U.S. Representative,REP,Trent Franks,0.599,
+20,Arizona,2,U.S. Representative,IND,Randy Camacho,0.366,DEM
+21,Arizona,2,U.S. Representative,LIB,Edward Carlson,0.035,
+22,Arizona,3,U.S. Representative,REP,John Shadegg,0.6729999999999999,
+23,Arizona,3,U.S. Representative,IND,Charles Hill,0.303,DEM
+24,Arizona,3,U.S. Representative,LIB,Mark Yannone,0.024,
+25,Arizona,4,U.S. Representative,IND,Ed Pastor,0.674,DEM
+26,Arizona,4,U.S. Representative,REP,Jonathan Barnert,0.278,
+27,Arizona,4,U.S. Representative,LIB,Amy Gibbons,0.048,
+28,Arizona,5,U.S. Representative,REP,J. D. Hayworth,0.612,
+29,Arizona,5,U.S. Representative,IND,Craig Columbus,0.363,DEM
+30,Arizona,5,U.S. Representative,LIB,Warren Severin,0.026000000000000002,
+31,Arizona,6,U.S. Representative,REP,Jeff Flake,0.659,
+32,Arizona,6,U.S. Representative,IND,Deborah Thomas,0.316,DEM
+33,Arizona,6,U.S. Representative,LIB,Andy Wagner,0.025,
+34,Arizona,7,U.S. Representative,IND,Raul Grijalva,0.59,DEM
+35,Arizona,7,U.S. Representative,REP,Ross Hieb,0.371,
+36,Arizona,7,U.S. Representative,LIB,John Nemeth,0.039,
+37,Arizona,8,U.S. Representative,REP,Jim Kolbe,0.633,
+38,Arizona,8,U.S. Representative,IND,Mary Judge Ryan,0.336,DEM
+39,Arizona,8,U.S. Representative,LIB,Joe Duarte,0.031,
+40,Arkansas,1,U.S. Representative,IND,Marion Berry,0.6679999999999999,DEM
+41,Arkansas,1,U.S. Representative,REP,Tommy F. Robinson,0.332,
+42,Arkansas,4,U.S. Representative,IND,Mike Ross,0.606,DEM
+43,Arkansas,4,U.S. Representative,REP,Jay Dickey,0.39399999999999996,
+44,California,1,U.S. Representative,IND,Mike Thompson,0.6409999999999999,DEM
+45,California,1,U.S. Representative,REP,Lawrence R. Wiesner,0.324,
+46,California,1,U.S. Representative,LIB,Kevin Bastian,0.035,
+47,California,2,U.S. Representative,REP,Wally Herger,0.6579999999999999,
+48,California,2,U.S. Representative,IND,Mike Johnson,0.293,DEM
+49,California,2,U.S. Representative,IND,Patrice Thiessen,0.027000000000000003,
+50,California,2,U.S. Representative,LIB,Charles R. Martin,0.022000000000000002,
+51,California,3,U.S. Representative,REP,Doug Ose,0.625,
+52,California,3,U.S. Representative,IND,Howard Beeman,0.344,DEM
+53,California,3,U.S. Representative,LIB,Douglas Arthur Tuma,0.031,
+54,California,4,U.S. Representative,REP,John Doolittle,0.648,
+55,California,4,U.S. Representative,IND,Mark Norberg,0.319,DEM
+56,California,4,U.S. Representative,LIB,Allen M. Roberts,0.032,
+57,California,5,U.S. Representative,IND,Bob Matsui,0.715,DEM
+58,California,5,U.S. Representative,REP,Richard Frankhuizen,0.264,
+59,California,5,U.S. Representative,LIB,Timothy Roloff,0.031,
+60,California,6,U.S. Representative,IND,Lynn Woolsey,0.667,DEM
+61,California,6,U.S. Representative,REP,Paul L. Erickson,0.29600000000000004,
+62,California,6,U.S. Representative,LIB,Richard O. Barton,0.024,
+63,California,6,U.S. Representative,IND,Jeff Rainforth,0.013999999999999999,
+64,California,7,U.S. Representative,IND,George Miller,0.7070000000000001,DEM
+65,California,7,U.S. Representative,REP,Charles R. Hargrave,0.264,
+66,California,7,U.S. Representative,LIB,Scott A. Wilson,0.028999999999999998,
+67,California,8,U.S. Representative,IND,Nancy Pelosi,0.7959999999999999,DEM
+68,California,8,U.S. Representative,REP,G. Michael German,0.125,
+69,California,8,U.S. Representative,IND,Jay Pond,0.063,
+70,California,8,U.S. Representative,LIB,Ira Spivack,0.017,
+71,California,9,U.S. Representative,IND,Barbara Lee,0.8140000000000001,DEM
+72,California,9,U.S. Representative,REP,Jerald Udinsky,0.152,
+73,California,9,U.S. Representative,LIB,James M. Eyer,0.034,
+74,California,10,U.S. Representative,IND,Ellen Tauscher,0.7559999999999999,DEM
+75,California,10,U.S. Representative,LIB,Sonia E. Alonso Harden,0.244,
+76,California,11,U.S. Representative,REP,Richard Pombo,0.603,
+77,California,11,U.S. Representative,IND,Elaine Shaw,0.397,DEM
+78,California,12,U.S. Representative,IND,Tom Lantos,0.6809999999999999,DEM
+79,California,12,U.S. Representative,REP,Michael Moloney,0.248,
+80,California,12,U.S. Representative,LIB,Maad Abu-Ghazalah,0.071,
+81,California,13,U.S. Representative,IND,Pete Stark,0.711,DEM
+82,California,13,U.S. Representative,REP,Syed Mahmood,0.221,
+83,California,13,U.S. Representative,LIB,Mark Stroberg,0.03,
+84,California,13,U.S. Representative,IND,Don J. Grundmann,0.023,
+85,California,13,U.S. Representative,IND,John Bambey,0.016,
+86,California,14,U.S. Representative,IND,Anna Eshoo,0.682,DEM
+87,California,14,U.S. Representative,REP,Joe Nixon,0.282,
+88,California,14,U.S. Representative,LIB,Andrew Carver,0.037000000000000005,
+89,California,15,U.S. Representative,IND,Mike Honda,0.6579999999999999,DEM
+90,California,15,U.S. Representative,REP,Linda Rae Hermann,0.31,
+91,California,15,U.S. Representative,LIB,Jeff Landauer,0.032,
+92,California,16,U.S. Representative,IND,Zoe Lofgren,0.67,DEM
+93,California,16,U.S. Representative,REP,Douglas Adams McNea,0.298,
+94,California,16,U.S. Representative,LIB,Dennis Michael Umphress,0.032,
+95,California,17,U.S. Representative,IND,Sam Farr,0.6809999999999999,DEM
+96,California,17,U.S. Representative,REP,Clint Engler,0.27,
+97,California,17,U.S. Representative,IND,Ray Glock-Grueneich,0.033,
+98,California,17,U.S. Representative,LIB,Jascha Lee,0.016,
+99,California,18,U.S. Representative,IND,Dennis Cardoza,0.513,DEM
+100,California,18,U.S. Representative,REP,Dick Monteith,0.434,
+101,California,18,U.S. Representative,IND,Kevin Cripe,0.033,
+102,California,18,U.S. Representative,LIB,Linda De Groat,0.02,
+103,California,19,U.S. Representative,REP,George Radanovich,0.6729999999999999,
+104,California,19,U.S. Representative,IND,John Veen,0.3,DEM
+105,California,19,U.S. Representative,LIB,Patrick Lee McHargue,0.017,
+106,California,20,U.S. Representative,IND,Cal Dooley,0.637,DEM
+107,California,20,U.S. Representative,REP,Andre Minuth,0.34299999999999997,
+108,California,20,U.S. Representative,LIB,Varrin Swearingen,0.02,
+109,California,21,U.S. Representative,REP,Devin Nunes,0.705,
+110,California,21,U.S. Representative,IND,David LaPere,0.262,DEM
+111,California,21,U.S. Representative,LIB,Jonathan Richter,0.033,
+112,California,22,U.S. Representative,REP,Bill Thomas,0.733,
+113,California,22,U.S. Representative,IND,Jaime Corvera,0.237,DEM
+114,California,22,U.S. Representative,LIB,Frank Coates,0.028999999999999998,
+115,California,23,U.S. Representative,IND,Lois Capps,0.59,DEM
+116,California,23,U.S. Representative,REP,Beth Rogers,0.386,
+117,California,23,U.S. Representative,LIB,James Hill,0.024,
+118,California,24,U.S. Representative,REP,Elton Gallegly,0.652,
+119,California,24,U.S. Representative,IND,Fern Rudin,0.318,DEM
+120,California,24,U.S. Representative,LIB,Gary Harber,0.031,
+121,California,25,U.S. Representative,REP,Howard McKeon,0.65,
+122,California,25,U.S. Representative,IND,Bob Conaway,0.311,DEM
+123,California,25,U.S. Representative,LIB,Frank Consolo,0.039,
+124,California,26,U.S. Representative,REP,David Dreier,0.638,
+125,California,26,U.S. Representative,IND,Marjorie Musser Mikels,0.335,DEM
+126,California,26,U.S. Representative,LIB,Randall Weissbuch,0.027000000000000003,
+127,California,27,U.S. Representative,IND,Brad Sherman,0.62,DEM
+128,California,27,U.S. Representative,REP,Robert Levy,0.38,
+129,California,28,U.S. Representative,IND,Howard Berman,0.7140000000000001,DEM
+130,California,28,U.S. Representative,REP,David Hernandez,0.23199999999999998,
+131,California,28,U.S. Representative,LIB,Kelley Ross,0.055,
+132,California,29,U.S. Representative,IND,Adam Schiff,0.626,DEM
+133,California,29,U.S. Representative,REP,Jim Scileppi,0.33399999999999996,
+134,California,29,U.S. Representative,LIB,Ted Brown,0.04,
+135,California,30,U.S. Representative,IND,Henry Waxman,0.7040000000000001,DEM
+136,California,30,U.S. Representative,REP,Tony Goss,0.29600000000000004,
+137,California,31,U.S. Representative,IND,Xavier Becerra,0.812,DEM
+138,California,31,U.S. Representative,REP,Luis Vega,0.18899999999999997,
+139,California,32,U.S. Representative,IND,Hilda Solis,0.688,DEM
+140,California,32,U.S. Representative,REP,Emma Fischbeck,0.275,
+141,California,32,U.S. Representative,LIB,Michael McGuire,0.037000000000000005,
+142,California,33,U.S. Representative,IND,Diane Watson,0.826,DEM
+143,California,33,U.S. Representative,REP,Andrew Kim,0.141,
+144,California,33,U.S. Representative,LIB,Charles Tate,0.034,
+145,California,34,U.S. Representative,IND,Lucille Roybal-Allard,0.74,DEM
+146,California,34,U.S. Representative,REP,Wayne Miller,0.26,
+147,California,35,U.S. Representative,IND,Maxine Waters,0.775,DEM
+148,California,35,U.S. Representative,REP,Ross Moen,0.19399999999999998,
+149,California,35,U.S. Representative,IND,Gordon Mego,0.031,
+150,California,36,U.S. Representative,IND,Jane Harman,0.614,DEM
+151,California,36,U.S. Representative,REP,Stuart Johnson,0.35,
+152,California,36,U.S. Representative,LIB,Mark McSpadden,0.036000000000000004,
+153,California,37,U.S. Representative,IND,Juanita Millender-McDonald,0.7290000000000001,DEM
+154,California,37,U.S. Representative,REP,Oscar Velasco,0.23199999999999998,
+155,California,37,U.S. Representative,LIB,Herb Peters,0.039,
+156,California,38,U.S. Representative,IND,Grace Napolitano,0.711,DEM
+157,California,38,U.S. Representative,REP,Alex Burrola,0.263,
+158,California,38,U.S. Representative,LIB,Al Cuperus,0.026000000000000002,
+159,California,39,U.S. Representative,IND,Linda Sánchez,0.5479999999999999,DEM
+160,California,39,U.S. Representative,REP,Tim Escobar,0.408,
+161,California,39,U.S. Representative,LIB,Richard Newhouse,0.044000000000000004,
+162,California,40,U.S. Representative,REP,Ed Royce,0.6759999999999999,
+163,California,40,U.S. Representative,IND,Christina Avalos,0.295,DEM
+164,California,40,U.S. Representative,LIB,Chuck McGlawn,0.028999999999999998,
+165,California,41,U.S. Representative,REP,Jerry Lewis,0.674,
+166,California,41,U.S. Representative,IND,Keith Johnson,0.29600000000000004,DEM
+167,California,41,U.S. Representative,LIB,Kevin Craig,0.03,
+168,California,42,U.S. Representative,REP,Gary Miller,0.6779999999999999,
+169,California,42,U.S. Representative,IND,Richard Waldron,0.29,DEM
+170,California,42,U.S. Representative,LIB,Donald Yee,0.032,
+171,California,43,U.S. Representative,IND,Joe Baca,0.664,DEM
+172,California,43,U.S. Representative,REP,Wendy Neighbor,0.305,
+173,California,43,U.S. Representative,LIB,Ethel Mohler,0.031,
+174,California,44,U.S. Representative,REP,Ken Calvert,0.637,
+175,California,44,U.S. Representative,IND,Louis Vandenberg,0.316,DEM
+176,California,44,U.S. Representative,IND,Phill Courtney,0.048,
+177,California,45,U.S. Representative,REP,Mary Bono,0.652,
+178,California,45,U.S. Representative,IND,Elle Kurpiewski,0.327,DEM
+179,California,45,U.S. Representative,LIB,Rod Miller-Boyer,0.021,
+180,California,46,U.S. Representative,REP,Dana Rohrabacher,0.617,
+181,California,46,U.S. Representative,IND,Gerrie Schipske,0.345,DEM
+182,California,46,U.S. Representative,LIB,Keith Gann,0.037000000000000005,
+183,California,47,U.S. Representative,IND,Loretta Sanchez,0.606,DEM
+184,California,47,U.S. Representative,REP,Jeff Chavez,0.34700000000000003,
+185,California,47,U.S. Representative,LIB,Paul Marsden,0.042,
+186,California,48,U.S. Representative,REP,Christopher Cox,0.684,
+187,California,48,U.S. Representative,IND,John Graham,0.284,DEM
+188,California,48,U.S. Representative,LIB,Joe Michael Cobb,0.031,
+189,California,49,U.S. Representative,REP,Darrell Issa,0.772,
+190,California,49,U.S. Representative,LIB,Karl Dietrich,0.22,
+191,California,50,U.S. Representative,REP,Duke Cunningham,0.643,
+192,California,50,U.S. Representative,IND,Del Stewart,0.32299999999999995,DEM
+193,California,50,U.S. Representative,LIB,Richard Fontanesi,0.033,
+194,California,51,U.S. Representative,IND,Bob Filner,0.579,DEM
+195,California,51,U.S. Representative,REP,Maria Garcia,0.39299999999999996,
+196,California,51,U.S. Representative,LIB,Jeffrey Keup,0.027000000000000003,
+197,California,52,U.S. Representative,REP,Duncan Hunter,0.7020000000000001,
+198,California,52,U.S. Representative,IND,Peter Moore-Kochlacs,0.258,DEM
+199,California,52,U.S. Representative,LIB,Michael Benoit,0.040999999999999995,
+200,California,53,U.S. Representative,IND,Susan Davis,0.622,DEM
+201,California,53,U.S. Representative,REP,Bill VanDeWeghe,0.37799999999999995,
+202,Colorado,1,U.S. Representative,IND,Diana DeGette,0.6629999999999999,DEM
+203,Colorado,1,U.S. Representative,REP,Ken Chlouber,0.29600000000000004,
+204,Colorado,1,U.S. Representative,IND,Ken Seaman,0.019,
+205,Colorado,1,U.S. Representative,LIB,Kent Leonard,0.015,
+206,Colorado,2,U.S. Representative,IND,Mark Udall,0.601,DEM
+207,Colorado,2,U.S. Representative,REP,Sandy Hume,0.368,
+208,Colorado,2,U.S. Representative,LIB,Norm Olsen,0.017,
+209,Colorado,3,U.S. Representative,REP,Scott McInnis,0.6579999999999999,
+210,Colorado,3,U.S. Representative,IND,Dennis Berckefeldt,0.313,DEM
+211,Colorado,3,U.S. Representative,LIB,Brent Shroyer,0.02,
+212,Colorado,4,U.S. Representative,REP,Marilyn Musgrave,0.5489999999999999,
+213,Colorado,4,U.S. Representative,IND,Stan Matsunaka,0.41700000000000004,DEM
+214,Colorado,4,U.S. Representative,LIB,John Volz,0.034,
+215,Colorado,5,U.S. Representative,REP,Joel Hefley,0.6940000000000001,
+216,Colorado,5,U.S. Representative,IND,Curtis Imrie,0.247,DEM
+217,Colorado,5,U.S. Representative,LIB,Biff Baker,0.059000000000000004,
+218,Colorado,6,U.S. Representative,REP,Tom Tancredo,0.669,
+219,Colorado,6,U.S. Representative,IND,Lance Wright,0.3,DEM
+220,Colorado,6,U.S. Representative,LIB,Adam Katz,0.031,
+221,Colorado,7,U.S. Representative,REP,Bob Beauprez,0.473,
+222,Colorado,7,U.S. Representative,IND,Mike Feeley,0.47200000000000003,DEM
+223,Colorado,7,U.S. Representative,IND,Dave Chandler,0.019,
+224,Colorado,7,U.S. Representative,IND,Victor Good,0.018000000000000002,
+225,Colorado,7,U.S. Representative,LIB,"G.T. ""Bud"" Martin",0.017,
+226,Connecticut,1,U.S. Representative,IND,John Larson,0.6679999999999999,DEM
+227,Connecticut,1,U.S. Representative,REP,Phil Steele,0.332,
+228,Connecticut,2,U.S. Representative,REP,Rob Simmons,0.541,
+229,Connecticut,2,U.S. Representative,IND,Joseph Courtney,0.45899999999999996,DEM
+230,Connecticut,3,U.S. Representative,IND,Rosa DeLauro,0.6559999999999999,DEM
+231,Connecticut,3,U.S. Representative,REP,Richter Elser,0.295,
+232,Connecticut,3,U.S. Representative,IND,Charles Pillsbury,0.049,
+233,Connecticut,4,U.S. Representative,REP,Chris Shays,0.644,
+234,Connecticut,4,U.S. Representative,IND,Stephanie Sanchez,0.35600000000000004,DEM
+235,Connecticut,5,U.S. Representative,REP,Nancy Johnson,0.5429999999999999,
+236,Connecticut,5,U.S. Representative,IND,Jim Maloney,0.433,DEM
+237,Connecticut,5,U.S. Representative,IND,Joseph Zdonczyk,0.018000000000000002,
+238,Connecticut,5,U.S. Representative,LIB,Walter Gengarelly,0.006999999999999999,
+239,Delaware,At-Large,U.S. Representative,REP,Michael N. Castle,0.721,
+240,Delaware,At-Large,U.S. Representative,IND,Michael Miller,0.267,DEM
+241,Delaware,At-Large,U.S. Representative,LIB,Brad C. Thomas,0.012,
+242,Florida,1,U.S. Representative,REP,Jeff Miller,0.746,
+243,Florida,1,U.S. Representative,IND,Bert Oram,0.254,DEM
+244,Florida,2,U.S. Representative,IND,Allen Boyd,0.669,DEM
+245,Florida,2,U.S. Representative,REP,Tom McGurk,0.331,
+246,Florida,3,U.S. Representative,IND,Corrine Brown,0.593,DEM
+247,Florida,3,U.S. Representative,REP,Jennifer Carroll,0.40700000000000003,
+248,Florida,4,U.S. Representative,REP,Ander Crenshaw,1.0,
+249,Florida,5,U.S. Representative,REP,Ginny Brown-Waite,0.479,
+250,Florida,5,U.S. Representative,IND,Karen Thurman,0.462,DEM
+251,Florida,5,U.S. Representative,IND,Jack Gargan,0.034,
+252,Florida,5,U.S. Representative,IND,Brian Moore,0.024,
+253,Florida,6,U.S. Representative,REP,Cliff Stearns,0.654,
+254,Florida,6,U.S. Representative,IND,David Bruderly,0.34600000000000003,DEM
+255,Florida,7,U.S. Representative,REP,John Mica,0.596,
+256,Florida,7,U.S. Representative,IND,Wayne Hogan,0.40399999999999997,DEM
+257,Florida,8,U.S. Representative,REP,Ric Keller,0.6509999999999999,
+258,Florida,8,U.S. Representative,IND,Eddie Diaz,0.349,DEM
+259,Florida,9,U.S. Representative,REP,Michael Bilirakis,0.715,
+260,Florida,9,U.S. Representative,IND,Chuck Kalogianis,0.285,DEM
+261,Florida,10,U.S. Representative,REP,Bill Young,1.0,
+262,Florida,11,U.S. Representative,IND,Jim Davis,1.0,DEM
+263,Florida,12,U.S. Representative,REP,Adam Putnam,1.0,
+264,Florida,13,U.S. Representative,REP,Katherine Harris,0.5479999999999999,
+265,Florida,13,U.S. Representative,IND, Jan Schneider,0.452,DEM
+266,Florida,14,U.S. Representative,REP,Porter Goss,1.0,
+267,Florida,15,U.S. Representative,REP,Dave Weldon,0.632,
+268,Florida,15,U.S. Representative,IND, Jim Tso,0.369,DEM
+269,Florida,16,U.S. Representative,REP,Mark Foley,0.789,
+270,Florida,16,U.S. Representative,IND, Jack McLain,0.21100000000000002,
+271,Florida,17,U.S. Representative,IND,Kendrick Meek,1.0,DEM
+272,Florida,18,U.S. Representative,REP,Ileana Ros-Lehtinen,0.691,
+273,Florida,18,U.S. Representative,IND, Ray Chote,0.28600000000000003,DEM
+274,Florida,18,U.S. Representative,IND,Orin Opperman,0.023,
+275,Florida,19,U.S. Representative,IND,Robert Wexler,0.722,DEM
+276,Florida,19,U.S. Representative,REP,Jack Merkl,0.278,
+277,Florida,20,U.S. Representative,IND,Peter Deutsch,1.0,DEM
+278,Florida,21,U.S. Representative,REP,Lincoln Diaz-Balart,1.0,
+279,Florida,22,U.S. Representative,REP,Clay Shaw,0.608,
+280,Florida,22,U.S. Representative,IND, Carol Roberts,0.384,DEM
+281,Florida,22,U.S. Representative,IND, Juan Xuna,0.009000000000000001,
+282,Florida,23,U.S. Representative,IND,Alcee Hastings,0.775,DEM
+283,Florida,23,U.S. Representative,REP,Charles Laurie,0.225,
+284,Florida,24,U.S. Representative,REP,Tom Feeney,0.618,
+285,Florida,24,U.S. Representative,IND,Harry Jacobs,0.382,DEM
+286,Florida,25,U.S. Representative,REP,Mario Diaz-Balart,0.647,
+287,Florida,25,U.S. Representative,IND,Annie Betancourt,0.354,DEM
+288,Georgia,1,U.S. Representative,REP,Jack Kingston,0.721,
+289,Georgia,1,U.S. Representative,IND,Don Smart,0.27899999999999997,DEM
+290,Georgia,2,U.S. Representative,IND,Sanford Bishop,1.0,DEM
+291,Georgia,3,U.S. Representative,IND,Jim Marshall,0.505,DEM
+292,Georgia,3,U.S. Representative,REP,"Calder Clay, III",0.495,
+293,Georgia,4,U.S. Representative,IND,Denise Majette,0.77,DEM
+294,Georgia,4,U.S. Representative,REP,Cynthia Van Auken,0.23,
+295,Georgia,5,U.S. Representative,IND,John Lewis,1.0,DEM
+296,Georgia,6,U.S. Representative,REP,Johnny Isakson,0.799,
+297,Georgia,6,U.S. Representative,IND,Jeff Weisberger,0.201,DEM
+298,Georgia,7,U.S. Representative,REP,John Linder,0.789,
+299,Georgia,7,U.S. Representative,IND,Michael Berlon,0.21100000000000002,DEM
+300,Georgia,8,U.S. Representative,REP,Mac Collins,0.7829999999999999,
+301,Georgia,8,U.S. Representative,IND,Angelos Petrakopoulos,0.217,DEM
+302,Georgia,9,U.S. Representative,REP,Charlie Norwood,0.728,
+303,Georgia,9,U.S. Representative,IND,Barry Gordon Irwin,0.272,DEM
+304,Georgia,10,U.S. Representative,REP,Nathan Deal,1.0,
+305,Georgia,11,U.S. Representative,REP,Phil Gingrey,0.516,
+306,Georgia,11,U.S. Representative,IND,Roger Kahn,0.484,DEM
+307,Georgia,12,U.S. Representative,REP,Max Burns,0.552,
+308,Georgia,12,U.S. Representative,IND,"Charles ""Champ"" Walker",0.44799999999999995,DEM
+309,Georgia,13,U.S. Representative,IND,David Scott,0.596,DEM
+310,Georgia,13,U.S. Representative,REP,Clay Cox,0.40399999999999997,
+311,Hawaii,1,U.S. Representative,IND,Neil Abercrombie,0.7290000000000001,DEM
+312,Hawaii,1,U.S. Representative,REP,Mark Terry,0.249,
+313,Hawaii,1,U.S. Representative,LIB,James Bracken,0.022000000000000002,
+314,Hawaii,2,U.S. Representative,IND,Patsy Mink,0.562,DEM
+315,Hawaii,2,U.S. Representative,REP,Bob McDermott,0.4,
+316,Hawaii,2,U.S. Representative,LIB,Jeff Mallan,0.026000000000000002,
+317,Hawaii,2,U.S. Representative,IND,Nicholas Bedworth,0.012,
+318,Idaho,1,U.S. Representative,REP,Butch Otter,0.586,
+319,Idaho,1,U.S. Representative,IND,Betty Richardson,0.389,DEM
+320,Idaho,1,U.S. Representative,LIB,Steve Gothard,0.025,
+321,Idaho,2,U.S. Representative,REP,Mike Simpson,0.682,
+322,Idaho,2,U.S. Representative,IND,Edward Kinghorn,0.29100000000000004,DEM
+323,Idaho,2,U.S. Representative,LIB,"John ""Lack"" Lewis",0.027999999999999997,
+324,Illinois,1,U.S. Representative,IND,Bobby Rush,0.812,DEM
+325,Illinois,1,U.S. Representative,REP,Raymond Wardingley,0.162,
+326,Illinois,1,U.S. Representative,LIB,Dorothy Tsatsos,0.026000000000000002,
+327,Illinois,2,U.S. Representative,IND,Jesse L. Jackson Jr.,0.823,DEM
+328,Illinois,2,U.S. Representative,REP,Doug Nelson,0.177,
+329,Illinois,3,U.S. Representative,IND,Bill Lipinski,1.0,DEM
+330,Illinois,4,U.S. Representative,IND,Luis Gutierrez,0.797,DEM
+331,Illinois,4,U.S. Representative,REP,Tony Lopez-Cisneros,0.151,
+332,Illinois,4,U.S. Representative,LIB,Maggie Kohls,0.052000000000000005,
+333,Illinois,5,U.S. Representative,IND,Rahm Emanuel,0.6679999999999999,DEM
+334,Illinois,5,U.S. Representative,REP,Mark Augusti,0.289,
+335,Illinois,5,U.S. Representative,LIB,Frank Gonzalez,0.043,
+336,Illinois,6,U.S. Representative,REP,Henry Hyde,0.6509999999999999,
+337,Illinois,6,U.S. Representative,IND,Tom Berry,0.349,DEM
+338,Illinois,7,U.S. Representative,IND,Danny K. Davis,0.8320000000000001,DEM
+339,Illinois,7,U.S. Representative,REP,Mark Tunney,0.153,
+340,Illinois,7,U.S. Representative,LIB,Martin Pankau,0.015,
+341,Illinois,8,U.S. Representative,REP,Phil Crane,0.574,
+342,Illinois,8,U.S. Representative,IND,Melissa Bean,0.426,DEM
+343,Illinois,9,U.S. Representative,IND,Jan Schakowsky,0.703,DEM
+344,Illinois,9,U.S. Representative,REP,Nicholas Duric,0.268,
+345,Illinois,9,U.S. Representative,LIB,Stephanie Sailor,0.009000000000000001,
+346,Illinois,10,U.S. Representative,REP,Mark Kirk,0.688,
+347,Illinois,10,U.S. Representative,IND,Hank Perritt,0.312,DEM
+348,Illinois,11,U.S. Representative,REP,Jerry Weller,0.643,
+349,Illinois,11,U.S. Representative,IND,Keith Van Duyne,0.35700000000000004,DEM
+350,Illinois,12,U.S. Representative,IND,Jerry Costello,0.693,DEM
+351,Illinois,12,U.S. Representative,REP,David Sadler,0.308,
+352,Illinois,13,U.S. Representative,REP,Judy Biggert,0.703,
+353,Illinois,13,U.S. Representative,IND,Thomas Mason,0.297,DEM
+354,Illinois,14,U.S. Representative,REP,Dennis Hastert,0.741,
+355,Illinois,14,U.S. Representative,IND,Laurence Quick,0.259,DEM
+356,Illinois,15,U.S. Representative,REP,Timothy V. Johnson,0.652,
+357,Illinois,15,U.S. Representative,IND,Joshua Hartke,0.31,DEM
+358,Illinois,15,U.S. Representative,IND,Carl Estabrook,0.038,
+359,Illinois,16,U.S. Representative,REP,Donald A. Manzullo,0.706,
+360,Illinois,16,U.S. Representative,IND,John Kutsch,0.294,DEM
+361,Illinois,17,U.S. Representative,IND,Lane Evans,0.624,DEM
+362,Illinois,17,U.S. Representative,REP,Peter Calderone,0.376,
+363,Illinois,18,U.S. Representative,REP,Ray LaHood,1.0,
+364,Illinois,19,U.S. Representative,REP,John Shimkus,0.5479999999999999,
+365,Illinois,19,U.S. Representative,IND,David D. Phelps,0.452,DEM
+366,Indiana,1,U.S. Representative,IND,Pete Visclosky,0.669,DEM
+367,Indiana,1,U.S. Representative,REP,Mark Leyva,0.31,
+368,Indiana,1,U.S. Representative,LIB,Timothy Brennan,0.02,
+369,Indiana,2,U.S. Representative,REP,Chris Chocola,0.505,
+370,Indiana,2,U.S. Representative,IND,Jill Long Thompson,0.45799999999999996,DEM
+371,Indiana,2,U.S. Representative,LIB,Sharon Metheny,0.038,
+372,Indiana,3,U.S. Representative,REP,Mark Souder,0.631,
+373,Indiana,3,U.S. Representative,IND,Jay Rigdon,0.345,DEM
+374,Indiana,3,U.S. Representative,LIB,Mike Donlan,0.024,
+375,Indiana,4,U.S. Representative,REP,Steve Buyer,0.7140000000000001,
+376,Indiana,4,U.S. Representative,IND,Bill Abbott,0.262,DEM
+377,Indiana,4,U.S. Representative,LIB,Jerry Susong,0.025,
+378,Indiana,5,U.S. Representative,REP,Dan Burton,0.72,
+379,Indiana,5,U.S. Representative,IND,Katherine Fox Carr,0.252,DEM
+380,Indiana,5,U.S. Representative,LIB,Christopher Adkins,0.028999999999999998,
+381,Indiana,6,U.S. Representative,REP,Mike Pence,0.638,
+382,Indiana,6,U.S. Representative,IND,Mel Fox,0.344,DEM
+383,Indiana,6,U.S. Representative,LIB,Doris Robertson,0.018000000000000002,
+384,Indiana,7,U.S. Representative,IND,Julia Carson,0.531,DEM
+385,Indiana,7,U.S. Representative,REP,Brose McVey,0.441,
+386,Indiana,7,U.S. Representative,LIB,Andrew Horning,0.027000000000000003,
+387,Indiana,8,U.S. Representative,REP,John Hostettler,0.513,
+388,Indiana,8,U.S. Representative,IND,Bryan Hartke,0.46,DEM
+389,Indiana,8,U.S. Representative,LIB,Pam Williams,0.027000000000000003,
+390,Indiana,9,U.S. Representative,IND,Baron Hill,0.512,DEM
+391,Indiana,9,U.S. Representative,REP,Mike Sodrel,0.461,
+392,Indiana,9,U.S. Representative,IND,Jeff Melton,0.015,
+393,Indiana,9,U.S. Representative,LIB,Al Cox,0.013000000000000001,
+394,Iowa,1,U.S. Representative,REP,Jim Nussle,0.5720000000000001,
+395,Iowa,1,U.S. Representative,IND,Ann Hutchinson,0.42700000000000005,DEM
+396,Iowa,2,U.S. Representative,REP,Jim Leach,0.522,
+397,Iowa,2,U.S. Representative,IND,Julie Thomas,0.457,DEM
+398,Iowa,2,U.S. Representative,LIB,Kevin Litten,0.02,
+399,Iowa,3,U.S. Representative,IND,Leonard Boswell,0.534,DEM
+400,Iowa,3,U.S. Representative,REP,Stan Thompson,0.45,
+401,Iowa,3,U.S. Representative,LIB,Jeffrey Smith,0.012,
+402,Iowa,4,U.S. Representative,REP,Tom Latham,0.5479999999999999,
+403,Iowa,4,U.S. Representative,IND,John Norris,0.431,DEM
+404,Iowa,4,U.S. Representative,LIB,Terry Wilson,0.013999999999999999,
+405,Iowa,4,U.S. Representative,LIB,Jim Hennager,0.006999999999999999,
+406,Iowa,5,U.S. Representative,REP,Steve King,0.622,
+407,Iowa,5,U.S. Representative,IND,Paul Shomshor,0.37799999999999995,DEM
+408,Kansas,1,U.S. Representative,REP,Jerry Moran,0.9109999999999999,
+409,Kansas,1,U.S. Representative,LIB,Jack Warner,0.08900000000000001,
+410,Kansas,2,U.S. Representative,REP,Jim Ryun,0.604,
+411,Kansas,2,U.S. Representative,IND,Dan Lykins,0.375,DEM
+412,Kansas,2,U.S. Representative,LIB,Art Clack,0.021,
+413,Kansas,3,U.S. Representative,IND,Dennis Moore,0.502,DEM
+414,Kansas,3,U.S. Representative,REP,Adam Taff,0.469,
+415,Kansas,3,U.S. Representative,IND,Dawn Bly,0.023,
+416,Kansas,3,U.S. Representative,LIB,Douglas Martin,0.006,
+417,Kansas,4,U.S. Representative,REP,Todd Tiahrt,0.606,
+418,Kansas,4,U.S. Representative,IND,Carlos Nolla,0.37,DEM
+419,Kansas,4,U.S. Representative,LIB,Maike Warren,0.024,
+420,Kentucky,1,U.S. Representative,REP,Ed Whitfield,0.623,
+421,Kentucky,1,U.S. Representative,IND,Klint Alexander,0.348,DEM
+422,Kentucky,2,U.S. Representative,REP,Ron Lewis,0.696,
+423,Kentucky,2,U.S. Representative,IND,David L. Williams,0.292,DEM
+424,Kentucky,2,U.S. Representative,LIB,Robert Guy Dyer,0.012,
+425,Kentucky,3,U.S. Representative,REP,Anne Northup,0.516,
+426,Kentucky,3,U.S. Representative,IND,Jack Conway,0.484,DEM
+427,Kentucky,4,U.S. Representative,IND,Ken Lucas,0.511,DEM
+428,Kentucky,4,U.S. Representative,REP,Geoff Davis,0.475,
+429,Kentucky,4,U.S. Representative,LIB,John Grote,0.013000000000000001,
+430,Kentucky,5,U.S. Representative,REP,Hal Rogers,0.7829999999999999,
+431,Kentucky,5,U.S. Representative,IND,Sidney Jane Bailey,0.217,DEM
+432,Kentucky,6,U.S. Representative,REP,Ernie Fletcher,0.72,
+433,Kentucky,6,U.S. Representative,IND,Gatewood Galbraith,0.26,
+434,Kentucky,6,U.S. Representative,LIB,Mark Gailey,0.021,
+435,Louisiana,1,U.S. Representative,REP,David Vitter,0.815,
+436,Louisiana,1,U.S. Representative,REP,Monica Monica,0.11199999999999999,
+437,Louisiana,1,U.S. Representative,REP,Robert Namer,0.04,
+438,Louisiana,1,U.S. Representative,IND,Ian Hawxhurst,0.033,
+439,Louisiana,2,U.S. Representative,IND,William J. Jefferson,0.635,DEM
+440,Louisiana,2,U.S. Representative,IND,Irma Muse Dixon,0.2,DEM
+441,Louisiana,2,U.S. Representative,REP,Silky Sullivan,0.109,
+442,Louisiana,2,U.S. Representative,IND,"Clarence ""Buddy"" Hunt",0.028999999999999998,DEM
+443,Louisiana,2,U.S. Representative,IND,Wayne Clement,0.027000000000000003,
+444,Louisiana,3,U.S. Representative,REP,Billy Tauzin,0.867,
+445,Louisiana,3,U.S. Representative,IND,William Beier,0.086,
+446,Louisiana,3,U.S. Representative,IND,David Iwancio,0.047,
+447,Louisiana,4,U.S. Representative,REP,Jim McCrery,0.716,
+448,Louisiana,4,U.S. Representative,IND,John Milkovich,0.265,DEM
+449,Louisiana,4,U.S. Representative,IND,Bill Jacobs,0.019,
+450,Louisiana,5,U.S. Representative,IND,Rodney Alexander,0.503,DEM
+451,Louisiana,5,U.S. Representative,REP,Lee Fletcher,0.49700000000000005,
+452,Louisiana,6,U.S. Representative,REP,Richard Baker,0.84,
+453,Louisiana,6,U.S. Representative,IND,Rick Moscatello,0.16,
+454,Louisiana,7,U.S. Representative,IND,Chris John,0.868,DEM
+455,Louisiana,7,U.S. Representative,IND,Michael Harris,0.132,
+456,Maine,1,U.S. Representative,IND,Tom Allen,0.638,DEM
+457,Maine,1,U.S. Representative,REP, Steven Joyce,0.36200000000000004,
+458,Maine,2,U.S. Representative,IND,Michael Michaud,0.52,DEM
+459,Maine,2,U.S. Representative,REP,Kevin Raye,0.48,
+460,Maryland,1,U.S. Representative,REP,Wayne Gilchrest,0.767,
+461,Maryland,1,U.S. Representative,IND,Ann Tamlyn,0.23199999999999998,DEM
+462,Maryland,2,U.S. Representative,IND,Dutch Ruppersberger,0.542,DEM
+463,Maryland,2,U.S. Representative,REP,Helen Delich Bentley,0.456,
+464,Maryland,3,U.S. Representative,IND,Ben Cardin,0.657,DEM
+465,Maryland,3,U.S. Representative,REP,Scott Conwell,0.342,
+466,Maryland,4,U.S. Representative,IND,Albert Wynn,0.7859999999999999,DEM
+467,Maryland,4,U.S. Representative,REP,John Kimble,0.20800000000000002,
+468,Maryland,5,U.S. Representative,IND,Steny Hoyer,0.693,DEM
+469,Maryland,5,U.S. Representative,REP,Joseph Crawford,0.305,
+470,Maryland,6,U.S. Representative,REP,Roscoe Bartlett,0.6609999999999999,
+471,Maryland,6,U.S. Representative,IND,Donald DeArmon,0.33799999999999997,DEM
+472,Maryland,7,U.S. Representative,IND,Elijah Cummings,0.735,DEM
+473,Maryland,7,U.S. Representative,REP,Joseph Ward,0.264,
+474,Maryland,8,U.S. Representative,IND,Chris Van Hollen,0.517,DEM
+475,Maryland,8,U.S. Representative,REP,Connie Morella,0.475,
+476,Maryland,8,U.S. Representative,IND,Stephen Bassett,0.006999999999999999,
+477,Massachusetts,1,U.S. Representative,IND,John Olver,0.6759999999999999,DEM
+478,Massachusetts,1,U.S. Representative,REP,Matthew Kinnaman,0.324,
+479,Massachusetts,2,U.S. Representative,IND,Richard Neal,1.0,DEM
+480,Massachusetts,3,U.S. Representative,IND,Jim McGovern,1.0,DEM
+481,Massachusetts,4,U.S. Representative,IND,Barney Frank,1.0,DEM
+482,Massachusetts,5,U.S. Representative,IND,Marty Meehan,0.602,DEM
+483,Massachusetts,5,U.S. Representative,REP,Charles McCarthy,0.34,
+484,Massachusetts,5,U.S. Representative,LIB,Ilana Freedman,0.057999999999999996,
+485,Massachusetts,6,U.S. Representative,IND,John F. Tierney,0.6829999999999999,DEM
+486,Massachusetts,6,U.S. Representative,REP,Mark C. Smith,0.316,
+487,Massachusetts,7,U.S. Representative,IND,Ed Markey,1.0,DEM
+488,Massachusetts,8,U.S. Representative,IND,Mike Capuano,1.0,DEM
+489,Massachusetts,9,U.S. Representative,IND,Stephen Lynch,1.0,DEM
+490,Massachusetts,10,U.S. Representative,IND,Bill Delahunt,0.6920000000000001,DEM
+491,Massachusetts,10,U.S. Representative,REP,Luis Gonzaga,0.307,
+492,Michigan,1,U.S. Representative,IND,Bart Stupak,0.677,DEM
+493,Michigan,1,U.S. Representative,REP,Don Hooper,0.311,
+494,Michigan,1,U.S. Representative,LIB,John Loosemore,0.012,
+495,Michigan,2,U.S. Representative,REP,Pete Hoekstra,0.7040000000000001,
+496,Michigan,2,U.S. Representative,IND,Jeffrey Wrisley,0.27699999999999997,DEM
+497,Michigan,2,U.S. Representative,LIB,Laurie Aleck,0.012,
+498,Michigan,3,U.S. Representative,REP,Vern Ehlers,0.7,
+499,Michigan,3,U.S. Representative,IND,Kathryn Lynnes,0.28300000000000003,DEM
+500,Michigan,3,U.S. Representative,LIB,Tom Quinn,0.012,
+501,Michigan,3,U.S. Representative,IND,Richard Lucey,0.005,
+502,Michigan,4,U.S. Representative,REP,Dave Camp,0.682,
+503,Michigan,4,U.S. Representative,IND,Lawrence Hollenbeck,0.302,DEM
+504,Michigan,4,U.S. Representative,IND,Sterling Johnson,0.01,
+505,Michigan,4,U.S. Representative,LIB,"Al Chia, Jr.",0.006,
+506,Michigan,5,U.S. Representative,IND,Dale Kildee,0.9159999999999999,DEM
+507,Michigan,5,U.S. Representative,LIB,Clint Foster,0.054000000000000006,
+508,Michigan,5,U.S. Representative,IND,Harley Mikkelson,0.03,
+509,Michigan,6,U.S. Representative,REP,Fred Upton,0.6920000000000001,
+510,Michigan,6,U.S. Representative,IND,"Gary Giguere, Jr.",0.293,DEM
+511,Michigan,6,U.S. Representative,IND,Harley Mikkelson,0.015,
+512,Michigan,7,U.S. Representative,REP,Nick Smith,0.597,
+513,Michigan,7,U.S. Representative,IND,Mike Simpson,0.386,DEM
+514,Michigan,7,U.S. Representative,LIB,Ken Proctor,0.017,
+515,Michigan,8,U.S. Representative,REP,Mike Rogers,0.679,
+516,Michigan,8,U.S. Representative,IND,Frank McAlpine,0.308,DEM
+517,Michigan,8,U.S. Representative,LIB,Thomas Yeutter,0.013999999999999999,
+518,Michigan,9,U.S. Representative,REP,Joe Knollenberg,0.581,
+519,Michigan,9,U.S. Representative,IND,David Fink,0.39899999999999997,DEM
+520,Michigan,9,U.S. Representative,LIB,Robert Schubring,0.02,
+521,Michigan,10,U.S. Representative,REP,Candice Miller,0.633,
+522,Michigan,10,U.S. Representative,IND,Carl Marlinga,0.355,DEM
+523,Michigan,10,U.S. Representative,IND,Renae Coon,0.012,DEM
+524,Michigan,11,U.S. Representative,REP,Thad McCotter,0.5720000000000001,
+525,Michigan,11,U.S. Representative,IND,Kevin Kelley,0.397,DEM
+526,Michigan,11,U.S. Representative,IND,William Boyd,0.019,
+527,Michigan,11,U.S. Representative,IND,Dan Malone,0.012,
+528,Michigan,12,U.S. Representative,IND,Sander Levin,0.6829999999999999,DEM
+529,Michigan,12,U.S. Representative,REP,Harvey Dean,0.298,
+530,Michigan,12,U.S. Representative,LIB,Dick Gach,0.013000000000000001,
+531,Michigan,12,U.S. Representative,IND,Steven Revis,0.006999999999999999,
+532,Michigan,13,U.S. Representative,IND,Carolyn Kilpatrick,0.9159999999999999,DEM
+533,Michigan,13,U.S. Representative,REP,Raymond Warner,0.084,
+534,Michigan,14,U.S. Representative,IND,John Conyers Jr.,0.8320000000000001,DEM
+535,Michigan,14,U.S. Representative,REP,Dave Stone,0.152,
+536,Michigan,14,U.S. Representative,LIB,Francis Schorr,0.009000000000000001,
+537,Michigan,14,U.S. Representative,IND,John Litle,0.006999999999999999,
+538,Michigan,15,U.S. Representative,IND,John Dingell,0.722,DEM
+539,Michigan,15,U.S. Representative,REP,Martin Kaltenbach,0.257,
+540,Michigan,15,U.S. Representative,LIB,Gregory Stempfle,0.021,
+541,Minnesota,1,U.S. Representative,REP,Gil Gutknecht,0.615,
+542,Minnesota,1,U.S. Representative,IND,Steve Andreasen,0.34700000000000003,
+543,Minnesota,1,U.S. Representative,IND,Greg Mikkelson,0.038,
+544,Minnesota,2,U.S. Representative,REP,John Kline,0.5329999999999999,
+545,Minnesota,2,U.S. Representative,IND,Bill Luther,0.42200000000000004,
+546,Minnesota,2,U.S. Representative,IND,Greg Mikkelson,0.043,
+547,Minnesota,3,U.S. Representative,REP,Jim Ramstad,0.72,
+548,Minnesota,3,U.S. Representative,IND,Darryl Stanton,0.27899999999999997,
+549,Minnesota,4,U.S. Representative,IND,Betty McCollum,0.622,
+550,Minnesota,4,U.S. Representative,REP,Clyde Billington,0.33899999999999997,
+551,Minnesota,4,U.S. Representative,IND,Scott Raskiewicz,0.038,
+552,Minnesota,5,U.S. Representative,IND,Martin Sabo,0.67,
+553,Minnesota,5,U.S. Representative,REP,Daniel Mathias,0.259,
+554,Minnesota,5,U.S. Representative,IND,Tim Davis,0.07,
+555,Minnesota,6,U.S. Representative,REP,Mark Kennedy,0.573,
+556,Minnesota,6,U.S. Representative,IND,Janet Robert,0.35100000000000003,
+557,Minnesota,6,U.S. Representative,IND,Dan Becker,0.075,
+558,Minnesota,7,U.S. Representative,IND,Collin Peterson,0.653,
+559,Minnesota,7,U.S. Representative,REP,Dan Stevens,0.34600000000000003,
+560,Minnesota,8,U.S. Representative,IND,Jim Oberstar,0.687,
+561,Minnesota,8,U.S. Representative,REP,Bob Lemen,0.312,
+562,Mississippi,1,U.S. Representative,REP,Roger Wicker,0.7140000000000001,
+563,Mississippi,1,U.S. Representative,IND,Rex Weathers,0.242,DEM
+564,Mississippi,1,U.S. Representative,IND,Brenda Blackburn,0.026000000000000002,
+565,Mississippi,1,U.S. Representative,LIB,Harold Taylor,0.018000000000000002,
+566,Mississippi,2,U.S. Representative,IND,Bennie Thompson,0.551,DEM
+567,Mississippi,2,U.S. Representative,REP,Clinton LeSueur,0.428,
+568,Mississippi,2,U.S. Representative,IND,Lee Dilworth,0.021,
+569,Mississippi,3,U.S. Representative,REP,Chip Pickering,0.638,
+570,Mississippi,3,U.S. Representative,IND,Ronnie Shows,0.348,DEM
+571,Mississippi,3,U.S. Representative,IND,Jim Giles,0.006999999999999999,
+572,Mississippi,3,U.S. Representative,IND,Harvey Darden,0.004,
+573,Mississippi,3,U.S. Representative,LIB,Brad McDonald,0.004,
+574,Mississippi,3,U.S. Representative,IND,Carroll Grantham,0.002,
+575,Mississippi,4,U.S. Representative,IND,Gene Taylor,0.752,DEM
+576,Mississippi,4,U.S. Representative,REP,Karl Mertz,0.212,
+577,Mississippi,4,U.S. Representative,LIB,Wayne Parker,0.021,
+578,Mississippi,4,U.S. Representative,IND,Thomas Huffmaster,0.015,
+579,Missouri,1,U.S. Representative,IND,William Lacy Clay,0.701,DEM
+580,Missouri,1,U.S. Representative,REP,Richard Schwadron,0.271,
+581,Missouri,1,U.S. Representative,LIB,Jim Higgins,0.027999999999999997,
+582,Missouri,2,U.S. Representative,REP,Todd Akin,0.6709999999999999,
+583,Missouri,2,U.S. Representative,IND,John Hogan,0.31,DEM
+584,Missouri,2,U.S. Representative,LIB,Darla Maloney,0.018000000000000002,
+585,Missouri,3,U.S. Representative,IND,Dick Gephardt,0.591,DEM
+586,Missouri,3,U.S. Representative,REP,Catherine Enz,0.389,
+587,Missouri,3,U.S. Representative,LIB,Dan Byington,0.02,
+588,Missouri,4,U.S. Representative,IND,Ike Skelton,0.6759999999999999,DEM
+589,Missouri,4,U.S. Representative,REP,Jim Noland,0.307,
+590,Missouri,4,U.S. Representative,LIB,Daniel Roy Nelson,0.017,
+591,Missouri,5,U.S. Representative,IND,Karen McCarthy,0.659,DEM
+592,Missouri,5,U.S. Representative,REP,Steve Gordon,0.324,
+593,Missouri,5,U.S. Representative,LIB,Jeanne Bojarski,0.018000000000000002,
+594,Missouri,6,U.S. Representative,REP,Sam Graves,0.63,
+595,Missouri,6,U.S. Representative,IND,Cathy Rinehart,0.35200000000000004,DEM
+596,Missouri,6,U.S. Representative,LIB,Erik Buck,0.018000000000000002,
+597,Missouri,7,U.S. Representative,REP,Roy Blunt,0.748,
+598,Missouri,7,U.S. Representative,IND,Ron Lapham,0.23,DEM
+599,Missouri,7,U.S. Representative,LIB,Doug Burlison,0.022000000000000002,
+600,Missouri,8,U.S. Representative,REP,Jo Ann Emerson,0.718,
+601,Missouri,8,U.S. Representative,IND,Gene Curtis,0.26899999999999996,DEM
+602,Missouri,8,U.S. Representative,LIB,Eric Van Oostrom,0.013000000000000001,
+603,Missouri,9,U.S. Representative,REP,Kenny Hulshof,0.682,
+604,Missouri,9,U.S. Representative,IND,Don Deichman,0.28600000000000003,DEM
+605,Missouri,9,U.S. Representative,IND,Keith Brekhus,0.02,
+606,Missouri,9,U.S. Representative,LIB,John Mruzik,0.013000000000000001,
+607,Montana,At-Large,U.S. Representative,REP,Dennis Rehberg,0.6459999999999999,
+608,Montana,At-Large,U.S. Representative,IND,Steve Kelly,0.327,DEM
+609,Montana,At-Large,U.S. Representative,LIB,Mike Fellows,0.027000000000000003,
+610,Nebraska,1,U.S. Representative,REP,Doug Bereuter,0.8540000000000001,
+611,Nebraska,1,U.S. Representative,LIB,Robert Eckerson,0.147,
+612,Nebraska,2,U.S. Representative,REP,Lee Terry,0.633,
+613,Nebraska,2,U.S. Representative,IND,Jim Simon,0.33,DEM
+614,Nebraska,2,U.S. Representative,IND,Doug Paterson,0.023,
+615,Nebraska,2,U.S. Representative,LIB,Dave Stock,0.013999999999999999,
+616,Nebraska,3,U.S. Representative,REP,Tom Osborne,0.932,
+617,Nebraska,3,U.S. Representative,LIB,Jerry Hickman,0.068,
+618,Nevada,1,U.S. Representative,IND,Shelley Berkley,0.537,DEM
+619,Nevada,1,U.S. Representative,REP,Lynette Boggs-McDonald,0.42700000000000005,
+620,Nevada,1,U.S. Representative,IND,"Steven ""Capt. Truth"" Dempsey",0.024,
+621,Nevada,1,U.S. Representative,IND,W. Lane Startin,0.012,
+622,Nevada,2,U.S. Representative,REP,Jim Gibbons,0.743,
+623,Nevada,2,U.S. Representative,IND,Travis Souza,0.2,DEM
+624,Nevada,2,U.S. Representative,IND,Janine Hansen,0.036000000000000004,
+625,Nevada,2,U.S. Representative,LIB,Brendan Trainor,0.017,
+626,Nevada,2,U.S. Representative,IND,Robert Winquist,0.004,
+627,Nevada,3,U.S. Representative,REP,Jon Porter,0.561,
+628,Nevada,3,U.S. Representative,IND,Dario Herrera,0.37200000000000005,DEM
+629,Nevada,3,U.S. Representative,IND,Pete O'Neil,0.038,
+630,Nevada,3,U.S. Representative,LIB,Neil Scott,0.019,
+631,Nevada,3,U.S. Representative,IND,Richard Odell,0.01,
+632,New Hampshire,1,U.S. Representative,REP,Jeb Bradley,0.581,
+633,New Hampshire,1,U.S. Representative,IND,Martha Fuller Clark,0.385,DEM
+634,New Hampshire,1,U.S. Representative,LIB,Dan Belforti,0.033,
+635,New Hampshire,2,U.S. Representative,REP,Charlie Bass,0.568,
+636,New Hampshire,2,U.S. Representative,IND,Katrina Swett,0.409,DEM
+637,New Hampshire,2,U.S. Representative,LIB,Rosalie Babiarz,0.023,
+638,New Jersey,1,U.S. Representative,IND,Rob Andrews,0.927,DEM
+639,New Jersey,1,U.S. Representative,LIB,Timothy Haas,0.073,
+640,New Jersey,2,U.S. Representative,REP,Frank LoBiondo,0.6920000000000001,
+641,New Jersey,2,U.S. Representative,IND,Steven Farkas,0.28300000000000003,DEM
+642,New Jersey,2,U.S. Representative,IND,Roger Merle,0.01,
+643,New Jersey,2,U.S. Representative,LIB,"Michael Matthews, Jr.",0.01,
+644,New Jersey,2,U.S. Representative,IND,Constantino Rozzo,0.005,
+645,New Jersey,3,U.S. Representative,REP,Jim Saxton,0.65,
+646,New Jersey,3,U.S. Representative,IND,Richard Strada,0.33899999999999997,DEM
+647,New Jersey,3,U.S. Representative,LIB,Raymond Byrne,0.006999999999999999,
+648,New Jersey,3,U.S. Representative,IND,Ken Feduniewicz,0.004,
+649,New Jersey,4,U.S. Representative,REP,Chris Smith,0.662,
+650,New Jersey,4,U.S. Representative,IND,Mary Brennan,0.321,DEM
+651,New Jersey,4,U.S. Representative,LIB,Keith Quarles,0.006999999999999999,
+652,New Jersey,4,U.S. Representative,IND,Hermann Winkelmann,0.006,
+653,New Jersey,4,U.S. Representative,IND,Don Graham,0.004,
+654,New Jersey,5,U.S. Representative,REP,Scott Garrett,0.595,
+655,New Jersey,5,U.S. Representative,IND,Anne Sumers,0.38299999999999995,DEM
+656,New Jersey,5,U.S. Representative,IND,Michael Cino,0.022000000000000002,
+657,New Jersey,6,U.S. Representative,IND,Frank Pallone,0.665,DEM
+658,New Jersey,6,U.S. Representative,REP,Ric Medrow,0.309,
+659,New Jersey,6,U.S. Representative,IND,Richard Strong,0.013000000000000001,
+660,New Jersey,6,U.S. Representative,LIB,Barry Allen,0.009000000000000001,
+661,New Jersey,6,U.S. Representative,IND,Mac Dara Francis X. Lyden,0.005,
+662,New Jersey,7,U.S. Representative,REP,Mike Ferguson,0.58,
+663,New Jersey,7,U.S. Representative,IND,Tim Carden,0.409,DEM
+664,New Jersey,7,U.S. Representative,LIB,Darren Young,0.011000000000000001,
+665,New Jersey,8,U.S. Representative,IND,Bill Pascrell,0.6679999999999999,DEM
+666,New Jersey,8,U.S. Representative,REP,Jared Silverman,0.306,
+667,New Jersey,8,U.S. Representative,IND,Joseph Fortunato,0.026000000000000002,
+668,New Jersey,9,U.S. Representative,IND,Steve Rothman,0.698,DEM
+669,New Jersey,9,U.S. Representative,REP,Joseph Glass,0.302,
+670,New Jersey,10,U.S. Representative,IND,Don Payne,0.845,DEM
+671,New Jersey,10,U.S. Representative,REP,Andrew Wirtz,0.156,
+672,New Jersey,11,U.S. Representative,REP,Rodney Frelinghuysen,0.7240000000000001,
+673,New Jersey,11,U.S. Representative,IND,Vij Pawar,0.264,DEM
+674,New Jersey,11,U.S. Representative,LIB,Richard S. Roth,0.012,
+675,New Jersey,12,U.S. Representative,IND,"Rush D. Holt, Jr.",0.61,DEM
+676,New Jersey,12,U.S. Representative,REP,Buster Soaries,0.36700000000000005,
+677,New Jersey,12,U.S. Representative,IND,Carl Mayer,0.011000000000000001,
+678,New Jersey,12,U.S. Representative,LIB,Thomas Abrams,0.006999999999999999,
+679,New Jersey,12,U.S. Representative,IND,Karen Anne Zaletel,0.005,
+680,New Jersey,13,U.S. Representative,IND,Bob Menendez,0.7829999999999999,DEM
+681,New Jersey,13,U.S. Representative,REP,James Geron,0.182,
+682,New Jersey,13,U.S. Representative,IND,Pat Henry Faulkner,0.013000000000000001,
+683,New Jersey,13,U.S. Representative,IND,Esmat Zaklama,0.008,
+684,New Jersey,13,U.S. Representative,IND,Dick Hester,0.008,
+685,New Jersey,13,U.S. Representative,IND,Herbert H. Shaw,0.006,
+686,New Mexico,1,U.S. Representative,REP,Heather Wilson,0.5529999999999999,
+687,New Mexico,1,U.S. Representative,IND,Richard Romero,0.447,DEM
+688,New Mexico,2,U.S. Representative,REP,Steve Pearce,0.562,
+689,New Mexico,2,U.S. Representative,IND,John Arthur Smith,0.43700000000000006,DEM
+690,New Mexico,3,U.S. Representative,IND,Tom Udall,1.0,DEM
+691,New York,1,U.S. Representative,IND,Tim Bishop,0.502,DEM
+692,New York,1,U.S. Representative,REP,Felix Grucci,0.486,
+693,New York,1,U.S. Representative,IND,Lorna Salzman,0.012,
+694,New York,2,U.S. Representative,IND,Steve Israel,0.585,DEM
+695,New York,2,U.S. Representative,REP,Joseph Finley,0.405,
+696,New York,2,U.S. Representative,IND,John Keenan,0.011000000000000001,
+697,New York,3,U.S. Representative,REP,Peter King,0.7190000000000001,
+698,New York,3,U.S. Representative,IND,Stuart Finz,0.272,DEM
+699,New York,3,U.S. Representative,IND,Janeen DePrima,0.009000000000000001,
+700,New York,4,U.S. Representative,IND,Carolyn McCarthy,0.563,DEM
+701,New York,4,U.S. Representative,REP,Marilyn F. O'Grady,0.43200000000000005,
+702,New York,4,U.S. Representative,IND,Tim Derham,0.005,
+703,New York,5,U.S. Representative,IND,Gary Ackerman,0.68,DEM
+704,New York,5,U.S. Representative,IND,Perry Reich,0.077,
+705,New York,6,U.S. Representative,IND,Gregory W. Meeks,0.965,DEM
+706,New York,6,U.S. Representative,IND,Rey Clarke,0.035,
+707,New York,7,U.S. Representative,IND,Joseph Crowley,0.733,DEM
+708,New York,7,U.S. Representative,REP,Kevin Brawley,0.267,
+709,New York,8,U.S. Representative,IND,Jerrold Nadler,0.7609999999999999,DEM
+710,New York,8,U.S. Representative,REP,Jim Farrin,0.185,
+711,New York,8,U.S. Representative,IND,Alan Jay Gerber,0.032,
+712,New York,8,U.S. Representative,IND,Dan Wentzel,0.018000000000000002,
+713,New York,8,U.S. Representative,LIB,Joseph Dobrian,0.005,
+714,New York,9,U.S. Representative,IND,Anthony Weiner,0.657,DEM
+715,New York,9,U.S. Representative,REP,Alfred Donohue,0.34299999999999997,
+716,New York,10,U.S. Representative,IND,Ed Towns,0.978,DEM
+717,New York,10,U.S. Representative,REP,Herbert Ryan,0.022000000000000002,
+718,New York,11,U.S. Representative,IND,Major Owens,0.866,DEM
+719,New York,11,U.S. Representative,REP,Susan Cleary,0.126,
+720,New York,11,U.S. Representative,IND,Alice Gaffney,0.009000000000000001,
+721,New York,12,U.S. Representative,IND,Nydia Velazquez,0.958,DEM
+722,New York,12,U.S. Representative,REP,Cesar Estevez,0.042,
+723,New York,13,U.S. Representative,REP,Vito Fossella,0.696,
+724,New York,13,U.S. Representative,IND,Arne Mattsson,0.28300000000000003,DEM
+725,New York,13,U.S. Representative,IND,Anita Lerman,0.013999999999999999,
+726,New York,13,U.S. Representative,IND,Henry Bardel,0.006999999999999999,
+727,New York,14,U.S. Representative,IND,Carolyn Maloney,0.753,DEM
+728,New York,14,U.S. Representative,REP,Anton Srdanovic,0.248,
+729,New York,15,U.S. Representative,IND,Charles B. Rangel,0.885,DEM
+730,New York,15,U.S. Representative,REP,Jessie Fields,0.115,
+731,New York,16,U.S. Representative,IND,Jose Serrano,0.9209999999999999,DEM
+732,New York,16,U.S. Representative,REP,Frank Dellavalle,0.079,
+733,New York,17,U.S. Representative,IND,Eliot Engel,0.626,DEM
+734,New York,17,U.S. Representative,REP,Scott Vanderhoef,0.344,
+735,New York,17,U.S. Representative,IND,Arthur Gallagher,0.01,
+736,New York,17,U.S. Representative,IND,Elizabeth Shanklin,0.013999999999999999,
+737,New York,18,U.S. Representative,IND,Nita Lowey,0.92,DEM
+738,New York,18,U.S. Representative,IND,Michael J. Reynolds,0.08,
+739,New York,19,U.S. Representative,REP,Sue Kelly,0.7,
+740,New York,19,U.S. Representative,IND,Janine Selendy,0.26,DEM
+741,New York,19,U.S. Representative,IND,Christine Tighe,0.025,
+742,New York,19,U.S. Representative,IND,Jonathan Wright,0.015,
+743,New York,20,U.S. Representative,REP,John Sweeney,0.733,
+744,New York,20,U.S. Representative,IND,Frank Stoppenbach,0.24,DEM
+745,New York,20,U.S. Representative,IND,Margaret Lewis,0.027000000000000003,
+746,New York,21,U.S. Representative,IND,Mike McNulty,0.7509999999999999,DEM
+747,New York,21,U.S. Representative,REP,Charles Rosenstein,0.249,
+748,New York,22,U.S. Representative,IND,Maurice Hinchey,0.642,DEM
+749,New York,22,U.S. Representative,REP,Eric Hall,0.32899999999999996,
+750,New York,22,U.S. Representative,IND,Steven Greenfield,0.015,
+751,New York,22,U.S. Representative,IND,Paul Laux,0.013999999999999999,
+752,New York,23,U.S. Representative,REP,John McHugh,1.0,
+753,New York,24,U.S. Representative,REP,Sherwood Boehlert,0.7070000000000001,
+754,New York,24,U.S. Representative,IND,David Walrath,0.21600000000000003,
+755,New York,24,U.S. Representative,IND,Mark Dunau,0.044000000000000004,
+756,New York,24,U.S. Representative,IND,Kathleen Peters,0.033,
+757,New York,25,U.S. Representative,REP,Jim Walsh,0.723,
+758,New York,25,U.S. Representative,IND,Stephanie Aldersley,0.266,DEM
+759,New York,25,U.S. Representative,IND,Francis Gavin,0.011000000000000001,
+760,New York,26,U.S. Representative,REP,Tom Reynolds,0.736,
+761,New York,26,U.S. Representative,IND,Ayesha Nariman,0.22399999999999998,DEM
+762,New York,26,U.S. Representative,IND,Shawn Harris,0.022000000000000002,
+763,New York,26,U.S. Representative,IND,Paul Fallon,0.017,
+764,New York,27,U.S. Representative,REP,Jack Quinn,0.691,
+765,New York,27,U.S. Representative,IND,Peter Crotty,0.275,DEM
+766,New York,27,U.S. Representative,IND,Thomas Casey,0.021,
+767,New York,27,U.S. Representative,IND,Albert LaBruna,0.013999999999999999,
+768,New York,28,U.S. Representative,IND,Louise Slaughter,0.625,DEM
+769,New York,28,U.S. Representative,REP,Henry Wojtaszek,0.375,
+770,New York,29,U.S. Representative,REP,Amo Houghton,0.731,
+771,New York,29,U.S. Representative,IND,Kisun Peters,0.213,DEM
+772,New York,29,U.S. Representative,IND,Wendy Johnson,0.033,
+773,New York,29,U.S. Representative,IND,Rachel Treichler,0.023,
+774,North Carolina,1,U.S. Representative,IND,Frank Ballance,0.637,DEM
+775,North Carolina,1,U.S. Representative,REP,Greg Dority,0.348,
+776,North Carolina,1,U.S. Representative,LIB,Mike Ruff,0.013999999999999999,
+777,North Carolina,2,U.S. Representative,IND,Bob Etheridge,0.654,DEM
+778,North Carolina,2,U.S. Representative,REP,Joseph Ellen,0.33299999999999996,
+779,North Carolina,2,U.S. Representative,LIB,Gary Minter,0.013999999999999999,
+780,North Carolina,3,U.S. Representative,REP,Walter Jones Jr.,0.907,
+781,North Carolina,3,U.S. Representative,LIB,Gary Goodson,0.09300000000000001,
+782,North Carolina,4,U.S. Representative,IND,David Price,0.612,DEM
+783,North Carolina,4,U.S. Representative,REP,Tuan Nguyen,0.36200000000000004,
+784,North Carolina,4,U.S. Representative,LIB,Ken Nelson,0.027000000000000003,
+785,North Carolina,5,U.S. Representative,REP,Richard Burr,0.7020000000000001,
+786,North Carolina,5,U.S. Representative,IND,David Crawford,0.298,DEM
+787,North Carolina,6,U.S. Representative,REP,Howard Coble,0.904,
+788,North Carolina,6,U.S. Representative,LIB,Tara Grubb,0.096,
+789,North Carolina,7,U.S. Representative,IND,Mike McIntyre,0.711,DEM
+790,North Carolina,7,U.S. Representative,REP,James Adams,0.273,
+791,North Carolina,7,U.S. Representative,LIB,David Michael Brooks,0.015,
+792,North Carolina,8,U.S. Representative,REP,Robin Hayes,0.536,
+793,North Carolina,8,U.S. Representative,IND,Chris Kouri,0.446,DEM
+794,North Carolina,8,U.S. Representative,LIB,Mark Andrew Johnson,0.018000000000000002,
+795,North Carolina,9,U.S. Representative,REP,Sue Myrick,0.7240000000000001,
+796,North Carolina,9,U.S. Representative,IND,Ed McGuire,0.258,DEM
+797,North Carolina,9,U.S. Representative,LIB,Christopher Cole,0.017,
+798,North Carolina,10,U.S. Representative,REP,Cass Ballenger,0.593,
+799,North Carolina,10,U.S. Representative,IND,Ron Daugherty,0.379,DEM
+800,North Carolina,10,U.S. Representative,LIB,Christopher M. Hill,0.028999999999999998,
+801,North Carolina,11,U.S. Representative,REP,Charles Taylor,0.555,
+802,North Carolina,11,U.S. Representative,IND,Sam Neill,0.429,DEM
+803,North Carolina,11,U.S. Representative,LIB,Eric Henry,0.016,
+804,North Carolina,12,U.S. Representative,IND,Mel Watt,0.653,DEM
+805,North Carolina,12,U.S. Representative,REP,Jeff Kish,0.32799999999999996,
+806,North Carolina,12,U.S. Representative,LIB,Carey Head,0.02,
+807,North Carolina,13,U.S. Representative,IND,Brad Miller,0.547,DEM
+808,North Carolina,13,U.S. Representative,REP,Carolyn Grant,0.424,
+809,North Carolina,13,U.S. Representative,LIB,Alex MacDonald,0.028999999999999998,
+810,North Dakota,At-Large,U.S. Representative,IND,Earl Pomeroy,0.524,
+811,North Dakota,At-Large,U.S. Representative,REP,Rick Clayburgh,0.47600000000000003,
+812,Ohio,1,U.S. Representative,REP,Steve Chabot,0.648,
+813,Ohio,1,U.S. Representative,IND,Greg Harris,0.35200000000000004,DEM
+814,Ohio,2,U.S. Representative,REP,Rob Portman,0.741,
+815,Ohio,2,U.S. Representative,IND,Charles W. Sanders,0.26,DEM
+816,Ohio,3,U.S. Representative,REP,Mike Turner,0.588,
+817,Ohio,3,U.S. Representative,IND,Richard Carne,0.41200000000000003,DEM
+818,Ohio,4,U.S. Representative,REP,Mike Oxley,0.675,
+819,Ohio,4,U.S. Representative,IND,Jim Clark,0.325,DEM
+820,Ohio,5,U.S. Representative,REP,Paul Gillmor,0.6709999999999999,
+821,Ohio,5,U.S. Representative,IND,Roger C. Anderson,0.276,DEM
+822,Ohio,5,U.S. Representative,IND,John Green,0.054000000000000006,
+823,Ohio,6,U.S. Representative,IND,Ted Strickland,0.595,DEM
+824,Ohio,6,U.S. Representative,REP,Mike Halleck,0.405,
+825,Ohio,7,U.S. Representative,REP,Dave Hobson,0.6759999999999999,
+826,Ohio,7,U.S. Representative,IND,Kara Anastasio,0.272,DEM
+827,Ohio,7,U.S. Representative,IND,Frank Doden,0.053,
+828,Ohio,8,U.S. Representative,REP,John Boehner,0.708,
+829,Ohio,8,U.S. Representative,IND,Jeff Hardenbrook,0.292,DEM
+830,Ohio,9,U.S. Representative,IND,Marcy Kaptur,0.74,DEM
+831,Ohio,9,U.S. Representative,REP,Ed Emery,0.26,
+832,Ohio,10,U.S. Representative,IND,Dennis Kucinich,0.741,DEM
+833,Ohio,10,U.S. Representative,REP,Jon Heben,0.23800000000000002,
+834,Ohio,10,U.S. Representative,IND,Judy Locy,0.021,
+835,Ohio,11,U.S. Representative,IND,Stephanie Tubbs Jones,0.763,DEM
+836,Ohio,11,U.S. Representative,REP,Patrick Pappano,0.237,
+837,Ohio,12,U.S. Representative,REP,Pat Tiberi,0.644,
+838,Ohio,12,U.S. Representative,IND,Edward S. Brown,0.35600000000000004,DEM
+839,Ohio,13,U.S. Representative,IND,Sherrod Brown,0.69,DEM
+840,Ohio,13,U.S. Representative,REP,Ed Oliveros,0.31,
+841,Ohio,14,U.S. Representative,REP,Steve LaTourette,0.721,
+842,Ohio,14,U.S. Representative,IND,Dale Virgil Blanchard,0.278,DEM
+843,Ohio,15,U.S. Representative,REP,Deborah Pryce,0.6659999999999999,
+844,Ohio,15,U.S. Representative,IND,Mark P. Brown,0.33399999999999996,DEM
+845,Ohio,16,U.S. Representative,REP,Ralph Regula,0.6890000000000001,
+846,Ohio,16,U.S. Representative,IND,Jim Rice,0.311,DEM
+847,Ohio,17,U.S. Representative,IND,Timothy Ryan,0.511,DEM
+848,Ohio,17,U.S. Representative,REP,Ann Benjamin,0.337,
+849,Ohio,17,U.S. Representative,IND,James Traficant,0.152,
+850,Ohio,18,U.S. Representative,REP,Bob Ney,1.0,
+851,Oklahoma,1,U.S. Representative,REP,John Sullivan,0.556,
+852,Oklahoma,1,U.S. Representative,IND,Doug Dodd,0.42200000000000004,DEM
+853,Oklahoma,1,U.S. Representative,IND,Joe Cristiano,0.022000000000000002,
+854,Oklahoma,2,U.S. Representative,IND,Brad Carson,0.741,DEM
+855,Oklahoma,2,U.S. Representative,REP,Kent Pharaoh,0.259,
+856,Oklahoma,3,U.S. Representative,REP,Frank Lucas,0.7559999999999999,
+857,Oklahoma,3,U.S. Representative,IND,Robert T. Murphy,0.244,DEM
+858,Oklahoma,4,U.S. Representative,REP,Tom Cole,0.5379999999999999,
+859,Oklahoma,4,U.S. Representative,IND,Darryl Roberts,0.462,DEM
+860,Oklahoma,5,U.S. Representative,REP,Ernest Istook,0.622,
+861,Oklahoma,5,U.S. Representative,IND,Lou Barlow,0.324,DEM
+862,Oklahoma,5,U.S. Representative,IND,Donna C. Davis,0.054000000000000006,
+863,Oregon,1,U.S. Representative,IND,David Wu,0.627,DEM
+864,Oregon,1,U.S. Representative,REP,Jim Greenfield,0.34,
+865,Oregon,1,U.S. Representative,LIB,Beth A. King,0.032,
+866,Oregon,2,U.S. Representative,REP,Greg Walden,0.7190000000000001,
+867,Oregon,2,U.S. Representative,IND,Peter Buckley,0.258,DEM
+868,Oregon,2,U.S. Representative,LIB,Mike Wood,0.023,
+869,Oregon,3,U.S. Representative,IND,Earl Blumenauer,0.6679999999999999,DEM
+870,Oregon,3,U.S. Representative,REP,Sarah Seale,0.267,
+871,Oregon,3,U.S. Representative,IND,Walt Brown,0.027999999999999997,
+872,Oregon,3,U.S. Representative,LIB,Kevin Jones,0.02,
+873,Oregon,3,U.S. Representative,IND,David Brownlow,0.025,
+874,Oregon,4,U.S. Representative,IND,Peter DeFazio,0.638,DEM
+875,Oregon,4,U.S. Representative,REP,Liz VanLeeuwen,0.344,
+876,Oregon,4,U.S. Representative,LIB,Chris Bigelow,0.018000000000000002,
+877,Oregon,5,U.S. Representative,IND,Darlene Hooley,0.5479999999999999,DEM
+878,Oregon,5,U.S. Representative,REP,Brian Boquist,0.451,
+879,Pennsylvania,1,U.S. Representative,IND,Bob Brady,0.8640000000000001,DEM
+880,Pennsylvania,1,U.S. Representative,REP,Marie Delany,0.125,
+881,Pennsylvania,1,U.S. Representative,IND,Mike Ewall,0.011000000000000001,
+882,Pennsylvania,2,U.S. Representative,IND,Chaka Fattah,0.878,DEM
+883,Pennsylvania,2,U.S. Representative,REP,Thomas Dougherty,0.122,
+884,Pennsylvania,3,U.S. Representative,REP,Phil English,0.777,
+885,Pennsylvania,3,U.S. Representative,IND,AnnDrea Benson,0.223,
+886,Pennsylvania,4,U.S. Representative,REP,Melissa Hart,0.6459999999999999,
+887,Pennsylvania,4,U.S. Representative,IND,Stevan Drobac,0.354,DEM
+888,Pennsylvania,5,U.S. Representative,REP,John E. Peterson,0.872,
+889,Pennsylvania,5,U.S. Representative,LIB,Thomas A. Martin,0.126,
+890,Pennsylvania,6,U.S. Representative,REP,Jim Gerlach,0.514,
+891,Pennsylvania,6,U.S. Representative,IND,Dan Wofford,0.486,DEM
+892,Pennsylvania,7,U.S. Representative,REP,Curt Weldon,0.6609999999999999,
+893,Pennsylvania,7,U.S. Representative,IND,Peter Lennon,0.33899999999999997,DEM
+894,Pennsylvania,8,U.S. Representative,REP,Jim Greenwood,0.626,
+895,Pennsylvania,8,U.S. Representative,IND,Timothy Reece,0.374,DEM
+896,Pennsylvania,9,U.S. Representative,REP,Bill Shuster,0.71,
+897,Pennsylvania,9,U.S. Representative,IND,John R. Henry,0.289,DEM
+898,Pennsylvania,10,U.S. Representative,REP,Don Sherwood,0.9259999999999999,
+899,Pennsylvania,10,U.S. Representative,IND,Kurt Shotko,0.071,
+900,Pennsylvania,11,U.S. Representative,IND,Paul Kanjorski,0.556,DEM
+901,Pennsylvania,11,U.S. Representative,REP,Louis Barletta,0.424,
+902,Pennsylvania,11,U.S. Representative,IND,Thomas J. McLaughlin,0.02,
+903,Pennsylvania,12,U.S. Representative,IND,John Murtha,0.735,DEM
+904,Pennsylvania,12,U.S. Representative,REP,Bill Choby,0.265,
+905,Pennsylvania,13,U.S. Representative,IND,Joe Hoeffel,0.51,DEM
+906,Pennsylvania,13,U.S. Representative,REP,Melissa Brown,0.473,
+907,Pennsylvania,13,U.S. Representative,IND,John P. McDermott,0.017,
+908,Pennsylvania,14,U.S. Representative,IND,Mike Doyle,1.0,DEM
+909,Pennsylvania,15,U.S. Representative,REP,Pat Toomey,0.574,
+910,Pennsylvania,15,U.S. Representative,IND,Ed O'Brien,0.426,DEM
+911,Pennsylvania,16,U.S. Representative,REP,Joe Pitts,0.885,
+912,Pennsylvania,16,U.S. Representative,IND,Will Todd,0.065,
+913,Pennsylvania,16,U.S. Representative,IND,Kenneth Brenneman,0.05,
+914,Pennsylvania,17,U.S. Representative,IND,Tim Holden,0.514,DEM
+915,Pennsylvania,17,U.S. Representative,REP,George Gekas,0.486,
+916,Pennsylvania,18,U.S. Representative,REP,Tim Murphy,0.601,
+917,Pennsylvania,18,U.S. Representative,IND,Jack Machek,0.39899999999999997,DEM
+918,Pennsylvania,19,U.S. Representative,REP,Todd Platts,0.9109999999999999,
+919,Pennsylvania,19,U.S. Representative,IND,Will Todd,0.05,
+920,Pennsylvania,19,U.S. Representative,LIB,Kenneth Brenneman,0.038,
+921,Rhode Island,1,U.S. Representative,IND,Patrick Kennedy,0.599,DEM
+922,Rhode Island,1,U.S. Representative,REP,David W. Rogers,0.373,
+923,Rhode Island,1,U.S. Representative,LIB,Frank Carter,0.027000000000000003,
+924,Rhode Island,2,U.S. Representative,IND,James Langevin,0.763,DEM
+925,Rhode Island,2,U.S. Representative,REP,John Matson,0.223,
+926,Rhode Island,2,U.S. Representative,IND,Dorman Hayes,0.013999999999999999,
+927,South Carolina,1,U.S. Representative,REP,Henry Brown,0.8959999999999999,
+928,South Carolina,1,U.S. Representative,IND,James E. Dunn,0.069,
+929,South Carolina,1,U.S. Representative,IND,Joe Innella,0.035,
+930,South Carolina,2,U.S. Representative,REP,Joe Wilson,0.841,
+931,South Carolina,2,U.S. Representative,IND,Mark Whittington,0.1,
+932,South Carolina,2,U.S. Representative,LIB,Jim Legg,0.055999999999999994,
+933,South Carolina,3,U.S. Representative,REP,Gresham Barrett,0.6709999999999999,
+934,South Carolina,3,U.S. Representative,IND,George Brightharp,0.313,DEM
+935,South Carolina,3,U.S. Representative,LIB,Mike Boerste,0.016,
+936,South Carolina,4,U.S. Representative,REP,Jim DeMint,0.69,
+937,South Carolina,4,U.S. Representative,IND,Peter Ashy,0.297,DEM
+938,South Carolina,4,U.S. Representative,IND,Faye Walters,0.012,
+939,South Carolina,5,U.S. Representative,IND,John Spratt,0.8590000000000001,DEM
+940,South Carolina,5,U.S. Representative,LIB,Doug Kendall,0.078,
+941,South Carolina,5,U.S. Representative,IND,Steve Lefemine,0.063,
+942,South Carolina,6,U.S. Representative,IND,Jim Clyburn,0.67,DEM
+943,South Carolina,6,U.S. Representative,REP,Gary McLeod,0.32,
+944,South Carolina,6,U.S. Representative,LIB,Craig Augenstein,0.01,
+945,South Dakota,At-Large,U.S. Representative,REP,William Janklow,0.535,
+946,South Dakota,At-Large,U.S. Representative,IND,Stephanie Herseth,0.456,DEM
+947,South Dakota,At-Large,U.S. Representative,LIB,Terry Begay,0.009000000000000001,
+948,Tennessee,1,U.S. Representative,REP,William L. Jenkins,1.0,
+949,Tennessee,2,U.S. Representative,REP,Jimmy Duncan Jr.,0.79,
+950,Tennessee,2,U.S. Representative,IND,John Greene,0.19899999999999998,DEM
+951,Tennessee,2,U.S. Representative,IND,Joshua Williamson,0.006,
+952,Tennessee,2,U.S. Representative,IND,George Njezic,0.005,
+953,Tennessee,3,U.S. Representative,REP,Zach Wamp,0.645,
+954,Tennessee,3,U.S. Representative,IND,"John Wolfe, Jr.",0.33799999999999997,DEM
+955,Tennessee,3,U.S. Representative,IND,William Bolen,0.01,
+956,Tennessee,3,U.S. Representative,IND,Timothy Sevier,0.005,
+957,Tennessee,4,U.S. Representative,IND,Lincoln Davis,0.521,DEM
+958,Tennessee,4,U.S. Representative,REP,Janice Bowling,0.465,
+959,Tennessee,4,U.S. Representative,IND,William Chandler,0.006,
+960,Tennessee,4,U.S. Representative,IND,John Ray,0.003,
+961,Tennessee,4,U.S. Representative,IND,Bert Mason,0.003,
+962,Tennessee,4,U.S. Representative,IND,Ed Wellmann,0.002,
+963,Tennessee,5,U.S. Representative,IND,Jim Cooper,0.637,DEM
+964,Tennessee,5,U.S. Representative,REP,Robert Duvall,0.33299999999999996,
+965,Tennessee,5,U.S. Representative,IND,John Jay Hooker,0.018000000000000002,
+966,Tennessee,5,U.S. Representative,IND,Jonathan Farley,0.006999999999999999,
+967,Tennessee,5,U.S. Representative,IND,Jesse Turner,0.005,
+968,Tennessee,6,U.S. Representative,IND,Bart Gordon,0.659,DEM
+969,Tennessee,6,U.S. Representative,REP,Robert Garrison,0.32299999999999995,
+970,Tennessee,6,U.S. Representative,IND,Patrick Lyons,0.017,
+971,Tennessee,7,U.S. Representative,REP,Marsha Blackburn,0.7070000000000001,
+972,Tennessee,7,U.S. Representative,IND,Tim Barron,0.265,DEM
+973,Tennessee,7,U.S. Representative,IND,Rick Patterson,0.027999999999999997,
+974,Tennessee,8,U.S. Representative,IND,John Tanner,0.701,DEM
+975,Tennessee,8,U.S. Representative,REP,Mat McClain,0.273,
+976,Tennessee,8,U.S. Representative,IND,James L. Hart,0.026000000000000002,
+977,Tennessee,9,U.S. Representative,IND,Harold Ford Jr.,0.701,DEM
+978,Tennessee,9,U.S. Representative,IND,Tony Rush,0.161,
+979,Texas,1,U.S. Representative,IND,Max Sandlin,0.565,DEM
+980,Texas,1,U.S. Representative,REP,John Lawrence,0.436,
+981,Texas,2,U.S. Representative,IND, Jim Turner,0.609,DEM
+982,Texas,2,U.S. Representative,REP,Van Brookshire,0.382,
+983,Texas,2,U.S. Representative,LIB,Peter Beach,0.01,
+984,Texas,3,U.S. Representative,REP,Sam Johnson,0.74,
+985,Texas,3,U.S. Representative,IND,Manny Molera,0.243,DEM
+986,Texas,3,U.S. Representative,LIB,John E. Davis,0.017,
+987,Texas,4,U.S. Representative,IND,Ralph Hall,0.578,DEM
+988,Texas,4,U.S. Representative,REP,John Graves,0.40399999999999997,
+989,Texas,4,U.S. Representative,LIB,Barbara Robinson,0.018000000000000002,
+990,Texas,5,U.S. Representative,REP,Jeb Hensarling,0.5820000000000001,
+991,Texas,5,U.S. Representative,IND,Ron Chapman,0.40299999999999997,DEM
+992,Texas,5,U.S. Representative,LIB,Dan Michalski,0.009000000000000001,
+993,Texas,5,U.S. Representative,IND,Thomas Kemper,0.006,
+994,Texas,6,U.S. Representative,REP,Joe Barton,0.7040000000000001,
+995,Texas,6,U.S. Representative,IND,Felix Alvarado,0.27699999999999997,DEM
+996,Texas,6,U.S. Representative,LIB,Frank Brady,0.012,
+997,Texas,6,U.S. Representative,IND,B.J. Armstrong,0.008,
+998,Texas,7,U.S. Representative,REP,John Culberson,0.892,
+999,Texas,7,U.S. Representative,LIB,Drew Parks,0.10800000000000001,
+1000,Texas,8,U.S. Representative,REP,Kevin Brady,0.9309999999999999,
+1001,Texas,8,U.S. Representative,LIB,Gil Guillory,0.069,
+1002,Texas,9,U.S. Representative,IND,Nick Lampson,0.586,DEM
+1003,Texas,9,U.S. Representative,REP,Paul Williams,0.40299999999999997,
+1004,Texas,9,U.S. Representative,LIB,Dean Tucker,0.011000000000000001,
+1005,Texas,10,U.S. Representative,IND,Lloyd Doggett,0.8440000000000001,DEM
+1006,Texas,10,U.S. Representative,LIB,Michele Messina,0.156,
+1007,Texas,11,U.S. Representative,IND,Chet Edwards,0.516,DEM
+1008,Texas,11,U.S. Representative,REP,Ramsey Farley,0.47100000000000003,
+1009,Texas,11,U.S. Representative,LIB,Andrew Paul Farris,0.013000000000000001,
+1010,Texas,12,U.S. Representative,REP,Kay Granger,0.919,
+1011,Texas,12,U.S. Representative,IND,Edward A. Hanson,0.081,DEM
+1012,Texas,13,U.S. Representative,REP,Mac Thornberry,0.7929999999999999,
+1013,Texas,13,U.S. Representative,IND,Zane Reese,0.207,DEM
+1014,Texas,14,U.S. Representative,REP,Ron Paul,0.6809999999999999,
+1015,Texas,14,U.S. Representative,IND,Corby Windham,0.319,DEM
+1016,Texas,15,U.S. Representative,IND,Ruben Hinojosa,1.0,DEM
+1017,Texas,16,U.S. Representative,IND,Silvestre Reyes,1.0,DEM
+1018,Texas,17,U.S. Representative,IND,Charles Stenholm,0.514,DEM
+1019,Texas,17,U.S. Representative,REP,Rob Beckham,0.474,
+1020,Texas,17,U.S. Representative,LIB,Fred Jones,0.013000000000000001,
+1021,Texas,18,U.S. Representative,IND,Sheila Jackson Lee,0.769,DEM
+1022,Texas,18,U.S. Representative,REP,Phillip Abbott,0.217,
+1023,Texas,18,U.S. Representative,LIB,Brent Sullivan,0.013999999999999999,
+1024,Texas,19,U.S. Representative,REP,Larry Combest,0.9159999999999999,
+1025,Texas,19,U.S. Representative,LIB,Larry Johnson,0.084,
+1026,Texas,20,U.S. Representative,IND,Charlie Gonzalez,1.0,DEM
+1027,Texas,21,U.S. Representative,REP,Lamar S. Smith,0.7290000000000001,
+1028,Texas,21,U.S. Representative,IND,John Courage,0.253,DEM
+1029,Texas,21,U.S. Representative,LIB,D.G. Roberts,0.018000000000000002,
+1030,Texas,22,U.S. Representative,REP,Tom DeLay,0.632,
+1031,Texas,22,U.S. Representative,IND,Tim Riley,0.35,DEM
+1032,Texas,22,U.S. Representative,LIB,Jerry LaFleur,0.01,
+1033,Texas,22,U.S. Representative,IND,Joel West,0.008,
+1034,Texas,23,U.S. Representative,REP,Henry Bonilla,0.515,
+1035,Texas,23,U.S. Representative,IND,Henry Cuellar,0.47200000000000003,DEM
+1036,Texas,23,U.S. Representative,LIB,Jeffrey Blunt,0.006999999999999999,
+1037,Texas,23,U.S. Representative,IND,Ed Scharf,0.005,
+1038,Texas,24,U.S. Representative,IND,Martin Frost,0.647,DEM
+1039,Texas,24,U.S. Representative,REP,Mike Rivera Ortega,0.34,
+1040,Texas,24,U.S. Representative,LIB,Ken Ashby,0.013999999999999999,
+1041,Texas,25,U.S. Representative,IND,Chris Bell,0.5479999999999999,DEM
+1042,Texas,25,U.S. Representative,REP,Tom Reiser,0.431,
+1043,Texas,25,U.S. Representative,IND,George Reiter,0.012,
+1044,Texas,25,U.S. Representative,LIB,Guy McLendon,0.009000000000000001,
+1045,Texas,26,U.S. Representative,REP,Michael Burgess,0.748,
+1046,Texas,26,U.S. Representative,IND,Paul LeBon,0.228,DEM
+1047,Texas,26,U.S. Representative,LIB,David Croft,0.013999999999999999,
+1048,Texas,26,U.S. Representative,IND,Gary R. Page,0.01,
+1049,Texas,27,U.S. Representative,IND,Solomon Ortiz,0.611,DEM
+1050,Texas,27,U.S. Representative,REP,Pat Ahumada,0.365,
+1051,Texas,27,U.S. Representative,LIB,Christopher Claytor,0.024,
+1052,Texas,28,U.S. Representative,IND,Ciro Rodriguez,0.711,DEM
+1053,Texas,28,U.S. Representative,REP,Gabriel Perales,0.26899999999999996,
+1054,Texas,28,U.S. Representative,IND,William Stallknecht,0.021,
+1055,Texas,29,U.S. Representative,IND,Gene Green,0.9520000000000001,DEM
+1056,Texas,29,U.S. Representative,LIB,Joe Vu,0.048,
+1057,Texas,30,U.S. Representative,IND,Eddie Bernice Johnson,0.743,DEM
+1058,Texas,30,U.S. Representative,REP,Ron Bush,0.242,
+1059,Texas,30,U.S. Representative,LIB,Lance Flores,0.016,
+1060,Texas,31,U.S. Representative,REP,John Carter,0.691,
+1061,Texas,31,U.S. Representative,IND,David Bagley,0.27399999999999997,DEM
+1062,Texas,31,U.S. Representative,LIB,Clark Simmons,0.013000000000000001,
+1063,Texas,31,U.S. Representative,IND,John S. Petersen,0.012,
+1064,Texas,31,U.S. Representative,IND,R.C. Crawford,0.011000000000000001,
+1065,Texas,32,U.S. Representative,REP,Pete Sessions,0.6779999999999999,
+1066,Texas,32,U.S. Representative,IND,Pauline Dixon,0.304,DEM
+1067,Texas,32,U.S. Representative,LIB,Steve Martin,0.011000000000000001,
+1068,Texas,32,U.S. Representative,IND,Carla Hubbell,0.008,
+1069,Utah,1st,U.S. Representative,REP,Rob Bishop,0.607,
+1070,Utah,1st,U.S. Representative,IND,Dave Thomas,0.368,DEM
+1071,Utah,1st,U.S. Representative,IND,Craig Axford,0.022000000000000002,
+1072,Utah,2nd,U.S. Representative,IND,Jim Matheson,0.494,DEM
+1073,Utah,2nd,U.S. Representative,REP,John Swallow,0.48700000000000004,
+1074,Utah,2nd,U.S. Representative,IND,Patrick Diehl,0.012,
+1075,Utah,2nd,U.S. Representative,LIB,Ron Copier,0.006999999999999999,
+1076,Utah,3rd,U.S. Representative,REP,Chris Cannon,0.674,
+1077,Utah,3rd,U.S. Representative,IND,Matt Throckmorton,0.29,DEM
+1078,Utah,3rd,U.S. Representative,LIB,Kitty Burton,0.036000000000000004,
+1079,Vermont,At-Large,U.S. Representative,IND,Bernie Sanders,0.643,
+1080,Vermont,At-Large,U.S. Representative,REP,Bill Meub,0.32299999999999995,
+1081,Vermont,At-Large,U.S. Representative,IND,Jane Newton,0.013999999999999999,
+1082,Vermont,At-Large,U.S. Representative,IND,Fawn Skinner,0.01,
+1083,Vermont,At-Large,U.S. Representative,LIB,Daniel Krymkowski,0.009000000000000001,
+1084,Virginia,1,U.S. Representative,REP,Jo Ann Davis,1.0,
+1085,Virginia,2,U.S. Representative,REP,Ed Schrock,0.8320000000000001,
+1086,Virginia,2,U.S. Representative,IND,D.C. Amarasinghe,0.165,
+1087,Virginia,3,U.S. Representative,IND,Bobby Scott,1.0,DEM
+1088,Virginia,4,U.S. Representative,REP,Randy Forbes,1.0,
+1089,Virginia,5,U.S. Representative,REP,Virgil Goode,0.635,
+1090,Virginia,5,U.S. Representative,IND,Meredith Richards,0.365,DEM
+1091,Virginia,6,U.S. Representative,REP,Bob Goodlatte,1.0,
+1092,Virginia,7,U.S. Representative,REP,Eric Cantor,0.695,
+1093,Virginia,7,U.S. Representative,IND,Ben Jones,0.305,DEM
+1094,Virginia,8,U.S. Representative,IND,Jim Moran,0.598,DEM
+1095,Virginia,8,U.S. Representative,REP,Scott Tate,0.373,
+1096,Virginia,8,U.S. Representative,IND,Ronald Crickenberger,0.027000000000000003,
+1097,Virginia,9,U.S. Representative,IND,Rick Boucher,0.6579999999999999,DEM
+1098,Virginia,9,U.S. Representative,REP,Jay Katzen,0.342,
+1099,Virginia,10,U.S. Representative,REP,Frank Wolf,0.7170000000000001,
+1100,Virginia,10,U.S. Representative,IND,"John B. Stevens, Jr.",0.281,DEM
+1101,Virginia,11,U.S. Representative,REP,Tom Davis,0.8290000000000001,
+1102,Virginia,11,U.S. Representative,IND,Frank Creel,0.165,
+1103,Washington,1,U.S. Representative,IND,Jay Inslee,0.556,DEM
+1104,Washington,1,U.S. Representative,REP,Joe Marine,0.413,
+1105,Washington,1,U.S. Representative,LIB,Mark B. Wilson,0.031,
+1106,Washington,2,U.S. Representative,IND,Rick Larsen,0.508,DEM
+1107,Washington,2,U.S. Representative,REP,Norma Smith,0.45799999999999996,
+1108,Washington,2,U.S. Representative,LIB,Bruce Guthrie,0.021,
+1109,Washington,2,U.S. Representative,IND,Bern Haggerty,0.02,
+1110,Washington,3,U.S. Representative,IND,Brian Baird,0.617,DEM
+1111,Washington,3,U.S. Representative,REP,  Joseph Zarelli,0.38299999999999995,
+1112,Washington,4,U.S. Representative,REP,Doc Hastings,0.669,
+1113,Washington,4,U.S. Representative,IND,Craig Mason,0.331,DEM
+1114,Washington,5,U.S. Representative,REP,George Nethercutt,0.627,
+1115,Washington,5,U.S. Representative,IND,Bart Haggin,0.322,DEM
+1116,Washington,5,U.S. Representative,LIB,Rob Chase,0.051,
+1117,Washington,6,U.S. Representative,IND,Norm Dicks,0.642,DEM
+1118,Washington,6,U.S. Representative,REP,Bob Lawrence,0.314,
+1119,Washington,6,U.S. Representative,LIB,John A. Bennett,0.045,
+1120,Washington,7,U.S. Representative,IND,Jim McDermott,0.741,DEM
+1121,Washington,7,U.S. Representative,REP,Carol Thorne Cassady,0.21899999999999997,
+1122,Washington,7,U.S. Representative,LIB,Stan Lippmann,0.04,
+1123,Washington,8,U.S. Representative,REP,Jennifer Dunn,0.598,
+1124,Washington,8,U.S. Representative,IND,Heidi Behrens-Benedict,0.373,DEM
+1125,Washington,8,U.S. Representative,LIB,Mark Taff,0.027999999999999997,
+1126,Washington,9,U.S. Representative,IND,Adam Smith,0.585,DEM
+1127,Washington,9,U.S. Representative,REP,Sarah Casada,0.386,
+1128,Washington,9,U.S. Representative,LIB,J. Mills,0.028999999999999998,
+1129,West Virginia,1,U.S. Representative,IND,Alan Mollohan,1.0,DEM
+1130,West Virginia,2,U.S. Representative,REP,Shelley Moore Capito,0.6,
+1131,West Virginia,2,U.S. Representative,IND,Jim Humphreys,0.4,DEM
+1132,West Virginia,3,U.S. Representative,IND,Nick Rahall,0.7020000000000001,DEM
+1133,West Virginia,3,U.S. Representative,REP,Paul Chapman,0.298,
+1134,Wisconsin,1,U.S. Representative,REP,Paul Ryan,0.672,
+1135,Wisconsin,1,U.S. Representative,IND,Jeffrey C. Thomas,0.306,DEM
+1136,Wisconsin,1,U.S. Representative,LIB,George Meyers,0.021,
+1137,Wisconsin,2,U.S. Representative,IND,Tammy Baldwin,0.66,DEM
+1138,Wisconsin,2,U.S. Representative,REP,Ron Greer,0.33799999999999997,
+1139,Wisconsin,3,U.S. Representative,IND,Ron Kind,0.628,DEM
+1140,Wisconsin,3,U.S. Representative,REP,Bill Arndt,0.335,
+1141,Wisconsin,3,U.S. Representative,LIB,George Meyers,0.032,
+1142,Wisconsin,4,U.S. Representative,IND,Jerry Kleczka,0.863,DEM
+1143,Wisconsin,4,U.S. Representative,IND,Brian Verdin,0.13,
+1144,Wisconsin,5,U.S. Representative,REP,James Sensenbrenner,0.861,
+1145,Wisconsin,5,U.S. Representative,IND,Robert R. Raymond,0.133,
+1146,Wisconsin,6,U.S. Representative,REP,Tom Petri,1.0,
+1147,Wisconsin,7,U.S. Representative,IND,Dave Obey,0.642,DEM
+1148,Wisconsin,7,U.S. Representative,REP,Joe Rothbauer,0.358,
+1149,Wisconsin,8,U.S. Representative,REP,Mark Green,0.726,
+1150,Wisconsin,8,U.S. Representative,IND,Andrew Becker,0.239,DEM
+1151,Wisconsin,8,U.S. Representative,IND,Dick Kaiser,0.035,
+1152,Wyoming,At-Large,U.S. Representative,REP,Barbara Cubin,0.605,
+1153,Wyoming,At-Large,U.S. Representative,IND,Ron Akin,0.36200000000000004,DEM
+1154,Wyoming,At-Large,U.S. Representative,LIB,Lewis Stock,0.033,
