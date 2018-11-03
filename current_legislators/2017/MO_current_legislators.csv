@@ -1,7 +1,7 @@
 ,State,Position,District,Candidate,Party,Year Elected,Next Election,Number of Terms in Position,Unopposed in Last Election,DEM Unopposed in Primary,REP Unopposed in Primary
 0,Missouri,Attorney General,0,Josh David Hawley,REP,2016,2020,0,No,Yes,Yes
 1,Missouri,Governor,0,Eric Greitens,REP,2016,2020,0,No,Yes,Yes
-2,Missouri,Lieutenant Governor,nan,Mike Parson,REP,2016,2020,0,No,Yes,Yes
+2,Missouri,Lieutenant Governor,0,Mike Parson,REP,2016,2020,0,No,Yes,Yes
 3,Missouri,Secretary Of State,0,Jay Ashcroft,REP,2016,2020,0,No,Yes,Yes
 4,Missouri,State Representative,1,Allen Andrews,REP,2016,2018,2,Yes,Yes,Yes
 5,Missouri,State Representative,1,Allen Andrews,REP,2014,2016,1,No,Yes,Yes
@@ -507,68 +507,68 @@
 505,Missouri,State Senator,8,Will Kraus,REP,2014,2018,2,Yes,Yes,No
 506,Missouri,State Senator,9,Kiki Curls,DEM,2016,2020,2,Yes,Yes,Yes
 507,Missouri,State Senator,9,Kiki Curls,DEM,2012,2016,1,Yes,Yes,Yes
-572,Missouri,State Senator,9,Shalonn Curls,DEM,2011,2012,1,No,Yes,Yes
-508,Missouri,State Senator,10,Jeanie Riddle,REP,2014,2018,1,No,Yes,Yes
-509,Missouri,State Senator,11,Joseph J) Rizzo,DEM,2016,2020,1,No,Yes,Yes
-510,Missouri,State Senator,11,Paul Levota,DEM,2012,2016,1,Yes,Yes,Yes
-511,Missouri,State Senator,12,Daniel Hegeman,REP,2014,2018,1,Yes,Yes,Yes
-512,Missouri,State Senator,13,Gina Walsh,DEM,2016,2020,2,Yes,Yes,Yes
-513,Missouri,State Senator,13,Gina Walsh,DEM,2012,2016,1,No,Yes,Yes
-514,Missouri,State Senator,14,Maria Chappelle-Nadal,DEM,2014,2018,2,Yes,No,Yes
-515,Missouri,State Senator,15,Andrew Koenig,REP,2016,2020,1,No,Yes,Yes
-516,Missouri,State Senator,15,Eric Schmitt,REP,2012,2016,2,Yes,Yes,Yes
-517,Missouri,State Senator,16,Dan Brown,REP,2014,2018,2,Yes,Yes,No
-518,Missouri,State Senator,17,Ryan Silvey,REP,2016,2020,2,No,Yes,Yes
-519,Missouri,State Senator,17,Ryan Silvey,REP,2012,2016,1,No,Yes,Yes
-520,Missouri,State Senator,18,Brian Munzlinger,REP,2014,2018,2,Yes,Yes,No
-521,Missouri,State Senator,19,Caleb Rowden,REP,2016,2020,1,No,Yes,Yes
-522,Missouri,State Senator,19,Kurt Schaefer,REP,2012,2016,2,No,Yes,Yes
-523,Missouri,State Senator,20,Jay Wasson,REP,2014,2018,2,Yes,Yes,Yes
-524,Missouri,State Senator,21,Denny Hoskins,REP,2016,2020,1,No,Yes,Yes
-525,Missouri,State Senator,21,David Pearce,REP,2012,2016,1,No,Yes,Yes
-526,Missouri,State Senator,22,Paul Wieland,REP,2014,2018,1,No,No,Yes
-527,Missouri,State Senator,23,Bill Eigel,REP,2016,2020,1,No,Yes,Yes
-528,Missouri,State Senator,23,Thomas Dempsey,REP,2012,2016,2,Yes,Yes,Yes
-529,Missouri,State Senator,24,Jill Seltzer Schupp,DEM,2014,2018,1,No,Yes,Yes
-530,Missouri,State Senator,25,Doug Libla,REP,2016,2020,2,No,Yes,Yes
-531,Missouri,State Senator,25,Doug Libla,REP,2012,2016,1,No,Yes,Yes
-532,Missouri,State Senator,26,Dave Schatz,REP,2014,2018,1,No,Yes,Yes
-533,Missouri,State Senator,27,Wayne Wallingford Jr.,REP,2016,2020,2,No,Yes,Yes
-534,Missouri,State Senator,27,Wayne Wallingford Jr.,REP,2012,2016,1,Yes,Yes,Yes
-535,Missouri,State Senator,28,Mike Parson,REP,2014,2018,2,Yes,Yes,Yes
-536,Missouri,State Senator,29,David Sater,REP,2016,2020,2,Yes,Yes,Yes
-537,Missouri,State Senator,29,David Sater,REP,2012,2016,1,Yes,Yes,Yes
-538,Missouri,State Senator,30,Bob Dixon,REP,2014,2018,2,Yes,Yes,Yes
-539,Missouri,State Senator,31,Ed Emery,REP,2016,2020,2,No,Yes,Yes
-540,Missouri,State Senator,31,Ed Emery,REP,2012,2016,1,No,Yes,Yes
-541,Missouri,State Senator,32,Ron Richard,REP,2014,2018,2,Yes,Yes,No
-542,Missouri,State Senator,33,Mike Cunningham,REP,2016,2020,2,Yes,Yes,Yes
-543,Missouri,State Senator,33,Mike Cunningham,REP,2012,2016,1,Yes,Yes,Yes
-544,Missouri,State Senator,34,Rob Schaaf,REP,2014,2018,2,No,Yes,No
-545,Missouri,U.S. Representative,1,William Lacy Clay Jr.,DEM,2016,2018,4,No,No,No
-546,Missouri,U.S. Representative,1,William Lacy Clay Jr.,DEM,2014,2016,3,No,No,No
-547,Missouri,U.S. Representative,1,William Lacy Clay Jr.,DEM,2012,2014,2,No,No,No
-548,Missouri,U.S. Representative,2,Ann Wagner,REP,2016,2018,3,No,No,No
-549,Missouri,U.S. Representative,2,Ann Wagner,REP,2014,2016,2,No,No,No
-550,Missouri,U.S. Representative,2,Ann Wagner,REP,2012,2014,1,No,No,No
-551,Missouri,U.S. Representative,3,Blaine Luetkemeyer,REP,2016,2018,3,No,Yes,No
-552,Missouri,U.S. Representative,3,Blaine Luetkemeyer,REP,2014,2016,2,No,Yes,No
-553,Missouri,U.S. Representative,3,Blaine Luetkemeyer,REP,2012,2014,1,No,Yes,No
-554,Missouri,U.S. Representative,4,Vicki Hartzler,REP,2016,2018,4,No,No,No
-555,Missouri,U.S. Representative,4,Vicki Hartzler,REP,2014,2016,3,No,No,No
-556,Missouri,U.S. Representative,4,Vicki Hartzler,REP,2012,2014,2,No,No,No
-557,Missouri,U.S. Representative,5,Emanuel Cleaver II,DEM,2016,2018,4,No,Yes,No
-558,Missouri,U.S. Representative,5,Emanuel Cleaver II,DEM,2014,2016,3,No,Yes,No
-559,Missouri,U.S. Representative,5,Emanuel Cleaver II,DEM,2012,2014,2,No,Yes,No
-560,Missouri,U.S. Representative,6,Sam Graves Jr.,REP,2016,2018,4,No,No,Yes
-561,Missouri,U.S. Representative,6,Sam Graves Jr.,REP,2014,2016,3,No,No,Yes
-562,Missouri,U.S. Representative,6,Sam Graves Jr.,REP,2012,2014,2,No,No,Yes
-563,Missouri,U.S. Representative,7,Billy Long,REP,2016,2018,4,No,No,No
-564,Missouri,U.S. Representative,7,Billy Long,REP,2014,2016,3,No,No,No
-565,Missouri,U.S. Representative,7,Billy Long,REP,2012,2014,2,No,No,No
-566,Missouri,U.S. Representative,8,Jason Smith,REP,2016,2018,2,No,Yes,Yes
-567,Missouri,U.S. Representative,8,Jason Smith,REP,2014,2016,1,No,Yes,Yes
-568,Missouri,U.S. Representative,8,Jason T. Smith,REP,2013,2014,1,No,Yes,Yes
-569,Missouri,U.S. Representative,8,Jo Ann Emerson,REP,2012,2014,2,No,Yes,Yes
-570,Missouri,U.S. Senator,0,Roy Blunt,REP,2016,2022,0,No,No,No
-571,Missouri,U.S. Senator,0,Claire McCaskill,DEM,2012,2018,0,No,No,No
+508,Missouri,State Senator,9,Shalonn Curls,DEM,2011,2012,1,No,Yes,Yes
+509,Missouri,State Senator,10,Jeanie Riddle,REP,2014,2018,1,No,Yes,Yes
+510,Missouri,State Senator,11,Joseph J) Rizzo,DEM,2016,2020,1,No,Yes,Yes
+511,Missouri,State Senator,11,Paul Levota,DEM,2012,2016,1,Yes,Yes,Yes
+512,Missouri,State Senator,12,Daniel Hegeman,REP,2014,2018,1,Yes,Yes,Yes
+513,Missouri,State Senator,13,Gina Walsh,DEM,2016,2020,2,Yes,Yes,Yes
+514,Missouri,State Senator,13,Gina Walsh,DEM,2012,2016,1,No,Yes,Yes
+515,Missouri,State Senator,14,Maria Chappelle-Nadal,DEM,2014,2018,2,Yes,No,Yes
+516,Missouri,State Senator,15,Andrew Koenig,REP,2016,2020,1,No,Yes,Yes
+517,Missouri,State Senator,15,Eric Schmitt,REP,2012,2016,2,Yes,Yes,Yes
+518,Missouri,State Senator,16,Dan Brown,REP,2014,2018,2,Yes,Yes,No
+519,Missouri,State Senator,17,Ryan Silvey,REP,2016,2020,2,No,Yes,Yes
+520,Missouri,State Senator,17,Ryan Silvey,REP,2012,2016,1,No,Yes,Yes
+521,Missouri,State Senator,18,Brian Munzlinger,REP,2014,2018,2,Yes,Yes,No
+522,Missouri,State Senator,19,Caleb Rowden,REP,2016,2020,1,No,Yes,Yes
+523,Missouri,State Senator,19,Kurt Schaefer,REP,2012,2016,2,No,Yes,Yes
+524,Missouri,State Senator,20,Jay Wasson,REP,2014,2018,2,Yes,Yes,Yes
+525,Missouri,State Senator,21,Denny Hoskins,REP,2016,2020,1,No,Yes,Yes
+526,Missouri,State Senator,21,David Pearce,REP,2012,2016,1,No,Yes,Yes
+527,Missouri,State Senator,22,Paul Wieland,REP,2014,2018,1,No,No,Yes
+528,Missouri,State Senator,23,Bill Eigel,REP,2016,2020,1,No,Yes,Yes
+529,Missouri,State Senator,23,Thomas Dempsey,REP,2012,2016,2,Yes,Yes,Yes
+530,Missouri,State Senator,24,Jill Seltzer Schupp,DEM,2014,2018,1,No,Yes,Yes
+531,Missouri,State Senator,25,Doug Libla,REP,2016,2020,2,No,Yes,Yes
+532,Missouri,State Senator,25,Doug Libla,REP,2012,2016,1,No,Yes,Yes
+533,Missouri,State Senator,26,Dave Schatz,REP,2014,2018,1,No,Yes,Yes
+534,Missouri,State Senator,27,Wayne Wallingford Jr.,REP,2016,2020,2,No,Yes,Yes
+535,Missouri,State Senator,27,Wayne Wallingford Jr.,REP,2012,2016,1,Yes,Yes,Yes
+536,Missouri,State Senator,28,Mike Parson,REP,2014,2018,2,Yes,Yes,Yes
+537,Missouri,State Senator,29,David Sater,REP,2016,2020,2,Yes,Yes,Yes
+538,Missouri,State Senator,29,David Sater,REP,2012,2016,1,Yes,Yes,Yes
+539,Missouri,State Senator,30,Bob Dixon,REP,2014,2018,2,Yes,Yes,Yes
+540,Missouri,State Senator,31,Ed Emery,REP,2016,2020,2,No,Yes,Yes
+541,Missouri,State Senator,31,Ed Emery,REP,2012,2016,1,No,Yes,Yes
+542,Missouri,State Senator,32,Ron Richard,REP,2014,2018,2,Yes,Yes,No
+543,Missouri,State Senator,33,Mike Cunningham,REP,2016,2020,2,Yes,Yes,Yes
+544,Missouri,State Senator,33,Mike Cunningham,REP,2012,2016,1,Yes,Yes,Yes
+545,Missouri,State Senator,34,Rob Schaaf,REP,2014,2018,2,No,Yes,No
+546,Missouri,U.S. Representative,1,William Lacy Clay Jr.,DEM,2016,2018,4,No,No,No
+547,Missouri,U.S. Representative,1,William Lacy Clay Jr.,DEM,2014,2016,3,No,No,No
+548,Missouri,U.S. Representative,1,William Lacy Clay Jr.,DEM,2012,2014,2,No,No,No
+549,Missouri,U.S. Representative,2,Ann Wagner,REP,2016,2018,3,No,No,No
+550,Missouri,U.S. Representative,2,Ann Wagner,REP,2014,2016,2,No,No,No
+551,Missouri,U.S. Representative,2,Ann Wagner,REP,2012,2014,1,No,No,No
+552,Missouri,U.S. Representative,3,Blaine Luetkemeyer,REP,2016,2018,3,No,Yes,No
+553,Missouri,U.S. Representative,3,Blaine Luetkemeyer,REP,2014,2016,2,No,Yes,No
+554,Missouri,U.S. Representative,3,Blaine Luetkemeyer,REP,2012,2014,1,No,Yes,No
+555,Missouri,U.S. Representative,4,Vicki Hartzler,REP,2016,2018,4,No,No,No
+556,Missouri,U.S. Representative,4,Vicki Hartzler,REP,2014,2016,3,No,No,No
+557,Missouri,U.S. Representative,4,Vicki Hartzler,REP,2012,2014,2,No,No,No
+558,Missouri,U.S. Representative,5,Emanuel Cleaver II,DEM,2016,2018,4,No,Yes,No
+559,Missouri,U.S. Representative,5,Emanuel Cleaver II,DEM,2014,2016,3,No,Yes,No
+560,Missouri,U.S. Representative,5,Emanuel Cleaver II,DEM,2012,2014,2,No,Yes,No
+561,Missouri,U.S. Representative,6,Sam Graves Jr.,REP,2016,2018,4,No,No,Yes
+562,Missouri,U.S. Representative,6,Sam Graves Jr.,REP,2014,2016,3,No,No,Yes
+563,Missouri,U.S. Representative,6,Sam Graves Jr.,REP,2012,2014,2,No,No,Yes
+564,Missouri,U.S. Representative,7,Billy Long,REP,2016,2018,4,No,No,No
+565,Missouri,U.S. Representative,7,Billy Long,REP,2014,2016,3,No,No,No
+566,Missouri,U.S. Representative,7,Billy Long,REP,2012,2014,2,No,No,No
+567,Missouri,U.S. Representative,8,Jason Smith,REP,2016,2018,2,No,Yes,Yes
+568,Missouri,U.S. Representative,8,Jason Smith,REP,2014,2016,1,No,Yes,Yes
+569,Missouri,U.S. Representative,8,Jason T. Smith,REP,2013,2014,1,No,Yes,Yes
+570,Missouri,U.S. Representative,8,Jo Ann Emerson,REP,2012,2014,2,No,Yes,Yes
+571,Missouri,U.S. Senator,0,Roy Blunt,REP,2016,2022,0,No,No,No
+572,Missouri,U.S. Senator,0,Claire McCaskill,DEM,2012,2018,0,No,No,No
