@@ -869,6 +869,9 @@ input:focus {
     background-color: rgb(233, 233, 233)
 }
 
+#live-blog {
+    margin-left: 25%;
+}
 
 
 .footer {
