@@ -10,11 +10,11 @@ url06 = "https://en.wikipedia.org/wiki/United_States_House_of_Representatives_el
 url04 = "https://en.wikipedia.org/wiki/United_States_House_of_Representatives_elections,_2004"
 url02 = "https://en.wikipedia.org/wiki/United_States_House_of_Representatives_elections,_2002"
 
-fileName = "house_results_2002.csv"
+fileName = "house_results_2012.csv"
 
-get = requests.get(url02)
+get = requests.get(url12)
 response = get.text
-print("opened the url " + url02)
+print("opened the url " + url12)
 
 csvRows = [["State", "District", "Position", "Party", "Candidate", "Vote Share"]]
 
@@ -95,7 +95,7 @@ for table in tables:
                     continue
 
                 if k == 0:
-                    candidateName = cand[0:parenStart - 1] #change the start to a 0 in 2014 and 2004 to acount for not having the check mark/square root sign
+                    candidateName = cand[2:parenStart - 1] #change the start to a 0 in 2014 and 2004 to acount for not having the check mark/square root sign
                     candidatePercent = cand[parenEnd + 2:]
                 else:
                     candidateName = cand[0: parenStart - 1]
