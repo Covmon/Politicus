@@ -774,13 +774,12 @@ function createSquareChart(type) {
     squaresSection.append(squaresDiv);
     let squares = $(".squares");
 
-    /*
     seatsP = "<p class='big-p' id='most-likely-change'>Most likely outcome</p>";
     titleElement.after(seatsP);
 
     seatsH = "<h2 class='big-h2'><span class='blue'>" + seatsDem + "</span> - <span class='red'>" + seatsRep + "</span></h2>";
     titleElement.after(seatsH);
-    */
+    
     let total = currentAllMatchups.length + currentDistrictsNoElection.length;
     var rows = 1;
 
