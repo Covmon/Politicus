@@ -874,11 +874,27 @@ input:focus {
     margin-left: 25%;
 }
 
-#live-blog-frame {
-    width: 50%;
+#live-blog > div {
+    width: 50% !important;
 }
 
-.live-blog-frame {
+#live-blog {
+    font-family: "Roboto" !important;
+}
+
+#live-blog p {
+    font-family: "PT Serif" !important;
+}
+
+.lb24-base-news-title-text {
+    font-family: "Montserrat" !important;
+}
+
+.lb24-base-news-date, .lb24-base-news-editor-name {
+    font-family: "Roboto Mono" !important;
+}
+
+#live-blog-frame {
     width: 50%;
 }
 
