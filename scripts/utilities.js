@@ -804,10 +804,10 @@ function createSquareChart(type) {
     
     let total = totalSeats;
     var rows = 1;
-
-    if (total >= 435) {
-        rows = 15;
-    } if (total >= 200) {
+    console.log(total);
+    if (total >= 300) {
+        rows = 12;
+    } else if (total >= 200) {
         if (total % 6 == 0) {
             rows = 6;
         } else if (total % 8 == 0) {

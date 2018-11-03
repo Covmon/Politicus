@@ -878,6 +878,10 @@ input:focus {
     width: 50%;
 }
 
+.live-blog-frame {
+    width: 50%;
+}
+
 .footer {
     margin-top: 100px;
     height: 75px;
@@ -1107,6 +1111,10 @@ input:focus {
     }
 
     #live-blog-frame {
+        width: 90% !important;
+    }
+
+    .live-blog-frame {
         width: 90% !important;
     }
 
