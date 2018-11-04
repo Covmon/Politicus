@@ -6,8 +6,10 @@ $(document).ready(function() {
     
     alreadyAdded = getElections(["State Representative", "State Senator", "Statewide", "U.S. Representative", "U.S. Senator"], 6, false, alreadyAdded);
     
-    let title = "<h2>Tightest State Legislatures</h2>"
+    let title = "<h2>Tightest Midterm Races</h2>"
     $(".tight-elections").append(title);
+
+    setupNationalElections();
     
     setupTopElections(3, ["State Representative", "State Senator"]);
 

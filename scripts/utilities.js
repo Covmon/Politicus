@@ -143,8 +143,15 @@ function getJSONAllOverall(bodies) {
     $.ajaxSetup({
         async: false
     });
-    for (state of availableStates) {
+
+    var statesToIterate = availableStates;
+    statesToIterate.push("US");
+
+    for (state of statesToIterate) {
         for (body of bodies) {
+            if (state == "US" && body == "Senate") {
+                continue;
+            }
             let url = "/predictions_data/" + state + "_" + body + "_Election_Predictions.json"; 
 
             var success = false;
@@ -433,9 +440,100 @@ function getTopElections(topRaces, matchup, numRaces, alreadyAdded = []) {
     }
 }
 
+function setupNationalElections() {
+    var nationalBodies = []
+
+    for (body of allOverallData) {
+        if (body.length != 0 && body[0]["State"] == "National" && body[0]["Position"] == "U.S. Representative") {
+            nationalBodies.push(body);
+        } else if (body.length != 0 && body[0]["State"] == "National" && body[0]["Position"] == "U.S. Senator") {
+            nationalBodies.push(body);
+        }
+    }
+
+    for (var j=0;j<nationalBodies.length;j++) {
+
+        let html = "<a class='election-link national-link-" + (j + 1) + "' href=''><div class='prediction-card election-card purple national-election-" + (j + 1) + "'><h1></h1><h3><span class='blue'></span> - <span class='red'></span></h3><p class='no-margin'>Most likely seats</p><p class='gray'>Click for more details</p></div></a>";
+        $(".tight-elections").append(html);
+
+        let body = nationalBodies[j];
+        console.log(body);
+
+        var rep = {};
+        var dem = {};
+
+        for (party of body) {
+            if (party.Party == "REP") {
+                rep = party;
+            } else if (party.Party == "DEM") {
+                dem = party;
+            }
+        }
+        
+        console.log(rep);
+        console.log(dem);
+
+        let demSeats = Math.round(dem["Predicted Seats"]);
+        let repSeats = Math.round(rep["Predicted Seats"]);
+
+        console.log(demSeats);
+        console.log(repSeats);
+
+        let className = ".national-election-" + (j + 1);
+        let classNameLink = ".national-link-" + (j + 1);
+        let titleEle = $(className + " h1");
+        let seatsEle = $(className + " h3");
+        let linkEle = $(classNameLink);
+
+        let href = "";
+        
+        let difference = Number.parseFloat(dem["Predicted Majority Win Probability"]) - Number.parseFloat(rep["Predicted Majority Win Probability"]);
+        
+        if (difference > 0.95) {
+            $(className).removeClass("purple");
+            $(className).addClass("solid-blue");
+        } else if (difference > 0.7) {
+            $(className).removeClass("purple");
+            $(className).addClass("likely-blue");
+        } else if (difference > 0.4) {
+            $(className).removeClass("purple");
+            $(className).addClass("lean-blue");
+        } else if (difference < -0.95) {
+            $(className).removeClass("purple");
+            $(className).addClass("solid-red");
+        } else if (difference < -0.7) {
+            $(className).removeClass("purple");
+            $(className).addClass("likely-red");
+        } else if (difference < -0.4) {
+            $(className).removeClass("purple");
+            $(className).addClass("lean-red");
+        }
+
+        var title = "";
+        console.log(body[0].Position);
+        switch(body[0].Position) {
+            case "U.S. Senator":
+                title = "U.S. Senate";
+                href = "predictions_senate.html";
+                break;
+            case "U.S. Representative":
+                title = "U.S. House";
+                href = "predictions_house.html";
+                break;
+        }
+        titleEle.text(title);
+        linkEle.attr("href", href);
+
+        let seatsHTML = "<span class='blue'>" + demSeats + "</span> - <span class='red'>" + repSeats + "<span>";
+        seatsEle.html(seatsHTML);
+
+    }
+
+
+}
+
 function setupTopElections(numElections, types) {
     var topBodies = [];
-
 
     for (body of allOverallData) {
 
@@ -500,14 +598,12 @@ function setupTopElections(numElections, types) {
 
         }
     }
-    console.log(topBodies);
     for (var j=0;j<topBodies.length;j++) {
 
         let html = "<a class='election-link election-link-" + (j + 1) + "' href=''><div class='prediction-card election-card purple tight-election-" + (j + 1) + "'><h1></h1><h3><span class='blue'></span> - <span class='red'></span></h3><p class='no-margin'>Most likely seats</p><p class='gray'>Click for more details</p></div></a>";
         $(".tight-elections").append(html);
 
         let body = topBodies[j];
-        console.log(body);
 
         var rep = {};
         var dem = {};
@@ -519,10 +615,6 @@ function setupTopElections(numElections, types) {
                 dem = party;
             }
         }
-        
-        //<span class='blue'></span> - <span class='red'></span>
-        console.log(rep);
-        console.log(dem);
 
         let demSeats = Math.round(dem["Predicted Seats"]);
         let repSeats = Math.round(rep["Predicted Seats"]);

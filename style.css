@@ -871,10 +871,10 @@ input:focus {
 
 #live-blog {
     width: 100vw !important;
-    margin-left: 25%;
 }
 
 #live-blog > div {
+    margin-left: 25% !important;
     width: 50% !important;
 }
 
@@ -1122,15 +1122,12 @@ input:focus {
         margin-top: -10px !important;
     }
 
-    #live-blog {
-        margin-left: 5%;
-    }
-
-    #live-blog-frame {
+    #live-blog > div {
+        margin-left: 5% !important;
         width: 90% !important;
     }
 
-    .live-blog-frame {
+    #live-blog-frame {
         width: 90% !important;
     }
 
