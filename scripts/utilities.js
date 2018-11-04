@@ -1,7 +1,7 @@
 var data = {};
 var currentOverallData = {};
 var allOverallData = [];
-let availableStates = ["CO", "IA", "MO", "NY", "SC", "TN", "KS", "GA", "UT", "MI", "ID", "MN", "MA"];
+let availableStates = ["CO", "GA","IA", "ID", "KS", "MA", "MI", "MN", "MO", "NY", "SC", "TN", "UT"];
 //missing from house states:  WY
 let availableStatesNoStateLegislatures = ["AL", "AK", "AR", "AZ", "CA", "CT", "DE", "FL", "HI", "IL", "IN", "KY", "LA", "MD", "ME", "MS", "MT", "NC", "ND", "NE", "NH", "NJ", "NM", "NV", "OH", "OK", "OR", "PA", "RI", "SD", "TX", "VA", "VT", "WA", "WI", "WV", "WY"];
 var currentStates = availableStates;
@@ -59,14 +59,16 @@ $(document).ready(function() {
     } else {
         getJSONCandidates(allStatesNeededInJSON, true);
     }
-
+   
     if (state != "All" && !(currentURL.includes("index.html") || currentURL == "https://50fifty.us/")) {
         currentStates = [state];
     } else {
         $("#reset-link").css({"color": "gray"})
     }
 
-    if ((!(currentURL.includes("predictions_state_senates") && currentURL.includes("predictions_state_houses"))) && state == "All") {
+    if ((!(currentURL.includes("predictions_state_senates") || currentURL.includes("predictions_state_houses"))) && state == "All") {
+        currentStates = allStatesNeededInJSON;
+    } else if (currentURL.includes("index.html") || currentURL == "https://50fifty.us/") {
         currentStates = allStatesNeededInJSON;
     }
 
@@ -85,8 +87,6 @@ $(document).ready(function() {
         }
     } else if (currentURL.includes("index") || currentURL == "https://50fifty.us/" || currentURL.includes("predictions_state_senates") || currentURL.includes("predictions_state_houses")) {
         getJSONAllOverall(["House", "Senate"]);
-        console.log("get all overall data because we're on index");
-        console.log(allOverallData);
     }
 
     isTouchDevice = is_touch_device();
@@ -145,6 +145,11 @@ function getJSONAllOverall(bodies) {
     });
 
     var statesToIterate = availableStates;
+    var statesToIterate = [];
+
+    for (var i=0;i<availableStates.length;i++) {
+        statesToIterate.push(availableStates[i]);
+    }
     statesToIterate.push("US");
 
     for (state of statesToIterate) {
@@ -314,6 +319,8 @@ function getElections(positions, numTopElections, createTable, alreadyAdded = []
     var lastRace = [];
 
     var allData = [];
+    console.log("current states:");
+    console.log(currentStates);
     for (state of currentStates) {
         allData = allData.concat(data[state]);
     }
@@ -470,14 +477,8 @@ function setupNationalElections() {
             }
         }
         
-        console.log(rep);
-        console.log(dem);
-
         let demSeats = Math.round(dem["Predicted Seats"]);
         let repSeats = Math.round(rep["Predicted Seats"]);
-
-        console.log(demSeats);
-        console.log(repSeats);
 
         let className = ".national-election-" + (j + 1);
         let classNameLink = ".national-link-" + (j + 1);
