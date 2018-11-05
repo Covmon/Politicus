@@ -1,24 +1,24 @@
 ,State,Position,District,Candidate,Party,Year Elected,Next Election,Number of Terms in Position,Unopposed in Last Election,DEM Unopposed in Primary,REP Unopposed in Primary
-0,Iowa,Attorney General,0,Tom Miller,DEM,2014,2018,0,No,Yes,Yes
-1,Iowa,Governor,0,Terry Branstad,REP,2014,2018,0,No,No,No
-2,Iowa,Secretary Of State,0,Paul Pate,REP,2014,2018,0,No,No,Yes
+0,Iowa,Attorney General,0,Tom Miller,DEM,2014,2018,4,No,Yes,Yes
+1,Iowa,Governor,0,Terry Branstad,REP,2014,2018,2,No,No,No
+2,Iowa,Secretary Of State,0,Paul Pate,REP,2014,2018,1,No,No,Yes
 3,Iowa,State Representative,1,John Wills,REP,2016,2018,2,Yes,Yes,Yes
 4,Iowa,State Representative,2,Megan Lee Hess Jones,REP,2016,2018,3,Yes,Yes,Yes
-5,Iowa,State Representative,3,Dan Huseman,REP,2016,2018,3,No,Yes,Yes
+5,Iowa,State Representative,3,Daniel Huseman,REP,2016,2018,3,No,Yes,Yes
 6,Iowa,State Representative,4,Skyler Wheeler,REP,2016,2018,1,No,Yes,Yes
 7,Iowa,State Representative,5,Chuck Holz,REP,2016,2018,2,No,Yes,No
-8,Iowa,State Representative,6,Jim Carlin,REP,2016,2018,1,No,No,No
+8,Iowa,State Representative,6,James Carlin,REP,2016,2018,1,No,No,No
 9,Iowa,State Representative,7,Tedd Gassman,REP,2016,2018,3,No,Yes,Yes
 10,Iowa,State Representative,8,Terry Baxter,REP,2016,2018,2,No,Yes,Yes
 11,Iowa,State Representative,9,Helen Miller,DEM,2016,2018,3,No,Yes,No
-12,Iowa,State Representative,10,Mike Sexton,REP,2016,2018,2,Yes,Yes,No
-13,Iowa,State Representative,11,Gary Worthan,REP,2016,2018,3,No,Yes,Yes
+12,Iowa,State Representative,10,Michael Sexton,REP,2016,2018,2,Yes,Yes,No
+13,Iowa,State Representative,11,Sean McGary,REP,2016,2018,3,No,Yes,Yes
 14,Iowa,State Representative,12,Brian Best,REP,2016,2018,2,No,Yes,Yes
 15,Iowa,State Representative,13,Chris Hall,DEM,2016,2018,3,No,Yes,Yes
-16,Iowa,State Representative,14,Tim Kacena,DEM,2016,2018,1,No,Yes,Yes
-17,Iowa,State Representative,15,Charlie McConkey Jr.,DEM,2016,2018,2,No,Yes,No
+16,Iowa,State Representative,14,Timothy Kacena,DEM,2016,2018,1,No,Yes,Yes
+17,Iowa,State Representative,15,Charles McConkey Jr.,DEM,2016,2018,2,No,Yes,No
 18,Iowa,State Representative,16,Mary Ann Hanusa,REP,2016,2018,3,No,Yes,Yes
-19,Iowa,State Representative,17,Matt Windschitl,REP,2016,2018,3,No,Yes,Yes
+19,Iowa,State Representative,17,Matthew Windschitl,REP,2016,2018,3,No,Yes,Yes
 20,Iowa,State Representative,18,Steven Holt,REP,2016,2018,2,Yes,Yes,Yes
 21,Iowa,State Representative,19,Ralph Watts,REP,2016,2018,3,No,Yes,Yes
 22,Iowa,State Representative,20,Clel Baudler,REP,2016,2018,3,No,Yes,No
@@ -26,12 +26,12 @@
 24,Iowa,State Representative,22,Greg Forristall,REP,2016,2018,3,Yes,Yes,Yes
 25,Iowa,State Representative,23,David Sieck,REP,2016,2018,2,No,Yes,No
 26,Iowa,State Representative,24,Cecil Dolecheck,REP,2016,2018,3,Yes,Yes,Yes
-27,Iowa,State Representative,25,Stan Gustafson,REP,2016,2018,2,No,Yes,Yes
+27,Iowa,State Representative,25,Stanley Gustafson,REP,2016,2018,2,No,Yes,Yes
 28,Iowa,State Representative,26,Scott Ourth,DEM,2016,2018,3,No,Yes,No
 29,Iowa,State Representative,27,Joel Fry,REP,2016,2018,3,No,Yes,Yes
 30,Iowa,State Representative,28,Greg Heartsill,REP,2016,2018,3,No,No,No
 31,Iowa,State Representative,29,Wesley Breckenridge,DEM,2016,2018,1,No,Yes,Yes
-32,Iowa,State Representative,30,Zach Nunn,REP,2016,2018,2,No,No,No
+32,Iowa,State Representative,30,Zachary Nunn,REP,2016,2018,2,No,No,No
 33,Iowa,State Representative,31,Rick Olson,DEM,2016,2018,3,No,No,Yes
 34,Iowa,State Representative,32,Ruth Ann Gaines,DEM,2016,2018,3,No,Yes,Yes
 35,Iowa,State Representative,33,Brian Meyer,DEM,2016,2018,3,No,Yes,Yes
@@ -45,7 +45,7 @@
 43,Iowa,State Representative,41,Jo Oldson,DEM,2016,2018,3,Yes,Yes,Yes
 44,Iowa,State Representative,42,Peter Cownie,REP,2016,2018,3,No,Yes,Yes
 45,Iowa,State Representative,43,Christopher Hagenow,REP,2016,2018,3,No,Yes,Yes
-46,Iowa,State Representative,44,Rob Taylor,REP,2016,2018,3,Yes,Yes,No
+46,Iowa,State Representative,44,Robert Taylor,REP,2016,2018,3,Yes,Yes,No
 47,Iowa,State Representative,45,Beth Wessel-Kroeschell,DEM,2016,2018,7,No,Yes,Yes
 48,Iowa,State Representative,46,Lisa Heddens,DEM,2016,2018,7,Yes,Yes,Yes
 49,Iowa,State Representative,47,Chip Baltimore,REP,2016,2018,3,No,Yes,No
@@ -60,13 +60,13 @@
 58,Iowa,State Representative,56,Kristi Hager,REP,2016,2018,1,No,No,Yes
 59,Iowa,State Representative,57,Shannon Lundgren,REP,2016,2018,1,No,No,Yes
 60,Iowa,State Representative,58,Andy McKean,REP,2016,2018,1,No,Yes,Yes
-61,Iowa,State Representative,59,Bob Kressig,DEM,2016,2018,3,No,Yes,Yes
+61,Iowa,State Representative,59,Robert Kressig,DEM,2016,2018,3,No,Yes,Yes
 62,Iowa,State Representative,60,Walt Rogers,REP,2016,2018,3,No,Yes,Yes
 63,Iowa,State Representative,61,Timi Brown-Powers,DEM,2016,2018,2,Yes,Yes,Yes
 64,Iowa,State Representative,62,Ras Smith,DEM,2016,2018,1,No,Yes,Yes
 65,Iowa,State Representative,63,Sandy Salmon,REP,2016,2018,3,No,Yes,Yes
 66,Iowa,State Representative,64,Bruce Bearinger,DEM,2016,2018,3,No,Yes,Yes
-67,Iowa,State Representative,65,Liz Bennett,DEM,2016,2018,2,No,Yes,Yes
+67,Iowa,State Representative,65,Elizabeth Bennett,DEM,2016,2018,2,No,Yes,Yes
 68,Iowa,State Representative,66,Art Staed,DEM,2016,2018,3,Yes,Yes,Yes
 69,Iowa,State Representative,67,Ashley Hinson,REP,2016,2018,1,No,Yes,Yes
 70,Iowa,State Representative,68,Ken Rizer,REP,2016,2018,2,No,No,Yes
@@ -83,7 +83,7 @@
 81,Iowa,State Representative,79,Guy Vander Linden,REP,2016,2018,3,Yes,Yes,Yes
 82,Iowa,State Representative,80,Larry Sheets,REP,2016,2018,3,No,Yes,No
 83,Iowa,State Representative,81,Mary Gaskill,DEM,2016,2018,3,Yes,Yes,Yes
-84,Iowa,State Representative,82,Curt Hanson,DEM,2016,2018,3,Yes,Yes,Yes
+84,Iowa,State Representative,82,Curtis Hanson,DEM,2016,2018,3,Yes,Yes,Yes
 85,Iowa,State Representative,83,Jerry Kearns,DEM,2016,2018,3,Yes,No,Yes
 86,Iowa,State Representative,84,David Heaton,REP,2016,2018,3,No,Yes,No
 87,Iowa,State Representative,85,Vicki Lensing,DEM,2016,2018,3,Yes,Yes,Yes
@@ -92,10 +92,10 @@
 90,Iowa,State Representative,88,David Kerr,REP,2016,2018,1,No,No,Yes
 91,Iowa,State Representative,89,Jim Lykam,DEM,2016,2018,3,Yes,Yes,Yes
 92,Iowa,State Representative,90,Cindy Winckler,DEM,2016,2018,3,Yes,Yes,Yes
-93,Iowa,State Representative,91,Gary Carlson,REP,2016,2018,2,No,Yes,Yes
+93,Iowa,State Representative,91,Sean McGary,REP,2016,2018,2,No,Yes,Yes
 94,Iowa,State Representative,92,Ross Paustian,REP,2016,2018,2,No,Yes,Yes
 95,Iowa,State Representative,93,Phyllis Thede,DEM,2016,2018,3,No,Yes,Yes
-96,Iowa,State Representative,94,Gary Mohr,REP,2016,2018,1,Yes,Yes,Yes
+96,Iowa,State Representative,94,Sean McGary,REP,2016,2018,1,Yes,Yes,Yes
 97,Iowa,State Representative,95,Louie Zumbach,REP,2016,2018,1,No,Yes,Yes
 98,Iowa,State Representative,96,Lee Hein,REP,2016,2018,3,No,Yes,Yes
 99,Iowa,State Representative,97,Norlin Mommsen,REP,2016,2018,2,No,Yes,Yes
@@ -106,9 +106,9 @@
 104,Iowa,State Senator,2,Randy Feenstra,REP,2016,2020,3,Yes,Yes,Yes
 105,Iowa,State Senator,3,Bill Anderson,REP,2014,2018,1,Yes,Yes,Yes
 106,Iowa,State Senator,4,Dennis Guth,REP,2016,2020,2,No,Yes,Yes
-107,Iowa,State Senator,5,Tim Kraayenbrink,REP,2014,2018,1,No,Yes,Yes
+107,Iowa,State Senator,5,Timothy Kraayenbrink,REP,2014,2018,1,No,Yes,Yes
 108,Iowa,State Senator,6,Mark Segebart,REP,2016,2020,2,No,Yes,Yes
-109,Iowa,State Senator,7,Rick Bertrand,REP,2014,2018,1,No,Yes,No
+109,Iowa,State Senator,7,Richard Bertrand,REP,2014,2018,1,No,Yes,No
 110,Iowa,State Senator,8,Dan Dawson,REP,2016,2020,1,No,Yes,Yes
 111,Iowa,State Senator,9,Jason Schultz,REP,2014,2018,1,Yes,Yes,Yes
 112,Iowa,State Senator,10,Jake Chapman,REP,2016,2020,2,No,Yes,Yes
@@ -116,9 +116,9 @@
 114,Iowa,State Senator,12,Mark Costello,REP,2016,2020,2,No,Yes,Yes
 115,Iowa,State Senator,13,Julian Garrett,REP,2014,2018,2,No,Yes,Yes
 116,Iowa,State Senator,14,Amy Beth Sinclair,REP,2016,2020,2,No,Yes,Yes
-117,Iowa,State Senator,15,Chaz Allen,DEM,2014,2018,1,No,No,No
-118,Iowa,State Senator,16,Nate Boulton,DEM,2016,2020,1,No,Yes,Yes
-119,Iowa,State Senator,17,Tony Bisignano,DEM,2014,2018,1,No,Yes,Yes
+117,Iowa,State Senator,15,Charles Allen,DEM,2014,2018,1,No,No,No
+118,Iowa,State Senator,16,Nathaniel Boulton,DEM,2016,2020,1,No,Yes,Yes
+119,Iowa,State Senator,17,Anthony Bisignano,DEM,2014,2018,1,No,Yes,Yes
 120,Iowa,State Senator,18,Janet Petersen,DEM,2016,2020,2,Yes,Yes,Yes
 121,Iowa,State Senator,19,Jack Whitver,REP,2014,2018,1,No,Yes,No
 122,Iowa,State Senator,20,Brad Zaun,REP,2016,2020,2,No,Yes,Yes
@@ -126,18 +126,18 @@
 124,Iowa,State Senator,22,Charles Schneider,REP,2016,2020,2,No,Yes,Yes
 125,Iowa,State Senator,23,Herman Quirmbach,DEM,2014,2018,4,No,Yes,Yes
 126,Iowa,State Senator,24,Jerry Behn,REP,2016,2020,4,No,Yes,Yes
-127,Iowa,State Senator,25,Bill Dix,REP,2014,2018,1,Yes,No,No
+127,Iowa,State Senator,25,William Dix,REP,2014,2018,1,Yes,No,No
 128,Iowa,State Senator,26,Waylon Brown,REP,2016,2020,1,No,Yes,Yes
 129,Iowa,State Senator,27,Amanda Elsie Ragan,DEM,2014,2018,1,No,Yes,Yes
 130,Iowa,State Senator,28,Michael Breitbach,REP,2016,2020,2,No,Yes,Yes
 131,Iowa,State Senator,29,Tod Bowman,DEM,2014,2018,1,No,Yes,Yes
 132,Iowa,State Senator,30,Jeffrey Danielson,DEM,2016,2020,2,No,Yes,Yes
-133,Iowa,State Senator,31,Bill Dotzler,DEM,2014,2018,1,Yes,Yes,Yes
+133,Iowa,State Senator,31,William Dotzler,DEM,2014,2018,1,Yes,Yes,Yes
 134,Iowa,State Senator,32,Craig Johnson,REP,2016,2020,1,No,Yes,Yes
 135,Iowa,State Senator,33,Robert Hogg,DEM,2014,2018,1,No,Yes,Yes
-136,Iowa,State Senator,34,Liz Mathis,DEM,2016,2020,2,No,Yes,Yes
+136,Iowa,State Senator,34,Elizabeth Mathis,DEM,2016,2020,2,No,Yes,Yes
 137,Iowa,State Senator,35,Wally Horn,DEM,2014,2018,1,Yes,Yes,Yes
-138,Iowa,State Senator,36,Jeff Edler,REP,2016,2020,1,No,Yes,Yes
+138,Iowa,State Senator,36,Jeffrey Edler,REP,2016,2020,1,No,Yes,Yes
 139,Iowa,State Senator,37,Robert Dvorsky,DEM,2014,2018,1,Yes,No,Yes
 140,Iowa,State Senator,38,Tim Kapucian,REP,2016,2020,2,No,Yes,Yes
 141,Iowa,State Senator,39,Kevin Kinney,DEM,2014,2018,1,No,Yes,Yes
@@ -145,16 +145,16 @@
 143,Iowa,State Senator,41,Mark Chelgren,REP,2014,2018,1,No,No,No
 144,Iowa,State Senator,42,Richard Taylor,DEM,2016,2020,2,No,Yes,Yes
 145,Iowa,State Senator,43,Joseph Bolkcom,DEM,2014,2018,1,Yes,Yes,Yes
-146,Iowa,State Senator,44,Tom Greene,REP,2016,2020,1,No,Yes,Yes
+146,Iowa,State Senator,44,Thomas Greene,REP,2016,2020,1,No,Yes,Yes
 147,Iowa,State Senator,45,Jim Lykam,DEM,2016,2018,1,No,Yes,Yes
 148,Iowa,State Senator,46,Mark Lofgren,REP,2016,2020,1,No,Yes,Yes
 149,Iowa,State Senator,47,Roby Smith,REP,2014,2018,1,No,Yes,Yes
 150,Iowa,State Senator,48,Daniel Zumbach,REP,2016,2020,2,No,Yes,Yes
 151,Iowa,State Senator,49,Rita Rottinghaus Hart,DEM,2014,2018,2,No,No,Yes
-152,Iowa,State Senator,50,Pam Pamela Jochum,DEM,2016,2020,2,No,Yes,Yes
+152,Iowa,State Senator,50,Mary Pamela Jochum,DEM,2016,2020,2,No,Yes,Yes
 153,Iowa,U.S. Representative,1,Rodney Blum,REP,2016,2018,2,No,No,Yes
-154,Iowa,U.S. Representative,2,Dave Wayne Loebsack,DEM,2016,2018,4,No,Yes,Yes
+154,Iowa,U.S. Representative,2,David Wayne Loebsack,DEM,2016,2018,4,No,Yes,Yes
 155,Iowa,U.S. Representative,3,David Young,REP,2016,2018,2,No,No,Yes
-156,Iowa,U.S. Representative,4,Steve King,REP,2016,2018,3,No,No,No
-157,Iowa,U.S. Senator,0,Chuck Grassley,REP,2016,2022,0,No,Yes,Yes
-158,Iowa,U.S. Senator,0,Joni Ernst,REP,2014,2020,0,No,Yes,Yes
+156,Iowa,U.S. Representative,4,Steven King,REP,2016,2018,3,No,No,No
+157,Iowa,U.S. Senator,0,Charles Grassley,REP,2016,2022,1,No,Yes,Yes
+158,Iowa,U.S. Senator,0,Joni Ernst,REP,2014,2020,1,No,Yes,Yes

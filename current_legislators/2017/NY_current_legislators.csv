@@ -1,9 +1,9 @@
 ,State,Position,District,Candidate,Party,Year Elected,Next Election,Number of Terms in Position,Unopposed in Last Election,DEM Unopposed in Primary,REP Unopposed in Primary
-0,New York,Attorney General,0,Eric Tadd Schneiderman,DEM,2014,2018,0,No,No,Yes
-1,New York,Comptroller,0,Thomas Dinapoli,DEM,2014,2018,0,No,Yes,Yes
-2,New York,Governor,0,Andrew Cuomo,DEM,2014,2018,0,No,Yes,Yes
+0,New York,Attorney General,0,Eric Tadd Schneiderman,DEM,2014,2018,2,No,No,Yes
+1,New York,Comptroller,0,Thomas Dinapoli,DEM,2014,2018,2,No,Yes,Yes
+2,New York,Governor,0,Andrew Cuomo,DEM,2014,2018,2,No,Yes,Yes
 3,New York,State Representative,1,Fred Thiele Jr.,DEM,2016,2018,3,No,Yes,Yes
-4,New York,State Representative,2,Anthony Palumbo,REP,2016,2018,2,No,Yes,No
+4,New York,State Representative,2,Anthony Palumbo,REP,2016,2018,3,No,Yes,No
 5,New York,State Representative,3,Dean Murray,REP,2016,2018,2,No,Yes,Yes
 6,New York,State Representative,4,Steven Englebright,DEM,2016,2018,9,No,Yes,Yes
 7,New York,State Representative,5,Alfred Graf,REP,2016,2018,4,No,No,No
@@ -28,9 +28,9 @@
 26,New York,State Representative,24,David Weprin,DEM,2016,2018,4,No,Yes,Yes
 27,New York,State Representative,25,Nily Rozic,DEM,2016,2018,3,No,Yes,Yes
 28,New York,State Representative,26,Edward Braunstein,DEM,2016,2018,4,No,Yes,Yes
-29,New York,State Representative,27,Michael Simanowitz,DEM,2016,2018,3,Yes,Yes,Yes
+29,New York,State Representative,27,Michael Simanowitz,DEM,2016,2018,4,Yes,Yes,Yes
 30,New York,State Representative,28,Andrew Hevesi,DEM,2016,2018,6,Yes,Yes,Yes
-31,New York,State Representative,29,Alicia Hyndman,DEM,2016,2018,1,Yes,Yes,Yes
+31,New York,State Representative,29,Alicia Hyndman,DEM,2016,2018,2,Yes,Yes,Yes
 32,New York,State Representative,30,Brian Barnwell,DEM,2016,2018,1,No,No,Yes
 33,New York,State Representative,31,Michele Titus,DEM,2016,2018,8,Yes,Yes,Yes
 34,New York,State Representative,32,Vivian Cook,DEM,2016,2018,9,Yes,Yes,Yes
@@ -44,17 +44,17 @@
 42,New York,State Representative,40,Ronald Kim,DEM,2016,2018,3,No,Yes,Yes
 43,New York,State Representative,41,Helene Weinstein,DEM,2016,2018,9,No,Yes,Yes
 44,New York,State Representative,42,Rodneyse Bichotte,DEM,2016,2018,2,No,No,Yes
-45,New York,State Representative,43,Diana Richardson,DEM,2016,2018,1,Yes,Yes,Yes
+45,New York,State Representative,43,Diana Richardson,DEM,2016,2018,2,Yes,Yes,Yes
 46,New York,State Representative,44,Robert Carroll,DEM,2016,2018,1,No,Yes,Yes
 47,New York,State Representative,45,Steven Cymbrowitz,DEM,2016,2018,9,No,Yes,Yes
-48,New York,State Representative,46,Pamela Harris,DEM,2016,2018,1,No,Yes,Yes
+48,New York,State Representative,46,Pamela Harris,DEM,2016,2018,2,No,Yes,Yes
 49,New York,State Representative,47,William Colton,DEM,2016,2018,9,No,Yes,Yes
 50,New York,State Representative,48,Dov Hikind,DEM,2016,2018,9,Yes,Yes,Yes
 51,New York,State Representative,49,Peter Abbate Jr.,DEM,2016,2018,9,No,Yes,Yes
 52,New York,State Representative,50,Joseph Lentol,DEM,2016,2018,9,Yes,Yes,Yes
 53,New York,State Representative,51,Felix Ortiz,DEM,2016,2018,9,No,Yes,Yes
 54,New York,State Representative,52,Jo Anne Simon,DEM,2016,2018,2,No,Yes,Yes
-55,New York,State Representative,53,Maritza Davila,DEM,2016,2018,2,Yes,No,Yes
+55,New York,State Representative,53,Maritza Davila,DEM,2016,2018,3,Yes,No,Yes
 56,New York,State Representative,54,Erik Martin Dilan,DEM,2016,2018,2,No,Yes,Yes
 57,New York,State Representative,55,Latrice Monique Walker,DEM,2016,2018,2,No,Yes,Yes
 58,New York,State Representative,56,Tremaine Wright,DEM,2016,2018,1,Yes,Yes,Yes
@@ -74,7 +74,7 @@
 72,New York,State Representative,70,Inez Dickens,DEM,2016,2018,1,No,Yes,Yes
 73,New York,State Representative,71,Herman Farrell Jr.,DEM,2016,2018,9,No,No,Yes
 74,New York,State Representative,72,Carmen De La Rosa,DEM,2016,2018,1,Yes,No,Yes
-75,New York,State Representative,73,Dan Quart,DEM,2016,2018,3,No,Yes,Yes
+75,New York,State Representative,73,Dan Quart,DEM,2016,2018,4,No,Yes,Yes
 76,New York,State Representative,74,Brian Kavanagh,DEM,2016,2018,6,No,No,No
 77,New York,State Representative,75,Richard Gottfried,DEM,2016,2018,8,No,Yes,Yes
 78,New York,State Representative,76,Rebecca Seawright,DEM,2016,2018,2,No,Yes,Yes
@@ -87,10 +87,10 @@
 85,New York,State Representative,83,Carl Heastie,DEM,2016,2018,9,Yes,Yes,Yes
 86,New York,State Representative,84,Carmen Arroyo,DEM,2016,2018,8,No,Yes,Yes
 87,New York,State Representative,85,Marcos Crespo,DEM,2016,2018,4,No,Yes,Yes
-88,New York,State Representative,86,Victor Pichardo,DEM,2016,2018,2,No,Yes,Yes
+88,New York,State Representative,86,Victor Pichardo,DEM,2016,2018,3,No,Yes,Yes
 89,New York,State Representative,87,Luis Sepulveda,DEM,2016,2018,3,No,No,Yes
 90,New York,State Representative,88,Amy Paulin,DEM,2016,2018,9,No,Yes,Yes
-91,New York,State Representative,89,Gary Gary Pretlow,DEM,2016,2018,3,Yes,Yes,Yes
+91,New York,State Representative,89,Sean McGary,DEM,2016,2018,3,Yes,Yes,Yes
 92,New York,State Representative,90,Shelley Mayer,DEM,2016,2018,3,Yes,Yes,Yes
 93,New York,State Representative,91,Steven Otis,DEM,2016,2018,3,Yes,Yes,Yes
 94,New York,State Representative,92,Thomas Abinanti,DEM,2016,2018,4,Yes,Yes,Yes
@@ -127,9 +127,9 @@
 125,New York,State Representative,123,Donna Lupardo,DEM,2016,2018,3,No,Yes,Yes
 126,New York,State Representative,124,Christopher Friend,REP,2016,2018,3,No,No,Yes
 127,New York,State Representative,125,Barbara Lifton,DEM,2016,2018,8,No,Yes,Yes
-128,New York,State Representative,126,Gary Finch,REP,2016,2018,3,No,Yes,Yes
+128,New York,State Representative,126,Sean McGary,REP,2016,2018,3,No,Yes,Yes
 129,New York,State Representative,127,Albert Stirpe Jr.,DEM,2016,2018,3,No,Yes,Yes
-130,New York,State Representative,128,Pamela Jo Hunter,DEM,2016,2018,1,Yes,Yes,Yes
+130,New York,State Representative,128,Pamela Jo Hunter,DEM,2016,2018,2,Yes,Yes,Yes
 131,New York,State Representative,129,William Magnarelli,DEM,2016,2018,3,Yes,Yes,Yes
 132,New York,State Representative,130,Robert Oaks,REP,2016,2018,3,Yes,Yes,Yes
 133,New York,State Representative,131,Brian Kolb,REP,2016,2018,3,Yes,Yes,Yes
@@ -137,7 +137,7 @@
 135,New York,State Representative,133,Joe Errigo,REP,2016,2018,1,No,Yes,Yes
 136,New York,State Representative,134,Peter Lawrence,REP,2016,2018,2,Yes,Yes,Yes
 137,New York,State Representative,135,Mark Johns,REP,2016,2018,4,No,Yes,Yes
-138,New York,State Representative,136,Joe Morelle,DEM,2016,2018,3,Yes,No,Yes
+138,New York,State Representative,136,Joseph Morelle,DEM,2016,2018,3,Yes,No,Yes
 139,New York,State Representative,137,David Gantt,DEM,2016,2018,3,Yes,No,Yes
 140,New York,State Representative,138,Harry Bronson,DEM,2016,2018,3,No,Yes,Yes
 141,New York,State Representative,139,Stephen Hawley,REP,2016,2018,6,Yes,Yes,Yes
@@ -170,7 +170,7 @@
 168,New York,State Senator,16,Toby Ann Stavisky,DEM,2016,2018,9,No,Yes,Yes
 169,New York,State Senator,17,Simcha Felder,DEM,2016,2018,3,Yes,No,Yes
 170,New York,State Senator,18,Martin Malave Dilan,DEM,2016,2018,3,Yes,No,Yes
-171,New York,State Senator,19,Roxanne Persaud,DEM,2016,2018,1,Yes,Yes,Yes
+171,New York,State Senator,19,Roxanne Persaud,DEM,2016,2018,2,Yes,Yes,Yes
 172,New York,State Senator,20,Jesse Hamilton,DEM,2016,2018,2,No,Yes,Yes
 173,New York,State Senator,21,Kevin Parker,DEM,2016,2018,8,No,Yes,Yes
 174,New York,State Senator,22,Martin Golden,REP,2016,2018,8,Yes,No,Yes
@@ -196,20 +196,20 @@
 194,New York,State Senator,42,John Bonacic,REP,2016,2018,8,No,No,Yes
 195,New York,State Senator,43,Kathleen Marchione,REP,2016,2018,3,No,Yes,Yes
 196,New York,State Senator,44,Neil Breslin,DEM,2016,2018,3,No,Yes,Yes
-197,New York,State Senator,45,Betty C Little,REP,2016,2018,8,No,Yes,Yes
+197,New York,State Senator,45,Elizabeth C Little,REP,2016,2018,8,No,Yes,Yes
 198,New York,State Senator,46,George Amedore Jr.,REP,2016,2018,2,No,Yes,Yes
 199,New York,State Senator,47,Joseph Griffo,REP,2016,2018,6,Yes,Yes,Yes
 200,New York,State Senator,48,Patricia Ritchie,REP,2016,2018,4,Yes,Yes,Yes
 201,New York,State Senator,49,James Tedisco II,REP,2016,2018,1,No,Yes,Yes
 202,New York,State Senator,50,John Defrancisco,REP,2016,2018,8,Yes,Yes,Yes
 203,New York,State Senator,51,James Seward,REP,2016,2018,8,No,Yes,Yes
-204,New York,State Senator,52,Frederick Akshar II,REP,2016,2018,1,No,Yes,Yes
+204,New York,State Senator,52,Frederick Akshar II,REP,2016,2018,2,No,Yes,Yes
 205,New York,State Senator,53,David Valesky,DEM,2016,2018,3,Yes,Yes,Yes
 206,New York,State Senator,54,Pamela Helming,REP,2016,2018,1,No,Yes,Yes
 207,New York,State Senator,55,Rich Funke,REP,2016,2018,2,No,Yes,Yes
 208,New York,State Senator,56,Joseph Robach,REP,2016,2018,8,No,Yes,Yes
 209,New York,State Senator,57,Catharine Young,REP,2016,2018,6,No,Yes,Yes
-210,New York,State Senator,58,Tom Omara,REP,2016,2018,3,No,No,Yes
+210,New York,State Senator,58,Thomas Omara,REP,2016,2018,3,No,No,Yes
 211,New York,State Senator,59,Patrick Gallivan,REP,2016,2018,4,No,Yes,Yes
 212,New York,State Senator,60,Christopher Jacobs,REP,2016,2018,1,No,Yes,Yes
 213,New York,State Senator,61,Michael Ranzenhofer,REP,2016,2018,5,No,Yes,Yes
@@ -217,7 +217,7 @@
 215,New York,State Senator,63,Timothy Kennedy,DEM,2016,2018,3,Yes,No,Yes
 216,New York,U.S. Representative,1,Lee Michael Zeldin,REP,2016,2018,2,No,No,Yes
 217,New York,U.S. Representative,2,Peter King,REP,2016,2018,3,No,No,Yes
-218,New York,U.S. Representative,3,Tom Suozzi,DEM,2016,2018,1,No,Yes,Yes
+218,New York,U.S. Representative,3,Thomas Suozzi,DEM,2016,2018,1,No,Yes,Yes
 219,New York,U.S. Representative,4,Kathleen Rice,DEM,2016,2018,2,No,Yes,Yes
 220,New York,U.S. Representative,5,Gregory Meeks,DEM,2016,2018,3,No,No,Yes
 221,New York,U.S. Representative,6,Grace Meng,DEM,2016,2018,3,No,Yes,Yes
@@ -225,10 +225,10 @@
 223,New York,U.S. Representative,8,Hakeem Jeffries,DEM,2016,2018,3,No,Yes,Yes
 224,New York,U.S. Representative,9,Yvette Clarke,DEM,2016,2018,3,No,No,Yes
 225,New York,U.S. Representative,10,Jerrold Nadler,DEM,2016,2018,3,No,Yes,Yes
-226,New York,U.S. Representative,11,Dan Donovan Jr.,REP,2016,2018,1,No,No,No
+226,New York,U.S. Representative,11,Daniel Donovan Jr.,REP,2016,2018,2,No,No,No
 227,New York,U.S. Representative,12,Carolyn Maloney,DEM,2016,2018,3,No,No,Yes
 228,New York,U.S. Representative,13,Adriano Espaillat,DEM,2016,2018,1,No,Yes,Yes
-229,New York,U.S. Representative,14,Joe Crowley,DEM,2016,2018,3,No,Yes,Yes
+229,New York,U.S. Representative,14,Joseph Crowley,DEM,2016,2018,3,No,Yes,Yes
 230,New York,U.S. Representative,15,Jose Serrano,DEM,2016,2018,3,No,Yes,Yes
 231,New York,U.S. Representative,16,Eliot Engel,DEM,2016,2018,3,No,No,Yes
 232,New York,U.S. Representative,17,Nita Lowey,DEM,2016,2018,3,Yes,Yes,Yes
@@ -241,8 +241,6 @@
 239,New York,U.S. Representative,24,John Katko,REP,2016,2018,2,No,No,Yes
 240,New York,U.S. Representative,25,Louise Slaughter,DEM,2016,2018,3,No,No,No
 241,New York,U.S. Representative,26,Brian Higgins,DEM,2016,2018,3,No,Yes,Yes
-242,New York,U.S. Representative,27,Chris Collins,REP,2016,2018,3,No,Yes,Yes
-243,New York,U.S. Senator,0,Chuck Schumer,DEM,2016,2022,0,No,Yes,Yes
-244,New York,U.S. Senator,0,Kirsten Elizabeth Gillibrand,DEM,2012,2018,0,No,Yes,Yes
-245,New York,U.S. Senator,0,Charles Schumer,DEM,2016,2022,1,No,Yes,Yes
-246,New York,U.S. Senator,0,Kirsten Elizabeth Gillibrand,DEM,2012,2018,1,No,Yes,Yes
+242,New York,U.S. Representative,27,Christopher Collins,REP,2016,2018,3,No,Yes,Yes
+243,New York,U.S. Senator,0,Charles Schumer,DEM,2016,2022,1,No,Yes,Yes
+244,New York,U.S. Senator,0,Kirsten Elizabeth Gillibrand,DEM,2012,2018,1,No,Yes,Yes

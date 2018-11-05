@@ -1,7 +1,7 @@
 ,State,Position,District,Candidate,Party,Year Elected,Next Election,Number of Terms in Position,Unopposed in Last Election,DEM Unopposed in Primary,REP Unopposed in Primary
-0,Iowa,Attorney General,0,Tom Miller,DEM,2006,2010,0,Yes,Yes,Yes
-1,Iowa,Governor,0,Chet Culver,DEM,2006,2010,0,No,No,No
-2,Iowa,Secretary Of State,0,Michael Mauro,DEM,2006,2010,0,No,No,Yes
+0,Iowa,Attorney General,0,Tom Miller,DEM,2006,2010,2,Yes,Yes,Yes
+1,Iowa,Governor,0,Chet Culver,DEM,2006,2010,1,No,No,No
+2,Iowa,Secretary Of State,0,Michael Mauro,DEM,2006,2010,1,No,No,Yes
 3,Iowa,State Representative,1,Wesley Whitead,DEM,2008,2010,4,No,Yes,Yes
 4,Iowa,State Representative,2,Roger Wendt,DEM,2008,2010,4,No,Yes,Yes
 5,Iowa,State Representative,3,Chuck Soderberg,REP,2008,2010,3,No,Yes,Yes
@@ -12,7 +12,7 @@
 10,Iowa,State Representative,8,Dolores Mertz,DEM,2008,2010,4,No,Yes,Yes
 11,Iowa,State Representative,9,McKinley Bailey,DEM,2008,2010,2,No,Yes,No
 12,Iowa,State Representative,10,Dave Deyoe,REP,2008,2010,2,No,Yes,No
-13,Iowa,State Representative,11,V V) Rayhons,REP,2008,2010,4,No,Yes,Yes
+13,Iowa,State Representative,11,Henry V) Rayhons,REP,2008,2010,4,No,Yes,Yes
 14,Iowa,State Representative,12,Linda Upmeyer,REP,2008,2010,4,No,Yes,Yes
 15,Iowa,State Representative,13,Sharon Steckman,DEM,2008,2010,1,No,Yes,Yes
 16,Iowa,State Representative,14,Mark Kuhn,DEM,2008,2010,4,No,Yes,Yes
@@ -20,7 +20,7 @@
 18,Iowa,State Representative,16,John Beard,DEM,2008,2010,1,No,Yes,Yes
 19,Iowa,State Representative,17,Pat Grassley,REP,2008,2010,2,No,Yes,Yes
 20,Iowa,State Representative,18,Andrew Wenthe,DEM,2008,2010,2,No,Yes,Yes
-21,Iowa,State Representative,19,Bob Kressig,DEM,2008,2010,3,No,Yes,Yes
+21,Iowa,State Representative,19,Robert Kressig,DEM,2008,2010,3,No,Yes,Yes
 22,Iowa,State Representative,20,Doris Kelley,DEM,2008,2010,2,No,Yes,No
 23,Iowa,State Representative,21,Kerry Burt,DEM,2008,2010,1,No,Yes,Yes
 24,Iowa,State Representative,22,Deborah Berry,DEM,2008,2010,4,Yes,Yes,Yes
@@ -29,7 +29,7 @@
 27,Iowa,State Representative,25,Thomas Schueller,DEM,2008,2010,3,Yes,Yes,Yes
 28,Iowa,State Representative,26,Polly Bukta,DEM,2008,2010,4,No,Yes,No
 29,Iowa,State Representative,27,Charles Isenhart,DEM,2008,2010,1,No,Yes,Yes
-30,Iowa,State Representative,28,Pat Joseph Murphy,DEM,2008,2010,4,No,No,No
+30,Iowa,State Representative,28,Patrick Joseph Murphy,DEM,2008,2010,4,No,No,No
 31,Iowa,State Representative,29,Nate Willems,DEM,2008,2010,1,No,Yes,Yes
 32,Iowa,State Representative,30,David Jacoby,DEM,2008,2010,3,Yes,No,No
 33,Iowa,State Representative,31,Ray Zirkelbach,DEM,2008,2010,3,No,No,Yes
@@ -53,11 +53,11 @@
 51,Iowa,State Representative,49,Helen Miller,DEM,2008,2010,4,No,Yes,Yes
 52,Iowa,State Representative,50,David Tjepkes,REP,2008,2010,4,No,Yes,Yes
 53,Iowa,State Representative,51,Rodney Roberts,REP,2008,2010,4,Yes,Yes,Yes
-54,Iowa,State Representative,52,Gary Worthan,REP,2008,2010,1,No,Yes,Yes
-55,Iowa,State Representative,53,Dan Huseman,REP,2008,2010,4,No,Yes,Yes
+54,Iowa,State Representative,52,Sean McGary,REP,2008,2010,1,No,Yes,Yes
+55,Iowa,State Representative,53,Daniel Huseman,REP,2008,2010,4,No,Yes,Yes
 56,Iowa,State Representative,54,Christopher Rants,REP,2008,2010,4,No,Yes,Yes
 57,Iowa,State Representative,55,Jason Schultz,REP,2008,2010,1,Yes,Yes,Yes
-58,Iowa,State Representative,56,Matt Windschitl,REP,2008,2010,2,No,No,Yes
+58,Iowa,State Representative,56,Matthew Windschitl,REP,2008,2010,2,No,No,Yes
 59,Iowa,State Representative,57,Jack Drake,REP,2008,2010,4,No,No,Yes
 60,Iowa,State Representative,58,Clel Baudler,REP,2008,2010,4,No,Yes,Yes
 61,Iowa,State Representative,59,Christopher Hagenow,REP,2008,2010,1,No,Yes,Yes
@@ -88,7 +88,7 @@
 86,Iowa,State Representative,84,Elesha Gayman,DEM,2008,2010,2,No,Yes,No
 87,Iowa,State Representative,85,Jim Lykam,DEM,2008,2010,4,No,Yes,Yes
 88,Iowa,State Representative,86,Cindy Winckler,DEM,2008,2010,4,No,Yes,Yes
-89,Iowa,State Representative,87,Tom Sands,REP,2008,2010,4,No,Yes,No
+89,Iowa,State Representative,87,Thomas Sands,REP,2008,2010,4,No,Yes,No
 90,Iowa,State Representative,88,Dennis Cohoon,DEM,2008,2010,4,Yes,No,Yes
 91,Iowa,State Representative,89,Larry Marek,DEM,2008,2010,1,No,Yes,Yes
 92,Iowa,State Representative,90,John Whitaker,DEM,2008,2010,4,No,Yes,Yes
@@ -112,10 +112,10 @@
 110,Iowa,State Senator,8,Mary Jo Wilhelm,DEM,2008,2012,1,No,Yes,Yes
 111,Iowa,State Senator,9,Bill Heckroth,DEM,2006,2010,1,No,Yes,Yes
 112,Iowa,State Senator,10,Jeffrey Danielson,DEM,2008,2012,2,No,Yes,Yes
-113,Iowa,State Senator,11,Bill Dotzler,DEM,2006,2010,2,No,Yes,Yes
+113,Iowa,State Senator,11,William Dotzler,DEM,2006,2010,2,No,Yes,Yes
 114,Iowa,State Senator,12,Brian Schoenjahn,DEM,2008,2012,2,No,Yes,Yes
 115,Iowa,State Senator,13,Roger Stewart,DEM,2006,2010,2,No,Yes,Yes
-116,Iowa,State Senator,14,Pam Pamela Jochum,DEM,2008,2012,1,No,Yes,Yes
+116,Iowa,State Senator,14,Mary Pamela Jochum,DEM,2008,2012,1,No,Yes,Yes
 117,Iowa,State Senator,15,Robert Dvorsky,DEM,2006,2010,2,Yes,No,No
 118,Iowa,State Senator,16,Tom Hancock,DEM,2008,2012,2,No,Yes,Yes
 119,Iowa,State Senator,17,Wally Horn,DEM,2006,2010,2,Yes,Yes,Yes
@@ -141,14 +141,14 @@
 139,Iowa,State Senator,37,Staci Appel,DEM,2006,2010,1,No,No,Yes
 140,Iowa,State Senator,38,Thomas Rielly,DEM,2008,2012,2,No,Yes,Yes
 141,Iowa,State Senator,39,Joseph Bolkcom,DEM,2006,2010,2,No,Yes,Yes
-142,Iowa,State Senator,40,Jim Hahn,REP,2008,2012,2,No,Yes,Yes
+142,Iowa,State Senator,40,James Hahn,REP,2008,2012,2,No,Yes,Yes
 143,Iowa,State Senator,41,David Hartsuch,REP,2006,2010,1,No,No,No
 144,Iowa,State Senator,42,Shawn Hamerlinck,REP,2008,2012,1,No,Yes,Yes
-145,Iowa,State Senator,43,Joe Matthew Seng,DEM,2006,2010,2,Yes,Yes,Yes
+145,Iowa,State Senator,43,Joseph Matthew Seng,DEM,2006,2010,2,Yes,Yes,Yes
 146,Iowa,State Senator,44,Thomas Courtney,DEM,2008,2012,3,No,Yes,Yes
 147,Iowa,State Senator,45,Rebecca Schmitz,DEM,2006,2010,1,No,Yes,Yes
 148,Iowa,State Senator,46,Eugene Fraise,DEM,2008,2012,2,No,Yes,Yes
 149,Iowa,State Senator,47,Keith Kreiman,DEM,2006,2010,2,No,Yes,Yes
 150,Iowa,State Senator,48,Kim Reynolds,REP,2008,2012,1,No,Yes,Yes
 151,Iowa,State Senator,49,Hubert Houser,REP,2006,2010,2,Yes,No,Yes
-152,Iowa,State Senator,50,Mike Gronstal,DEM,2008,2012,2,No,Yes,Yes
+152,Iowa,State Senator,50,Michael Gronstal,DEM,2008,2012,2,No,Yes,Yes

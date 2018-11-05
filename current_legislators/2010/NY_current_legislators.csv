@@ -1,7 +1,7 @@
 ,State,Position,District,Candidate,Party,Year Elected,Next Election,Number of Terms in Position,Unopposed in Last Election,DEM Unopposed in Primary,REP Unopposed in Primary
-0,New York,Attorney General,0,Andrew Cuomo,DEM,2006,2010,0,No,No,Yes
-1,New York,Comptroller,0,Alan Hevesi,DEM,2006,2010,0,No,Yes,Yes
-2,New York,Governor,0,Eliot Spitzer,DEM,2006,2010,0,No,Yes,Yes
+0,New York,Attorney General,0,Andrew Cuomo,DEM,2006,2010,1,No,No,Yes
+1,New York,Comptroller,0,Alan Hevesi,DEM,2006,2010,2,No,Yes,Yes
+2,New York,Governor,0,Eliot Spitzer,DEM,2006,2010,1,No,Yes,Yes
 3,New York,State Representative,1,Marc Alessi,DEM,2008,2010,2,No,Yes,Yes
 4,New York,State Representative,2,Fred Thiele Jr.,REP,2008,2010,5,No,Yes,No
 5,New York,State Representative,3,Patricia Eddington,DEM,2008,2010,5,No,Yes,Yes
@@ -30,7 +30,7 @@
 28,New York,State Representative,26,Ann Margaret Carrozza,DEM,2008,2010,5,No,Yes,Yes
 29,New York,State Representative,27,Nettie Mayersohn,DEM,2008,2010,5,Yes,Yes,Yes
 30,New York,State Representative,28,Andrew Hevesi,DEM,2008,2010,2,No,Yes,Yes
-31,New York,State Representative,29,Bill Scarborough,DEM,2008,2010,5,Yes,Yes,Yes
+31,New York,State Representative,29,William Scarborough,DEM,2008,2010,5,Yes,Yes,Yes
 32,New York,State Representative,30,Margaret Markey,DEM,2008,2010,5,No,No,Yes
 33,New York,State Representative,31,Michele Titus,DEM,2008,2010,4,Yes,Yes,Yes
 34,New York,State Representative,32,Vivian Cook,DEM,2008,2010,5,Yes,Yes,Yes
@@ -88,7 +88,7 @@
 86,New York,State Representative,84,Carmen Arroyo,DEM,2008,2010,4,No,Yes,Yes
 87,New York,State Representative,85,Ruben Diaz Jr.,DEM,2008,2010,4,No,Yes,Yes
 88,New York,State Representative,86,Nelson Castro,DEM,2008,2010,1,No,Yes,Yes
-89,New York,State Representative,87,Gary Gary Pretlow,DEM,2008,2010,4,No,No,Yes
+89,New York,State Representative,87,Sean McGary,DEM,2008,2010,4,No,No,Yes
 90,New York,State Representative,88,Amy Paulin,DEM,2008,2010,5,No,Yes,Yes
 91,New York,State Representative,89,Adam Bradley,DEM,2008,2010,4,Yes,Yes,Yes
 92,New York,State Representative,90,Sandra Galef,DEM,2008,2010,5,No,Yes,Yes
@@ -124,7 +124,7 @@
 122,New York,State Representative,120,William Magnarelli,DEM,2008,2010,5,No,Yes,Yes
 123,New York,State Representative,121,Albert Stirpe Jr.,DEM,2008,2010,2,No,No,Yes
 124,New York,State Representative,122,Dierdre Scozzafava,REP,2008,2010,4,Yes,Yes,Yes
-125,New York,State Representative,123,Gary Finch,REP,2008,2010,4,No,Yes,Yes
+125,New York,State Representative,123,Sean McGary,REP,2008,2010,4,No,Yes,Yes
 126,New York,State Representative,124,William Barclay,REP,2008,2010,4,No,No,Yes
 127,New York,State Representative,125,Barbara Lifton,DEM,2008,2010,4,Yes,Yes,Yes
 128,New York,State Representative,126,Donna Lupardo,DEM,2008,2010,3,Yes,Yes,Yes
@@ -133,12 +133,12 @@
 131,New York,State Representative,129,Brian Kolb,REP,2008,2010,5,No,Yes,Yes
 132,New York,State Representative,130,Joe Errigo,REP,2008,2010,4,Yes,Yes,Yes
 133,New York,State Representative,131,Susan John,DEM,2008,2010,5,No,Yes,Yes
-134,New York,State Representative,132,Joe Morelle,DEM,2008,2010,5,Yes,Yes,Yes
+134,New York,State Representative,132,Joseph Morelle,DEM,2008,2010,5,Yes,Yes,Yes
 135,New York,State Representative,133,David Gantt,DEM,2008,2010,5,Yes,Yes,Yes
 136,New York,State Representative,134,Bill Reilich,REP,2008,2010,4,No,Yes,Yes
 137,New York,State Representative,135,David Koon,DEM,2008,2010,5,No,Yes,Yes
 138,New York,State Representative,136,James Bacalles,REP,2008,2010,4,Yes,No,Yes
-139,New York,State Representative,137,Tom Omara,REP,2008,2010,3,Yes,No,Yes
+139,New York,State Representative,137,Thomas Omara,REP,2008,2010,3,Yes,No,Yes
 140,New York,State Representative,138,Francine Delmonte,DEM,2008,2010,5,No,Yes,Yes
 141,New York,State Representative,139,Stephen Hawley,REP,2008,2010,2,Yes,Yes,Yes
 142,New York,State Representative,140,Robin Schimminger,DEM,2008,2010,5,No,Yes,Yes
@@ -196,7 +196,7 @@
 194,New York,State Senator,42,John Bonacic,REP,2008,2010,4,Yes,No,Yes
 195,New York,State Senator,43,Roy McDonald,REP,2008,2010,1,No,Yes,Yes
 196,New York,State Senator,44,Hugh Farley,REP,2008,2010,5,No,Yes,Yes
-197,New York,State Senator,45,Betty C Little,REP,2008,2010,4,Yes,Yes,Yes
+197,New York,State Senator,45,Elizabeth C Little,REP,2008,2010,4,Yes,Yes,Yes
 198,New York,State Senator,46,Neil Breslin,DEM,2008,2010,4,No,Yes,Yes
 199,New York,State Senator,47,Joseph Griffo,REP,2008,2010,2,No,Yes,Yes
 200,New York,State Senator,48,Darrel Aubertine,DEM,2008,2010,1,No,Yes,Yes
@@ -215,4 +215,4 @@
 213,New York,State Senator,61,Michael Ranzenhofer,REP,2008,2010,1,No,Yes,Yes
 214,New York,State Senator,62,George Maziarz,REP,2008,2010,4,No,Yes,Yes
 215,New York,U.S. Representative,20,Scott Murphy,DEM,2009,2010,1,No,Yes,Yes
-216,New York,U.S. Representative,23,Bill Owens,DEM,2009,2010,1,No,No,Yes
+216,New York,U.S. Representative,23,William Owens,DEM,2009,2010,1,No,No,Yes

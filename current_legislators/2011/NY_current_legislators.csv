@@ -1,7 +1,7 @@
 ,State,Position,District,Candidate,Party,Year Elected,Next Election,Number of Terms in Position,Unopposed in Last Election,DEM Unopposed in Primary,REP Unopposed in Primary
-0,New York,Attorney General,0,Eric Tadd Schneiderman,DEM,2010,2014,0,No,No,Yes
-1,New York,Comptroller,0,Thomas Dinapoli,DEM,2010,2014,0,No,Yes,Yes
-2,New York,Governor,0,Andrew Cuomo,DEM,2010,2014,0,No,Yes,Yes
+0,New York,Attorney General,0,Eric Tadd Schneiderman,DEM,2010,2014,1,No,No,Yes
+1,New York,Comptroller,0,Thomas Dinapoli,DEM,2010,2014,1,No,Yes,Yes
+2,New York,Governor,0,Andrew Cuomo,DEM,2010,2014,1,No,Yes,Yes
 3,New York,State Representative,1,Daniel Losquadro,REP,2010,2012,1,No,Yes,Yes
 4,New York,State Representative,2,Fred Thiele Jr.,REP,2010,2012,6,No,Yes,No
 5,New York,State Representative,3,Dean Murray,REP,2010,2012,1,No,Yes,Yes
@@ -30,7 +30,7 @@
 28,New York,State Representative,26,Edward Braunstein,DEM,2010,2012,1,No,Yes,Yes
 29,New York,State Representative,27,Nettie Mayersohn,DEM,2010,2012,6,Yes,Yes,Yes
 30,New York,State Representative,28,Andrew Hevesi,DEM,2010,2012,3,No,Yes,Yes
-31,New York,State Representative,29,Bill Scarborough,DEM,2010,2012,6,Yes,Yes,Yes
+31,New York,State Representative,29,William Scarborough,DEM,2010,2012,6,Yes,Yes,Yes
 32,New York,State Representative,30,Margaret Markey,DEM,2010,2012,6,No,No,Yes
 33,New York,State Representative,31,Michele Titus,DEM,2010,2012,5,Yes,Yes,Yes
 34,New York,State Representative,32,Vivian Cook,DEM,2010,2012,6,Yes,Yes,Yes
@@ -88,7 +88,7 @@
 86,New York,State Representative,84,Carmen Arroyo,DEM,2010,2012,5,No,Yes,Yes
 87,New York,State Representative,85,Marcos Crespo,DEM,2010,2012,1,No,Yes,Yes
 88,New York,State Representative,86,Nelson Castro,DEM,2010,2012,2,No,Yes,Yes
-89,New York,State Representative,87,Gary Gary Pretlow,DEM,2010,2012,5,No,No,Yes
+89,New York,State Representative,87,Sean McGary,DEM,2010,2012,5,No,No,Yes
 90,New York,State Representative,88,Amy Paulin,DEM,2010,2012,6,No,Yes,Yes
 91,New York,State Representative,89,Robert Castelli,REP,2010,2012,1,No,Yes,Yes
 92,New York,State Representative,90,Sandra Galef,DEM,2010,2012,6,No,Yes,Yes
@@ -100,7 +100,7 @@
 98,New York,State Representative,96,Nancy Calhoun,REP,2010,2012,5,No,Yes,Yes
 99,New York,State Representative,97,Ann Rabbitt,REP,2010,2012,4,No,Yes,Yes
 100,New York,State Representative,98,Aileen Gunther,DEM,2010,2012,4,Yes,Yes,Yes
-101,New York,State Representative,99,Steve Katz,REP,2010,2012,1,No,Yes,Yes
+101,New York,State Representative,99,Stephen Katz,REP,2010,2012,1,No,Yes,Yes
 102,New York,State Representative,100,Thomas Kirwan,REP,2010,2012,1,No,Yes,Yes
 103,New York,State Representative,101,Kevin Cahill,DEM,2010,2012,6,No,Yes,Yes
 104,New York,State Representative,102,Joel Miller,REP,2010,2012,5,No,No,No
@@ -122,9 +122,9 @@
 120,New York,State Representative,118,Addie Jenne Russell,DEM,2010,2012,2,No,Yes,No
 121,New York,State Representative,119,Sam Roberts,DEM,2010,2012,1,No,Yes,No
 122,New York,State Representative,120,William Magnarelli,DEM,2010,2012,6,No,Yes,Yes
-123,New York,State Representative,121,Don Miller,REP,2010,2012,1,No,No,Yes
+123,New York,State Representative,121,Donald Miller,REP,2010,2012,1,No,No,Yes
 124,New York,State Representative,122,Kenneth Blankenbush,REP,2010,2012,1,No,Yes,Yes
-125,New York,State Representative,123,Gary Finch,REP,2010,2012,5,Yes,Yes,Yes
+125,New York,State Representative,123,Sean McGary,REP,2010,2012,5,Yes,Yes,Yes
 126,New York,State Representative,124,William Barclay,REP,2010,2012,5,Yes,No,Yes
 127,New York,State Representative,125,Barbara Lifton,DEM,2010,2012,5,No,Yes,Yes
 128,New York,State Representative,126,Donna Lupardo,DEM,2010,2012,4,No,Yes,Yes
@@ -133,7 +133,7 @@
 131,New York,State Representative,129,Brian Kolb,REP,2010,2012,6,Yes,Yes,Yes
 132,New York,State Representative,130,Sean Hanna,REP,2010,2012,1,No,Yes,Yes
 133,New York,State Representative,131,Harry Bronson,DEM,2010,2012,1,No,Yes,Yes
-134,New York,State Representative,132,Joe Morelle,DEM,2010,2012,6,No,Yes,Yes
+134,New York,State Representative,132,Joseph Morelle,DEM,2010,2012,6,No,Yes,Yes
 135,New York,State Representative,133,David Gantt,DEM,2010,2012,6,Yes,Yes,Yes
 136,New York,State Representative,134,Bill Reilich,REP,2010,2012,5,No,Yes,Yes
 137,New York,State Representative,135,Mark Johns,REP,2010,2012,1,No,Yes,Yes
@@ -196,7 +196,7 @@
 194,New York,State Senator,42,John Bonacic,REP,2010,2012,5,No,No,Yes
 195,New York,State Senator,43,Roy McDonald,REP,2010,2012,2,No,Yes,Yes
 196,New York,State Senator,44,Hugh Farley,REP,2010,2012,6,No,Yes,Yes
-197,New York,State Senator,45,Betty C Little,REP,2010,2012,5,Yes,Yes,Yes
+197,New York,State Senator,45,Elizabeth C Little,REP,2010,2012,5,Yes,Yes,Yes
 198,New York,State Senator,46,Neil Breslin,DEM,2010,2012,5,No,Yes,Yes
 199,New York,State Senator,47,Joseph Griffo,REP,2010,2012,3,No,Yes,Yes
 200,New York,State Senator,48,Patricia Ritchie,REP,2010,2012,1,No,Yes,Yes
@@ -204,7 +204,7 @@
 202,New York,State Senator,50,John Defrancisco,REP,2010,2012,5,No,Yes,Yes
 203,New York,State Senator,51,James Seward,REP,2010,2012,5,Yes,Yes,Yes
 204,New York,State Senator,52,Thomas Libous,REP,2010,2012,5,No,Yes,Yes
-205,New York,State Senator,53,Tom Omara,REP,2010,2012,1,No,Yes,Yes
+205,New York,State Senator,53,Thomas Omara,REP,2010,2012,1,No,Yes,Yes
 206,New York,State Senator,54,Michael Nozzolio,REP,2010,2012,5,No,Yes,Yes
 207,New York,State Senator,55,James Alesi,REP,2010,2012,6,No,Yes,Yes
 208,New York,State Senator,56,Joseph Robach,REP,2010,2012,5,No,Yes,Yes
@@ -218,9 +218,9 @@
 216,New York,U.S. Representative,2,Steve Israel,DEM,2010,2012,1,No,No,Yes
 217,New York,U.S. Representative,3,Peter King,REP,2010,2012,1,No,Yes,Yes
 218,New York,U.S. Representative,4,Carolyn McCarthy,DEM,2010,2012,1,No,Yes,Yes
-219,New York,U.S. Representative,5,Gary Ackerman,DEM,2010,2012,1,No,No,Yes
+219,New York,U.S. Representative,5,Sean McGary,DEM,2010,2012,1,No,No,Yes
 220,New York,U.S. Representative,6,Gregory Meeks,DEM,2010,2012,1,No,Yes,Yes
-221,New York,U.S. Representative,7,Joe Crowley,DEM,2010,2012,1,No,Yes,Yes
+221,New York,U.S. Representative,7,Joseph Crowley,DEM,2010,2012,1,No,Yes,Yes
 222,New York,U.S. Representative,8,Jerrold Nadler,DEM,2010,2012,1,No,Yes,Yes
 223,New York,U.S. Representative,9,Anthony Weiner,DEM,2010,2012,1,No,No,Yes
 224,New York,U.S. Representative,10,Edolphus Towns,DEM,2010,2012,1,No,Yes,Yes
@@ -236,12 +236,11 @@
 234,New York,U.S. Representative,20,Christopher Gibson,REP,2010,2012,1,No,Yes,Yes
 235,New York,U.S. Representative,21,Paul David Tonko,DEM,2010,2012,1,No,No,Yes
 236,New York,U.S. Representative,22,Maurice Hinchey,DEM,2010,2012,1,No,Yes,Yes
-237,New York,U.S. Representative,23,Bill Owens,DEM,2010,2012,2,No,No,Yes
+237,New York,U.S. Representative,23,William Owens,DEM,2010,2012,2,No,No,Yes
 238,New York,U.S. Representative,24,Richard Hanna,REP,2010,2012,1,No,No,Yes
 239,New York,U.S. Representative,25,Ann Marie Buerkle,REP,2010,2012,1,No,No,No
 240,New York,U.S. Representative,26,Christopher Lee,REP,2010,2012,1,No,Yes,Yes
 241,New York,U.S. Representative,27,Brian Higgins,DEM,2010,2012,1,No,Yes,Yes
 242,New York,U.S. Representative,28,Louise Slaughter,DEM,2010,2012,1,No,Yes,Yes
 243,New York,U.S. Representative,29,Thomas Reed II,REP,2010,2012,1,No,Yes,Yes
-244,New York,U.S. Senator,0,Chuck Schumer,DEM,2010,2016,0,No,Yes,Yes
-245,New York,U.S. Senator,0,Charles Schumer,DEM,2010,2016,1,No,Yes,Yes
+244,New York,U.S. Senator,0,Charles Schumer,DEM,2010,2016,1,No,Yes,Yes

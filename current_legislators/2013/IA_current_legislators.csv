@@ -1,24 +1,24 @@
 ,State,Position,District,Candidate,Party,Year Elected,Next Election,Number of Terms in Position,Unopposed in Last Election,DEM Unopposed in Primary,REP Unopposed in Primary
-0,Iowa,Attorney General,0,Tom Miller,DEM,2010,2014,0,No,Yes,Yes
-1,Iowa,Governor,0,Terry Branstad,REP,2010,2014,0,No,No,No
-2,Iowa,Secretary Of State,0,Matthew David Schultz,REP,2010,2014,0,No,No,Yes
+0,Iowa,Attorney General,0,Tom Miller,DEM,2010,2014,3,No,Yes,Yes
+1,Iowa,Governor,0,Terry Branstad,REP,2010,2014,1,No,No,No
+2,Iowa,Secretary Of State,0,Matthew David Schultz,REP,2010,2014,1,No,No,Yes
 3,Iowa,State Representative,1,Jeff Smith,REP,2012,2014,1,Yes,Yes,Yes
 4,Iowa,State Representative,2,Megan Lee Hess Jones,REP,2012,2014,1,No,Yes,Yes
-5,Iowa,State Representative,3,Dan Huseman,REP,2012,2014,1,Yes,Yes,Yes
+5,Iowa,State Representative,3,Daniel Huseman,REP,2012,2014,1,Yes,Yes,Yes
 6,Iowa,State Representative,4,Dwayne Alons,REP,2012,2014,6,Yes,Yes,Yes
 7,Iowa,State Representative,5,Chuck Soderberg,REP,2012,2014,1,Yes,Yes,No
 8,Iowa,State Representative,6,Ronald Jorgensen,REP,2012,2014,1,Yes,No,No
 9,Iowa,State Representative,7,Tedd Gassman,REP,2012,2014,1,No,Yes,Yes
-10,Iowa,State Representative,8,V V) Rayhons,REP,2012,2014,1,Yes,Yes,Yes
+10,Iowa,State Representative,8,Henry V) Rayhons,REP,2012,2014,1,Yes,Yes,Yes
 11,Iowa,State Representative,9,Helen Miller,DEM,2012,2014,1,No,Yes,No
 12,Iowa,State Representative,10,Tom Shaw,REP,2012,2014,1,Yes,Yes,No
-13,Iowa,State Representative,11,Gary Worthan,REP,2012,2014,1,Yes,Yes,Yes
+13,Iowa,State Representative,11,Sean McGary,REP,2012,2014,1,Yes,Yes,Yes
 14,Iowa,State Representative,12,Dan Muhlbauer,DEM,2012,2014,1,No,Yes,Yes
 15,Iowa,State Representative,13,Chris Hall,DEM,2012,2014,1,No,Yes,Yes
 16,Iowa,State Representative,14,David Alan Dawson,DEM,2012,2014,1,No,Yes,Yes
 17,Iowa,State Representative,15,Mark Brandenburg,REP,2012,2014,1,No,Yes,No
 18,Iowa,State Representative,16,Mary Ann Hanusa,REP,2012,2014,1,No,Yes,Yes
-19,Iowa,State Representative,17,Matt Windschitl,REP,2012,2014,1,Yes,Yes,Yes
+19,Iowa,State Representative,17,Matthew Windschitl,REP,2012,2014,1,Yes,Yes,Yes
 20,Iowa,State Representative,18,Jason Schultz,REP,2012,2014,1,No,Yes,Yes
 21,Iowa,State Representative,19,Ralph Watts,REP,2012,2014,1,No,Yes,Yes
 22,Iowa,State Representative,20,Clel Baudler,REP,2012,2014,1,No,Yes,No
@@ -31,7 +31,7 @@
 29,Iowa,State Representative,27,Joel Fry,REP,2012,2014,1,No,Yes,Yes
 30,Iowa,State Representative,28,Greg Heartsill,REP,2012,2014,1,No,No,No
 31,Iowa,State Representative,29,Dan Kelley,DEM,2012,2014,1,No,Yes,Yes
-32,Iowa,State Representative,30,Joe Riding,DEM,2012,2014,1,No,No,No
+32,Iowa,State Representative,30,Joseph Riding,DEM,2012,2014,1,No,No,No
 33,Iowa,State Representative,31,Rick Olson,DEM,2012,2014,1,Yes,No,Yes
 34,Iowa,State Representative,32,Ruth Ann Gaines,DEM,2012,2014,1,No,Yes,Yes
 35,Iowa,State Representative,33,Kevin McCarthy,DEM,2012,2014,1,No,Yes,Yes
@@ -45,7 +45,7 @@
 43,Iowa,State Representative,41,Jo Oldson,DEM,2012,2014,1,No,Yes,Yes
 44,Iowa,State Representative,42,Peter Cownie,REP,2012,2014,1,No,Yes,Yes
 45,Iowa,State Representative,43,Christopher Hagenow,REP,2012,2014,1,No,Yes,Yes
-46,Iowa,State Representative,44,Rob Taylor,REP,2012,2014,1,No,Yes,No
+46,Iowa,State Representative,44,Robert Taylor,REP,2012,2014,1,No,Yes,No
 47,Iowa,State Representative,45,Beth Wessel-Kroeschell,DEM,2012,2014,5,No,Yes,Yes
 48,Iowa,State Representative,46,Lisa Heddens,DEM,2012,2014,5,No,Yes,Yes
 49,Iowa,State Representative,47,Chip Baltimore,REP,2012,2014,1,No,Yes,No
@@ -57,10 +57,10 @@
 55,Iowa,State Representative,53,Sharon Steckman,DEM,2012,2014,1,Yes,Yes,Yes
 56,Iowa,State Representative,54,Linda Upmeyer,REP,2012,2014,1,Yes,Yes,Yes
 57,Iowa,State Representative,55,Roger Thomas,DEM,2012,2014,1,No,Yes,Yes
-58,Iowa,State Representative,56,Patti Ruff,DEM,2012,2014,1,No,No,Yes
+58,Iowa,State Representative,56,Patricia Ruff,DEM,2012,2014,1,No,No,Yes
 59,Iowa,State Representative,57,Nancy Dunkel,DEM,2012,2014,1,Yes,No,Yes
 60,Iowa,State Representative,58,Brian Moore,REP,2012,2014,1,No,Yes,Yes
-61,Iowa,State Representative,59,Bob Kressig,DEM,2012,2014,1,No,Yes,Yes
+61,Iowa,State Representative,59,Robert Kressig,DEM,2012,2014,1,No,Yes,Yes
 62,Iowa,State Representative,60,Walt Rogers,REP,2012,2014,1,No,Yes,Yes
 63,Iowa,State Representative,61,Anesa Kajtazovic,DEM,2012,2014,1,No,Yes,Yes
 64,Iowa,State Representative,62,Deborah Berry,DEM,2012,2014,1,No,Yes,Yes
@@ -83,13 +83,13 @@
 81,Iowa,State Representative,79,Guy Vander Linden,REP,2012,2014,1,No,Yes,Yes
 82,Iowa,State Representative,80,Larry Sheets,REP,2012,2014,1,No,Yes,No
 83,Iowa,State Representative,81,Mary Gaskill,DEM,2012,2014,1,No,Yes,Yes
-84,Iowa,State Representative,82,Curt Hanson,DEM,2012,2014,1,No,Yes,Yes
+84,Iowa,State Representative,82,Curtis Hanson,DEM,2012,2014,1,No,Yes,Yes
 85,Iowa,State Representative,83,Jerry Kearns,DEM,2012,2014,1,No,No,Yes
 86,Iowa,State Representative,84,David Heaton,REP,2012,2014,1,Yes,Yes,No
 87,Iowa,State Representative,85,Vicki Lensing,DEM,2012,2014,1,Yes,Yes,Yes
 88,Iowa,State Representative,86,Mary Mascher,DEM,2012,2014,1,Yes,Yes,Yes
 89,Iowa,State Representative,87,Dennis Cohoon,DEM,2012,2014,1,No,Yes,No
-90,Iowa,State Representative,88,Tom Sands,REP,2012,2014,1,No,No,Yes
+90,Iowa,State Representative,88,Thomas Sands,REP,2012,2014,1,No,No,Yes
 91,Iowa,State Representative,89,Jim Lykam,DEM,2012,2014,1,No,Yes,Yes
 92,Iowa,State Representative,90,Cindy Winckler,DEM,2012,2014,1,No,Yes,Yes
 93,Iowa,State Representative,91,Mark Lofgren,REP,2012,2014,1,No,Yes,Yes
@@ -100,19 +100,19 @@
 98,Iowa,State Representative,96,Lee Hein,REP,2012,2014,1,Yes,Yes,Yes
 99,Iowa,State Representative,97,Steven Olson,REP,2012,2014,1,No,Yes,Yes
 100,Iowa,State Representative,98,Mary Lynn Wolfe,DEM,2012,2014,1,No,Yes,Yes
-101,Iowa,State Representative,99,Pat Joseph Murphy,DEM,2012,2014,1,No,No,Yes
+101,Iowa,State Representative,99,Patrick Joseph Murphy,DEM,2012,2014,1,No,No,Yes
 102,Iowa,State Representative,100,Charles Isenhart,DEM,2012,2014,1,Yes,Yes,Yes
-103,Iowa,State Senator,1,Rick Bertrand,REP,2010,2014,1,No,Yes,No
+103,Iowa,State Senator,1,Richard Bertrand,REP,2010,2014,1,No,Yes,No
 104,Iowa,State Senator,2,Randy Feenstra,REP,2012,2016,2,Yes,Yes,Yes
 105,Iowa,State Senator,3,David Johnson,REP,2010,2014,3,Yes,Yes,Yes
 106,Iowa,State Senator,4,Dennis Guth,REP,2012,2016,1,No,Yes,Yes
 107,Iowa,State Senator,5,Robert Bacon,REP,2010,2014,1,No,Yes,Yes
 108,Iowa,State Senator,6,Mark Segebart,REP,2012,2016,1,No,Yes,Yes
 109,Iowa,State Senator,7,Amanda Elsie Ragan,DEM,2010,2014,3,No,Yes,No
-110,Iowa,State Senator,8,Mike Gronstal,DEM,2012,2016,1,No,Yes,Yes
-111,Iowa,State Senator,9,Bill Dix,REP,2010,2014,1,No,Yes,Yes
+110,Iowa,State Senator,8,Michael Gronstal,DEM,2012,2016,1,No,Yes,Yes
+111,Iowa,State Senator,9,William Dix,REP,2010,2014,1,No,Yes,Yes
 112,Iowa,State Senator,10,Jake Chapman,REP,2012,2016,1,Yes,Yes,Yes
-113,Iowa,State Senator,11,Bill Dotzler,DEM,2010,2014,3,No,Yes,Yes
+113,Iowa,State Senator,11,William Dotzler,DEM,2010,2014,3,No,Yes,Yes
 114,Iowa,State Senator,12,Joni Ernst,REP,2012,2016,1,Yes,Yes,Yes
 115,Iowa,State Senator,13,Tod Bowman,DEM,2010,2014,1,No,Yes,Yes
 116,Iowa,State Senator,14,Amy Beth Sinclair,REP,2012,2016,1,No,Yes,Yes
@@ -135,7 +135,7 @@
 133,Iowa,State Senator,31,Matt McCoy,DEM,2010,2014,3,No,Yes,Yes
 134,Iowa,State Senator,32,Brian Schoenjahn,DEM,2012,2016,1,No,Yes,Yes
 135,Iowa,State Senator,33,Jack Hatch,DEM,2010,2014,3,Yes,Yes,Yes
-136,Iowa,State Senator,34,Liz Mathis,DEM,2012,2016,1,No,Yes,Yes
+136,Iowa,State Senator,34,Elizabeth Mathis,DEM,2012,2016,1,No,Yes,Yes
 137,Iowa,State Senator,35,Jack Whitver,REP,2011,2014,1,No,Yes,Yes
 138,Iowa,State Senator,36,Steve Sodders,DEM,2012,2016,1,No,Yes,Yes
 139,Iowa,State Senator,37,Kent Sorenson,REP,2010,2014,1,No,No,Yes
@@ -144,18 +144,17 @@
 142,Iowa,State Senator,40,Kenneth Rozenboom,REP,2012,2016,1,No,Yes,Yes
 143,Iowa,State Senator,41,Roby Smith,REP,2010,2014,1,No,No,No
 144,Iowa,State Senator,42,Richard Taylor,DEM,2012,2016,1,No,Yes,Yes
-145,Iowa,State Senator,43,Joe Matthew Seng,DEM,2010,2014,3,No,Yes,Yes
+145,Iowa,State Senator,43,Joseph Matthew Seng,DEM,2010,2014,3,No,Yes,Yes
 146,Iowa,State Senator,44,Thomas Courtney,DEM,2012,2016,4,No,Yes,Yes
 147,Iowa,State Senator,45,Sandra Greiner,REP,2010,2014,1,No,Yes,Yes
 148,Iowa,State Senator,46,Chris Brase,DEM,2012,2016,1,No,Yes,Yes
 149,Iowa,State Senator,47,Mark Chelgren,REP,2010,2014,1,No,Yes,Yes
 150,Iowa,State Senator,48,Daniel Zumbach,REP,2012,2016,1,No,Yes,Yes
 151,Iowa,State Senator,49,Rita Rottinghaus Hart,DEM,2012,2014,1,No,No,Yes
-152,Iowa,State Senator,50,Pam Pamela Jochum,DEM,2012,2016,1,No,Yes,Yes
+152,Iowa,State Senator,50,Mary Pamela Jochum,DEM,2012,2016,1,No,Yes,Yes
 153,Iowa,U.S. Representative,1,Bruce Braley,DEM,2012,2014,2,No,No,Yes
-154,Iowa,U.S. Representative,2,Dave Wayne Loebsack,DEM,2012,2014,2,No,Yes,Yes
+154,Iowa,U.S. Representative,2,David Wayne Loebsack,DEM,2012,2014,2,No,Yes,Yes
 155,Iowa,U.S. Representative,3,Tom Latham,REP,2012,2014,1,No,No,Yes
-156,Iowa,U.S. Representative,4,Steve King,REP,2012,2014,1,No,No,No
-157,Iowa,U.S. Representative,5,Steve King,REP,2010,2012,1,No,Yes,Yes
-158,Iowa,U.S. Senator,0,Chuck Grassley,REP,2010,2016,0,No,Yes,Yes
-159,Iowa,U.S. Senator,0,Charles Grassley,REP,2010,2016,1,No,Yes,Yes
+156,Iowa,U.S. Representative,4,Steven King,REP,2012,2014,1,No,No,No
+157,Iowa,U.S. Representative,5,Steven King,REP,2010,2012,1,No,Yes,Yes
+158,Iowa,U.S. Senator,0,Charles Grassley,REP,2010,2016,1,No,Yes,Yes

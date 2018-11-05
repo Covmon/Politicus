@@ -1,7 +1,7 @@
 ,State,Position,District,Candidate,Party,Year Elected,Next Election,Number of Terms in Position,Unopposed in Last Election,DEM Unopposed in Primary,REP Unopposed in Primary
-0,Colorado,Attorney General,0,John Suthers,REP,2006,2010,0,No,No,Yes
-1,Colorado,Governor,0,Bill Ritter Jr.,DEM,2006,2010,0,No,No,No
-2,Colorado,Secretary Of State,0,Mike Coffman,REP,2006,2010,0,No,Yes,Yes
+0,Colorado,Attorney General,0,John Suthers,REP,2006,2010,1,No,No,Yes
+1,Colorado,Governor,0,Bill Ritter Jr.,DEM,2006,2010,1,No,No,No
+2,Colorado,Secretary Of State,0,Michael Coffman,REP,2006,2010,1,No,Yes,Yes
 3,Colorado,State Representative,1,Jeanne Labuda,DEM,2008,2010,2,No,Yes,Yes
 4,Colorado,State Representative,2,Mark Ferrandino,DEM,2008,2010,1,No,Yes,Yes
 5,Colorado,State Representative,3,Anne McGihon,DEM,2008,2010,3,No,Yes,Yes
@@ -9,20 +9,20 @@
 7,Colorado,State Representative,5,Joel Judd,DEM,2008,2010,4,No,No,Yes
 8,Colorado,State Representative,6,Lois Court,DEM,2008,2010,1,No,Yes,Yes
 9,Colorado,State Representative,7,Terrance Carroll,DEM,2008,2010,3,No,Yes,Yes
-10,Colorado,State Representative,8,Beth McCann,DEM,2008,2010,1,Yes,Yes,Yes
+10,Colorado,State Representative,8,Elizabeth McCann,DEM,2008,2010,1,Yes,Yes,Yes
 11,Colorado,State Representative,9,Joe Miklosi,DEM,2008,2010,1,No,No,No
 12,Colorado,State Representative,10,Dickey Lee Hullinghorst,DEM,2008,2010,1,No,Yes,Yes
-13,Colorado,State Representative,11,Jack Pommer,DEM,2008,2010,4,No,Yes,Yes
+13,Colorado,State Representative,11,John Pommer,DEM,2008,2010,4,No,Yes,Yes
 14,Colorado,State Representative,12,Paul Weissmann,DEM,2008,2010,4,No,Yes,Yes
 15,Colorado,State Representative,13,Claire Levy,DEM,2008,2010,2,No,Yes,Yes
 16,Colorado,State Representative,14,Kent Douglas Lambert,REP,2008,2010,2,No,Yes,No
 17,Colorado,State Representative,15,Donald Mark Waller,REP,2008,2010,1,No,Yes,Yes
 18,Colorado,State Representative,16,Larry Liston,REP,2008,2010,3,No,Yes,Yes
 19,Colorado,State Representative,17,Dennis Apuan,DEM,2008,2010,1,No,Yes,Yes
-20,Colorado,State Representative,18,Mike George Merrifield,DEM,2008,2010,4,No,No,No
+20,Colorado,State Representative,18,Michael George Merrifield,DEM,2008,2010,4,No,No,No
 21,Colorado,State Representative,19,Marsha Looper,REP,2008,2010,2,No,Yes,Yes
 22,Colorado,State Representative,20,Amy Stephens,REP,2008,2010,2,No,Yes,Yes
-23,Colorado,State Representative,21,Bob Gardner,REP,2008,2010,2,No,Yes,No
+23,Colorado,State Representative,21,Robert Gardner,REP,2008,2010,2,No,Yes,No
 24,Colorado,State Representative,22,Kenneth Summers,REP,2008,2010,2,No,Yes,No
 25,Colorado,State Representative,23,Gwynith Green,DEM,2008,2010,3,No,Yes,Yes
 26,Colorado,State Representative,24,Susan Schafer,DEM,2008,2010,1,No,No,Yes
@@ -48,7 +48,7 @@
 46,Colorado,State Representative,44,Michael May,REP,2008,2010,4,No,Yes,Yes
 47,Colorado,State Representative,45,Carole Murray,REP,2008,2010,1,No,No,Yes
 48,Colorado,State Representative,46,Salvatore Pace II,DEM,2008,2010,1,Yes,Yes,Yes
-49,Colorado,State Representative,47,Buffie McFadyen,DEM,2008,2010,4,No,Yes,No
+49,Colorado,State Representative,47,Liane McFadyen,DEM,2008,2010,4,No,Yes,No
 50,Colorado,State Representative,48,Glenn Vaad,REP,2008,2010,2,No,Yes,Yes
 51,Colorado,State Representative,49,Kevin Lundberg,REP,2008,2010,4,No,Yes,Yes
 52,Colorado,State Representative,50,James Riesberg,DEM,2008,2010,3,No,No,Yes
@@ -67,15 +67,15 @@
 65,Colorado,State Representative,63,Cory Gardner,REP,2008,2010,2,Yes,Yes,Yes
 66,Colorado,State Representative,64,Wes McKinley,DEM,2008,2010,3,No,Yes,Yes
 67,Colorado,State Representative,65,Jerry Sonnenberg,REP,2008,2010,2,Yes,Yes,Yes
-68,Colorado,State Senator,1,Greg Brophy,REP,2006,2008,1,No,Yes,Yes
-69,Colorado,State Senator,2,Kenneth Kester,REP,2006,2008,2,No,Yes,No
-70,Colorado,State Senator,3,Abel Tapia,DEM,2006,2008,2,Yes,Yes,Yes
+68,Colorado,State Senator,1,Gregory Brophy,REP,2006,2010,1,No,Yes,Yes
+69,Colorado,State Senator,2,Kenneth Kester,REP,2006,2010,2,No,Yes,No
+70,Colorado,State Senator,3,Abel Tapia,DEM,2006,2010,2,Yes,Yes,Yes
 71,Colorado,State Senator,4,Mark Scheffel,REP,2008,2012,1,No,Yes,Yes
-72,Colorado,State Senator,5,Gail Schwartz,DEM,2006,2008,1,No,Yes,Yes
-73,Colorado,State Senator,6,James Isgar,DEM,2006,2008,2,No,Yes,Yes
-74,Colorado,State Senator,7,Josh Penry,REP,2006,2008,1,No,Yes,No
-75,Colorado,State Senator,8,Al White,REP,2008,2012,1,No,Yes,Yes
-76,Colorado,State Senator,9,David Schultheis,REP,2006,2008,1,No,Yes,Yes
+72,Colorado,State Senator,5,Gail Schwartz,DEM,2006,2010,1,No,Yes,Yes
+73,Colorado,State Senator,6,James Isgar,DEM,2006,2010,2,No,Yes,Yes
+74,Colorado,State Senator,7,Josh Penry,REP,2006,2010,1,No,Yes,No
+75,Colorado,State Senator,8,Albert White,REP,2008,2012,1,No,Yes,Yes
+76,Colorado,State Senator,9,David Schultheis,REP,2006,2010,1,No,Yes,Yes
 77,Colorado,State Senator,10,Bill Cadman,REP,2008,2012,1,No,Yes,Yes
 78,Colorado,State Senator,11,John Morse,DEM,2006,2010,1,No,Yes,Yes
 79,Colorado,State Senator,12,Steven King,REP,2008,2012,1,No,Yes,Yes
@@ -84,11 +84,11 @@
 82,Colorado,State Senator,15,Steve Johnson,REP,2006,2010,2,No,Yes,Yes
 83,Colorado,State Senator,16,Daniel Gibbs,DEM,2008,2010,1,No,Yes,Yes
 84,Colorado,State Senator,17,Brandon Shaffer,DEM,2008,2012,2,No,Yes,Yes
-85,Colorado,State Senator,18,Rollie Rollins Heath Jr.,DEM,2008,2012,1,Yes,Yes,Yes
-86,Colorado,State Senator,19,Evie Hudak,DEM,2008,2012,1,No,Yes,Yes
+85,Colorado,State Senator,18,Stratton Rollins Heath Jr.,DEM,2008,2012,1,Yes,Yes,Yes
+86,Colorado,State Senator,19,Evanne Hudak,DEM,2008,2012,1,No,Yes,Yes
 87,Colorado,State Senator,20,Maryanne Moe Keller,DEM,2006,2010,2,No,Yes,Yes
 88,Colorado,State Senator,21,Betty Boyd,DEM,2008,2012,2,No,Yes,Yes
-89,Colorado,State Senator,22,Mike Michael Kopp,REP,2006,2010,1,No,Yes,Yes
+89,Colorado,State Senator,22,Michael Kopp,REP,2006,2010,1,No,Yes,Yes
 90,Colorado,State Senator,23,Shawn Mitchell,REP,2008,2012,2,No,Yes,Yes
 91,Colorado,State Senator,24,Lois Tochtrop,DEM,2006,2010,1,No,Yes,Yes
 92,Colorado,State Senator,25,Mary Ann Hodge,DEM,2008,2012,1,No,Yes,Yes
@@ -98,16 +98,7 @@
 96,Colorado,State Senator,29,Morgan Carroll,DEM,2008,2012,1,No,Yes,Yes
 97,Colorado,State Senator,30,Ted Harvey,REP,2006,2010,1,No,Yes,Yes
 98,Colorado,State Senator,31,Jennifer Veiga,DEM,2008,2012,2,No,Yes,Yes
-99,Colorado,State Senator,32,Chris Romer,DEM,2006,2010,1,No,No,Yes
+99,Colorado,State Senator,32,Christopher Romer,DEM,2006,2010,1,No,No,Yes
 100,Colorado,State Senator,33,Peter Groff,DEM,2008,2012,2,Yes,Yes,Yes
 101,Colorado,State Senator,34,Paula Sandoval,DEM,2006,2010,2,Yes,No,Yes
 102,Colorado,State Senator,35,Joyce Foster,DEM,2008,2012,1,No,Yes,Yes
-103,Colorado,U.S. Representative,1,Diana Degette,DEM,2010,2012,1,No,No,Yes
-104,Colorado,U.S. Representative,2,Jared Schutz Polis,DEM,2010,2012,1,No,No,Yes
-105,Colorado,U.S. Representative,3,Scott Tipton,REP,2010,2012,1,No,No,Yes
-106,Colorado,U.S. Representative,4,Cory Gardner,REP,2010,2012,1,No,No,Yes
-107,Colorado,U.S. Representative,5,Douglas Lamborn,REP,2010,2012,1,No,Yes,No
-108,Colorado,U.S. Representative,6,Michael Coffman,REP,2010,2012,1,No,No,Yes
-109,Colorado,U.S. Representative,7,Edwin Perlmutter,DEM,2010,2012,1,No,Yes,Yes
-110,Colorado,U.S. Senator,0,Michael Bennet,DEM,2010,2016,1,No,Yes,Yes
-111,Colorado,U.S. Senator,0,Michael Bennet,DEM,2010,2016,1,No,Yes,Yes

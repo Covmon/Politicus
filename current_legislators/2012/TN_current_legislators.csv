@@ -1,359 +1,143 @@
 ,State,Position,District,Candidate,Party,Year Elected,Next Election,Number of Terms in Position,Unopposed in Last Election,DEM Unopposed in Primary,REP Unopposed in Primary
-0,Tennessee,Governor,0,Bill Haslam,REP,2010,2014,0,No,No,No
+0,Tennessee,Governor,0,William Haslam,REP,2010,2014,1,No,No,No
 1,Tennessee,State Representative,1,Jon Lundberg,REP,2010,2012,3,Yes,Yes,Yes
-2,Tennessee,State Representative,1,Jon Lundberg,REP,2008,2010,2,No,Yes,Yes
-3,Tennessee,State Representative,1,Jon Lundberg,REP,2006,2008,1,No,Yes,Yes
-4,Tennessee,State Representative,2,Tony Shipley,REP,2010,2012,2,No,Yes,Yes
-5,Tennessee,State Representative,2,Tony Shipley,REP,2008,2010,1,No,Yes,Yes
-6,Tennessee,State Representative,2,Nathan Vaughn,DEM,2006,2008,3,Yes,Yes,Yes
-7,Tennessee,State Representative,3,Scotty Campbell,REP,2010,2012,1,No,Yes,Yes
-8,Tennessee,State Representative,3,Jason Mumpower,REP,2008,2010,5,Yes,Yes,Yes
-9,Tennessee,State Representative,3,Jason Mumpower,REP,2006,2008,4,Yes,Yes,Yes
-10,Tennessee,State Representative,4,Kent Williams,IND,2010,2012,3,No,Yes,No
-11,Tennessee,State Representative,4,Kent Williams,REP,2008,2010,2,No,Yes,No
-12,Tennessee,State Representative,4,Kent Williams,REP,2006,2008,1,Yes,Yes,No
-13,Tennessee,State Representative,5,David Hawk,REP,2010,2012,5,No,Yes,Yes
-14,Tennessee,State Representative,5,David Hawk,REP,2008,2010,4,No,Yes,Yes
-15,Tennessee,State Representative,5,David Hawk,REP,2006,2008,3,Yes,Yes,Yes
-16,Tennessee,State Representative,6,Dale Ford,REP,2010,2012,3,Yes,Yes,No
-17,Tennessee,State Representative,6,Dale Ford,REP,2008,2010,2,Yes,Yes,No
-18,Tennessee,State Representative,6,Dale Ford,REP,2006,2008,1,Yes,Yes,No
-19,Tennessee,State Representative,7,Matthew Hill,REP,2010,2012,4,No,Yes,Yes
-20,Tennessee,State Representative,7,Matthew Hill,REP,2008,2010,3,No,Yes,Yes
-21,Tennessee,State Representative,7,Matthew Hill,REP,2006,2008,2,No,Yes,Yes
-22,Tennessee,State Representative,8,Art Swann,REP,2010,2012,1,No,Yes,No
-23,Tennessee,State Representative,8,Joe McCord,REP,2008,2010,5,Yes,Yes,No
-24,Tennessee,State Representative,8,Joe McCord,REP,2006,2008,4,Yes,Yes,No
-25,Tennessee,State Representative,9,Mike Harrison,REP,2010,2012,5,Yes,Yes,No
-26,Tennessee,State Representative,9,Mike Harrison,REP,2008,2010,4,No,Yes,No
-27,Tennessee,State Representative,9,Mike Harrison,REP,2006,2008,3,No,Yes,No
-28,Tennessee,State Representative,10,Don Miller,REP,2010,2012,1,No,Yes,No
-29,Tennessee,State Representative,10,John Litz,DEM,2008,2010,4,Yes,Yes,No
-30,Tennessee,State Representative,10,John Litz,DEM,2006,2008,3,Yes,Yes,No
-31,Tennessee,State Representative,11,Jeremy Faison,REP,2010,2012,1,No,Yes,No
-32,Tennessee,State Representative,11,Eddie Yokley,DEM,2008,2010,4,No,Yes,No
-33,Tennessee,State Representative,11,Eddie Yokley,DEM,2006,2008,3,No,Yes,No
-34,Tennessee,State Representative,12,Richard Montgomery,REP,2010,2012,6,No,Yes,Yes
-35,Tennessee,State Representative,12,Richard Montgomery,REP,2008,2010,5,Yes,Yes,Yes
-36,Tennessee,State Representative,12,Richard Montgomery,REP,2006,2008,4,Yes,Yes,Yes
-37,Tennessee,State Representative,13,Harry Tindell,DEM,2010,2012,6,Yes,Yes,Yes
-38,Tennessee,State Representative,13,Harry Tindell,DEM,2008,2010,5,Yes,Yes,Yes
-39,Tennessee,State Representative,13,Harry Tindell,DEM,2006,2008,4,No,Yes,Yes
-40,Tennessee,State Representative,14,Ryan Haynes,REP,2010,2012,2,Yes,No,Yes
-41,Tennessee,State Representative,14,Ryan Haynes,REP,2008,2010,1,Yes,No,Yes
-42,Tennessee,State Representative,14,Parkey Strader,REP,2006,2008,2,Yes,No,Yes
-43,Tennessee,State Representative,15,Joe Armstrong,DEM,2010,2012,6,Yes,Yes,Yes
-44,Tennessee,State Representative,15,Joe Armstrong,DEM,2008,2010,5,No,Yes,Yes
-45,Tennessee,State Representative,15,Joe Armstrong,DEM,2006,2008,4,No,Yes,Yes
-46,Tennessee,State Representative,16,Bill Dunn,REP,2010,2012,6,Yes,Yes,Yes
-47,Tennessee,State Representative,16,Bill Dunn,REP,2008,2010,5,No,Yes,Yes
-48,Tennessee,State Representative,16,Bill Dunn,REP,2006,2008,4,Yes,Yes,Yes
-49,Tennessee,State Representative,17,Frank Niceley,REP,2010,2012,4,No,Yes,Yes
-50,Tennessee,State Representative,17,Frank Niceley,REP,2008,2010,3,No,Yes,Yes
-51,Tennessee,State Representative,17,Frank Niceley,REP,2006,2008,2,Yes,Yes,Yes
-52,Tennessee,State Representative,18,Steve Hall,REP,2010,2012,1,No,No,Yes
-53,Tennessee,State Representative,18,Stacey Campfield,REP,2008,2010,3,Yes,No,Yes
-54,Tennessee,State Representative,18,Stacey Campfield,REP,2006,2008,2,No,No,Yes
-55,Tennessee,State Representative,19,Harry Brooks,REP,2010,2012,5,Yes,Yes,No
-56,Tennessee,State Representative,19,Harry Brooks,REP,2008,2010,4,Yes,Yes,No
-57,Tennessee,State Representative,19,Harry Brooks,REP,2006,2008,3,Yes,Yes,No
-58,Tennessee,State Representative,20,Bob Ramsey,REP,2010,2012,2,Yes,Yes,Yes
-59,Tennessee,State Representative,20,Bob Ramsey,REP,2008,2010,1,Yes,Yes,Yes
-60,Tennessee,State Representative,20,Doug Douglas Overbey,REP,2006,2008,4,Yes,Yes,Yes
-61,Tennessee,State Representative,21,Jimmy Lloyd Matlock,REP,2010,2012,3,Yes,Yes,No
-62,Tennessee,State Representative,21,Jimmy Lloyd Matlock,REP,2008,2010,2,Yes,Yes,No
-63,Tennessee,State Representative,21,Jimmy Lloyd Matlock,REP,2006,2008,1,No,Yes,No
-64,Tennessee,State Representative,22,Eric Watson,REP,2010,2012,3,Yes,Yes,Yes
-65,Tennessee,State Representative,22,Eric Watson,REP,2008,2010,2,Yes,Yes,Yes
-66,Tennessee,State Representative,22,Eric Watson,REP,2006,2008,1,No,Yes,Yes
-67,Tennessee,State Representative,23,John Forgety,REP,2010,2012,1,Yes,Yes,No
-68,Tennessee,State Representative,23,Mike Bell,REP,2008,2010,2,Yes,Yes,No
-69,Tennessee,State Representative,23,Mike Bell,REP,2006,2008,1,Yes,Yes,No
-70,Tennessee,State Representative,24,Kevin Brooks,REP,2010,2012,3,Yes,Yes,No
-71,Tennessee,State Representative,24,Kevin Brooks,REP,2008,2010,2,No,Yes,No
-72,Tennessee,State Representative,24,Kevin Brooks,REP,2006,2008,1,Yes,Yes,No
-73,Tennessee,State Representative,25,Cameron Sexton,REP,2010,2012,1,No,Yes,Yes
-74,Tennessee,State Representative,25,Eric Swafford,REP,2008,2010,3,Yes,Yes,Yes
-75,Tennessee,State Representative,25,Eric Swafford,REP,2006,2008,2,No,Yes,Yes
-76,Tennessee,State Representative,26,Gerald McCormick,REP,2010,2012,4,Yes,No,Yes
-77,Tennessee,State Representative,26,Gerald McCormick,REP,2008,2010,3,Yes,No,Yes
-78,Tennessee,State Representative,26,Gerald McCormick,REP,2006,2008,2,Yes,No,Yes
-79,Tennessee,State Representative,27,Richard Floyd,REP,2010,2012,3,Yes,Yes,Yes
-80,Tennessee,State Representative,27,Richard Floyd,REP,2008,2010,2,Yes,Yes,Yes
-81,Tennessee,State Representative,27,Richard Floyd,REP,2006,2008,1,No,Yes,Yes
-82,Tennessee,State Representative,28,Tommie Brown,DEM,2010,2012,6,No,No,Yes
-83,Tennessee,State Representative,28,Tommie Brown,DEM,2008,2010,5,Yes,No,Yes
-84,Tennessee,State Representative,28,Tommie Brown,DEM,2006,2008,4,No,No,Yes
-85,Tennessee,State Representative,29,Joanne Favors,DEM,2010,2012,4,Yes,Yes,Yes
-86,Tennessee,State Representative,29,Joanne Favors,DEM,2008,2010,3,No,Yes,Yes
-87,Tennessee,State Representative,29,Joanne Favors,DEM,2006,2008,2,Yes,Yes,Yes
-88,Tennessee,State Representative,30,Vince Dean,REP,2010,2012,3,Yes,Yes,No
-89,Tennessee,State Representative,30,Vince Dean,REP,2008,2010,2,Yes,Yes,No
-90,Tennessee,State Representative,30,Vince Dean,REP,2006,2008,1,Yes,Yes,No
-91,Tennessee,State Representative,31,Jim Cobb,REP,2010,2012,3,Yes,Yes,Yes
-92,Tennessee,State Representative,31,Jim Cobb,REP,2008,2010,2,Yes,Yes,Yes
-93,Tennessee,State Representative,31,Jim Cobb,REP,2006,2008,1,No,Yes,Yes
-94,Tennessee,State Representative,32,Julia Cheyanne Hurley,REP,2010,2012,1,No,Yes,Yes
-95,Tennessee,State Representative,32,Dennis Ferguson,DEM,2008,2010,5,Yes,Yes,Yes
-96,Tennessee,State Representative,32,Dennis Ferguson,DEM,2006,2008,4,Yes,Yes,Yes
-97,Tennessee,State Representative,33,John Ragan,REP,2010,2012,1,No,No,Yes
-98,Tennessee,State Representative,33,Jim Hackworth,DEM,2008,2010,4,No,No,Yes
-99,Tennessee,State Representative,33,Jim Hackworth,DEM,2006,2008,3,No,No,Yes
-100,Tennessee,State Representative,34,Rick Womick,REP,2010,2012,1,No,Yes,Yes
-101,Tennessee,State Representative,34,Donna Rowland,REP,2008,2010,4,No,Yes,Yes
-102,Tennessee,State Representative,34,Donna Rowland,REP,2006,2008,3,No,Yes,Yes
-103,Tennessee,State Representative,35,Coach Roach,REP,2010,2012,6,Yes,Yes,No
-104,Tennessee,State Representative,35,Coach Roach,REP,2008,2010,5,No,Yes,No
-105,Tennessee,State Representative,35,Coach Roach,REP,2006,2008,4,No,Yes,No
-106,Tennessee,State Representative,36,Dennis Powers,REP,2010,2012,1,No,Yes,Yes
-107,Tennessee,State Representative,36,Chad Faulkner,REP,2008,2010,1,No,Yes,Yes
-108,Tennessee,State Representative,36,William Baird,REP,2006,2008,4,No,Yes,Yes
-109,Tennessee,State Representative,37,Bill Harmon,DEM,2010,2012,5,Yes,Yes,Yes
-110,Tennessee,State Representative,37,Bill Harmon,DEM,2008,2010,4,No,Yes,Yes
-111,Tennessee,State Representative,37,Bill Harmon,DEM,2006,2008,3,No,Yes,Yes
-112,Tennessee,State Representative,38,Kelly Keisling,REP,2010,2012,1,No,Yes,Yes
-113,Tennessee,State Representative,38,Leslie Winningham,DEM,2008,2010,5,Yes,Yes,Yes
-114,Tennessee,State Representative,38,Leslie Winningham,DEM,2006,2008,4,No,Yes,Yes
-115,Tennessee,State Representative,39,David Alexander,REP,2010,2012,1,No,Yes,No
-116,Tennessee,State Representative,39,George Fraley,DEM,2008,2010,5,No,Yes,No
-117,Tennessee,State Representative,39,George Fraley,DEM,2006,2008,4,No,Yes,No
-118,Tennessee,State Representative,40,Terri Lynn Weaver,REP,2010,2012,2,No,Yes,No
-119,Tennessee,State Representative,40,Terri Lynn Weaver,REP,2008,2010,1,No,Yes,No
-120,Tennessee,State Representative,40,Frank Buck,DEM,2006,2008,4,No,Yes,No
-121,Tennessee,State Representative,41,John Mark Windle,DEM,2010,2012,6,No,Yes,Yes
-122,Tennessee,State Representative,41,John Mark Windle,DEM,2008,2010,5,Yes,Yes,Yes
-123,Tennessee,State Representative,41,John Mark Windle,DEM,2006,2008,4,Yes,Yes,Yes
-124,Tennessee,State Representative,42,Ryan Williams,REP,2010,2012,1,No,Yes,Yes
-125,Tennessee,State Representative,42,Henry Fincher,DEM,2008,2010,2,Yes,Yes,Yes
-126,Tennessee,State Representative,42,Henry Fincher,DEM,2006,2008,1,No,Yes,Yes
-127,Tennessee,State Representative,43,Charles Curtiss,DEM,2010,2012,6,Yes,Yes,No
-128,Tennessee,State Representative,43,Charles Curtiss,DEM,2008,2010,5,Yes,Yes,No
-129,Tennessee,State Representative,43,Charles Curtiss,DEM,2006,2008,4,Yes,Yes,No
-130,Tennessee,State Representative,44,Mike McDonald,DEM,2010,2012,6,No,Yes,Yes
-131,Tennessee,State Representative,44,Mike McDonald,DEM,2008,2010,5,Yes,Yes,Yes
-132,Tennessee,State Representative,44,Mike McDonald,DEM,2006,2008,4,No,Yes,Yes
-133,Tennessee,State Representative,45,Debra Young Maggart,REP,2010,2012,4,No,Yes,No
-134,Tennessee,State Representative,45,Debra Young Maggart,REP,2008,2010,3,No,Yes,No
-135,Tennessee,State Representative,45,Debra Young Maggart,REP,2006,2008,2,No,Yes,No
-136,Tennessee,State Representative,46,Mark Pody,REP,2010,2012,1,No,No,No
-137,Tennessee,State Representative,46,Stratton Bone,DEM,2008,2010,5,No,No,No
-138,Tennessee,State Representative,46,Stratton Bone,DEM,2006,2008,4,No,No,No
-139,Tennessee,State Representative,47,Judd Matheny,REP,2010,2012,5,No,Yes,No
-140,Tennessee,State Representative,47,Judd Matheny,REP,2008,2010,4,No,Yes,No
-141,Tennessee,State Representative,47,Judd Matheny,REP,2006,2008,3,No,Yes,No
-142,Tennessee,State Representative,48,Joe Carr,REP,2010,2012,2,No,Yes,Yes
-143,Tennessee,State Representative,48,Joe Carr,REP,2008,2010,1,No,Yes,Yes
-144,Tennessee,State Representative,48,John Hood,DEM,2006,2008,4,No,Yes,Yes
-145,Tennessee,State Representative,49,Mike Sparks,REP,2010,2012,1,No,No,No
-146,Tennessee,State Representative,49,Kent Coleman,DEM,2008,2010,4,No,No,No
-147,Tennessee,State Representative,49,Kent Coleman,DEM,2006,2008,3,No,No,No
-148,Tennessee,State Representative,50,Gary Moore,DEM,2010,2012,4,No,Yes,Yes
-149,Tennessee,State Representative,50,Gary Moore,DEM,2008,2010,3,Yes,Yes,Yes
-150,Tennessee,State Representative,50,Gary Moore,DEM,2006,2008,2,Yes,Yes,Yes
-151,Tennessee,State Representative,51,Mike Turner,DEM,2010,2012,6,No,No,Yes
-152,Tennessee,State Representative,51,Mike Turner,DEM,2008,2010,5,Yes,No,Yes
-153,Tennessee,State Representative,51,Mike Turner,DEM,2006,2008,4,Yes,No,Yes
-154,Tennessee,State Representative,52,Mike Stewart,DEM,2010,2012,2,Yes,Yes,Yes
-155,Tennessee,State Representative,52,Mike Stewart,DEM,2008,2010,1,No,Yes,Yes
-156,Tennessee,State Representative,52,Robert Briley,DEM,2006,2008,4,No,Yes,Yes
-157,Tennessee,State Representative,53,Janis Baird Sontany,DEM,2010,2012,5,No,Yes,Yes
-158,Tennessee,State Representative,53,Janis Baird Sontany,DEM,2008,2010,4,Yes,Yes,Yes
-159,Tennessee,State Representative,53,Janis Baird Sontany,DEM,2006,2008,3,Yes,Yes,Yes
-160,Tennessee,State Representative,54,Brenda Gilmore,DEM,2010,2012,3,Yes,No,Yes
-161,Tennessee,State Representative,54,Brenda Gilmore,DEM,2008,2010,2,Yes,No,Yes
-162,Tennessee,State Representative,54,Brenda Gilmore,DEM,2006,2008,1,Yes,No,Yes
-163,Tennessee,State Representative,55,Gary Odom,DEM,2010,2012,6,No,Yes,Yes
-164,Tennessee,State Representative,55,Gary Odom,DEM,2008,2010,5,No,Yes,Yes
-165,Tennessee,State Representative,55,Gary Odom,DEM,2006,2008,4,Yes,Yes,Yes
-166,Tennessee,State Representative,56,Beth Harwell,REP,2010,2012,6,No,Yes,No
-167,Tennessee,State Representative,56,Beth Harwell,REP,2008,2010,5,Yes,Yes,No
-168,Tennessee,State Representative,56,Beth Harwell,REP,2006,2008,4,Yes,Yes,No
-169,Tennessee,State Representative,57,Linda Elam,REP,2010,2012,1,No,Yes,No
-170,Tennessee,State Representative,57,Susan Lynn,REP,2008,2010,4,No,Yes,No
-171,Tennessee,State Representative,57,Susan Lynn,REP,2006,2008,3,Yes,Yes,No
-172,Tennessee,State Representative,58,Mary Pruitt,DEM,2010,2012,6,Yes,No,Yes
-173,Tennessee,State Representative,58,Mary Pruitt,DEM,2008,2010,5,No,No,Yes
-174,Tennessee,State Representative,58,Mary Pruitt,DEM,2006,2008,4,No,No,Yes
-175,Tennessee,State Representative,59,Sherry Jones,DEM,2010,2012,6,No,No,Yes
-176,Tennessee,State Representative,59,Sherry Jones,DEM,2008,2010,5,Yes,No,Yes
-177,Tennessee,State Representative,59,Sherry Jones,DEM,2006,2008,4,No,No,Yes
-178,Tennessee,State Representative,60,Jim Gotto,REP,2010,2012,1,No,Yes,Yes
-179,Tennessee,State Representative,60,Ben West Jr.,DEM,2008,2010,5,No,Yes,Yes
-180,Tennessee,State Representative,60,Ben West Jr.,DEM,2006,2008,4,No,Yes,Yes
-181,Tennessee,State Representative,61,Charles Sargent Jr.,REP,2010,2012,6,Yes,Yes,No
-182,Tennessee,State Representative,61,Charles Sargent Jr.,REP,2008,2010,5,Yes,Yes,No
-183,Tennessee,State Representative,61,Charles Sargent Jr.,REP,2006,2008,4,Yes,Yes,No
-184,Tennessee,State Representative,62,Pat Marsh,REP,2010,2012,1,No,Yes,Yes
-185,Tennessee,State Representative,62,Curt Cobb,DEM,2008,2010,4,No,Yes,Yes
-186,Tennessee,State Representative,62,Curt Cobb,DEM,2006,2008,3,Yes,Yes,Yes
-187,Tennessee,State Representative,63,Glen Casada,REP,2010,2012,5,Yes,Yes,Yes
-188,Tennessee,State Representative,63,Glen Casada,REP,2008,2010,4,Yes,Yes,Yes
-189,Tennessee,State Representative,63,Glen Casada,REP,2006,2008,3,No,Yes,Yes
-190,Tennessee,State Representative,64,Sheila Butt,REP,2010,2012,1,No,Yes,No
-191,Tennessee,State Representative,64,Ty Cobb,DEM,2008,2010,1,No,Yes,No
-192,Tennessee,State Representative,64,Tom Thomas Dubois,REP,2006,2008,3,No,Yes,No
-193,Tennessee,State Representative,65,Eddie Bass,DEM,2010,2012,3,No,Yes,Yes
-194,Tennessee,State Representative,65,Eddie Bass,DEM,2008,2010,2,Yes,Yes,Yes
-195,Tennessee,State Representative,65,Eddie Bass,DEM,2006,2008,1,No,Yes,Yes
-196,Tennessee,State Representative,66,Joshua Evans,REP,2010,2012,2,No,Yes,Yes
-197,Tennessee,State Representative,66,Joshua Evans,REP,2008,2010,1,No,Yes,Yes
-198,Tennessee,State Representative,66,Bob Bibb,DEM,2006,2008,1,No,Yes,Yes
-199,Tennessee,State Representative,67,Joe Pitts,DEM,2010,2012,3,No,No,Yes
-200,Tennessee,State Representative,67,Joe Pitts,DEM,2008,2010,2,Yes,No,Yes
-201,Tennessee,State Representative,67,Joe Pitts,DEM,2006,2008,1,No,No,Yes
-202,Tennessee,State Representative,68,Curtis Johnson,REP,2010,2012,4,No,Yes,Yes
-203,Tennessee,State Representative,68,Curtis Johnson,REP,2008,2010,3,Yes,Yes,Yes
-204,Tennessee,State Representative,68,Curtis Johnson,REP,2006,2008,2,No,Yes,Yes
-205,Tennessee,State Representative,69,David Shepard,DEM,2010,2012,6,No,Yes,Yes
-206,Tennessee,State Representative,69,David Shepard,DEM,2008,2010,5,No,Yes,Yes
-207,Tennessee,State Representative,69,David Shepard,DEM,2006,2008,4,Yes,Yes,Yes
-208,Tennessee,State Representative,70,Joey Hensley,REP,2010,2012,5,No,Yes,No
-209,Tennessee,State Representative,70,Joey Hensley,REP,2008,2010,4,No,Yes,No
-210,Tennessee,State Representative,70,Joey Hensley,REP,2006,2008,3,No,Yes,No
-211,Tennessee,State Representative,71,Vance Dennis,REP,2010,2012,2,Yes,Yes,Yes
-212,Tennessee,State Representative,71,Vance Dennis,REP,2008,2010,1,No,Yes,Yes
-213,Tennessee,State Representative,71,Randy Rinks,DEM,2006,2008,4,No,Yes,Yes
-214,Tennessee,State Representative,72,Steve McDaniel,REP,2010,2012,6,Yes,Yes,No
-215,Tennessee,State Representative,72,Steve McDaniel,REP,2008,2010,5,Yes,Yes,No
-216,Tennessee,State Representative,72,Steve McDaniel,REP,2006,2008,4,Yes,Yes,No
-217,Tennessee,State Representative,73,Jimmy Eldridge,REP,2010,2012,5,Yes,No,No
-218,Tennessee,State Representative,73,Jimmy Eldridge,REP,2008,2010,4,Yes,No,No
-219,Tennessee,State Representative,73,Jimmy Eldridge,REP,2006,2008,3,Yes,No,No
-220,Tennessee,State Representative,74,John Tidwell,DEM,2010,2012,6,Yes,Yes,Yes
-221,Tennessee,State Representative,74,John Tidwell,DEM,2008,2010,5,Yes,Yes,Yes
-222,Tennessee,State Representative,74,John Tidwell,DEM,2006,2008,4,Yes,Yes,Yes
-223,Tennessee,State Representative,75,Timothy Wirgau,REP,2010,2012,1,No,Yes,No
-224,Tennessee,State Representative,75,Butch Borchert,DEM,2008,2010,4,No,Yes,No
-225,Tennessee,State Representative,75,Butch Borchert,DEM,2006,2008,3,No,Yes,No
-226,Tennessee,State Representative,76,Andy Holt,REP,2010,2012,1,No,Yes,No
-227,Tennessee,State Representative,76,Mark Maddox,DEM,2008,2010,5,Yes,Yes,No
-228,Tennessee,State Representative,76,Mark Maddox,DEM,2006,2008,4,No,Yes,No
-229,Tennessee,State Representative,77,Bill Sanderson,REP,2010,2012,1,No,Yes,Yes
-230,Tennessee,State Representative,77,Judy Barker,DEM,2008,2010,1,No,Yes,Yes
-231,Tennessee,State Representative,77,Phillip Pinion,DEM,2006,2008,4,No,Yes,Yes
-232,Tennessee,State Representative,78,Phillip Johnson,REP,2010,2012,5,No,Yes,Yes
-233,Tennessee,State Representative,78,Phillip Johnson,REP,2008,2010,4,No,Yes,Yes
-234,Tennessee,State Representative,78,Phillip Johnson,REP,2006,2008,3,No,Yes,Yes
-235,Tennessee,State Representative,79,Curtis Halford,REP,2010,2012,2,No,Yes,Yes
-236,Tennessee,State Representative,79,Curtis Halford,REP,2008,2010,1,No,Yes,Yes
-237,Tennessee,State Representative,79,Chris Crider,REP,2006,2008,3,No,Yes,Yes
-238,Tennessee,State Representative,80,Johnny Shaw,DEM,2010,2012,6,No,Yes,Yes
-239,Tennessee,State Representative,80,Johnny Shaw,DEM,2008,2010,5,Yes,Yes,Yes
-240,Tennessee,State Representative,80,Johnny Shaw,DEM,2006,2008,4,No,Yes,Yes
-241,Tennessee,State Representative,81,Jimmy Naifeh,DEM,2010,2012,6,No,Yes,Yes
-242,Tennessee,State Representative,81,Jimmy Naifeh,DEM,2008,2010,5,No,Yes,Yes
-243,Tennessee,State Representative,81,Jimmy Naifeh,DEM,2006,2008,4,Yes,Yes,Yes
-244,Tennessee,State Representative,82,Craig Fitzhugh,DEM,2010,2012,6,No,No,No
-245,Tennessee,State Representative,82,Craig Fitzhugh,DEM,2008,2010,5,Yes,No,No
-246,Tennessee,State Representative,82,Craig Fitzhugh,DEM,2006,2008,4,Yes,No,No
-247,Tennessee,State Representative,83,Mark White,REP,2010,2012,1,Yes,Yes,No
-248,Tennessee,State Representative,83,Brian Kelsey,REP,2008,2010,3,Yes,Yes,No
-249,Tennessee,State Representative,83,Brian Kelsey,REP,2006,2008,2,Yes,Yes,No
-250,Tennessee,State Representative,84,Joe Towns Jr.,DEM,2010,2012,6,Yes,Yes,Yes
-251,Tennessee,State Representative,84,Joe Towns Jr.,DEM,2008,2010,5,Yes,Yes,Yes
-252,Tennessee,State Representative,84,Joe Towns Jr.,DEM,2006,2008,4,Yes,Yes,Yes
-253,Tennessee,State Representative,85,Johnnie Turner,DEM,2010,2012,1,No,No,Yes
-254,Tennessee,State Representative,85,Larry Turner,DEM,2008,2010,5,Yes,No,Yes
-255,Tennessee,State Representative,85,Larry Turner,DEM,2006,2008,4,Yes,No,Yes
-256,Tennessee,State Representative,86,Barbara Cooper,DEM,2010,2012,6,No,No,Yes
-257,Tennessee,State Representative,86,Barbara Cooper,DEM,2008,2010,5,No,No,Yes
-258,Tennessee,State Representative,86,Barbara Cooper,DEM,2006,2008,4,No,No,Yes
-259,Tennessee,State Representative,87,Karen Camper,DEM,2010,2012,2,Yes,Yes,Yes
-260,Tennessee,State Representative,87,Karen Camper,DEM,2008,2010,1,Yes,Yes,Yes
-261,Tennessee,State Representative,87,Gary Rowe,DEM,2006,2008,1,Yes,Yes,Yes
-262,Tennessee,State Representative,88,Larry Miller,DEM,2010,2012,6,Yes,Yes,Yes
-263,Tennessee,State Representative,88,Larry Miller,DEM,2008,2010,5,No,Yes,Yes
-264,Tennessee,State Representative,88,Larry Miller,DEM,2006,2008,4,Yes,Yes,Yes
-265,Tennessee,State Representative,89,Jeanne Richardson,DEM,2010,2012,2,No,No,No
-266,Tennessee,State Representative,89,Jeanne Richardson,DEM,2008,2010,1,Yes,No,No
-267,Tennessee,State Representative,89,Beverly Robison Marrero,DEM,2006,2008,2,No,No,No
-268,Tennessee,State Representative,90,John Deberry Jr.,DEM,2010,2012,6,Yes,No,Yes
-269,Tennessee,State Representative,90,John Deberry Jr.,DEM,2008,2010,5,Yes,No,Yes
-270,Tennessee,State Representative,90,John Deberry Jr.,DEM,2006,2008,4,Yes,No,Yes
-271,Tennessee,State Representative,91,Lois Deberry,DEM,2010,2012,6,No,No,Yes
-272,Tennessee,State Representative,91,Lois Deberry,DEM,2008,2010,5,No,No,Yes
-273,Tennessee,State Representative,91,Lois Deberry,DEM,2006,2008,4,Yes,No,Yes
-274,Tennessee,State Representative,92,A Hardaway Sr.,DEM,2010,2012,2,Yes,Yes,No
-275,Tennessee,State Representative,92,A Hardaway Sr.,DEM,2008,2010,1,Yes,Yes,No
-276,Tennessee,State Representative,92,Henri Brooks,DEM,2006,2008,4,Yes,Yes,No
-277,Tennessee,State Representative,93,Mike Kernell,DEM,2010,2012,6,No,No,Yes
-278,Tennessee,State Representative,93,Mike Kernell,DEM,2008,2010,5,No,No,Yes
-279,Tennessee,State Representative,93,Mike Kernell,DEM,2006,2008,4,No,No,Yes
-280,Tennessee,State Representative,94,Barrett Rich,REP,2010,2012,2,No,Yes,Yes
-281,Tennessee,State Representative,94,Barrett Rich,REP,2008,2010,1,No,Yes,Yes
-282,Tennessee,State Representative,94,Dolores Gresham,REP,2006,2008,3,No,Yes,Yes
-283,Tennessee,State Representative,95,Curry Todd,REP,2010,2012,6,No,Yes,Yes
-284,Tennessee,State Representative,95,Curry Todd,REP,2008,2010,5,Yes,Yes,Yes
-285,Tennessee,State Representative,95,Curry Todd,REP,2006,2008,4,Yes,Yes,Yes
-286,Tennessee,State Representative,96,Steve McManus,REP,2010,2012,3,Yes,Yes,No
-287,Tennessee,State Representative,96,Steve McManus,REP,2008,2010,2,Yes,Yes,No
-288,Tennessee,State Representative,96,Steve McManus,REP,2006,2008,1,Yes,Yes,No
-289,Tennessee,State Representative,97,Jim Coley,REP,2010,2012,3,Yes,Yes,Yes
-290,Tennessee,State Representative,97,Jim Coley,REP,2008,2010,2,Yes,Yes,Yes
-291,Tennessee,State Representative,97,Jim Coley,REP,2006,2008,1,Yes,Yes,Yes
-292,Tennessee,State Representative,98,Ulysses Jones,DEM,2010,2012,6,Yes,No,Yes
-293,Tennessee,State Representative,98,Ulysses Jones,DEM,2008,2010,5,Yes,No,Yes
-294,Tennessee,State Representative,98,Ulysses Jones,DEM,2006,2008,4,Yes,No,Yes
-295,Tennessee,State Representative,99,Ron Lollar,REP,2010,2012,3,Yes,Yes,Yes
-296,Tennessee,State Representative,99,Ron Lollar,REP,2008,2010,2,Yes,Yes,Yes
-297,Tennessee,State Representative,99,Ron Lollar,REP,2006,2008,1,No,Yes,Yes
-298,Tennessee,State Senator,1,Steve Southerland,REP,2010,2014,3,No,Yes,Yes
-299,Tennessee,State Senator,1,Steve Southerland,REP,2006,2010,2,No,Yes,Yes
-300,Tennessee,State Senator,2,Ronald Ramsey,REP,2008,2012,3,No,Yes,No
-301,Tennessee,State Senator,3,Rusty Crowe,REP,2010,2014,3,No,Yes,Yes
-302,Tennessee,State Senator,3,Rusty Crowe,REP,2006,2010,2,Yes,Yes,Yes
-303,Tennessee,State Senator,4,Mike Faulk,REP,2008,2012,1,No,Yes,Yes
-304,Tennessee,State Senator,5,Randy McNally,REP,2010,2014,3,Yes,Yes,Yes
-305,Tennessee,State Senator,5,Randy McNally,REP,2006,2010,2,Yes,Yes,Yes
-306,Tennessee,State Senator,6,Jamie Woodson,REP,2008,2012,2,No,Yes,Yes
-307,Tennessee,State Senator,7,Stacey Campfield,REP,2010,2014,1,No,Yes,Yes
-308,Tennessee,State Senator,7,Tim Burchett,REP,2006,2010,2,Yes,Yes,Yes
-309,Tennessee,State Senator,8,Doug Douglas Overbey,REP,2008,2012,1,No,Yes,Yes
-310,Tennessee,State Senator,9,Mike Bell,REP,2010,2014,1,Yes,Yes,Yes
-311,Tennessee,State Senator,9,Dewayne Bunch,REP,2006,2010,1,Yes,Yes,Yes
-312,Tennessee,State Senator,10,Andy Berke,DEM,2008,2012,1,No,Yes,Yes
-313,Tennessee,State Senator,11,Bo Watson,REP,2010,2014,2,Yes,Yes,Yes
-314,Tennessee,State Senator,11,Bo Watson,REP,2006,2010,1,No,Yes,Yes
-315,Tennessee,State Senator,12,Ken Yager,REP,2008,2012,1,No,Yes,Yes
-316,Tennessee,State Senator,13,Bill Ketron,REP,2010,2014,3,No,Yes,No
-317,Tennessee,State Senator,13,Bill Ketron,REP,2006,2010,2,No,Yes,No
-318,Tennessee,State Senator,14,Eric Stewart,DEM,2008,2012,1,No,Yes,No
-319,Tennessee,State Senator,15,Charlotte Burks,DEM,2010,2014,3,No,Yes,Yes
-320,Tennessee,State Senator,15,Charlotte Burks,DEM,2006,2010,2,Yes,Yes,Yes
-321,Tennessee,State Senator,16,Jim Tracy,REP,2008,2012,2,No,Yes,Yes
-322,Tennessee,State Senator,17,Mae Beavers,REP,2010,2014,3,No,Yes,Yes
-323,Tennessee,State Senator,17,Mae Beavers,REP,2006,2010,2,No,Yes,Yes
-324,Tennessee,State Senator,18,Kerry E. Roberts,REP,2011,2012,1,No,Yes,Yes
-325,Tennessee,State Senator,18,Diane Lynn Black,REP,2008,2012,2,No,Yes,Yes
-326,Tennessee,State Senator,19,Thelma Harper,DEM,2010,2014,3,Yes,No,Yes
-327,Tennessee,State Senator,19,Thelma Harper,DEM,2006,2010,2,Yes,No,Yes
-328,Tennessee,State Senator,20,Joe Haynes,DEM,2008,2012,3,No,Yes,Yes
-329,Tennessee,State Senator,21,Douglas Henry Jr.,DEM,2010,2014,3,No,Yes,Yes
-330,Tennessee,State Senator,21,Douglas Henry Jr.,DEM,2006,2010,2,No,Yes,Yes
-331,Tennessee,State Senator,22,Tim Barnes,DEM,2008,2012,1,No,Yes,Yes
-332,Tennessee,State Senator,23,Jack Johnson,REP,2010,2014,2,Yes,Yes,Yes
-333,Tennessee,State Senator,23,Jack Johnson,REP,2006,2010,1,No,Yes,Yes
-334,Tennessee,State Senator,24,Roy Brasfield Herron,DEM,2008,2012,3,Yes,Yes,Yes
-335,Tennessee,State Senator,25,Jim Summerville,REP,2010,2014,1,No,Yes,Yes
-336,Tennessee,State Senator,25,Douglas Jackson,DEM,2006,2010,3,Yes,Yes,Yes
-337,Tennessee,State Senator,26,Dolores Gresham,REP,2008,2012,1,No,Yes,Yes
-338,Tennessee,State Senator,27,Lowe Finney,DEM,2010,2014,2,No,No,No
-339,Tennessee,State Senator,27,Lowe Finney,DEM,2006,2010,1,No,No,No
-340,Tennessee,State Senator,28,James Kyle Jr.,DEM,2008,2012,3,Yes,Yes,Yes
-341,Tennessee,State Senator,29,Ophelia Ford,DEM,2010,2014,2,No,Yes,No
-342,Tennessee,State Senator,29,Ophelia Ford,DEM,2006,2010,1,No,Yes,No
-343,Tennessee,State Senator,30,Beverly Robison Marrero,DEM,2008,2012,1,Yes,Yes,Yes
-344,Tennessee,State Senator,31,Brian Kelsey,REP,2010,2014,1,No,No,Yes
-345,Tennessee,State Senator,31,Paul Stanley,REP,2006,2010,1,No,No,Yes
-346,Tennessee,State Senator,32,Mark Norris,REP,2008,2012,3,Yes,Yes,Yes
-347,Tennessee,State Senator,33,Reginald Tate,DEM,2010,2014,2,Yes,No,Yes
-348,Tennessee,State Senator,33,Reginald Tate,DEM,2006,2010,1,No,No,Yes
-349,Tennessee,U.S. Representative,1,Phil Phillip Roe,REP,2010,2012,1,No,Yes,No
-350,Tennessee,U.S. Representative,2,Jimmy Duncan Jr.,REP,2010,2012,1,No,No,No
-351,Tennessee,U.S. Representative,3,Chuck Fleischmann,REP,2010,2012,1,No,Yes,No
-352,Tennessee,U.S. Representative,4,Scott Desjarlais,REP,2010,2012,1,No,No,No
-353,Tennessee,U.S. Representative,5,Jim Cooper,DEM,2010,2012,1,No,Yes,No
-354,Tennessee,U.S. Representative,6,Diane Lynn Black,REP,2010,2012,1,No,No,No
-355,Tennessee,U.S. Representative,7,Marsha Blackburn,REP,2010,2012,1,No,No,Yes
-356,Tennessee,U.S. Representative,8,Stephen Lee Fincher,REP,2010,2012,1,No,No,No
-357,Tennessee,U.S. Representative,9,Stephen Cohen,DEM,2010,2012,1,No,No,Yes
+2,Tennessee,State Representative,2,Tony Shipley,REP,2010,2012,2,No,Yes,Yes
+3,Tennessee,State Representative,3,Scotty Campbell,REP,2010,2012,1,No,Yes,Yes
+4,Tennessee,State Representative,4,Kent Williams,IND,2010,2012,3,No,Yes,No
+5,Tennessee,State Representative,5,David Hawk,REP,2010,2012,5,No,Yes,Yes
+6,Tennessee,State Representative,6,Dale Ford,REP,2010,2012,3,Yes,Yes,No
+7,Tennessee,State Representative,7,Matthew Hill,REP,2010,2012,4,No,Yes,Yes
+8,Tennessee,State Representative,8,Arthur Swann,REP,2010,2012,1,No,Yes,No
+9,Tennessee,State Representative,9,Mike Harrison,REP,2010,2012,5,Yes,Yes,No
+10,Tennessee,State Representative,10,Don Miller,REP,2010,2012,1,No,Yes,No
+11,Tennessee,State Representative,11,Jeremy Faison,REP,2010,2012,1,No,Yes,No
+12,Tennessee,State Representative,12,Richard Montgomery,REP,2010,2012,6,No,Yes,Yes
+13,Tennessee,State Representative,13,Harry Tindell,DEM,2010,2012,6,Yes,Yes,Yes
+14,Tennessee,State Representative,14,Ryan Haynes,REP,2010,2012,2,Yes,No,Yes
+15,Tennessee,State Representative,15,Joseph Armstrong,DEM,2010,2012,6,Yes,Yes,Yes
+16,Tennessee,State Representative,16,Bill Dunn,REP,2010,2012,6,Yes,Yes,Yes
+17,Tennessee,State Representative,17,Frank Niceley,REP,2010,2012,4,No,Yes,Yes
+18,Tennessee,State Representative,18,Steve Hall,REP,2010,2012,1,No,No,Yes
+19,Tennessee,State Representative,19,Harry Brooks,REP,2010,2012,5,Yes,Yes,No
+20,Tennessee,State Representative,20,Bob Ramsey,REP,2010,2012,2,Yes,Yes,Yes
+21,Tennessee,State Representative,21,James Lloyd Matlock,REP,2010,2012,3,Yes,Yes,No
+22,Tennessee,State Representative,22,Eric Watson,REP,2010,2012,3,Yes,Yes,Yes
+23,Tennessee,State Representative,23,John Forgety,REP,2010,2012,1,Yes,Yes,No
+24,Tennessee,State Representative,24,Kevin Brooks,REP,2010,2012,3,Yes,Yes,No
+25,Tennessee,State Representative,25,Cameron Sexton,REP,2010,2012,1,No,Yes,Yes
+26,Tennessee,State Representative,26,Gerald McCormick,REP,2010,2012,4,Yes,No,Yes
+27,Tennessee,State Representative,27,Richard Floyd,REP,2010,2012,3,Yes,Yes,Yes
+28,Tennessee,State Representative,28,Tommie Brown,DEM,2010,2012,6,No,No,Yes
+29,Tennessee,State Representative,29,Joanne Favors,DEM,2010,2012,4,Yes,Yes,Yes
+30,Tennessee,State Representative,30,Vince Dean,REP,2010,2012,3,Yes,Yes,No
+31,Tennessee,State Representative,31,Jim Cobb,REP,2010,2012,3,Yes,Yes,Yes
+32,Tennessee,State Representative,32,Julia Cheyanne Hurley,REP,2010,2012,1,No,Yes,Yes
+33,Tennessee,State Representative,33,John Ragan,REP,2010,2012,1,No,No,Yes
+34,Tennessee,State Representative,34,Rick Womick,REP,2010,2012,1,No,Yes,Yes
+35,Tennessee,State Representative,35,Dennis Roach,REP,2010,2012,6,Yes,Yes,No
+36,Tennessee,State Representative,36,Dennis Powers,REP,2010,2012,1,No,Yes,Yes
+37,Tennessee,State Representative,37,Bill Harmon,DEM,2010,2012,5,Yes,Yes,Yes
+38,Tennessee,State Representative,38,Kelly Keisling,REP,2010,2012,1,No,Yes,Yes
+39,Tennessee,State Representative,39,David Alexander,REP,2010,2012,1,No,Yes,No
+40,Tennessee,State Representative,40,Terri Lynn Weaver,REP,2010,2012,2,No,Yes,No
+41,Tennessee,State Representative,41,John Mark Windle,DEM,2010,2012,6,No,Yes,Yes
+42,Tennessee,State Representative,42,Ryan Williams,REP,2010,2012,1,No,Yes,Yes
+43,Tennessee,State Representative,43,Charles Curtiss,DEM,2010,2012,6,Yes,Yes,No
+44,Tennessee,State Representative,44,Mike McDonald,DEM,2010,2012,6,No,Yes,Yes
+45,Tennessee,State Representative,45,Debra Young Maggart,REP,2010,2012,4,No,Yes,No
+46,Tennessee,State Representative,46,Mark Pody,REP,2010,2012,1,No,No,No
+47,Tennessee,State Representative,47,Judd Matheny,REP,2010,2012,5,No,Yes,No
+48,Tennessee,State Representative,48,Joe Carr,REP,2010,2012,2,No,Yes,Yes
+49,Tennessee,State Representative,49,Michael Sparks,REP,2010,2012,1,No,No,No
+50,Tennessee,State Representative,50,Sean McGary,DEM,2010,2012,4,No,Yes,Yes
+51,Tennessee,State Representative,51,Michael Turner,DEM,2010,2012,6,No,No,Yes
+52,Tennessee,State Representative,52,Michael Stewart,DEM,2010,2012,2,Yes,Yes,Yes
+53,Tennessee,State Representative,53,Janis Baird Sontany,DEM,2010,2012,5,No,Yes,Yes
+54,Tennessee,State Representative,54,Brenda Gilmore,DEM,2010,2012,3,Yes,No,Yes
+55,Tennessee,State Representative,55,Sean McGary,DEM,2010,2012,6,No,Yes,Yes
+56,Tennessee,State Representative,56,Beth Harwell,REP,2010,2012,6,No,Yes,No
+57,Tennessee,State Representative,57,Linda Elam,REP,2010,2012,1,No,Yes,No
+58,Tennessee,State Representative,58,Mary Pruitt,DEM,2010,2012,6,Yes,No,Yes
+59,Tennessee,State Representative,59,Sherry Jones,DEM,2010,2012,6,No,No,Yes
+60,Tennessee,State Representative,60,Jim Gotto,REP,2010,2012,1,No,Yes,Yes
+61,Tennessee,State Representative,61,Charles Sargent Jr.,REP,2010,2012,6,Yes,Yes,No
+62,Tennessee,State Representative,62,Pat Marsh,REP,2010,2012,1,No,Yes,Yes
+63,Tennessee,State Representative,63,Glen Casada,REP,2010,2012,5,Yes,Yes,Yes
+64,Tennessee,State Representative,64,Sheila Butt,REP,2010,2012,1,No,Yes,No
+65,Tennessee,State Representative,65,Eddie Bass,DEM,2010,2012,3,No,Yes,Yes
+66,Tennessee,State Representative,66,Joshua Evans,REP,2010,2012,2,No,Yes,Yes
+67,Tennessee,State Representative,67,Joe Pitts,DEM,2010,2012,3,No,No,Yes
+68,Tennessee,State Representative,68,Curtis Johnson,REP,2010,2012,4,No,Yes,Yes
+69,Tennessee,State Representative,69,David Shepard,DEM,2010,2012,6,No,Yes,Yes
+70,Tennessee,State Representative,70,Joseph Hensley,REP,2010,2012,5,No,Yes,No
+71,Tennessee,State Representative,71,Vance Dennis,REP,2010,2012,2,Yes,Yes,Yes
+72,Tennessee,State Representative,72,Steve McDaniel,REP,2010,2012,6,Yes,Yes,No
+73,Tennessee,State Representative,73,Jimmy Eldridge,REP,2010,2012,5,Yes,No,No
+74,Tennessee,State Representative,74,John Tidwell,DEM,2010,2012,6,Yes,Yes,Yes
+75,Tennessee,State Representative,75,Timothy Wirgau,REP,2010,2012,1,No,Yes,No
+76,Tennessee,State Representative,76,Andrew Holt,REP,2010,2012,1,No,Yes,No
+77,Tennessee,State Representative,77,Bill Sanderson,REP,2010,2012,1,No,Yes,Yes
+78,Tennessee,State Representative,78,Phillip Johnson,REP,2010,2012,5,No,Yes,Yes
+79,Tennessee,State Representative,79,Curtis Halford,REP,2010,2012,2,No,Yes,Yes
+80,Tennessee,State Representative,80,Johnny Shaw,DEM,2010,2012,6,No,Yes,Yes
+81,Tennessee,State Representative,81,Jimmy Naifeh,DEM,2010,2012,6,No,Yes,Yes
+82,Tennessee,State Representative,82,Craig Fitzhugh,DEM,2010,2012,6,No,No,No
+83,Tennessee,State Representative,83,Mark White,REP,2010,2012,1,Yes,Yes,No
+84,Tennessee,State Representative,84,Joe Towns Jr.,DEM,2010,2012,6,Yes,Yes,Yes
+85,Tennessee,State Representative,85,Johnnie Turner,DEM,2010,2012,1,No,No,Yes
+86,Tennessee,State Representative,86,Barbara Cooper,DEM,2010,2012,6,No,No,Yes
+87,Tennessee,State Representative,87,Karen Camper,DEM,2010,2012,2,Yes,Yes,Yes
+88,Tennessee,State Representative,88,Larry Miller,DEM,2010,2012,6,Yes,Yes,Yes
+89,Tennessee,State Representative,89,Jeanne Richardson,DEM,2010,2012,2,No,No,No
+90,Tennessee,State Representative,90,John Deberry Jr.,DEM,2010,2012,6,Yes,No,Yes
+91,Tennessee,State Representative,91,Lois Deberry,DEM,2010,2012,6,No,No,Yes
+92,Tennessee,State Representative,92,A Hardaway Sr.,DEM,2010,2012,2,Yes,Yes,No
+93,Tennessee,State Representative,93,Mike Kernell,DEM,2010,2012,6,No,No,Yes
+94,Tennessee,State Representative,94,Barrett Rich,REP,2010,2012,2,No,Yes,Yes
+95,Tennessee,State Representative,95,Curry Todd,REP,2010,2012,6,No,Yes,Yes
+96,Tennessee,State Representative,96,Stephen McManus,REP,2010,2012,3,Yes,Yes,No
+97,Tennessee,State Representative,97,James Coley,REP,2010,2012,3,Yes,Yes,Yes
+98,Tennessee,State Representative,98,Ulysses Jones,DEM,2010,2012,6,Yes,No,Yes
+99,Tennessee,State Representative,99,Ron Lollar,REP,2010,2012,3,Yes,Yes,Yes
+100,Tennessee,State Senator,1,Steve Southerland,REP,2010,2014,3,No,Yes,Yes
+101,Tennessee,State Senator,2,Ronald Ramsey,REP,2008,2012,3,No,Yes,No
+102,Tennessee,State Senator,3,Rusty Crowe,REP,2010,2014,3,No,Yes,Yes
+103,Tennessee,State Senator,4,Mike Faulk,REP,2008,2012,1,No,Yes,Yes
+104,Tennessee,State Senator,5,Randy McNally,REP,2010,2014,3,Yes,Yes,Yes
+105,Tennessee,State Senator,6,Jamie Woodson,REP,2008,2012,2,No,Yes,Yes
+106,Tennessee,State Senator,7,Stacey Campfield,REP,2010,2014,1,No,Yes,Yes
+107,Tennessee,State Senator,8,Douglas Overbey,REP,2008,2012,1,No,Yes,Yes
+108,Tennessee,State Senator,9,Mike Bell,REP,2010,2014,1,Yes,Yes,Yes
+109,Tennessee,State Senator,10,Andy Berke,DEM,2008,2012,1,No,Yes,Yes
+110,Tennessee,State Senator,11,Bo Watson,REP,2010,2014,2,Yes,Yes,Yes
+111,Tennessee,State Senator,12,Ken Yager,REP,2008,2012,1,No,Yes,Yes
+112,Tennessee,State Senator,13,Bill Ketron,REP,2010,2014,3,No,Yes,No
+113,Tennessee,State Senator,14,Eric Stewart,DEM,2008,2012,1,No,Yes,No
+114,Tennessee,State Senator,15,Charlotte Burks,DEM,2010,2014,3,No,Yes,Yes
+115,Tennessee,State Senator,16,Jim Tracy,REP,2008,2012,2,No,Yes,Yes
+116,Tennessee,State Senator,17,Mae Beavers,REP,2010,2014,3,No,Yes,Yes
+117,Tennessee,State Senator,18,Kerry Roberts,REP,2011,2012,1,No,Yes,Yes
+118,Tennessee,State Senator,19,Thelma Harper,DEM,2010,2014,3,Yes,No,Yes
+119,Tennessee,State Senator,20,Joe Haynes,DEM,2008,2012,3,No,Yes,Yes
+120,Tennessee,State Senator,21,Douglas Henry Jr.,DEM,2010,2014,3,No,Yes,Yes
+121,Tennessee,State Senator,22,Tim Barnes,DEM,2008,2012,1,No,Yes,Yes
+122,Tennessee,State Senator,23,Jack Johnson,REP,2010,2014,2,Yes,Yes,Yes
+123,Tennessee,State Senator,24,Roy Brasfield Herron,DEM,2008,2012,3,Yes,Yes,Yes
+124,Tennessee,State Senator,25,Jim Summerville,REP,2010,2014,1,No,Yes,Yes
+125,Tennessee,State Senator,26,Dolores Gresham,REP,2008,2012,1,No,Yes,Yes
+126,Tennessee,State Senator,27,Lowe Finney,DEM,2010,2014,2,No,No,No
+127,Tennessee,State Senator,28,James Kyle Jr.,DEM,2008,2012,3,Yes,Yes,Yes
+128,Tennessee,State Senator,29,Ophelia Ford,DEM,2010,2014,2,No,Yes,No
+129,Tennessee,State Senator,30,Beverly Robison Marrero,DEM,2008,2012,1,Yes,Yes,Yes
+130,Tennessee,State Senator,31,Brian Kelsey,REP,2010,2014,1,No,No,Yes
+131,Tennessee,State Senator,32,Mark Norris,REP,2008,2012,3,Yes,Yes,Yes
+132,Tennessee,State Senator,33,Reginald Tate,DEM,2010,2014,2,Yes,No,Yes
+133,Tennessee,U.S. Representative,1,David Phillip Roe,REP,2010,2012,1,No,Yes,No
+134,Tennessee,U.S. Representative,2,John Duncan Jr.,REP,2010,2012,1,No,No,No
+135,Tennessee,U.S. Representative,3,Chuck Fleischmann,REP,2010,2012,1,No,Yes,No
+136,Tennessee,U.S. Representative,4,Scott Desjarlais,REP,2010,2012,1,No,No,No
+137,Tennessee,U.S. Representative,5,Jim Cooper,DEM,2010,2012,1,No,Yes,No
+138,Tennessee,U.S. Representative,6,Diane Lynn Black,REP,2010,2012,1,No,No,No
+139,Tennessee,U.S. Representative,7,Marsha Blackburn,REP,2010,2012,1,No,No,Yes
+140,Tennessee,U.S. Representative,8,Stephen Lee Fincher,REP,2010,2012,1,No,No,No
+141,Tennessee,U.S. Representative,9,Stephen Cohen,DEM,2010,2012,1,No,No,Yes
