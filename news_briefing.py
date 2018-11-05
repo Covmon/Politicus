@@ -326,7 +326,13 @@ def news_briefer(position_name,state,year=2018):
 		if any(can_loser_list) == False:
 			can_loser_filler = 'ran unopposed winning'
 
-		district_statement = 'District {} - Currently this seat is held by {}, who {} running for reelection in 2018. In {}, {} {} his or her {} term in this seat.\n'.format(election,incumbent_name,incumbent_running,str(int(year-int(term_length))),can_winner,can_loser_filler,number_to_ith_dict[term_in_seat]) #(insert about challengers if opposing party in here) In this year"s Democratic primary, {} defeated {} and {} or x amount of challengers and in the Republican Primary .... Our past election results have this district classified as a {} {}, but/and we have this race projected as a {} with {} defeating {} by an averaging margin of {} points, but/and since this is a {} we would be {} suprised to see {} win.'.format()
+		candidate1 = "Candidate 1"
+		candidate2 = "Candidate 2"
+		winningCandidatae = "Winning Candidate"
+		winningCandidateVoteShare = "76"
+		winningCandidateProbability = "65%"
+
+		district_statement = 'District {} - Currently this seat is held by {}, who {} running for reelection in 2018. In {}, {} {} his or her {} term in this seat. In the upcoming midterm, election, {} will face {}. We project {} to win with {} percent of the vote, with {} probability.\n'.format(election,incumbent_name,incumbent_running,str(int(year-int(term_length))),can_winner,can_loser_filler,number_to_ith_dict[term_in_seat],candidate1,candidate2,winningCandidatae,winningCandidateVoteShare,winningCandidateProbability) #(insert about challengers if opposing party in here) In this year"s Democratic primary, {} defeated {} and {} or x amount of challengers and in the Republican Primary .... Our past election results have this district classified as a {} {}, but/and we have this race projected as a {} with {} defeating {} by an averaging margin of {} points, but/and since this is a {} we would be {} suprised to see {} win.'.format()
 		district_statements = district_statements + district_statement
 
 	election_predictions_semi_competitive_districts = []
@@ -359,7 +365,7 @@ def news_briefer(position_name,state,year=2018):
 	article_title,author,date = '{} {} Preview\n'.format(state_abrv_to_name[state],body_name), 'Sam Mahle\n', str(mydate.strftime("%B")) + ' ' + str(mydate.strftime("%d")).lstrip('0') + ', ' + str(mydate.strftime("%Y")) + '\n\n'
 	preview = article_title + author + date
 
-	full_statement =  preview + opening_statement + '\nCompetitive Seats\n\n' + district_statements + '\nSemi-Competitive Seats\n\n' + election_predictions_semi_competitive_statement
+	full_statement =  preview + opening_statement + '\n<b>Competitive Seats</b>\n\n' + district_statements + '\n<b>Semi-Competitive Seats</b>\n\n' + election_predictions_semi_competitive_statement
 	full_statement = full_statement.replace('REP', 'Republican')
 	full_statement = full_statement.replace('DEM', 'Democrat')
 	full_statement = full_statement.replace('the Republican', 'the Republicans')
@@ -402,11 +408,3 @@ Currently this seat is held by Thomas Taylor, who is not running for reelection 
 Currently this seat is held by Meagan Hanson, who is running for reelection in 2018. In 2016, Meagan Hanson defeated Taylor Bennett to win his or her 1 term in this seat.
 
 #Semi competitive - ['District 108: Clay Cox (55.5)vs. Jasmine Clark (44.5)', 'District 151: Gerald Greene (54.6)vs. Joyce Barlow (45.4)', 'District 164: Ron Stephens (55.7)vs. Aer Scott (44.3)', 'District 43: Sharon Cooper (54.5)vs. Luisa Wakeman (45.5)', 'District 48: Betty Price (56.4)vs. Mary Robichaux (43.6)', 'District 50: Kelly Leigh Stewart (55.1)vs. Angelika Kausche (44.9)', 'District 95: Scott Hilton (55.0)vs. Beth Moore (45.0)']"""
-
-
-
-
-
-
-
-
