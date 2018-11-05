@@ -3,6 +3,7 @@ $(document).ready(function() {
 
     getNewsArticle("methedology");
     //getNewsArticle("test");
+    getNewsArticle("GA_State_Representative");
 
 });
 
