@@ -496,7 +496,7 @@ function setupNationalElections() {
         } else if (difference > 0.7) {
             $(className).removeClass("purple");
             $(className).addClass("likely-blue");
-        } else if (difference > 0.4) {
+        } else if (difference > 0.3) {
             $(className).removeClass("purple");
             $(className).addClass("lean-blue");
         } else if (difference < -0.95) {
@@ -505,7 +505,7 @@ function setupNationalElections() {
         } else if (difference < -0.7) {
             $(className).removeClass("purple");
             $(className).addClass("likely-red");
-        } else if (difference < -0.4) {
+        } else if (difference < -0.3) {
             $(className).removeClass("purple");
             $(className).addClass("lean-red");
         }

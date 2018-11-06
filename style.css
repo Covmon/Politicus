@@ -76,7 +76,7 @@ a:hover {
     height: 50px;
     position: absolute;
     background-color: rgb(253, 198, 57);
-    right: calc(205px + 19vw);
+    right: calc(170px + 23vw);
     transition-duration: 0.2s;
 }
 

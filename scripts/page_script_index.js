@@ -11,7 +11,7 @@ $(document).ready(function() {
 
     setupNationalElections();
     
-    setupTopElections(3, ["State Representative", "State Senator"]);
+    setupTopElections(5, ["State Representative", "State Senator"]);
 
     let buttons = '<br /><a class="normal-link button-move-up" href="predictions_state_senates.html"><div class="button button-bold">Find your state senate</div></a><a class="normal-link button-move-up" href="predictions_state_houses.html"><div class="button button-bold">Find your state house</div></a>'
     $(".tight-elections").append(buttons);

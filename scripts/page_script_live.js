@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    setTimeout(removeLiveBlogBranding, 10000);
+    setTimeout(removeLiveBlogBranding, 7500);
 });
 
 function removeLiveBlogBranding() {
