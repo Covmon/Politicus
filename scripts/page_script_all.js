@@ -69,7 +69,8 @@ $(document).ready(function() {
 
             let dateString = "Last updated " + month + "/" + date + "/" + year + " at " + time; 
         
-            let html = '<p id="updated" class="number"><span class="dot-green"></span> ' + dateString + '</p>';
+            //let html = '<p id="updated" class="number"><span class="dot-green"></span> ' + dateString + '</p>';
+            let html = '<p id="updated" class="number"><span class="dot-purple"></span> ' + "Last updated 11/6/2018 at 4:35 PM" + '</p>';
             $(".header").after(html);
 
         })

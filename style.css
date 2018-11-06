@@ -1038,6 +1038,14 @@ input:focus {
     display: inline-block;
   }
 
+  .dot-purple {
+    height: 9px;
+    width: 9px;
+    background-color: rgb(186, 105, 233);
+    border-radius: 50%;
+    display: inline-block;
+  }
+
   @media only screen and (max-width: 700px) {
 
   }
