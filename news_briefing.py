@@ -331,26 +331,29 @@ def news_briefer(position_name,state,year=2018):
 		winningCandidatae = "Winning Candidate"
 		winningCandidateVoteShare = "76"
 		winningCandidateProbability = "65%"
+		losingCandidate = "Losing Candidate"
+		losingCandidateVoteShare = "24"
 
-		district_statement = 'District {} - Currently this seat is held by {}, who {} running for reelection in 2018. In {}, {} {} his or her {} term in this seat. In the upcoming midterm, election, {} will face {}. We project {} to win with {} percent of the vote, with {} probability.\n'.format(election,incumbent_name,incumbent_running,str(int(year-int(term_length))),can_winner,can_loser_filler,number_to_ith_dict[term_in_seat],candidate1,candidate2,winningCandidatae,winningCandidateVoteShare,winningCandidateProbability) #(insert about challengers if opposing party in here) In this year"s Democratic primary, {} defeated {} and {} or x amount of challengers and in the Republican Primary .... Our past election results have this district classified as a {} {}, but/and we have this race projected as a {} with {} defeating {} by an averaging margin of {} points, but/and since this is a {} we would be {} suprised to see {} win.'.format()
+		district_statement = 'District {} - Currently this seat is held by {}, who {} running for reelection in 2018. In {}, {} {} his or her {} term in this seat. In the upcoming midterm, election, {} will face {}. We project {} to win with {} percent of the vote, with {} probability, with opponent {} receieving {} percent of the vote.\n'.format(election,incumbent_name,incumbent_running,str(int(year-int(term_length))),can_winner,can_loser_filler,number_to_ith_dict[term_in_seat],candidate1,candidate2,winningCandidatae,winningCandidateVoteShare,winningCandidateProbability,losingCandidate,losingCandidateVoteShare) #(insert about challengers if opposing party in here) In this year"s Democratic primary, {} defeated {} and {} or x amount of challengers and in the Republican Primary .... Our past election results have this district classified as a {} {}, but/and we have this race projected as a {} with {} defeating {} by an averaging margin of {} points, but/and since this is a {} we would be {} suprised to see {} win.'.format()
 		district_statements = district_statements + district_statement
 
 	election_predictions_semi_competitive_districts = []
 	election_predictions_semi_competitive_statement = []
 	for district in df_election_predictions_mildly_competitive.District.unique():
 		incumbent_name = df_current_legislators_pos.loc[df_current_legislators_pos.District==district]['Candidate'].iloc[0]
-		district_statement = 'District {}: '.format(district)
+		district_statement = 'District {} - '.format(district)
 		first_can = True
 		for can in df_election_predictions_mildly_competitive.loc[df_election_predictions_mildly_competitive.District==district]['Candidate'].unique():
 			incumbent_filler = ''
 			can_vote_share = round(df_election_predictions_mildly_competitive.loc[df_election_predictions_mildly_competitive.Candidate==can]['Predicted Vote Share'].unique(),3)*100
 			print district
 			print can, incumbent_name
+			party = "Party"
 			if can == incumbent_name:
-				incumbent_filler = ' (I)'
-			can_statement = '{}{} ({}%)'.format(can,incumbent_filler, can_vote_share)
+				incumbent_filler = ' (i)'
+			can_statement = '{}{}, {} ({}%)'.format(can,incumbent_filler,party,can_vote_share)
 			if first_can == False:
-				can_statement = ' vs. {}{} ({}%)'.format(can,incumbent_filler, can_vote_share)
+				can_statement = ' vs. {}{}, {} ({}%)'.format(can,incumbent_filler,party,can_vote_share)
 			district_statement = district_statement + can_statement
 			first_can = False
 
@@ -358,7 +361,7 @@ def news_briefer(position_name,state,year=2018):
 		election_predictions_semi_competitive_statement.append(district_statement)
 
 	semi_competitive_elections = 'We have identified the following elections as semi-competitive - {}'.format('and'.join(df_election_predictions_mildly_competitive))
-	election_predictions_semi_competitive_statement = ', '.join(election_predictions_semi_competitive_statement)
+	election_predictions_semi_competitive_statement = '\n'.join(election_predictions_semi_competitive_statement)
 
 
 	mydate = datetime.datetime.now()
