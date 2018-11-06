@@ -920,6 +920,12 @@ input:focus {
     width: 50%;
 }
 
+#projections-pane {
+    position: absolute;
+    right: 30px;
+    top: 400px;
+}
+
 .footer {
     margin-top: 100px;
     height: 75px;
@@ -1132,7 +1138,6 @@ input:focus {
         margin-right: 0px;
     }
 
-
     .title-image {
         width: 90vw;
     }
@@ -1165,6 +1170,10 @@ input:focus {
 
     #live-blog-frame {
         width: 90% !important;
+    }
+
+    #projections-pane {
+        display: none;
     }
 
 

@@ -1,5 +1,8 @@
 $(document).ready(function () {
     setTimeout(removeLiveBlogBranding, 7500);
+
+    setupNationalElections("#projections-pane");
+
 });
 
 function removeLiveBlogBranding() {

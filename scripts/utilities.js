@@ -447,7 +447,7 @@ function getTopElections(topRaces, matchup, numRaces, alreadyAdded = []) {
     }
 }
 
-function setupNationalElections() {
+function setupNationalElections(appendLocation = ".tight-elections") {
     var nationalBodies = []
 
     for (body of allOverallData) {
@@ -461,7 +461,7 @@ function setupNationalElections() {
     for (var j=0;j<nationalBodies.length;j++) {
 
         let html = "<a class='election-link national-link-" + (j + 1) + "' href=''><div class='prediction-card election-card purple national-election-" + (j + 1) + "'><h1></h1><h3><span class='blue'></span> - <span class='red'></span></h3><p class='no-margin'>Most likely seats</p><p class='gray'>Click for more details</p></div></a>";
-        $(".tight-elections").append(html);
+        $(appendLocation).append(html);
 
         let body = nationalBodies[j];
         console.log(body);
