@@ -28,7 +28,7 @@ function getMatchup(data, state, position, district) {
         }
         if (candidate.State == state && candidate.District == String(district) && candidate.Position == position) {
             matchupFound = true;
-            var party = candidate.Party;
+            
             //Format middle names and special names
             if (!candidate.Candidate.includes("Jr.") && !candidate.Candidate.includes("Sr.") && !candidate.Candidate.includes("IV") && !candidate.Candidate.includes("III") && !candidate.Candidate.includes("II") && !candidate.Candidate.includes("I") && !candidate.Candidate.includes("V")) {
                 var spaces = candidate.Candidate.split(" ").length - 1;
@@ -45,6 +45,12 @@ function getMatchup(data, state, position, district) {
                     candidate.Candidate = tmp[0] + " " + tmp[tmp.length-2] + " " + tmp[tmp.length-1];
                 }
             }
+            if (candidate.Party != "IND" && candidate.Party != "DEM" && candidate.Party != "REP" && candidate.Party != "LIB") {
+                candidate.Party = "IND";
+            }
+            
+            var party = candidate.Party;
+
             matchup["state"] = state;
             matchup["position"] = position;
             matchup["district"] = district;
@@ -678,9 +684,14 @@ function createTableRow(matchup, rowsList) {
         "Candidate":"",
         "Incumbent": "No"
     };
+
+    if (matchup["REP"].District == "6") {
+        console.log(matchup);
+    }
     if (matchup.hasOwnProperty("LIB")) {
         third = matchup["LIB"];
     } else if (matchup.hasOwnProperty("IND")) {
+        console.log(matchup);
         third = matchup["IND"];
     }
 
