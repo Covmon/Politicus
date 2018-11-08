@@ -1,0 +1,227 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+35,CO,2018,Attorney General,Statewide,Philip Jacob Weiser,DEM,0.5063990126088975,71.61,1552462.42,No,,
+36,CO,2018,Attorney General,Statewide,George Brauchler,REP,0.47735088070635756,28.39,254398.76,No,,
+37,CO,2018,Attorney General,Statewide,William Robinson,LIB,0.016250106684744848,< 0.01,0.0,No,,
+182,CO,2018,Governor,Statewide,Jared Schutz Polis,DEM,0.5319012306015857,95.68,22358813.13,No,,
+183,CO,2018,Governor,Statewide,Walker Stapleton,REP,0.44473418319159846,4.32,3910382.65,No,,
+184,CO,2018,Governor,Statewide,Scott Helker,LIB,0.023364586206815675,< 0.01,1600.0,No,,
+0,CO,2018,Secretary Of State,Statewide,Jena Griswold,DEM,0.4919702028741024,37.6,402372.64,No,,
+1,CO,2018,Secretary Of State,Statewide,Wayne Williams,REP,0.5080297971258976,62.40,81042.59,Yes,,
+38,CO,2018,State Representative,1,Susan Lontine,DEM,0.6833481488727358,> 99.99,1350.0,Yes,> 99.99,99.99
+39,CO,2018,State Representative,1,Darrell Dinges,LIB,0.057044534559069125,< 0.01,0.0,No,,
+40,CO,2018,State Representative,1,Alysia Padilla,REP,0.2596073165681951,< 0.01,0.0,No,0.01,< 0.01
+41,CO,2018,State Representative,10,Edith Russell Hooton,DEM,0.8157481742463953,> 99.99,53929.56,Yes,> 99.99,> 99.99
+42,CO,2018,State Representative,10,Murl Hendrickson,REP,0.15197017702862864,< 0.01,1053.0,No,< 0.01,< 0.01
+43,CO,2018,State Representative,10,Alexander Lanzano,LIB,0.032281648724975964,< 0.01,0.0,No,,
+44,CO,2018,State Representative,11,Jonathan Stuart Singer,DEM,0.7159859855742163,> 99.99,4545.0,Yes,> 99.99,99.99
+45,CO,2018,State Representative,11,Brian Donahue,REP,0.2840140144257837,< 0.01,0.0,No,0.01,< 0.01
+46,CO,2018,State Representative,12,Sonja Jacquez Lewis,DEM,0.7666397535771692,> 99.99,24981.0,No,> 99.99,> 99.99
+47,CO,2018,State Representative,12,Theresa Stets,IND,0.23336024642283082,< 0.01,0.0,No,< 0.01,< 0.01
+48,CO,2018,State Representative,13,Kathleen Collins Becker,DEM,0.790205909363245,> 99.99,27622.75,Yes,> 99.99,> 99.99
+49,CO,2018,State Representative,13,Kevin Sipple,REP,0.20979409063675503,< 0.01,0.0,No,< 0.01,< 0.01
+50,CO,2018,State Representative,14,Shane Sandridge,REP,0.7549990878441931,> 99.99,17339.0,Yes,> 99.99,> 99.99
+51,CO,2018,State Representative,14,Paul Haddick,DEM,0.24500091215580683,< 0.01,0.0,No,< 0.01,< 0.01
+52,CO,2018,State Representative,15,Dave Williams,REP,0.7312183975990876,> 99.99,30123.42,Yes,> 99.99,99.99
+53,CO,2018,State Representative,15,Brenda Krause,DEM,0.26878160240091237,< 0.01,0.0,No,0.01,< 0.01
+54,CO,2018,State Representative,16,Larry Liston,REP,0.672609733344486,99.99,34835.0,Yes,> 99.99,99.99
+55,CO,2018,State Representative,16,Andrew Smith,DEM,0.2850958525839409,0.01,618.8,No,0.01,< 0.01
+56,CO,2018,State Representative,16,John Hjersman,LIB,0.042294414071573055,< 0.01,0.0,No,,
+57,CO,2018,State Representative,17,Thomas Exum Sr.,DEM,0.6750474641833432,99.99,55409.36,Yes,99.99,99.99
+58,CO,2018,State Representative,17,Catherine Roupe,REP,0.32495253581665684,0.01,8420.74,No,0.01,0.01
+59,CO,2018,State Representative,18,Maile Foster,IND,0.12083286204112245,< 0.01,29349.45,No,,
+60,CO,2018,State Representative,18,Marc Alan Snyder,DEM,0.6381995595275012,99.99,29044.51,No,> 99.99,99.99
+61,CO,2018,State Representative,18,Mary Elizabeth Fabian,REP,0.2409675784313765,0.01,0.0,No,0.01,< 0.01
+62,CO,2018,State Representative,19,Tim Geitner,REP,0.6825027887434733,99.99,10999.31,No,> 99.99,99.99
+63,CO,2018,State Representative,19,Asia Zanders,DEM,0.3174972112565268,0.01,0.0,No,0.01,< 0.01
+64,CO,2018,State Representative,2,Alec Walter Garnett,DEM,1.0,100.00,22770.0,Yes,100.00,100.00
+65,CO,2018,State Representative,20,Terri Carver,REP,0.6720391256493415,99.99,95130.0,Yes,99.99,99.99
+66,CO,2018,State Representative,20,Kent Jarnig,DEM,0.3279608743506585,0.01,4085.44,No,0.01,0.01
+67,CO,2018,State Representative,21,Lois Landgraf,REP,0.6579160138347018,99.99,19071.81,Yes,99.99,99.99
+68,CO,2018,State Representative,21,Elizabeth Rosenbaum,DEM,0.3420839861652982,0.01,2876.99,No,0.01,0.01
+69,CO,2018,State Representative,22,Colin Larson,REP,0.6001427101607988,99.99,35094.49,No,99.99,99.51
+70,CO,2018,State Representative,22,Todd Kastetter,DEM,0.39985728983920116,0.01,5227.66,No,0.49,0.01
+71,CO,2018,State Representative,23,Chris Kennedy,DEM,0.6987711509270089,99.99,32554.08,Yes,> 99.99,99.99
+72,CO,2018,State Representative,23,Joan Poston,REP,0.3012288490729911,0.01,4700.0,No,0.01,< 0.01
+73,CO,2018,State Representative,24,Monica Duran,DEM,0.7374331422832133,> 99.99,72354.14,No,> 99.99,99.99
+74,CO,2018,State Representative,24,Arthur Erwin,REP,0.26256685771678673,< 0.01,2909.98,No,0.01,< 0.01
+75,CO,2018,State Representative,25,Lisa Cutter,DEM,0.7584342338667317,> 99.99,44999.06,No,> 99.99,> 99.99
+76,CO,2018,State Representative,25,Steven Szutenbach,REP,0.2415657661332683,< 0.01,0.0,No,< 0.01,< 0.01
+77,CO,2018,State Representative,26,Dylan Roberts,DEM,0.7372152888483403,> 99.99,33674.98,Yes,> 99.99,> 99.99
+78,CO,2018,State Representative,26,Luke Bray,IND,0.04271096687671012,< 0.01,100.0,No,,
+79,CO,2018,State Representative,26,Nicki Mills,REP,0.22007374427494952,< 0.01,0.0,No,< 0.01,< 0.01
+80,CO,2018,State Representative,27,Brianna Titone,DEM,0.7532215927731715,> 99.99,22301.87,No,> 99.99,> 99.99
+81,CO,2018,State Representative,27,Vicki Pyne,REP,0.2467784072268286,< 0.01,0.0,No,< 0.01,< 0.01
+82,CO,2018,State Representative,28,Kerry Tipper,DEM,0.5577748942631446,99.85,58953.42,No,99.99,94.71
+83,CO,2018,State Representative,28,Kristina Alley,REP,0.4066079124787574,0.15,16071.2,No,5.29,0.01
+84,CO,2018,State Representative,28,Ross Klopf,LIB,0.03561719325809809,< 0.01,0.0,No,,
+85,CO,2018,State Representative,29,Tracy Kraft-Tharp,DEM,0.5947533668319654,99.99,45825.0,Yes,99.99,99.9
+86,CO,2018,State Representative,29,Grady Nouis,REP,0.36806471644075,0.01,16349.63,No,0.1,0.01
+87,CO,2018,State Representative,29,Hansjor Romer,LIB,0.037181916727284596,< 0.01,0.0,No,,
+88,CO,2018,State Representative,3,Jeff Bridges,DEM,0.6226897758606116,99.99,59443.1,Yes,99.99,99.97
+89,CO,2018,State Representative,3,Toren Mushovic,REP,0.3773102241393885,0.01,24642.32,No,0.03,0.01
+90,CO,2018,State Representative,30,Dafna Michaelson Jenet,DEM,0.6954084247890826,> 99.99,29132.0,Yes,> 99.99,99.99
+91,CO,2018,State Representative,30,Susan Kochevar,REP,0.27014096739945614,< 0.01,976.05,No,0.01,< 0.01
+92,CO,2018,State Representative,30,Jeff Wilson,LIB,0.03445060781146121,< 0.01,0.0,No,,
+93,CO,2018,State Representative,31,Yadira Caraveo,DEM,0.6537087057995263,99.99,24842.71,No,99.99,99.99
+94,CO,2018,State Representative,31,Enrico Figueroa,REP,0.31589714858710294,0.01,3358.89,No,0.01,0.01
+95,CO,2018,State Representative,31,Breanna Owens,LIB,0.030394145613370692,< 0.01,0.0,No,,
+96,CO,2018,State Representative,32,Adrienne Helen Benavidez,DEM,0.8477668630323381,> 99.99,1350.0,Yes,> 99.99,> 99.99
+97,CO,2018,State Representative,32,Kim Bishop,REP,0.15223313696766194,< 0.01,0.0,No,< 0.01,< 0.01
+98,CO,2018,State Representative,33,Jay Geyer,IND,0.07283929925617758,< 0.01,31902.79,No,,
+99,CO,2018,State Representative,33,Matthew Gray,DEM,0.553833391918663,99.99,31604.66,Yes,99.99,99.7
+100,CO,2018,State Representative,33,Eric Rutherford,REP,0.3447227269551804,0.01,20202.16,No,0.3,0.01
+101,CO,2018,State Representative,33,Kim Tavendale,LIB,0.028604581869979058,< 0.01,95.64,No,,
+102,CO,2018,State Representative,34,Kyle Mullica,DEM,0.837388834486595,> 99.99,44468.52,No,> 99.99,> 99.99
+103,CO,2018,State Representative,34,Alexander Winkler,REP,0.16261116551340504,< 0.01,0.0,No,< 0.01,< 0.01
+104,CO,2018,State Representative,35,Shannon Bird,DEM,0.663373641392923,99.99,55493.99,No,> 99.99,99.99
+105,CO,2018,State Representative,35,Bruce Baker,REP,0.30084193219224614,0.01,5264.18,No,0.01,< 0.01
+106,CO,2018,State Representative,35,Ken Biles,LIB,0.035784426414830796,< 0.01,0.0,No,,
+107,CO,2018,State Representative,36,Mike Weissman,DEM,0.7588679784414591,> 99.99,21622.27,Yes,> 99.99,> 99.99
+108,CO,2018,State Representative,36,Richard Bowman,REP,0.24113202155854085,< 0.01,-1020.77,No,< 0.01,< 0.01
+109,CO,2018,State Representative,37,Tom Sullivan,DEM,0.47890986554620835,20.33,44259.96,No,70.1,1.44
+110,CO,2018,State Representative,37,Cole Wist,REP,0.5210901344537917,79.67,12801.28,Yes,98.56,29.9
+111,CO,2018,State Representative,38,Christopher Kolker,DEM,0.49563691033801366,43.19,29631.81,No,88.21,6.32
+112,CO,2018,State Representative,38,Susan Beckman,REP,0.5043630896619864,56.81,9255.0,Yes,93.68,11.79
+113,CO,2018,State Representative,39,Mark Baisley,REP,0.48295887747783306,70.03,2878.52,No,97.01,20.27
+114,CO,2018,State Representative,39,Kamala Vanderkolk,DEM,0.456256444732614,29.97,1073.0,No,79.73,2.99
+115,CO,2018,State Representative,39,Louis Gross,LIB,0.06078467778955298,< 0.01,0.0,No,,
+116,CO,2018,State Representative,4,Serena Gonzales-Gutierrez,DEM,0.8749884119168518,> 99.99,56589.82,No,> 99.99,> 99.99
+117,CO,2018,State Representative,4,Robert John,REP,0.1250115880831481,< 0.01,0.0,No,< 0.01,< 0.01
+118,CO,2018,State Representative,40,Janet Buckner,DEM,0.7691100155037058,> 99.99,19095.0,Yes,> 99.99,> 99.99
+119,CO,2018,State Representative,40,Richard Bassett,REP,0.23088998449629422,< 0.01,0.0,No,< 0.01,< 0.01
+120,CO,2018,State Representative,41,Jovan Emerson Melton,DEM,0.7513481390252292,> 99.99,9825.0,Yes,> 99.99,> 99.99
+121,CO,2018,State Representative,41,Dahlia Jean Weinstein,REP,0.2486518609747707,< 0.01,0.0,No,< 0.01,< 0.01
+122,CO,2018,State Representative,42,Dominique Jackson,DEM,0.8378802887367988,> 99.99,14106.67,Yes,> 99.99,> 99.99
+123,CO,2018,State Representative,42,Mike Donald,REP,0.16211971126320118,< 0.01,0.0,No,< 0.01,< 0.01
+124,CO,2018,State Representative,43,Kevin Van Winkle,REP,0.5718893463971623,99.99,14390.0,Yes,99.99,99.37
+125,CO,2018,State Representative,43,Barrett Rothe,DEM,0.37593457198330765,0.01,6655.23,No,0.63,0.01
+126,CO,2018,State Representative,43,Scott Wagner,UNITY PARTY OF COLORADO,0.052176081619530114,< 0.01,2564.96,No,,
+127,CO,2018,State Representative,44,Kim Ransom,REP,0.6135723749536484,99.99,4445.0,Yes,99.99,99.9
+128,CO,2018,State Representative,44,Simone Aiken,DEM,0.38642762504635164,0.01,1143.42,No,0.1,0.01
+129,CO,2018,State Representative,45,Patrick Neville,REP,0.6628926247531934,99.99,10865.0,Yes,99.99,99.99
+130,CO,2018,State Representative,45,Danielle Young-Kombo,DEM,0.33710737524680656,0.01,3058.79,No,0.01,0.01
+131,CO,2018,State Representative,46,Daneya Leigh Esgar,DEM,0.8085540096266766,> 99.99,41843.0,Yes,> 99.99,> 99.99
+132,CO,2018,State Representative,46,Jonathan Ambler,REP,0.19144599037332355,< 0.01,604.0,No,< 0.01,< 0.01
+133,CO,2018,State Representative,47,Brianna Buentello,DEM,0.7047947621020076,99.99,58908.32,No,> 99.99,99.99
+134,CO,2018,State Representative,47,Don Bendell,REP,0.2952052378979924,0.01,5484.0,No,0.01,< 0.01
+135,CO,2018,State Representative,48,Gbenga Ajiboye,DEM,0.3780729518258023,0.01,2700.0,No,0.03,0.01
+136,CO,2018,State Representative,48,Stephen Humphrey,REP,0.6219270481741976,99.99,2550.0,Yes,99.99,99.97
+137,CO,2018,State Representative,49,Perry Lynn Buck,REP,0.5759645478459906,99.86,3850.0,Yes,99.99,94.87
+138,CO,2018,State Representative,49,Conor Duffy,DEM,0.4240354521540094,0.14,3841.85,No,5.13,0.01
+139,CO,2018,State Representative,5,Alex Valdez,DEM,0.7953529098526667,> 99.99,96335.85,No,> 99.99,> 99.99
+140,CO,2018,State Representative,5,Rory Lamberton,LIB,0.04134998747584765,< 0.01,0.0,No,,
+141,CO,2018,State Representative,5,Katherine Whitney,REP,0.16329710267148562,< 0.01,0.0,No,< 0.01,< 0.01
+142,CO,2018,State Representative,50,Rochelle Galindo,DEM,0.7839234074278233,> 99.99,32840.69,No,> 99.99,> 99.99
+143,CO,2018,State Representative,50,Michael Thuener,REP,0.21607659257217665,< 0.01,0.0,No,< 0.01,< 0.01
+144,CO,2018,State Representative,51,Hugh McKean,REP,0.8212671209693542,> 99.99,17249.0,Yes,> 99.99,> 99.99
+145,CO,2018,State Representative,51,Joan Shaffer,REP,0.17873287903064586,< 0.01,0.0,No,< 0.01,< 0.01
+146,CO,2018,State Representative,52,Joann Ginal,DEM,0.7451909812281117,> 99.99,10098.0,Yes,> 99.99,99.99
+147,CO,2018,State Representative,52,Donna Walter,REP,0.25480901877188833,< 0.01,0.0,No,0.01,< 0.01
+148,CO,2018,State Representative,53,Jennifer James Arndt,DEM,1.0,100.00,13445.0,Yes,100.00,100.00
+149,CO,2018,State Representative,54,Thea Chase,IND,0.7091177634684294,99.99,20621.25,No,> 99.99,99.99
+150,CO,2018,State Representative,54,Matt Soper,REP,0.29088223653157064,0.01,5872.0,No,0.01,< 0.01
+151,CO,2018,State Representative,55,Janice Rich,REP,0.4843723174053336,26.93,6881.61,No,77.1,2.43
+152,CO,2018,State Representative,55,Tanya Travis,DEM,0.5156276825946664,73.07,6370.0,No,97.57,22.9
+153,CO,2018,State Representative,56,Rod Bockenfeld,REP,0.462243597910177,33.39,7100.0,No,82.33,3.71
+154,CO,2018,State Representative,56,David Rose,DEM,0.4840611272931404,66.61,3170.0,No,96.29,17.67
+155,CO,2018,State Representative,56,Kevin Gulbranson,LIB,0.05369527479668262,< 0.01,0.0,No,,
+156,CO,2018,State Representative,57,Robert Rankin,REP,0.5640418229555058,99.41,6925.0,Yes,99.99,87.76
+157,CO,2018,State Representative,57,Colin Wilhelm,DEM,0.43595817704449424,0.59,4142.18,No,12.24,0.01
+158,CO,2018,State Representative,58,Seth Cagin,DEM,0.5156899247554438,73.15,17284.32,No,97.58,22.97
+159,CO,2018,State Representative,58,Marc Catlin,REP,0.48431007524455627,26.85,6100.0,Yes,77.03,2.42
+160,CO,2018,State Representative,59,Barbara Hall McLachlan,DEM,0.6948253390081005,99.99,36750.38,Yes,> 99.99,99.99
+161,CO,2018,State Representative,59,Paul Jones,IND,0.30517466099189944,0.01,8239.25,No,0.01,< 0.01
+162,CO,2018,State Representative,6,Christopher Joshi Hansen,DEM,1.0,100.00,22578.0,Yes,100.00,100.00
+163,CO,2018,State Representative,60,Erin Kelley,DEM,0.49829760755563535,81.55,14601.89,No,98.79,32.33
+164,CO,2018,State Representative,60,James Demont Wilson,REP,0.4526251023836146,18.45,2400.0,Yes,67.67,1.21
+165,CO,2018,State Representative,60,Glenn Ingalls,LIB,0.04907729006075017,< 0.01,0.0,No,,
+166,CO,2018,State Representative,61,Julie McCluskie,DEM,0.7684140222200319,> 99.99,41132.0,No,> 99.99,> 99.99
+167,CO,2018,State Representative,61,Michael Mason,REP,0.2315859777799682,< 0.01,0.0,No,< 0.01,< 0.01
+168,CO,2018,State Representative,62,Donald Elias Valdez,DEM,0.7798444351642747,> 99.99,8970.17,Yes,> 99.99,> 99.99
+169,CO,2018,State Representative,62,Scott Honeycutt,REP,0.2201555648357253,< 0.01,0.0,No,< 0.01,< 0.01
+170,CO,2018,State Representative,63,Brandon Bobian,DEM,0.4104777691589386,0.28,8894.02,No,7.76,0.01
+171,CO,2018,State Representative,63,Lori Saine,REP,0.5516950100546514,99.72,5925.0,Yes,99.99,92.24
+172,CO,2018,State Representative,63,Joseph Johnson,LIB,0.03782722078641012,< 0.01,0.0,No,,
+173,CO,2018,State Representative,64,Kimmi Joan Lewis,REP,0.7340657048189465,> 99.99,16579.0,Yes,> 99.99,99.99
+174,CO,2018,State Representative,64,Teri Nelson Baird,DEM,0.26593429518105355,< 0.01,0.0,No,0.01,< 0.01
+175,CO,2018,State Representative,65,Rodney Pelton,REP,0.5839077539488057,99.95,4833.31,No,99.99,97.41
+176,CO,2018,State Representative,65,Bethleen McCall,DEM,0.4160922460511944,0.05,170.0,No,2.59,0.01
+177,CO,2018,State Representative,7,James Rashad Coleman,DEM,0.8523252530571258,> 99.99,10337.35,Yes,> 99.99,> 99.99
+178,CO,2018,State Representative,7,Jay Frank Kucera,REP,0.1476747469428742,< 0.01,0.0,No,< 0.01,< 0.01
+179,CO,2018,State Representative,8,Leslie Herod,DEM,1.0,100.00,22462.74,Yes,100.00,100.00
+180,CO,2018,State Representative,9,Emily Sirota,DEM,0.765569760829284,> 99.99,130970.23,No,> 99.99,> 99.99
+181,CO,2018,State Representative,9,Robert Lane,REP,0.2344302391707161,< 0.01,0.0,No,< 0.01,< 0.01
+185,CO,2018,State Senator,1,Jerry Sonnenberg,REP,0.7215076315872124,> 99.99,11100.0,Yes,> 99.99,99.99
+186,CO,2018,State Senator,1,Debra Gustafson,DEM,0.2784923684127876,< 0.01,0.0,No,0.01,< 0.01
+187,CO,2018,State Senator,11,Sanford Lee,DEM,0.6186602619462851,99.99,66212.89,No,99.99,99.95
+188,CO,2018,State Senator,11,Patrick McIntire,REP,0.3813397380537149,0.01,10146.8,No,0.05,0.01
+189,CO,2018,State Senator,13,John Cooke III,REP,0.5832546232125663,99.99,16316.82,Yes,99.99,99.79
+190,CO,2018,State Senator,13,Phil Kelley,DEM,0.3682373186169138,0.01,1515.0,No,0.21,0.01
+191,CO,2018,State Senator,13,Eric Joss,LIB,0.048508058170519966,< 0.01,0.0,No,,
+192,CO,2018,State Senator,15,Rob Woodward,REP,0.4891028610615642,33.41,86821.05,No,82.34,3.71
+193,CO,2018,State Senator,15,Rebecca Cranston,DEM,0.5108971389384358,66.59,25510.01,No,96.29,17.66
+194,CO,2018,State Senator,16,Tammy Story,DEM,0.48145948479270856,54.51,193082.69,No,92.92,10.67
+195,CO,2018,State Senator,16,Timothy Patrick Neville,REP,0.4757012363728151,45.49,120557.78,Yes,89.33,7.08
+196,CO,2018,State Senator,16,James Gilman,LIB,0.042839278834476385,< 0.01,0.0,No,,
+197,CO,2018,State Senator,2,Dennis Hisey,REP,0.645159681093568,99.99,29726.25,No,99.99,99.99
+198,CO,2018,State Senator,2,Elizabeth Harz,DEM,0.354840318906432,0.01,0.0,No,0.01,0.01
+199,CO,2018,State Senator,20,Jessie Danielson,DEM,0.5259824992113805,96.45,109616.49,No,99.92,67.32
+200,CO,2018,State Senator,20,Christine Jensen,REP,0.43419764982166437,3.55,68223.85,No,32.68,0.08
+201,CO,2018,State Senator,20,Charles Messick,LIB,0.039819850966955124,< 0.01,100.0,No,,
+202,CO,2018,State Senator,22,Romualdo Sanchez,REP,0.4720376352473997,13.56,66111.07,No,60.13,0.7
+203,CO,2018,State Senator,22,Brittany Pettersen,DEM,0.5279623647526003,86.44,62965.54,No,99.3,39.87
+204,CO,2018,State Senator,24,Faith Winter,DEM,0.4700409881733388,74.61,188210.48,No,97.82,24.36
+205,CO,2018,State Senator,24,Beth Martinez Humenik,REP,0.4363781052970475,25.39,51906.57,Yes,75.64,2.18
+206,CO,2018,State Senator,24,Adam Matkowsky,IND,0.0550152257754989,< 0.01,7868.0,No,,
+207,CO,2018,State Senator,24,Donald Osborn,LIB,0.0385656807541148,< 0.01,0.0,No,,
+208,CO,2018,State Senator,3,Leroy Garcia Jr.,DEM,0.7726721855149958,> 99.99,89780.62,Yes,> 99.99,> 99.99
+209,CO,2018,State Senator,3,John Pickerill,LIB,0.2273278144850042,< 0.01,110.0,No,< 0.01,< 0.01
+210,CO,2018,State Senator,30,Chris Holbert,REP,0.5423555529684475,99.95,55626.67,Yes,99.99,97.67
+211,CO,2018,State Senator,30,Steve Peterson,IND,0.08541745212134463,< 0.01,36226.81,No,,
+212,CO,2018,State Senator,30,Julia Varnell-Sarjeant,DEM,0.3722269949102078,0.05,4656.55,No,2.33,0.01
+213,CO,2018,State Senator,32,Robert Rodriguez,DEM,0.6877000934974734,> 99.99,173378.15,No,> 99.99,99.99
+214,CO,2018,State Senator,32,Peter Lucas Smith,IND,0.10492338886829404,< 0.01,17490.0,No,,
+215,CO,2018,State Senator,32,Mark Calonder,REP,0.20737651763423262,< 0.01,0.0,No,0.01,< 0.01
+216,CO,2018,State Senator,34,Julia Gonzales,DEM,0.6289125928888826,99.99,74715.33,No,99.99,99.98
+217,CO,2018,State Senator,34,Gordon Alley,REP,0.3710874071111174,0.01,18957.99,No,0.02,0.01
+218,CO,2018,State Senator,5,Kerry Donovan,DEM,0.7257815933757004,> 99.99,92236.32,Yes,> 99.99,99.99
+219,CO,2018,State Senator,5,Olen Lund,REP,0.2742184066242996,< 0.01,0.0,No,0.01,< 0.01
+220,CO,2018,State Senator,6,Donald Lee Coram,REP,0.6229728891187872,99.99,16904.18,Yes,99.99,99.97
+221,CO,2018,State Senator,6,Guinn Unger,DEM,0.3770271108812127,0.01,6151.4,No,0.03,0.01
+222,CO,2018,State Senator,7,Ray Scott,REP,0.6523482537789683,99.99,46680.0,Yes,99.99,99.99
+223,CO,2018,State Senator,7,Chris Kennedy,DEM,0.34765174622103173,0.01,7740.0,No,0.01,0.01
+224,CO,2018,State Senator,9,Paul Lundeen,REP,0.6219891789277004,99.99,34514.0,No,99.99,99.97
+225,CO,2018,State Senator,9,Gilberto Armendariz,DEM,0.37801082107229955,0.01,3535.5,No,0.03,0.01
+2,CO,2018,U.S. Representative,1,Diana Degette,DEM,0.7156489660264831,> 99.99,1017692.63,Yes,> 99.99,> 99.99
+3,CO,2018,U.S. Representative,1,Miguel Lopez,DEMOCRATIC WRITEIN,0.044024076938591845,< 0.01,0.0,No,,
+4,CO,2018,U.S. Representative,1,Raymon Anthony Doane,LIB,0.044024076938591845,< 0.01,0.0,No,,
+5,CO,2018,U.S. Representative,1,Casper Stockham,REP,0.19630288009633323,< 0.01,0.0,No,< 0.01,< 0.01
+6,CO,2018,U.S. Representative,2,Joseph Neguse,DEM,0.598389313192607,99.99,855148.94,No,99.99,99.99
+7,CO,2018,U.S. Representative,2,Kevin Alumbaugh,GREEN WRITEIN,0.04877637571343473,< 0.01,0.0,No,,
+8,CO,2018,U.S. Representative,2,Nicholas Thomas,IND,0.04877637571343473,< 0.01,0.0,No,,
+9,CO,2018,U.S. Representative,2,Roger Barris,LIB,0.04877637571343473,< 0.01,0.0,No,,
+10,CO,2018,U.S. Representative,2,Peter Yu,REP,0.2552815596670887,0.01,0.0,No,0.01,0.01
+11,CO,2018,U.S. Representative,3,Scott Tipton,REP,0.45338157816036256,75.02,983570.36,Yes,97.89,24.76
+12,CO,2018,U.S. Representative,3,Diane Mitsch Bush,DEM,0.41906272925244753,24.98,641278.77,No,75.24,2.11
+13,CO,2018,U.S. Representative,3,Bruce Lohmiller,GREEN WRITEIN,0.03188892314679744,< 0.01,0.0,No,,
+14,CO,2018,U.S. Representative,3,Sean McGary,GREEN WRITEIN,0.03188892314679744,< 0.01,0.0,No,,
+15,CO,2018,U.S. Representative,3,Mary Malarsie,IND,0.03188892314679744,< 0.01,0.0,No,,
+16,CO,2018,U.S. Representative,3,Gaylon Kent,LIB,0.03188892314679744,< 0.01,0.0,No,,
+17,CO,2018,U.S. Representative,4,Kenneth Buck,REP,0.5066573245068499,94.58,432498.4,Yes,99.84,59.83
+18,CO,2018,U.S. Representative,4,Karen Dvm McCormick,DEM,0.4250350677452262,5.42,326448.36,No,40.17,0.16
+19,CO,2018,U.S. Representative,4,Richard Lyons Weil,DEMOCRATIC WRITEIN,0.03415380387396199,< 0.01,0.0,No,,
+20,CO,2018,U.S. Representative,4,John Vigil,GREEN WRITEIN,0.03415380387396199,< 0.01,0.0,No,,
+21,CO,2018,U.S. Representative,5,Douglas Lamborn,REP,0.5246367500997708,99.35,567976.17,Yes,99.99,87.05
+22,CO,2018,U.S. Representative,5,Stephany Rose Spaulding,DEM,0.39829773853435474,0.65,209387.54,No,12.95,0.01
+23,CO,2018,U.S. Representative,5,Lori Furstenberg,DEMOCRATIC WRITEIN,0.03853275568293722,< 0.01,0.0,No,,
+24,CO,2018,U.S. Representative,5,Douglas Randall,LIB,0.03853275568293722,< 0.01,0.0,No,,
+25,CO,2018,U.S. Representative,6,Michael Coffman,REP,0.4387993110126716,42.12,2323483.52,Yes,87.66,5.99
+26,CO,2018,U.S. Representative,6,Jason Crow,DEM,0.44891624988425854,57.88,2256452.05,No,94.01,12.34
+27,CO,2018,U.S. Representative,6,Christopher Allen,GREEN WRITEIN,0.03742814636768996,< 0.01,0.0,No,,
+28,CO,2018,U.S. Representative,6,Kat Martin,LIB,0.03742814636768996,< 0.01,0.0,No,,
+29,CO,2018,U.S. Representative,6,Dan Chapin,IND,0.03742814636768996,< 0.01,0.0,No,,
+30,CO,2018,U.S. Representative,7,Edwin Perlmutter,DEM,0.6169481242071075,99.99,1358610.27,Yes,> 99.99,99.99
+31,CO,2018,U.S. Representative,7,Steve Zorn,DEMOCRATIC WRITEIN,0.04522770464153175,< 0.01,0.0,No,,
+32,CO,2018,U.S. Representative,7,Michael Haughey,GREEN WRITEIN,0.04522770464153175,< 0.01,0.0,No,,
+33,CO,2018,U.S. Representative,7,Jennifer Nackerud,LIB,0.04522770464153175,< 0.01,0.0,No,,
+34,CO,2018,U.S. Representative,7,Mark Barrington,REP,0.24736876186829732,0.01,0.0,No,0.01,< 0.01

@@ -1,0 +1,4 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,AK,2018,U.S. Representative,1,Don Young,REP,0.5723539483737734,99.98,768712.02,Yes,99.99,99.37
+1,AK,2018,U.S. Representative,1,Alyse Galvin,DEM,0.387507406770305,0.02,0.0,No,0.63,0.01
+2,AK,2018,U.S. Representative,1,Gregory Fitch,IND,0.04013864485592157,< 0.01,0.0,No,,

@@ -1,0 +1,7 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,NE,2018,U.S. Representative,1,Jeff Fortenberry,REP,0.6138814968960479,99.99,556861.0,Yes,99.99,99.96
+1,NE,2018,U.S. Representative,1,Jessica McClure,DEM,0.3861185031039521,0.01,37203.73,No,0.04,0.01
+2,NE,2018,U.S. Representative,2,Donald Bacon,REP,0.5407449994615215,94.84,1848056.46,Yes,99.76,66.63
+3,NE,2018,U.S. Representative,2,Kara Eastman,DEM,0.4592550005384785,5.16,782603.35,No,33.37,0.24
+4,NE,2018,U.S. Representative,3,Adrian Smith,REP,0.687983352539729,99.99,985324.97,Yes,> 99.99,99.99
+5,NE,2018,U.S. Representative,3,Paul Gilbert Theobald,DEM,0.3120166474602711,0.01,39241.61,No,0.01,< 0.01

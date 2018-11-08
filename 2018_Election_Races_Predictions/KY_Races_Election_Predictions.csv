@@ -1,0 +1,17 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,KY,2018,U.S. Representative,1,James Comer,REP,0.6762303023339689,99.99,581566.95,Yes,99.99,99.99
+1,KY,2018,U.S. Representative,1,Paul Walker,DEM,0.3237696976660312,0.01,12065.0,No,0.01,0.01
+2,KY,2018,U.S. Representative,2,Steven Brett Guthrie,REP,0.621700367257058,99.99,1508322.21,Yes,99.99,99.99
+3,KY,2018,U.S. Representative,2,Hank Linderman,DEM,0.33349703663920627,0.01,85359.51,No,0.01,0.01
+4,KY,2018,U.S. Representative,2,Thomas Loecken,IND,0.0448025961037357,< 0.01,0.0,No,,
+5,KY,2018,U.S. Representative,3,John Yarmuth,DEM,0.6216034304286552,99.99,544230.67,Yes,99.99,99.99
+6,KY,2018,U.S. Representative,3,Vickie Yates Glisson,REP,0.33973264459750674,0.01,465236.35,No,0.01,0.01
+7,KY,2018,U.S. Representative,3,Gregory Boles,LIB,0.03866392497383809,< 0.01,0.0,No,,
+8,KY,2018,U.S. Representative,4,Thomas Massie,REP,0.5628480299881673,99.97,242708.09,Yes,99.99,98.96
+9,KY,2018,U.S. Representative,4,Seth Hall,DEM,0.38709680409236724,0.03,48972.67,No,1.04,0.01
+10,KY,2018,U.S. Representative,4,Mike Moffett,IND,0.05005516591946558,< 0.01,0.0,No,,
+11,KY,2018,U.S. Representative,5,Harold Rogers,REP,0.7128968813194496,> 99.99,620324.0,Yes,> 99.99,99.99
+12,KY,2018,U.S. Representative,5,Kenneth Stepp,DEM,0.28710311868055033,< 0.01,0.0,No,0.01,< 0.01
+13,KY,2018,U.S. Representative,6,Garland Barr,REP,0.5085883992930615,88.57,3173870.39,Yes,99.18,50.16
+14,KY,2018,U.S. Representative,6,Amy McGrath,DEM,0.4483760031325122,11.43,3013876.42,No,49.84,0.82
+15,KY,2018,U.S. Representative,6,James Germalic,IND,0.04303559757442633,< 0.01,0.0,No,,

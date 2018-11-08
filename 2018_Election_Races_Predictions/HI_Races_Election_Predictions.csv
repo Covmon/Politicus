@@ -1,0 +1,6 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,HI,2018,U.S. Representative,1,Ed Case,DEM,0.6094771605328507,99.99,0.0,No,99.99,99.99
+1,HI,2018,U.S. Representative,1,Michelle Rose Tippens,LIB,0.05189498924738338,< 0.01,0.0,No,,
+3,HI,2018,U.S. Representative,1,Campbell Cavasso,REP,0.338627850219766,0.01,0.0,No,0.01,0.01
+4,HI,2018,U.S. Representative,2,Tulsi Gabbard Tamayo,DEM,0.7763219277405089,> 99.99,1150266.01,Yes,> 99.99,> 99.99
+5,HI,2018,U.S. Representative,2,Brian Evans,REP,0.22367807225949116,< 0.01,0.0,No,< 0.01,< 0.01

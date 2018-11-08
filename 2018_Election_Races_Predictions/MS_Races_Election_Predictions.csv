@@ -1,0 +1,9 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,MS,2018,U.S. Representative,1,John Trent Kelly,REP,0.6410124457591213,99.99,653335.05,Yes,99.99,99.99
+1,MS,2018,U.S. Representative,1,Randy Mack Wadkins,DEM,0.3589875542408787,0.01,140672.81,No,0.01,0.01
+2,MS,2018,U.S. Representative,2,Bennie Thompson,DEM,0.9470208763703966,> 99.99,679729.12,Yes,> 99.99,> 99.99
+3,MS,2018,U.S. Representative,2,Troy Ray,IND,0.05297912362960344,< 0.01,0.0,No,< 0.01,< 0.01
+4,MS,2018,U.S. Representative,3,Michael Evans,DEM,0.5187779021407509,77.37,0.0,No,97.44,32.67
+5,MS,2018,U.S. Representative,3,Michael Guest,REP,0.4812220978592491,22.63,0.0,No,67.33,2.56
+6,MS,2018,U.S. Representative,4,Steven McCarty Palazzo,REP,0.6684730179922541,99.99,592778.0,Yes,99.99,99.99
+7,MS,2018,U.S. Representative,4,Jeramey Dewayne Anderson,DEM,0.33152698200774583,0.01,30718.51,No,0.01,0.01

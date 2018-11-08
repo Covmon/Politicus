@@ -1,0 +1,4 @@
+,State,Year,Position,Total Seats,Party,Seats Up for Election,Party Safe Seats,Predicted Vote Share,Election Lower-End Predicted Seats,Election Predicted Seats,Election Upper-End Predicted Seats,Lower-End Predicted Seats,Predicted Seats,Upper-End Predicted Seats,Seats Needed for Majority,Predicted Majority Win Probability,Seats Needed for Supermajority,Predicted Supermajority Win Probability,Total Money
+0,KS,2018,State Representative,125,REP,125,0,-1,80.39,84.21,84.99,80.39,84.21,84.99,62.5,0.99998,83.33333333333333,0.59073,675486.88
+1,KS,2018,State Representative,125,DEM,125,0,-1,40.01,40.79,43.71,40.01,40.79,43.71,62.5,2e-05,83.33333333333333,0.0,520056.98000000004
+2,KS,2018,State Representative,125,IND,125,0,-1,0.0,0.0,0.0,0.0,0.0,0.0,62.5,0,83.33333333333333,0,0.0

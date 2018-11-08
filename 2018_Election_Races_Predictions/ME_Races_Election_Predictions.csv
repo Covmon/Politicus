@@ -1,0 +1,7 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,ME,2018,U.S. Representative,1,Rochelle Pingree,DEM,0.6510771940310973,99.99,395479.79,Yes,99.99,99.99
+1,ME,2018,U.S. Representative,1,Mark Irving Holbrook,REP,0.3074506611087765,0.01,52703.22,No,0.01,0.01
+2,ME,2018,U.S. Representative,1,Martin Grohman,IND,0.04147214486012614,< 0.01,0.0,No,,
+3,ME,2018,U.S. Representative,2,Bruce Poliquin,REP,0.5212673109956479,95.50,3000691.83,Yes,99.81,69.01
+4,ME,2018,U.S. Representative,2,Jared Golden,DEM,0.43645753983319246,4.5,1173675.2,No,30.99,0.19
+5,ME,2018,U.S. Representative,2,Brian Phillip Kresge,LIB,0.04227514917115965,< 0.01,25.0,No,,

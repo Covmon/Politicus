@@ -1,0 +1,21 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,WA,2018,U.S. Representative,1,Suzan Delbene,DEM,0.6854963519237962,99.99,1531013.14,Yes,> 99.99,99.99
+1,WA,2018,U.S. Representative,1,Jeffrey Beeler,REP,0.31450364807620385,0.01,0.0,No,0.01,< 0.01
+2,WA,2018,U.S. Representative,10,Dennis Heck,DEM,0.6780109163935087,99.99,1132356.99,Yes,> 99.99,99.99
+3,WA,2018,U.S. Representative,10,Joseph Brumbles,REP,0.3219890836064913,0.01,0.0,No,0.01,< 0.01
+4,WA,2018,U.S. Representative,2,Rick Larsen,DEM,0.9436595316754532,> 99.99,787215.14,Yes,> 99.99,> 99.99
+5,WA,2018,U.S. Representative,2,Brian Luke,LIB,0.0563404683245468,< 0.01,0.0,No,< 0.01,< 0.01
+6,WA,2018,U.S. Representative,3,Jaime Lynn Herrera Beutler,REP,0.6061810356103411,99.99,1480637.87,Yes,99.99,99.88
+7,WA,2018,U.S. Representative,3,Carolyn Long,DEM,0.3938189643896589,0.01,0.0,No,0.12,0.01
+8,WA,2018,U.S. Representative,4,Daniel Newhouse,REP,0.5946504991197861,99.99,786940.21,Yes,99.99,99.51
+9,WA,2018,U.S. Representative,4,Christine Carol Brown,DEM,0.4053495008802139,0.01,266346.87,No,0.49,0.01
+10,WA,2018,U.S. Representative,5,Cathy McMorris Rodgers,REP,0.5328200442107484,90.53,3707656.0,Yes,99.4,54.49
+11,WA,2018,U.S. Representative,5,Lisa Brown,DEM,0.46717995578925164,9.47,2384240.43,No,45.51,0.6
+12,WA,2018,U.S. Representative,6,Derek Kilmer,DEM,0.6770622369369528,99.99,1786088.68,Yes,99.99,99.99
+13,WA,2018,U.S. Representative,6,Douglas Dightman,REP,0.3229377630630472,0.01,0.0,No,0.01,0.01
+14,WA,2018,U.S. Representative,7,Pramila Jayapal,DEM,0.819044996314095,> 99.99,1649869.18,Yes,> 99.99,> 99.99
+15,WA,2018,U.S. Representative,7,Craig Keller,REP,0.18095500368590506,< 0.01,0.0,No,< 0.01,< 0.01
+16,WA,2018,U.S. Representative,8,Dino Rossi,REP,0.4708701335951202,12.2,2996363.22,No,51.39,0.91
+17,WA,2018,U.S. Representative,8,Kim Schrier,DEM,0.5291298664048799,87.80,1607121.11,No,99.09,48.61
+18,WA,2018,U.S. Representative,9,Adam Smith,DEM,0.6092276748811408,99.99,599267.47,Yes,99.99,99.92
+19,WA,2018,U.S. Representative,9,Sarah Smith,DEM,0.3907723251188591,0.01,56774.74,No,0.08,0.01

@@ -1,0 +1,16 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,OR,2018,U.S. Representative,1,Suzanne Bonamici,DEM,0.6748070650802788,99.99,785978.88,Yes,> 99.99,99.99
+1,OR,2018,U.S. Representative,1,Drew Layda,LIB,0.037363405028490546,< 0.01,0.0,No,,
+2,OR,2018,U.S. Representative,1,John Verbeek,REP,0.28782952989123073,0.01,0.0,No,0.01,< 0.01
+3,OR,2018,U.S. Representative,2,Gregory Walden,REP,0.541145428982465,99.44,4188686.84,Yes,99.99,90.99
+4,OR,2018,U.S. Representative,2,Jamie McLeod-Skinner,DEM,0.4141153660544399,0.56,281505.29,No,9.01,0.01
+5,OR,2018,U.S. Representative,2,Mark Roberts,IND,0.044739204963095185,< 0.01,0.0,No,,
+6,OR,2018,U.S. Representative,3,Earl Blumenauer,DEM,0.9007851576213768,> 99.99,1013016.42,Yes,> 99.99,> 99.99
+7,OR,2018,U.S. Representative,3,Marc Koller,IND,0.049607421189311586,< 0.01,0.0,No,< 0.01,< 0.01
+8,OR,2018,U.S. Representative,3,Sean McGary,LIB,0.049607421189311586,< 0.01,0.0,No,< 0.01,< 0.01
+9,OR,2018,U.S. Representative,4,Peter Defazio,DEM,0.6436115634896094,99.99,1163186.96,Yes,99.99,99.99
+10,OR,2018,U.S. Representative,4,Arthur Robinson,REP,0.31217851883070685,0.01,68022.34,No,0.01,0.01
+11,OR,2018,U.S. Representative,4,Richard Jacobson,LIB,0.04420991767968385,< 0.01,0.0,No,,
+12,OR,2018,U.S. Representative,5,Walter Schrader,DEM,0.6399650354587294,99.99,1575458.96,Yes,99.99,99.99
+13,OR,2018,U.S. Representative,5,Mark Allen Callahan,REP,0.3101917677528169,0.01,13111.99,No,0.01,0.01
+14,OR,2018,U.S. Representative,5,Dan Souza,LIB,0.0498431967884536,< 0.01,0.0,No,,

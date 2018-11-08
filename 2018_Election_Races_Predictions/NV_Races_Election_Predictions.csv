@@ -1,0 +1,12 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,NV,2018,U.S. Representative,1,Dina Titus,DEM,0.6798481552350079,99.99,500715.33,Yes,> 99.99,99.99
+1,NV,2018,U.S. Representative,1,Robert Van Strawder,LIB,0.05029302148291162,< 0.01,0.0,No,,
+2,NV,2018,U.S. Representative,1,Joyce Bentley,REP,0.2698588232820805,0.01,0.0,No,0.01,< 0.01
+3,NV,2018,U.S. Representative,2,Mark Eugene Amodei,REP,0.6167297601948799,99.99,895903.38,Yes,99.99,99.97
+4,NV,2018,U.S. Representative,2,Clint Koble,DEM,0.38327023980512015,0.01,0.0,No,0.03,0.01
+5,NV,2018,U.S. Representative,3,Suzanne Kelley Lee,DEM,0.6103199534712923,99.99,2130977.89,No,99.99,99.99
+6,NV,2018,U.S. Representative,3,Steven Paul Brown,LIB,0.05557254127968666,< 0.01,0.0,No,,
+7,NV,2018,U.S. Representative,3,Daniel John Tarkanian,REP,0.33410750524902105,0.01,0.0,No,0.01,0.01
+8,NV,2018,U.S. Representative,4,Steven Horsford,DEM,0.5414810262691847,99.60,0.0,No,99.99,92.74
+9,NV,2018,U.S. Representative,4,Gregg Luckner,LIB,0.04989327354551608,< 0.01,0.0,No,,
+10,NV,2018,U.S. Representative,4,Cresent Hardy,REP,0.40862570018529926,0.4,0.0,No,7.26,0.01

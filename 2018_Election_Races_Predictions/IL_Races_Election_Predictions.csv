@@ -1,0 +1,38 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,IL,2018,U.S. Representative,1,Bobby Rush,DEM,0.8110865616898055,> 99.99,268975.0,Yes,> 99.99,> 99.99
+1,IL,2018,U.S. Representative,1,Jimmy Lee Tillman II,REP,0.18891343831019453,< 0.01,0.0,No,< 0.01,< 0.01
+2,IL,2018,U.S. Representative,10,Bradley Scott Schneider,DEM,0.663316936059002,99.99,3407742.83,Yes,99.99,99.99
+3,IL,2018,U.S. Representative,10,Douglas Bennett,REP,0.33668306394099795,0.01,204776.0,No,0.01,0.01
+4,IL,2018,U.S. Representative,11,George William Foster,DEM,0.6657898197491678,99.99,1689556.97,Yes,99.99,99.99
+5,IL,2018,U.S. Representative,11,Dominick Stella,REP,0.33421018025083216,0.01,187375.0,No,0.01,0.01
+6,IL,2018,U.S. Representative,12,Michael Bost,REP,0.5278393650505339,86.72,1906452.62,Yes,98.96,46.55
+7,IL,2018,U.S. Representative,12,Brendan Kelly,DEM,0.47216063494946614,13.28,1778597.44,No,53.45,1.04
+8,IL,2018,U.S. Representative,13,Rodney Davis,REP,0.529778869232848,88.32,2358554.1,Yes,99.16,49.64
+9,IL,2018,U.S. Representative,13,Betsy Dirksen Londrigan,DEM,0.47022113076715194,11.68,1378697.06,No,50.36,0.84
+10,IL,2018,U.S. Representative,14,Randall Mark Hultgren,REP,0.5358315617339452,92.41,1431223.37,Yes,99.57,59.22
+11,IL,2018,U.S. Representative,14,Lauren Underwood,DEM,0.46416843826605475,7.59,1130813.79,No,40.78,0.43
+12,IL,2018,U.S. Representative,15,John Shimkus,REP,0.6658228732891721,99.99,1472708.63,Yes,99.99,99.99
+13,IL,2018,U.S. Representative,15,Kevin Gaither,DEM,0.3341771267108279,0.01,29622.37,No,0.01,0.01
+14,IL,2018,U.S. Representative,16,Adam Daniel Kinzinger,REP,0.5837664744846625,99.95,1451799.73,Yes,99.99,98.42
+15,IL,2018,U.S. Representative,16,Sara Dady,DEM,0.41623352551533754,0.05,212045.38,No,1.58,0.01
+16,IL,2018,U.S. Representative,17,Cheri Callahan Bustos,DEM,0.6732320490769783,99.99,2862597.41,Yes,99.99,99.99
+17,IL,2018,U.S. Representative,17,William Fawell,REP,0.3267679509230217,0.01,0.0,No,0.01,0.01
+18,IL,2018,U.S. Representative,18,Darin Lahood,REP,0.6370731505822845,99.99,1840908.43,Yes,99.99,99.99
+19,IL,2018,U.S. Representative,18,Junius Rodriguez,DEM,0.36292684941771547,0.01,39836.37,No,0.01,0.01
+20,IL,2018,U.S. Representative,2,Robin Kelly,DEM,0.8260650523796267,> 99.99,722269.27,Yes,> 99.99,> 99.99
+21,IL,2018,U.S. Representative,2,David Merkle,REP,0.17393494762037331,< 0.01,0.0,No,< 0.01,< 0.01
+22,IL,2018,U.S. Representative,3,Daniel William Lipinski,DEM,0.659168966873694,99.99,1367206.58,Yes,> 99.99,99.99
+23,IL,2018,U.S. Representative,3,Mateusz Tomkowiak,IND,0.044718900522844635,< 0.01,0.0,No,,
+24,IL,2018,U.S. Representative,3,Arthur Jones,REP,0.2961121326034614,0.01,0.0,No,0.01,< 0.01
+25,IL,2018,U.S. Representative,4,Jesus Garcia,DEM,0.8041213599607604,> 99.99,669518.54,No,> 99.99,> 99.99
+26,IL,2018,U.S. Representative,4,Mark Wayne Lorch,REP,0.1958786400392396,< 0.01,8185.91,No,< 0.01,< 0.01
+27,IL,2018,U.S. Representative,5,Michael Quigley,DEM,0.7662754542185842,> 99.99,1013642.25,Yes,> 99.99,> 99.99
+28,IL,2018,U.S. Representative,5,Tom Hanson,REP,0.23372454578141577,< 0.01,0.0,No,< 0.01,< 0.01
+29,IL,2018,U.S. Representative,6,Peter Roskam,REP,0.5213158544415216,80.30,4391221.26,Yes,97.99,36.41
+30,IL,2018,U.S. Representative,6,Sean Casten,DEM,0.4786841455584784,19.7,2053083.81,No,63.59,2.01
+31,IL,2018,U.S. Representative,7,Daniel Davis,DEM,0.8721570945006633,> 99.99,289368.35,Yes,> 99.99,> 99.99
+32,IL,2018,U.S. Representative,7,Craig Cameron,REP,0.12784290549933675,< 0.01,0.0,No,< 0.01,< 0.01
+33,IL,2018,U.S. Representative,8,Raja Krishnamoorthi,DEM,0.6723469263396765,99.99,4237018.8,Yes,99.99,99.99
+34,IL,2018,U.S. Representative,8,Jitendra Diganvker,REP,0.3276530736603235,0.01,29862.77,No,0.01,0.01
+35,IL,2018,U.S. Representative,9,Janice Schakowsky,DEM,0.7342065064563725,> 99.99,1251883.26,Yes,> 99.99,99.99
+36,IL,2018,U.S. Representative,9,John Elleson,REP,0.26579349354362747,< 0.01,0.0,No,0.01,< 0.01

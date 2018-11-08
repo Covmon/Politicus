@@ -1,0 +1,14 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,AL,2018,U.S. Representative,1,Bradley Byrne,REP,0.6663801647918594,99.99,1009319.45,Yes,99.99,99.99
+1,AL,2018,U.S. Representative,1,Robert Kennedy Jr.,DEM,0.33361983520814065,0.01,133664.39,No,0.01,0.01
+2,AL,2018,U.S. Representative,2,Martha Roby,REP,0.6241209868540087,99.99,2184188.88,Yes,99.99,99.99
+3,AL,2018,U.S. Representative,2,Tabitha Kay Isner,DEM,0.3758790131459912,0.01,239279.13,No,0.01,0.01
+4,AL,2018,U.S. Representative,3,Mike Rogers,REP,0.6568853205737536,99.99,956917.0,Yes,99.99,99.99
+5,AL,2018,U.S. Representative,3,Mallory Hagan,DEM,0.34311467942624646,0.01,0.0,No,0.01,0.01
+6,AL,2018,U.S. Representative,4,Robert Aderholt,REP,0.7127383973210379,> 99.99,1250032.61,Yes,> 99.99,99.99
+7,AL,2018,U.S. Representative,4,Lee Auman,DEM,0.28726160267896206,< 0.01,0.0,No,0.01,< 0.01
+8,AL,2018,U.S. Representative,5,Peter Joffrion,DEM,0.49453768520491753,41.36,305962.22,No,83.69,7.81
+9,AL,2018,U.S. Representative,5,Mo Brooks,REP,0.5054623147950824,58.64,194035.0,Yes,92.19,16.31
+10,AL,2018,U.S. Representative,6,Sean McGary,REP,0.6699585456672816,99.99,864430.38,Yes,99.99,99.99
+11,AL,2018,U.S. Representative,6,Danner Kline,DEM,0.3300414543327184,0.01,179719.06,No,0.01,0.01
+12,AL,2018,U.S. Representative,7,Terri Sewell,DEM,1.0,100.00,1330111.25,Yes,100.00,100.00

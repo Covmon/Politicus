@@ -1,0 +1,25 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,VA,2018,U.S. Representative,1,Robert Wittman,REP,0.597052465629597,99.99,1132352.72,Yes,99.99,99.63
+1,VA,2018,U.S. Representative,1,Vangie Williams,DEM,0.402947534370403,0.01,0.0,No,0.37,0.01
+2,VA,2018,U.S. Representative,10,Barbara Comstock,REP,0.5231549660977288,82.28,3806489.52,Yes,98.32,39.21
+3,VA,2018,U.S. Representative,10,Jennifer Wexton,DEM,0.4768450339022712,17.72,1930022.85,No,60.79,1.68
+4,VA,2018,U.S. Representative,11,Gerald Connolly,DEM,0.6372259204339866,99.99,1602426.57,Yes,99.99,99.99
+5,VA,2018,U.S. Representative,11,Jeffery Anthony Dove Jr.,REP,0.32219462885960537,0.01,352706.79,No,0.01,0.01
+6,VA,2018,U.S. Representative,11,Stevan Michael Porter,LIB,0.04057945070640801,< 0.01,5024.2,No,,
+7,VA,2018,U.S. Representative,2,Scott Taylor,REP,0.5883273191849767,99.97,2731799.09,Yes,99.99,99.01
+8,VA,2018,U.S. Representative,2,Elaine Luria,DEM,0.4116726808150233,0.03,0.0,No,0.99,0.01
+9,VA,2018,U.S. Representative,3,Robert Scott,DEM,1.0,100.00,361125.78,Yes,100.00,100.00
+10,VA,2018,U.S. Representative,4,Aston Donald McEachin,DEM,0.6577269427294284,99.99,653539.3,Yes,> 99.99,99.99
+11,VA,2018,U.S. Representative,4,Peter Wells,LIB,0.04527254369928155,< 0.01,0.0,No,,
+12,VA,2018,U.S. Representative,4,Ryan McAdams,REP,0.29700051357129,0.01,0.0,No,0.01,< 0.01
+13,VA,2018,U.S. Representative,5,Leslie Cockburn,DEM,0.622949255357038,99.99,1292239.82,No,99.99,99.98
+14,VA,2018,U.S. Representative,5,Denver Riggleman,REP,0.37705074464296195,0.01,0.0,No,0.02,0.01
+15,VA,2018,U.S. Representative,6,Jenniefer Lynn Lewis,DEM,0.5221394553211042,81.20,0.0,No,98.14,37.66
+16,VA,2018,U.S. Representative,6,Ben Cline,REP,0.47786054467889594,18.8,0.0,No,62.34,1.86
+17,VA,2018,U.S. Representative,7,Abigail Spanberger,DEM,0.44246842079273085,7.45,1395540.49,No,40.4,0.42
+18,VA,2018,U.S. Representative,7,David Alan Brat,REP,0.5146289531570116,92.55,1346645.69,Yes,99.58,59.6
+19,VA,2018,U.S. Representative,7,Joseph Walton,LIB,0.042902626050257554,< 0.01,0.0,No,,
+20,VA,2018,U.S. Representative,8,Donald Sternoff Beyer Jr.,DEM,0.7449631971561526,> 99.99,1579517.09,Yes,> 99.99,> 99.99
+21,VA,2018,U.S. Representative,8,Thomas Oh,REP,0.25503680284384744,< 0.01,0.0,No,< 0.01,< 0.01
+22,VA,2018,U.S. Representative,9,Morgan Griffith,REP,0.6672854464010934,99.99,779588.04,Yes,99.99,99.99
+23,VA,2018,U.S. Representative,9,Anthony Flaccavento,DEM,0.33271455359890656,0.01,0.0,No,0.01,0.01

@@ -1,0 +1,20 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,IN,2018,U.S. Representative,1,Peter Visclosky,DEM,0.6958823328182515,99.99,872316.74,Yes,> 99.99,99.99
+1,IN,2018,U.S. Representative,1,Mark Leyva,REP,0.30411766718174854,0.01,0.0,No,0.01,< 0.01
+2,IN,2018,U.S. Representative,2,Jacqueline Swihart Walorski,REP,0.5405974653480892,94.78,2056836.81,Yes,99.76,66.41
+3,IN,2018,U.S. Representative,2,Melvin Hall,DEM,0.45940253465191083,5.22,1417951.79,No,33.59,0.24
+4,IN,2018,U.S. Representative,3,Jim Banks,REP,0.59971957253041,99.99,759500.61,Yes,99.99,99.73
+5,IN,2018,U.S. Representative,3,Courtney Tritch,DEM,0.40028042746959,0.01,497037.89,No,0.27,0.01
+6,IN,2018,U.S. Representative,4,James Baird,REP,0.5954160760718595,99.99,295398.0,No,99.99,99.55
+7,IN,2018,U.S. Representative,4,Tobi Beck,DEM,0.40458392392814047,0.01,63916.89,No,0.45,0.01
+8,IN,2018,U.S. Representative,5,Susan Brooks,REP,0.609469588421183,99.99,979814.96,Yes,99.99,99.92
+9,IN,2018,U.S. Representative,5,Dee Thornton,DEM,0.3905304115788169,0.01,55516.08,No,0.08,0.01
+10,IN,2018,U.S. Representative,6,Gregory Pence,REP,0.603791353724184,99.99,1691692.8,No,99.99,99.99
+11,IN,2018,U.S. Representative,6,Jeannine Lee Lake,DEM,0.3479348799425491,0.01,0.0,No,0.01,0.01
+12,IN,2018,U.S. Representative,6,Tom Ferkinhoff,LIB,0.04827376633326682,< 0.01,0.0,No,,
+13,IN,2018,U.S. Representative,7,Andre Carson,DEM,0.7156220280081407,> 99.99,721330.45,Yes,> 99.99,99.99
+14,IN,2018,U.S. Representative,7,Wayne Harmon,REP,0.2843779719918593,< 0.01,0.0,No,0.01,< 0.01
+15,IN,2018,U.S. Representative,8,Larry Bucshon,REP,0.6318270711297741,99.99,695548.05,Yes,99.99,99.99
+16,IN,2018,U.S. Representative,8,William Tanoos,DEM,0.3681729288702259,0.01,155324.25,No,0.01,0.01
+17,IN,2018,U.S. Representative,9,Trey Hollingsworth,REP,0.5729300344815933,99.82,1116720.21,Yes,99.99,95.7
+18,IN,2018,U.S. Representative,9,Liz Watson,DEM,0.4270699655184067,0.18,1074503.69,No,4.3,0.01

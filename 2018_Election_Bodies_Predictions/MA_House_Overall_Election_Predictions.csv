@@ -1,0 +1,4 @@
+,State,Year,Position,Total Seats,Party,Seats Up for Election,Party Safe Seats,Predicted Vote Share,Election Lower-End Predicted Seats,Election Predicted Seats,Election Upper-End Predicted Seats,Lower-End Predicted Seats,Predicted Seats,Upper-End Predicted Seats,Seats Needed for Majority,Predicted Majority Win Probability,Seats Needed for Supermajority,Predicted Supermajority Win Probability,Total Money
+0,MA,2018,State Representative,160,REP,160,0,-1,15.59,23.26,31.45,15.59,23.26,31.45,80.0,1e-05,106.66666666666666,0.0,1473242.8199999998
+1,MA,2018,State Representative,160,DEM,160,0,-1,125.35,135.86,143.0,125.35,135.86,143.0,80.0,0.99998,106.66666666666666,0.99726,7662676.85
+2,MA,2018,State Representative,160,IND,160,0,-1,0.29,0.84,1.62,0.29,0.84,1.62,80.0,0,106.66666666666666,0,0.0

@@ -1,0 +1,18 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,WI,2018,U.S. Representative,1,Randy Bryce,DEM,0.5865891221090159,99.99,6403541.81,No,99.99,99.95
+1,WI,2018,U.S. Representative,1,Ken Yorgan,IND,0.05338363602657167,< 0.01,0.0,No,,
+2,WI,2018,U.S. Representative,1,Bryan Steil,REP,0.36002724186441243,0.01,0.0,No,0.05,0.01
+3,WI,2018,U.S. Representative,2,Mark Pocan,DEM,1.0,100.00,747067.39,Yes,100.00,100.00
+4,WI,2018,U.S. Representative,3,Ron Kind,DEM,0.6583115003653067,99.99,1755598.61,Yes,99.99,99.99
+5,WI,2018,U.S. Representative,3,Steve Toft,REP,0.34168849963469333,0.01,211008.02,No,0.01,0.01
+6,WI,2018,U.S. Representative,4,Gwendolynne Moore,DEM,0.7885625776629692,> 99.99,730071.37,Yes,> 99.99,> 99.99
+7,WI,2018,U.S. Representative,4,Robert Raymond,IND,0.050022291504829314,< 0.01,0.0,No,,
+8,WI,2018,U.S. Representative,4,Tim Rogers,REP,0.16141513083220144,< 0.01,0.0,No,< 0.01,< 0.01
+9,WI,2018,U.S. Representative,5,James Sensenbrenner Jr.,REP,0.6049165138054646,99.99,249002.99,Yes,99.99,99.86
+10,WI,2018,U.S. Representative,5,Tom Palzewicz,DEM,0.3950834861945353,0.01,127082.32,No,0.14,0.01
+11,WI,2018,U.S. Representative,6,Dan Kohl,DEM,0.466392273510493,8.95,1646024.4,No,44.27,0.55
+12,WI,2018,U.S. Representative,6,Glenn Grothman,REP,0.5336077264895069,91.05,1224606.66,Yes,99.45,55.73
+13,WI,2018,U.S. Representative,7,Sean Duffy,REP,0.5987150746805684,99.99,2861434.04,Yes,99.99,99.7
+14,WI,2018,U.S. Representative,7,Margaret Engebretson,DEM,0.4012849253194316,0.01,0.0,No,0.3,0.01
+15,WI,2018,U.S. Representative,8,Mike Gallagher,REP,0.5837926820409184,99.95,2129442.86,Yes,99.99,98.42
+16,WI,2018,U.S. Representative,8,Beau Liegeois,DEM,0.4162073179590816,0.05,150453.62,No,1.58,0.01

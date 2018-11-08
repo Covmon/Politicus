@@ -1,0 +1,12 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,CT,2018,U.S. Representative,1,John Larson,DEM,0.7238814618294631,> 99.99,1165948.2,Yes,> 99.99,99.99
+1,CT,2018,U.S. Representative,1,Jennifer Nye,REP,0.2761185381705369,< 0.01,0.0,No,0.01,< 0.01
+2,CT,2018,U.S. Representative,2,Joseph Courtney,DEM,0.6661167902549796,99.99,816895.27,Yes,> 99.99,99.99
+3,CT,2018,U.S. Representative,2,Daniel Reale,LIB,0.043524737928827134,< 0.01,0.0,No,,
+4,CT,2018,U.S. Representative,2,Danny Postemski,REP,0.2903584718161933,0.01,0.0,No,0.01,< 0.01
+5,CT,2018,U.S. Representative,3,Rosa Delauro,DEM,0.7309367080605038,> 99.99,896924.21,Yes,> 99.99,99.99
+6,CT,2018,U.S. Representative,3,Angel Cadena,REP,0.2690632919394962,< 0.01,0.0,No,0.01,< 0.01
+7,CT,2018,U.S. Representative,4,James Himes,DEM,0.7044118440162133,99.99,1398186.98,Yes,> 99.99,99.99
+8,CT,2018,U.S. Representative,4,Harry Arora,REP,0.2955881559837867,0.01,0.0,No,0.01,< 0.01
+9,CT,2018,U.S. Representative,5,Jahana Hayes,DEM,0.5602138829253961,99.19,0.0,No,99.98,88.65
+10,CT,2018,U.S. Representative,5,Manny Santos,REP,0.43978611707460397,0.81,0.0,No,11.35,0.02

@@ -1,0 +1,13 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,AR,2018,U.S. Representative,1,Eric Alan Crawford,REP,0.6189689010256545,99.99,744433.32,Yes,99.99,99.99
+1,AR,2018,U.S. Representative,1,Chintan Desai,DEM,0.33280278538271424,0.01,38818.38,No,0.01,0.01
+2,AR,2018,U.S. Representative,1,Elvis Presley,LIB,0.04822831359163125,< 0.01,0.0,No,,
+3,AR,2018,U.S. Representative,2,James French Hill,REP,0.5241324178701738,96.72,1954935.48,Yes,99.88,73.93
+4,AR,2018,U.S. Representative,2,Clarke Tucker,DEM,0.4320714209535106,3.28,976237.27,No,26.07,0.12
+5,AR,2018,U.S. Representative,2,Joe Ryne Swafford,LIB,0.04379616117631553,< 0.01,0.0,No,,
+6,AR,2018,U.S. Representative,3,Steve Womack,REP,0.6053703678568788,99.99,846594.2,Yes,99.99,99.99
+7,AR,2018,U.S. Representative,3,Josh Mahony,DEM,0.33208295005595756,0.01,157471.74,No,0.01,0.01
+8,AR,2018,U.S. Representative,3,Michael Kalagias,LIB,0.06254668208716375,< 0.01,0.0,No,,
+9,AR,2018,U.S. Representative,4,Bruce Westerman,REP,0.6110444336997932,99.99,1330040.74,Yes,99.99,99.99
+10,AR,2018,U.S. Representative,4,Hayden Catherine Shamel,DEM,0.3431413238545884,0.01,85076.64,No,0.01,0.01
+11,AR,2018,U.S. Representative,4,Tom Canada,LIB,0.045814242445618394,< 0.01,0.0,No,,

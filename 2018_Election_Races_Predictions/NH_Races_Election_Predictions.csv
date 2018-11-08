@@ -1,0 +1,7 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,NH,2018,U.S. Representative,1,Christopher Pappas,DEM,0.5318853962208092,98.24,665775.46,No,99.95,81.76
+1,NH,2018,U.S. Representative,1,Eddie Edwards,REP,0.4265711941147809,1.76,545051.79,No,18.24,0.05
+2,NH,2018,U.S. Representative,1,Dan Belforti,LIB,0.04154340966440974,< 0.01,0.0,No,,
+3,NH,2018,U.S. Representative,2,Ann McLane Kuster,DEM,0.5965211020246787,99.99,2599170.78,Yes,99.99,99.97
+4,NH,2018,U.S. Representative,2,Steve Negron,REP,0.360811297181836,0.01,314230.04,No,0.03,0.01
+5,NH,2018,U.S. Representative,2,Justin Francis Odonnell,LIB,0.042667600793485354,< 0.01,0.0,No,,

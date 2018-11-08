@@ -1,0 +1,5 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,RI,2018,U.S. Representative,1,David Cicilline,DEM,0.7234216213737746,> 99.99,1293808.61,Yes,> 99.99,99.99
+1,RI,2018,U.S. Representative,1,Patrick Donovan,REP,0.2765783786262254,< 0.01,0.0,No,0.01,< 0.01
+2,RI,2018,U.S. Representative,2,James Langevin,DEM,0.6999094882108399,99.99,803462.24,Yes,> 99.99,99.99
+3,RI,2018,U.S. Representative,2,Salvatore Caiozzo,REP,0.30009051178916013,0.01,0.0,No,0.01,< 0.01

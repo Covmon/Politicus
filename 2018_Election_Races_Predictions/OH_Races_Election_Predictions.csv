@@ -1,0 +1,39 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,OH,2018,U.S. Representative,1,Steven Chabot,REP,0.584525812570913,99.99,958196.39,Yes,99.99,99.86
+1,OH,2018,U.S. Representative,1,Aftab Pureval,DEM,0.3741434041830616,0.01,0.0,No,0.14,0.01
+2,OH,2018,U.S. Representative,1,Mike Goldschmidt,IND,0.04133078324602542,< 0.01,0.0,No,,
+3,OH,2018,U.S. Representative,10,Mike Turner,REP,0.5716216935090569,99.79,925759.04,Yes,99.99,95.2
+4,OH,2018,U.S. Representative,10,Theresa Gasper,DEM,0.42837830649094305,0.21,473688.3,No,4.8,0.01
+5,OH,2018,U.S. Representative,11,Marcia Fudge,DEM,0.8113447657796705,> 99.99,422112.02,Yes,> 99.99,> 99.99
+6,OH,2018,U.S. Representative,11,James Jerome Bell,IND,0.04391632527199066,< 0.01,0.0,No,,
+7,OH,2018,U.S. Representative,11,Beverly Goldstein,REP,0.1447389089483388,< 0.01,0.0,No,< 0.01,< 0.01
+8,OH,2018,U.S. Representative,12,Troy Balderson,REP,0.5855051087776649,99.96,1298164.44,No,99.99,98.67
+9,OH,2018,U.S. Representative,12,Danny Oconnor,DEM,0.414494891222335,0.04,0.0,No,1.33,0.01
+10,OH,2018,U.S. Representative,13,Timothy Ryan,DEM,0.6816094097353362,99.99,1281351.82,Yes,> 99.99,99.99
+11,OH,2018,U.S. Representative,13,Chris Depizzo,REP,0.31839059026466376,0.01,36196.25,No,0.01,< 0.01
+12,OH,2018,U.S. Representative,14,David Joyce,REP,0.5491017049588548,97.52,1559510.22,Yes,99.92,77.75
+13,OH,2018,U.S. Representative,14,Elizabeth Anne Rader,DEM,0.45089829504114515,2.48,1029918.7,No,22.25,0.08
+14,OH,2018,U.S. Representative,15,Steven Stivers,REP,0.5203524793738893,95.99,3251397.24,Yes,99.84,70.88
+15,OH,2018,U.S. Representative,15,Rick Neal,DEM,0.43284758932321776,4.01,916735.25,No,29.12,0.16
+16,OH,2018,U.S. Representative,15,Johnathan Wayne Miller Jr.,LIB,0.04679993130289301,< 0.01,0.0,No,,
+17,OH,2018,U.S. Representative,16,Anthony Gonzalez,REP,0.5707526664713942,99.76,1369032.62,No,99.99,94.84
+18,OH,2018,U.S. Representative,16,Susan Moran Palmer,DEM,0.42924733352860583,0.24,71848.8,No,5.16,0.01
+19,OH,2018,U.S. Representative,2,Brad Wenstrup,REP,0.5549785574958481,99.88,1040082.44,Yes,99.99,96.8
+20,OH,2018,U.S. Representative,2,Jill Schiller,DEM,0.4023690407863234,0.12,283196.51,No,3.2,0.01
+21,OH,2018,U.S. Representative,2,Steve Myers,IND,0.04265240171782847,< 0.01,0.0,No,,
+22,OH,2018,U.S. Representative,3,Joyce Beatty,DEM,0.7337069294427813,> 99.99,746999.74,Yes,> 99.99,> 99.99
+23,OH,2018,U.S. Representative,3,David Lowry,LIB,0.0400585225174732,< 0.01,0.0,No,,
+24,OH,2018,U.S. Representative,3,Jim Burgess,REP,0.22623454803974546,< 0.01,0.0,No,< 0.01,< 0.01
+25,OH,2018,U.S. Representative,4,James Jordan,REP,0.621107185051344,99.99,434270.13,Yes,99.99,99.98
+26,OH,2018,U.S. Representative,4,Janet Garrett,DEM,0.37889281494865595,0.01,130514.54,No,0.02,0.01
+27,OH,2018,U.S. Representative,5,Robert Latta,REP,0.6026786587014928,99.99,1233674.62,Yes,99.99,99.81
+28,OH,2018,U.S. Representative,5,John Michael Galbraith,DEM,0.39732134129850716,0.01,105741.56,No,0.19,0.01
+29,OH,2018,U.S. Representative,6,Bill Johnson,REP,0.6440231198928528,99.99,1541573.62,Yes,99.99,99.99
+30,OH,2018,U.S. Representative,6,Shawna Roberts,DEM,0.3559768801071472,0.01,6150.43,No,0.01,0.01
+31,OH,2018,U.S. Representative,7,Kenneth Harbaugh,DEM,0.43797986321929233,0.66,1695648.09,No,10.02,0.02
+32,OH,2018,U.S. Representative,7,Robert Brian Gibbs,REP,0.5620201367807076,99.34,749682.89,Yes,99.98,89.98
+33,OH,2018,U.S. Representative,8,Warren Davidson,REP,0.6658670403398429,99.99,559592.12,Yes,99.99,99.99
+34,OH,2018,U.S. Representative,8,Vanessa Enoch,DEM,0.33413295966015705,0.01,15266.5,No,0.01,0.01
+35,OH,2018,U.S. Representative,9,Marcy Kaptur,DEM,0.695673854514202,> 99.99,558443.44,Yes,> 99.99,99.99
+36,OH,2018,U.S. Representative,9,McKenzie Levindofske,IND,0.04014506585050066,< 0.01,0.0,No,,
+37,OH,2018,U.S. Representative,9,Steven Kraus,REP,0.2641810796352974,< 0.01,0.0,No,0.01,< 0.01

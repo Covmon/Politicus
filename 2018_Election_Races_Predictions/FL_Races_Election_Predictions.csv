@@ -1,0 +1,51 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,FL,2018,U.S. Representative,1,Matt Gaetz,REP,0.6758110688154351,99.99,806527.74,Yes,99.99,99.99
+1,FL,2018,U.S. Representative,1,Jennifer Zimmerman,DEM,0.3241889311845649,0.01,0.0,No,0.01,0.01
+2,FL,2018,U.S. Representative,10,Valdez Demings,DEM,1.0,100.00,614527.67,Yes,100.00,100.00
+3,FL,2018,U.S. Representative,11,Daniel Webster,REP,0.6488372412534061,99.99,456489.61,Yes,99.99,99.99
+4,FL,2018,U.S. Representative,11,Dana Cottrell,DEM,0.3511627587465938,0.01,0.0,No,0.01,0.01
+5,FL,2018,U.S. Representative,12,Gus Michael Bilirakis,REP,0.6243523948522928,99.99,1327091.99,Yes,99.99,99.99
+6,FL,2018,U.S. Representative,12,Chris Hunter,DEM,0.3756476051477072,0.01,0.0,No,0.01,0.01
+7,FL,2018,U.S. Representative,13,Charles Joseph Crist Jr.,DEM,0.6789411414667165,99.99,2867062.53,Yes,> 99.99,99.99
+8,FL,2018,U.S. Representative,13,George Buck,REP,0.3210588585332835,0.01,0.0,No,0.01,< 0.01
+9,FL,2018,U.S. Representative,14,Kathy Castor,DEM,1.0,100.00,579439.71,Yes,100.00,100.00
+10,FL,2018,U.S. Representative,15,Kristen Carlson,DEM,0.5173639168046834,75.63,0.0,No,97.09,30.66
+11,FL,2018,U.S. Representative,15,Ross Spano,REP,0.4826360831953166,24.37,0.0,No,69.34,2.91
+12,FL,2018,U.S. Representative,16,Vern Buchanan,REP,0.546261913681091,96.78,2098135.31,Yes,99.88,74.23
+13,FL,2018,U.S. Representative,16,David Shapiro,DEM,0.453738086318909,3.22,1058285.53,No,25.77,0.12
+14,FL,2018,U.S. Representative,17,April June Freeman,DEM,0.5284252098922316,87.22,28265.57,No,99.02,47.48
+15,FL,2018,U.S. Representative,17,Greg Steube,REP,0.47157479010776837,12.78,0.0,No,52.52,0.98
+16,FL,2018,U.S. Representative,18,Brian Mast,REP,0.5270474664103798,86.03,3905632.16,Yes,98.87,45.29
+17,FL,2018,U.S. Representative,18,Lauren Baer,DEM,0.47295253358962025,13.97,1561521.53,No,54.71,1.13
+18,FL,2018,U.S. Representative,19,Laurence Francis Rooney III,REP,0.6174010544269413,99.99,417191.31,Yes,99.99,99.97
+19,FL,2018,U.S. Representative,19,David Holden,DEM,0.3825989455730588,0.01,124978.29,No,0.03,0.01
+20,FL,2018,U.S. Representative,2,Neal Patrick Dunn,REP,0.6386884254337785,99.99,1029867.32,Yes,99.99,99.99
+21,FL,2018,U.S. Representative,2,Robert Bruce Rackleff,DEM,0.36131157456622154,0.01,140952.27,No,0.01,0.01
+22,FL,2018,U.S. Representative,20,Alcee Hastings,DEM,1.0,100.00,573546.8,Yes,100.00,100.00
+23,FL,2018,U.S. Representative,21,Lois Frankel,DEM,1.0,100.00,830842.59,Yes,100.00,100.00
+24,FL,2018,U.S. Representative,22,Ted Deutch,DEM,0.6889823567258094,99.99,956997.7,Yes,> 99.99,99.99
+25,FL,2018,U.S. Representative,22,Nicolas Kimaz,REP,0.3110176432741905,0.01,0.0,No,0.01,< 0.01
+26,FL,2018,U.S. Representative,23,Debbie Wasserman Schultz,DEM,0.5194727376710524,99.99,1561151.64,Yes,99.99,99.99
+27,FL,2018,U.S. Representative,23,Timothy Canova,IND,0.258235898276599,0.01,329536.36,No,0.01,0.01
+28,FL,2018,U.S. Representative,23,Joseph Kaufman,REP,0.22229136405234867,< 0.01,34918.22,No,,
+29,FL,2018,U.S. Representative,24,Frederica Wilson,DEM,1.0,100.00,287236.8,Yes,100.00,100.00
+30,FL,2018,U.S. Representative,25,Mario Diaz-Balart,REP,0.5994333362006442,99.99,1627383.97,Yes,99.99,99.72
+31,FL,2018,U.S. Representative,25,Mary Barzee Flores,DEM,0.4005666637993558,0.01,0.0,No,0.28,0.01
+32,FL,2018,U.S. Representative,26,Carlos Luis Curbelo,REP,0.5159052701454849,73.76,3550440.02,Yes,96.68,28.64
+33,FL,2018,U.S. Representative,26,Debbie Mucarsel-Powell,DEM,0.48409472985451507,26.24,1653773.85,No,71.36,3.32
+34,FL,2018,U.S. Representative,27,Donna Shalala,DEM,0.5491841714378503,97.54,0.0,No,99.92,77.85
+35,FL,2018,U.S. Representative,27,Maria Elvira Salazar,REP,0.45081582856214975,2.46,0.0,No,22.15,0.08
+36,FL,2018,U.S. Representative,3,Theodore Scott Yoho,REP,0.6061806112473814,99.99,593782.0,Yes,99.99,99.88
+37,FL,2018,U.S. Representative,3,Yvonne Hayes Hinson,DEM,0.3938193887526186,0.01,30017.12,No,0.12,0.01
+38,FL,2018,U.S. Representative,4,John Rutherford,REP,0.6639332379007555,99.99,579684.17,Yes,99.99,99.99
+39,FL,2018,U.S. Representative,4,George Selmont,DEM,0.33606676209924446,0.01,0.0,No,0.01,0.01
+40,FL,2018,U.S. Representative,5,Alfred Lawson Jr.,DEM,0.743901978736252,> 99.99,427847.42,Yes,> 99.99,> 99.99
+41,FL,2018,U.S. Representative,5,Virginia Fuller,REP,0.256098021263748,< 0.01,0.0,No,< 0.01,< 0.01
+42,FL,2018,U.S. Representative,6,Nancy Soderberg,DEM,0.6240764526358066,99.99,1458841.96,No,99.99,99.99
+43,FL,2018,U.S. Representative,6,Michael Waltz,REP,0.37592354736419337,0.01,0.0,No,0.01,0.01
+44,FL,2018,U.S. Representative,7,Stephanie Murphy,DEM,0.6189898849504355,99.99,2301637.45,Yes,99.99,99.98
+45,FL,2018,U.S. Representative,7,Mike Miller,REP,0.3810101150495645,0.01,532817.42,No,0.02,0.01
+46,FL,2018,U.S. Representative,8,Bill Posey,REP,0.6296026837423502,99.99,552508.2,Yes,99.99,99.99
+47,FL,2018,U.S. Representative,8,Sanjay Patel,DEM,0.37039731625764977,0.01,0.0,No,0.01,0.01
+48,FL,2018,U.S. Representative,9,Darren Michael Soto,DEM,0.6928105418192531,99.99,951650.72,Yes,> 99.99,99.99
+49,FL,2018,U.S. Representative,9,Wayne Liebnitzky,REP,0.3071894581807469,0.01,16120.42,No,0.01,< 0.01

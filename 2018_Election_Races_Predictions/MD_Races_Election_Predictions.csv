@@ -1,0 +1,25 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,MD,2018,U.S. Representative,1,Andrew Harris,REP,0.5523083502557911,99.82,1201163.8,Yes,99.99,95.7
+1,MD,2018,U.S. Representative,1,Jesse Colvin,DEM,0.4064165259598419,0.18,690709.03,No,4.3,0.01
+2,MD,2018,U.S. Representative,1,Jenica Martin,LIB,0.04127512378436701,< 0.01,0.0,No,,
+3,MD,2018,U.S. Representative,2,A Dutch Ruppersberger,DEM,0.6854929454282022,99.99,747330.08,Yes,> 99.99,99.99
+4,MD,2018,U.S. Representative,2,Liz Matory,REP,0.27909771319586746,0.01,10614.42,No,0.01,< 0.01
+5,MD,2018,U.S. Representative,2,Michael Carney,LIB,0.03540934137593045,< 0.01,0.0,No,,
+6,MD,2018,U.S. Representative,3,John Sarbanes,DEM,0.6788488330187367,99.99,856171.57,Yes,> 99.99,99.99
+7,MD,2018,U.S. Representative,3,David Lashar,LIB,0.03701872727499795,< 0.01,0.0,No,,
+8,MD,2018,U.S. Representative,3,Charles Anthony,REP,0.28413243970626545,0.01,0.0,No,0.01,< 0.01
+9,MD,2018,U.S. Representative,4,Anthony Brown,DEM,0.789085257170193,> 99.99,606891.88,Yes,> 99.99,> 99.99
+10,MD,2018,U.S. Representative,4,Dave Bishop,LIB,0.03847305060191695,< 0.01,0.0,No,,
+11,MD,2018,U.S. Representative,4,George Edward McDermott,REP,0.17244169222789008,< 0.01,0.0,No,< 0.01,< 0.01
+12,MD,2018,U.S. Representative,5,Steny Hoyer,DEM,0.6698519965331208,99.99,3080090.4,Yes,> 99.99,99.99
+13,MD,2018,U.S. Representative,5,Jacob Pulcher,LIB,0.04000190444377684,< 0.01,0.0,No,,
+14,MD,2018,U.S. Representative,5,William Devine III,REP,0.29014609902310246,0.01,0.0,No,0.01,< 0.01
+15,MD,2018,U.S. Representative,6,David John Trone,DEM,0.5585323986167896,99.87,11979370.47,No,99.99,96.64
+16,MD,2018,U.S. Representative,6,Amoretta Hoeber,REP,0.40696101158177517,0.13,292100.12,No,3.36,0.01
+17,MD,2018,U.S. Representative,6,Kevin Terome Caldwell,LIB,0.03450658980143514,< 0.01,0.0,No,,
+20,MD,2018,U.S. Representative,7,Elijah Cummings,DEM,0.7936046418250331,> 99.99,774241.05,Yes,> 99.99,> 99.99
+21,MD,2018,U.S. Representative,7,David Griggs,LIB,0.03790727440060983,< 0.01,0.0,No,,
+22,MD,2018,U.S. Representative,7,Richmond Davis,REP,0.16848808377435703,< 0.01,0.0,No,< 0.01,< 0.01
+25,MD,2018,U.S. Representative,8,Jamin Ben Raskin,DEM,0.6774585207444496,99.99,971254.05,Yes,> 99.99,99.99
+26,MD,2018,U.S. Representative,8,Jasen Wunder,LIB,0.03698245404715499,< 0.01,0.0,No,,
+27,MD,2018,U.S. Representative,8,John Walsh,REP,0.28555902520839543,0.01,0.0,No,0.01,< 0.01

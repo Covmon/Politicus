@@ -1,0 +1,211 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+13,KS,2018,Attorney General,Statewide,Derek Larkin Schmidt,REP,0.5994262297462385,99.99,353219.33,Yes,,
+14,KS,2018,Attorney General,Statewide,Sarah Swain,DEM,0.4005737702537615,0.01,0.0,No,,
+207,KS,2018,Governor,Statewide,Kris Kobach,REP,0.4991165944431314,85.25,2191364.23,No,,
+208,KS,2018,Governor,Statewide,Greg Orman,IND,0.05500319203988142,< 0.01,468271.36,No,,
+209,KS,2018,Governor,Statewide,Laura Kelly,DEM,0.44588021351698726,14.75,154986.18,No,,
+0,KS,2018,Secretary Of State,Statewide,Scott Schwab,REP,0.5804879370017005,99.97,65821.02,No,,
+1,KS,2018,Secretary Of State,Statewide,Brian McClendon,DEM,0.40151000877632614,0.03,0.0,No,,
+2,KS,2018,Secretary Of State,Statewide,Rob Hodgkinson,LIB,0.01800205422197339,< 0.01,0.0,No,,
+15,KS,2018,State Representative,1,Michael Houser,REP,1.0,100.00,8150.0,Yes,100.00,100.00
+16,KS,2018,State Representative,10,Eileen Horn,DEM,1.0,100.00,0.0,Yes,100.00,100.00
+17,KS,2018,State Representative,100,Dan Hawkins,REP,0.6538908932470607,99.99,44471.14,Yes,99.99,99.99
+18,KS,2018,State Representative,100,Jennifer Winn,DEM,0.34610910675293927,0.01,0.0,No,0.01,0.01
+19,KS,2018,State Representative,101,Joe Seiwert,REP,1.0,100.00,14900.0,Yes,100.00,100.00
+20,KS,2018,State Representative,102,Jason Probst,DEM,1.0,100.00,0.0,Yes,100.00,100.00
+21,KS,2018,State Representative,103,Ponka-We Victors,DEM,1.0,100.00,4250.0,Yes,100.00,100.00
+22,KS,2018,State Representative,104,Paul Waggoner,REP,1.0,100.00,0.0,No,100.00,100.00
+23,KS,2018,State Representative,105,Brenda Landwehr,REP,1.0,100.00,9950.0,Yes,100.00,100.00
+24,KS,2018,State Representative,106,Bill Pannbacker,REP,1.0,100.00,0.0,No,100.00,100.00
+25,KS,2018,State Representative,107,Bryan Bombardier,LIB,0.07313545705571645,< 0.01,0.0,No,< 0.01,< 0.01
+26,KS,2018,State Representative,107,Susan Concannon,REP,0.9268645429442836,> 99.99,0.0,Yes,> 99.99,> 99.99
+27,KS,2018,State Representative,108,Steven Johnson,REP,1.0,100.00,11989.16,Yes,100.00,100.00
+28,KS,2018,State Representative,109,Troy Waymaster,REP,1.0,100.00,11550.0,Yes,100.00,100.00
+29,KS,2018,State Representative,11,Jim Kelly,REP,1.0,100.00,11100.0,Yes,100.00,100.00
+30,KS,2018,State Representative,110,Ken Rahjes,REP,0.7351552363094591,> 99.99,5950.0,Yes,> 99.99,99.99
+31,KS,2018,State Representative,110,Kim Thomas,DEM,0.2648447636905409,< 0.01,0.0,No,0.01,< 0.01
+32,KS,2018,State Representative,111,Eber Phelps,DEM,0.6101590487094225,99.99,7600.0,Yes,99.99,99.85
+33,KS,2018,State Representative,111,Barbara Wasinger,REP,0.38984095129057755,0.01,0.0,No,0.15,0.01
+34,KS,2018,State Representative,112,Tory Arnberger,REP,1.0,100.00,4350.0,Yes,100.00,100.00
+35,KS,2018,State Representative,113,Greg Lewis,REP,0.7275655494893309,> 99.99,4912.47,Yes,> 99.99,99.99
+36,KS,2018,State Representative,113,David Curtis,DEM,0.272434450510669,< 0.01,0.0,No,0.01,< 0.01
+37,KS,2018,State Representative,114,Jack Thimesch,REP,0.7398729713551316,> 99.99,9350.0,Yes,> 99.99,99.99
+38,KS,2018,State Representative,114,Shanna Henry,DEM,0.2601270286448684,< 0.01,0.0,No,0.01,< 0.01
+39,KS,2018,State Representative,115,Boyd Orr,REP,1.0,100.00,5500.0,Yes,100.00,100.00
+40,KS,2018,State Representative,116,Kyle Hoffman,REP,1.0,100.00,19118.13,Yes,100.00,100.00
+41,KS,2018,State Representative,117,Leonard Mastroni,REP,1.0,100.00,3350.0,Yes,100.00,100.00
+42,KS,2018,State Representative,118,Don Hineman,REP,1.0,100.00,22950.0,Yes,100.00,100.00
+43,KS,2018,State Representative,119,Bradley Ralph,REP,1.0,100.00,5623.0,Yes,100.00,100.00
+44,KS,2018,State Representative,12,Douglas Blex,REP,1.0,100.00,3350.0,Yes,100.00,100.00
+45,KS,2018,State Representative,120,Adam Smith,REP,0.7475538143061052,> 99.99,2970.0,Yes,> 99.99,> 99.99
+46,KS,2018,State Representative,120,Jerry Hill,DEM,0.2524461856938947,< 0.01,0.0,No,< 0.01,< 0.01
+47,KS,2018,State Representative,121,John Resman,REP,0.594550401399441,99.99,3640.0,Yes,99.99,99.09
+48,KS,2018,State Representative,121,Nick Gill,DEM,0.405449598600559,0.01,0.0,No,0.91,0.01
+49,KS,2018,State Representative,122,Russell Jennings,REP,1.0,100.00,14200.0,Yes,100.00,100.00
+50,KS,2018,State Representative,123,John Wheeler Jr.,REP,0.6560261261245918,99.99,4800.0,Yes,99.99,99.99
+51,KS,2018,State Representative,123,Pedro Rodriguez,DEM,0.3439738738754082,0.01,0.0,No,0.01,0.01
+52,KS,2018,State Representative,124,Martin Long,REP,1.0,100.00,0.0,No,100.00,100.00
+53,KS,2018,State Representative,125,Shannon Francis,REP,1.0,100.00,4808.14,Yes,100.00,100.00
+54,KS,2018,State Representative,13,Larry Paul Hibbard,REP,1.0,100.00,10745.0,Yes,100.00,100.00
+55,KS,2018,State Representative,14,Angela Schweller,DEM,0.4306480463074392,0.32,0.0,No,8.51,0.01
+56,KS,2018,State Representative,14,Charlotte Esau,REP,0.5693519536925608,99.68,0.0,No,99.99,91.49
+57,KS,2018,State Representative,15,Chris Haulmark,DEM,0.4476384336212635,1.97,0.0,No,24.09,0.04
+58,KS,2018,State Representative,15,John Toplikar,REP,0.5523615663787365,98.03,0.0,No,99.96,75.91
+59,KS,2018,State Representative,16,Cindy Holscher,DEM,0.6314708214149886,99.99,30542.0,Yes,99.99,99.99
+60,KS,2018,State Representative,16,Susan Huff,REP,0.36852917858501144,0.01,0.0,No,0.01,0.01
+61,KS,2018,State Representative,17,Tom Cox,REP,0.5507461317903865,98.86,15007.95,Yes,99.98,82.16
+62,KS,2018,State Representative,17,Laura Smith-Everett,DEM,0.43494211413083933,1.14,0.0,No,17.84,0.02
+63,KS,2018,State Representative,17,Michael Kerner,LIB,0.014311754078774275,< 0.01,0.0,No,,
+64,KS,2018,State Representative,18,Cindy Neighbor,DEM,0.6256343428389531,99.99,12910.0,Yes,99.99,99.98
+65,KS,2018,State Representative,18,Eric Jenkins,REP,0.3743656571610468,0.01,0.0,No,0.02,0.01
+66,KS,2018,State Representative,19,Stephanie Sawyer Clayton,REP,0.5736647980965075,99.81,7021.74,Yes,99.99,93.84
+67,KS,2018,State Representative,19,Stephen Wyatt,DEM,0.42633520190349256,0.19,0.0,No,6.16,0.01
+68,KS,2018,State Representative,2,Adam Lusker Sr.,DEM,0.6381673959891445,99.99,24627.0,Yes,99.99,99.99
+69,KS,2018,State Representative,2,Kenneth Collins,REP,0.3618326040108555,0.01,0.0,No,0.01,0.01
+70,KS,2018,State Representative,20,Jan Kessinger,REP,0.6183438951202106,99.99,11815.0,Yes,99.99,99.95
+71,KS,2018,State Representative,20,Becky Barber,DEM,0.3816561048797894,0.01,0.0,No,0.05,0.01
+72,KS,2018,State Representative,21,Jerry Stogsdill,DEM,1.0,100.00,9861.54,Yes,100.00,100.00
+73,KS,2018,State Representative,22,Nancy Lusk,DEM,1.0,100.00,13999.0,Yes,100.00,100.00
+74,KS,2018,State Representative,23,Linda Gallagher,REP,0.5214635463642808,80.08,8970.81,Yes,98.61,30.41
+75,KS,2018,State Representative,23,Susan Ruiz,DEM,0.4785364536357192,19.92,0.0,No,69.59,1.39
+76,KS,2018,State Representative,24,Jarrod Ousley,DEM,1.0,100.00,11581.65,Yes,100.00,100.00
+77,KS,2018,State Representative,25,Melissa Rooker,REP,0.5476412760077201,96.95,27502.61,Yes,99.93,69.76
+78,KS,2018,State Representative,25,Rui Xu,DEM,0.45235872399228,3.05,0.0,No,30.24,0.07
+79,KS,2018,State Representative,26,Deann Mitchell,DEM,0.3656755912557256,0.01,0.0,No,0.01,0.01
+80,KS,2018,State Representative,26,Adam Thomas,REP,0.6343244087442744,99.99,0.0,No,99.99,99.99
+81,KS,2018,State Representative,27,Sean Tarwater Sr.,REP,0.6718754758419739,99.99,10508.22,Yes,99.99,99.99
+82,KS,2018,State Representative,27,Nicole Rome,DEM,0.32812452415802607,0.01,0.0,No,0.01,0.01
+83,KS,2018,State Representative,28,Brian Clausen,DEM,0.40197719451023367,0.01,0.0,No,0.63,0.01
+84,KS,2018,State Representative,28,Kellie Warren,REP,0.5980228054897664,99.99,0.0,No,99.99,99.37
+85,KS,2018,State Representative,29,Brett Parker,DEM,0.6249232200919506,99.99,22437.0,Yes,99.99,99.99
+86,KS,2018,State Representative,29,Robert Firestone,LIB,0.012857749610449203,< 0.01,0.0,No,,
+87,KS,2018,State Representative,29,James Todd,REP,0.3622190302976002,0.01,0.0,No,0.01,0.01
+88,KS,2018,State Representative,3,Monica Murnan,DEM,0.6288176547323294,99.99,6765.0,Yes,99.99,99.98
+89,KS,2018,State Representative,3,Terry Calloway,REP,0.3711823452676706,0.01,0.0,No,0.02,0.01
+90,KS,2018,State Representative,30,Brandon Woodard,DEM,0.48102935397592556,22.77,0.0,No,72.93,1.78
+91,KS,2018,State Representative,30,Wendy Bingesser,REP,0.5189706460240744,77.23,0.0,No,98.22,27.07
+92,KS,2018,State Representative,31,Louis Ruiz,DEM,1.0,100.00,5600.0,Yes,100.00,100.00
+93,KS,2018,State Representative,32,Pam Curtis,DEM,1.0,100.00,7500.0,Yes,100.00,100.00
+94,KS,2018,State Representative,33,Tom Burroughs,DEM,0.9030568814025908,> 99.99,16169.51,Yes,> 99.99,> 99.99
+95,KS,2018,State Representative,33,Jason Conley,LIB,0.09694311859740926,< 0.01,0.0,No,< 0.01,< 0.01
+96,KS,2018,State Representative,34,Valdenia Winn,DEM,1.0,100.00,2800.0,Yes,100.00,100.00
+97,KS,2018,State Representative,35,Broderick Henderson,DEM,1.0,100.00,1000.0,Yes,100.00,100.00
+98,KS,2018,State Representative,36,Kathy Wolfe Moore,DEM,0.6612942956845518,99.99,12100.0,Yes,99.99,99.99
+99,KS,2018,State Representative,36,Chiquita Coggs,REP,0.3387057043154482,0.01,0.0,No,0.01,0.01
+100,KS,2018,State Representative,37,Stan Frownfelter,DEM,1.0,100.00,21907.53,Yes,100.00,100.00
+101,KS,2018,State Representative,38,Willie Dove,REP,0.6577494941367528,99.99,14233.7,Yes,99.99,99.99
+102,KS,2018,State Representative,38,Stuart Sweeney,DEM,0.34225050586324723,0.01,0.0,No,0.01,0.01
+103,KS,2018,State Representative,39,Michael Bolton,DEM,0.3917918664160486,0.01,0.0,No,0.19,0.01
+104,KS,2018,State Representative,39,Owen Donohoe,REP,0.6082081335839514,99.99,0.0,No,99.99,99.81
+105,KS,2018,State Representative,4,Trevor Jacobs,REP,0.7443919181236042,> 99.99,2550.0,Yes,> 99.99,99.99
+106,KS,2018,State Representative,4,Lawrence Forbach,DEM,0.25560808187639583,< 0.01,0.0,No,0.01,< 0.01
+107,KS,2018,State Representative,40,Debbie Deere,DEM,0.6229565008526436,99.99,10919.66,Yes,99.99,99.97
+108,KS,2018,State Representative,40,David French,REP,0.3770434991473564,0.01,0.0,No,0.03,0.01
+109,KS,2018,State Representative,41,Jeff Pittman,DEM,0.6273701943163812,99.99,21648.61,Yes,99.99,99.98
+110,KS,2018,State Representative,41,Tony Barton,REP,0.37262980568361875,0.01,0.0,No,0.02,0.01
+111,KS,2018,State Representative,42,Jim Karleskint,REP,0.6406709622052337,99.99,3750.0,Yes,99.99,99.99
+112,KS,2018,State Representative,42,Thea Perry,DEM,0.3593290377947663,0.01,0.0,No,0.01,0.01
+113,KS,2018,State Representative,43,Bill Sutton,REP,0.6168234975637562,99.99,5250.0,Yes,99.99,99.94
+114,KS,2018,State Representative,43,Pamela Finley,DEM,0.38317650243624374,0.01,0.0,No,0.06,0.01
+115,KS,2018,State Representative,44,Barbara Ballard,DEM,1.0,100.00,5100.0,Yes,100.00,100.00
+116,KS,2018,State Representative,45,Mike Amyx,DEM,0.4821405471367377,24.11,0.0,No,74.36,1.97
+117,KS,2018,State Representative,45,Cynthia Smith,REP,0.5178594528632623,75.89,0.0,No,98.03,25.64
+118,KS,2018,State Representative,46,Dennis Highberger,DEM,1.0,100.00,1508.6,Yes,100.00,100.00
+119,KS,2018,State Representative,47,Ronald Ellis,REP,0.6869391882301675,99.99,3050.0,Yes,> 99.99,99.99
+120,KS,2018,State Representative,47,George Hanna,DEM,0.31306081176983247,0.01,0.0,No,0.01,< 0.01
+121,KS,2018,State Representative,48,Abraham Rafie,REP,0.5508187505983679,97.72,21092.6,Yes,99.96,73.98
+122,KS,2018,State Representative,48,David Benson,DEM,0.449181249401632,2.28,0.0,No,26.02,0.04
+123,KS,2018,State Representative,49,Darnell Hunt,DEM,0.45235515008551747,3.04,0.0,No,30.23,0.07
+124,KS,2018,State Representative,49,Megan Lynn,REP,0.5476448499144826,96.96,0.0,No,99.93,69.77
+125,KS,2018,State Representative,5,Lassey Murphy,DEM,0.3135630170958234,0.01,0.0,No,0.01,< 0.01
+126,KS,2018,State Representative,5,Mark Samsel,REP,0.6864369829041765,99.99,0.0,No,> 99.99,99.99
+127,KS,2018,State Representative,50,Fred Patton,REP,0.6616790779505497,99.99,20069.58,Yes,99.99,99.99
+128,KS,2018,State Representative,50,Down River Dan Brennan,DEM,0.33832092204945036,0.01,0.0,No,0.01,0.01
+129,KS,2018,State Representative,51,Ron Highland,REP,0.660283860711186,99.99,14270.0,Yes,99.99,99.99
+130,KS,2018,State Representative,51,Noah Wright,DEM,0.33971613928881395,0.01,0.0,No,0.01,0.01
+131,KS,2018,State Representative,52,Brenda Dietrich,REP,0.6385555244496514,99.99,16874.0,Yes,99.99,99.99
+132,KS,2018,State Representative,52,Toni Scalia,DEM,0.3614444755503487,0.01,0.0,No,0.01,0.01
+133,KS,2018,State Representative,53,Jim Gartner,DEM,1.0,100.00,13870.0,Yes,100.00,100.00
+134,KS,2018,State Representative,54,Kenneth Corbet,REP,0.6209730891915594,99.99,14834.35,Yes,99.99,99.96
+135,KS,2018,State Representative,54,Sarah Coats,DEM,0.37902691080844064,0.01,0.0,No,0.04,0.01
+136,KS,2018,State Representative,55,Annie Kuether,DEM,1.0,100.00,6950.0,Yes,100.00,100.00
+137,KS,2018,State Representative,56,Virgil Weigel,DEM,0.6198987917514615,99.99,4450.0,Yes,99.99,99.96
+138,KS,2018,State Representative,56,Michael Snowden,REP,0.3801012082485386,0.01,0.0,No,0.04,0.01
+139,KS,2018,State Representative,57,John Alcala,DEM,1.0,100.00,7150.0,Yes,100.00,100.00
+140,KS,2018,State Representative,58,Vic Miller,DEM,1.0,100.00,5650.0,Yes,100.00,100.00
+141,KS,2018,State Representative,59,Blaine Finch,REP,0.7099469835865957,99.99,13225.0,Yes,> 99.99,99.99
+142,KS,2018,State Representative,59,John Hall,DEM,0.29005301641340436,0.01,0.0,No,0.01,< 0.01
+143,KS,2018,State Representative,6,Jene Vickrey,REP,1.0,100.00,9650.0,Yes,100.00,100.00
+144,KS,2018,State Representative,60,Mark Schreiber,REP,1.0,100.00,10000.0,Yes,100.00,100.00
+145,KS,2018,State Representative,61,Francis Awerkamp,REP,1.0,100.00,2950.0,Yes,100.00,100.00
+146,KS,2018,State Representative,62,Randy Garber,REP,0.7411238786545495,> 99.99,7350.0,Yes,> 99.99,99.99
+147,KS,2018,State Representative,62,Melvin Baker,DEM,0.2588761213454504,< 0.01,0.0,No,0.01,< 0.01
+148,KS,2018,State Representative,63,John Eplee,REP,1.0,100.00,20400.0,Yes,100.00,100.00
+149,KS,2018,State Representative,64,Susan Carlson,REP,1.0,100.00,0.0,No,100.00,100.00
+150,KS,2018,State Representative,65,Lonnie Clark,REP,1.0,100.00,4150.0,Yes,100.00,100.00
+151,KS,2018,State Representative,66,Sydney Carlin,DEM,0.884293650619917,> 99.99,14109.01,Yes,> 99.99,> 99.99
+152,KS,2018,State Representative,66,Edgar Chambers,LIB,0.1157063493800829,< 0.01,0.0,No,< 0.01,< 0.01
+153,KS,2018,State Representative,67,Tom Phillips,REP,0.5941904030043389,99.98,11825.0,Yes,99.99,99.06
+154,KS,2018,State Representative,67,Alex Van Dyke,DEM,0.40580959699566105,0.02,0.0,No,0.94,0.01
+155,KS,2018,State Representative,68,Dave Baker,REP,1.0,100.00,7050.0,Yes,100.00,100.00
+156,KS,2018,State Representative,69,R Claeys,REP,0.5835367700305737,99.94,7350.0,Yes,99.99,97.32
+157,KS,2018,State Representative,69,Gerrett Morris,DEM,0.41646322996942636,0.06,0.0,No,2.68,0.01
+158,KS,2018,State Representative,7,Richard Proehl,REP,1.0,100.00,5250.0,Yes,100.00,100.00
+159,KS,2018,State Representative,70,John Barker,REP,0.7410950567862916,> 99.99,12650.0,Yes,> 99.99,99.99
+160,KS,2018,State Representative,70,Jo Schwartz,DEM,0.25890494321370844,< 0.01,0.0,No,0.01,< 0.01
+161,KS,2018,State Representative,71,Diana Dierks,REP,1.0,100.00,2250.0,Yes,100.00,100.00
+162,KS,2018,State Representative,72,Tim Hodge,DEM,0.62138877563085,99.99,19553.07,Yes,99.99,99.96
+163,KS,2018,State Representative,72,Steven Kelly,REP,0.3786112243691499,0.01,0.0,No,0.04,0.01
+164,KS,2018,State Representative,73,Les Mason,REP,1.0,100.00,12300.0,Yes,100.00,100.00
+165,KS,2018,State Representative,74,Stephen Owens,REP,1.0,100.00,0.0,No,100.00,100.00
+166,KS,2018,State Representative,75,Will Carpenter,REP,1.0,100.00,0.0,No,100.00,100.00
+167,KS,2018,State Representative,76,Eric Smith,REP,1.0,100.00,2150.0,Yes,100.00,100.00
+168,KS,2018,State Representative,77,Kristey Williams,REP,1.0,100.00,11357.28,Yes,100.00,100.00
+169,KS,2018,State Representative,78,Ron Ryckman Jr.,REP,0.6226241043148786,99.99,38227.0,Yes,99.99,99.97
+170,KS,2018,State Representative,78,Jason Darby,DEM,0.3773758956851215,0.01,0.0,No,0.03,0.01
+171,KS,2018,State Representative,79,Ed Trimmer,DEM,0.6437628160198455,99.99,16129.0,Yes,99.99,99.99
+172,KS,2018,State Representative,79,Cheryl Helmer,REP,0.35623718398015447,0.01,0.0,No,0.01,0.01
+173,KS,2018,State Representative,8,Michele Lobitz,DEM,0.362640809080961,0.01,0.0,No,0.01,0.01
+174,KS,2018,State Representative,8,Chris Croft,REP,0.6373591909190389,99.99,0.0,No,99.99,99.99
+175,KS,2018,State Representative,80,Bill Rhiley,REP,1.0,100.00,0.0,No,100.00,100.00
+176,KS,2018,State Representative,81,Blake Carpenter,REP,0.6298612501526383,99.99,5150.0,Yes,99.99,99.99
+177,KS,2018,State Representative,81,Shala Perez,DEM,0.37013874984736167,0.01,0.0,No,0.01,0.01
+178,KS,2018,State Representative,82,Danette Harris,DEM,0.34148977201131986,0.01,0.0,No,0.01,0.01
+179,KS,2018,State Representative,82,Jesse Burris,REP,0.6585102279886801,99.99,0.0,Yes,99.99,99.99
+180,KS,2018,State Representative,83,Henry Helgerson Jr.,DEM,0.6507630812914302,99.99,4992.52,Yes,99.99,99.99
+181,KS,2018,State Representative,83,David Robbins,REP,0.3492369187085697,0.01,0.0,No,0.01,0.01
+182,KS,2018,State Representative,84,Gail Finney,DEM,1.0,100.00,5779.37,Yes,100.00,100.00
+183,KS,2018,State Representative,85,Monica Marks,DEM,0.4238891408353991,0.14,0.0,No,5.07,0.01
+184,KS,2018,State Representative,85,Michael Capps,REP,0.5761108591646009,99.86,0.0,No,99.99,94.93
+185,KS,2018,State Representative,86,Jim Ward,DEM,0.6672845961923424,99.99,94741.57,Yes,99.99,99.99
+186,KS,2018,State Representative,86,Jim Price,REP,0.3327154038076577,0.01,0.0,No,0.01,0.01
+187,KS,2018,State Representative,87,Renee Erickson,REP,1.0,100.00,0.0,No,100.00,100.00
+188,KS,2018,State Representative,88,Elizabeth Bishop,DEM,1.0,100.00,14100.92,Yes,100.00,100.00
+189,KS,2018,State Representative,89,Kc Ohaebosim,DEM,1.0,100.00,5780.0,Yes,100.00,100.00
+190,KS,2018,State Representative,9,Kent Thompson,REP,1.0,100.00,8950.0,Yes,100.00,100.00
+191,KS,2018,State Representative,90,Steven Huebert,REP,1.0,100.00,3500.0,Yes,100.00,100.00
+192,KS,2018,State Representative,91,David Loomis,LIB,0.07380068635376393,< 0.01,0.0,No,< 0.01,< 0.01
+193,KS,2018,State Representative,91,Emil Bergquist,REP,0.9261993136462361,> 99.99,0.0,Yes,> 99.99,> 99.99
+194,KS,2018,State Representative,92,John Carmichael,DEM,1.0,100.00,21848.42,Yes,100.00,100.00
+195,KS,2018,State Representative,93,Clifton Beck,DEM,0.3064174066989939,0.01,0.0,No,0.01,< 0.01
+196,KS,2018,State Representative,93,C Moore,REP,0.6935825933010061,99.99,0.0,No,> 99.99,99.99
+197,KS,2018,State Representative,94,Leo Delperdang,REP,0.6701635187861407,99.99,24025.0,Yes,99.99,99.99
+198,KS,2018,State Representative,94,Dan Stiffler,DEM,0.3298364812138594,0.01,0.0,No,0.01,0.01
+199,KS,2018,State Representative,95,Tom Sawyer,DEM,1.0,100.00,18275.0,Yes,100.00,100.00
+200,KS,2018,State Representative,96,Brandon Whipple,DEM,1.0,100.00,10981.0,Yes,100.00,100.00
+201,KS,2018,State Representative,97,Rebecca Jenek,DEM,0.38686091975927844,0.01,0.0,No,0.1,0.01
+202,KS,2018,State Representative,97,Nick Hoheisel,REP,0.6131390802407215,99.99,0.0,No,99.99,99.9
+203,KS,2018,State Representative,98,Steven Crum,DEM,0.5788305100188873,99.90,4870.0,Yes,99.99,95.95
+204,KS,2018,State Representative,98,Ron Howard,REP,0.4211694899811127,0.1,0.0,No,4.05,0.01
+205,KS,2018,State Representative,99,Susan Humphries,REP,0.6932600406240075,99.99,21200.0,Yes,> 99.99,99.99
+206,KS,2018,State Representative,99,Kristi Kirk,DEM,0.3067399593759925,0.01,0.0,No,0.01,< 0.01
+3,KS,2018,U.S. Representative,1,Roger Marshall,REP,0.7030110676578152,99.99,1039724.02,Yes,> 99.99,99.99
+4,KS,2018,U.S. Representative,1,Alan Lapolice,DEM,0.29698893234218476,0.01,0.0,No,0.01,< 0.01
+5,KS,2018,U.S. Representative,2,Paul Davis,DEM,0.4684198505276199,15.94,1624447.24,No,64.06,0.93
+6,KS,2018,U.S. Representative,2,Kelly Standley,LIB,0.012488003963455832,< 0.01,0.0,No,,
+7,KS,2018,U.S. Representative,2,Steve Watkins,REP,0.5190921455089242,84.06,0.0,No,99.07,35.94
+8,KS,2018,U.S. Representative,3,Kevin Yoder,REP,0.5463906873901947,98.19,2793129.64,Yes,99.97,77.01
+9,KS,2018,U.S. Representative,3,Sharice Davids,DEM,0.4398503178744954,1.81,0.0,No,22.99,0.03
+10,KS,2018,U.S. Representative,3,Chris Clemmons,LIB,0.01375899473530992,< 0.01,0.0,No,,
+11,KS,2018,U.S. Representative,4,James Thompson,DEM,0.34904238668355203,0.01,0.0,No,0.01,0.01
+12,KS,2018,U.S. Representative,4,Ron Estes,REP,0.650957613316448,99.99,0.0,Yes,99.99,99.99

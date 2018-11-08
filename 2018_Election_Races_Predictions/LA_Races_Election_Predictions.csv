@@ -1,0 +1,17 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,LA,2018,U.S. Representative,1,Stephen Scalise,REP,0.5007948357833182,99.99,4152751.05,Yes,99.99,99.99
+1,LA,2018,U.S. Representative,1,Lee Ann Dugas,DEM,0.24960258210834085,0.01,0.0,No,0.01,0.01
+2,LA,2018,U.S. Representative,1,Jim Francis,DEM,0.24960258210834085,0.01,0.0,No,0.01,0.01
+6,LA,2018,U.S. Representative,2,Cedric Richmond,DEM,0.9531127768144895,> 99.99,1074805.57,Yes,> 99.99,> 99.99
+7,LA,2018,U.S. Representative,2,Belden Man) Batiste,IND,0.04688722318551052,< 0.01,0.0,No,< 0.01,< 0.01
+8,LA,2018,U.S. Representative,3,Clay Higgins,REP,0.4711300842839061,99.99,723394.74,Yes,99.99,99.64
+9,LA,2018,U.S. Representative,3,Joshua Guillory,REP,0.2525428199400086,< 0.01,231811.0,No,,
+10,LA,2018,U.S. Representative,3,Phillip Conner,DEM,0.2763270957760853,0.01,132514.1,No,0.36,0.01
+16,LA,2018,U.S. Representative,4,James Michael Johnson,REP,0.6323838732937918,99.99,908002.1,Yes,99.99,99.99
+17,LA,2018,U.S. Representative,4,Ryan Trundle,DEM,0.3676161267062082,0.01,0.0,No,0.01,0.01
+18,LA,2018,U.S. Representative,5,Ralph Lee Abraham Jr.,REP,0.6308998411428812,99.99,596578.94,Yes,99.99,99.99
+19,LA,2018,U.S. Representative,5,Jessee Carlton Fleenor,DEM,0.32242453611377,0.01,0.0,No,0.01,0.01
+20,LA,2018,U.S. Representative,5,Billy Burkette,IND,0.0466756227433488,< 0.01,0.0,No,,
+22,LA,2018,U.S. Representative,6,Garret Graves,REP,0.4872543515299456,99.99,1727204.93,Yes,99.99,99.96
+23,LA,2018,U.S. Representative,6,Justin Dewitt,DEM,0.2563728242350272,0.01,0.0,No,0.04,0.01
+24,LA,2018,U.S. Representative,6,Andie Saizan,DEM,0.2563728242350272,0.01,0.0,No,0.04,0.01

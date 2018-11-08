@@ -1,0 +1,7 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,WV,2018,U.S. Representative,1,David McKinley,REP,0.6368025453263141,99.99,949389.64,Yes,99.99,99.99
+1,WV,2018,U.S. Representative,1,Kendra Jean Huard Fershee,DEM,0.36319745467368586,0.01,112177.8,No,0.01,0.01
+2,WV,2018,U.S. Representative,2,Alex Mooney,REP,0.5948056241942922,99.99,1442739.63,Yes,99.99,99.52
+3,WV,2018,U.S. Representative,2,Talley Sergent,DEM,0.4051943758057079,0.01,373984.48,No,0.48,0.01
+4,WV,2018,U.S. Representative,3,Carol Miller,REP,0.5058910781131388,59.31,743686.81,No,92.44,16.74
+5,WV,2018,U.S. Representative,3,Richard Neece Ojeda II,DEM,0.4941089218868611,40.69,508955.98,No,83.26,7.56

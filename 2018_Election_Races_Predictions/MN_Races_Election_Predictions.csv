@@ -1,0 +1,297 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+20,MN,2018,Attorney General,Statewide,Doug Wardlow,REP,0.4165460231602246,0.06,22933.14,No,,
+21,MN,2018,Attorney General,Statewide,Keith Ellison,DEM,0.5834539768397754,99.94,0.0,No,,
+293,MN,2018,Governor,Statewide,Tim Walz,DEM,0.5520450530783981,99.32,2403693.1,No,,
+294,MN,2018,Governor,Statewide,Jeff Johnson,REP,0.42643067003091467,0.68,576014.63,No,,
+295,MN,2018,Governor,Statewide,Josh Welter,LIB,0.021524276890687206,< 0.01,1100.0,No,,
+0,MN,2018,Secretary Of State,Statewide,Steve Simon,DEM,0.6363615267657398,99.99,177069.0,Yes,,
+1,MN,2018,Secretary Of State,Statewide,John Howe,REP,0.3636384732342603,0.01,0.0,No,,
+24,MN,2018,State Representative,10A,Joshua Heintzeman,REP,0.688143872616329,99.99,24074.22,Yes,> 99.99,99.99
+25,MN,2018,State Representative,10A,Dale Menk,DEM,0.311856127383671,0.01,0.0,No,0.01,< 0.01
+26,MN,2018,State Representative,10B,Dale Keith Lueck,REP,0.6903686413637091,99.99,12125.0,Yes,> 99.99,99.99
+27,MN,2018,State Representative,10B,Phil Yetzer,DEM,0.3096313586362908,0.01,0.0,No,0.01,< 0.01
+28,MN,2018,State Representative,11A,Mike Sundin,DEM,0.7240766138595599,> 99.99,9820.01,Yes,> 99.99,99.99
+29,MN,2018,State Representative,11A,Jeff Dotseth,REP,0.2759233861404401,< 0.01,0.0,No,0.01,< 0.01
+30,MN,2018,State Representative,11B,Jason Rarick,REP,0.6564081941959904,99.99,13575.0,Yes,99.99,99.99
+31,MN,2018,State Representative,11B,Tim Burkhardt,DEM,0.3435918058040096,0.01,0.0,No,0.01,0.01
+32,MN,2018,State Representative,12A,Jeff Backer,REP,0.6493842973331395,99.99,15234.05,Yes,99.99,99.99
+33,MN,2018,State Representative,12A,Murray Smart,DEM,0.3506157026668605,0.01,0.0,No,0.01,0.01
+34,MN,2018,State Representative,12B,Paul Anderson,REP,0.6639112913081319,99.99,13225.0,Yes,99.99,99.99
+35,MN,2018,State Representative,12B,Ben Schirmers,DEM,0.33608870869186813,0.01,0.0,No,0.01,0.01
+36,MN,2018,State Representative,13A,Jim Read,DEM,0.512358548567005,68.66,0.0,No,96.73,19.19
+37,MN,2018,State Representative,13A,Lisa Demuth,REP,0.487641451432995,31.34,0.0,No,80.81,3.27
+38,MN,2018,State Representative,13B,Tim Odriscoll,REP,0.6799000304689266,99.99,12700.0,Yes,> 99.99,99.99
+39,MN,2018,State Representative,13B,Heidi Everett,DEM,0.3200999695310734,0.01,0.0,No,0.01,< 0.01
+40,MN,2018,State Representative,14A,Tama Theis,REP,0.6279080588421704,99.99,19237.0,Yes,99.99,99.98
+41,MN,2018,State Representative,14A,Aric Putnam,DEM,0.37209194115782956,0.01,0.0,No,0.02,0.01
+42,MN,2018,State Representative,14B,Dan Wolgamott,DEM,1.0,100.00,0.0,No,100.00,100.00
+43,MN,2018,State Representative,15A,Sondra Erickson,REP,0.7024942572314378,99.99,13045.3,Yes,> 99.99,99.99
+44,MN,2018,State Representative,15A,Emy Minzel,DEM,0.2975057427685622,0.01,0.0,No,0.01,< 0.01
+45,MN,2018,State Representative,15B,Karla Scapanski,DEM,0.44808010433862006,38.54,0.0,No,85.67,4.97
+46,MN,2018,State Representative,15B,Myron Arthur Wilson,IND,0.08902261880058106,< 0.01,0.0,No,,
+47,MN,2018,State Representative,15B,Shane Mekeland,REP,0.46289727686079896,61.46,0.0,No,95.03,14.33
+48,MN,2018,State Representative,16A,Chris Swedzinski,REP,0.6853474595450979,99.99,19004.0,Yes,> 99.99,99.99
+49,MN,2018,State Representative,16A,Tom Wyatt-Yerka,DEM,0.31465254045490204,0.01,0.0,No,0.01,< 0.01
+50,MN,2018,State Representative,16B,Paul Torkelson,REP,0.6696789858852583,99.99,24395.0,Yes,99.99,99.99
+51,MN,2018,State Representative,16B,Marinda Mindy Kimmel,DEM,0.33032101411474163,0.01,0.0,No,0.01,0.01
+52,MN,2018,State Representative,17A,Tim Miller,REP,0.65207808254307,99.99,12542.0,Yes,99.99,99.99
+53,MN,2018,State Representative,17A,Lyle Koenen,DEM,0.34792191745693,0.01,0.0,No,0.01,0.01
+54,MN,2018,State Representative,17B,Dave Baker,REP,0.6324408815983964,99.99,5850.0,Yes,99.99,99.99
+55,MN,2018,State Representative,17B,Anita Flowe,DEM,0.3675591184016036,0.01,0.0,No,0.01,0.01
+56,MN,2018,State Representative,18A,Dean Urdahl,REP,0.6035478342978128,99.99,11435.0,Yes,99.99,99.99
+57,MN,2018,State Representative,18A,Justin Vold,DEM,0.307822839149129,0.01,0.0,No,0.01,0.01
+58,MN,2018,State Representative,18A,Jill Galvan,LIB,0.04431466327652908,< 0.01,0.0,No,,
+59,MN,2018,State Representative,18A,Kyle Greene,INDEPENDENT JUDICIAL REFORM,0.04431466327652908,< 0.01,0.0,No,,
+60,MN,2018,State Representative,18B,Glenn Gruenhagen,REP,0.6752687482908111,99.99,22550.0,Yes,99.99,99.99
+61,MN,2018,State Representative,18B,Ashley Latzke,DEM,0.3247312517091889,0.01,0.0,No,0.01,0.01
+62,MN,2018,State Representative,19A,Jeff Brand,DEM,0.555531734463235,98.55,0.0,No,99.98,79.62
+63,MN,2018,State Representative,19A,Kim Spears,REP,0.44446826553676505,1.45,0.0,No,20.38,0.02
+64,MN,2018,State Representative,19B,Jack Considine,DEM,0.7011614077782359,99.99,8975.0,Yes,> 99.99,99.99
+65,MN,2018,State Representative,19B,Joe Steck,REP,0.2988385922217641,0.01,0.0,No,0.01,< 0.01
+66,MN,2018,State Representative,1A,Dan Fabian,REP,0.6477222504970612,99.99,30900.0,Yes,99.99,99.99
+67,MN,2018,State Representative,1A,Stephen Moeller,DEM,0.35227774950293883,0.01,0.0,No,0.01,0.01
+68,MN,2018,State Representative,1B,Debra Kiel,REP,0.6370932264496657,99.99,18995.0,Yes,99.99,99.99
+69,MN,2018,State Representative,1B,Brent Lindstrom,DEM,0.36290677355033424,0.01,0.0,No,0.01,0.01
+70,MN,2018,State Representative,20A,Bob Vogel,REP,0.6859808214855679,99.99,11900.0,Yes,> 99.99,99.99
+71,MN,2018,State Representative,20A,Barbara Droher Kline,DEM,0.314019178514432,0.01,0.0,No,0.01,< 0.01
+72,MN,2018,State Representative,20B,Todd Lippert,DEM,0.5493969497560149,97.40,0.0,No,99.95,72.13
+73,MN,2018,State Representative,20B,Josh Gare,REP,0.450603050243985,2.6,0.0,No,27.87,0.05
+74,MN,2018,State Representative,21A,Barbara Ann May Haley,REP,0.6610467748183233,99.99,33102.0,Yes,99.99,99.99
+75,MN,2018,State Representative,21A,Lori Ann Clark,DEM,0.33895322518167664,0.01,0.0,No,0.01,0.01
+76,MN,2018,State Representative,21B,Steve Drazkowski,REP,0.6549967470382531,99.99,10379.0,Yes,99.99,99.99
+77,MN,2018,State Representative,21B,Jonathan Isenor,DEM,0.345003252961747,0.01,0.0,No,0.01,0.01
+78,MN,2018,State Representative,22A,Joe Schomacker,REP,0.6800586864623949,99.99,18825.0,Yes,> 99.99,99.99
+79,MN,2018,State Representative,22A,Maxwell Kaufman,DEM,0.3199413135376051,0.01,0.0,No,0.01,< 0.01
+80,MN,2018,State Representative,22B,Rod Hamilton,REP,0.6223436004052729,99.99,5975.0,Yes,99.99,99.97
+81,MN,2018,State Representative,22B,Cheniqua Johnson,DEM,0.3776563995947271,0.01,0.0,No,0.03,0.01
+82,MN,2018,State Representative,23A,Robert Gunther,REP,0.6905275007333861,99.99,15994.0,Yes,> 99.99,99.99
+83,MN,2018,State Representative,23A,Heather Klassen,DEM,0.30947249926661385,0.01,0.0,No,0.01,< 0.01
+84,MN,2018,State Representative,23B,Jeremy Munson,REP,0.5685442450806331,99.65,1444.36,Yes,99.99,90.99
+85,MN,2018,State Representative,23B,Jim Grabowska,DEM,0.4314557549193669,0.35,0.0,No,9.01,0.01
+86,MN,2018,State Representative,24A,John Petersburg,REP,0.6408392982186496,99.99,6261.0,Yes,99.99,99.99
+87,MN,2018,State Representative,24A,Joe Heegard,DEM,0.35916070178135034,0.01,0.0,No,0.01,0.01
+88,MN,2018,State Representative,24B,Brian Daniels,REP,0.6127635129062742,99.99,9120.0,Yes,99.99,99.89
+89,MN,2018,State Representative,24B,Yvette Marthaler,DEM,0.3872364870937258,0.01,0.0,No,0.11,0.01
+90,MN,2018,State Representative,25A,Duane Quam,REP,0.617218353907929,99.99,1935.0,Yes,99.99,99.94
+91,MN,2018,State Representative,25A,Jamie Mahlberg,DEM,0.382781646092071,0.01,0.0,No,0.06,0.01
+92,MN,2018,State Representative,25B,Duane Sauke,DEM,0.713319704680486,> 99.99,15500.33,Yes,> 99.99,99.99
+93,MN,2018,State Representative,25B,Kenneth Bush,REP,0.286680295319514,< 0.01,0.0,No,0.01,< 0.01
+94,MN,2018,State Representative,26A,Tina Liebling,DEM,0.7502619415526453,> 99.99,115698.14,Yes,> 99.99,> 99.99
+95,MN,2018,State Representative,26A,Paul Wilson,REP,0.2497380584473547,< 0.01,0.0,No,< 0.01,< 0.01
+96,MN,2018,State Representative,26B,Nels Pierson,REP,0.6447044351739912,99.99,4069.4,Yes,99.99,99.99
+97,MN,2018,State Representative,26B,Tyrel Clark,DEM,0.3552955648260088,0.01,0.0,No,0.01,0.01
+98,MN,2018,State Representative,27A,Peggy Bennett,REP,0.6411702415205477,99.99,16998.0,Yes,99.99,99.99
+99,MN,2018,State Representative,27A,Terry Gjersvik,DEM,0.3588297584794523,0.01,0.0,No,0.01,0.01
+100,MN,2018,State Representative,27B,Jeanne Poppe,DEM,0.6972371141111291,99.99,8785.0,Yes,> 99.99,99.99
+101,MN,2018,State Representative,27B,Christine Green,REP,0.30276288588887085,0.01,0.0,No,0.01,< 0.01
+102,MN,2018,State Representative,28A,Gene Pelowski Jr.,DEM,1.0,100.00,14105.0,Yes,100.00,100.00
+103,MN,2018,State Representative,28B,Gregory Davids,REP,0.6657813015892124,99.99,39368.47,Yes,99.99,99.99
+104,MN,2018,State Representative,28B,Thomas Trehus,DEM,0.3342186984107876,0.01,0.0,No,0.01,0.01
+105,MN,2018,State Representative,29A,Joe McDonald,REP,0.6833158632915497,99.99,4317.61,Yes,> 99.99,99.99
+106,MN,2018,State Representative,29A,Renee Cardarelle,DEM,0.31668413670845025,0.01,0.0,No,0.01,< 0.01
+107,MN,2018,State Representative,29B,Marion Oneill,REP,0.702976255387806,99.99,9645.93,Yes,> 99.99,99.99
+108,MN,2018,State Representative,29B,Sharon McGinty,DEM,0.29702374461219405,0.01,0.0,No,0.01,< 0.01
+109,MN,2018,State Representative,2A,Matthew Grossell,REP,0.6222178860379157,99.99,8000.0,Yes,99.99,99.97
+110,MN,2018,State Representative,2A,Michael Northbird,DEM,0.3777821139620843,0.01,0.0,No,0.03,0.01
+111,MN,2018,State Representative,2B,Steve Green,REP,0.6829325413037706,99.99,9435.0,Yes,> 99.99,99.99
+112,MN,2018,State Representative,2B,Karen Branden,DEM,0.31706745869622943,0.01,0.0,No,0.01,< 0.01
+113,MN,2018,State Representative,30A,Nicholas Zerwas,REP,0.6997986791811093,99.99,17870.0,Yes,> 99.99,99.99
+114,MN,2018,State Representative,30A,Sarah Hamlin,DEM,0.3002013208188907,0.01,0.0,No,0.01,< 0.01
+115,MN,2018,State Representative,30B,Eric Lucero,REP,0.7899379277336959,> 99.99,26908.06,Yes,> 99.99,> 99.99
+116,MN,2018,State Representative,30B,Margaret Fernandez,DEM,0.2100620722663042,< 0.01,0.0,No,< 0.01,< 0.01
+117,MN,2018,State Representative,31A,Kurt Daudt,REP,0.7068432882777527,99.99,90231.35,Yes,> 99.99,99.99
+118,MN,2018,State Representative,31A,Brad Brown,DEM,0.2931567117222474,0.01,0.0,No,0.01,< 0.01
+119,MN,2018,State Representative,31B,Cal Bahr,REP,0.6808977972006484,99.99,11861.92,Yes,> 99.99,99.99
+120,MN,2018,State Representative,31B,Sue Larson,DEM,0.3191022027993516,0.01,0.0,No,0.01,< 0.01
+121,MN,2018,State Representative,32A,Brian Johnson,REP,0.6748642162388159,99.99,19928.33,Yes,99.99,99.99
+122,MN,2018,State Representative,32A,Renae Berg,DEM,0.3251357837611842,0.01,0.0,No,0.01,0.01
+123,MN,2018,State Representative,32B,Jeff Peterson,DEM,0.430072492843437,0.3,0.0,No,8.16,0.01
+124,MN,2018,State Representative,32B,Anne Neu,REP,0.5699275071565629,99.70,0.0,Yes,99.99,91.84
+125,MN,2018,State Representative,33A,Jerry Hertaus,REP,0.6759987711516673,99.99,2375.0,Yes,99.99,99.99
+126,MN,2018,State Representative,33A,Norrie Thomas,DEM,0.32400122884833266,0.01,0.0,No,0.01,0.01
+127,MN,2018,State Representative,33B,Cindy Pugh,REP,0.6763010914714241,99.99,13997.5,Yes,> 99.99,99.99
+128,MN,2018,State Representative,33B,Kelly Morrison,DEM,0.3236989085285759,0.01,0.0,No,0.01,< 0.01
+129,MN,2018,State Representative,34A,Dan Solon,DEM,0.505538625156055,58.62,0.0,No,94.23,12.73
+130,MN,2018,State Representative,34A,Kristin Robbins,REP,0.49446137484394503,41.38,0.0,No,87.27,5.77
+131,MN,2018,State Representative,34B,Dennis Smith,REP,0.6856166944520231,99.99,79235.0,Yes,> 99.99,99.99
+132,MN,2018,State Representative,34B,Kristin Bahner,DEM,0.3143833055479769,0.01,0.0,No,0.01,< 0.01
+133,MN,2018,State Representative,35A,Bill Vikander,DEM,0.51626138708119,73.89,0.0,No,97.7,23.66
+134,MN,2018,State Representative,35A,John Heinrich,REP,0.48373861291881004,26.11,0.0,No,76.34,2.3
+135,MN,2018,State Representative,35B,Peggy Scott,REP,0.6990431490966753,99.99,11710.0,Yes,> 99.99,99.99
+136,MN,2018,State Representative,35B,Kathryn Eckhardt,DEM,0.30095685090332464,0.01,0.0,No,0.01,< 0.01
+137,MN,2018,State Representative,36A,Zack Stephenson,DEM,0.5235758002601201,82.32,0.0,No,98.88,33.38
+138,MN,2018,State Representative,36A,Bill Maresh,REP,0.47642419973988004,17.68,0.0,No,66.62,1.12
+139,MN,2018,State Representative,36B,Melissa Hortman,DEM,0.7468368363022019,> 99.99,47265.0,Yes,> 99.99,> 99.99
+140,MN,2018,State Representative,36B,Jermain Botsio,REP,0.25316316369779807,< 0.01,0.0,No,< 0.01,< 0.01
+141,MN,2018,State Representative,37A,Erin Koegel,DEM,0.6542891103608923,99.99,9008.61,Yes,99.99,99.99
+142,MN,2018,State Representative,37A,Anthony Wilder,REP,0.3457108896391077,0.01,0.0,No,0.01,0.01
+143,MN,2018,State Representative,37B,Nolan West,REP,0.6740841236557109,99.99,13989.0,Yes,99.99,99.99
+144,MN,2018,State Representative,37B,Amir Joseph Malik,DEM,0.32591587634428915,0.01,0.0,No,0.01,0.01
+145,MN,2018,State Representative,38A,Linda Runbeck,REP,0.6601787309501076,99.99,14259.0,Yes,99.99,99.99
+146,MN,2018,State Representative,38A,Kevin Fogarty,DEM,0.33982126904989246,0.01,0.0,No,0.01,0.01
+147,MN,2018,State Representative,38B,Ami Wazlawik,DEM,0.529481740910665,87.70,0.0,No,99.4,42.19
+148,MN,2018,State Representative,38B,Patti Anderson,REP,0.4705182590893351,12.3,0.0,No,57.81,0.6
+149,MN,2018,State Representative,39A,Bob Dettmer,REP,0.6387393976405434,99.99,6165.0,Yes,99.99,99.99
+150,MN,2018,State Representative,39A,Ann Mozey,DEM,0.36126060235945656,0.01,0.0,No,0.01,0.01
+151,MN,2018,State Representative,39B,Kathy Lohmer,REP,0.651499292471298,99.99,30290.8,Yes,99.99,99.99
+152,MN,2018,State Representative,39B,Shelly Christensen,DEM,0.348500707528702,0.01,0.0,No,0.01,0.01
+153,MN,2018,State Representative,3A,Rob Ecklund,DEM,0.7600054459959004,> 99.99,33365.0,Yes,> 99.99,> 99.99
+154,MN,2018,State Representative,3A,Randy Goutermont,REP,0.2399945540040997,< 0.01,0.0,No,< 0.01,< 0.01
+155,MN,2018,State Representative,3B,Mary Murphy,DEM,0.6723247764956575,99.99,1925.0,Yes,99.99,99.99
+156,MN,2018,State Representative,3B,Keith Macdonald,REP,0.32767522350434247,0.01,0.0,No,0.01,0.01
+157,MN,2018,State Representative,40A,Mike Nelson,DEM,0.6951756798319949,99.99,10405.0,Yes,> 99.99,99.99
+158,MN,2018,State Representative,40A,David True,REP,0.3048243201680051,0.01,0.0,No,0.01,< 0.01
+159,MN,2018,State Representative,40B,Samantha Vang,DEM,0.5688293994829,99.66,0.0,No,99.99,91.17
+160,MN,2018,State Representative,40B,Robert Marvin,REP,0.43117060051710004,0.34,0.0,No,8.83,0.01
+161,MN,2018,State Representative,41A,Connie Bernardy,DEM,0.7113222715418415,> 99.99,8981.0,Yes,> 99.99,99.99
+162,MN,2018,State Representative,41A,Susan Erickson,REP,0.2886777284581585,< 0.01,0.0,No,0.01,< 0.01
+163,MN,2018,State Representative,41B,Mary Kunesh-Podein,DEM,0.6655024784017678,99.99,4025.0,Yes,99.99,99.99
+164,MN,2018,State Representative,41B,Tim Utz,IND,0.3344975215982322,0.01,0.0,No,0.01,0.01
+165,MN,2018,State Representative,42A,Randy Jessup,REP,0.6381982134658764,99.99,15060.0,Yes,99.99,99.99
+166,MN,2018,State Representative,42A,Kelly Moller,DEM,0.36180178653412376,0.01,0.0,No,0.01,0.01
+167,MN,2018,State Representative,42B,Jamie Becker-Finn,DEM,0.7434965620492786,> 99.99,20168.32,Yes,> 99.99,99.99
+168,MN,2018,State Representative,42B,Yele-Mis Yang,REP,0.25650343795072145,< 0.01,0.0,No,0.01,< 0.01
+169,MN,2018,State Representative,43A,Peter Fischer,DEM,0.7418180219629339,> 99.99,13400.0,Yes,> 99.99,99.99
+170,MN,2018,State Representative,43A,Robert Cardinal,REP,0.2581819780370661,< 0.01,0.0,No,0.01,< 0.01
+171,MN,2018,State Representative,43B,Leon Michael Lillie,DEM,0.7179113957103576,> 99.99,9650.0,Yes,> 99.99,99.99
+172,MN,2018,State Representative,43B,Rachael Bucholz,REP,0.2820886042896424,< 0.01,0.0,No,0.01,< 0.01
+173,MN,2018,State Representative,44A,Sarah Anderson,REP,0.6554085175664984,99.99,8500.0,Yes,99.99,99.99
+174,MN,2018,State Representative,44A,Ginny Klevorn,DEM,0.3445914824335016,0.01,0.0,No,0.01,0.01
+175,MN,2018,State Representative,44B,Patty Acomb,DEM,0.536355161409415,92.37,0.0,No,99.73,52.93
+176,MN,2018,State Representative,44B,Sean McGary,REP,0.46364483859058503,7.63,0.0,No,47.07,0.27
+177,MN,2018,State Representative,45A,Lyndon Carlson,DEM,0.7407781170443443,> 99.99,11305.0,Yes,> 99.99,99.99
+178,MN,2018,State Representative,45A,Reid Johnson,REP,0.2592218829556558,< 0.01,0.0,No,0.01,< 0.01
+179,MN,2018,State Representative,45B,Mike Freiberg,DEM,0.7365448546941262,> 99.99,10260.0,Yes,> 99.99,99.99
+180,MN,2018,State Representative,45B,Steve Merriman,REP,0.26345514530587383,< 0.01,0.0,No,0.01,< 0.01
+181,MN,2018,State Representative,46A,Ryan Winkler,DEM,0.7409438304354822,> 99.99,51620.44,No,> 99.99,99.99
+182,MN,2018,State Representative,46A,Luke McCusker,REP,0.25905616956451777,< 0.01,0.0,No,0.01,< 0.01
+183,MN,2018,State Representative,46B,Cheryl Youakim,DEM,0.7357116261674795,> 99.99,7740.0,Yes,> 99.99,99.99
+184,MN,2018,State Representative,46B,Melissa Moore,REP,0.2642883738325204,< 0.01,0.0,No,0.01,< 0.01
+185,MN,2018,State Representative,47A,Jim Nash,REP,0.7328026673556256,> 99.99,22149.07,Yes,> 99.99,99.99
+186,MN,2018,State Representative,47A,Madalynn Gerold,DEM,0.26719733264437445,< 0.01,0.0,No,0.01,< 0.01
+187,MN,2018,State Representative,47B,Donzel Leggett,DEM,0.508480987981015,63.07,0.0,No,95.45,15.3
+188,MN,2018,State Representative,47B,Greg Boe,REP,0.49151901201898507,36.93,0.0,No,84.7,4.55
+189,MN,2018,State Representative,48A,Laurie Elizabeth Pryor,DEM,0.7295306541557509,> 99.99,25186.34,Yes,> 99.99,99.99
+190,MN,2018,State Representative,48A,Ellen Cousins,REP,0.2704693458442491,< 0.01,0.0,No,0.01,< 0.01
+191,MN,2018,State Representative,48B,Jenifer Loon,REP,0.6416020034811794,99.99,7150.0,Yes,99.99,99.99
+192,MN,2018,State Representative,48B,Carlie Kotyza-Witthuhn,DEM,0.3583979965188207,0.01,0.0,No,0.01,0.01
+193,MN,2018,State Representative,49A,Dario Anselmo,REP,0.6631460956143705,99.99,40775.0,Yes,99.99,99.99
+194,MN,2018,State Representative,49A,Heather Edelson,DEM,0.3368539043856295,0.01,0.0,No,0.01,0.01
+195,MN,2018,State Representative,49B,Steve Elkins,DEM,0.534031122712045,90.97,0.0,No,99.64,49.28
+196,MN,2018,State Representative,49B,Matt Sikich,REP,0.465968877287955,9.03,0.0,No,50.72,0.36
+197,MN,2018,State Representative,4A,Ben Lien,DEM,0.7075763217426736,99.99,6220.0,Yes,> 99.99,99.99
+198,MN,2018,State Representative,4A,Jordan Idso,REP,0.29242367825732646,0.01,0.0,No,0.01,< 0.01
+199,MN,2018,State Representative,4B,Paul Marquart,DEM,0.7513336356551832,> 99.99,11950.0,Yes,> 99.99,> 99.99
+200,MN,2018,State Representative,4B,Jason Peterson,REP,0.24866636434481676,< 0.01,0.0,No,< 0.01,< 0.01
+201,MN,2018,State Representative,50A,Michael Howard,DEM,0.558847203266635,98.97,0.0,No,99.98,83.11
+202,MN,2018,State Representative,50A,Kirsten Johnson,REP,0.441152796733365,1.03,0.0,No,16.89,0.02
+203,MN,2018,State Representative,50B,Andrew Carlson,DEM,0.6979645655055617,99.99,10210.0,Yes,> 99.99,99.99
+204,MN,2018,State Representative,50B,Chad Anderson,REP,0.3020354344944383,0.01,0.0,No,0.01,< 0.01
+205,MN,2018,State Representative,51A,Sandra Masin,DEM,0.6768030343654786,99.99,7992.0,Yes,> 99.99,99.99
+206,MN,2018,State Representative,51A,Jim Kiner,REP,0.3231969656345214,0.01,0.0,No,0.01,< 0.01
+207,MN,2018,State Representative,51B,Laurie Halverson,DEM,0.6852651384830337,99.99,6875.0,Yes,> 99.99,99.99
+208,MN,2018,State Representative,51B,Douglas Willetts,REP,0.3147348615169663,0.01,0.0,No,0.01,< 0.01
+209,MN,2018,State Representative,52A,Rick Hansen,DEM,0.7525712228260665,> 99.99,25034.46,Yes,> 99.99,> 99.99
+210,MN,2018,State Representative,52A,Beth Arntson,REP,0.24742877717393352,< 0.01,0.0,No,< 0.01,< 0.01
+211,MN,2018,State Representative,52B,Regina Barr,REP,0.6414766867146037,99.99,21342.0,Yes,99.99,99.99
+212,MN,2018,State Representative,52B,Ruth Richardson,DEM,0.35852331328539633,0.01,0.0,No,0.01,0.01
+213,MN,2018,State Representative,53A,Tou Xiong,DEM,0.55215304929097,97.99,0.0,No,99.96,75.65
+214,MN,2018,State Representative,53A,Andy Turonie,REP,0.44784695070903,2.01,0.0,No,24.35,0.04
+215,MN,2018,State Representative,53B,Kelly Fenton,REP,0.6570890330658601,99.99,21950.0,Yes,99.99,99.99
+216,MN,2018,State Representative,53B,Steve Sandell,DEM,0.34291096693413986,0.01,0.0,No,0.01,0.01
+217,MN,2018,State Representative,54A,Keith Franke,REP,0.5964751885890527,99.99,6370.0,Yes,99.99,99.26
+218,MN,2018,State Representative,54A,Anne Claflin,DEM,0.40352481141094726,0.01,0.0,No,0.74,0.01
+219,MN,2018,State Representative,54B,Tony Jurgens,REP,0.6471051445988877,99.99,12714.0,Yes,99.99,99.99
+220,MN,2018,State Representative,54B,Tina Folch,DEM,0.3528948554011123,0.01,0.0,No,0.01,0.01
+221,MN,2018,State Representative,55A,Brad Tabke,DEM,0.518758355169415,76.98,0.0,No,98.19,26.79
+222,MN,2018,State Representative,55A,Erik Mortensen,REP,0.48124164483058507,23.02,0.0,No,73.21,1.81
+223,MN,2018,State Representative,55B,Tony Albright,REP,0.7315051018101517,> 99.99,13700.0,Yes,> 99.99,99.99
+224,MN,2018,State Representative,55B,Matt Christensen,DEM,0.2684948981898483,< 0.01,0.0,No,0.01,< 0.01
+225,MN,2018,State Representative,56A,Drew Christensen,REP,0.6961496696646329,99.99,17835.0,Yes,> 99.99,99.99
+226,MN,2018,State Representative,56A,Hunter Cantrell,DEM,0.3038503303353672,0.01,0.0,No,0.01,< 0.01
+227,MN,2018,State Representative,56B,Roz Peterson,REP,0.6497442221278086,99.99,22876.75,Yes,99.99,99.99
+228,MN,2018,State Representative,56B,Alice Mann,DEM,0.35025577787219137,0.01,0.0,No,0.01,0.01
+229,MN,2018,State Representative,57A,Robert Bierman,DEM,0.49332504374753683,93.17,0.0,No,99.77,55.24
+230,MN,2018,State Representative,57A,Matthew Swenson,LIB,0.08902261880058106,< 0.01,0.0,No,,
+231,MN,2018,State Representative,57A,Matt Lundin,REP,0.4176523374518822,6.83,0.0,No,44.76,0.23
+232,MN,2018,State Representative,57B,Anna Wills,REP,0.6649258498274886,99.99,13027.0,Yes,99.99,99.99
+233,MN,2018,State Representative,57B,John Huot,DEM,0.33507415017251135,0.01,0.0,No,0.01,0.01
+234,MN,2018,State Representative,58A,Jon Koznick,REP,0.664232734214943,99.99,16650.0,Yes,99.99,99.99
+235,MN,2018,State Representative,58A,Maggie Williams,DEM,0.33576726578505695,0.01,0.0,No,0.01,0.01
+236,MN,2018,State Representative,58B,Patrick Garofalo,REP,0.7112361353718359,> 99.99,23154.0,Yes,> 99.99,99.99
+237,MN,2018,State Representative,58B,Marla Vagts,DEM,0.2887638646281641,< 0.01,0.0,No,0.01,< 0.01
+238,MN,2018,State Representative,59A,Fue Lee,DEM,0.8374542886955902,> 99.99,12975.45,Yes,> 99.99,> 99.99
+239,MN,2018,State Representative,59A,Fred Statema,REP,0.16254571130440976,< 0.01,0.0,No,< 0.01,< 0.01
+240,MN,2018,State Representative,59B,Raymond Dehn,DEM,0.7564123879536454,> 99.99,450.0,Yes,> 99.99,> 99.99
+241,MN,2018,State Representative,59B,Lacy Johnson,REP,0.24358761204635454,< 0.01,0.0,No,< 0.01,< 0.01
+242,MN,2018,State Representative,5A,Matt Bliss,REP,0.6093534276610297,99.99,8570.0,Yes,99.99,99.83
+243,MN,2018,State Representative,5A,John Persell,DEM,0.3906465723389703,0.01,0.0,No,0.17,0.01
+244,MN,2018,State Representative,5B,Sandy Layman,REP,0.6530280332191589,99.99,15775.0,Yes,99.99,99.99
+245,MN,2018,State Representative,5B,Pat Medure,DEM,0.34697196678084113,0.01,0.0,No,0.01,0.01
+246,MN,2018,State Representative,60A,Diane Loeffler,DEM,0.7482654556747426,> 99.99,5190.0,Yes,> 99.99,> 99.99
+247,MN,2018,State Representative,60A,Kelly Winsor,REP,0.25173454432525744,< 0.01,0.0,No,< 0.01,< 0.01
+248,MN,2018,State Representative,60B,Mohamud Noor,DEM,0.5999520386189949,99.99,0.0,No,99.99,99.5
+249,MN,2018,State Representative,60B,Joseph Patino,REP,0.400047961381005,0.01,0.0,No,0.5,0.01
+250,MN,2018,State Representative,61A,Frank Hornstein,DEM,0.729108875368025,> 99.99,7703.0,Yes,> 99.99,99.99
+251,MN,2018,State Representative,61A,Jeremy Hansen,REP,0.270891124631975,< 0.01,0.0,No,0.01,< 0.01
+252,MN,2018,State Representative,61B,Jamie Long,DEM,0.599755164525475,99.99,0.0,No,99.99,99.48
+253,MN,2018,State Representative,61B,Scot Missling,REP,0.400244835474525,0.01,0.0,No,0.52,0.01
+254,MN,2018,State Representative,62A,Hodan Hassan,DEM,0.6150783154433465,99.99,0.0,No,99.99,99.92
+255,MN,2018,State Representative,62A,Bruce Lundeen,REP,0.3849216845566536,0.01,0.0,No,0.08,0.01
+256,MN,2018,State Representative,62B,Aisha Gomez,DEM,0.6163093454686337,99.99,0.0,No,99.99,99.93
+257,MN,2018,State Representative,62B,Ronald Peterson,REP,0.38369065453136636,0.01,0.0,No,0.07,0.01
+258,MN,2018,State Representative,63A,Jim Davnie,DEM,0.8022270310383304,> 99.99,4175.0,Yes,> 99.99,> 99.99
+259,MN,2018,State Representative,63A,Kyle Bragg,REP,0.19777296896166957,< 0.01,0.0,No,< 0.01,< 0.01
+260,MN,2018,State Representative,63B,Jean Wagenius,DEM,0.7704959331523182,> 99.99,6351.72,Yes,> 99.99,> 99.99
+261,MN,2018,State Representative,63B,Frank Pafko,REP,0.2295040668476817,< 0.01,0.0,No,< 0.01,< 0.01
+262,MN,2018,State Representative,64A,Kaohly Her,DEM,0.598741635753115,99.99,0.0,No,99.99,99.42
+263,MN,2018,State Representative,64A,Patrick Jd Griffin,REP,0.401258364246885,0.01,0.0,No,0.58,0.01
+264,MN,2018,State Representative,64B,Dave Pinto,DEM,0.8133290091901716,> 99.99,23700.0,Yes,> 99.99,> 99.99
+265,MN,2018,State Representative,64B,Alex Pouliot,REP,0.1866709908098284,< 0.01,0.0,No,< 0.01,< 0.01
+266,MN,2018,State Representative,65A,Rena Moran,DEM,0.7948632643880782,> 99.99,5223.0,Yes,> 99.99,> 99.99
+267,MN,2018,State Representative,65A,Monique Giordana,REP,0.20513673561192175,< 0.01,0.0,No,< 0.01,< 0.01
+268,MN,2018,State Representative,65B,Carlos Mariani,DEM,0.7605341777040572,> 99.99,660.0,Yes,> 99.99,> 99.99
+269,MN,2018,State Representative,65B,Margaret Mary Stokely,REP,0.23946582229594282,< 0.01,0.0,No,< 0.01,< 0.01
+270,MN,2018,State Representative,66A,Alice Hausman,DEM,0.6896869257723748,99.99,2460.0,Yes,> 99.99,99.99
+271,MN,2018,State Representative,66A,Jon Heyer,REP,0.31031307422762516,0.01,0.0,No,0.01,< 0.01
+272,MN,2018,State Representative,66B,John Lesch,DEM,0.8154403679261794,> 99.99,11157.67,Yes,> 99.99,> 99.99
+273,MN,2018,State Representative,66B,David Richard,REP,0.18455963207382065,< 0.01,0.0,No,< 0.01,< 0.01
+274,MN,2018,State Representative,67A,Tim Mahoney,DEM,1.0,100.00,9955.0,Yes,100.00,100.00
+275,MN,2018,State Representative,67B,Jay Xiong,DEM,0.5876827036169799,99.97,0.0,No,99.99,98.18
+276,MN,2018,State Representative,67B,Fred Turk,REP,0.41231729638302,0.03,0.0,No,1.82,0.01
+277,MN,2018,State Representative,6A,Julie Sandstede,DEM,0.7702820286064551,> 99.99,11479.69,Yes,> 99.99,> 99.99
+278,MN,2018,State Representative,6A,Guy Anderson,REP,0.22971797139354488,< 0.01,0.0,No,< 0.01,< 0.01
+279,MN,2018,State Representative,6B,Dave Lislegard,DEM,0.55396791325981,98.31,0.0,No,99.97,77.83
+280,MN,2018,State Representative,6B,Skeeter Tomczak,REP,0.44603208674019,1.69,0.0,No,22.17,0.03
+281,MN,2018,State Representative,7A,Jennifer Schultz,DEM,0.7314278856186649,> 99.99,9407.0,Yes,> 99.99,99.99
+282,MN,2018,State Representative,7A,Dana Krivogorsky,REP,0.2685721143813351,< 0.01,0.0,No,0.01,< 0.01
+283,MN,2018,State Representative,7B,Liz Olson,DEM,0.7371619930342288,> 99.99,5511.05,Yes,> 99.99,99.99
+284,MN,2018,State Representative,7B,Caroline Burley,REP,0.26283800696577114,< 0.01,0.0,No,0.01,< 0.01
+285,MN,2018,State Representative,8A,Bud Nornes,REP,0.6310856646954468,99.99,7525.0,Yes,99.99,99.99
+286,MN,2018,State Representative,8A,Brittney Johnson,DEM,0.36891433530455325,0.01,0.0,No,0.01,0.01
+287,MN,2018,State Representative,8B,Mary Franson,REP,0.6690572826879508,99.99,29244.17,Yes,99.99,99.99
+288,MN,2018,State Representative,8B,Gail Kulp,DEM,0.3309427173120491,0.01,0.0,No,0.01,0.01
+289,MN,2018,State Representative,9A,John Poston,REP,0.623487257870407,99.99,6800.0,Yes,99.99,99.97
+290,MN,2018,State Representative,9A,Alex Hering,DEM,0.37651274212959296,0.01,0.0,No,0.03,0.01
+291,MN,2018,State Representative,9B,Ron Kresha,REP,0.6956160597403996,99.99,14475.0,Yes,> 99.99,99.99
+292,MN,2018,State Representative,9B,Stephen Browning,DEM,0.3043839402596003,0.01,0.0,No,0.01,< 0.01
+2,MN,2018,U.S. Representative,1,Daniel Feehan,DEM,0.5378424607398542,93.17,993076.7,No,99.77,55.25
+3,MN,2018,U.S. Representative,1,James Hagedorn,REP,0.46215753926014586,6.83,790971.59,No,44.75,0.23
+4,MN,2018,U.S. Representative,2,Angela Dawn Craig,DEM,0.512604102095991,69.00,2104678.66,No,96.8,19.45
+5,MN,2018,U.S. Representative,2,Jason Lewis,REP,0.48739589790400895,31.0,1808192.91,Yes,80.55,3.2
+6,MN,2018,U.S. Representative,3,Erik Paulsen,REP,0.5086265380281194,63.28,3714752.06,Yes,95.51,15.44
+7,MN,2018,U.S. Representative,3,Dean Phillips,DEM,0.49137346197188064,36.72,2288216.83,No,84.56,4.49
+8,MN,2018,U.S. Representative,4,Betty McCollum,DEM,0.5797289417597129,99.99,594580.98,Yes,99.99,99.92
+9,MN,2018,U.S. Representative,4,Gregory Ryan,REP,0.3485582228869759,0.01,8421.31,No,0.08,0.01
+10,MN,2018,U.S. Representative,4,Susan Pendergast Sindt,LEGAL MARIJUANA NOW,0.0717128353533112,< 0.01,0.0,No,,
+11,MN,2018,U.S. Representative,5,Ilhan Omar,DEM,0.588084314660515,99.97,0.0,No,99.99,98.25
+12,MN,2018,U.S. Representative,5,Jennifer Zielinski,REP,0.411915685339485,0.03,0.0,No,1.75,0.01
+13,MN,2018,U.S. Representative,6,Thomas Earl Emmer Jr.,REP,0.5397642278830771,94.11,1662526.44,Yes,99.82,58.22
+14,MN,2018,U.S. Representative,6,Ian Andrew Todd,DEM,0.46023577211692285,5.89,28199.19,No,41.78,0.18
+15,MN,2018,U.S. Representative,7,Collin Peterson,DEM,0.564265685784271,99.42,944301.73,Yes,99.99,87.94
+16,MN,2018,U.S. Representative,7,David Hughes,REP,0.435734314215729,0.58,124858.02,No,12.06,0.01
+17,MN,2018,U.S. Representative,8,Pete Stauber,REP,0.48533647233744037,81.60,830756.83,No,98.8,32.39
+18,MN,2018,U.S. Representative,8,Joe Radinovich,DEM,0.4395705889469029,18.4,0.0,No,67.61,1.2
+19,MN,2018,U.S. Representative,8,Ray Skip Sandman,INDEPENDENCE,0.07509293871565673,< 0.01,0.0,No,,
+22,MN,2018,U.S. Senator,Statewide,Amy Klobuchar,DEM,0.5609895889901622,99.18,10562130.39,Yes,,
+23,MN,2018,U.S. Senator,Statewide,James Wallace Newberger,REP,0.4390104110098379,0.82,104431.02,No,,

@@ -1,0 +1,3 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,DE,2018,U.S. Representative,1,Lisa Blunt Rochester,DEM,0.7014217792071726,99.99,876619.66,Yes,> 99.99,99.99
+1,DE,2018,U.S. Representative,1,Scott Walker,REP,0.29857822079282736,0.01,0.0,No,0.01,< 0.01

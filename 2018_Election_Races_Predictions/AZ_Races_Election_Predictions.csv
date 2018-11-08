@@ -1,0 +1,18 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,AZ,2018,U.S. Representative,1,Tom Ohalleran,DEM,0.6807924322090454,99.99,1707107.54,Yes,> 99.99,99.99
+1,AZ,2018,U.S. Representative,1,Wendy Rogers,REP,0.31920756779095455,0.01,0.0,No,0.01,< 0.01
+2,AZ,2018,U.S. Representative,2,Ann Kirkpatrick,DEM,0.6220410558352406,99.99,1757604.07,No,99.99,99.98
+3,AZ,2018,U.S. Representative,2,Lea Marquez Peterson,REP,0.37795894416475945,0.01,0.0,No,0.02,0.01
+4,AZ,2018,U.S. Representative,3,Raul Grijalva,DEM,0.6488422723495699,99.99,489739.3,Yes,99.99,99.99
+5,AZ,2018,U.S. Representative,3,Nicolas Pierson,REP,0.3511577276504301,0.01,0.0,No,0.01,0.01
+6,AZ,2018,U.S. Representative,4,Paul Anthony Gosar,REP,0.6776807501572375,99.99,397850.98,Yes,> 99.99,99.99
+7,AZ,2018,U.S. Representative,4,David Brill,DEM,0.3223192498427625,0.01,0.0,No,0.01,< 0.01
+8,AZ,2018,U.S. Representative,5,Andrew Biggs,REP,0.6360247215274591,99.99,469479.01,Yes,99.99,99.99
+9,AZ,2018,U.S. Representative,5,Joan Greene,DEM,0.3639752784725408,0.01,68242.37,No,0.01,0.01
+10,AZ,2018,U.S. Representative,6,David Schweikert,REP,0.5891418837685835,99.98,1231135.41,Yes,99.99,99.1
+11,AZ,2018,U.S. Representative,6,Anita Malik,DEM,0.4108581162314166,0.02,106397.31,No,0.9,0.01
+12,AZ,2018,U.S. Representative,7,Ruben Gallego,DEM,1.0,100.00,791332.6,Yes,100.00,100.00
+13,AZ,2018,U.S. Representative,8,Hiral Tipirneni,DEM,0.5207693195798078,79.69,0.0,No,97.88,35.59
+14,AZ,2018,U.S. Representative,8,Debbie Lesko,REP,0.47923068042019223,20.31,0.0,No,64.41,2.12
+15,AZ,2018,U.S. Representative,9,Greg Stanton,DEM,0.5528779512092408,98.27,1573026.56,No,99.95,81.99
+16,AZ,2018,U.S. Representative,9,Steve Ferrara,REP,0.4471220487907593,1.73,1012806.13,No,18.01,0.05

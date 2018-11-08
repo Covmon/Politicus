@@ -1,0 +1,31 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,NC,2018,U.S. Representative,1,George Kenneth Butterfield Jr.,DEM,0.754013188143545,> 99.99,569883.7,Yes,> 99.99,> 99.99
+1,NC,2018,U.S. Representative,1,Roger Warren Allison,REP,0.245986811856455,< 0.01,0.0,No,< 0.01,< 0.01
+2,NC,2018,U.S. Representative,10,Patrick Timothy McHenry,REP,0.6179396066283092,99.99,2935802.82,Yes,99.99,99.97
+3,NC,2018,U.S. Representative,10,David Wilson Brown,DEM,0.3820603933716908,0.01,39268.23,No,0.03,0.01
+4,NC,2018,U.S. Representative,11,Mark Randal Meadows,REP,0.5948093511922139,99.99,786700.47,Yes,99.99,99.98
+5,NC,2018,U.S. Representative,11,Phillip Price,DEM,0.35772072047227343,0.01,57147.09,No,0.02,0.01
+6,NC,2018,U.S. Representative,11,Clifton Burton Ingram Jr.,LIB,0.04746992833551278,< 0.01,0.0,No,,
+7,NC,2018,U.S. Representative,12,Alma Adams,DEM,0.7839755118270073,> 99.99,399011.78,Yes,> 99.99,> 99.99
+8,NC,2018,U.S. Representative,12,Paul Michael Wright,REP,0.2160244881729927,< 0.01,0.0,No,< 0.01,< 0.01
+9,NC,2018,U.S. Representative,13,Theodore Paul Budd,REP,0.5724291307504431,99.99,1154386.65,Yes,99.99,99.78
+10,NC,2018,U.S. Representative,13,Kathy Ellen Manning,DEM,0.3694010712856695,0.01,0.0,No,0.22,0.01
+11,NC,2018,U.S. Representative,13,Thomas Aaron Bailey,LIB,0.05816979796388733,< 0.01,0.0,No,,
+12,NC,2018,U.S. Representative,2,George Edward Bell Holding,REP,0.5347059935450585,99.09,1789926.64,Yes,99.98,87.79
+13,NC,2018,U.S. Representative,2,Linda Coleman,DEM,0.4164751089048035,0.91,299223.22,No,12.21,0.02
+14,NC,2018,U.S. Representative,2,Timmy Strickland,IND,0.04881889755013801,< 0.01,0.0,No,,
+16,NC,2018,U.S. Representative,3,Walter Jones,REP,1.0,100.00,497608.73,Yes,100.00,100.00
+17,NC,2018,U.S. Representative,4,David Price,DEM,0.7159194736559946,> 99.99,609780.0,Yes,> 99.99,99.99
+18,NC,2018,U.S. Representative,4,Barbara Howe,LIB,0.03776615885647199,< 0.01,0.0,No,,
+19,NC,2018,U.S. Representative,4,Steve Albert Loor,REP,0.24631436748753338,< 0.01,0.0,No,0.01,< 0.01
+20,NC,2018,U.S. Representative,5,Virginia Foxx,REP,0.5966300138852615,99.99,1739525.8,Yes,99.99,99.61
+21,NC,2018,U.S. Representative,5,Denise Darcel Adams,DEM,0.40336998611473857,0.01,193213.0,No,0.39,0.01
+22,NC,2018,U.S. Representative,6,Bradley Mark Walker,REP,0.5991277907886058,99.99,971226.84,Yes,99.99,99.71
+23,NC,2018,U.S. Representative,6,Ryan Watts,DEM,0.40087220921139427,0.01,206549.27,No,0.29,0.01
+24,NC,2018,U.S. Representative,7,David Cheston Rouzer,REP,0.5790386097059941,99.92,1161401.91,Yes,99.99,97.5
+25,NC,2018,U.S. Representative,7,Lauren Kyle Horton,DEM,0.4209613902940059,0.08,342938.39,No,2.5,0.01
+26,NC,2018,U.S. Representative,8,Richard Lane Hudson Jr.,REP,0.6112523101500617,99.99,1741334.47,Yes,99.99,99.94
+27,NC,2018,U.S. Representative,8,Frank Alexander McNeill Jr.,DEM,0.3887476898499384,0.01,0.0,No,0.06,0.01
+28,NC,2018,U.S. Representative,9,Daniel McCready,DEM,0.48274139454032355,66.22,2664470.95,No,94.72,21.72
+29,NC,2018,U.S. Representative,9,Mark Everette Harris,REP,0.4618138131469746,33.78,945220.62,No,78.28,5.28
+30,NC,2018,U.S. Representative,9,Jeffery Scott,LIB,0.05544479231270182,< 0.01,0.0,No,,

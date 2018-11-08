@@ -1,0 +1,9 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,NM,2018,U.S. Representative,1,Debra Haaland,DEM,0.5991177829018101,99.99,1133767.98,No,99.99,99.99
+1,NM,2018,U.S. Representative,1,Janice Arnold-Jones,REP,0.3336738725524463,0.01,122050.81,No,0.01,0.01
+2,NM,2018,U.S. Representative,1,Lloyd Princeton,LIB,0.06720834454574366,< 0.01,56802.0,No,,
+3,NM,2018,U.S. Representative,2,Xochitl Torres Small,DEM,0.5323993584718267,90.25,928718.86,No,99.37,53.82
+4,NM,2018,U.S. Representative,2,Stella Yvette Herrell,REP,0.46760064152817327,9.75,512609.7,No,46.18,0.63
+5,NM,2018,U.S. Representative,3,Ben Ray Lujan,DEM,0.6591894566858103,99.99,1489412.64,Yes,> 99.99,99.99
+6,NM,2018,U.S. Representative,3,Christopher Manning,LIB,0.04523373676368129,< 0.01,0.0,No,,
+7,NM,2018,U.S. Representative,3,Jerald Steve McFall,REP,0.29557680655050844,0.01,0.0,No,0.01,< 0.01

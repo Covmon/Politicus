@@ -1,0 +1,12 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,OK,2018,U.S. Representative,1,Kevin Ray Hern,REP,0.6443597825020542,99.99,2916105.06,No,99.99,99.99
+1,OK,2018,U.S. Representative,1,Tim Gilpin,DEM,0.3556402174979459,0.01,0.0,No,0.01,0.01
+2,OK,2018,U.S. Representative,2,Markwayne Mullin,REP,0.6604222109227591,99.99,1258330.91,Yes,> 99.99,99.99
+3,OK,2018,U.S. Representative,2,Jason Nichols,DEM,0.30049811770936197,0.01,0.0,No,0.01,< 0.01
+4,OK,2018,U.S. Representative,2,Richard Castaldo,LIB,0.039079671367878974,< 0.01,0.0,No,,
+5,OK,2018,U.S. Representative,3,Frank Lucas,REP,0.7104422426115371,> 99.99,826199.43,Yes,> 99.99,99.99
+6,OK,2018,U.S. Representative,3,Frankie Robbins,DEM,0.2895577573884629,< 0.01,0.0,No,0.01,< 0.01
+7,OK,2018,U.S. Representative,4,Tom Cole,REP,0.6741537731749181,99.99,1432549.37,Yes,99.99,99.99
+8,OK,2018,U.S. Representative,4,Mary Brannon,DEM,0.32584622682508196,0.01,0.0,No,0.01,0.01
+9,OK,2018,U.S. Representative,5,Steven Dane Russell,REP,0.5765860045505248,99.89,702066.0,Yes,99.99,96.87
+10,OK,2018,U.S. Representative,5,Kendra Horn,DEM,0.4234139954494752,0.11,417991.09,No,3.13,0.01

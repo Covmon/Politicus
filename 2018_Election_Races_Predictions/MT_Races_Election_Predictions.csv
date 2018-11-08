@@ -1,0 +1,4 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,MT,2018,U.S. Representative,1,Gregory Gianforte,REP,0.5328081292988059,98.57,1517077.34,Yes,99.96,83.88
+1,MT,2018,U.S. Representative,1,Kathleen Williams,DEM,0.4233128899957961,1.43,786447.73,No,16.12,0.04
+2,MT,2018,U.S. Representative,1,Elinor Swanson,LIB,0.043878980705397926,< 0.01,0.0,No,,

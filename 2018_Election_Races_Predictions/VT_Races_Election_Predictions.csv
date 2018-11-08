@@ -1,0 +1,4 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,VT,2018,U.S. Representative,1,Peter Welch,DEM,0.686297882365842,> 99.99,550764.44,Yes,> 99.99,99.99
+1,VT,2018,U.S. Representative,1,Cris Ericson,IND,0.04256383008401352,< 0.01,0.0,No,,
+2,VT,2018,U.S. Representative,1,Anya Tynioa,REP,0.27113828755014446,< 0.01,0.0,No,0.01,< 0.01

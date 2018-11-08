@@ -1,0 +1,33 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,NJ,2018,U.S. Representative,1,Donald Norcross,DEM,0.6889099262782826,> 99.99,1617310.66,Yes,> 99.99,99.99
+1,NJ,2018,U.S. Representative,1,Robert Shapiro,LIB,0.0372165702389695,< 0.01,0.0,No,,
+2,NJ,2018,U.S. Representative,1,Paul Dilks,REP,0.2738735034827479,< 0.01,0.0,No,0.01,< 0.01
+3,NJ,2018,U.S. Representative,10,Donald Payne Jr.,DEM,0.8472755750377897,> 99.99,423920.03,Yes,> 99.99,> 99.99
+4,NJ,2018,U.S. Representative,10,Scott Diroma,LIB,0.03256132483355429,< 0.01,0.0,No,,
+5,NJ,2018,U.S. Representative,10,Agha Khan,REP,0.12016310012865601,< 0.01,0.0,No,< 0.01,< 0.01
+6,NJ,2018,U.S. Representative,11,Rebecca Michelle Sherrill,DEM,0.6003283873395038,99.99,4223876.97,No,99.99,99.99
+7,NJ,2018,U.S. Representative,11,Ryan Martinez,LIB,0.045608735092560984,< 0.01,0.0,No,,
+8,NJ,2018,U.S. Representative,11,Jay Webber,REP,0.3540628775679352,0.01,0.0,No,0.01,0.01
+9,NJ,2018,U.S. Representative,12,Bonnie Watson Coleman,DEM,0.7388272631653862,> 99.99,680719.61,Yes,> 99.99,> 99.99
+10,NJ,2018,U.S. Representative,12,Daryl Kipnis,REP,0.2611727368346138,< 0.01,0.0,No,< 0.01,< 0.01
+11,NJ,2018,U.S. Representative,2,Jeff Van Drew,DEM,0.5088017825826792,91.39,0.0,No,99.48,56.58
+12,NJ,2018,U.S. Representative,2,John Ordille,LIB,0.050686469620210485,< 0.01,0.0,No,,
+13,NJ,2018,U.S. Representative,2,Seth Grossman,REP,0.44051174779711033,8.61,0.0,No,43.42,0.52
+14,NJ,2018,U.S. Representative,3,Thomas Macarthur,REP,0.5282847097037678,87.10,2361499.29,Yes,99.01,47.26
+15,NJ,2018,U.S. Representative,3,Andy Kim,DEM,0.47171529029623216,12.9,2160374.3,No,52.74,0.99
+16,NJ,2018,U.S. Representative,4,Christopher Smith,REP,0.549090729872443,99.68,811699.52,Yes,99.99,93.72
+17,NJ,2018,U.S. Representative,4,Joshua Welle,DEM,0.41248439337600534,0.32,635862.64,No,6.28,0.01
+18,NJ,2018,U.S. Representative,4,Michael Rufo,LIB,0.038424876751551755,< 0.01,0.0,No,,
+19,NJ,2018,U.S. Representative,5,Joshua Gottheimer,DEM,0.6528209560568987,99.99,5047666.09,Yes,99.99,99.99
+20,NJ,2018,U.S. Representative,5,James Tosone,LIB,0.03889545997728303,< 0.01,0.0,No,,
+21,NJ,2018,U.S. Representative,5,John McCann Jr.,REP,0.30828358396581823,0.01,0.0,No,0.01,0.01
+22,NJ,2018,U.S. Representative,6,Frank Pallone Jr.,DEM,0.7142375721416908,> 99.99,1750203.87,Yes,> 99.99,99.99
+23,NJ,2018,U.S. Representative,6,Richard Pezzullo,REP,0.2857624278583092,< 0.01,0.0,No,0.01,< 0.01
+24,NJ,2018,U.S. Representative,7,Tom Malinowski,DEM,0.47099325892587535,12.3,2311878.37,No,51.59,0.92
+25,NJ,2018,U.S. Representative,7,Leonard Lance,REP,0.5290067410741246,87.70,1554956.35,Yes,99.08,48.41
+26,NJ,2018,U.S. Representative,8,Albio Sires,DEM,0.7976767755840478,> 99.99,243204.05,Yes,> 99.99,> 99.99
+27,NJ,2018,U.S. Representative,8,Dan Delaney,LIB,0.03721401541679942,< 0.01,0.0,No,,
+28,NJ,2018,U.S. Representative,8,John Muniz,REP,0.16510920899915288,< 0.01,0.0,No,< 0.01,< 0.01
+29,NJ,2018,U.S. Representative,9,Bill Pascrell Jr.,DEM,0.7292449271108573,> 99.99,1182366.19,Yes,> 99.99,> 99.99
+30,NJ,2018,U.S. Representative,9,Claudio Belusic,LIB,0.03167147569963437,< 0.01,0.0,No,,
+31,NJ,2018,U.S. Representative,9,Eric Fisher,REP,0.23908359718950833,< 0.01,0.0,No,< 0.01,< 0.01

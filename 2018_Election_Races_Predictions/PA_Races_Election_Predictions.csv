@@ -1,0 +1,40 @@
+,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
+0,PA,2018,U.S. Representative,1,Brian Fitzpatrick,REP,0.5580512580806176,98.98,1302437.9,No,99.97,86.9
+1,PA,2018,U.S. Representative,1,Scott Wallace,DEM,0.44194874191938244,1.02,0.0,No,13.1,0.03
+2,PA,2018,U.S. Representative,10,George Scott,DEM,0.4975939747423197,46.17,0.0,No,86.52,9.75
+3,PA,2018,U.S. Representative,10,Scott Gordon Perry,REP,0.5024060252576803,53.83,0.0,Yes,90.25,13.48
+4,PA,2018,U.S. Representative,11,Jess King,DEM,0.4864645261938145,29.42,0.0,No,74.5,4.09
+5,PA,2018,U.S. Representative,11,Lloyd Smucker,REP,0.5135354738061855,70.58,0.0,Yes,95.91,25.5
+6,PA,2018,U.S. Representative,12,Marc Friedenberg,DEM,0.4770580801699431,17.94,0.0,No,61.12,1.72
+7,PA,2018,U.S. Representative,12,Thomas Anthony Marino,REP,0.5229419198300569,82.06,0.0,Yes,98.28,38.88
+8,PA,2018,U.S. Representative,13,Brent Ottaway,DEM,0.5709282619757838,99.77,0.0,No,99.99,94.91
+9,PA,2018,U.S. Representative,13,John Joyce,REP,0.4290717380242161,0.23,0.0,No,5.09,0.01
+10,PA,2018,U.S. Representative,14,Bibiana Boerio,DEM,0.5845192447533908,99.96,0.0,No,99.99,98.53
+11,PA,2018,U.S. Representative,14,Guy Reschenthaler,REP,0.4154807552466092,0.04,0.0,No,1.47,0.01
+12,PA,2018,U.S. Representative,15,Susan Boser,DEM,0.336991391889299,41.38,0.0,No,83.7,7.82
+13,PA,2018,U.S. Representative,15,Glenn William Thompson Jr.,REP,0.3478884045528985,58.62,0.0,Yes,92.18,16.3
+14,PA,2018,U.S. Representative,15,Martin Nothstein,REP,0.31512020355780257,< 0.01,0.0,No,,
+15,PA,2018,U.S. Representative,7,Susan Wild,DEM,0.35626129294612874,50.0,0.0,No,88.5,11.5
+16,PA,2018,U.S. Representative,7,Susan Wild,DEM,0.35626129294612874,50.0,0.0,No,88.5,11.5
+18,PA,2018,U.S. Representative,7,Marty Nothstein,REP,0.2874774141077425,< 0.01,0.0,No,,
+19,PA,2018,U.S. Representative,16,Ronald Dincola,DEM,0.47310161348812196,53.89,0.0,No,90.28,13.51
+20,PA,2018,U.S. Representative,16,Ebert Bill Beeman,LIB,0.05868845173819823,< 0.01,0.0,No,,
+21,PA,2018,U.S. Representative,16,George Kelly Jr.,REP,0.4682099347736798,46.11,0.0,Yes,86.49,9.72
+22,PA,2018,U.S. Representative,17,Conor Lamb,DEM,0.5392688314096945,94.18,0.0,Yes,99.72,64.45
+23,PA,2018,U.S. Representative,17,Keith James Rothfus,REP,0.46073116859030555,5.82,0.0,Yes,35.55,0.28
+24,PA,2018,U.S. Representative,18,Michael Doyle,DEM,1.0,100.00,557240.47,Yes,100.00,100.00
+25,PA,2018,U.S. Representative,2,Brendan Boyle,DEM,0.8747898393050785,> 99.99,520267.82,Yes,> 99.99,> 99.99
+26,PA,2018,U.S. Representative,2,David Torres,REP,0.12521016069492147,< 0.01,0.0,No,< 0.01,< 0.01
+27,PA,2018,U.S. Representative,3,Dwight Evans,DEM,0.7246125686347102,> 99.99,0.0,Yes,> 99.99,99.99
+28,PA,2018,U.S. Representative,3,Bryan Leib,REP,0.2753874313652897,< 0.01,0.0,No,0.01,< 0.01
+29,PA,2018,U.S. Representative,4,Madeleine Dean,DEM,0.5336601649114482,91.09,0.0,No,99.45,55.81
+30,PA,2018,U.S. Representative,4,Dan David,REP,0.4663398350885519,8.91,0.0,No,44.19,0.55
+31,PA,2018,U.S. Representative,5,Mary Gay Scanlon,DEM,0.37138678353919086,50.0,0.0,No,88.5,11.5
+32,PA,2018,U.S. Representative,5,Pearl Kim,REP,0.25722643292161806,< 0.01,0.0,No,,
+33,PA,2018,U.S. Representative,5,Mary Gay Scanlon,DEM,0.37138678353919086,50.0,0.0,No,88.5,11.5
+35,PA,2018,U.S. Representative,6,Chrissy Houlahan,DEM,0.6305497630601035,99.99,2806247.5,No,99.99,99.99
+36,PA,2018,U.S. Representative,6,Greg McCauley,REP,0.3694502369398965,0.01,0.0,No,0.01,0.01
+37,PA,2018,U.S. Representative,8,Matthew Alton Cartwright,DEM,0.676510733611765,99.99,1022412.13,Yes,99.99,99.99
+38,PA,2018,U.S. Representative,8,John Chrin,REP,0.323489266388235,0.01,0.0,No,0.01,0.01
+39,PA,2018,U.S. Representative,9,Denny Wolff,DEM,0.5240803598302639,83.22,0.0,No,98.47,40.64
+40,PA,2018,U.S. Representative,9,Dan Meuser,REP,0.4759196401697361,16.78,0.0,No,59.36,1.53

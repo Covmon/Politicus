@@ -1,0 +1,4 @@
+,State,Year,Position,Total Seats,Party,Seats Up for Election,Party Safe Seats,Predicted Vote Share,Election Lower-End Predicted Seats,Election Predicted Seats,Election Upper-End Predicted Seats,Lower-End Predicted Seats,Predicted Seats,Upper-End Predicted Seats,Seats Needed for Majority,Predicted Majority Win Probability,Seats Needed for Supermajority,Predicted Supermajority Win Probability,Total Money
+0,MA,2018,State Senator,40,REP,40,0,-1,2.29,3.72,5.26,2.29,3.72,5.26,20.0,0.0,26.666666666666664,0.0,832294.02
+1,MA,2018,State Senator,40,DEM,40,0,-1,33.31,36.28,37.7,33.31,36.28,37.7,20.0,1.0,26.666666666666664,0.9994,4294236.38
+2,MA,2018,State Senator,40,IND,40,0,-1,0.0,0.0,0.53,0.0,0.0,0.53,20.0,0,26.666666666666664,0,0.0

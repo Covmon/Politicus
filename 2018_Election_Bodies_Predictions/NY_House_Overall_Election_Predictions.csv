@@ -1,0 +1,4 @@
+,State,Year,Position,Total Seats,Party,Seats Up for Election,Party Safe Seats,Predicted Vote Share,Election Lower-End Predicted Seats,Election Predicted Seats,Election Upper-End Predicted Seats,Lower-End Predicted Seats,Predicted Seats,Upper-End Predicted Seats,Seats Needed for Majority,Predicted Majority Win Probability,Seats Needed for Supermajority,Predicted Supermajority Win Probability,Total Money
+0,NY,2018,State Representative,150,REP,150,0,-1,35.86,40.75,41.2,35.86,40.75,41.2,75.0,0.0,100.0,0.0,3102313.08
+1,NY,2018,State Representative,150,DEM,150,0,-1,107.0,109.25,113.24,107.0,109.25,113.24,75.0,1.0,100.0,0.99998,11460228.19
+2,NY,2018,State Representative,150,IND,150,0,-1,0.0,0.0,0.0,0.0,0.0,0.0,75.0,0,100.0,0,0.0

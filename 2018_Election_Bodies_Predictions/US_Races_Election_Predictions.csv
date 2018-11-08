@@ -1,0 +1,4 @@
+,State,Year,Position,Total Seats,Party,Seats Up for Election,Party Safe Seats,Predicted Vote Share,Election Lower-End Predicted Seats,Election Predicted Seats,Election Upper-End Predicted Seats,Lower-End Predicted Seats,Predicted Seats,Upper-End Predicted Seats,Seats Needed for Majority,Predicted Majority Win Probability,Seats Needed for Supermajority,Predicted Supermajority Win Probability,Total Money
+0,National,2018,U.S. Representative,435,REP,435,0,-1,175.25,203.79,222.87,175.25,203.79,222.87,217.5,0.32282,290,2e-05,315506971.09
+1,National,2018,U.S. Representative,435,DEM,435,0,-1,209.74,231.21,262.14,209.74,231.21,262.14,217.5,0.67718,290,0.02865,362315955.78999996
+2,National,2018,U.S. Representative,435,IND,435,0,-1,0.0,0.0,0.0,0.0,0.0,0.0,217.5,0,290,0,391387.56
