@@ -1,61 +1,61 @@
 ,State,Year,Position,District,Candidate,Party,Actual Vote Share
-13,KS,2018,Attorney General,Statewide,Derek Larkin Schmidt,REP,
-14,KS,2018,Attorney General,Statewide,Sarah Swain,DEM,
-207,KS,2018,Governor,Statewide,Kris Kobach,REP,
-208,KS,2018,Governor,Statewide,Greg Orman,IND,
-209,KS,2018,Governor,Statewide,Laura Kelly,DEM,
-0,KS,2018,Secretary Of State,Statewide,Scott Schwab,REP,
-1,KS,2018,Secretary Of State,Statewide,Brian McClendon,DEM,
-2,KS,2018,Secretary Of State,Statewide,Rob Hodgkinson,LIB,
-15,KS,2018,State Representative,1,Michael Houser,REP,
-16,KS,2018,State Representative,10,Eileen Horn,DEM,
-17,KS,2018,State Representative,100,Dan Hawkins,REP,
-18,KS,2018,State Representative,100,Jennifer Winn,DEM,
-19,KS,2018,State Representative,101,Joe Seiwert,REP,
-20,KS,2018,State Representative,102,Jason Probst,DEM,
-21,KS,2018,State Representative,103,Ponka-We Victors,DEM,
-22,KS,2018,State Representative,104,Paul Waggoner,REP,
-23,KS,2018,State Representative,105,Brenda Landwehr,REP,
-24,KS,2018,State Representative,106,Bill Pannbacker,REP,
-25,KS,2018,State Representative,107,Bryan Bombardier,LIB,
-26,KS,2018,State Representative,107,Susan Concannon,REP,
-27,KS,2018,State Representative,108,Steven Johnson,REP,
-28,KS,2018,State Representative,109,Troy Waymaster,REP,
-29,KS,2018,State Representative,11,Jim Kelly,REP,
-30,KS,2018,State Representative,110,Ken Rahjes,REP,
-31,KS,2018,State Representative,110,Kim Thomas,DEM,
-32,KS,2018,State Representative,111,Eber Phelps,DEM,
-33,KS,2018,State Representative,111,Barbara Wasinger,REP,
-34,KS,2018,State Representative,112,Tory Arnberger,REP,
-35,KS,2018,State Representative,113,Greg Lewis,REP,
-36,KS,2018,State Representative,113,David Curtis,DEM,
-37,KS,2018,State Representative,114,Jack Thimesch,REP,
-38,KS,2018,State Representative,114,Shanna Henry,DEM,
-39,KS,2018,State Representative,115,Boyd Orr,REP,
-40,KS,2018,State Representative,116,Kyle Hoffman,REP,
-41,KS,2018,State Representative,117,Leonard Mastroni,REP,
-42,KS,2018,State Representative,118,Don Hineman,REP,
-43,KS,2018,State Representative,119,Bradley Ralph,REP,
-44,KS,2018,State Representative,12,Douglas Blex,REP,
-45,KS,2018,State Representative,120,Adam Smith,REP,
-46,KS,2018,State Representative,120,Jerry Hill,DEM,
-47,KS,2018,State Representative,121,John Resman,REP,
-48,KS,2018,State Representative,121,Nick Gill,DEM,
-49,KS,2018,State Representative,122,Russell Jennings,REP,
-50,KS,2018,State Representative,123,John Wheeler Jr.,REP,
-51,KS,2018,State Representative,123,Pedro Rodriguez,DEM,
-52,KS,2018,State Representative,124,Martin Long,REP,
-53,KS,2018,State Representative,125,Shannon Francis,REP,
-54,KS,2018,State Representative,13,Larry Paul Hibbard,REP,
-55,KS,2018,State Representative,14,Angela Schweller,DEM,
-56,KS,2018,State Representative,14,Charlotte Esau,REP,
-57,KS,2018,State Representative,15,Chris Haulmark,DEM,
-58,KS,2018,State Representative,15,John Toplikar,REP,
-59,KS,2018,State Representative,16,Cindy Holscher,DEM,
-60,KS,2018,State Representative,16,Susan Huff,REP,
-61,KS,2018,State Representative,17,Tom Cox,REP,
-62,KS,2018,State Representative,17,Laura Smith-Everett,DEM,
-63,KS,2018,State Representative,17,Michael Kerner,LIB,
+13,KS,2018,Attorney General,Statewide,Derek Larkin Schmidt,REP,0.5935
+14,KS,2018,Attorney General,Statewide,Sarah Swain,DEM,0.4065
+207,KS,2018,Governor,Statewide,Kris Kobach,REP,0.4330
+208,KS,2018,Governor,Statewide,Greg Orman,IND,0.0646
+209,KS,2018,Governor,Statewide,Laura Kelly,DEM,0.4779
+0,KS,2018,Secretary Of State,Statewide,Scott Schwab,REP,0.5294
+1,KS,2018,Secretary Of State,Statewide,Brian McClendon,DEM,0.4356
+2,KS,2018,Secretary Of State,Statewide,Rob Hodgkinson,LIB,0.0350
+15,KS,2018,State Representative,1,Michael Houser,REP,1
+16,KS,2018,State Representative,10,Eileen Horn,DEM,1
+17,KS,2018,State Representative,100,Dan Hawkins,REP,0.6059
+18,KS,2018,State Representative,100,Jennifer Winn,DEM,0.3941
+19,KS,2018,State Representative,101,Joe Seiwert,REP,1
+20,KS,2018,State Representative,102,Jason Probst,DEM,1
+21,KS,2018,State Representative,103,Ponka-We Victors,DEM,1
+22,KS,2018,State Representative,104,Paul Waggoner,REP,1
+23,KS,2018,State Representative,105,Brenda Landwehr,REP,1
+24,KS,2018,State Representative,106,Bill Pannbacker,REP,1
+25,KS,2018,State Representative,107,Bryan Bombardier,LIB,0.2336
+26,KS,2018,State Representative,107,Susan Concannon,REP,0.7664
+27,KS,2018,State Representative,108,Steven Johnson,REP,1
+28,KS,2018,State Representative,109,Troy Waymaster,REP,1
+29,KS,2018,State Representative,11,Jim Kelly,REP,1
+30,KS,2018,State Representative,110,Ken Rahjes,REP,0.7592
+31,KS,2018,State Representative,110,Kim Thomas,DEM,0.2408
+32,KS,2018,State Representative,111,Eber Phelps,DEM,0.4976
+33,KS,2018,State Representative,111,Barbara Wasinger,REP,0.5024
+34,KS,2018,State Representative,112,Tory Arnberger,REP,1
+35,KS,2018,State Representative,113,Greg Lewis,REP,0.8247
+36,KS,2018,State Representative,113,David Curtis,DEM,0.1753
+37,KS,2018,State Representative,114,Jack Thimesch,REP,0.7110
+38,KS,2018,State Representative,114,Shanna Henry,DEM,0.2890
+39,KS,2018,State Representative,115,Boyd Orr,REP,1
+40,KS,2018,State Representative,116,Kyle Hoffman,REP,1
+41,KS,2018,State Representative,117,Leonard Mastroni,REP,1
+42,KS,2018,State Representative,118,Don Hineman,REP,1
+43,KS,2018,State Representative,119,Bradley Ralph,REP,1
+44,KS,2018,State Representative,12,Douglas Blex,REP,1
+45,KS,2018,State Representative,120,Adam Smith,REP,0.8152
+46,KS,2018,State Representative,120,Jerry Hill,DEM,0.1848
+47,KS,2018,State Representative,121,John Resman,REP,0.5861
+48,KS,2018,State Representative,121,Nick Gill,DEM,0.4139
+49,KS,2018,State Representative,122,Russell Jennings,REP,1
+50,KS,2018,State Representative,123,John Wheeler Jr.,REP,0.6273
+51,KS,2018,State Representative,123,Pedro Rodriguez,DEM,0.3727
+52,KS,2018,State Representative,124,Martin Long,REP,1
+53,KS,2018,State Representative,125,Shannon Francis,REP,1
+54,KS,2018,State Representative,13,Larry Paul Hibbard,REP,1
+55,KS,2018,State Representative,14,Angela Schweller,DEM,0.4916
+56,KS,2018,State Representative,14,Charlotte Esau,REP,0.5084
+57,KS,2018,State Representative,15,Chris Haulmark,DEM,0.4830
+58,KS,2018,State Representative,15,John Toplikar,REP,0.5170
+59,KS,2018,State Representative,16,Cindy Holscher,DEM,0.5877
+60,KS,2018,State Representative,16,Susan Huff,REP,0.4123
+61,KS,2018,State Representative,17,Tom Cox,REP,0.4998
+62,KS,2018,State Representative,17,Laura Smith-Everett,DEM,0.4656
+63,KS,2018,State Representative,17,Michael Kerner,LIB,0.0346
 64,KS,2018,State Representative,18,Cindy Neighbor,DEM,
 65,KS,2018,State Representative,18,Eric Jenkins,REP,
 66,KS,2018,State Representative,19,Stephanie Sawyer Clayton,REP,
@@ -64,11 +64,11 @@
 69,KS,2018,State Representative,2,Kenneth Collins,REP,
 70,KS,2018,State Representative,20,Jan Kessinger,REP,
 71,KS,2018,State Representative,20,Becky Barber,DEM,
-72,KS,2018,State Representative,21,Jerry Stogsdill,DEM,
-73,KS,2018,State Representative,22,Nancy Lusk,DEM,
+72,KS,2018,State Representative,21,Jerry Stogsdill,DEM,1
+73,KS,2018,State Representative,22,Nancy Lusk,DEM,1
 74,KS,2018,State Representative,23,Linda Gallagher,REP,
 75,KS,2018,State Representative,23,Susan Ruiz,DEM,
-76,KS,2018,State Representative,24,Jarrod Ousley,DEM,
+76,KS,2018,State Representative,24,Jarrod Ousley,DEM,1
 77,KS,2018,State Representative,25,Melissa Rooker,REP,
 78,KS,2018,State Representative,25,Rui Xu,DEM,
 79,KS,2018,State Representative,26,Deann Mitchell,DEM,
@@ -84,15 +84,15 @@
 89,KS,2018,State Representative,3,Terry Calloway,REP,
 90,KS,2018,State Representative,30,Brandon Woodard,DEM,
 91,KS,2018,State Representative,30,Wendy Bingesser,REP,
-92,KS,2018,State Representative,31,Louis Ruiz,DEM,
-93,KS,2018,State Representative,32,Pam Curtis,DEM,
+92,KS,2018,State Representative,31,Louis Ruiz,DEM,1
+93,KS,2018,State Representative,32,Pam Curtis,DEM,1
 94,KS,2018,State Representative,33,Tom Burroughs,DEM,
 95,KS,2018,State Representative,33,Jason Conley,LIB,
-96,KS,2018,State Representative,34,Valdenia Winn,DEM,
-97,KS,2018,State Representative,35,Broderick Henderson,DEM,
+96,KS,2018,State Representative,34,Valdenia Winn,DEM,1
+97,KS,2018,State Representative,35,Broderick Henderson,DEM,1
 98,KS,2018,State Representative,36,Kathy Wolfe Moore,DEM,
 99,KS,2018,State Representative,36,Chiquita Coggs,REP,
-100,KS,2018,State Representative,37,Stan Frownfelter,DEM,
+100,KS,2018,State Representative,37,Stan Frownfelter,DEM,1
 101,KS,2018,State Representative,38,Willie Dove,REP,
 102,KS,2018,State Representative,38,Stuart Sweeney,DEM,
 103,KS,2018,State Representative,39,Michael Bolton,DEM,
@@ -107,10 +107,10 @@
 112,KS,2018,State Representative,42,Thea Perry,DEM,
 113,KS,2018,State Representative,43,Bill Sutton,REP,
 114,KS,2018,State Representative,43,Pamela Finley,DEM,
-115,KS,2018,State Representative,44,Barbara Ballard,DEM,
+115,KS,2018,State Representative,44,Barbara Ballard,DEM,1
 116,KS,2018,State Representative,45,Mike Amyx,DEM,
 117,KS,2018,State Representative,45,Cynthia Smith,REP,
-118,KS,2018,State Representative,46,Dennis Highberger,DEM,
+118,KS,2018,State Representative,46,Dennis Highberger,DEM,1
 119,KS,2018,State Representative,47,Ronald Ellis,REP,
 120,KS,2018,State Representative,47,George Hanna,DEM,
 121,KS,2018,State Representative,48,Abraham Rafie,REP,
@@ -125,42 +125,42 @@
 130,KS,2018,State Representative,51,Noah Wright,DEM,
 131,KS,2018,State Representative,52,Brenda Dietrich,REP,
 132,KS,2018,State Representative,52,Toni Scalia,DEM,
-133,KS,2018,State Representative,53,Jim Gartner,DEM,
+133,KS,2018,State Representative,53,Jim Gartner,DEM,1
 134,KS,2018,State Representative,54,Kenneth Corbet,REP,
 135,KS,2018,State Representative,54,Sarah Coats,DEM,
 136,KS,2018,State Representative,55,Annie Kuether,DEM,
 137,KS,2018,State Representative,56,Virgil Weigel,DEM,
 138,KS,2018,State Representative,56,Michael Snowden,REP,
-139,KS,2018,State Representative,57,John Alcala,DEM,
-140,KS,2018,State Representative,58,Vic Miller,DEM,
+139,KS,2018,State Representative,57,John Alcala,DEM,1
+140,KS,2018,State Representative,58,Vic Miller,DEM,1
 141,KS,2018,State Representative,59,Blaine Finch,REP,
 142,KS,2018,State Representative,59,John Hall,DEM,
-143,KS,2018,State Representative,6,Jene Vickrey,REP,
-144,KS,2018,State Representative,60,Mark Schreiber,REP,
-145,KS,2018,State Representative,61,Francis Awerkamp,REP,
+143,KS,2018,State Representative,6,Jene Vickrey,REP,1
+144,KS,2018,State Representative,60,Mark Schreiber,REP,1
+145,KS,2018,State Representative,61,Francis Awerkamp,REP,1
 146,KS,2018,State Representative,62,Randy Garber,REP,
 147,KS,2018,State Representative,62,Melvin Baker,DEM,
-148,KS,2018,State Representative,63,John Eplee,REP,
-149,KS,2018,State Representative,64,Susan Carlson,REP,
-150,KS,2018,State Representative,65,Lonnie Clark,REP,
+148,KS,2018,State Representative,63,John Eplee,REP,1
+149,KS,2018,State Representative,64,Susan Carlson,REP,1
+150,KS,2018,State Representative,65,Lonnie Clark,REP,1
 151,KS,2018,State Representative,66,Sydney Carlin,DEM,
 152,KS,2018,State Representative,66,Edgar Chambers,LIB,
 153,KS,2018,State Representative,67,Tom Phillips,REP,
 154,KS,2018,State Representative,67,Alex Van Dyke,DEM,
-155,KS,2018,State Representative,68,Dave Baker,REP,
+155,KS,2018,State Representative,68,Dave Baker,REP,1
 156,KS,2018,State Representative,69,R Claeys,REP,
 157,KS,2018,State Representative,69,Gerrett Morris,DEM,
-158,KS,2018,State Representative,7,Richard Proehl,REP,
+158,KS,2018,State Representative,7,Richard Proehl,REP,1
 159,KS,2018,State Representative,70,John Barker,REP,
 160,KS,2018,State Representative,70,Jo Schwartz,DEM,
-161,KS,2018,State Representative,71,Diana Dierks,REP,
+161,KS,2018,State Representative,71,Diana Dierks,REP,1
 162,KS,2018,State Representative,72,Tim Hodge,DEM,
 163,KS,2018,State Representative,72,Steven Kelly,REP,
-164,KS,2018,State Representative,73,Les Mason,REP,
-165,KS,2018,State Representative,74,Stephen Owens,REP,
-166,KS,2018,State Representative,75,Will Carpenter,REP,
-167,KS,2018,State Representative,76,Eric Smith,REP,
-168,KS,2018,State Representative,77,Kristey Williams,REP,
+164,KS,2018,State Representative,73,Les Mason,REP,1
+165,KS,2018,State Representative,74,Stephen Owens,REP,1
+166,KS,2018,State Representative,75,Will Carpenter,REP,1
+167,KS,2018,State Representative,76,Eric Smith,REP,1
+168,KS,2018,State Representative,77,Kristey Williams,REP,1
 169,KS,2018,State Representative,78,Ron Ryckman Jr.,REP,
 170,KS,2018,State Representative,78,Jason Darby,DEM,
 171,KS,2018,State Representative,79,Ed Trimmer,DEM,
@@ -174,25 +174,25 @@
 179,KS,2018,State Representative,82,Jesse Burris,REP,
 180,KS,2018,State Representative,83,Henry Helgerson Jr.,DEM,
 181,KS,2018,State Representative,83,David Robbins,REP,
-182,KS,2018,State Representative,84,Gail Finney,DEM,
+182,KS,2018,State Representative,84,Gail Finney,DEM,1
 183,KS,2018,State Representative,85,Monica Marks,DEM,
 184,KS,2018,State Representative,85,Michael Capps,REP,
 185,KS,2018,State Representative,86,Jim Ward,DEM,
 186,KS,2018,State Representative,86,Jim Price,REP,
-187,KS,2018,State Representative,87,Renee Erickson,REP,
-188,KS,2018,State Representative,88,Elizabeth Bishop,DEM,
-189,KS,2018,State Representative,89,Kc Ohaebosim,DEM,
-190,KS,2018,State Representative,9,Kent Thompson,REP,
-191,KS,2018,State Representative,90,Steven Huebert,REP,
+187,KS,2018,State Representative,87,Renee Erickson,REP,1
+188,KS,2018,State Representative,88,Elizabeth Bishop,DEM,1
+189,KS,2018,State Representative,89,Kc Ohaebosim,DEM,1
+190,KS,2018,State Representative,9,Kent Thompson,REP,1
+191,KS,2018,State Representative,90,Steven Huebert,REP,1
 192,KS,2018,State Representative,91,David Loomis,LIB,
 193,KS,2018,State Representative,91,Emil Bergquist,REP,
-194,KS,2018,State Representative,92,John Carmichael,DEM,
+194,KS,2018,State Representative,92,John Carmichael,DEM,1
 195,KS,2018,State Representative,93,Clifton Beck,DEM,
 196,KS,2018,State Representative,93,C Moore,REP,
 197,KS,2018,State Representative,94,Leo Delperdang,REP,
 198,KS,2018,State Representative,94,Dan Stiffler,DEM,
-199,KS,2018,State Representative,95,Tom Sawyer,DEM,
-200,KS,2018,State Representative,96,Brandon Whipple,DEM,
+199,KS,2018,State Representative,95,Tom Sawyer,DEM,1
+200,KS,2018,State Representative,96,Brandon Whipple,DEM,1
 201,KS,2018,State Representative,97,Rebecca Jenek,DEM,
 202,KS,2018,State Representative,97,Nick Hoheisel,REP,
 203,KS,2018,State Representative,98,Steven Crum,DEM,
