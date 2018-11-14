@@ -55,6 +55,7 @@ function setupNewsArticle(articleText) {
         let articleP = "<p class='article-text'>" + line + "</p>";
         $(id).append(articleP);
     }
-    
 
+    $(id).after("<input type='hidden' name='IL_IN_ARTICLE'>");
+    
 }
