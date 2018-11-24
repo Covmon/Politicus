@@ -1,0 +1,362 @@
+,0,district,name,party,position,result,state,year
+0,state,,,,,,,
+1,year,,,,,,,
+2,position,,,,,,,
+3,district,,,,,,,
+4,name,,,,,,,
+5,party,,,,,,,
+6,result,,,,,,,
+0,,1.0,Earl L. Carter,REP,U.S. Representative,0.577386579863812,Georgia,2018.0
+0,,1.0,Lisa M. Ring,DEM,U.S. Representative,0.4226134201361879,Georgia,2018.0
+1,,2.0,Herman West Jr.,REP,U.S. Representative,0.40350655187610995,Georgia,2018.0
+1,,2.0,Sanford Bishop,DEM,U.S. Representative,0.59649344812389,Georgia,2018.0
+2,,3.0,Chuck Enderlin,DEM,U.S. Representative,0.3447369678436619,Georgia,2018.0
+2,,3.0,Drew Ferguson,REP,U.S. Representative,0.6552630321563381,Georgia,2018.0
+3,,4.0,Henry C. Johnson Jr.,DEM,U.S. Representative,0.7884691959045598,Georgia,2018.0
+3,,4.0,Joe Profit,REP,U.S. Representative,0.21153080409544023,Georgia,2018.0
+4,,5.0,John R. Lewis,DEM,U.S. Representative,1.0,Georgia,2018.0
+5,,6.0,Karen Handel,REP,U.S. Representative,0.49485196237390144,Georgia,2018.0
+5,,6.0,Lucy Mcbath,DEM,U.S. Representative,0.5051480376260985,Georgia,2018.0
+6,,7.0,Carolyn Bourdeaux,DEM,U.S. Representative,0.49925296229866534,Georgia,2018.0
+6,,7.0,Rob Woodall,REP,U.S. Representative,0.5007470377013347,Georgia,2018.0
+7,,8.0,Austin Scott,REP,U.S. Representative,1.0,Georgia,2018.0
+8,,9.0,Doug Collins,REP,U.S. Representative,0.7950547292204139,Georgia,2018.0
+8,,9.0,Josh Mccall,DEM,U.S. Representative,0.20494527077958616,Georgia,2018.0
+9,,10.0,Jody Hice,REP,U.S. Representative,0.6289196822303335,Georgia,2018.0
+9,,10.0,Tabitha A. Johnson-Green,DEM,U.S. Representative,0.37108031776966655,Georgia,2018.0
+10,,11.0,Barry Loudermilk,REP,U.S. Representative,0.6179139563341276,Georgia,2018.0
+10,,11.0,Flynn D. Broady Jr.,DEM,U.S. Representative,0.38208604366587234,Georgia,2018.0
+11,,12.0,Francys Johnson,DEM,U.S. Representative,0.4052193908714554,Georgia,2018.0
+11,,12.0,Rick W. Allen,REP,U.S. Representative,0.5947806091285446,Georgia,2018.0
+12,,13.0,David Callahan,REP,U.S. Representative,0.2381562012447212,Georgia,2018.0
+12,,13.0,David Scott,DEM,U.S. Representative,0.7618437987552787,Georgia,2018.0
+13,,14.0,Steven Lamar Foster,DEM,U.S. Representative,0.23498197837404886,Georgia,2018.0
+13,,14.0,Tom Graves,REP,U.S. Representative,0.7650180216259511,Georgia,2018.0
+0,,1.0,Ben Watson,REP,State Senator,0.6082157127662633,Georgia,2018.0
+0,,1.0,Sandra Workman,DEM,State Senator,0.39178428723373676,Georgia,2018.0
+1,,2.0,Lester G. Jackson III,DEM,State Senator,1.0,Georgia,2018.0
+2,,3.0,Jerrold Dagen,DEM,State Senator,0.3210055362430797,Georgia,2018.0
+2,,3.0,William T. Ligon Jr.,REP,State Senator,0.6789944637569203,Georgia,2018.0
+3,,4.0,Jack Hill,REP,State Senator,1.0,Georgia,2018.0
+4,,5.0,Sheikh Rahman,DEM,State Senator,1.0,Georgia,2018.0
+5,,6.0,Jen Jordan,DEM,State Senator,0.5842138207310966,Georgia,2018.0
+5,,6.0,Leah Aldridge,REP,State Senator,0.4157861792689034,Georgia,2018.0
+6,,7.0,Tyler Harper,REP,State Senator,1.0,Georgia,2018.0
+0,,8.0,Ellis Black,REP,State Senator,0.9486923398522785,Georgia,2018.0
+1,,8.0,E. Black,REP,State Senator,0.051307660147721465,Georgia,2018.0
+8,,9.0,Cheryle R. Moses,DEM,State Senator,0.48067360685854255,Georgia,2018.0
+8,,9.0,P. K. Martin IV,REP,State Senator,0.5193263931414575,Georgia,2018.0
+9,,10.0,Emanuel Jones,DEM,State Senator,1.0,Georgia,2018.0
+10,,11.0,Dean Burke,REP,State Senator,1.0,Georgia,2018.0
+11,,12.0,Freddie Powell Sims,DEM,State Senator,1.0,Georgia,2018.0
+12,,13.0,Greg Kirk,REP,State Senator,1.0,Georgia,2018.0
+13,,14.0,Bruce Thompson,REP,State Senator,0.7104475494715937,Georgia,2018.0
+13,,14.0,Rachel A. Kinsey,DEM,State Senator,0.2895524505284063,Georgia,2018.0
+14,,15.0,Ed Harbison,DEM,State Senator,1.0,Georgia,2018.0
+15,,16.0,Bill Lightle,DEM,State Senator,0.31845142776617685,Georgia,2018.0
+0,,16.0,Marty Harbin,REP,State Senator,0.4909491538451684,Georgia,2018.0
+1,,16.0,M. Harbin,REP,State Senator,0.19059941838865474,Georgia,2018.0
+16,,17.0,Brian Strickland,REP,State Senator,0.5446755223807302,Georgia,2018.0
+16,,17.0,Phyllis D. Hatcher,DEM,State Senator,0.45532447761926975,Georgia,2018.0
+17,,18.0,John F. Kennedy,REP,State Senator,1.0,Georgia,2018.0
+18,,19.0,Blake Tillery,REP,State Senator,1.0,Georgia,2018.0
+19,,20.0,Larry Walker,REP,State Senator,1.0,Georgia,2018.0
+20,,21.0,Brandon Beach,REP,State Senator,0.7038362586473044,Georgia,2018.0
+20,,21.0,Nicole B. Nash,DEM,State Senator,0.2961637413526957,Georgia,2018.0
+21,,22.0,Harold V. Jones II,DEM,State Senator,1.0,Georgia,2018.0
+22,,23.0,Jesse Stone,REP,State Senator,1.0,Georgia,2018.0
+23,,24.0,Lee Anderson,REP,State Senator,1.0,Georgia,2018.0
+24,,25.0,Burt Jones,REP,State Senator,1.0,Georgia,2018.0
+25,,26.0,David E. Lucas Sr.,DEM,State Senator,1.0,Georgia,2018.0
+26,,27.0,Greg Dolezal,REP,State Senator,0.7263710041017407,Georgia,2018.0
+26,,27.0,Steve Smith,DEM,State Senator,0.27362899589825923,Georgia,2018.0
+27,,28.0,Matt Brass,REP,State Senator,1.0,Georgia,2018.0
+28,,29.0,Randy Robertson,REP,State Senator,0.6299260908027281,Georgia,2018.0
+28,,29.0,Valerie Haskins,DEM,State Senator,0.3700739091972719,Georgia,2018.0
+29,,30.0,Michael Dugan,REP,State Senator,1.0,Georgia,2018.0
+30,,31.0,Bill Heath,REP,State Senator,1.0,Georgia,2018.0
+31,,32.0,Christine Triebsch,DEM,State Senator,0.42631133488139933,Georgia,2018.0
+31,,32.0,Kay Kirkpatrick,REP,State Senator,0.5736886651186006,Georgia,2018.0
+32,,33.0,Michael Rhett,DEM,State Senator,1.0,Georgia,2018.0
+33,,34.0,Tommy Smith,REP,State Senator,0.1714034184342973,Georgia,2018.0
+33,,34.0,Valencia Seay,DEM,State Senator,0.8285965815657027,Georgia,2018.0
+34,,35.0,Donzella James,DEM,State Senator,1.0,Georgia,2018.0
+35,,36.0,Nan Orrock,DEM,State Senator,1.0,Georgia,2018.0
+36,,37.0,Andy Clark,DEM,State Senator,0.4108579903236002,Georgia,2018.0
+36,,37.0,Lindsey Tippins,REP,State Senator,0.5891420096763998,Georgia,2018.0
+37,,38.0,Horacena Tate,DEM,State Senator,0.8284885654609071,Georgia,2018.0
+37,,38.0,Travis Klavohn,REP,State Senator,0.17151143453909296,Georgia,2018.0
+38,,39.0,Nikema Williams,DEM,State Senator,1.0,Georgia,2018.0
+39,,40.0,Fran Millar,REP,State Senator,0.4524452525468595,Georgia,2018.0
+39,,40.0,Sally Harrell,DEM,State Senator,0.5475547474531405,Georgia,2018.0
+40,,41.0,Steve Henson,DEM,State Senator,1.0,Georgia,2018.0
+41,,42.0,Elena Parent,DEM,State Senator,1.0,Georgia,2018.0
+42,,43.0,Tonya P. Anderson,DEM,State Senator,1.0,Georgia,2018.0
+43,,44.0,Gail Davenport,DEM,State Senator,1.0,Georgia,2018.0
+44,,45.0,Jana Rodgers,DEM,State Senator,0.41960707269155206,Georgia,2018.0
+44,,45.0,Renee S. Unterman,REP,State Senator,0.5803929273084479,Georgia,2018.0
+45,,46.0,Bill Cowsert,REP,State Senator,0.6037793278376664,Georgia,2018.0
+45,,46.0,Marisue Hilliard,DEM,State Senator,0.39622067216233353,Georgia,2018.0
+46,,47.0,Dawn Johnson,DEM,State Senator,0.3353505300557497,Georgia,2018.0
+46,,47.0,Frank Ginn,REP,State Senator,0.6646494699442502,Georgia,2018.0
+47,,48.0,Matt Reeves,REP,State Senator,0.46424792139077853,Georgia,2018.0
+47,,48.0,Zahra Karinshak,DEM,State Senator,0.5357520786092215,Georgia,2018.0
+48,,49.0,Cecil T. Miller,REP,State Senator,1.0,Georgia,2018.0
+49,,50.0,John K. Wilkinson,REP,State Senator,1.0,Georgia,2018.0
+50,,51.0,Steve Gooch,REP,State Senator,1.0,Georgia,2018.0
+51,,52.0,Chuck Hufstetler,REP,State Senator,0.7577843563862039,Georgia,2018.0
+51,,52.0,Evan Ross,DEM,State Senator,0.24221564361379605,Georgia,2018.0
+52,,53.0,Jeff Mullis,REP,State Senator,1.0,Georgia,2018.0
+53,,54.0,Chuck Payne,REP,State Senator,0.796530349380132,Georgia,2018.0
+53,,54.0,Michael S. Morgan,DEM,State Senator,0.20346965061986796,Georgia,2018.0
+54,,55.0,Annette Davis Jackson,REP,State Senator,0.18442137619995463,Georgia,2018.0
+54,,55.0,Gloria S. Butler,DEM,State Senator,0.8155786238000453,Georgia,2018.0
+55,,56.0,Ellyn Jeager,DEM,State Senator,0.47510529482551145,Georgia,2018.0
+55,,56.0,John Albers,REP,State Senator,0.5248947051744886,Georgia,2018.0
+0,,1.0,Colton Moore,REP,State Representative,1.0,Georgia,2018.0
+1,,2.0,Steve Tarvin,REP,State Representative,1.0,Georgia,2018.0
+2,,3.0,Dewayne Hill,REP,State Representative,1.0,Georgia,2018.0
+3,,4.0,Kasey Carpenter,REP,State Representative,1.0,Georgia,2018.0
+4,,5.0,Brian Rosser,DEM,State Representative,0.18436177603739026,Georgia,2018.0
+4,,5.0,John Meadows,REP,State Representative,0.8156382239626098,Georgia,2018.0
+5,,6.0,Jason T. Ridley,REP,State Representative,1.0,Georgia,2018.0
+6,,7.0,David Ralston,REP,State Representative,0.8434333319982377,Georgia,2018.0
+6,,7.0,Rick D. Day,DEM,State Representative,0.15656666800176233,Georgia,2018.0
+7,,8.0,Matt Gurtler,REP,State Representative,1.0,Georgia,2018.0
+8,,9.0,Kevin Tanner,REP,State Representative,1.0,Georgia,2018.0
+9,,10.0,Terry Rogers,REP,State Representative,1.0,Georgia,2018.0
+10,,11.0,Lee A. Shiver,DEM,State Representative,0.14051341439876472,Georgia,2018.0
+10,,11.0,Rick Jasperse,REP,State Representative,0.8594865856012353,Georgia,2018.0
+11,,12.0,Eddie Lumsden,REP,State Representative,1.0,Georgia,2018.0
+12,,13.0,John Burnette II,DEM,State Representative,0.3344287647399961,Georgia,2018.0
+12,,13.0,Katie Dempsey,REP,State Representative,0.6655712352600038,Georgia,2018.0
+14,,15.0,Matthew Gambill,REP,State Representative,1.0,Georgia,2018.0
+15,,16.0,Trey Kelley,REP,State Representative,1.0,Georgia,2018.0
+16,,17.0,Martin Momtahan,REP,State Representative,0.7320390857044466,Georgia,2018.0
+16,,17.0,Ralph Meers,DEM,State Representative,0.26796091429555335,Georgia,2018.0
+17,,18.0,Kevin Cooke,REP,State Representative,0.7421225382932166,Georgia,2018.0
+17,,18.0,Pat Rhudy,DEM,State Representative,0.2578774617067834,Georgia,2018.0
+18,,19.0,Alison Feliciano,DEM,State Representative,0.37379274340903157,Georgia,2018.0
+18,,19.0,Joseph Gullett,REP,State Representative,0.6262072565909684,Georgia,2018.0
+19,,20.0,Lillian Burnaman,DEM,State Representative,0.3008973858759266,Georgia,2018.0
+19,,20.0,Michael Caldwell,REP,State Representative,0.6991026141240734,Georgia,2018.0
+20,,21.0,Melanie Whitfield,DEM,State Representative,0.252954991722173,Georgia,2018.0
+20,,21.0,Scot Turner,REP,State Representative,0.7470450082778269,Georgia,2018.0
+21,,22.0,Charles Ravenscraft,DEM,State Representative,0.24108583541620526,Georgia,2018.0
+21,,22.0,Wes Cantrell,REP,State Representative,0.7589141645837947,Georgia,2018.0
+22,,23.0,Adam Wynn,DEM,State Representative,0.25147331200538814,Georgia,2018.0
+22,,23.0,Mandi Ballinger,REP,State Representative,0.7485266879946119,Georgia,2018.0
+23,,24.0,Sheri Smallwood Gilligan,REP,State Representative,1.0,Georgia,2018.0
+24,,25.0,Anita Holcomb Tucker,DEM,State Representative,0.3601587358335419,Georgia,2018.0
+24,,25.0,Todd Jones,REP,State Representative,0.6398412641664581,Georgia,2018.0
+25,,26.0,Marc Morris,REP,State Representative,1.0,Georgia,2018.0
+26,,27.0,Lee Hawkins,REP,State Representative,1.0,Georgia,2018.0
+28,,29.0,Matt Dubnik,REP,State Representative,0.67918732109195,Georgia,2018.0
+28,,29.0,Nancy Stead,IND,State Representative,0.32081267890805,Georgia,2018.0
+29,,30.0,Alana Watkins,DEM,State Representative,0.2717589774802191,Georgia,2018.0
+29,,30.0,Emory Dunahoo Jr.,REP,State Representative,0.7282410225197808,Georgia,2018.0
+30,,31.0,Tommy Benton,REP,State Representative,1.0,Georgia,2018.0
+31,,32.0,Alan Powell,REP,State Representative,1.0,Georgia,2018.0
+32,,33.0,Tom Mccall,REP,State Representative,1.0,Georgia,2018.0
+33,,34.0,Bert Reeves,REP,State Representative,0.5767123869378742,Georgia,2018.0
+33,,34.0,Matt Southwell,DEM,State Representative,0.42328761306212576,Georgia,2018.0
+34,,35.0,Ed Setzler,REP,State Representative,0.5230401487317958,Georgia,2018.0
+34,,35.0,Salvatore Castellana,DEM,State Representative,0.47695985126820417,Georgia,2018.0
+35,,36.0,Ginny Ehrhart,REP,State Representative,0.6582064857710126,Georgia,2018.0
+35,,36.0,Jen Slipakoff,DEM,State Representative,0.3417935142289874,Georgia,2018.0
+36,,37.0,Mary Frances Williams,DEM,State Representative,0.5036524089008994,Georgia,2018.0
+36,,37.0,Sam Teasley,REP,State Representative,0.4963475910991006,Georgia,2018.0
+37,,38.0,David Wilkerson,DEM,State Representative,1.0,Georgia,2018.0
+38,,39.0,Erica Thomas,DEM,State Representative,0.8323476343223737,Georgia,2018.0
+38,,39.0,James Morrow Jr.,REP,State Representative,0.1676523656776263,Georgia,2018.0
+39,,40.0,Erick E. Allen,DEM,State Representative,0.5467858633644079,Georgia,2018.0
+39,,40.0,Matt Bentley,REP,State Representative,0.45321413663559207,Georgia,2018.0
+40,,41.0,Deanna Harris,REP,State Representative,0.29387211904905935,Georgia,2018.0
+40,,41.0,Michael Smith,DEM,State Representative,0.7061278809509407,Georgia,2018.0
+41,,42.0,Teri Anulewicz,DEM,State Representative,1.0,Georgia,2018.0
+42,,43.0,Luisa Wakeman,DEM,State Representative,0.48444130127298446,Georgia,2018.0
+42,,43.0,Sharon Cooper,REP,State Representative,0.5155586987270155,Georgia,2018.0
+43,,44.0,Chinita Allen,DEM,State Representative,0.44631134729603,Georgia,2018.0
+43,,44.0,Don L. Parsons,REP,State Representative,0.5536886527039699,Georgia,2018.0
+44,,45.0,Essence Johnson,DEM,State Representative,0.4072305117835727,Georgia,2018.0
+44,,45.0,Matt Dollar,REP,State Representative,0.5927694882164273,Georgia,2018.0
+45,,46.0,John Carson,REP,State Representative,0.6181560785701645,Georgia,2018.0
+45,,46.0,KarÍN Sandiford,DEM,State Representative,0.3818439214298354,Georgia,2018.0
+46,,47.0,Andrea Nugent,DEM,State Representative,0.3835773017219129,Georgia,2018.0
+46,,47.0,Jan Jones,REP,State Representative,0.616422698278087,Georgia,2018.0
+47,,48.0,Betty Price,REP,State Representative,0.4965992563707264,Georgia,2018.0
+47,,48.0,Mary Robichaux,DEM,State Representative,0.5034007436292736,Georgia,2018.0
+48,,49.0,Charles E. Martin,REP,State Representative,0.5419884562230713,Georgia,2018.0
+48,,49.0,Krishan A. Bralley,DEM,State Representative,0.4580115437769287,Georgia,2018.0
+49,,50.0,Angelika Kausche,DEM,State Representative,0.5072997743287432,Georgia,2018.0
+49,,50.0,Kelly Stewart,REP,State Representative,0.4927002256712569,Georgia,2018.0
+50,,51.0,Alex B. Kaufman,REP,State Representative,0.4842785414437402,Georgia,2018.0
+50,,51.0,Josh Mclaurin,DEM,State Representative,0.5157214585562597,Georgia,2018.0
+51,,52.0,Deborah Silcox,REP,State Representative,0.5227866040128292,Georgia,2018.0
+51,,52.0,Shea Roberts,DEM,State Representative,0.4772133959871709,Georgia,2018.0
+52,,53.0,Sheila Jones,DEM,State Representative,1.0,Georgia,2018.0
+53,,54.0,Beth Beskin,REP,State Representative,0.4828537374425336,Georgia,2018.0
+53,,54.0,Betsy Holland,DEM,State Representative,0.5171462625574663,Georgia,2018.0
+54,,55.0,Marie R. Metze,DEM,State Representative,1.0,Georgia,2018.0
+55,,56.0,Mable Thomas,DEM,State Representative,1.0,Georgia,2018.0
+56,,57.0,Pat Gardner,DEM,State Representative,1.0,Georgia,2018.0
+57,,58.0,Park Cannon,DEM,State Representative,1.0,Georgia,2018.0
+58,,59.0,David Dreyer,DEM,State Representative,1.0,Georgia,2018.0
+59,,60.0,Kim Schofield,DEM,State Representative,1.0,Georgia,2018.0
+60,,61.0,Roger Bruce,DEM,State Representative,1.0,Georgia,2018.0
+61,,62.0,William K. Boddie Jr.,DEM,State Representative,1.0,Georgia,2018.0
+62,,63.0,Debra Bazemore,DEM,State Representative,1.0,Georgia,2018.0
+63,,64.0,Derrick L. Jackson,DEM,State Representative,1.0,Georgia,2018.0
+64,,65.0,Sharon Beasley-Teague,DEM,State Representative,1.0,Georgia,2018.0
+65,,66.0,Kimberly Alexander,DEM,State Representative,1.0,Georgia,2018.0
+66,,67.0,Micah Gravley,REP,State Representative,1.0,Georgia,2018.0
+67,,68.0,J. Collins,REP,State Representative,1.0,Georgia,2018.0
+68,,69.0,Randy Nix,REP,State Representative,1.0,Georgia,2018.0
+69,,70.0,Lynn Smith,REP,State Representative,1.0,Georgia,2018.0
+70,,71.0,David Stover,REP,State Representative,0.7442827442827443,Georgia,2018.0
+70,,71.0,Tom Thomason,DEM,State Representative,0.25571725571725573,Georgia,2018.0
+71,,72.0,Josh Bonner,REP,State Representative,1.0,Georgia,2018.0
+72,,73.0,Karen Mathiak,REP,State Representative,1.0,Georgia,2018.0
+73,,74.0,Valencia Stovall,DEM,State Representative,1.0,Georgia,2018.0
+74,,75.0,Mike Glanton,DEM,State Representative,1.0,Georgia,2018.0
+75,,76.0,Sandra Givens Scott,DEM,State Representative,1.0,Georgia,2018.0
+76,,77.0,Rhonda Burnough,DEM,State Representative,1.0,Georgia,2018.0
+77,,78.0,Demetrius Douglas,DEM,State Representative,1.0,Georgia,2018.0
+78,,79.0,Ken Wright,REP,State Representative,0.46168491194669203,Georgia,2018.0
+78,,79.0,Michael S. Wilensky,DEM,State Representative,0.538315088053308,Georgia,2018.0
+79,,80.0,Matthew Wilson,DEM,State Representative,0.5248049401260066,Georgia,2018.0
+79,,80.0,Meagan Hanson,REP,State Representative,0.4751950598739934,Georgia,2018.0
+80,,81.0,Ellen Diehl,REP,State Representative,0.35911101031863024,Georgia,2018.0
+80,,81.0,Scott Holcomb,DEM,State Representative,0.6408889896813698,Georgia,2018.0
+81,,82.0,Mary Margaret Oliver,DEM,State Representative,1.0,Georgia,2018.0
+82,,83.0,Becky Evans,DEM,State Representative,1.0,Georgia,2018.0
+83,,84.0,Renitta Shannon,DEM,State Representative,1.0,Georgia,2018.0
+84,,85.0,Karla Drenner,DEM,State Representative,1.0,Georgia,2018.0
+85,,86.0,Michele Henson,DEM,State Representative,1.0,Georgia,2018.0
+86,,87.0,Viola Davis,DEM,State Representative,1.0,Georgia,2018.0
+87,,88.0,Billy Mitchell,DEM,State Representative,1.0,Georgia,2018.0
+88,,89.0,Bee Nguyen,DEM,State Representative,1.0,Georgia,2018.0
+89,,90.0,Pam Stephenson,DEM,State Representative,0.7991946512688042,Georgia,2018.0
+89,,90.0,Takosha Swan,REP,State Representative,0.20080534873119588,Georgia,2018.0
+90,,91.0,Vernon Jones,DEM,State Representative,1.0,Georgia,2018.0
+91,,92.0,Doreen Carter,DEM,State Representative,1.0,Georgia,2018.0
+92,,93.0,Darshun Kendrick,DEM,State Representative,1.0,Georgia,2018.0
+93,,94.0,Karen Bennett,DEM,State Representative,1.0,Georgia,2018.0
+94,,95.0,Beth Moore,DEM,State Representative,0.5139956675020176,Georgia,2018.0
+94,,95.0,Scott Hilton,REP,State Representative,0.4860043324979824,Georgia,2018.0
+95,,96.0,Pedro Marin,DEM,State Representative,1.0,Georgia,2018.0
+96,,97.0,Aisha Yaqoob,DEM,State Representative,0.4413633737723859,Georgia,2018.0
+96,,97.0,Bonnie Rich,REP,State Representative,0.5586366262276141,Georgia,2018.0
+97,,98.0,David Clark,REP,State Representative,1.0,Georgia,2018.0
+98,,99.0,Brenda Lopez Romero,DEM,State Representative,1.0,Georgia,2018.0
+99,,100.0,Dewey L. Mcclain,DEM,State Representative,1.0,Georgia,2018.0
+100,,101.0,Sam Park,DEM,State Representative,0.5880632248794005,Georgia,2018.0
+100,,101.0,Valerie Clark,REP,State Representative,0.4119367751205994,Georgia,2018.0
+101,,102.0,Gregg Kennard,DEM,State Representative,0.5141404358353511,Georgia,2018.0
+101,,102.0,Paula Hastings,REP,State Representative,0.4858595641646489,Georgia,2018.0
+102,,103.0,Timothy Barr,REP,State Representative,1.0,Georgia,2018.0
+103,,104.0,Andrea Stephenson,DEM,State Representative,0.46632124352331605,Georgia,2018.0
+103,,104.0,Chuck Efstration,REP,State Representative,0.533678756476684,Georgia,2018.0
+104,,105.0,Donna Mcleod,DEM,State Representative,0.5836964045767336,Georgia,2018.0
+104,,105.0,Donna Sheldon,REP,State Representative,0.4163035954232664,Georgia,2018.0
+105,,106.0,Brett Harrell,REP,State Representative,1.0,Georgia,2018.0
+106,,107.0,Janet Mihoci,REP,State Representative,0.4120847922778461,Georgia,2018.0
+106,,107.0,Shelly Hutchinson,DEM,State Representative,0.5879152077221539,Georgia,2018.0
+107,,108.0,Clay Cox,REP,State Representative,0.4931972789115646,Georgia,2018.0
+107,,108.0,Jasmine Clark,DEM,State Representative,0.5068027210884354,Georgia,2018.0
+108,,109.0,Dale Rutledge,REP,State Representative,0.5154006398333457,Georgia,2018.0
+108,,109.0,Regina Lewis-Ward,DEM,State Representative,0.4845993601666543,Georgia,2018.0
+109,,110.0,Andy Welch,REP,State Representative,1.0,Georgia,2018.0
+110,,111.0,El-Mahdi Holly,DEM,State Representative,0.5658651149747617,Georgia,2018.0
+110,,111.0,Geoff Cauble,REP,State Representative,0.43413488502523834,Georgia,2018.0
+111,,112.0,Dave Belton,REP,State Representative,1.0,Georgia,2018.0
+112,,113.0,Pam Dickerson,DEM,State Representative,1.0,Georgia,2018.0
+113,,114.0,Tom Kirby,REP,State Representative,1.0,Georgia,2018.0
+114,,115.0,Bruce Williamson,REP,State Representative,1.0,Georgia,2018.0
+115,,116.0,Terry England,REP,State Representative,1.0,Georgia,2018.0
+116,,117.0,Deborah Gonzalez,DEM,State Representative,0.46448620942152796,Georgia,2018.0
+116,,117.0,Houston Gaines,REP,State Representative,0.535513790578472,Georgia,2018.0
+117,,118.0,Spencer Frye,DEM,State Representative,1.0,Georgia,2018.0
+118,,119.0,Jonathan Wallace,DEM,State Representative,0.4721551553532555,Georgia,2018.0
+118,,119.0,Marcus A. Wiedower,REP,State Representative,0.5278448446467445,Georgia,2018.0
+119,,120.0,Charles Hogg,DEM,State Representative,0.316119748990767,Georgia,2018.0
+119,,120.0,Trey Rhodes,REP,State Representative,0.683880251009233,Georgia,2018.0
+120,,121.0,Barry Fleming,REP,State Representative,1.0,Georgia,2018.0
+121,,122.0,Jodi Lott,REP,State Representative,1.0,Georgia,2018.0
+122,,123.0,Mark Newton,REP,State Representative,0.6685835729466183,Georgia,2018.0
+122,,123.0,Scott Richard,DEM,State Representative,0.33141642705338165,Georgia,2018.0
+123,,124.0,Henry Howard,DEM,State Representative,1.0,Georgia,2018.0
+124,,125.0,Sheila Clark Nelson,DEM,State Representative,1.0,Georgia,2018.0
+125,,126.0,Gloria Frazier,DEM,State Representative,0.6953099376844867,Georgia,2018.0
+125,,126.0,William Harris,REP,State Representative,0.30469006231551327,Georgia,2018.0
+126,,127.0,Brian L. Prince,DEM,State Representative,1.0,Georgia,2018.0
+127,,128.0,Jackson Williams,REP,State Representative,0.42986866406730967,Georgia,2018.0
+127,,128.0,Mack Jackson,DEM,State Representative,0.5701313359326904,Georgia,2018.0
+128,,129.0,Susan Holmes,REP,State Representative,1.0,Georgia,2018.0
+129,,130.0,David Knight,REP,State Representative,1.0,Georgia,2018.0
+130,,131.0,Chris Benton,DEM,State Representative,0.26250395337279175,Georgia,2018.0
+130,,131.0,Ken Pullin,REP,State Representative,0.7374960466272082,Georgia,2018.0
+131,,132.0,Bob Trammell Jr.,DEM,State Representative,0.5219557952746673,Georgia,2018.0
+131,,132.0,Leonard Gomez,REP,State Representative,0.4780442047253327,Georgia,2018.0
+132,,133.0,Vance Smith,REP,State Representative,1.0,Georgia,2018.0
+133,,134.0,Richard H. Smith,REP,State Representative,1.0,Georgia,2018.0
+134,,135.0,Calvin Smyre,DEM,State Representative,1.0,Georgia,2018.0
+135,,136.0,Carolyn Hugley,DEM,State Representative,1.0,Georgia,2018.0
+136,,137.0,Debbie G. Buckner,DEM,State Representative,1.0,Georgia,2018.0
+137,,138.0,Bardin Hooks,DEM,State Representative,0.4820523220442101,Georgia,2018.0
+137,,138.0,Mike Cheokas,REP,State Representative,0.5179476779557899,Georgia,2018.0
+138,,139.0,Patty Bentley,DEM,State Representative,1.0,Georgia,2018.0
+139,,140.0,Robert Dickey,REP,State Representative,1.0,Georgia,2018.0
+140,,141.0,Dale Washburn,REP,State Representative,1.0,Georgia,2018.0
+141,,142.0,Miriam Paris,DEM,State Representative,1.0,Georgia,2018.0
+142,,143.0,James Beverly,DEM,State Representative,1.0,Georgia,2018.0
+143,,144.0,Danny Mathis,REP,State Representative,0.6538037486218302,Georgia,2018.0
+143,,144.0,Jessica Walden,DEM,State Representative,0.3461962513781698,Georgia,2018.0
+144,,145.0,Ricky A. Williams,REP,State Representative,1.0,Georgia,2018.0
+145,,146.0,Shaw Blackmon,REP,State Representative,1.0,Georgia,2018.0
+146,,147.0,Fenika Miller,DEM,State Representative,0.4585338865836791,Georgia,2018.0
+146,,147.0,Heath Clark,REP,State Representative,0.5414661134163209,Georgia,2018.0
+147,,148.0,Joshua Deriso,DEM,State Representative,0.3054762949956102,Georgia,2018.0
+147,,148.0,Noel Williams Jr.,REP,State Representative,0.6945237050043899,Georgia,2018.0
+148,,149.0,Jimmy Pruett,REP,State Representative,1.0,Georgia,2018.0
+149,,150.0,Matt Hatchett,REP,State Representative,1.0,Georgia,2018.0
+150,,151.0,Gerald Greene,REP,State Representative,0.5353144922443652,Georgia,2018.0
+150,,151.0,Joyce Barlow,DEM,State Representative,0.4646855077556348,Georgia,2018.0
+151,,152.0,Ed Rynders,REP,State Representative,0.740409949537802,Georgia,2018.0
+151,,152.0,Marcus Batten,DEM,State Representative,0.259590050462198,Georgia,2018.0
+152,,153.0,Camia Whitaker Hopson,DEM,State Representative,0.6547492992837123,Georgia,2018.0
+152,,153.0,Tracy Taylor,REP,State Representative,0.3452507007162878,Georgia,2018.0
+153,,154.0,Winfred Dukes,DEM,State Representative,1.0,Georgia,2018.0
+154,,155.0,Clay Pirkle,REP,State Representative,1.0,Georgia,2018.0
+155,,156.0,Greg Morris,REP,State Representative,1.0,Georgia,2018.0
+156,,157.0,William Werkheiser,REP,State Representative,1.0,Georgia,2018.0
+157,,158.0,Butch Parrish,REP,State Representative,1.0,Georgia,2018.0
+158,,159.0,Jon G. Burns,REP,State Representative,1.0,Georgia,2018.0
+159,,160.0,Jan Tankersley,REP,State Representative,1.0,Georgia,2018.0
+160,,161.0,Adam Bridges,DEM,State Representative,0.3655436509553102,Georgia,2018.0
+160,,161.0,Bill Hitchens,REP,State Representative,0.6344563490446897,Georgia,2018.0
+161,,162.0,Carl Wayne Gilliard,DEM,State Representative,1.0,Georgia,2018.0
+162,,163.0,J. Craig Gordon,DEM,State Representative,1.0,Georgia,2018.0
+163,,164.0,Alicia Scott,DEM,State Representative,0.47541076167353624,Georgia,2018.0
+163,,164.0,Ron Stephens,REP,State Representative,0.5245892383264638,Georgia,2018.0
+164,,165.0,Mickey Stephens,DEM,State Representative,1.0,Georgia,2018.0
+165,,166.0,Jesse Petrea,REP,State Representative,1.0,Georgia,2018.0
+166,,167.0,Cedric Z. King,DEM,State Representative,0.3211966836479872,Georgia,2018.0
+166,,167.0,Jeff Jones,REP,State Representative,0.6788033163520127,Georgia,2018.0
+167,,168.0,Al Williams,DEM,State Representative,1.0,Georgia,2018.0
+168,,169.0,Dominic Lariccia,REP,State Representative,1.0,Georgia,2018.0
+169,,170.0,Penny Houston,REP,State Representative,1.0,Georgia,2018.0
+170,,171.0,Jay Powell,REP,State Representative,1.0,Georgia,2018.0
+171,,172.0,Sam Watson,REP,State Representative,1.0,Georgia,2018.0
+172,,173.0,Darlene Taylor,REP,State Representative,0.6102167508417509,Georgia,2018.0
+172,,173.0,Twitty Titus,DEM,State Representative,0.38978324915824913,Georgia,2018.0
+173,,174.0,John Corbett,REP,State Representative,1.0,Georgia,2018.0
+174,,175.0,John Lahood,REP,State Representative,0.7151088348271447,Georgia,2018.0
+174,,175.0,Treva Gear,DEM,State Representative,0.2848911651728553,Georgia,2018.0
+175,,176.0,Jason Shaw,REP,State Representative,1.0,Georgia,2018.0
+176,,177.0,Dexter L. Sharper,DEM,State Representative,1.0,Georgia,2018.0
+177,,178.0,Greg Odriscoll,DEM,State Representative,0.10572950641443792,Georgia,2018.0
+177,,178.0,Steven Meeks,REP,State Representative,0.8942704935855621,Georgia,2018.0
+178,,179.0,Don Hogan,REP,State Representative,0.5775749063670412,Georgia,2018.0
+178,,179.0,Julie Jordan,DEM,State Representative,0.4224250936329588,Georgia,2018.0
+179,,180.0,Steven Sainz,REP,State Representative,1.0,Georgia,2018.0
