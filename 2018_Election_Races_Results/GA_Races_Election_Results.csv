@@ -1,14 +1,14 @@
 ,State,Year,Position,District,Candidate,Party,Actual Vote Share
-31,GA,2018,Attorney General,Statewide,Christopher Carr,REP,
-32,GA,2018,Attorney General,Statewide,Charlie Curtis Bailey,DEM,
-283,GA,2018,Governor,Statewide,Stacey Yvonne Abrams,DEM,
-284,GA,2018,Governor,Statewide,Brian Kemp,REP,
-285,GA,2018,Governor,Statewide,Larry Odom,IND,
-367,GA,2018,Lieutenant Governor,Statewide,Sarah Lynn Riggs Amico,DEM,
-368,GA,2018,Lieutenant Governor,Statewide,Geoffrey Duncan,REP,
-0,GA,2018,Secretary Of State,Statewide,Bradford Jay Raffensperger,REP,
-1,GA,2018,Secretary Of State,Statewide,John Jenkins Barrow,DEM,
-2,GA,2018,Secretary Of State,Statewide,Smythe Duval,LIB,
+31,GA,2018,Attorney General,Statewide,Christopher Carr,REP,51.30
+32,GA,2018,Attorney General,Statewide,Charlie Curtis Bailey,DEM,48.70
+283,GA,2018,Governor,Statewide,Stacey Yvonne Abrams,DEM,50.22
+284,GA,2018,Governor,Statewide,Brian Kemp,REP,48.83
+285,GA,2018,Governor,Statewide,Larry Odom,IND,0
+367,GA,2018,Lieutenant Governor,Statewide,Sarah Lynn Riggs Amico,DEM,51.63
+368,GA,2018,Lieutenant Governor,Statewide,Geoffrey Duncan,REP,48.37
+0,GA,2018,Secretary Of State,Statewide,Bradford Jay Raffensperger,REP,49.09
+1,GA,2018,Secretary Of State,Statewide,John Jenkins Barrow,DEM,48.67
+2,GA,2018,Secretary Of State,Statewide,Smythe Duval,LIB,2.23
 33,GA,2018,State Representative,1,Colton Moore,REP,
 34,GA,2018,State Representative,10,Terry Rogers,REP,
 35,GA,2018,State Representative,100,Dewey McClain,DEM,
@@ -137,10 +137,10 @@
 158,GA,2018,State Representative,19,Joseph Gullett,REP,
 159,GA,2018,State Representative,19,Alison Feliciano,DEM,
 160,GA,2018,State Representative,2,Steve Stephen Tarvin,REP,
-161,GA,2018,State Representative,20,Michael Caldwell,REP,
-162,GA,2018,State Representative,20,Lillian Burnaman,DEM,
-163,GA,2018,State Representative,21,Scot Turner,REP,
-164,GA,2018,State Representative,21,Melanie Whitfield,DEM,
+161,GA,2018,State Representative,20,Michael Caldwell,REP,69.91
+162,GA,2018,State Representative,20,Lillian Burnaman,DEM,30.09
+163,GA,2018,State Representative,21,Scot Turner,REP,74.70
+164,GA,2018,State Representative,21,Melanie Whitfield,DEM,25.30
 165,GA,2018,State Representative,22,Wes Cantrell,REP,
 166,GA,2018,State Representative,22,Charles Ravenscraft,DEM,
 167,GA,2018,State Representative,23,Mandi Ballinger,REP,
@@ -301,13 +301,13 @@
 326,GA,2018,State Senator,36,Nan Grogan Orrock,DEM,
 327,GA,2018,State Senator,37,Lindsey Tippins,REP,
 328,GA,2018,State Senator,37,Andy Clark,DEM,
-329,GA,2018,State Senator,38,Horacena Tate,DEM,
-330,GA,2018,State Senator,38,Travis Klavohn,REP,
+329,GA,2018,State Senator,38,Horacena Tate,DEM,82.85
+330,GA,2018,State Senator,38,Travis Klavohn,REP,17.15
 331,GA,2018,State Senator,39,Nikema Williams,DEM,
 332,GA,2018,State Senator,4,Jack Hill,REP,
-333,GA,2018,State Senator,40,Sally Harrell,DEM,
-334,GA,2018,State Senator,40,Francis Millar,REP,
-335,GA,2018,State Senator,41,Steve Bradley Henson,DEM,
+333,GA,2018,State Senator,40,Sally Harrell,DEM,54.76
+334,GA,2018,State Senator,40,Francis Millar,REP,45.24
+335,GA,2018,State Senator,41,Steve Bradley Henson,DEM,100
 336,GA,2018,State Senator,42,Elena Parent,DEM,
 337,GA,2018,State Senator,43,Tonya Anderson,DEM,
 338,GA,2018,State Senator,44,Gail Paulette Davenport,DEM,
@@ -339,10 +339,10 @@
 364,GA,2018,State Senator,8,Ellis Black,REP,
 365,GA,2018,State Senator,9,K Martin IV,REP,
 366,GA,2018,State Senator,9,Cheryle Moses,DEM,
-3,GA,2018,Superintendent Of Public Instruction,Statewide,Otha Edward Thornton Jr.,DEM,
-4,GA,2018,Superintendent Of Public Instruction,Statewide,Richard Woods,REP,
-5,GA,2018,U.S. Representative,1,Buddy Leroy Carter,REP,
-6,GA,2018,U.S. Representative,1,Lisa Ring,DEM,
+3,GA,2018,Superintendent Of Public Instruction,Statewide,Otha Edward Thornton Jr.,DEM,46.98
+4,GA,2018,Superintendent Of Public Instruction,Statewide,Richard Woods,REP,53.02
+5,GA,2018,U.S. Representative,1,Buddy Leroy Carter,REP,57.74
+6,GA,2018,U.S. Representative,1,Lisa Ring,DEM,42.26
 7,GA,2018,U.S. Representative,10,Jody Brownlow Hice,REP,
 8,GA,2018,U.S. Representative,10,Tabitha Johnson-Green,DEM,
 9,GA,2018,U.S. Representative,11,Barry Loudermilk,REP,
@@ -353,17 +353,17 @@
 14,GA,2018,U.S. Representative,13,David Callahan,REP,
 15,GA,2018,U.S. Representative,14,Tom Thomas Graves Jr.,REP,
 16,GA,2018,U.S. Representative,14,Steven Lamar Foster,DEM,
-17,GA,2018,U.S. Representative,2,Sanford Bishop Jr.,DEM,
-18,GA,2018,U.S. Representative,2,Herman West Jr.,REP,
-19,GA,2018,U.S. Representative,3,Drew Ferguson IV,REP,
-20,GA,2018,U.S. Representative,3,Charles Joseph Enderlin Jr.,DEM,
-21,GA,2018,U.S. Representative,4,Hank Johnson,DEM,
-22,GA,2018,U.S. Representative,4,Joe Profit,REP,
-23,GA,2018,U.S. Representative,5,John Lewis,DEM,
-24,GA,2018,U.S. Representative,6,Lucy McBath,DEM,
-25,GA,2018,U.S. Representative,6,Karen Christine Handel,REP,
-26,GA,2018,U.S. Representative,7,Carolyn Bourdeaux,DEM,
-27,GA,2018,U.S. Representative,7,Rob Robert Woodall,REP,
-28,GA,2018,U.S. Representative,8,Austin Austin Scott,REP,
-29,GA,2018,U.S. Representative,9,Doug Collins,REP,
-30,GA,2018,U.S. Representative,9,Joshua Braxton McCall,DEM,
+17,GA,2018,U.S. Representative,2,Sanford Bishop Jr.,DEM,59.65
+18,GA,2018,U.S. Representative,2,Herman West Jr.,REP,40.35
+19,GA,2018,U.S. Representative,3,Drew Ferguson IV,REP,65.53
+20,GA,2018,U.S. Representative,3,Charles Joseph Enderlin Jr.,DEM,34.47
+21,GA,2018,U.S. Representative,4,Hank Johnson,DEM,78.85
+22,GA,2018,U.S. Representative,4,Joe Profit,REP,21.15
+23,GA,2018,U.S. Representative,5,John Lewis,DEM,100
+24,GA,2018,U.S. Representative,6,Lucy McBath,DEM,50.51
+25,GA,2018,U.S. Representative,6,Karen Christine Handel,REP,49.49
+26,GA,2018,U.S. Representative,7,Carolyn Bourdeaux,DEM,49.93
+27,GA,2018,U.S. Representative,7,Rob Robert Woodall,REP,50.07
+28,GA,2018,U.S. Representative,8,Austin Austin Scott,REP,100
+29,GA,2018,U.S. Representative,9,Doug Collins,REP,79.51
+30,GA,2018,U.S. Representative,9,Joshua Braxton McCall,DEM,20.49
