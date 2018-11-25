@@ -1,4 +1,4 @@
-,State,Year,Position,Total Seats,Party,Seats Up for Election,Party Safe Seats,Predicted Vote Share,Election Lower-End Predicted Seats,Election Predicted Seats,Election Upper-End Predicted Seats,Lower-End Predicted Seats,Predicted Seats,Upper-End Predicted Seats,Seats Needed for Majority,Predicted Majority Win Probability,Seats Needed for Supermajority,Predicted Supermajority Win Probability,Total Money
-0,GA,2018,State Representative,180,REP,180,0,-1,104.6,113.07,115.01,104.6,113.07,115.01,90.0,0.98282,120.0,0.00018,8551511.79
-1,GA,2018,State Representative,180,DEM,180,0,-1,63.19,66.93,71.8,63.19,66.93,71.8,90.0,0.01718,120.0,0.0,2819172.4299999997
-2,GA,2018,State Representative,180,IND,180,0,-1,0.0,0.0,0.0,0.0,0.0,0.0,90.0,0,120.0,0,0.0
+State,Year,Position,Total Seats,Party,Seats Up for Election,Party Safe Seats,Predicted Vote Share,Election Lower-End Predicted Seats,Election Predicted Seats,Election Upper-End Predicted Seats,Lower-End Predicted Seats,Predicted Seats,Upper-End Predicted Seats,Seats Needed for Majority,Predicted Majority Win Probability,Seats Needed for Supermajority,Predicted Supermajority Win Probability,Total Money
+GA,2018,State Representative,180,REP,180,0,-1,104.6,113.07,115.01,104.6,113.07,115.01,90.0,0.98282,120.0,0.00018,8551511.79
+GA,2018,State Representative,180,DEM,180,0,-1,63.19,66.93,71.8,63.19,66.93,71.8,90.0,0.01718,120.0,0.0,2819172.4299999997
+GA,2018,State Representative,180,IND,180,0,-1,0.0,0.0,0.0,0.0,0.0,0.0,90.0,0,120.0,0,0.0

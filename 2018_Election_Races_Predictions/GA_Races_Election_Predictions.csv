@@ -1,369 +1,369 @@
-,State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability
-31,GA,2018,Attorney General,Statewide,Christopher Carr,REP,0.523689267504062,82.44,1368730.56,Yes,,
-32,GA,2018,Attorney General,Statewide,Charlie Curtis Bailey,DEM,0.476310732495938,17.56,433522.33,No,,
-283,GA,2018,Governor,Statewide,Stacey Yvonne Abrams,DEM,0.47585216636173355,26.37,6089768.65,No,,
-284,GA,2018,Governor,Statewide,Brian Kemp,REP,0.5079768943547069,73.63,5187877.54,No,,
-285,GA,2018,Governor,Statewide,Larry Odom,IND,0.016170939283559487,< 0.01,0.0,No,,
-367,GA,2018,Lieutenant Governor,Statewide,Sarah Lynn Riggs Amico,DEM,0.47839897318050123,19.77,1032075.65,No,,
-368,GA,2018,Lieutenant Governor,Statewide,Geoffrey Duncan,REP,0.5216010268194988,80.23,1026336.64,No,,
-0,GA,2018,Secretary Of State,Statewide,Bradford Jay Raffensperger,REP,0.5135313996264529,79.12,1736355.8,No,,
-1,GA,2018,Secretary Of State,Statewide,John Jenkins Barrow,DEM,0.4723347895642843,20.88,884372.36,No,,
-2,GA,2018,Secretary Of State,Statewide,Smythe Duval,LIB,0.014133810809262709,< 0.01,0.0,No,,
-33,GA,2018,State Representative,1,Colton Moore,REP,1.0,100.00,7356.85,No,100.00,100.00
-34,GA,2018,State Representative,10,Terry Rogers,REP,1.0,100.00,61096.16,Yes,100.00,100.00
-35,GA,2018,State Representative,100,Dewey McClain,DEM,1.0,100.00,16953.0,Yes,100.00,100.00
-36,GA,2018,State Representative,101,Samuel Park,DEM,0.6112815270484656,99.99,59079.85,Yes,99.99,99.87
-37,GA,2018,State Representative,101,Valerie Clark,REP,0.38871847295153444,0.01,8350.0,No,0.13,0.01
-38,GA,2018,State Representative,102,Paula Hastings,REP,0.5355375529283388,91.90,38557.14,No,99.7,51.65
-39,GA,2018,State Representative,102,Gregg Kennard,DEM,0.4644624470716612,8.1,630.0,No,48.35,0.3
-40,GA,2018,State Representative,103,Timothy Barr,REP,1.0,100.00,14850.0,Yes,100.00,100.00
-41,GA,2018,State Representative,104,Chuck Efstration,REP,0.5275849967335687,86.11,128332.32,Yes,99.27,39.29
-42,GA,2018,State Representative,104,Andrea Stephenson,DEM,0.4724150032664312,13.89,5474.0,No,60.71,0.73
-43,GA,2018,State Representative,105,Donna Sheldon,REP,0.5018068939574093,52.83,54030.58,No,92.33,9.92
-44,GA,2018,State Representative,105,Donna McLeod,DEM,0.4981931060425907,47.17,27052.23,No,90.08,7.67
-45,GA,2018,State Representative,106,Brett Harrell,REP,1.0,100.00,315538.27,Yes,100.00,100.00
-46,GA,2018,State Representative,107,Shelly Hutchinson,DEM,0.5240388798002364,82.79,83518.37,No,98.93,34.04
-47,GA,2018,State Representative,107,Janet Mihoci,REP,0.47596112019976355,17.21,14208.77,No,65.96,1.07
-48,GA,2018,State Representative,108,Clay Cox,REP,0.5595355892238425,99.04,59500.0,Yes,99.98,83.78
-49,GA,2018,State Representative,108,Jasmine Clark,DEM,0.44046441077615756,0.96,13692.07,No,16.22,0.02
-50,GA,2018,State Representative,109,Dale Rutledge,REP,0.5603153734985021,99.11,73659.0,Yes,99.99,84.53
-51,GA,2018,State Representative,109,Regina Lewis-Ward,DEM,0.4396846265014979,0.89,13383.0,No,15.47,0.01
-52,GA,2018,State Representative,11,Rick Jasperse,REP,0.7557089170298674,> 99.99,37150.0,Yes,> 99.99,> 99.99
-53,GA,2018,State Representative,11,Lee Shiver,DEM,0.24429108297013263,< 0.01,2652.85,No,< 0.01,< 0.01
-54,GA,2018,State Representative,110,Andy Welch III,REP,1.0,100.00,55325.0,Yes,100.00,100.00
-55,GA,2018,State Representative,111,Geoff Cauble,REP,0.511747501177411,67.80,36250.0,Yes,96.55,18.54
-56,GA,2018,State Representative,111,El-Mahdi Holly,DEM,0.48825249882258903,32.2,8025.0,No,81.46,3.45
-57,GA,2018,State Representative,112,Dave Belton,REP,1.0,100.00,16117.0,Yes,100.00,100.00
-58,GA,2018,State Representative,113,Pamela Dickerson,DEM,1.0,100.00,36434.2,Yes,100.00,100.00
-59,GA,2018,State Representative,114,Tom Thomas Kirby,REP,1.0,100.00,15450.0,Yes,100.00,100.00
-60,GA,2018,State Representative,115,Bruce Brewster Williamson III,REP,1.0,100.00,139175.47,Yes,100.00,100.00
-61,GA,2018,State Representative,116,Terry Lamar England,REP,1.0,100.00,154101.0,Yes,100.00,100.00
-62,GA,2018,State Representative,117,Houston Gaines,REP,0.48590300548605636,28.96,85525.0,No,78.89,2.8
-63,GA,2018,State Representative,117,Deborah Gonzalez,DEM,0.5140969945139438,71.04,37510.7,Yes,97.2,21.11
-64,GA,2018,State Representative,118,Spencer Frye,DEM,1.0,100.00,21825.0,Yes,100.00,100.00
-65,GA,2018,State Representative,119,Jonathan Wallace,DEM,0.522754928216635,81.47,32904.54,Yes,98.78,32.21
-66,GA,2018,State Representative,119,Marcus Wiedower,REP,0.47724507178336506,18.53,30250.0,No,67.79,1.22
-67,GA,2018,State Representative,12,James Eddie Lumsden,REP,1.0,100.00,33415.0,Yes,100.00,100.00
-68,GA,2018,State Representative,120,Trey Rhodes,REP,0.6460614646663262,99.99,72126.85,Yes,99.99,99.99
-69,GA,2018,State Representative,120,Chuck Hogg,DEM,0.35393853533367386,0.01,8850.0,No,0.01,0.01
-70,GA,2018,State Representative,121,Barry Fleming,REP,1.0,100.00,87344.38,Yes,100.00,100.00
-71,GA,2018,State Representative,122,Jodi Lott,REP,1.0,100.00,43650.0,Yes,100.00,100.00
-72,GA,2018,State Representative,123,Mark Newton,REP,0.6542037893459295,99.99,35920.0,Yes,99.99,99.99
-73,GA,2018,State Representative,123,Scott Richard,DEM,0.34579621065407046,0.01,0.0,No,0.01,0.01
-74,GA,2018,State Representative,124,Wayne Howard,DEM,1.0,100.00,0.0,Yes,100.00,100.00
-75,GA,2018,State Representative,125,Sheila Clark Nelson,DEM,1.0,100.00,8910.0,Yes,100.00,100.00
-76,GA,2018,State Representative,126,Gloria Frazier,DEM,0.7263698656875557,> 99.99,13625.0,Yes,> 99.99,99.99
-77,GA,2018,State Representative,126,William Harris,REP,0.27363013431244426,< 0.01,100.0,No,0.01,< 0.01
-78,GA,2018,State Representative,127,Brian Prince,DEM,1.0,100.00,32625.0,Yes,100.00,100.00
-79,GA,2018,State Representative,128,Willie Mack Jackson Sr.,DEM,0.6336798561758427,99.99,13325.0,Yes,99.99,99.99
-80,GA,2018,State Representative,128,Jackson Williams,REP,0.3663201438241573,0.01,1126.0,No,0.01,0.01
-81,GA,2018,State Representative,129,Susan Holmes,REP,1.0,100.00,24039.0,Yes,100.00,100.00
-82,GA,2018,State Representative,13,Katie Dempsey,REP,0.6577263288452329,99.99,45307.0,Yes,99.99,99.99
-83,GA,2018,State Representative,13,John Burnette II,DEM,0.34227367115476715,0.01,3320.0,No,0.01,0.01
-84,GA,2018,State Representative,130,David Knight,REP,1.0,100.00,100575.0,Yes,100.00,100.00
-85,GA,2018,State Representative,131,Ken Pullin,REP,0.704283183084714,99.99,46184.1,No,> 99.99,99.99
-86,GA,2018,State Representative,131,Chris Benton,DEM,0.29571681691528595,0.01,1685.18,No,0.01,< 0.01
-87,GA,2018,State Representative,132,Bob Trammell Jr.,DEM,0.6197963416599729,99.99,135395.0,Yes,99.99,99.96
-88,GA,2018,State Representative,132,Leonard Gomez,REP,0.38020365834002706,0.01,1600.0,No,0.04,0.01
-89,GA,2018,State Representative,133,Vance Smith,REP,1.0,100.00,120123.0,No,100.00,100.00
-90,GA,2018,State Representative,134,Richard Smith,REP,1.0,100.00,161150.0,Yes,100.00,100.00
-91,GA,2018,State Representative,135,Calvin Smyre,DEM,1.0,100.00,88165.0,Yes,100.00,100.00
-92,GA,2018,State Representative,136,Carolyn Hugley,DEM,1.0,100.00,40892.0,Yes,100.00,100.00
-93,GA,2018,State Representative,137,Debbie Gignilliat Buckner,DEM,1.0,100.00,14800.0,Yes,100.00,100.00
-94,GA,2018,State Representative,138,Michael Cheokas,REP,0.42978807020249865,0.29,26347.0,No,7.99,0.01
-95,GA,2018,State Representative,138,Bardin Hooks,DEM,0.5702119297975013,99.71,25047.0,No,99.99,92.01
-96,GA,2018,State Representative,139,Patty Bentley,DEM,1.0,100.00,7700.0,Yes,100.00,100.00
-97,GA,2018,State Representative,14,Christian Coomer,REP,1.0,100.00,153887.09,Yes,100.00,100.00
-98,GA,2018,State Representative,140,Robert Dickey III,REP,1.0,100.00,72460.0,Yes,100.00,100.00
-99,GA,2018,State Representative,141,Dale Washburn,REP,1.0,100.00,88925.0,No,100.00,100.00
-100,GA,2018,State Representative,142,Miriam Lucas Paris,DEM,1.0,100.00,21835.0,Yes,100.00,100.00
-101,GA,2018,State Representative,143,James Beverly,DEM,1.0,100.00,11300.0,Yes,100.00,100.00
-102,GA,2018,State Representative,144,Jessica Walden,DEM,0.4017508792224728,0.01,69637.0,No,0.61,0.01
-103,GA,2018,State Representative,144,Danny Mathis,REP,0.5982491207775271,99.99,9989.0,No,99.99,99.39
-104,GA,2018,State Representative,145,Ricky Williams,REP,1.0,100.00,22945.0,Yes,100.00,100.00
-105,GA,2018,State Representative,146,Shaw Blackmon,REP,1.0,100.00,70090.0,Yes,100.00,100.00
-106,GA,2018,State Representative,147,Heath Clark,REP,0.5743716493888049,99.82,20950.0,Yes,99.99,94.17
-107,GA,2018,State Representative,147,Fenika Miller,DEM,0.42562835061119514,0.18,2593.53,No,5.83,0.01
-108,GA,2018,State Representative,148,Noel Williams Jr.,REP,0.6647016499589616,99.99,32720.0,No,99.99,99.99
-109,GA,2018,State Representative,148,Joshua Deriso,DEM,0.3352983500410384,0.01,3417.0,No,0.01,0.01
-110,GA,2018,State Representative,149,Jimmy Pruett Jr.,REP,1.0,100.00,13600.0,Yes,100.00,100.00
-111,GA,2018,State Representative,15,Matthew Gambill,REP,1.0,100.00,79639.0,No,100.00,100.00
-112,GA,2018,State Representative,150,Matt Matthew Hatchett,REP,1.0,100.00,144460.0,Yes,100.00,100.00
-113,GA,2018,State Representative,151,Gerald Greene,REP,0.5580577962624282,98.88,21275.0,Yes,99.98,82.32
-114,GA,2018,State Representative,151,Joyce Barlow,DEM,0.44194220373757176,1.12,13445.55,No,17.68,0.02
-115,GA,2018,State Representative,152,Eugene Ed Rynders,REP,0.6950736829853881,99.99,46685.0,Yes,> 99.99,99.99
-116,GA,2018,State Representative,152,Marcus Batten,DEM,0.3049263170146119,0.01,0.0,No,0.01,< 0.01
-117,GA,2018,State Representative,153,Camia Whitaker Hopson,DEM,0.7145932784987659,> 99.99,0.0,No,> 99.99,99.99
-118,GA,2018,State Representative,153,Tracy Taylor,REP,0.28540672150123414,< 0.01,0.0,No,0.01,< 0.01
-119,GA,2018,State Representative,154,Winfred Dukes,DEM,1.0,100.00,17250.0,Yes,100.00,100.00
-120,GA,2018,State Representative,155,Clay Pirkle,REP,1.0,100.00,10400.0,Yes,100.00,100.00
-121,GA,2018,State Representative,156,Greg Morris,REP,1.0,100.00,84550.0,Yes,100.00,100.00
-122,GA,2018,State Representative,157,Bill Werkheiser,REP,1.0,100.00,125185.0,Yes,100.00,100.00
-123,GA,2018,State Representative,158,Butch Parrish,REP,1.0,100.00,50600.0,Yes,100.00,100.00
-124,GA,2018,State Representative,159,Jon Burns,REP,1.0,100.00,222859.07,Yes,100.00,100.00
-125,GA,2018,State Representative,16,Trey Kelley,REP,1.0,100.00,97420.0,Yes,100.00,100.00
-126,GA,2018,State Representative,160,Jan Tankersley,REP,1.0,100.00,58335.0,Yes,100.00,100.00
-127,GA,2018,State Representative,161,Bill Hitchens Jr.,REP,0.639723975872505,99.99,29690.0,Yes,99.99,99.99
-128,GA,2018,State Representative,161,Adam Bridges,DEM,0.36027602412749504,0.01,1200.0,No,0.01,0.01
-129,GA,2018,State Representative,162,Carl Gilliard,DEM,1.0,100.00,21000.0,Yes,100.00,100.00
-130,GA,2018,State Representative,163,Craig Gordon,DEM,1.0,100.00,5500.0,Yes,100.00,100.00
-131,GA,2018,State Representative,164,Ron Stephens,REP,0.5739617310503474,99.81,70634.0,Yes,99.99,93.98
-132,GA,2018,State Representative,164,Aer Scott,DEM,0.4260382689496526,0.19,11883.8,No,6.02,0.01
-133,GA,2018,State Representative,165,Mickey Stephens,DEM,1.0,100.00,8900.0,Yes,100.00,100.00
-134,GA,2018,State Representative,166,Jesse Petrea,REP,1.0,100.00,74260.0,Yes,100.00,100.00
-135,GA,2018,State Representative,167,Jeff Jones,REP,0.673691821103574,99.99,22507.52,Yes,99.99,99.99
-136,GA,2018,State Representative,167,Cedric King,DEM,0.3263081788964261,0.01,4150.0,No,0.01,0.01
-137,GA,2018,State Representative,168,Al Williams,DEM,1.0,100.00,16000.0,Yes,100.00,100.00
-138,GA,2018,State Representative,169,Dominic Lariccia,REP,1.0,100.00,107965.0,Yes,100.00,100.00
-139,GA,2018,State Representative,17,Martin Momtahan,REP,0.6795924045137163,99.99,64140.0,No,> 99.99,99.99
-140,GA,2018,State Representative,17,Ralph Meers,DEM,0.3204075954862837,0.01,9266.75,No,0.01,< 0.01
-141,GA,2018,State Representative,170,Penny Penelope Houston,REP,1.0,100.00,28725.0,Yes,100.00,100.00
-142,GA,2018,State Representative,171,Jay Powell Jr.,REP,1.0,100.00,105350.0,Yes,100.00,100.00
-143,GA,2018,State Representative,172,Sam Watson,REP,1.0,100.00,23550.0,Yes,100.00,100.00
-144,GA,2018,State Representative,173,Darlene Taylor,REP,0.5842490970992057,99.95,27000.0,Yes,99.99,97.49
-145,GA,2018,State Representative,173,Twitty Titus,DEM,0.41575090290079425,0.05,23666.48,No,2.51,0.01
-146,GA,2018,State Representative,174,John Corbett,REP,1.0,100.00,21550.0,Yes,100.00,100.00
-147,GA,2018,State Representative,175,John Lahood,REP,0.6238518571670396,99.99,94560.0,Yes,99.99,99.97
-148,GA,2018,State Representative,175,Treva Gear,DEM,0.37614814283296044,0.01,7893.36,No,0.03,0.01
-149,GA,2018,State Representative,176,Jason Slaton Shaw Jr.,REP,1.0,100.00,72450.0,Yes,100.00,100.00
-150,GA,2018,State Representative,177,Dexter Sharper,DEM,1.0,100.00,3100.0,Yes,100.00,100.00
-151,GA,2018,State Representative,178,Steven Meeks,REP,0.7675697885336388,> 99.99,88829.0,No,> 99.99,> 99.99
-152,GA,2018,State Representative,178,Greg Odriscoll,DEM,0.23243021146636123,< 0.01,1107.46,No,< 0.01,< 0.01
-153,GA,2018,State Representative,179,Julie Jordan,DEM,0.39803563980312034,0.01,23061.55,No,0.4,0.01
-154,GA,2018,State Representative,179,Don Hogan,REP,0.6019643601968796,99.99,8650.0,Yes,99.99,99.6
-155,GA,2018,State Representative,18,Kevin Cooke,REP,0.6914323446662991,99.99,5300.0,Yes,> 99.99,99.99
-156,GA,2018,State Representative,18,Pat Rhudy,DEM,0.3085676553337009,0.01,0.0,No,0.01,< 0.01
-157,GA,2018,State Representative,180,Steven Sainz,REP,1.0,100.00,47054.4,No,100.00,100.00
-158,GA,2018,State Representative,19,Joseph Gullett,REP,0.6399723098534528,99.99,38056.42,No,99.99,99.99
-159,GA,2018,State Representative,19,Alison Feliciano,DEM,0.36002769014654723,0.01,0.0,No,0.01,0.01
-160,GA,2018,State Representative,2,Steve Stephen Tarvin,REP,1.0,100.00,6750.0,Yes,100.00,100.00
-161,GA,2018,State Representative,20,Michael Caldwell,REP,0.6746902171633693,99.99,7694.53,Yes,99.99,99.99
-162,GA,2018,State Representative,20,Lillian Burnaman,DEM,0.32530978283663065,0.01,1338.01,No,0.01,0.01
-163,GA,2018,State Representative,21,Scot Turner,REP,0.690951216477779,99.99,6718.0,Yes,> 99.99,99.99
-164,GA,2018,State Representative,21,Melanie Whitfield,DEM,0.3090487835222209,0.01,4048.97,No,0.01,< 0.01
-165,GA,2018,State Representative,22,Wes Cantrell,REP,0.7265567428908173,> 99.99,4797.0,Yes,> 99.99,99.99
-166,GA,2018,State Representative,22,Charles Ravenscraft,DEM,0.27344325710918266,< 0.01,3015.95,No,0.01,< 0.01
-167,GA,2018,State Representative,23,Mandi Ballinger,REP,0.691017627005825,99.99,17925.0,Yes,> 99.99,99.99
-168,GA,2018,State Representative,23,Adam Wynn,DEM,0.3089823729941749,0.01,4594.14,No,0.01,< 0.01
-169,GA,2018,State Representative,24,Sheri Smallwood Gilligan,REP,1.0,100.00,20195.0,Yes,100.00,100.00
-170,GA,2018,State Representative,25,Robert Todd Jones,REP,0.7030777965948843,99.99,43900.18,Yes,> 99.99,99.99
-171,GA,2018,State Representative,25,Anita Holcomb Tucker,DEM,0.29692220340511566,0.01,2172.0,No,0.01,< 0.01
-172,GA,2018,State Representative,26,Marc Morris,REP,1.0,100.00,4850.0,Yes,100.00,100.00
-173,GA,2018,State Representative,27,Lee Hawkins Jr.,REP,1.0,100.00,97525.0,Yes,100.00,100.00
-174,GA,2018,State Representative,28,Chris Erwin,REP,1.0,100.00,62785.0,No,100.00,100.00
-175,GA,2018,State Representative,29,Matt Dubnik,REP,0.8586221239200927,> 99.99,51650.18,Yes,> 99.99,> 99.99
-176,GA,2018,State Representative,29,Nancy Stead,IND,0.14137787607990723,< 0.01,0.0,No,< 0.01,< 0.01
-177,GA,2018,State Representative,3,Dewayne Hill,REP,1.0,100.00,21163.9,Yes,100.00,100.00
-178,GA,2018,State Representative,30,Emory Dunahoo Jr.,REP,0.6942475080076693,99.99,96100.48,Yes,> 99.99,99.99
-179,GA,2018,State Representative,30,Alana Watkins,DEM,0.30575249199233073,0.01,2255.59,No,0.01,< 0.01
-180,GA,2018,State Representative,31,Tommy Benton Sr.,REP,1.0,100.00,36297.0,Yes,100.00,100.00
-181,GA,2018,State Representative,32,Alan Powell,REP,1.0,100.00,87200.0,Yes,100.00,100.00
-182,GA,2018,State Representative,33,Thomas McCall,REP,1.0,100.00,38550.0,Yes,100.00,100.00
-183,GA,2018,State Representative,34,Bert Reeves,REP,0.5891459122941929,99.97,54176.0,Yes,99.99,98.42
-184,GA,2018,State Representative,34,Matt Southwell,DEM,0.41085408770580717,0.03,2509.35,No,1.58,0.01
-185,GA,2018,State Representative,35,Ed Edwin Setzler,REP,0.5555608006341762,98.56,20309.5,Yes,99.98,79.65
-186,GA,2018,State Representative,35,Salvatore Castellana,DEM,0.4444391993658237,1.44,1425.0,No,20.35,0.02
-187,GA,2018,State Representative,36,Ginny Ehrhart,REP,0.6063079708649407,99.99,96100.0,No,99.99,99.76
-188,GA,2018,State Representative,36,Jen Slipakoff,DEM,0.39369202913505924,0.01,92549.91,No,0.24,0.01
-189,GA,2018,State Representative,37,Sam Teasley,REP,0.5226879600195892,81.40,61025.0,Yes,98.77,32.12
-190,GA,2018,State Representative,37,Mary Frances Williams,DEM,0.4773120399804109,18.6,48795.98,No,67.88,1.23
-191,GA,2018,State Representative,38,David Wilkerson,DEM,1.0,100.00,13800.0,Yes,100.00,100.00
-192,GA,2018,State Representative,39,Erica Renee Thomas,DEM,0.7961459779926515,> 99.99,6951.0,Yes,> 99.99,> 99.99
-193,GA,2018,State Representative,39,W) Morrow Jr.,REP,0.20385402200734853,< 0.01,0.0,No,< 0.01,< 0.01
-194,GA,2018,State Representative,4,Kasey Carpenter,REP,1.0,100.00,2750.0,Yes,100.00,100.00
-195,GA,2018,State Representative,40,Matt Bentley,REP,0.487050254227976,30.52,95660.74,No,80.17,3.1
-196,GA,2018,State Representative,40,Erick Allen,DEM,0.512949745772024,69.48,46933.18,No,96.9,19.83
-197,GA,2018,State Representative,41,Deanna Harris,REP,0.32754570149142914,0.01,20036.12,No,0.01,0.01
-198,GA,2018,State Representative,41,Michael Smith,DEM,0.6724542985085709,99.99,2825.0,Yes,99.99,99.99
-199,GA,2018,State Representative,42,Teri Anulewicz,DEM,1.0,100.00,5636.71,Yes,100.00,100.00
-200,GA,2018,State Representative,43,Sharon Cooper,REP,0.5352396964743878,91.72,138034.32,Yes,99.69,51.18
-201,GA,2018,State Representative,43,Luisa Wakeman,DEM,0.46476030352561215,8.28,56358.36,No,48.82,0.31
-202,GA,2018,State Representative,44,Don Parsons,REP,0.5857289402877339,99.96,54200.0,Yes,99.99,97.81
-203,GA,2018,State Representative,44,Chinita Allen,DEM,0.414271059712266,0.04,10767.0,No,2.19,0.01
-204,GA,2018,State Representative,45,Matt Dollar,REP,0.6271331646694804,99.99,34038.0,Yes,99.99,99.98
-205,GA,2018,State Representative,45,Essence Johnson,DEM,0.3728668353305196,0.01,25133.9,No,0.02,0.01
-206,GA,2018,State Representative,46,John Carson,REP,0.6352844944328385,99.99,86143.9,Yes,99.99,99.99
-207,GA,2018,State Representative,46,Karen Sandiford,DEM,0.3647155055671615,0.01,33679.32,No,0.01,0.01
-208,GA,2018,State Representative,47,Jan Jones,REP,0.6744958721299981,99.99,182301.0,Yes,99.99,99.99
-209,GA,2018,State Representative,47,Andrea Nugent,DEM,0.32550412787000194,0.01,1355.0,No,0.01,0.01
-210,GA,2018,State Representative,48,Betty Price,REP,0.5590185629584488,98.99,96867.0,Yes,99.98,83.28
-211,GA,2018,State Representative,48,Mary Robichaux,DEM,0.4409814370415512,1.01,63225.18,No,16.72,0.02
-212,GA,2018,State Representative,49,Charles Martin Jr.,REP,0.6046738252681492,99.99,30700.0,Yes,99.99,99.71
-213,GA,2018,State Representative,49,Krishan Bralley,DEM,0.39532617473185083,0.01,17097.0,No,0.29,0.01
-214,GA,2018,State Representative,5,John Meadows,REP,0.7467382752090548,> 99.99,141599.0,Yes,> 99.99,> 99.99
-215,GA,2018,State Representative,5,Brian Rosser,DEM,0.2532617247909453,< 0.01,785.0,No,< 0.01,< 0.01
-216,GA,2018,State Representative,50,Kelly Leigh Stewart,REP,0.5539460496861424,98.31,188540.0,No,99.97,77.81
-217,GA,2018,State Representative,50,Angelika Kausche,DEM,0.4460539503138577,1.69,58200.88,No,22.19,0.03
-218,GA,2018,State Representative,51,Alex Kaufman,REP,0.5088080720957774,63.55,156711.91,No,95.57,15.61
-219,GA,2018,State Representative,51,Josh McLaurin,DEM,0.49119192790422256,36.45,61158.51,No,84.39,4.43
-220,GA,2018,State Representative,52,Deborah Silcox,REP,0.5658074167058916,99.51,200587.77,Yes,99.99,89.11
-221,GA,2018,State Representative,52,Shea Roberts,DEM,0.43419258329410837,0.49,43347.95,No,10.89,0.01
-222,GA,2018,State Representative,53,Sheila Jones,DEM,1.0,100.00,10141.98,Yes,100.00,100.00
-223,GA,2018,State Representative,54,Beth Beskin,REP,0.5494013413171729,97.40,72917.0,Yes,99.95,72.14
-224,GA,2018,State Representative,54,Betsy Holland,DEM,0.45059865868282717,2.6,45608.0,No,27.86,0.05
-225,GA,2018,State Representative,55,Marie Robinson Metze,DEM,1.0,100.00,600.0,Yes,100.00,100.00
-226,GA,2018,State Representative,56,Able Mable) Thomas,DEM,1.0,100.00,27333.5,Yes,100.00,100.00
-227,GA,2018,State Representative,57,Patricia Gardner,DEM,1.0,100.00,8501.0,Yes,100.00,100.00
-228,GA,2018,State Representative,58,Park Cannon,DEM,1.0,100.00,44142.53,Yes,100.00,100.00
-229,GA,2018,State Representative,59,David Dreyer,DEM,1.0,100.00,26099.0,Yes,100.00,100.00
-230,GA,2018,State Representative,6,Jason Ridley,REP,1.0,100.00,21250.0,Yes,100.00,100.00
-231,GA,2018,State Representative,60,Kim Schofield,DEM,1.0,100.00,35905.0,Yes,100.00,100.00
-232,GA,2018,State Representative,61,Roger Bruce,DEM,1.0,100.00,17060.0,Yes,100.00,100.00
-233,GA,2018,State Representative,62,William Boddie Jr.,DEM,1.0,100.00,44358.46,Yes,100.00,100.00
-234,GA,2018,State Representative,63,Debra Bazemore,DEM,1.0,100.00,14976.35,Yes,100.00,100.00
-235,GA,2018,State Representative,64,Derrick Jackson,DEM,1.0,100.00,27287.6,Yes,100.00,100.00
-236,GA,2018,State Representative,65,Sharon Beasley-Teague,DEM,1.0,100.00,15135.63,Yes,100.00,100.00
-237,GA,2018,State Representative,66,Kimberly Alexander,DEM,1.0,100.00,4850.0,Yes,100.00,100.00
-238,GA,2018,State Representative,67,Micah Gravley,REP,1.0,100.00,21151.0,Yes,100.00,100.00
-239,GA,2018,State Representative,68,Collins,REP,1.0,100.00,13259.0,Yes,100.00,100.00
-240,GA,2018,State Representative,69,Randy Otis Nix,REP,1.0,100.00,4000.0,Yes,100.00,100.00
-241,GA,2018,State Representative,7,David Ralston,REP,0.7563134830803836,> 99.99,959231.44,Yes,> 99.99,> 99.99
-242,GA,2018,State Representative,7,Rick Day,DEM,0.24368651691961635,< 0.01,506.0,No,< 0.01,< 0.01
-243,GA,2018,State Representative,70,Lynn Ratigan Smith,REP,1.0,100.00,55459.9,Yes,100.00,100.00
-244,GA,2018,State Representative,71,David Jay Stover,REP,0.6874489855537793,99.99,20631.0,Yes,> 99.99,99.99
-245,GA,2018,State Representative,71,Tom Thomason,DEM,0.31255101444622063,0.01,3450.0,No,0.01,< 0.01
-246,GA,2018,State Representative,72,Josh Bonner,REP,1.0,100.00,68491.0,Yes,100.00,100.00
-247,GA,2018,State Representative,73,Karen Mathiak,REP,1.0,100.00,22584.85,Yes,100.00,100.00
-248,GA,2018,State Representative,74,Valencia Stovall,DEM,1.0,100.00,16817.0,Yes,100.00,100.00
-249,GA,2018,State Representative,75,Michael Eugene Glanton Sr.,DEM,1.0,100.00,27600.0,Yes,100.00,100.00
-250,GA,2018,State Representative,76,Sandra Scott,DEM,1.0,100.00,6250.0,Yes,100.00,100.00
-251,GA,2018,State Representative,77,Rhonda Burnough,DEM,1.0,100.00,3144.12,Yes,100.00,100.00
-252,GA,2018,State Representative,78,Demetrius Douglas,DEM,1.0,100.00,25100.0,Yes,100.00,100.00
-253,GA,2018,State Representative,79,Michael Wilensky,DEM,0.4797792710586792,21.31,180626.0,No,71.28,1.57
-254,GA,2018,State Representative,79,Ken Wright,REP,0.5202207289413208,78.69,46191.0,No,98.43,28.72
-255,GA,2018,State Representative,8,Matt Gurtler,REP,1.0,100.00,57871.31,Yes,100.00,100.00
-256,GA,2018,State Representative,80,Matthew Wilson,DEM,0.48115968253996094,22.93,97135.03,No,73.1,1.8
-257,GA,2018,State Representative,80,Meagan Hanson,REP,0.518840317460039,77.07,61155.34,Yes,98.2,26.9
-258,GA,2018,State Representative,81,Scott Holcomb,DEM,0.6090550690345118,99.99,48786.0,Yes,99.99,99.83
-259,GA,2018,State Representative,81,Ellen Diehl,REP,0.3909449309654882,0.01,38371.9,No,0.17,0.01
-260,GA,2018,State Representative,82,Mary Margaret Oliver,DEM,1.0,100.00,12000.0,Yes,100.00,100.00
-261,GA,2018,State Representative,83,Becky Evans,DEM,1.0,100.00,134874.0,No,100.00,100.00
-262,GA,2018,State Representative,84,Renitta Shannon,DEM,1.0,100.00,13324.77,Yes,100.00,100.00
-263,GA,2018,State Representative,85,Karla Lea Drenner,DEM,1.0,100.00,15350.0,Yes,100.00,100.00
-264,GA,2018,State Representative,86,Michele Henson,DEM,1.0,100.00,51545.0,Yes,100.00,100.00
-265,GA,2018,State Representative,87,Viola Davis,DEM,1.0,100.00,19365.0,No,100.00,100.00
-266,GA,2018,State Representative,88,Billy Mitchell,DEM,0.9237491029857315,> 99.99,1000.0,Yes,> 99.99,> 99.99
-267,GA,2018,State Representative,88,Joshua Hampton,IND,0.07625089701426846,< 0.01,0.0,No,< 0.01,< 0.01
-268,GA,2018,State Representative,89,Bee Nguyen,DEM,1.0,100.00,10738.0,Yes,100.00,100.00
-269,GA,2018,State Representative,9,Kevin Kermit Tanner,REP,1.0,100.00,170547.4,Yes,100.00,100.00
-270,GA,2018,State Representative,90,Takosha Swan,REP,0.21632467150549362,< 0.01,3335.0,No,< 0.01,< 0.01
-271,GA,2018,State Representative,90,Pamela Sturdivant Stephenson,DEM,0.7836753284945064,> 99.99,1950.0,Yes,> 99.99,> 99.99
-272,GA,2018,State Representative,91,Vernon Jones,DEM,1.0,100.00,9160.0,Yes,100.00,100.00
-273,GA,2018,State Representative,92,Doreen Carter,DEM,1.0,100.00,15531.0,Yes,100.00,100.00
-274,GA,2018,State Representative,93,Darshun Kendrick,DEM,1.0,100.00,17064.0,Yes,100.00,100.00
-275,GA,2018,State Representative,94,Karen Bennett,DEM,1.0,100.00,14050.0,Yes,100.00,100.00
-276,GA,2018,State Representative,95,Scott Hilton,REP,0.5466788855024862,96.68,68830.18,Yes,99.92,68.43
-277,GA,2018,State Representative,95,Beth Moore,DEM,0.4533211144975137,3.32,16289.72,No,31.57,0.08
-278,GA,2018,State Representative,96,Pete Marin,DEM,1.0,100.00,10041.0,Yes,100.00,100.00
-279,GA,2018,State Representative,97,Aisha Yaqoob,DEM,0.42092806683774947,0.1,72301.75,No,3.97,0.01
-280,GA,2018,State Representative,97,Bonnie Rich,REP,0.5790719331622506,99.90,66001.0,No,99.99,96.03
-281,GA,2018,State Representative,98,David Clark,REP,1.0,100.00,15276.55,Yes,100.00,100.00
-282,GA,2018,State Representative,99,Brenda Lopez Romero,DEM,1.0,100.00,33534.63,Yes,100.00,100.00
-287,GA,2018,State Senator,1,Ben Watson,REP,0.6163720168525483,99.99,64400.0,Yes,99.99,99.93
-288,GA,2018,State Senator,1,Sandra Workman,DEM,0.3836279831474518,0.01,18822.0,No,0.07,0.01
-289,GA,2018,State Senator,10,Emanuel Jones,DEM,1.0,100.00,18100.0,Yes,100.00,100.00
-290,GA,2018,State Senator,11,Kenneth Dean Burke,REP,1.0,100.00,122420.0,Yes,100.00,100.00
-291,GA,2018,State Senator,12,Freddie Powell Sims,DEM,1.0,100.00,19605.0,Yes,100.00,100.00
-292,GA,2018,State Senator,13,Greg Kirk,REP,1.0,100.00,38775.0,Yes,100.00,100.00
-293,GA,2018,State Senator,14,Bruce Thompson,REP,0.6716107732027147,99.99,65705.0,Yes,99.99,99.99
-294,GA,2018,State Senator,14,Rachel Kinsey,DEM,0.3283892267972854,0.01,3248.0,No,0.01,0.01
-295,GA,2018,State Senator,15,Ed Harbison,DEM,1.0,100.00,35224.78,Yes,100.00,100.00
-296,GA,2018,State Senator,16,Marty Harbin,REP,0.6783520895269729,99.99,102869.0,Yes,> 99.99,99.99
-297,GA,2018,State Senator,16,Bill Lightle,DEM,0.32164791047302715,0.01,8305.32,No,0.01,< 0.01
-298,GA,2018,State Senator,17,Robert Brian Strickland,REP,0.5521515536576976,97.99,93094.3,Yes,99.96,75.65
-299,GA,2018,State Senator,17,Phyllis Hatcher,DEM,0.4478484463423024,2.01,32824.0,No,24.35,0.04
-300,GA,2018,State Senator,18,John Kennedy,REP,1.0,100.00,137406.67,Yes,100.00,100.00
-301,GA,2018,State Senator,19,Blake Tillery,REP,1.0,100.00,148721.12,Yes,100.00,100.00
-302,GA,2018,State Senator,2,Lester Jackson III,DEM,1.0,100.00,55550.0,Yes,100.00,100.00
-303,GA,2018,State Senator,20,Larry Walker,REP,1.0,100.00,87071.0,Yes,100.00,100.00
-304,GA,2018,State Senator,21,Brandon Beach,REP,0.6912512534105898,99.99,141250.0,Yes,> 99.99,99.99
-305,GA,2018,State Senator,21,Nicole Nash,DEM,0.30874874658941015,0.01,3996.68,No,0.01,< 0.01
-306,GA,2018,State Senator,22,Harold Jones II,DEM,1.0,100.00,13150.0,Yes,100.00,100.00
-307,GA,2018,State Senator,23,Jesse Stone,REP,1.0,100.00,28750.0,Yes,100.00,100.00
-308,GA,2018,State Senator,24,Lee Anderson,REP,1.0,100.00,35000.0,Yes,100.00,100.00
-309,GA,2018,State Senator,25,Burt Burton Jones,REP,1.0,100.00,159520.0,Yes,100.00,100.00
-310,GA,2018,State Senator,26,David Lucas Sr.,DEM,1.0,100.00,32250.0,Yes,100.00,100.00
-311,GA,2018,State Senator,27,Greg Dolezal,REP,0.7228578643027532,> 99.99,438403.98,No,> 99.99,99.99
-312,GA,2018,State Senator,27,Steve Smith,DEM,0.27714213569724677,< 0.01,2488.07,No,0.01,< 0.01
-313,GA,2018,State Senator,28,Matt Brass,REP,1.0,100.00,105130.0,Yes,100.00,100.00
-314,GA,2018,State Senator,29,Randy Robertson,REP,0.6056769716480913,99.99,59680.66,No,99.99,99.74
-315,GA,2018,State Senator,29,Valerie Haskins,DEM,0.39432302835190874,0.01,7701.09,No,0.26,0.01
-316,GA,2018,State Senator,3,William Ligon Jr.,REP,0.6735966497081605,99.99,65707.0,Yes,99.99,99.99
-317,GA,2018,State Senator,3,Jerrold Dagen,DEM,0.3264033502918395,0.01,1271.95,No,0.01,0.01
-318,GA,2018,State Senator,30,Mike Dugan,REP,1.0,100.00,61405.27,Yes,100.00,100.00
-319,GA,2018,State Senator,31,Bill Donald Heath Jr.,REP,1.0,100.00,19850.0,Yes,100.00,100.00
-320,GA,2018,State Senator,32,Kay Kirkpatrick,REP,0.60630089882997,99.99,35850.0,Yes,99.99,99.76
-321,GA,2018,State Senator,32,Christine Triebsch,DEM,0.3936991011700301,0.01,4989.18,No,0.24,0.01
-322,GA,2018,State Senator,33,Doc Rhett,DEM,1.0,100.00,9774.0,Yes,100.00,100.00
-323,GA,2018,State Senator,34,Valencia Seay,DEM,0.8360949157331082,> 99.99,43195.42,Yes,> 99.99,> 99.99
-324,GA,2018,State Senator,34,Tommy Smith,REP,0.16390508426689177,< 0.01,0.0,No,< 0.01,< 0.01
-325,GA,2018,State Senator,35,Donzella James,DEM,1.0,100.00,24125.51,Yes,100.00,100.00
-326,GA,2018,State Senator,36,Nan Grogan Orrock,DEM,1.0,100.00,61398.29,Yes,100.00,100.00
-327,GA,2018,State Senator,37,Lindsey Tippins,REP,0.6106960297303763,99.99,45250.0,Yes,99.99,99.86
-328,GA,2018,State Senator,37,Andy Clark,DEM,0.38930397026962366,0.01,7775.0,No,0.14,0.01
-329,GA,2018,State Senator,38,Horacena Tate,DEM,0.8166181926488296,> 99.99,33100.0,Yes,> 99.99,> 99.99
-330,GA,2018,State Senator,38,Travis Klavohn,REP,0.18338180735117043,< 0.01,10084.2,No,< 0.01,< 0.01
-331,GA,2018,State Senator,39,Nikema Williams,DEM,1.0,100.00,10533.0,Yes,100.00,100.00
-332,GA,2018,State Senator,4,Jack Hill,REP,1.0,100.00,134437.0,Yes,100.00,100.00
-333,GA,2018,State Senator,40,Sally Harrell,DEM,0.4888970630981165,33.11,199211.56,No,82.13,3.64
-334,GA,2018,State Senator,40,Francis Millar,REP,0.5111029369018835,66.89,143024.05,Yes,96.36,17.87
-335,GA,2018,State Senator,41,Steve Bradley Henson,DEM,1.0,100.00,133380.0,Yes,100.00,100.00
-336,GA,2018,State Senator,42,Elena Parent,DEM,1.0,100.00,33745.0,Yes,100.00,100.00
-337,GA,2018,State Senator,43,Tonya Anderson,DEM,1.0,100.00,21852.4,Yes,100.00,100.00
-338,GA,2018,State Senator,44,Gail Paulette Davenport,DEM,1.0,100.00,65377.79,Yes,100.00,100.00
-339,GA,2018,State Senator,45,Renee Unterman,REP,0.6205464921575454,99.99,136590.0,Yes,99.99,99.96
-340,GA,2018,State Senator,45,Jana Rodgers,DEM,0.3794535078424545,0.01,1334.32,No,0.04,0.01
-341,GA,2018,State Senator,46,Bill Cowsert,REP,0.5918395536464315,99.99,166850.0,Yes,99.99,99.45
-342,GA,2018,State Senator,46,Marisue Hilliard,DEM,0.39360897590574584,0.01,32249.95,No,0.55,0.01
-343,GA,2018,State Senator,46,Green Fortuin,IND,0.01455147044782273,< 0.01,0.0,No,,
-344,GA,2018,State Senator,47,Frank Joseph Ginn,REP,0.65908570009037,99.99,187647.0,Yes,99.99,99.99
-345,GA,2018,State Senator,47,Dawn Johnson,DEM,0.34091429990963,0.01,0.0,No,0.01,0.01
-346,GA,2018,State Senator,48,Zahra Karinshak,DEM,0.4901877768049047,34.97,232100.54,No,83.43,4.07
-347,GA,2018,State Senator,48,Matt Reeves,REP,0.5098122231950952,65.03,191633.0,No,95.93,16.57
-348,GA,2018,State Senator,49,Butch Terrell Miller,REP,1.0,100.00,390928.0,Yes,100.00,100.00
-349,GA,2018,State Senator,5,Sheikh Rahman,DEM,1.0,100.00,26600.0,No,100.00,100.00
-350,GA,2018,State Senator,50,John Wilkinson,REP,1.0,100.00,95434.94,Yes,100.00,100.00
-351,GA,2018,State Senator,51,Steve Gooch,REP,1.0,100.00,161389.85,Yes,100.00,100.00
-352,GA,2018,State Senator,52,Chuck Hufstetler,REP,0.6944483871181377,99.99,96225.0,Yes,> 99.99,99.99
-353,GA,2018,State Senator,52,Evan Ross,DEM,0.3055516128818622,0.01,21977.5,No,0.01,< 0.01
-354,GA,2018,State Senator,53,Jeff Mullis,REP,1.0,100.00,360616.32,Yes,100.00,100.00
-355,GA,2018,State Senator,54,Chuck Payne,REP,0.7307813410937639,> 99.99,89777.0,Yes,> 99.99,99.99
-356,GA,2018,State Senator,54,Michael Morgan,DEM,0.26921865890623614,< 0.01,1020.0,No,0.01,< 0.01
-357,GA,2018,State Senator,55,Gloria Butler,DEM,0.811899830318621,> 99.99,34105.0,Yes,> 99.99,> 99.99
-358,GA,2018,State Senator,55,Annette Davis Jackson,REP,0.18810016968137905,< 0.01,0.0,No,< 0.01,< 0.01
-359,GA,2018,State Senator,56,John Albers,REP,0.5721656120074934,99.77,70349.99,Yes,99.99,93.09
-360,GA,2018,State Senator,56,Ellyn Jeager,DEM,0.42783438799250667,0.23,22799.18,No,6.91,0.01
-361,GA,2018,State Senator,6,Leah Aldridge,REP,0.4436242101199829,1.33,274770.0,No,19.45,0.02
-362,GA,2018,State Senator,6,Jen Jordan,DEM,0.5563757898800171,98.67,131053.0,Yes,99.98,80.55
-363,GA,2018,State Senator,7,Tyler Harper,REP,1.0,100.00,153600.0,Yes,100.00,100.00
-364,GA,2018,State Senator,8,Ellis Black,REP,1.0,100.00,40250.0,Yes,100.00,100.00
-365,GA,2018,State Senator,9,K Martin IV,REP,0.5712516673836134,99.74,109611.0,Yes,99.99,92.6
-366,GA,2018,State Senator,9,Cheryle Moses,DEM,0.4287483326163865,0.26,5715.5,No,7.4,0.01
-3,GA,2018,Superintendent Of Public Instruction,Statewide,Otha Edward Thornton Jr.,DEM,0.48421472549105954,26.73,84709.84,No,,
-4,GA,2018,Superintendent Of Public Instruction,Statewide,Richard Woods,REP,0.5157852745089405,73.27,19630.0,Yes,,
-5,GA,2018,U.S. Representative,1,Buddy Leroy Carter,REP,0.5704039457770125,99.72,1158373.82,Yes,99.99,92.12
-6,GA,2018,U.S. Representative,1,Lisa Ring,DEM,0.4295960542229876,0.28,104281.49,No,7.88,0.01
-7,GA,2018,U.S. Representative,10,Jody Brownlow Hice,REP,0.6426359817466257,99.99,450597.3,Yes,99.99,99.99
-8,GA,2018,U.S. Representative,10,Tabitha Johnson-Green,DEM,0.35736401825337427,0.01,0.0,No,0.01,0.01
-9,GA,2018,U.S. Representative,11,Barry Loudermilk,REP,0.6445583843427075,99.99,652836.45,Yes,99.99,99.99
-10,GA,2018,U.S. Representative,11,Flynn Broady Jr.,DEM,0.35544161565729254,0.01,0.0,No,0.01,0.01
-11,GA,2018,U.S. Representative,12,Rick Allen,REP,0.5831609536982549,99.94,757500.75,Yes,99.99,97.22
-12,GA,2018,U.S. Representative,12,Francys Johnson,DEM,0.4168390463017451,0.06,0.0,No,2.78,0.01
-13,GA,2018,U.S. Representative,13,David Scott,DEM,0.7250981767042037,> 99.99,904512.32,Yes,> 99.99,99.99
-14,GA,2018,U.S. Representative,13,David Callahan,REP,0.2749018232957962,< 0.01,0.0,No,0.01,< 0.01
-15,GA,2018,U.S. Representative,14,Tom Thomas Graves Jr.,REP,0.7268907114525578,> 99.99,1653246.35,Yes,> 99.99,99.99
-16,GA,2018,U.S. Representative,14,Steven Lamar Foster,DEM,0.27310928854744226,< 0.01,0.0,No,0.01,< 0.01
-17,GA,2018,U.S. Representative,2,Sanford Bishop Jr.,DEM,0.6561877208534013,99.99,782470.65,Yes,99.99,99.99
-18,GA,2018,U.S. Representative,2,Herman West Jr.,REP,0.3438122791465987,0.01,0.0,No,0.01,0.01
-19,GA,2018,U.S. Representative,3,Drew Ferguson IV,REP,0.6400882281524207,99.99,913060.6,Yes,99.99,99.99
-20,GA,2018,U.S. Representative,3,Charles Joseph Enderlin Jr.,DEM,0.3599117718475793,0.01,27969.55,No,0.01,0.01
-21,GA,2018,U.S. Representative,4,Hank Johnson,DEM,0.7655625941246479,> 99.99,369089.69,Yes,> 99.99,> 99.99
-22,GA,2018,U.S. Representative,4,Joe Profit,REP,0.2344374058753521,< 0.01,0.0,No,< 0.01,< 0.01
-23,GA,2018,U.S. Representative,5,John Lewis,DEM,1.0,100.00,2549979.2,Yes,100.00,100.00
-24,GA,2018,U.S. Representative,6,Lucy McBath,DEM,0.4221558131922401,0.11,0.0,No,4.4,0.01
-25,GA,2018,U.S. Representative,6,Karen Christine Handel,REP,0.5778441868077598,99.89,0.0,Yes,99.99,95.6
-26,GA,2018,U.S. Representative,7,Carolyn Bourdeaux,DEM,0.4499753207409826,2.45,850601.45,No,27.05,0.05
-27,GA,2018,U.S. Representative,7,Rob Robert Woodall,REP,0.5500246792590173,97.55,728902.0,Yes,99.95,72.95
-28,GA,2018,U.S. Representative,8,Austin Austin Scott,REP,1.0,100.00,697153.5,Yes,100.00,100.00
-29,GA,2018,U.S. Representative,9,Doug Collins,REP,0.7180948493553516,> 99.99,994587.85,Yes,> 99.99,99.99
-30,GA,2018,U.S. Representative,9,Joshua Braxton McCall,DEM,0.28190515064464844,< 0.01,12463.61,No,0.01,< 0.01
+State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability,Unrounded Predicted Vote Share
+GA,2018,Attorney General,Statewide,Charlie Curtis Bailey,DEM,47.63,17.56,433522.33,No,,,47.631073249593804
+GA,2018,Attorney General,Statewide,Christopher Carr,REP,52.37,82.44,1368730.56,Yes,,,52.368926750406196
+GA,2018,Governor,Statewide,Stacey Yvonne Abrams,DEM,47.59,26.37,6089768.65,No,,,47.58521663617336
+GA,2018,Governor,Statewide,Larry Odom,IND,1.62,< 0.01,0.0,No,,,1.6170939283559487
+GA,2018,Governor,Statewide,Brian Kemp,REP,50.8,73.63,5187877.54,No,,,50.797689435470694
+GA,2018,Lieutenant Governor,Statewide,Sarah Lynn Riggs Amico,DEM,47.84,19.77,1032075.65,No,,,47.83989731805012
+GA,2018,Lieutenant Governor,Statewide,Geoffrey Duncan,REP,52.16,80.23,1026336.64,No,,,52.16010268194988
+GA,2018,Secretary Of State,Statewide,John Jenkins Barrow,DEM,47.23,20.88,884372.36,No,,,47.233478956428435
+GA,2018,Secretary Of State,Statewide,Smythe Duval,LIB,1.41,< 0.01,0.0,No,,,1.4133810809262708
+GA,2018,Secretary Of State,Statewide,Bradford Jay Raffensperger,REP,51.35,79.12,1736355.8,No,,,51.35313996264529
+GA,2018,State Representative,1,Colton Moore,REP,100.0,100.00,7356.85,No,100.00,100.00,100.0
+GA,2018,State Representative,10,Terry Rogers,REP,100.0,100.00,61096.16,Yes,100.00,100.00,100.0
+GA,2018,State Representative,100,Dewey McClain,DEM,100.0,100.00,16953.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,101,Samuel Park,DEM,61.13,99.99,59079.85,Yes,99.99,99.87,61.12815270484656
+GA,2018,State Representative,101,Valerie Clark,REP,38.87,0.01,8350.0,No,0.13,0.01,38.871847295153444
+GA,2018,State Representative,102,Gregg Kennard,DEM,46.45,8.1,630.0,No,48.35,0.3,46.446244707166116
+GA,2018,State Representative,102,Paula Hastings,REP,53.55,91.90,38557.14,No,99.7,51.65,53.553755292833884
+GA,2018,State Representative,103,Timothy Barr,REP,100.0,100.00,14850.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,104,Andrea Stephenson,DEM,47.24,13.89,5474.0,No,60.71,0.73,47.24150032664312
+GA,2018,State Representative,104,Chuck Efstration,REP,52.76,86.11,128332.32,Yes,99.27,39.29,52.75849967335687
+GA,2018,State Representative,105,Donna McLeod,DEM,49.82,47.17,27052.23,No,90.08,7.67,49.81931060425907
+GA,2018,State Representative,105,Donna Sheldon,REP,50.18,52.83,54030.58,No,92.33,9.92,50.18068939574093
+GA,2018,State Representative,106,Brett Harrell,REP,100.0,100.00,315538.27,Yes,100.00,100.00,100.0
+GA,2018,State Representative,107,Shelly Hutchinson,DEM,52.4,82.79,83518.37,No,98.93,34.04,52.40388798002365
+GA,2018,State Representative,107,Janet Mihoci,REP,47.6,17.21,14208.77,No,65.96,1.07,47.59611201997635
+GA,2018,State Representative,108,Jasmine Clark,DEM,44.05,0.96,13692.07,No,16.22,0.02,44.046441077615754
+GA,2018,State Representative,108,Clay Cox,REP,55.95,99.04,59500.0,Yes,99.98,83.78,55.953558922384246
+GA,2018,State Representative,109,Regina Lewis-Ward,DEM,43.97,0.89,13383.0,No,15.47,0.01,43.96846265014979
+GA,2018,State Representative,109,Dale Rutledge,REP,56.03,99.11,73659.0,Yes,99.99,84.53,56.03153734985021
+GA,2018,State Representative,11,Lee Shiver,DEM,24.43,< 0.01,2652.85,No,< 0.01,< 0.01,24.429108297013265
+GA,2018,State Representative,11,Rick Jasperse,REP,75.57,> 99.99,37150.0,Yes,> 99.99,> 99.99,75.57089170298674
+GA,2018,State Representative,110,Andy Welch III,REP,100.0,100.00,55325.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,111,El-Mahdi Holly,DEM,48.83,32.2,8025.0,No,81.46,3.45,48.8252498822589
+GA,2018,State Representative,111,Geoff Cauble,REP,51.17,67.80,36250.0,Yes,96.55,18.54,51.1747501177411
+GA,2018,State Representative,112,Dave Belton,REP,100.0,100.00,16117.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,113,Pamela Dickerson,DEM,100.0,100.00,36434.2,Yes,100.00,100.00,100.0
+GA,2018,State Representative,114,Tom Thomas Kirby,REP,100.0,100.00,15450.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,115,Bruce Brewster Williamson III,REP,100.0,100.00,139175.47,Yes,100.00,100.00,100.0
+GA,2018,State Representative,116,Terry Lamar England,REP,100.0,100.00,154101.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,117,Deborah Gonzalez,DEM,51.41,71.04,37510.7,Yes,97.2,21.11,51.409699451394374
+GA,2018,State Representative,117,Houston Gaines,REP,48.59,28.96,85525.0,No,78.89,2.8,48.59030054860563
+GA,2018,State Representative,118,Spencer Frye,DEM,100.0,100.00,21825.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,119,Jonathan Wallace,DEM,52.28,81.47,32904.54,Yes,98.78,32.21,52.275492821663505
+GA,2018,State Representative,119,Marcus Wiedower,REP,47.72,18.53,30250.0,No,67.79,1.22,47.72450717833651
+GA,2018,State Representative,12,James Eddie Lumsden,REP,100.0,100.00,33415.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,120,Chuck Hogg,DEM,35.39,0.01,8850.0,No,0.01,0.01,35.393853533367384
+GA,2018,State Representative,120,Trey Rhodes,REP,64.61,99.99,72126.85,Yes,99.99,99.99,64.60614646663262
+GA,2018,State Representative,121,Barry Fleming,REP,100.0,100.00,87344.38,Yes,100.00,100.00,100.0
+GA,2018,State Representative,122,Jodi Lott,REP,100.0,100.00,43650.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,123,Scott Richard,DEM,34.58,0.01,0.0,No,0.01,0.01,34.579621065407046
+GA,2018,State Representative,123,Mark Newton,REP,65.42,99.99,35920.0,Yes,99.99,99.99,65.42037893459295
+GA,2018,State Representative,124,Wayne Howard,DEM,100.0,100.00,0.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,125,Sheila Clark Nelson,DEM,100.0,100.00,8910.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,126,Gloria Frazier,DEM,72.64,> 99.99,13625.0,Yes,> 99.99,99.99,72.63698656875557
+GA,2018,State Representative,126,William Harris,REP,27.36,< 0.01,100.0,No,0.01,< 0.01,27.363013431244426
+GA,2018,State Representative,127,Brian Prince,DEM,100.0,100.00,32625.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,128,Willie Mack Jackson Sr.,DEM,63.37,99.99,13325.0,Yes,99.99,99.99,63.36798561758427
+GA,2018,State Representative,128,Jackson Williams,REP,36.63,0.01,1126.0,No,0.01,0.01,36.632014382415726
+GA,2018,State Representative,129,Susan Holmes,REP,100.0,100.00,24039.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,13,John Burnette II,DEM,34.23,0.01,3320.0,No,0.01,0.01,34.22736711547672
+GA,2018,State Representative,13,Katie Dempsey,REP,65.77,99.99,45307.0,Yes,99.99,99.99,65.77263288452329
+GA,2018,State Representative,130,David Knight,REP,100.0,100.00,100575.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,131,Chris Benton,DEM,29.57,0.01,1685.18,No,0.01,< 0.01,29.571681691528596
+GA,2018,State Representative,131,Ken Pullin,REP,70.43,99.99,46184.1,No,> 99.99,99.99,70.4283183084714
+GA,2018,State Representative,132,Bob Trammell Jr.,DEM,61.98,99.99,135395.0,Yes,99.99,99.96,61.97963416599729
+GA,2018,State Representative,132,Leonard Gomez,REP,38.02,0.01,1600.0,No,0.04,0.01,38.0203658340027
+GA,2018,State Representative,133,Vance Smith,REP,100.0,100.00,120123.0,No,100.00,100.00,100.0
+GA,2018,State Representative,134,Richard Smith,REP,100.0,100.00,161150.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,135,Calvin Smyre,DEM,100.0,100.00,88165.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,136,Carolyn Hugley,DEM,100.0,100.00,40892.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,137,Debbie Gignilliat Buckner,DEM,100.0,100.00,14800.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,138,Bardin Hooks,DEM,57.02,99.71,25047.0,No,99.99,92.01,57.02119297975013
+GA,2018,State Representative,138,Michael Cheokas,REP,42.98,0.29,26347.0,No,7.99,0.01,42.97880702024987
+GA,2018,State Representative,139,Patty Bentley,DEM,100.0,100.00,7700.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,14,Christian Coomer,REP,100.0,100.00,153887.09,Yes,100.00,100.00,100.0
+GA,2018,State Representative,140,Robert Dickey III,REP,100.0,100.00,72460.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,141,Dale Washburn,REP,100.0,100.00,88925.0,No,100.00,100.00,100.0
+GA,2018,State Representative,142,Miriam Lucas Paris,DEM,100.0,100.00,21835.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,143,James Beverly,DEM,100.0,100.00,11300.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,144,Jessica Walden,DEM,40.18,0.01,69637.0,No,0.61,0.01,40.17508792224728
+GA,2018,State Representative,144,Danny Mathis,REP,59.82,99.99,9989.0,No,99.99,99.39,59.824912077752714
+GA,2018,State Representative,145,Ricky Williams,REP,100.0,100.00,22945.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,146,Shaw Blackmon,REP,100.0,100.00,70090.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,147,Fenika Miller,DEM,42.56,0.18,2593.53,No,5.83,0.01,42.562835061119515
+GA,2018,State Representative,147,Heath Clark,REP,57.44,99.82,20950.0,Yes,99.99,94.17,57.43716493888049
+GA,2018,State Representative,148,Joshua Deriso,DEM,33.53,0.01,3417.0,No,0.01,0.01,33.529835004103845
+GA,2018,State Representative,148,Noel Williams Jr.,REP,66.47,99.99,32720.0,No,99.99,99.99,66.47016499589617
+GA,2018,State Representative,149,Jimmy Pruett Jr.,REP,100.0,100.00,13600.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,15,Matthew Gambill,REP,100.0,100.00,79639.0,No,100.00,100.00,100.0
+GA,2018,State Representative,150,Matt Matthew Hatchett,REP,100.0,100.00,144460.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,151,Joyce Barlow,DEM,44.19,1.12,13445.55,No,17.68,0.02,44.194220373757176
+GA,2018,State Representative,151,Gerald Greene,REP,55.81,98.88,21275.0,Yes,99.98,82.32,55.805779626242824
+GA,2018,State Representative,152,Marcus Batten,DEM,30.49,0.01,0.0,No,0.01,< 0.01,30.492631701461193
+GA,2018,State Representative,152,Eugene Ed Rynders,REP,69.51,99.99,46685.0,Yes,> 99.99,99.99,69.50736829853881
+GA,2018,State Representative,153,Camia Whitaker Hopson,DEM,71.46,> 99.99,0.0,No,> 99.99,99.99,71.45932784987659
+GA,2018,State Representative,153,Tracy Taylor,REP,28.54,< 0.01,0.0,No,0.01,< 0.01,28.540672150123413
+GA,2018,State Representative,154,Winfred Dukes,DEM,100.0,100.00,17250.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,155,Clay Pirkle,REP,100.0,100.00,10400.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,156,Greg Morris,REP,100.0,100.00,84550.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,157,Bill Werkheiser,REP,100.0,100.00,125185.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,158,Butch Parrish,REP,100.0,100.00,50600.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,159,Jon Burns,REP,100.0,100.00,222859.07,Yes,100.00,100.00,100.0
+GA,2018,State Representative,16,Trey Kelley,REP,100.0,100.00,97420.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,160,Jan Tankersley,REP,100.0,100.00,58335.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,161,Adam Bridges,DEM,36.03,0.01,1200.0,No,0.01,0.01,36.0276024127495
+GA,2018,State Representative,161,Bill Hitchens Jr.,REP,63.97,99.99,29690.0,Yes,99.99,99.99,63.9723975872505
+GA,2018,State Representative,162,Carl Gilliard,DEM,100.0,100.00,21000.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,163,Craig Gordon,DEM,100.0,100.00,5500.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,164,Aer Scott,DEM,42.6,0.19,11883.8,No,6.02,0.01,42.60382689496526
+GA,2018,State Representative,164,Ron Stephens,REP,57.4,99.81,70634.0,Yes,99.99,93.98,57.39617310503474
+GA,2018,State Representative,165,Mickey Stephens,DEM,100.0,100.00,8900.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,166,Jesse Petrea,REP,100.0,100.00,74260.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,167,Cedric King,DEM,32.63,0.01,4150.0,No,0.01,0.01,32.63081788964261
+GA,2018,State Representative,167,Jeff Jones,REP,67.37,99.99,22507.52,Yes,99.99,99.99,67.3691821103574
+GA,2018,State Representative,168,Al Williams,DEM,100.0,100.00,16000.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,169,Dominic Lariccia,REP,100.0,100.00,107965.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,17,Ralph Meers,DEM,32.04,0.01,9266.75,No,0.01,< 0.01,32.04075954862837
+GA,2018,State Representative,17,Martin Momtahan,REP,67.96,99.99,64140.0,No,> 99.99,99.99,67.95924045137163
+GA,2018,State Representative,170,Penny Penelope Houston,REP,100.0,100.00,28725.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,171,Jay Powell Jr.,REP,100.0,100.00,105350.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,172,Sam Watson,REP,100.0,100.00,23550.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,173,Twitty Titus,DEM,41.58,0.05,23666.48,No,2.51,0.01,41.57509029007942
+GA,2018,State Representative,173,Darlene Taylor,REP,58.42,99.95,27000.0,Yes,99.99,97.49,58.42490970992057
+GA,2018,State Representative,174,John Corbett,REP,100.0,100.00,21550.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,175,Treva Gear,DEM,37.61,0.01,7893.36,No,0.03,0.01,37.61481428329604
+GA,2018,State Representative,175,John Lahood,REP,62.39,99.99,94560.0,Yes,99.99,99.97,62.38518571670396
+GA,2018,State Representative,176,Jason Slaton Shaw Jr.,REP,100.0,100.00,72450.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,177,Dexter Sharper,DEM,100.0,100.00,3100.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,178,Greg Odriscoll,DEM,23.24,< 0.01,1107.46,No,< 0.01,< 0.01,23.243021146636124
+GA,2018,State Representative,178,Steven Meeks,REP,76.76,> 99.99,88829.0,No,> 99.99,> 99.99,76.75697885336388
+GA,2018,State Representative,179,Julie Jordan,DEM,39.8,0.01,23061.55,No,0.4,0.01,39.803563980312035
+GA,2018,State Representative,179,Don Hogan,REP,60.2,99.99,8650.0,Yes,99.99,99.6,60.19643601968796
+GA,2018,State Representative,18,Pat Rhudy,DEM,30.86,0.01,0.0,No,0.01,< 0.01,30.85676553337009
+GA,2018,State Representative,18,Kevin Cooke,REP,69.14,99.99,5300.0,Yes,> 99.99,99.99,69.1432344666299
+GA,2018,State Representative,180,Steven Sainz,REP,100.0,100.00,47054.4,No,100.00,100.00,100.0
+GA,2018,State Representative,19,Alison Feliciano,DEM,36.0,0.01,0.0,No,0.01,0.01,36.002769014654724
+GA,2018,State Representative,19,Joseph Gullett,REP,64.0,99.99,38056.42,No,99.99,99.99,63.997230985345276
+GA,2018,State Representative,2,Steve Stephen Tarvin,REP,100.0,100.00,6750.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,20,Lillian Burnaman,DEM,32.53,0.01,1338.01,No,0.01,0.01,32.53097828366307
+GA,2018,State Representative,20,Michael Caldwell,REP,67.47,99.99,7694.53,Yes,99.99,99.99,67.46902171633693
+GA,2018,State Representative,21,Melanie Whitfield,DEM,30.9,0.01,4048.97,No,0.01,< 0.01,30.90487835222209
+GA,2018,State Representative,21,Scot Turner,REP,69.1,99.99,6718.0,Yes,> 99.99,99.99,69.0951216477779
+GA,2018,State Representative,22,Charles Ravenscraft,DEM,27.34,< 0.01,3015.95,No,0.01,< 0.01,27.344325710918266
+GA,2018,State Representative,22,Wes Cantrell,REP,72.66,> 99.99,4797.0,Yes,> 99.99,99.99,72.65567428908173
+GA,2018,State Representative,23,Adam Wynn,DEM,30.9,0.01,4594.14,No,0.01,< 0.01,30.89823729941749
+GA,2018,State Representative,23,Mandi Ballinger,REP,69.1,99.99,17925.0,Yes,> 99.99,99.99,69.1017627005825
+GA,2018,State Representative,24,Sheri Smallwood Gilligan,REP,100.0,100.00,20195.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,25,Anita Holcomb Tucker,DEM,29.69,0.01,2172.0,No,0.01,< 0.01,29.692220340511565
+GA,2018,State Representative,25,Robert Todd Jones,REP,70.31,99.99,43900.18,Yes,> 99.99,99.99,70.30777965948843
+GA,2018,State Representative,26,Marc Morris,REP,100.0,100.00,4850.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,27,Lee Hawkins Jr.,REP,100.0,100.00,97525.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,28,Chris Erwin,REP,100.0,100.00,62785.0,No,100.00,100.00,100.0
+GA,2018,State Representative,29,Nancy Stead,IND,14.14,< 0.01,0.0,No,< 0.01,< 0.01,14.137787607990724
+GA,2018,State Representative,29,Matt Dubnik,REP,85.86,> 99.99,51650.18,Yes,> 99.99,> 99.99,85.86221239200927
+GA,2018,State Representative,3,Dewayne Hill,REP,100.0,100.00,21163.9,Yes,100.00,100.00,100.0
+GA,2018,State Representative,30,Alana Watkins,DEM,30.58,0.01,2255.59,No,0.01,< 0.01,30.575249199233074
+GA,2018,State Representative,30,Emory Dunahoo Jr.,REP,69.42,99.99,96100.48,Yes,> 99.99,99.99,69.42475080076693
+GA,2018,State Representative,31,Tommy Benton Sr.,REP,100.0,100.00,36297.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,32,Alan Powell,REP,100.0,100.00,87200.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,33,Thomas McCall,REP,100.0,100.00,38550.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,34,Matt Southwell,DEM,41.09,0.03,2509.35,No,1.58,0.01,41.08540877058072
+GA,2018,State Representative,34,Bert Reeves,REP,58.91,99.97,54176.0,Yes,99.99,98.42,58.91459122941929
+GA,2018,State Representative,35,Salvatore Castellana,DEM,44.44,1.44,1425.0,No,20.35,0.02,44.44391993658237
+GA,2018,State Representative,35,Ed Edwin Setzler,REP,55.56,98.56,20309.5,Yes,99.98,79.65,55.556080063417625
+GA,2018,State Representative,36,Jen Slipakoff,DEM,39.37,0.01,92549.91,No,0.24,0.01,39.36920291350592
+GA,2018,State Representative,36,Ginny Ehrhart,REP,60.63,99.99,96100.0,No,99.99,99.76,60.63079708649407
+GA,2018,State Representative,37,Mary Frances Williams,DEM,47.73,18.6,48795.98,No,67.88,1.23,47.73120399804109
+GA,2018,State Representative,37,Sam Teasley,REP,52.27,81.40,61025.0,Yes,98.77,32.12,52.26879600195892
+GA,2018,State Representative,38,David Wilkerson,DEM,100.0,100.00,13800.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,39,Erica Renee Thomas,DEM,79.61,> 99.99,6951.0,Yes,> 99.99,> 99.99,79.61459779926516
+GA,2018,State Representative,39,W) Morrow Jr.,REP,20.39,< 0.01,0.0,No,< 0.01,< 0.01,20.385402200734852
+GA,2018,State Representative,4,Kasey Carpenter,REP,100.0,100.00,2750.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,40,Erick Allen,DEM,51.29,69.48,46933.18,No,96.9,19.83,51.2949745772024
+GA,2018,State Representative,40,Matt Bentley,REP,48.71,30.52,95660.74,No,80.17,3.1,48.7050254227976
+GA,2018,State Representative,41,Michael Smith,DEM,67.25,99.99,2825.0,Yes,99.99,99.99,67.24542985085708
+GA,2018,State Representative,41,Deanna Harris,REP,32.75,0.01,20036.12,No,0.01,0.01,32.754570149142914
+GA,2018,State Representative,42,Teri Anulewicz,DEM,100.0,100.00,5636.71,Yes,100.00,100.00,100.0
+GA,2018,State Representative,43,Luisa Wakeman,DEM,46.48,8.28,56358.36,No,48.82,0.31,46.47603035256122
+GA,2018,State Representative,43,Sharon Cooper,REP,53.52,91.72,138034.32,Yes,99.69,51.18,53.52396964743878
+GA,2018,State Representative,44,Chinita Allen,DEM,41.43,0.04,10767.0,No,2.19,0.01,41.4271059712266
+GA,2018,State Representative,44,Don Parsons,REP,58.57,99.96,54200.0,Yes,99.99,97.81,58.57289402877339
+GA,2018,State Representative,45,Essence Johnson,DEM,37.29,0.01,25133.9,No,0.02,0.01,37.28668353305196
+GA,2018,State Representative,45,Matt Dollar,REP,62.71,99.99,34038.0,Yes,99.99,99.98,62.713316466948044
+GA,2018,State Representative,46,Karen Sandiford,DEM,36.47,0.01,33679.32,No,0.01,0.01,36.471550556716146
+GA,2018,State Representative,46,John Carson,REP,63.53,99.99,86143.9,Yes,99.99,99.99,63.528449443283854
+GA,2018,State Representative,47,Andrea Nugent,DEM,32.55,0.01,1355.0,No,0.01,0.01,32.55041278700019
+GA,2018,State Representative,47,Jan Jones,REP,67.45,99.99,182301.0,Yes,99.99,99.99,67.4495872129998
+GA,2018,State Representative,48,Mary Robichaux,DEM,44.1,1.01,63225.18,No,16.72,0.02,44.09814370415512
+GA,2018,State Representative,48,Betty Price,REP,55.9,98.99,96867.0,Yes,99.98,83.28,55.90185629584488
+GA,2018,State Representative,49,Krishan Bralley,DEM,39.53,0.01,17097.0,No,0.29,0.01,39.532617473185084
+GA,2018,State Representative,49,Charles Martin Jr.,REP,60.47,99.99,30700.0,Yes,99.99,99.71,60.467382526814916
+GA,2018,State Representative,5,Brian Rosser,DEM,25.33,< 0.01,785.0,No,< 0.01,< 0.01,25.326172479094527
+GA,2018,State Representative,5,John Meadows,REP,74.67,> 99.99,141599.0,Yes,> 99.99,> 99.99,74.67382752090548
+GA,2018,State Representative,50,Angelika Kausche,DEM,44.61,1.69,58200.88,No,22.19,0.03,44.60539503138577
+GA,2018,State Representative,50,Kelly Leigh Stewart,REP,55.39,98.31,188540.0,No,99.97,77.81,55.39460496861424
+GA,2018,State Representative,51,Josh McLaurin,DEM,49.12,36.45,61158.51,No,84.39,4.43,49.119192790422254
+GA,2018,State Representative,51,Alex Kaufman,REP,50.88,63.55,156711.91,No,95.57,15.61,50.88080720957774
+GA,2018,State Representative,52,Shea Roberts,DEM,43.42,0.49,43347.95,No,10.89,0.01,43.41925832941084
+GA,2018,State Representative,52,Deborah Silcox,REP,56.58,99.51,200587.77,Yes,99.99,89.11,56.58074167058916
+GA,2018,State Representative,53,Sheila Jones,DEM,100.0,100.00,10141.98,Yes,100.00,100.00,100.0
+GA,2018,State Representative,54,Betsy Holland,DEM,45.06,2.6,45608.0,No,27.86,0.05,45.059865868282714
+GA,2018,State Representative,54,Beth Beskin,REP,54.94,97.40,72917.0,Yes,99.95,72.14,54.940134131717286
+GA,2018,State Representative,55,Marie Robinson Metze,DEM,100.0,100.00,600.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,56,Able Mable) Thomas,DEM,100.0,100.00,27333.5,Yes,100.00,100.00,100.0
+GA,2018,State Representative,57,Patricia Gardner,DEM,100.0,100.00,8501.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,58,Park Cannon,DEM,100.0,100.00,44142.53,Yes,100.00,100.00,100.0
+GA,2018,State Representative,59,David Dreyer,DEM,100.0,100.00,26099.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,6,Jason Ridley,REP,100.0,100.00,21250.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,60,Kim Schofield,DEM,100.0,100.00,35905.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,61,Roger Bruce,DEM,100.0,100.00,17060.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,62,William Boddie Jr.,DEM,100.0,100.00,44358.46,Yes,100.00,100.00,100.0
+GA,2018,State Representative,63,Debra Bazemore,DEM,100.0,100.00,14976.35,Yes,100.00,100.00,100.0
+GA,2018,State Representative,64,Derrick Jackson,DEM,100.0,100.00,27287.6,Yes,100.00,100.00,100.0
+GA,2018,State Representative,65,Sharon Beasley-Teague,DEM,100.0,100.00,15135.63,Yes,100.00,100.00,100.0
+GA,2018,State Representative,66,Kimberly Alexander,DEM,100.0,100.00,4850.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,67,Micah Gravley,REP,100.0,100.00,21151.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,68,Collins,REP,100.0,100.00,13259.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,69,Randy Otis Nix,REP,100.0,100.00,4000.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,7,Rick Day,DEM,24.37,< 0.01,506.0,No,< 0.01,< 0.01,24.368651691961634
+GA,2018,State Representative,7,David Ralston,REP,75.63,> 99.99,959231.44,Yes,> 99.99,> 99.99,75.63134830803835
+GA,2018,State Representative,70,Lynn Ratigan Smith,REP,100.0,100.00,55459.9,Yes,100.00,100.00,100.0
+GA,2018,State Representative,71,Tom Thomason,DEM,31.26,0.01,3450.0,No,0.01,< 0.01,31.255101444622063
+GA,2018,State Representative,71,David Jay Stover,REP,68.74,99.99,20631.0,Yes,> 99.99,99.99,68.74489855537793
+GA,2018,State Representative,72,Josh Bonner,REP,100.0,100.00,68491.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,73,Karen Mathiak,REP,100.0,100.00,22584.85,Yes,100.00,100.00,100.0
+GA,2018,State Representative,74,Valencia Stovall,DEM,100.0,100.00,16817.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,75,Michael Eugene Glanton Sr.,DEM,100.0,100.00,27600.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,76,Sandra Scott,DEM,100.0,100.00,6250.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,77,Rhonda Burnough,DEM,100.0,100.00,3144.12,Yes,100.00,100.00,100.0
+GA,2018,State Representative,78,Demetrius Douglas,DEM,100.0,100.00,25100.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,79,Michael Wilensky,DEM,47.98,21.31,180626.0,No,71.28,1.57,47.97792710586792
+GA,2018,State Representative,79,Ken Wright,REP,52.02,78.69,46191.0,No,98.43,28.72,52.02207289413208
+GA,2018,State Representative,8,Matt Gurtler,REP,100.0,100.00,57871.31,Yes,100.00,100.00,100.0
+GA,2018,State Representative,80,Matthew Wilson,DEM,48.12,22.93,97135.03,No,73.1,1.8,48.115968253996094
+GA,2018,State Representative,80,Meagan Hanson,REP,51.88,77.07,61155.34,Yes,98.2,26.9,51.8840317460039
+GA,2018,State Representative,81,Scott Holcomb,DEM,60.91,99.99,48786.0,Yes,99.99,99.83,60.905506903451176
+GA,2018,State Representative,81,Ellen Diehl,REP,39.09,0.01,38371.9,No,0.17,0.01,39.094493096548824
+GA,2018,State Representative,82,Mary Margaret Oliver,DEM,100.0,100.00,12000.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,83,Becky Evans,DEM,100.0,100.00,134874.0,No,100.00,100.00,100.0
+GA,2018,State Representative,84,Renitta Shannon,DEM,100.0,100.00,13324.77,Yes,100.00,100.00,100.0
+GA,2018,State Representative,85,Karla Lea Drenner,DEM,100.0,100.00,15350.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,86,Michele Henson,DEM,100.0,100.00,51545.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,87,Viola Davis,DEM,100.0,100.00,19365.0,No,100.00,100.00,100.0
+GA,2018,State Representative,88,Billy Mitchell,DEM,92.37,> 99.99,1000.0,Yes,> 99.99,> 99.99,92.37491029857316
+GA,2018,State Representative,88,Joshua Hampton,IND,7.63,< 0.01,0.0,No,< 0.01,< 0.01,7.625089701426846
+GA,2018,State Representative,89,Bee Nguyen,DEM,100.0,100.00,10738.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,9,Kevin Kermit Tanner,REP,100.0,100.00,170547.4,Yes,100.00,100.00,100.0
+GA,2018,State Representative,90,Pamela Sturdivant Stephenson,DEM,78.37,> 99.99,1950.0,Yes,> 99.99,> 99.99,78.36753284945064
+GA,2018,State Representative,90,Takosha Swan,REP,21.63,< 0.01,3335.0,No,< 0.01,< 0.01,21.63246715054936
+GA,2018,State Representative,91,Vernon Jones,DEM,100.0,100.00,9160.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,92,Doreen Carter,DEM,100.0,100.00,15531.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,93,Darshun Kendrick,DEM,100.0,100.00,17064.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,94,Karen Bennett,DEM,100.0,100.00,14050.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,95,Beth Moore,DEM,45.33,3.32,16289.72,No,31.57,0.08,45.33211144975137
+GA,2018,State Representative,95,Scott Hilton,REP,54.67,96.68,68830.18,Yes,99.92,68.43,54.66788855024862
+GA,2018,State Representative,96,Pete Marin,DEM,100.0,100.00,10041.0,Yes,100.00,100.00,100.0
+GA,2018,State Representative,97,Aisha Yaqoob,DEM,42.09,0.1,72301.75,No,3.97,0.01,42.092806683774945
+GA,2018,State Representative,97,Bonnie Rich,REP,57.91,99.90,66001.0,No,99.99,96.03,57.90719331622506
+GA,2018,State Representative,98,David Clark,REP,100.0,100.00,15276.55,Yes,100.00,100.00,100.0
+GA,2018,State Representative,99,Brenda Lopez Romero,DEM,100.0,100.00,33534.63,Yes,100.00,100.00,100.0
+GA,2018,State Senator,1,Sandra Workman,DEM,38.36,0.01,18822.0,No,0.07,0.01,38.36279831474518
+GA,2018,State Senator,1,Ben Watson,REP,61.64,99.99,64400.0,Yes,99.99,99.93,61.63720168525483
+GA,2018,State Senator,10,Emanuel Jones,DEM,100.0,100.00,18100.0,Yes,100.00,100.00,100.0
+GA,2018,State Senator,11,Kenneth Dean Burke,REP,100.0,100.00,122420.0,Yes,100.00,100.00,100.0
+GA,2018,State Senator,12,Freddie Powell Sims,DEM,100.0,100.00,19605.0,Yes,100.00,100.00,100.0
+GA,2018,State Senator,13,Greg Kirk,REP,100.0,100.00,38775.0,Yes,100.00,100.00,100.0
+GA,2018,State Senator,14,Rachel Kinsey,DEM,32.84,0.01,3248.0,No,0.01,0.01,32.83892267972854
+GA,2018,State Senator,14,Bruce Thompson,REP,67.16,99.99,65705.0,Yes,99.99,99.99,67.16107732027147
+GA,2018,State Senator,15,Ed Harbison,DEM,100.0,100.00,35224.78,Yes,100.00,100.00,100.0
+GA,2018,State Senator,16,Bill Lightle,DEM,32.16,0.01,8305.32,No,0.01,< 0.01,32.164791047302714
+GA,2018,State Senator,16,Marty Harbin,REP,67.84,99.99,102869.0,Yes,> 99.99,99.99,67.83520895269729
+GA,2018,State Senator,17,Phyllis Hatcher,DEM,44.78,2.01,32824.0,No,24.35,0.04,44.78484463423024
+GA,2018,State Senator,17,Robert Brian Strickland,REP,55.22,97.99,93094.3,Yes,99.96,75.65,55.21515536576976
+GA,2018,State Senator,18,John Kennedy,REP,100.0,100.00,137406.67,Yes,100.00,100.00,100.0
+GA,2018,State Senator,19,Blake Tillery,REP,100.0,100.00,148721.12,Yes,100.00,100.00,100.0
+GA,2018,State Senator,2,Lester Jackson III,DEM,100.0,100.00,55550.0,Yes,100.00,100.00,100.0
+GA,2018,State Senator,20,Larry Walker,REP,100.0,100.00,87071.0,Yes,100.00,100.00,100.0
+GA,2018,State Senator,21,Nicole Nash,DEM,30.87,0.01,3996.68,No,0.01,< 0.01,30.874874658941014
+GA,2018,State Senator,21,Brandon Beach,REP,69.13,99.99,141250.0,Yes,> 99.99,99.99,69.12512534105898
+GA,2018,State Senator,22,Harold Jones II,DEM,100.0,100.00,13150.0,Yes,100.00,100.00,100.0
+GA,2018,State Senator,23,Jesse Stone,REP,100.0,100.00,28750.0,Yes,100.00,100.00,100.0
+GA,2018,State Senator,24,Lee Anderson,REP,100.0,100.00,35000.0,Yes,100.00,100.00,100.0
+GA,2018,State Senator,25,Burt Burton Jones,REP,100.0,100.00,159520.0,Yes,100.00,100.00,100.0
+GA,2018,State Senator,26,David Lucas Sr.,DEM,100.0,100.00,32250.0,Yes,100.00,100.00,100.0
+GA,2018,State Senator,27,Steve Smith,DEM,27.71,< 0.01,2488.07,No,0.01,< 0.01,27.714213569724677
+GA,2018,State Senator,27,Greg Dolezal,REP,72.29,> 99.99,438403.98,No,> 99.99,99.99,72.28578643027532
+GA,2018,State Senator,28,Matt Brass,REP,100.0,100.00,105130.0,Yes,100.00,100.00,100.0
+GA,2018,State Senator,29,Valerie Haskins,DEM,39.43,0.01,7701.09,No,0.26,0.01,39.432302835190875
+GA,2018,State Senator,29,Randy Robertson,REP,60.57,99.99,59680.66,No,99.99,99.74,60.56769716480913
+GA,2018,State Senator,3,Jerrold Dagen,DEM,32.64,0.01,1271.95,No,0.01,0.01,32.640335029183944
+GA,2018,State Senator,3,William Ligon Jr.,REP,67.36,99.99,65707.0,Yes,99.99,99.99,67.35966497081604
+GA,2018,State Senator,30,Mike Dugan,REP,100.0,100.00,61405.27,Yes,100.00,100.00,100.0
+GA,2018,State Senator,31,Bill Donald Heath Jr.,REP,100.0,100.00,19850.0,Yes,100.00,100.00,100.0
+GA,2018,State Senator,32,Christine Triebsch,DEM,39.37,0.01,4989.18,No,0.24,0.01,39.36991011700301
+GA,2018,State Senator,32,Kay Kirkpatrick,REP,60.63,99.99,35850.0,Yes,99.99,99.76,60.630089882997
+GA,2018,State Senator,33,Doc Rhett,DEM,100.0,100.00,9774.0,Yes,100.00,100.00,100.0
+GA,2018,State Senator,34,Valencia Seay,DEM,83.61,> 99.99,43195.42,Yes,> 99.99,> 99.99,83.60949157331082
+GA,2018,State Senator,34,Tommy Smith,REP,16.39,< 0.01,0.0,No,< 0.01,< 0.01,16.390508426689177
+GA,2018,State Senator,35,Donzella James,DEM,100.0,100.00,24125.51,Yes,100.00,100.00,100.0
+GA,2018,State Senator,36,Nan Grogan Orrock,DEM,100.0,100.00,61398.29,Yes,100.00,100.00,100.0
+GA,2018,State Senator,37,Andy Clark,DEM,38.93,0.01,7775.0,No,0.14,0.01,38.93039702696237
+GA,2018,State Senator,37,Lindsey Tippins,REP,61.07,99.99,45250.0,Yes,99.99,99.86,61.06960297303763
+GA,2018,State Senator,38,Horacena Tate,DEM,81.66,> 99.99,33100.0,Yes,> 99.99,> 99.99,81.66181926488296
+GA,2018,State Senator,38,Travis Klavohn,REP,18.34,< 0.01,10084.2,No,< 0.01,< 0.01,18.338180735117042
+GA,2018,State Senator,39,Nikema Williams,DEM,100.0,100.00,10533.0,Yes,100.00,100.00,100.0
+GA,2018,State Senator,4,Jack Hill,REP,100.0,100.00,134437.0,Yes,100.00,100.00,100.0
+GA,2018,State Senator,40,Sally Harrell,DEM,48.89,33.11,199211.56,No,82.13,3.64,48.88970630981165
+GA,2018,State Senator,40,Francis Millar,REP,51.11,66.89,143024.05,Yes,96.36,17.87,51.11029369018835
+GA,2018,State Senator,41,Steve Bradley Henson,DEM,100.0,100.00,133380.0,Yes,100.00,100.00,100.0
+GA,2018,State Senator,42,Elena Parent,DEM,100.0,100.00,33745.0,Yes,100.00,100.00,100.0
+GA,2018,State Senator,43,Tonya Anderson,DEM,100.0,100.00,21852.4,Yes,100.00,100.00,100.0
+GA,2018,State Senator,44,Gail Paulette Davenport,DEM,100.0,100.00,65377.79,Yes,100.00,100.00,100.0
+GA,2018,State Senator,45,Jana Rodgers,DEM,37.95,0.01,1334.32,No,0.04,0.01,37.94535078424545
+GA,2018,State Senator,45,Renee Unterman,REP,62.05,99.99,136590.0,Yes,99.99,99.96,62.054649215754544
+GA,2018,State Senator,46,Marisue Hilliard,DEM,39.36,0.01,32249.95,No,0.55,0.01,39.36089759057458
+GA,2018,State Senator,46,Green Fortuin,IND,1.46,< 0.01,0.0,No,,,1.455147044782273
+GA,2018,State Senator,46,Bill Cowsert,REP,59.18,99.99,166850.0,Yes,99.99,99.45,59.18395536464315
+GA,2018,State Senator,47,Dawn Johnson,DEM,34.09,0.01,0.0,No,0.01,0.01,34.091429990963
+GA,2018,State Senator,47,Frank Joseph Ginn,REP,65.91,99.99,187647.0,Yes,99.99,99.99,65.908570009037
+GA,2018,State Senator,48,Zahra Karinshak,DEM,49.02,34.97,232100.54,No,83.43,4.07,49.01877768049047
+GA,2018,State Senator,48,Matt Reeves,REP,50.98,65.03,191633.0,No,95.93,16.57,50.98122231950952
+GA,2018,State Senator,49,Butch Terrell Miller,REP,100.0,100.00,390928.0,Yes,100.00,100.00,100.0
+GA,2018,State Senator,5,Sheikh Rahman,DEM,100.0,100.00,26600.0,No,100.00,100.00,100.0
+GA,2018,State Senator,50,John Wilkinson,REP,100.0,100.00,95434.94,Yes,100.00,100.00,100.0
+GA,2018,State Senator,51,Steve Gooch,REP,100.0,100.00,161389.85,Yes,100.00,100.00,100.0
+GA,2018,State Senator,52,Evan Ross,DEM,30.56,0.01,21977.5,No,0.01,< 0.01,30.555161288186223
+GA,2018,State Senator,52,Chuck Hufstetler,REP,69.44,99.99,96225.0,Yes,> 99.99,99.99,69.44483871181377
+GA,2018,State Senator,53,Jeff Mullis,REP,100.0,100.00,360616.32,Yes,100.00,100.00,100.0
+GA,2018,State Senator,54,Michael Morgan,DEM,26.92,< 0.01,1020.0,No,0.01,< 0.01,26.921865890623614
+GA,2018,State Senator,54,Chuck Payne,REP,73.08,> 99.99,89777.0,Yes,> 99.99,99.99,73.07813410937639
+GA,2018,State Senator,55,Gloria Butler,DEM,81.19,> 99.99,34105.0,Yes,> 99.99,> 99.99,81.1899830318621
+GA,2018,State Senator,55,Annette Davis Jackson,REP,18.81,< 0.01,0.0,No,< 0.01,< 0.01,18.810016968137905
+GA,2018,State Senator,56,Ellyn Jeager,DEM,42.78,0.23,22799.18,No,6.91,0.01,42.78343879925067
+GA,2018,State Senator,56,John Albers,REP,57.22,99.77,70349.99,Yes,99.99,93.09,57.21656120074934
+GA,2018,State Senator,6,Jen Jordan,DEM,55.64,98.67,131053.0,Yes,99.98,80.55,55.637578988001714
+GA,2018,State Senator,6,Leah Aldridge,REP,44.36,1.33,274770.0,No,19.45,0.02,44.362421011998286
+GA,2018,State Senator,7,Tyler Harper,REP,100.0,100.00,153600.0,Yes,100.00,100.00,100.0
+GA,2018,State Senator,8,Ellis Black,REP,100.0,100.00,40250.0,Yes,100.00,100.00,100.0
+GA,2018,State Senator,9,Cheryle Moses,DEM,42.87,0.26,5715.5,No,7.4,0.01,42.87483326163865
+GA,2018,State Senator,9,K Martin IV,REP,57.13,99.74,109611.0,Yes,99.99,92.6,57.125166738361344
+GA,2018,Superintendent Of Public Instruction,Statewide,Otha Edward Thornton Jr.,DEM,48.42,26.73,84709.84,No,,,48.42147254910596
+GA,2018,Superintendent Of Public Instruction,Statewide,Richard Woods,REP,51.58,73.27,19630.0,Yes,,,51.57852745089405
+GA,2018,U.S. Representative,1,Lisa Ring,DEM,42.96,0.28,104281.49,No,7.88,0.01,42.95960542229876
+GA,2018,U.S. Representative,1,Buddy Leroy Carter,REP,57.04,99.72,1158373.82,Yes,99.99,92.12,57.04039457770125
+GA,2018,U.S. Representative,10,Tabitha Johnson-Green,DEM,35.74,0.01,0.0,No,0.01,0.01,35.736401825337424
+GA,2018,U.S. Representative,10,Jody Brownlow Hice,REP,64.26,99.99,450597.3,Yes,99.99,99.99,64.26359817466258
+GA,2018,U.S. Representative,11,Flynn Broady Jr.,DEM,35.54,0.01,0.0,No,0.01,0.01,35.544161565729254
+GA,2018,U.S. Representative,11,Barry Loudermilk,REP,64.46,99.99,652836.45,Yes,99.99,99.99,64.45583843427075
+GA,2018,U.S. Representative,12,Francys Johnson,DEM,41.68,0.06,0.0,No,2.78,0.01,41.68390463017451
+GA,2018,U.S. Representative,12,Rick Allen,REP,58.32,99.94,757500.75,Yes,99.99,97.22,58.31609536982549
+GA,2018,U.S. Representative,13,David Scott,DEM,72.51,> 99.99,904512.32,Yes,> 99.99,99.99,72.50981767042038
+GA,2018,U.S. Representative,13,David Callahan,REP,27.49,< 0.01,0.0,No,0.01,< 0.01,27.49018232957962
+GA,2018,U.S. Representative,14,Steven Lamar Foster,DEM,27.31,< 0.01,0.0,No,0.01,< 0.01,27.310928854744226
+GA,2018,U.S. Representative,14,Tom Thomas Graves Jr.,REP,72.69,> 99.99,1653246.35,Yes,> 99.99,99.99,72.68907114525578
+GA,2018,U.S. Representative,2,Sanford Bishop Jr.,DEM,65.62,99.99,782470.65,Yes,99.99,99.99,65.61877208534013
+GA,2018,U.S. Representative,2,Herman West Jr.,REP,34.38,0.01,0.0,No,0.01,0.01,34.38122791465987
+GA,2018,U.S. Representative,3,Charles Joseph Enderlin Jr.,DEM,35.99,0.01,27969.55,No,0.01,0.01,35.99117718475793
+GA,2018,U.S. Representative,3,Drew Ferguson IV,REP,64.01,99.99,913060.6,Yes,99.99,99.99,64.00882281524207
+GA,2018,U.S. Representative,4,Hank Johnson,DEM,76.56,> 99.99,369089.69,Yes,> 99.99,> 99.99,76.55625941246478
+GA,2018,U.S. Representative,4,Joe Profit,REP,23.44,< 0.01,0.0,No,< 0.01,< 0.01,23.44374058753521
+GA,2018,U.S. Representative,5,John Lewis,DEM,100.0,100.00,2549979.2,Yes,100.00,100.00,100.0
+GA,2018,U.S. Representative,6,Lucy McBath,DEM,42.22,0.11,0.0,No,4.4,0.01,42.21558131922401
+GA,2018,U.S. Representative,6,Karen Christine Handel,REP,57.78,99.89,0.0,Yes,99.99,95.6,57.784418680775985
+GA,2018,U.S. Representative,7,Carolyn Bourdeaux,DEM,45.0,2.45,850601.45,No,27.05,0.05,44.99753207409826
+GA,2018,U.S. Representative,7,Rob Robert Woodall,REP,55.0,97.55,728902.0,Yes,99.95,72.95,55.00246792590173
+GA,2018,U.S. Representative,8,Austin Austin Scott,REP,100.0,100.00,697153.5,Yes,100.00,100.00,100.0
+GA,2018,U.S. Representative,9,Joshua Braxton McCall,DEM,28.19,< 0.01,12463.61,No,0.01,< 0.01,28.190515064464844
+GA,2018,U.S. Representative,9,Doug Collins,REP,71.81,> 99.99,994587.85,Yes,> 99.99,99.99,71.80948493553517
