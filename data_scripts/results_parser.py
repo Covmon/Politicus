@@ -1,4 +1,5 @@
 import csv
+import re
 
 states = ["AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", 
           "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD", 
@@ -8,15 +9,17 @@ states = ["AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA",
 
 statesGA = ["GA"]
 
-rows = [["State", "Position", "District", "Dem Projected", "Dem Actual", "Dem Probability", "Rep Projected", "Rep Actual", "Rep Probability", "Other Projected", "Other Actual", "Other Probability"]]
+rows = [["State", "Position", "District", "Dem Projected", "Dem Actual", "Dem Probability", "Rep Projected", "Rep Actual", "Rep Probability", "Other Projected", "Other Actual", "Other Probability", "Rating", "Winner", "Correct", "Error"]]
 
-for state in states:
-    pathPredictions = state + "_Races_Election_Predictions.csv"
-    pathResults = state + "_Races_Election_Results"
+for state in statesGA:
+    pathPredictions = "/Users/noahcovey/Documents/Development/Elections/Politicus/2018_Election_Races_Predictions/" + state + "_Races_Election_Predictions.csv"
+    pathResults = "/Users/noahcovey/Documents/Development/Elections/Politicus/2018_Election_Races_Results/" + state + "_Races_Election_Results.csv"
+    pathPredAndResults = "/Users/noahcovey/Documents/Development/Elections/Politicus/2018_Election_Races_Predictions_And_Results/" + state + "_Election_Races_Predictions_And_Results.csv"
 
-    with open(pathPredictions, "r") as f, open(pathResults, "r") as f2:
-        predictionsReader = csv.reader(f)
-        resultsReader = csv.reader(f2)
+    with open(pathPredAndResults, "r") as f:
+        #predictionsReader = csv.reader(f)
+        #resultsReader = csv.reader(f2)
+        reader = csv.reader(f)
 
         lineNumber = 0
         lastDist = ""
@@ -24,28 +27,26 @@ for state in states:
 
         currentRaceRow = ["","","","","","","","","","","",""]
 
-        for predictionRow in predictionsReader:                        
+        for predictionRow in reader:                        
             if lineNumber == 0:
                 lineNumber += 1
                 continue
 
-            correspondingResultsRow = []         
-
             isNewRace = True
 
-            state = predictionRow[1]
-            position = predictionRow[3]
-            district = predictionRow[4]
-            party = predictionRow[6]
+            state = predictionRow[0]
+            position = predictionRow[2]
+            district = predictionRow[3]
+            party = predictionRow[5]
 
-            for resultsRow in resultsReader:
-                if resultsRow[1] == state and resultsRow[3] == position and resultsRow[4] == district and resultsRow[6] == party:
-                    correspondingResultsRow = resultsRow
-                    break
+            print state, position, district, party
 
-            projected = round(float(predictionRow[7]),2)
-            actual = correspondingResultsRow[7]
-            probability = predictionRow[8]
+            projectedNum = re.sub("[^\d\.]", "", predictionRow[6])
+            probabilityNum = re.sub("[^\d\.]", "", predictionRow[8])
+
+            projected = round(float(projectedNum),2)
+            actual = predictionRow[7]
+            probability = probabilityNum
 
             if lastDist == district and lastPos == position:
                 isNewRace = False
@@ -74,7 +75,7 @@ for state in states:
 
             lineNumber += 1
 
-    fileName = state + "_2018_Election_Results_Parsed"
+    fileName = "/Users/noahcovey/Documents/Development/Elections/Politicus/2018_Election_Results_Parsed/" + state + "_2018_Election_Results_Parsed.csv"
     with open(fileName, "w") as f:
         writer = csv.writer(f)
         writer.writerows(rows)
