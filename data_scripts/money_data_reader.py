@@ -66,10 +66,11 @@ def writeCSV(file, s, y):
             if status.lower() != "lost-primary" and party.lower() != "writein":
                 writer.writerow([name, party, state, office, incumbency, status, totalMoney])
 
-for state in states:
-    fileName = state + "_fundraising_data_" + year + ".csv"
-    with open(fileName, 'w') as csvf:
-        writeCSV(csvf, state, year)
+def money_data_reader():
+    for state in states:
+        fileName = state + "_fundraising_data_" + year + ".csv"
+        with open(fileName, 'w') as csvf:
+            writeCSV(csvf, state, year)
     
 
 print("FINISHED")

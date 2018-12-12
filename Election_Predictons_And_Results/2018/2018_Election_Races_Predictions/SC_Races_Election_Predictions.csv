@@ -1,0 +1,210 @@
+State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability,Unrounded Predicted Vote Share
+SC,2018,Attorney General,Statewide,Constance Anastopoulo,DEM,43.44,0.5,161106.17,No,,,43.43994091627978
+SC,2018,Attorney General,Statewide,Michael Alan Wilson,REP,56.56,99.50,1592729.4,Yes,,,56.560059083720226
+SC,2018,Comptroller,Statewide,Richard Eckstrom,REP,100.0,100.00,31850.0,Yes,,,100.0
+SC,2018,Governor,Statewide,James Smith Jr.,DEM,42.14,0.1,1424569.0,No,,,42.135685293812806
+SC,2018,Governor,Statewide,Henry McMaster,REP,57.86,99.90,5667557.86,Yes,,,57.8643147061872
+SC,2018,Secretary Of State,Statewide,Melvin Whittenburg,DEM,39.69,0.01,10216.0,No,,,39.690007124338386
+SC,2018,Secretary Of State,Statewide,John Mark Hammond,REP,60.31,99.99,72939.95,Yes,,,60.309992875661614
+SC,2018,State Representative,1,Bill Whitmire,REP,100.0,100.00,9616.41,Yes,100.00,100.00,100.0
+SC,2018,State Representative,10,Lucy Hoffman,DEM,28.01,< 0.01,8048.66,No,0.01,< 0.01,28.014757342647663
+SC,2018,State Representative,10,West Cox,REP,71.99,> 99.99,11800.95,No,> 99.99,99.99,71.98524265735234
+SC,2018,State Representative,100,Michael Yates,DEM,33.69,0.01,0.0,No,0.01,0.01,33.68982591300667
+SC,2018,State Representative,100,Sylleste Davis,REP,66.31,99.99,46729.34,Yes,99.99,99.99,66.31017408699333
+SC,2018,State Representative,101,Cezar McKnight,DEM,100.0,100.00,13100.93,Yes,100.00,100.00,100.0
+SC,2018,State Representative,102,Joseph Jefferson Jr.,DEM,63.5,99.99,12409.02,Yes,99.99,99.99,63.49600721080171
+SC,2018,State Representative,102,Terry Hardesty,REP,36.5,0.01,1733.0,No,0.01,0.01,36.5039927891983
+SC,2018,State Representative,103,Carl Anderson,DEM,100.0,100.00,22099.18,Yes,100.00,100.00,100.0
+SC,2018,State Representative,104,William Bailey Jr.,REP,100.0,100.00,42781.5,No,100.00,100.00,100.0
+SC,2018,State Representative,105,Kevin Hardee,REP,100.0,100.00,7500.0,Yes,100.00,100.00,100.0
+SC,2018,State Representative,106,Robin Gause,DEM,26.55,< 0.01,2175.0,No,0.01,< 0.01,26.552117848878137
+SC,2018,State Representative,106,Russell Fry,REP,73.45,> 99.99,80032.0,Yes,> 99.99,99.99,73.44788215112186
+SC,2018,State Representative,107,Alan Clemmons,REP,100.0,100.00,92125.62,Yes,100.00,100.00,100.0
+SC,2018,State Representative,108,William Hewitt,REP,100.0,100.00,34249.18,Yes,100.00,100.00,100.0
+SC,2018,State Representative,109,David Mack III,DEM,85.15,> 99.99,11449.18,Yes,> 99.99,> 99.99,85.15181392742275
+SC,2018,State Representative,109,Rodney Travis,LIB,14.85,< 0.01,0.0,No,< 0.01,< 0.01,14.848186072577255
+SC,2018,State Representative,11,Devon Smith,DEM,31.01,0.01,2500.0,No,0.01,< 0.01,31.009617616749352
+SC,2018,State Representative,11,Craig Gagnon,REP,68.99,99.99,28100.49,Yes,> 99.99,99.99,68.99038238325065
+SC,2018,State Representative,110,Ben Pogue III,DEM,42.63,0.19,55878.0,No,6.13,0.01,42.62678006695354
+SC,2018,State Representative,110,William Cogswell Jr.,REP,57.37,99.81,84900.0,Yes,99.99,93.87,57.37321993304646
+SC,2018,State Representative,111,Wendell Gilliard,DEM,100.0,100.00,11768.34,Yes,100.00,100.00,100.0
+SC,2018,State Representative,112,Joe Preston,DEM,40.87,0.02,4981.49,No,1.27,0.01,40.86734752733703
+SC,2018,State Representative,112,Michael Sottile,REP,59.13,99.98,32749.18,Yes,99.99,98.73,59.13265247266297
+SC,2018,State Representative,113,Marvin Pendarvis,DEM,100.0,100.00,7596.22,Yes,100.00,100.00,100.0
+SC,2018,State Representative,114,Dan Jones,DEM,40.87,0.05,18445.0,No,2.39,0.01,40.86574270690194
+SC,2018,State Representative,114,Melissa Couture,LIB,1.31,< 0.01,0.0,No,,,1.3078480720469383
+SC,2018,State Representative,114,Linda Bennett,REP,57.83,99.95,9748.02,Yes,99.99,97.61,57.82640922105111
+SC,2018,State Representative,115,Carol Tempel,DEM,44.62,1.73,23878.48,No,22.42,0.03,44.624892510264885
+SC,2018,State Representative,115,Peter McCoy,REP,55.38,98.27,62590.0,Yes,99.97,77.58,55.37510748973511
+SC,2018,State Representative,116,Robert Brown,DEM,61.72,99.99,8349.18,Yes,99.99,99.94,61.72345958841349
+SC,2018,State Representative,116,James Oneal,REP,38.28,0.01,2275.0,No,0.06,0.01,38.27654041158651
+SC,2018,State Representative,117,Krystle Simmons,DEM,45.35,3.37,140.0,No,31.82,0.08,45.349931342332496
+SC,2018,State Representative,117,William Crosby,REP,54.65,96.63,34949.18,Yes,99.92,68.18,54.650068657667504
+SC,2018,State Representative,118,Bill Herbkersman,REP,100.0,100.00,10250.0,Yes,100.00,100.00,100.0
+SC,2018,State Representative,119,Leon Stavrinakis,DEM,65.06,99.99,19873.58,Yes,99.99,99.99,65.064654067979
+SC,2018,State Representative,119,Paul Sizemore,REP,34.94,0.01,0.0,No,0.01,0.01,34.93534593202099
+SC,2018,State Representative,12,Anne Parks,DEM,100.0,100.00,11450.0,Yes,100.00,100.00,100.0
+SC,2018,State Representative,120,Ryan Martz,DEM,35.04,0.01,0.0,No,0.01,0.01,35.0397998819937
+SC,2018,State Representative,120,Weston Newton,REP,64.96,99.99,37949.18,Yes,99.99,99.99,64.9602001180063
+SC,2018,State Representative,121,Michael Rivers Sr.,DEM,100.0,100.00,1550.0,Yes,100.00,100.00,100.0
+SC,2018,State Representative,122,Shedron Williams,DEM,100.0,100.00,0.0,No,100.00,100.00,100.0
+SC,2018,State Representative,123,Mario Martinez,DEM,34.12,0.01,0.0,No,0.01,0.01,34.11652134770114
+SC,2018,State Representative,123,Jeff Bradley,REP,65.88,99.99,33817.3,Yes,99.99,99.99,65.88347865229886
+SC,2018,State Representative,124,Shannon Erickson,REP,100.0,100.00,0.0,Yes,100.00,100.00,100.0
+SC,2018,State Representative,13,Michael Gaskin,DEM,34.62,0.01,3582.45,No,0.01,0.01,34.61508286932337
+SC,2018,State Representative,13,John McCravy,REP,65.38,99.99,5870.0,Yes,99.99,99.99,65.38491713067663
+SC,2018,State Representative,14,Mike Pitts,REP,100.0,100.00,10850.0,Yes,100.00,100.00,100.0
+SC,2018,State Representative,15,Ja Moore,DEM,44.63,1.73,19905.0,No,22.44,0.03,44.62663871944363
+SC,2018,State Representative,15,Samuel Rivers Jr.,REP,55.37,98.27,32349.22,Yes,99.97,77.56,55.37336128055637
+SC,2018,State Representative,16,Mark Willis,REP,100.0,100.00,8579.18,Yes,100.00,100.00,100.0
+SC,2018,State Representative,17,Judi Buckley,DEM,27.75,< 0.01,5303.0,No,0.01,< 0.01,27.75371529462967
+SC,2018,State Representative,17,James Mikell Burns,REP,72.25,> 99.99,11080.7,Yes,> 99.99,99.99,72.24628470537033
+SC,2018,State Representative,18,Tommy Stringer,REP,100.0,100.00,7194.18,Yes,100.00,100.00,100.0
+SC,2018,State Representative,19,Carrie Counton,DEM,36.05,0.01,955.0,No,0.01,0.01,36.04505228942839
+SC,2018,State Representative,19,Dwight Loftis,REP,63.95,99.99,7536.34,Yes,99.99,99.99,63.95494771057161
+SC,2018,State Representative,2,Jody Gaulin,DEM,30.76,0.01,12534.88,No,0.01,< 0.01,30.757690628464644
+SC,2018,State Representative,2,William Sandifer III,REP,69.24,99.99,95809.54,Yes,> 99.99,99.99,69.24230937153536
+SC,2018,State Representative,20,Adam Morgan,REP,100.0,100.00,11008.46,No,100.00,100.00,100.0
+SC,2018,State Representative,21,Bobby Cox,REP,100.0,100.00,68179.72,No,100.00,100.00,100.0
+SC,2018,State Representative,22,K Brown,DEM,38.02,0.01,0.0,No,0.04,0.01,38.01836855657012
+SC,2018,State Representative,22,Jason Elliott,REP,61.98,99.99,103686.26,Yes,99.99,99.96,61.9816314434299
+SC,2018,State Representative,23,Chandra Dillard,DEM,100.0,100.00,37910.58,Yes,100.00,100.00,100.0
+SC,2018,State Representative,24,Bruce Bannister,REP,100.0,100.00,22349.18,Yes,100.00,100.00,100.0
+SC,2018,State Representative,25,Leola Robinson-Simpson,DEM,85.88,> 99.99,3650.0,Yes,> 99.99,> 99.99,85.87814221565353
+SC,2018,State Representative,25,Tony Boyce,INDEPENDENCE,14.12,< 0.01,0.0,No,< 0.01,< 0.01,14.12185778434647
+SC,2018,State Representative,26,John Kraljevich Jr.,DEM,38.48,0.01,40814.26,No,0.08,0.01,38.47617106228374
+SC,2018,State Representative,26,Raye Felder,REP,61.52,99.99,16664.29,Yes,99.99,99.92,61.52382893771626
+SC,2018,State Representative,27,Garry Smith,REP,100.0,100.00,51464.18,Yes,100.00,100.00,100.0
+SC,2018,State Representative,28,Ashley Trantham,REP,100.0,100.00,17863.85,Yes,100.00,100.00,100.0
+SC,2018,State Representative,29,Dennis Carroll Moss,REP,100.0,100.00,10959.16,Yes,100.00,100.00,100.0
+SC,2018,State Representative,3,Sean McGary,REP,100.0,100.00,34268.21,Yes,100.00,100.00,100.0
+SC,2018,State Representative,30,Van Stephen Moss,REP,100.0,100.00,7949.16,Yes,100.00,100.00,100.0
+SC,2018,State Representative,31,Rosalyn Henderson-Myers,DEM,100.0,100.00,8250.0,Yes,100.00,100.00,100.0
+SC,2018,State Representative,32,Max Hyde Jr.,REP,100.0,100.00,82349.18,No,100.00,100.00,100.0
+SC,2018,State Representative,33,Eddie Tallon,REP,100.0,100.00,105452.16,Yes,100.00,100.00,100.0
+SC,2018,State Representative,34,Paul Michael Forrester,REP,100.0,100.00,27057.43,Yes,100.00,100.00,100.0
+SC,2018,State Representative,35,Helen Pendarvis,DEM,30.7,0.01,1320.21,No,0.01,< 0.01,30.701653958854575
+SC,2018,State Representative,35,William Chumley,REP,69.3,99.99,5648.67,Yes,> 99.99,99.99,69.29834604114542
+SC,2018,State Representative,36,Merita Ann Allison,REP,100.0,100.00,40949.18,Yes,100.00,100.00,100.0
+SC,2018,State Representative,37,Steven Long,REP,100.0,100.00,43005.54,Yes,100.00,100.00,100.0
+SC,2018,State Representative,38,Roy Josiah Magnuson,REP,100.0,100.00,48162.96,Yes,100.00,100.00,100.0
+SC,2018,State Representative,39,Cally Forrest Jr.,REP,100.0,100.00,15949.18,Yes,100.00,100.00,100.0
+SC,2018,State Representative,4,Davey Hiott,REP,100.0,100.00,24151.98,Yes,100.00,100.00,100.0
+SC,2018,State Representative,40,Richard Martin Jr.,REP,100.0,100.00,14049.18,Yes,100.00,100.00,100.0
+SC,2018,State Representative,41,Annie McDaniel,DEM,78.67,> 99.99,10408.0,No,> 99.99,> 99.99,78.67144307336841
+SC,2018,State Representative,41,Fred Kennedy,UNITED CITIZENS,21.33,< 0.01,0.0,No,< 0.01,< 0.01,21.328556926631588
+SC,2018,State Representative,42,Leon Doug Gilliam,REP,100.0,100.00,17575.0,No,100.00,100.00,100.0
+SC,2018,State Representative,43,Tom Hawk,DEM,37.2,0.01,1220.0,No,0.02,0.01,37.20435451616637
+SC,2018,State Representative,43,Thomas Ligon,REP,62.8,99.99,31950.0,No,99.99,99.98,62.79564548383363
+SC,2018,State Representative,44,Mandy Powers Norrell,DEM,100.0,100.00,5974.18,Yes,100.00,100.00,100.0
+SC,2018,State Representative,45,Ethel Corin Buskey,DEM,35.11,0.01,5445.0,No,0.01,0.01,35.108059271395845
+SC,2018,State Representative,45,Brandon Newton,REP,64.89,99.99,28824.04,Yes,99.99,99.99,64.89194072860415
+SC,2018,State Representative,46,Carl Kenny Dicks,DEM,100.0,100.00,2274.05,No,100.00,100.00,100.0
+SC,2018,State Representative,47,Marty Cotton,DEM,32.53,0.01,1246.28,No,0.01,0.01,32.53279658409462
+SC,2018,State Representative,47,Tommy Pope,REP,67.47,99.99,35119.18,Yes,99.99,99.99,67.46720341590539
+SC,2018,State Representative,48,Vickie Holt,DEM,39.33,0.01,3464.0,No,0.23,0.01,39.32943634970328
+SC,2018,State Representative,48,Bruce Bryant,REP,60.67,99.99,7399.18,Yes,99.99,99.77,60.67056365029673
+SC,2018,State Representative,49,Johnny Walker,AMERICAN,14.47,< 0.01,0.0,No,< 0.01,< 0.01,14.469787917130066
+SC,2018,State Representative,49,John King,DEM,85.53,> 99.99,19599.05,Yes,> 99.99,> 99.99,85.53021208286992
+SC,2018,State Representative,5,Neal Anthony Collins,REP,100.0,100.00,46639.18,Yes,100.00,100.00,100.0
+SC,2018,State Representative,50,William Walter Wheeler III,DEM,100.0,100.00,9949.18,Yes,100.00,100.00,100.0
+SC,2018,State Representative,51,David Weeks,DEM,100.0,100.00,8049.18,Yes,100.00,100.00,100.0
+SC,2018,State Representative,52,Laurie Slade Funderburk,DEM,61.48,99.99,36656.95,Yes,99.99,99.92,61.48158175202452
+SC,2018,State Representative,52,Penry Gustafson,REP,38.52,0.01,8805.0,No,0.08,0.01,38.51841824797549
+SC,2018,State Representative,53,Richie Yow,REP,100.0,100.00,5450.0,Yes,100.00,100.00,100.0
+SC,2018,State Representative,54,Patricia Moore Henegan,DEM,100.0,100.00,18349.18,Yes,100.00,100.00,100.0
+SC,2018,State Representative,55,Jackie Hayes,DEM,100.0,100.00,56952.1,Yes,100.00,100.00,100.0
+SC,2018,State Representative,56,Tim McGinnis,REP,100.0,100.00,15860.0,Yes,100.00,100.00,100.0
+SC,2018,State Representative,57,Frank Atkinson,DEM,100.0,100.00,35589.18,Yes,100.00,100.00,100.0
+SC,2018,State Representative,58,Jeff Johnson,REP,100.0,100.00,13956.29,Yes,100.00,100.00,100.0
+SC,2018,State Representative,59,Terry Alexander,DEM,100.0,100.00,7660.71,Yes,100.00,100.00,100.0
+SC,2018,State Representative,6,Ryan Cowsert,AMERICAN,15.76,< 0.01,400.0,No,< 0.01,< 0.01,15.759050780659573
+SC,2018,State Representative,6,Brian Keith White,REP,84.24,> 99.99,166317.66,Yes,> 99.99,> 99.99,84.24094921934044
+SC,2018,State Representative,60,Devon Justin Long,DEM,35.74,0.01,0.0,No,0.01,0.01,35.73546913711109
+SC,2018,State Representative,60,Phillip Lowe,REP,64.26,99.99,17749.18,Yes,99.99,99.99,64.26453086288892
+SC,2018,State Representative,61,Roger Kirby,DEM,100.0,100.00,14399.18,Yes,100.00,100.00,100.0
+SC,2018,State Representative,62,Robert Williams,DEM,67.15,99.99,15068.18,Yes,99.99,99.99,67.14963650086717
+SC,2018,State Representative,62,Billy Baldwin,REP,32.85,0.01,50.0,No,0.01,0.01,32.85036349913283
+SC,2018,State Representative,63,Mike Brank,DEM,39.92,0.01,442.4,No,0.46,0.01,39.91794642862281
+SC,2018,State Representative,63,Wallace Jordan Jr.,REP,60.08,99.99,49724.17,Yes,99.99,99.54,60.08205357137718
+SC,2018,State Representative,64,Robert Ridgeway III,DEM,100.0,100.00,10263.16,Yes,100.00,100.00,100.0
+SC,2018,State Representative,65,James Lucas,REP,100.0,100.00,111199.18,Yes,100.00,100.00,100.0
+SC,2018,State Representative,66,Gilda Cobb-Hunter,DEM,73.09,> 99.99,20018.93,Yes,> 99.99,99.99,73.08584099580145
+SC,2018,State Representative,66,Tom Connor,REP,26.91,< 0.01,545.43,No,0.01,< 0.01,26.914159004198552
+SC,2018,State Representative,67,Brandon Humphries,LIB,10.68,< 0.01,0.0,No,< 0.01,< 0.01,10.677713007411187
+SC,2018,State Representative,67,George Murrell Smith Jr.,REP,89.32,> 99.99,58855.5,Yes,> 99.99,> 99.99,89.32228699258881
+SC,2018,State Representative,68,Cameron Ventura,LIB,9.05,< 0.01,842.01,No,< 0.01,< 0.01,9.050199462256176
+SC,2018,State Representative,68,Heather Ammons Crawford,REP,90.95,> 99.99,45549.18,Yes,> 99.99,> 99.99,90.94980053774383
+SC,2018,State Representative,69,Beth Ann Rocheleau,DEM,35.3,0.01,2655.0,No,0.01,0.01,35.29549311825595
+SC,2018,State Representative,69,David Morris,LIB,1.25,< 0.01,100.0,No,,,1.247390982934212
+SC,2018,State Representative,69,Chris Wooten,REP,63.46,99.99,65914.36,No,99.99,99.99,63.457115898809846
+SC,2018,State Representative,7,John West IV,REP,100.0,100.00,47442.3,Yes,100.00,100.00,100.0
+SC,2018,State Representative,70,Wendy Brawley,DEM,100.0,100.00,2800.0,Yes,100.00,100.00,100.0
+SC,2018,State Representative,71,Jonathan Ballentine,REP,100.0,100.00,67798.18,Yes,100.00,100.00,100.0
+SC,2018,State Representative,72,Seth Rose,DEM,100.0,100.00,84629.3,No,100.00,100.00,100.0
+SC,2018,State Representative,73,Christopher Hart,DEM,78.34,> 99.99,9749.18,Yes,> 99.99,> 99.99,78.3412011806932
+SC,2018,State Representative,73,Ralph Bell,REP,21.66,< 0.01,6308.89,No,< 0.01,< 0.01,21.65879881930679
+SC,2018,State Representative,74,James Todd Rutherford,DEM,88.98,> 99.99,46949.18,Yes,> 99.99,> 99.99,88.98242550397451
+SC,2018,State Representative,74,Michael Block,UNITED CITIZENS,11.02,< 0.01,0.0,No,< 0.01,< 0.01,11.017574496025482
+SC,2018,State Representative,75,John Vernon Crangle,DEM,45.74,4.68,1800.0,No,37.46,0.13,45.73864172031292
+SC,2018,State Representative,75,Kirkman Finlay III,REP,54.26,95.32,24551.44,Yes,99.87,62.54,54.26135827968708
+SC,2018,State Representative,76,Leon Howard,DEM,100.0,100.00,32007.52,Yes,100.00,100.00,100.0
+SC,2018,State Representative,77,Kambrell Houston Garvin,DEM,90.41,> 99.99,46460.53,No,> 99.99,> 99.99,90.40553838634688
+SC,2018,State Representative,77,Justin Bishop,LIB,9.59,< 0.01,0.0,No,< 0.01,< 0.01,9.594461613653126
+SC,2018,State Representative,78,Beth Bernstein,DEM,100.0,100.00,33517.87,Yes,100.00,100.00,100.0
+SC,2018,State Representative,79,"T Thigpen, IV",DEM,90.41,> 99.99,4550.0,Yes,> 99.99,> 99.99,90.41112083358409
+SC,2018,State Representative,79,Victor Kocher,LIB,9.59,< 0.01,500.0,No,< 0.01,< 0.01,9.588879166415905
+SC,2018,State Representative,8,Jonathon Hill,REP,100.0,100.00,11885.0,Yes,100.00,100.00,100.0
+SC,2018,State Representative,80,Jimmy Bales,DEM,100.0,100.00,9199.18,Yes,100.00,100.00,100.0
+SC,2018,State Representative,81,Elise Fox,DEM,34.95,0.01,11305.0,No,0.01,0.01,34.95146896423108
+SC,2018,State Representative,81,Bart Blackwell,REP,65.05,99.99,12815.45,Yes,99.99,99.99,65.0485310357689
+SC,2018,State Representative,82,William Clyburn,DEM,100.0,100.00,7419.18,Yes,100.00,100.00,100.0
+SC,2018,State Representative,83,David Weikle,LIB,8.89,< 0.01,1635.0,No,< 0.01,< 0.01,8.885149884994178
+SC,2018,State Representative,83,Bill Hixon,REP,91.11,> 99.99,10299.18,Yes,> 99.99,> 99.99,91.11485011500582
+SC,2018,State Representative,84,Jennifer Cook Lariscey,DEM,34.08,0.01,595.0,No,0.01,0.01,34.079549700628654
+SC,2018,State Representative,84,Ronald Young,REP,65.92,99.99,17369.18,Yes,99.99,99.99,65.92045029937135
+SC,2018,State Representative,85,Sam Edwards,DEM,33.33,0.01,3840.35,No,0.01,0.01,33.328430593043
+SC,2018,State Representative,85,Colonel Huggins Jr.,REP,66.67,99.99,25729.48,Yes,99.99,99.99,66.671569406957
+SC,2018,State Representative,86,Bill Taylor,REP,100.0,100.00,-22641.91,Yes,100.00,100.00,100.0
+SC,2018,State Representative,87,Diane Summers,DEM,30.95,0.01,7000.0,No,0.01,< 0.01,30.95254376785604
+SC,2018,State Representative,87,Paula Rawl Calhoon,REP,69.05,99.99,56582.7,No,> 99.99,99.99,69.04745623214396
+SC,2018,State Representative,88,McLain Toole,REP,100.0,100.00,4400.0,Yes,100.00,100.00,100.0
+SC,2018,State Representative,89,Micajah Caskey IV,REP,100.0,100.00,47663.74,Yes,100.00,100.00,100.0
+SC,2018,State Representative,9,Anne Thayer,REP,100.0,100.00,10714.43,Yes,100.00,100.00,100.0
+SC,2018,State Representative,90,Justin Bamberg,DEM,100.0,100.00,6004.83,Yes,100.00,100.00,100.0
+SC,2018,State Representative,91,Lonnie Hosey,DEM,100.0,100.00,5799.18,Yes,100.00,100.00,100.0
+SC,2018,State Representative,92,Joe Daning,REP,100.0,100.00,14674.56,Yes,100.00,100.00,100.0
+SC,2018,State Representative,93,Russell Ott,DEM,62.44,99.99,26849.18,Yes,99.99,99.97,62.44325831787819
+SC,2018,State Representative,93,Terry Kiser Sr.,REP,37.56,0.01,185.43,No,0.03,0.01,37.5567416821218
+SC,2018,State Representative,94,Damian Daly,DEM,34.53,0.01,0.0,No,0.01,0.01,34.52532381434461
+SC,2018,State Representative,94,Converse Chellis IV,REP,65.47,99.99,51825.0,No,99.99,99.99,65.47467618565538
+SC,2018,State Representative,95,Jerry Govan Jr.,DEM,73.5,> 99.99,27974.18,Yes,> 99.99,99.99,73.49985281194316
+SC,2018,State Representative,95,Chester Palmer,REP,26.5,< 0.01,185.93,No,0.01,< 0.01,26.50014718805684
+SC,2018,State Representative,96,Bob Vanlue,DEM,28.02,< 0.01,0.0,No,0.01,< 0.01,28.016122103339754
+SC,2018,State Representative,96,Lawrence Spires,REP,71.98,> 99.99,27549.18,Yes,> 99.99,99.99,71.98387789666025
+SC,2018,State Representative,97,Patsy Knight,DEM,60.41,99.99,8450.18,Yes,99.99,99.69,60.40938922714151
+SC,2018,State Representative,97,Mandy Kimmons,REP,39.59,0.01,15037.07,No,0.31,0.01,39.59061077285849
+SC,2018,State Representative,98,Chris Murphy,REP,100.0,100.00,41718.79,Yes,100.00,100.00,100.0
+SC,2018,State Representative,99,Jen Gibson,DEM,36.56,0.01,17147.81,No,0.01,0.01,36.55730251747748
+SC,2018,State Representative,99,Nancy Mace,REP,63.44,99.99,156805.0,Yes,99.99,99.99,63.442697482522526
+SC,2018,Superintendent Of Public Instruction,Statewide,Israel Romero,DEM,40.0,0.01,0.0,No,,,39.99840404250116
+SC,2018,Superintendent Of Public Instruction,Statewide,Molly Mitchell Spearman,REP,60.0,99.99,122254.75,Yes,,,60.00159595749884
+SC,2018,U.S. Representative,1,Joe Cunningham,DEM,43.29,0.42,790666.55,No,9.98,0.01,43.29175695873854
+SC,2018,U.S. Representative,1,Katherine Elizabeth Arrington,REP,56.71,99.58,663025.58,No,99.99,90.02,56.70824304126146
+SC,2018,U.S. Representative,2,Sonny Narang,AMERICAN,2.08,< 0.01,0.0,No,,,2.0779340280202265
+SC,2018,U.S. Representative,2,Sean Carrigan,DEM,38.12,0.01,30989.36,No,0.19,0.01,38.11786729347506
+SC,2018,U.S. Representative,2,Addison Graves Wilson,REP,59.8,99.99,853929.61,Yes,99.99,99.81,59.804198678504726
+SC,2018,U.S. Representative,3,Dave Moore,AMERICAN,2.03,< 0.01,0.0,No,,,2.0327458660020707
+SC,2018,U.S. Representative,3,Mary Smith Geren,DEM,34.22,0.01,190633.74,No,0.01,0.01,34.21981808992536
+SC,2018,U.S. Representative,3,Jeff Duncan,REP,63.75,99.99,580557.16,Yes,99.99,99.99,63.74743604407257
+SC,2018,U.S. Representative,4,Guy Furay,AMERICAN,2.0,< 0.01,0.0,No,,,1.9978066084025625
+SC,2018,U.S. Representative,4,Brandon Brown,DEM,35.43,0.01,0.0,No,0.01,0.01,35.42621741117087
+SC,2018,U.S. Representative,4,William Timmons IV,REP,62.58,99.99,0.0,No,99.99,99.99,62.57597598042658
+SC,2018,U.S. Representative,5,Michael Chandler,CON,1.94,< 0.01,0.0,No,,,1.9352785515478144
+SC,2018,U.S. Representative,5,Archie Parnell,DEM,42.32,0.42,477021.34,No,9.94,0.01,42.31804760288205
+SC,2018,U.S. Representative,5,Ralph Norman,REP,55.75,99.58,481816.0,Yes,99.99,90.06,55.74667384557015
+SC,2018,U.S. Representative,6,James Clyburn,DEM,71.15,> 99.99,1435293.57,Yes,> 99.99,99.99,71.15340120632756
+SC,2018,U.S. Representative,6,Bryan Pugh,GRN,1.93,< 0.01,0.0,No,,,1.9291396511024765
+SC,2018,U.S. Representative,6,Gerhard Gressmann,REP,26.92,< 0.01,0.0,No,0.01,< 0.01,26.91745914256997
+SC,2018,U.S. Representative,7,Robert Williams,DEM,38.24,0.01,0.0,No,0.06,0.01,38.239937116783494
+SC,2018,U.S. Representative,7,Tom Rice Jr.,REP,61.76,99.99,1308818.31,Yes,99.99,99.94,61.760062883216506

@@ -1,0 +1,306 @@
+State,Year,Position,District,Candidate,Party,Predicted Vote Share,Predicted Win Probability,Total Money,Incumbent,Predicted Upper Win Probability,Predicted Lower Win Probability,Unrounded Predicted Vote Share
+MA,2018,Attorney General,Statewide,Maura Healey,DEM,64.96,99.99,3339740.85,Yes,,,64.96053346512932
+MA,2018,Attorney General,Statewide,James McMahon III,REP,35.04,0.01,91477.73,No,,,35.03946653487069
+MA,2018,Governor,Statewide,Jay Gonzalez,DEM,39.41,0.01,1696013.38,No,,,39.40705755971298
+MA,2018,Governor,Statewide,Charles Baker,REP,60.59,99.99,30489398.15,Yes,,,60.592942440287025
+MA,2018,Secretary Of State,Statewide,William Galvin,DEM,66.49,99.99,1047676.17,Yes,,,66.49215918688549
+MA,2018,Secretary Of State,Statewide,Anthony Amore,REP,33.51,0.01,29237.08,No,,,33.50784081311451
+MA,2018,State Representative,10Th Bristol,William Straus,DEM,100.0,100.00,41327.93,Yes,100.00,100.00,100.0
+MA,2018,State Representative,10Th Essex,Daniel Cahill,DEM,100.0,100.00,28737.55,Yes,100.00,100.00,100.0
+MA,2018,State Representative,10Th Hampden,Carlos Gonzalez,DEM,100.0,100.00,3719.52,Yes,100.00,100.00,100.0
+MA,2018,State Representative,10Th Middlesex,John Lawn Jr.,DEM,100.0,100.00,31487.16,Yes,100.00,100.00,100.0
+MA,2018,State Representative,10Th Norfolk,Jeffrey Roy,DEM,57.83,99.89,53793.16,Yes,99.99,95.75,57.82717577195291
+MA,2018,State Representative,10Th Norfolk,Patrick Casey,REP,42.17,0.11,18163.22,No,4.25,0.01,42.17282422804709
+MA,2018,State Representative,10Th Plymouth,Michelle Marie Dubois,DEM,61.54,99.99,12411.44,Yes,99.99,99.92,61.54311329974039
+MA,2018,State Representative,10Th Plymouth,John Cruz,REP,38.46,0.01,0.0,No,0.08,0.01,38.45688670025961
+MA,2018,State Representative,10Th Suffolk,Edward Coppinger,DEM,100.0,100.00,76010.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,10Th Worcester,Brian Murray,DEM,58.0,99.91,22665.0,Yes,99.99,96.34,58.00259357465072
+MA,2018,State Representative,10Th Worcester,Sandra Slattery Biagetti,REP,42.0,0.09,7042.0,No,3.66,0.01,41.99740642534929
+MA,2018,State Representative,11Th Bristol,Christopher Hendricks,DEM,100.0,100.00,25849.65,No,100.00,100.00,100.0
+MA,2018,State Representative,11Th Essex,Pete Capano,DEM,100.0,100.00,73605.0,No,100.00,100.00,100.0
+MA,2018,State Representative,11Th Hampden,Bud Williams,DEM,100.0,100.00,47125.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,11Th Middlesex,Kay Khan,DEM,100.0,100.00,3800.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,11Th Norfolk,Paul McMurtry,DEM,61.26,99.99,72299.0,Yes,99.99,99.89,61.262788184912345
+MA,2018,State Representative,11Th Norfolk,John McDonald,REP,38.74,0.01,5208.3,No,0.11,0.01,38.737211815087655
+MA,2018,State Representative,11Th Plymouth,Claire Cronin,DEM,100.0,100.00,84871.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,11Th Suffolk,Elizabeth Malia,DEM,100.0,100.00,40170.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,11Th Worcester,Hannah Kane,REP,100.0,100.00,85861.68,Yes,100.00,100.00,100.0
+MA,2018,State Representative,12Th Bristol,Allin John Frawley,DEM,53.99,94.18,9350.0,No,99.82,58.45,53.99142824501835
+MA,2018,State Representative,12Th Bristol,Norman Orrall,REP,46.01,5.82,12725.09,No,41.55,0.18,46.008571754981645
+MA,2018,State Representative,12Th Essex,Thomas Walsh,DEM,100.0,100.00,20627.54,Yes,100.00,100.00,100.0
+MA,2018,State Representative,12Th Hampden,Angelo Puppolo Jr.,DEM,60.1,99.99,79536.39,Yes,99.99,99.55,60.09827411012466
+MA,2018,State Representative,12Th Hampden,Donald Flannery,IND,39.9,0.01,0.0,No,0.45,0.01,39.901725889875344
+MA,2018,State Representative,12Th Middlesex,Ruth Balser,DEM,100.0,100.00,22033.6,Yes,100.00,100.00,100.0
+MA,2018,State Representative,12Th Norfolk,John Rogers,DEM,100.0,100.00,29262.19,Yes,100.00,100.00,100.0
+MA,2018,State Representative,12Th Plymouth,Kathleen Lanatra,DEM,56.31,99.34,19258.44,No,99.99,87.0,56.311205752857084
+MA,2018,State Representative,12Th Plymouth,Joseph Truschelli,REP,43.69,0.66,6250.0,No,13.0,0.01,43.688794247142916
+MA,2018,State Representative,12Th Suffolk,Dan Cullinane,DEM,100.0,100.00,73224.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,12Th Worcester,Harold Naughton Jr.,DEM,58.22,99.93,85086.66,Yes,99.99,96.98,58.220923935884805
+MA,2018,State Representative,12Th Worcester,Stanley Marcinczyk Jr.,UNENROLLED,41.78,0.07,0.0,No,3.02,0.01,41.77907606411519
+MA,2018,State Representative,13Th Bristol,Antonio D Cabral,DEM,67.72,99.99,51675.0,Yes,> 99.99,99.99,67.72218497525586
+MA,2018,State Representative,13Th Bristol,Michael Janson,IND,32.28,0.01,0.0,No,0.01,< 0.01,32.277815024744136
+MA,2018,State Representative,13Th Essex,Theodore Speliotis,DEM,58.23,99.93,34445.06,Yes,99.99,96.99,58.225915166884846
+MA,2018,State Representative,13Th Essex,Mark Mezzina,REP,41.77,0.07,22665.0,No,3.01,0.01,41.77408483311516
+MA,2018,State Representative,13Th Middlesex,Carmine Lawrence Gentile,DEM,100.0,100.00,12960.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,13Th Norfolk,Denise Garlick,DEM,100.0,100.00,129243.13,Yes,100.00,100.00,100.0
+MA,2018,State Representative,13Th Suffolk,Daniel Hunt,DEM,100.0,100.00,85027.03,Yes,100.00,100.00,100.0
+MA,2018,State Representative,13Th Worcester,John Mahoney,DEM,100.0,100.00,49140.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,14Th Bristol,Elizabeth Poirier,REP,100.0,100.00,13830.93,Yes,100.00,100.00,100.0
+MA,2018,State Representative,14Th Essex,Christina Minicucci,DEM,58.19,99.93,57893.0,No,99.99,96.88,58.18598235401707
+MA,2018,State Representative,14Th Essex,Ryan Losco,REP,41.81,0.07,15625.0,No,3.12,0.01,41.81401764598292
+MA,2018,State Representative,14Th Middlesex,Tami Gouveia,DEM,57.48,99.83,45570.83,No,99.99,94.39,57.48462526649812
+MA,2018,State Representative,14Th Middlesex,Daniel Factor,GRN,42.52,0.17,0.0,No,5.61,0.01,42.51537473350187
+MA,2018,State Representative,14Th Norfolk,Alice Hanlon Peisch,DEM,100.0,100.00,26492.41,Yes,100.00,100.00,100.0
+MA,2018,State Representative,14Th Suffolk,Angelo Scaccia,DEM,100.0,100.00,41031.34,Yes,100.00,100.00,100.0
+MA,2018,State Representative,14Th Worcester,James Oday,DEM,100.0,100.00,44715.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,15Th Essex,Linda Dean Campbell,DEM,54.84,97.14,16470.0,Yes,99.94,70.74,54.83567869020959
+MA,2018,State Representative,15Th Essex,Anand Gonsalves,UNENROLLED,45.16,2.86,0.0,No,29.26,0.06,45.16432130979042
+MA,2018,State Representative,15Th Middlesex,Michelle Ciccolo,DEM,100.0,100.00,99017.0,No,100.00,100.00,100.0
+MA,2018,State Representative,15Th Norfolk,Tommy Vitolo,DEM,100.0,100.00,44801.0,No,100.00,100.00,100.0
+MA,2018,State Representative,15Th Suffolk,Nika Elugardo,DEM,100.0,100.00,115661.0,No,100.00,100.00,100.0
+MA,2018,State Representative,15Th Worcester,Mary Keefe,DEM,100.0,100.00,16086.06,Yes,100.00,100.00,100.0
+MA,2018,State Representative,16Th Essex,Marcos Devers,DEM,100.0,100.00,19275.0,No,100.00,100.00,100.0
+MA,2018,State Representative,16Th Middlesex,Thomas Golden Jr.,DEM,100.0,100.00,141220.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,16Th Suffolk,Roselee Vincent,DEM,100.0,100.00,25453.89,Yes,100.00,100.00,100.0
+MA,2018,State Representative,16Th Worcester,Daniel Donahue,DEM,100.0,100.00,28050.18,Yes,100.00,100.00,100.0
+MA,2018,State Representative,17Th Essex,Frank Moran,DEM,100.0,100.00,15732.68,Yes,100.00,100.00,100.0
+MA,2018,State Representative,17Th Middlesex,David Nangle,DEM,100.0,100.00,95244.18,Yes,100.00,100.00,100.0
+MA,2018,State Representative,17Th Suffolk,Kevin Honan,DEM,100.0,100.00,88810.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,17Th Worcester,David Henry Argosky Leboeuf,DEM,55.63,98.66,32039.26,No,99.98,80.43,55.62700730373985
+MA,2018,State Representative,17Th Worcester,Paul Fullen,REP,44.37,1.34,14130.0,No,19.57,0.02,44.37299269626014
+MA,2018,State Representative,18Th Essex,Tram Nguyen,DEM,49.44,41.29,130015.95,No,87.23,5.74,49.44037486186103
+MA,2018,State Representative,18Th Essex,James Lyons Jr.,REP,50.56,58.71,90078.22,Yes,94.26,12.77,50.559625138138976
+MA,2018,State Representative,18Th Middlesex,Rady Mom,DEM,100.0,100.00,17299.01,Yes,100.00,100.00,100.0
+MA,2018,State Representative,18Th Suffolk,Michael Moran,DEM,100.0,100.00,176391.47,Yes,100.00,100.00,100.0
+MA,2018,State Representative,18Th Worcester,Joseph McKenna,REP,100.0,100.00,9850.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,19Th Middlesex,David Allen Robertson,DEM,49.6,91.87,8440.0,No,99.7,51.59,49.59606448198476
+MA,2018,State Representative,19Th Middlesex,Pina Prinzivalli,REP,42.5,8.13,19335.0,No,48.41,0.3,42.496348870237846
+MA,2018,State Representative,19Th Middlesex,Patricia W Meuse,UNENROLLED,7.91,< 0.01,0.0,No,,,7.907586647777383
+MA,2018,State Representative,19Th Suffolk,Robert Deleo,DEM,100.0,100.00,935618.06,Yes,100.00,100.00,100.0
+MA,2018,State Representative,1St Barnstable,Steven Leibowitz,DEM,48.96,34.07,7662.24,No,82.81,3.86,48.956584879398065
+MA,2018,State Representative,1St Barnstable,Timothy Whelan,REP,51.04,65.93,67892.47,Yes,96.14,17.19,51.043415120601935
+MA,2018,State Representative,1St Berkshire,John Barrett III,DEM,100.0,100.00,6375.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,1St Bristol,Fred Barrows,REP,100.0,100.00,1790.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,1St Essex,Jennifer Rocco-Runnion,DEM,51.4,70.89,19141.0,No,97.17,20.99,51.39859796458961
+MA,2018,State Representative,1St Essex,James Kelcourse,REP,48.6,29.11,83514.04,Yes,79.01,2.83,48.6014020354104
+MA,2018,State Representative,1St Franklin,Natalie Blais,DEM,100.0,100.00,41691.0,No,100.00,100.00,100.0
+MA,2018,State Representative,1St Hampden,Tanya Neslusan,DEM,48.53,28.18,11523.09,No,78.22,2.66,48.53219499101221
+MA,2018,State Representative,1St Hampden,Todd Smola,REP,51.47,71.82,23760.0,Yes,97.34,21.78,51.46780500898779
+MA,2018,State Representative,1St Hampshire,Lindsay Sabadosa,DEM,100.0,100.00,33818.41,No,100.00,100.00,100.0
+MA,2018,State Representative,1St Middlesex,Sheila Harrington,REP,100.0,100.00,11095.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,1St Norfolk,Bruce Ayers,DEM,100.0,100.00,46390.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,1St Plymouth,John Mahoney Jr.,DEM,49.12,36.47,14195.0,No,84.41,4.43,49.12061012828992
+MA,2018,State Representative,1St Plymouth,Mathew Muratore,REP,50.88,63.53,34446.29,Yes,95.57,15.59,50.87938987171009
+MA,2018,State Representative,1St Suffolk,Adrian Madaro,DEM,100.0,100.00,185660.39,Yes,100.00,100.00,100.0
+MA,2018,State Representative,1St Worcester,Matthew Moncreaff,GRN,44.62,1.72,0.0,No,22.36,0.03,44.619377242554414
+MA,2018,State Representative,1St Worcester,Kimberly Ferguson,REP,55.38,98.28,3850.0,Yes,99.97,77.64,55.380622757445586
+MA,2018,State Representative,20Th Middlesex,Bradley Jones Jr.,REP,100.0,100.00,98301.74,Yes,100.00,100.00,100.0
+MA,2018,State Representative,21St Middlesex,Kenneth Gordon,DEM,100.0,100.00,32584.87,Yes,100.00,100.00,100.0
+MA,2018,State Representative,22Nd Middlesex,Christopher Tribou,DEM,44.1,23.83,2782.0,No,74.06,1.93,44.102398719570864
+MA,2018,State Representative,22Nd Middlesex,Marc Lombardo,REP,47.72,76.17,23940.0,Yes,98.07,25.94,47.720616196116836
+MA,2018,State Representative,22Nd Middlesex,Matthew Murphy Mixon,SECOND AMERICAN REVOLUTION,8.18,< 0.01,0.0,No,,,8.176985084312301
+MA,2018,State Representative,23Rd Middlesex,Sean Garballey,DEM,100.0,100.00,19616.18,Yes,100.00,100.00,100.0
+MA,2018,State Representative,24Th Middlesex,David Rogers,DEM,100.0,100.00,17535.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,25Th Middlesex,Marjorie Decker,DEM,100.0,100.00,80720.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,26Th Middlesex,Mike Connolly,DEM,100.0,100.00,80089.6,Yes,100.00,100.00,100.0
+MA,2018,State Representative,27Th Middlesex,Denise Provost,DEM,100.0,100.00,11643.47,Yes,100.00,100.00,100.0
+MA,2018,State Representative,28Th Middlesex,Joseph McGonagle Jr.,DEM,100.0,100.00,58575.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,29Th Middlesex,Jonathan Hecht,DEM,100.0,100.00,177.45,Yes,100.00,100.00,100.0
+MA,2018,State Representative,2Nd Barnstable,Paul Cusack,DEM,50.71,61.01,36360.0,No,94.91,14.06,50.71078031730249
+MA,2018,State Representative,2Nd Barnstable,William Crocker Jr.,REP,49.29,38.99,86919.69,Yes,85.94,5.09,49.28921968269751
+MA,2018,State Representative,2Nd Berkshire,Paul Mark,DEM,100.0,100.00,44423.6,Yes,100.00,100.00,100.0
+MA,2018,State Representative,2Nd Bristol,James Hawkins,DEM,56.42,99.42,23318.67,Yes,99.99,87.86,56.417003772015704
+MA,2018,State Representative,2Nd Bristol,Julie Hall,REP,43.58,0.58,34657.65,No,12.14,0.01,43.58299622798429
+MA,2018,State Representative,2Nd Essex,Christina Eckert,DEM,49.67,44.91,36634.0,No,89.05,6.88,49.674632424318496
+MA,2018,State Representative,2Nd Essex,Leonard Mirra,REP,50.33,55.09,13668.18,Yes,93.12,10.95,50.325367575681504
+MA,2018,State Representative,2Nd Franklin,John William Arena,DEM,47.99,21.47,2351.0,No,71.46,1.59,47.99164546680779
+MA,2018,State Representative,2Nd Franklin,Susannah Whipps,IND,52.01,78.53,0.0,No,98.41,28.54,52.00835453319221
+MA,2018,State Representative,2Nd Hampden,Brian Michael Ashe,DEM,55.89,98.97,27920.0,Yes,99.98,83.15,55.888838784378855
+MA,2018,State Representative,2Nd Hampden,Allison Werder,REP,44.11,1.03,52025.0,No,16.85,0.02,44.111161215621145
+MA,2018,State Representative,2Nd Hampshire,Daniel Carey,DEM,59.84,99.99,19268.17,No,99.99,99.4,59.83639068843506
+MA,2018,State Representative,2Nd Hampshire,Donald Peltier,REP,40.16,0.01,1000.0,No,0.6,0.01,40.16360931156494
+MA,2018,State Representative,2Nd Middlesex,James Arciero,DEM,60.11,99.99,76608.0,Yes,99.99,99.56,60.10563311407753
+MA,2018,State Representative,2Nd Middlesex,Kathleen Lynch,REP,39.89,0.01,13268.1,No,0.44,0.01,39.894366885922466
+MA,2018,State Representative,2Nd Norfolk,Tackey Chan,DEM,64.99,99.99,118661.0,Yes,99.99,99.99,64.98693211509374
+MA,2018,State Representative,2Nd Norfolk,William Burke,REP,35.01,0.01,2580.25,No,0.01,0.01,35.01306788490627
+MA,2018,State Representative,2Nd Plymouth,Sarah Hewins,DEM,49.83,47.35,22843.5,No,90.16,7.73,49.83088688477144
+MA,2018,State Representative,2Nd Plymouth,Susan Gifford,REP,50.17,52.65,12745.0,Yes,92.27,9.84,50.16911311522857
+MA,2018,State Representative,2Nd Suffolk,Daniel Joseph Ryan,DEM,100.0,100.00,81994.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,2Nd Worcester,Jonathan Zlotnik,DEM,54.34,99.93,26613.0,Yes,99.99,96.78,54.343598618717095
+MA,2018,State Representative,2Nd Worcester,Yasmine Khdeer,GRN,7.61,< 0.01,0.0,No,,,7.608991276177961
+MA,2018,State Representative,2Nd Worcester,Edward Gravel,REP,38.05,0.07,8971.76,No,3.22,0.01,38.047410105104944
+MA,2018,State Representative,30Th Middlesex,Richard Haggerty,DEM,59.81,99.99,51911.0,No,99.99,99.38,59.80741190873379
+MA,2018,State Representative,30Th Middlesex,Claire Malaguti,REP,40.19,0.01,985.0,No,0.62,0.01,40.19258809126622
+MA,2018,State Representative,31St Middlesex,Michael Day,DEM,55.89,99.99,53144.22,Yes,99.99,99.09,55.88590037745538
+MA,2018,State Representative,31St Middlesex,Kateen Kumar,IND,7.14,< 0.01,0.0,No,,,7.1420493596722965
+MA,2018,State Representative,31St Middlesex,Caroline Colarusso,REP,36.97,0.01,21045.0,No,0.91,0.01,36.97205026287232
+MA,2018,State Representative,32Nd Middlesex,Paul Brodeur,DEM,100.0,100.00,48610.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,33Rd Middlesex,Steven Rocco Ultrino,DEM,100.0,100.00,26755.74,Yes,100.00,100.00,100.0
+MA,2018,State Representative,34Th Middlesex,Christine Barber,DEM,100.0,100.00,45172.61,Yes,100.00,100.00,100.0
+MA,2018,State Representative,35Th Middlesex,Paul Donato,DEM,100.0,100.00,120086.76,Yes,100.00,100.00,100.0
+MA,2018,State Representative,36Th Middlesex,Colleen Garry,DEM,58.14,99.93,31935.0,Yes,99.99,96.74,58.13700459462859
+MA,2018,State Representative,36Th Middlesex,Raymond Leczynski,REP,41.86,0.07,6660.0,No,3.26,0.01,41.862995405371414
+MA,2018,State Representative,37Th Middlesex,Jennifer Benson,DEM,100.0,100.00,76020.79,Yes,100.00,100.00,100.0
+MA,2018,State Representative,3Rd Barnstable,David Vieira,REP,100.0,100.00,14400.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,3Rd Berkshire,Tricia Farley-Bouvier,DEM,100.0,100.00,21556.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,3Rd Bristol,Emily Jm Farrer,DEM,49.55,42.91,4722.08,No,88.07,6.23,49.545595327847266
+MA,2018,State Representative,3Rd Bristol,Shaunna Oconnell,REP,50.45,57.09,63938.58,Yes,93.77,11.93,50.454404672152734
+MA,2018,State Representative,3Rd Essex,Andres Vargas,DEM,100.0,100.00,11400.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,3Rd Hampden,Forrest Bradford,DEM,45.23,3.04,450.0,No,30.22,0.07,45.234766964144185
+MA,2018,State Representative,3Rd Hampden,Nicholas Boldyga,REP,54.77,96.96,24601.0,Yes,99.93,69.78,54.76523303585582
+MA,2018,State Representative,3Rd Hampshire,Mindy Domb,DEM,65.23,99.99,31390.0,No,99.99,99.99,65.23071303380131
+MA,2018,State Representative,3Rd Hampshire,Solomon Goldstein-Rose,IND,34.77,0.01,0.0,No,0.01,0.01,34.769286966198685
+MA,2018,State Representative,3Rd Middlesex,Kate Hogan,DEM,100.0,100.00,85959.39,Yes,100.00,100.00,100.0
+MA,2018,State Representative,3Rd Norfolk,Ronald Mariano,DEM,60.81,99.99,230837.0,Yes,99.99,99.81,60.81199702420057
+MA,2018,State Representative,3Rd Norfolk,Stephen Tougas,REP,39.19,0.01,7811.14,No,0.19,0.01,39.18800297579943
+MA,2018,State Representative,3Rd Plymouth,Joan Meschino,DEM,59.29,99.98,54060.0,Yes,99.99,98.92,59.29198164638842
+MA,2018,State Representative,3Rd Plymouth,Kristen Arute,REP,40.71,0.02,15135.0,No,1.08,0.01,40.70801835361157
+MA,2018,State Representative,3Rd Suffolk,Aaron Michlewitz,DEM,100.0,100.00,262167.17,Yes,100.00,100.00,100.0
+MA,2018,State Representative,3Rd Worcester,Stephan Hay,DEM,63.1,99.99,20234.0,Yes,99.99,99.99,63.09595272087062
+MA,2018,State Representative,3Rd Worcester,Elmer Eubanks-Archbold,REP,36.9,0.01,2690.0,No,0.01,0.01,36.90404727912938
+MA,2018,State Representative,4Th Barnstable,Sarah Peake,DEM,100.0,100.00,44822.98,Yes,100.00,100.00,100.0
+MA,2018,State Representative,4Th Berkshire,William Pignatelli,DEM,100.0,100.00,49050.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,4Th Bristol,Steven Howitt,REP,100.0,100.00,29596.77,Yes,100.00,100.00,100.0
+MA,2018,State Representative,4Th Essex,Allison Gustavson,DEM,49.45,41.38,64932.64,No,87.28,5.77,49.4465215530318
+MA,2018,State Representative,4Th Essex,Bradford Hill,REP,50.55,58.62,40346.12,Yes,94.23,12.72,50.55347844696819
+MA,2018,State Representative,4Th Hampden,John Velis,DEM,100.0,100.00,23898.55,Yes,100.00,100.00,100.0
+MA,2018,State Representative,4Th Middlesex,Danielle Gregoire,DEM,58.51,99.95,27163.05,Yes,99.99,97.67,58.505631576071636
+MA,2018,State Representative,4Th Middlesex,Paul Ferro,REP,41.49,0.05,15152.6,No,2.33,0.01,41.49436842392836
+MA,2018,State Representative,4Th Norfolk,James Murphy,DEM,100.0,100.00,43625.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,4Th Plymouth,Patrick Joseph Kearney,DEM,51.16,99.86,70829.0,No,99.99,94.98,51.1561211809074
+MA,2018,State Representative,4Th Plymouth,Joseph Armstrong,IND,6.47,< 0.01,0.0,No,,,6.469060450579018
+MA,2018,State Representative,4Th Plymouth,Nathaniel Powell,IND,6.47,< 0.01,0.0,No,,,6.469060450579018
+MA,2018,State Representative,4Th Plymouth,Edward Oconnell,REP,35.91,0.14,11681.88,No,5.02,0.01,35.90575791793456
+MA,2018,State Representative,4Th Suffolk,David Biele,DEM,100.0,100.00,65838.18,No,100.00,100.00,100.0
+MA,2018,State Representative,4Th Worcester,Natalie Higgins,DEM,57.85,99.90,21776.58,Yes,99.99,95.84,57.8530170944182
+MA,2018,State Representative,4Th Worcester,Richard Palmieri,REP,42.15,0.1,11230.0,No,4.16,0.01,42.1469829055818
+MA,2018,State Representative,5Th Barnstable,Jack Stanton,DEM,49.81,47.09,16112.58,No,90.05,7.64,49.81440721003755
+MA,2018,State Representative,5Th Barnstable,Randy Hunt,REP,50.19,52.91,20410.0,Yes,92.36,9.96,50.18559278996244
+MA,2018,State Representative,5Th Bristol,Patricia Haddad,DEM,100.0,100.00,69512.04,Yes,100.00,100.00,100.0
+MA,2018,State Representative,5Th Essex,Ann-Margaret Ferrante,DEM,59.64,99.99,54139.0,Yes,99.99,99.25,59.640702389408254
+MA,2018,State Representative,5Th Essex,James Gardner,IND,40.36,0.01,0.0,No,0.75,0.01,40.359297610591746
+MA,2018,State Representative,5Th Hampden,Aaron Vega,DEM,100.0,100.00,41313.81,Yes,100.00,100.00,100.0
+MA,2018,State Representative,5Th Middlesex,David Paul Linsky,DEM,100.0,100.00,3100.6,Yes,100.00,100.00,100.0
+MA,2018,State Representative,5Th Norfolk,Mark James Cusack,DEM,100.0,100.00,86505.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,5Th Plymouth,Alison Demong,DEM,49.91,48.52,0.0,No,90.66,8.16,49.90535322799386
+MA,2018,State Representative,5Th Plymouth,David Decoste,REP,50.09,51.48,25280.0,Yes,91.84,9.34,50.09464677200614
+MA,2018,State Representative,5Th Suffolk,Liz Miranda,DEM,75.72,> 99.99,49611.25,No,> 99.99,> 99.99,75.71646458131833
+MA,2018,State Representative,5Th Suffolk,Althea Garrison,INDEPENDENT PROGRESSIVE,24.28,< 0.01,0.0,No,< 0.01,< 0.01,24.283535418681666
+MA,2018,State Representative,5Th Worcester,Jean Anne Strauss,DEM,51.73,75.18,27343.01,No,97.92,24.92,51.728788475242105
+MA,2018,State Representative,5Th Worcester,Donald Berthiaume Jr.,REP,48.27,24.82,4275.0,Yes,75.08,2.08,48.27121152475791
+MA,2018,State Representative,6Th Bristol,Carole Fiola,DEM,64.5,99.99,84936.36,Yes,99.99,99.99,64.50088109648412
+MA,2018,State Representative,6Th Bristol,David Steinhof,REP,35.5,0.01,16620.0,No,0.01,0.01,35.499118903515885
+MA,2018,State Representative,6Th Essex,Jerald Parisella,DEM,58.62,99.96,39050.0,Yes,99.99,97.91,58.624219085886054
+MA,2018,State Representative,6Th Essex,Donato Paglia,UNENROLLED,41.38,0.04,0.0,No,2.09,0.01,41.37578091411394
+MA,2018,State Representative,6Th Hampden,Michael Finn,DEM,100.0,100.00,27605.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,6Th Middlesex,Maria Robinson,DEM,100.0,100.00,0.0,No,100.00,100.00,100.0
+MA,2018,State Representative,6Th Norfolk,William Galvin,DEM,100.0,100.00,24275.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,6Th Plymouth,Josh Cutler,DEM,100.0,100.00,39633.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,6Th Suffolk,Russell Holmes,DEM,100.0,100.00,2875.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,6Th Worcester,Peter Durant,REP,100.0,100.00,3200.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,7Th Bristol,Alan Silvia,DEM,100.0,100.00,47985.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,7Th Essex,Paul Tucker,DEM,100.0,100.00,63791.72,Yes,100.00,100.00,100.0
+MA,2018,State Representative,7Th Hampden,Thomas Petrolati,DEM,100.0,100.00,42242.02,Yes,100.00,100.00,100.0
+MA,2018,State Representative,7Th Middlesex,Jack Patrick Lewis,DEM,100.0,100.00,32559.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,7Th Norfolk,William Driscoll Jr.,DEM,100.0,100.00,31101.75,Yes,100.00,100.00,100.0
+MA,2018,State Representative,7Th Plymouth,Alex Bezanson,DEM,54.4,95.83,32933.0,No,99.89,64.59,54.40020789134746
+MA,2018,State Representative,7Th Plymouth,Alyson Sullivan,REP,45.6,4.17,30350.06,No,35.41,0.11,45.599792108652544
+MA,2018,State Representative,7Th Suffolk,Chynah Tyler,DEM,100.0,100.00,12332.78,Yes,100.00,100.00,100.0
+MA,2018,State Representative,7Th Worcester,Terry Burke Dotson,DEM,45.84,5.1,2500.0,No,39.02,0.14,45.84282947089513
+MA,2018,State Representative,7Th Worcester,Paul Frost,REP,54.16,94.90,18603.03,Yes,99.86,60.98,54.15717052910487
+MA,2018,State Representative,8Th Bristol,Paul Schmid III,DEM,100.0,100.00,70458.34,Yes,100.00,100.00,100.0
+MA,2018,State Representative,8Th Essex,Lori Ehrlich,DEM,100.0,100.00,27858.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,8Th Hampden,Joseph Wagner,DEM,100.0,100.00,109934.72,Yes,100.00,100.00,100.0
+MA,2018,State Representative,8Th Middlesex,Carolyn Dykema,DEM,100.0,100.00,6664.5,Yes,100.00,100.00,100.0
+MA,2018,State Representative,8Th Norfolk,Louis Kafka,DEM,100.0,100.00,35100.42,Yes,100.00,100.00,100.0
+MA,2018,State Representative,8Th Plymouth,Angelo Demilia,REP,100.0,100.00,23435.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,8Th Suffolk,Jay Livingstone,DEM,100.0,100.00,47295.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,8Th Worcester,Patrick Malone,DEM,52.01,78.53,11065.08,No,98.41,28.54,52.008720235012184
+MA,2018,State Representative,8Th Worcester,Michael Soter,REP,47.99,21.47,36772.41,No,71.46,1.59,47.991279764987816
+MA,2018,State Representative,9Th Bristol,Christopher Markey,DEM,100.0,100.00,4550.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,9Th Essex,Matthew Crescenzo,DEM,46.82,63.49,11931.0,No,95.56,15.57,46.8157356134755
+MA,2018,State Representative,9Th Essex,Michael Coller,IND,8.12,< 0.01,0.0,No,,,8.121329102170426
+MA,2018,State Representative,9Th Essex,Donald Wong,REP,45.06,36.51,31975.62,Yes,84.43,4.44,45.06293528435407
+MA,2018,State Representative,9Th Hampden,Jose Tosado,DEM,100.0,100.00,30840.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,9Th Middlesex,Thomas Stanley,DEM,100.0,100.00,46018.92,Yes,100.00,100.00,100.0
+MA,2018,State Representative,9Th Norfolk,Brian Hamlin,DEM,44.72,1.89,6771.8,No,23.55,0.03,44.719063508267794
+MA,2018,State Representative,9Th Norfolk,Shawn Dooley,REP,55.28,98.11,50374.0,Yes,99.97,76.45,55.28093649173221
+MA,2018,State Representative,9Th Plymouth,Gerard Cassidy,DEM,100.0,100.00,29305.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,9Th Suffolk,Jon Santiago,DEM,100.0,100.00,44335.0,No,100.00,100.00,100.0
+MA,2018,State Representative,9Th Worcester,David Muradian Jr.,REP,100.0,100.00,51485.0,Yes,100.00,100.00,100.0
+MA,2018,State Representative,"Barnstable, Dukes And Nantucket",Dylan Fernandes,DEM,100.0,100.00,33502.0,Yes,100.00,100.00,100.0
+MA,2018,State Senator,1St Bristol And Plymouth,Michael Rodrigues,DEM,100.0,100.00,217664.28,Yes,100.00,100.00,100.0
+MA,2018,State Senator,1St Essex,Diana Dizoglio,DEM,57.65,99.86,124469.67,No,99.99,95.09,57.65195652048526
+MA,2018,State Senator,1St Essex,Alexander Leighton Williams,REP,42.35,0.14,1475.0,No,4.91,0.01,42.34804347951474
+MA,2018,State Senator,1St Essex And Middlesex,Bruce Tarr,REP,100.0,100.00,108945.37,Yes,100.00,100.00,100.0
+MA,2018,State Senator,1St Hampden And Hampshire,Eric Philip Lesser,DEM,100.0,100.00,252670.69,Yes,100.00,100.00,100.0
+MA,2018,State Senator,1St Middlesex,Edward Kennedy,DEM,56.29,99.33,44620.0,No,99.99,86.84,56.29155283791012
+MA,2018,State Senator,1St Middlesex,John Macdonald,REP,43.71,0.67,29567.0,No,13.16,0.01,43.70844716208988
+MA,2018,State Senator,1St Middlesex And Norfolk,Cynthia Stone Creem,DEM,100.0,100.00,36314.0,Yes,100.00,100.00,100.0
+MA,2018,State Senator,1St Plymouth And Bristol,Marc Richard Pacheco,DEM,100.0,100.00,127010.96,Yes,100.00,100.00,100.0
+MA,2018,State Senator,1St Suffolk,Nick Collins,DEM,100.0,100.00,406408.38,Yes,100.00,100.00,100.0
+MA,2018,State Senator,1St Suffolk And Middlesex,Joseph Boncore,DEM,100.0,100.00,236892.22,Yes,100.00,100.00,100.0
+MA,2018,State Senator,1St Worcester,Harriette Chandler,DEM,100.0,100.00,122504.91,Yes,100.00,100.00,100.0
+MA,2018,State Senator,2Nd Bristol And Plymouth,Mark Montigny,DEM,100.0,100.00,16780.63,Yes,100.00,100.00,100.0
+MA,2018,State Senator,2Nd Essex,Joan Lovely,DEM,100.0,100.00,69928.8,Yes,100.00,100.00,100.0
+MA,2018,State Senator,2Nd Essex And Middlesex,Barry Finegold,DEM,57.43,99.82,352501.0,No,99.99,94.12,57.426903375058856
+MA,2018,State Senator,2Nd Essex And Middlesex,Joseph Espinola III,REP,42.57,0.18,5065.0,No,5.88,0.01,42.57309662494115
+MA,2018,State Senator,2Nd Hampden And Hampshire,Donald Humason Jr.,REP,100.0,100.00,30500.0,Yes,100.00,100.00,100.0
+MA,2018,State Senator,2Nd Middlesex,Patricia Jehlen,DEM,100.0,100.00,13910.58,Yes,100.00,100.00,100.0
+MA,2018,State Senator,2Nd Middlesex And Norfolk,Karen Spilka,DEM,100.0,100.00,349521.38,Yes,100.00,100.00,100.0
+MA,2018,State Senator,2Nd Plymouth And Bristol,Michael Brady,DEM,58.56,99.96,43311.66,Yes,99.99,97.78,58.55985124905486
+MA,2018,State Senator,2Nd Plymouth And Bristol,Scott Hall,REP,41.44,0.04,0.0,No,2.22,0.01,41.440148750945134
+MA,2018,State Senator,2Nd Suffolk,Sonia Chang-Diaz,DEM,100.0,100.00,12035.0,Yes,100.00,100.00,100.0
+MA,2018,State Senator,2Nd Suffolk And Middlesex,William Brownsberger,DEM,100.0,100.00,92226.1,Yes,100.00,100.00,100.0
+MA,2018,State Senator,2Nd Worcester,Michael Moore,DEM,100.0,100.00,126357.29,Yes,100.00,100.00,100.0
+MA,2018,State Senator,3Rd Essex,Brendan Crighton,DEM,100.0,100.00,102274.61,Yes,100.00,100.00,100.0
+MA,2018,State Senator,3Rd Middlesex,Michael Barrett,DEM,100.0,100.00,90648.51,Yes,100.00,100.00,100.0
+MA,2018,State Senator,4Th Middlesex,Cindy Friedman,DEM,100.0,100.00,34514.0,Yes,100.00,100.00,100.0
+MA,2018,State Senator,5Th Middlesex,Jason Lewis,DEM,60.03,99.99,122790.0,Yes,99.99,99.52,60.0328169020375
+MA,2018,State Senator,5Th Middlesex,Erin Calvo-Bacci,REP,39.97,0.01,8533.0,No,0.48,0.01,39.9671830979625
+MA,2018,State Senator,"Berkshire, Hampshire, Franklin And Hampden",Adam Hinds,DEM,100.0,100.00,100892.59,Yes,100.00,100.00,100.0
+MA,2018,State Senator,Bristol And Norfolk,Paul Feeney,DEM,58.61,99.96,56350.0,Yes,99.99,97.89,58.61127508885272
+MA,2018,State Senator,Bristol And Norfolk,Jacob Ventura,REP,41.39,0.04,22850.0,No,2.11,0.01,41.38872491114728
+MA,2018,State Senator,Cape And Islands,Julian Andre Cyr,DEM,58.84,99.97,257770.6,Yes,99.99,98.31,58.843050813192995
+MA,2018,State Senator,Cape And Islands,John Flores,REP,41.16,0.03,69351.5,No,1.69,0.01,41.156949186807005
+MA,2018,State Senator,Hampden,James Welch,DEM,100.0,100.00,127231.2,Yes,100.00,100.00,100.0
+MA,2018,State Senator,"Hampshire, Franklin And Worcester",Jo Comerford,DEM,100.0,100.00,0.0,No,100.00,100.00,100.0
+MA,2018,State Senator,Middlesex And Suffolk,Salvatore Didomenico,DEM,100.0,100.00,168645.85,Yes,100.00,100.00,100.0
+MA,2018,State Senator,Middlesex And Worcester,Terra Friedrichs,COOPERATIVE GREEN ECONOMY,8.1,< 0.01,0.0,No,,,8.098724612462407
+MA,2018,State Senator,Middlesex And Worcester,James Eldridge,DEM,55.49,99.99,136726.21,Yes,99.99,99.17,55.491150572281796
+MA,2018,State Senator,Middlesex And Worcester,Margaret Woolley Busse,REP,36.41,0.01,164984.1,No,0.83,0.01,36.4101248152558
+MA,2018,State Senator,Norfolk And Plymouth,John Keenan,DEM,53.25,89.95,6895.23,Yes,99.58,46.87,53.249339040803655
+MA,2018,State Senator,Norfolk And Plymouth,Alexander Mendez,IND,46.75,10.05,0.0,No,53.13,0.42,46.750660959196345
+MA,2018,State Senator,Norfolk And Suffolk,Michael Rush,DEM,100.0,100.00,70654.67,Yes,100.00,100.00,100.0
+MA,2018,State Senator,"Norfolk, Bristol And Middlesex",Rebecca Rausch,DEM,53.4,90.95,76412.82,No,99.64,49.23,53.39945306823678
+MA,2018,State Senator,"Norfolk, Bristol And Middlesex",Richard Ross,REP,46.6,9.05,22550.0,Yes,50.77,0.36,46.60054693176322
+MA,2018,State Senator,"Norfolk, Bristol And Plymouth",Walter Timilty,DEM,100.0,100.00,100133.35,Yes,100.00,100.00,100.0
+MA,2018,State Senator,Plymouth And Barnstable,Deborah Rudolf,DEM,49.89,48.3,23452.0,No,90.56,8.08,49.89143067745182
+MA,2018,State Senator,Plymouth And Barnstable,Viriato Manuel Demacedo,REP,50.11,51.70,76949.62,Yes,91.92,9.44,50.10856932254817
+MA,2018,State Senator,Plymouth And Norfolk,Katie McBrine,DEM,48.37,79.38,49784.1,No,98.52,29.55,48.3741655218652
+MA,2018,State Senator,Plymouth And Norfolk,Patrick Michael Oconnor,REP,44.21,20.62,79834.05,Yes,70.45,1.48,44.207380227214585
+MA,2018,State Senator,Plymouth And Norfolk,Stephen Gill,VETERAN,7.42,< 0.01,0.0,No,,,7.418454250920215
+MA,2018,State Senator,Worcester And Middlesex,Susan Chalifoux-Zephir,DEM,52.22,80.87,40025.0,No,98.71,31.42,52.21931014085551
+MA,2018,State Senator,Worcester And Middlesex,Dean Tran,REP,47.78,19.13,59355.36,Yes,68.58,1.29,47.78068985914449
+MA,2018,State Senator,Worcester And Norfolk,Thomas Merolli,DEM,49.0,34.66,28114.09,No,83.22,4.0,48.99735455342862
+MA,2018,State Senator,Worcester And Norfolk,Ryan Fattman,REP,51.0,65.34,139764.02,Yes,96.0,16.78,51.00264544657138
+MA,2018,State Senator,"Worcester, Hampden, Hampshire And Middlesex",Anne Gobi,DEM,58.18,99.93,55794.0,Yes,99.99,96.87,58.181204082453974
+MA,2018,State Senator,"Worcester, Hampden, Hampshire And Middlesex",Steven Hall,REP,41.82,0.07,12570.0,No,3.13,0.01,41.81879591754603
+MA,2018,U.S. Representative,1,Richard Neal,DEM,100.0,100.00,2370002.74,Yes,100.00,100.00,100.0
+MA,2018,U.S. Representative,2,James McGovern,DEM,100.0,100.00,814228.5,Yes,100.00,100.00,100.0
+MA,2018,U.S. Representative,3,Lori Trahan,DEM,53.02,99.65,1133835.26,No,99.99,91.02,53.0200235125984
+MA,2018,U.S. Representative,3,Michael Mullen,IND,3.84,< 0.01,0.0,No,,,3.8387677191386222
+MA,2018,U.S. Representative,3,Mary Jean Charbonneau,IND,3.84,< 0.01,0.0,No,,,3.8387677191386222
+MA,2018,U.S. Representative,3,Rick Green,REP,39.3,0.35,780814.76,No,8.98,0.01,39.302441049124354
+MA,2018,U.S. Representative,4,Joseph Kennedy III,DEM,100.0,100.00,3428887.19,Yes,100.00,100.00,100.0
+MA,2018,U.S. Representative,5,Katherine Clark,DEM,79.11,> 99.99,850760.31,Yes,> 99.99,> 99.99,79.10695610380692
+MA,2018,U.S. Representative,5,John Hugo,REP,20.89,< 0.01,0.0,No,< 0.01,< 0.01,20.893043896193085
+MA,2018,U.S. Representative,6,Seth Moulton,DEM,73.8,> 99.99,2124800.25,Yes,> 99.99,99.99,73.80431110719009
+MA,2018,U.S. Representative,6,Joseph Schneider,REP,26.2,< 0.01,0.0,No,0.01,< 0.01,26.195688892809915
+MA,2018,U.S. Representative,7,Ayanna Pressley,DEM,100.0,100.00,0.0,No,100.00,100.00,100.0
+MA,2018,U.S. Representative,8,Stephen Lynch,DEM,100.0,100.00,594812.6,Yes,100.00,100.00,100.0
+MA,2018,U.S. Representative,9,William Richard Keating,DEM,59.37,99.98,927796.5,Yes,99.99,99.01,59.37438542529924
+MA,2018,U.S. Representative,9,Peter Tedeschi,REP,40.63,0.02,662103.36,No,0.99,0.01,40.625614574700755
+MA,2018,U.S. Senator,Statewide,Elizabeth Warren,DEM,59.8,99.99,29022901.95,Yes,,,59.79768110927284
+MA,2018,U.S. Senator,Statewide,Shiva Ayyadurai,IND,4.25,< 0.01,4894853.22,No,,,4.245040686217558
+MA,2018,U.S. Senator,Statewide,Geoff Diehl,REP,35.96,0.01,668537.15,No,,,35.95727820450961
