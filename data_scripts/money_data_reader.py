@@ -14,7 +14,7 @@ states = ["AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DC", "DE", "FL", "GA",
           "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC", 
           "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY"]
 
-year = raw_input("Input Year - ")
+#year = raw_input("Input Year - ")
 #c-t-pt,c-t-eid,c-r-id,c-t-sts,c-t-ico
 def writeCSV(file, s, y):
     url = "https://api.followthemoney.org/?dt=1&s=" + s + "&gro=c-t-id&y=" + y + "&APIKey=03c9486f133f22f6eb5638f0b2265782&mode=json"
@@ -66,7 +66,7 @@ def writeCSV(file, s, y):
             if status.lower() != "lost-primary" and party.lower() != "writein":
                 writer.writerow([name, party, state, office, incumbency, status, totalMoney])
 
-def money_data_reader():
+def money_data_reader(year):
     for state in states:
         fileName = state + "_fundraising_data_" + year + ".csv"
         with open(fileName, 'w') as csvf:
