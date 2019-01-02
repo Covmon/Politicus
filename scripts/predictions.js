@@ -535,7 +535,8 @@ function getPositionError(err) {
 
     $(".loading-location").remove();
 
-    let errorP = "<p id='error-p'>Error getting your location. Enter your address below to view elections near you.</p>";
+    let errorP = "<p id='error-p'>Election is over. Location-based services are not available until next election cycle.</p>";
+    //let errorP = "<p id='error-p'>Error getting your location. Enter your address below to view elections near you.</p>";
     $(".main-section").append(errorP);
 
     let input = "<input type='text' id='address-input' placeholder='Street, City, State, and Zip'></input>";
