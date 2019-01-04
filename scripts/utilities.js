@@ -66,7 +66,7 @@ $(document).ready(function() {
         getJSONCandidates(allStatesNeededInJSON, true);
     }
    
-    if (state != "All" && !(currentURL.includes("index.html") || currentURL == "https://50fifty.us/")) {
+    if (state != "All" && !(currentURL.includes("index.html") || currentURL == "https://50fifty.us/" || currentURL == "https://50fifty.us/2018/")) {
         currentStates = [state];
     } else {
         $("#reset-link").css({"color": "gray"})
@@ -74,7 +74,7 @@ $(document).ready(function() {
 
     if ((!(currentURL.includes("predictions_state_senates") || currentURL.includes("predictions_state_houses"))) && state == "All") {
         currentStates = allStatesNeededInJSON;
-    } else if (currentURL.includes("index.html") || currentURL == "https://50fifty.us/") {
+    } else if (currentURL.includes("index.html") || currentURL == "https://50fifty.us/" || currentURL == "https://50fifty.us/2018/") {
         currentStates = allStatesNeededInJSON;
     }
 

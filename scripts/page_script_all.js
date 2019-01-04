@@ -18,7 +18,7 @@ $(document).ready(function() {
         $(".alert").remove();
     }
 
-    if (state != "All" && !currentURL.includes("predictions.html") && !(currentURL.includes("index.html") || currentURL == "https://50fifty.us/") && currentURL.length != defaultURLLength && currentURL.length != defaultURLLength + 1) {
+    if (state != "All" && !currentURL.includes("predictions.html") && !(currentURL.includes("index.html") || currentURL == "https://50fifty.us/" || currentURL == "https://50fifty.us/2018/") && currentURL.length != defaultURLLength && currentURL.length != defaultURLLength + 1) {
         
         if (!(state == "UT" && currentURL.includes("predictions_state_senates"))) {
             let currentTitle = $(".main-section h2").text();
@@ -69,11 +69,16 @@ $(document).ready(function() {
 
             let dateString = "Last updated " + month + "/" + date + "/" + year + " at " + time; 
         
-            //let html = '<p id="updated" class="number"><span class="dot-green"></span> ' + dateString + '</p>';
-            let html = '<p id="updated" class="number"><span class="dot-purple"></span> ' + "Last updated 11/6/2018 at 4:35 PM" + '</p>';
+            let html = '<p id="updated" class="number"><span class="dot-green"></span> ' + dateString + '</p>';
+            //let html = '<p id="updated" class="number"><span class="dot-purple"></span> ' + "Last updated 11/6/2018 at 4:35 PM" + '</p>';
             $(".header").after(html);
 
         })
+    }
+
+    if (currentURL.includes("/2018/")) {
+        let html = '<p id="updated" class="number"><span class="dot-purple"></span> ' + "Last updated 11/6/2018 at 4:35 PM" + '</p>';
+        $(".header").after(html);
     }
 
     let buttonHTML = '<button id="top-button">Top</button>';
