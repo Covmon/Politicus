@@ -1,0 +1,7 @@
+An Analysis of 50Fifty's 2018 Midterm Predictions
+Sam Mahle and Noah Covey
+January 4, 2019
+
+Happy new year! Over the past few months, we've waiting for official results to be published and aggregated. We are grateful to the team and volunteers over at Open Elections (<a href="http://openelections.net">openelections.net</a>) for all their work obtaining and parsing this data.
+
+There were many interesting trends and patterns, both in the actual results, as well as how those results stacked up with our model's forecasts. If you want to view all the data yourself, check out this <a href="https://docs.google.com/spreadsheets/d/1nGnBD4w2z0SlWEPe-3jZ9UEOXWTj1jn3zmufaosia2Y/edit?usp=sharing">Google Sheet</a>.
