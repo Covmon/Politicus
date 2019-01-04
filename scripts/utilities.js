@@ -13,6 +13,8 @@ var numCardsToLoad = 9;
 
 var isTouchDevice = false;
 
+var filePathPrefix = "";
+
 $(document).ready(function() {
     console.log("JS Utilites Script Loaded");
     $('body').on('touchstart', function() {});
@@ -29,6 +31,10 @@ $(document).ready(function() {
             let select = "<option value='" + state + "'>" + name + "</option>"
             $("#select-state").append(select);
         }
+    }
+
+    if (currentURL.includes("/2018/")) {
+        filePathPrefix = "/2018";
     }
 
     var state = "All";
@@ -116,7 +122,7 @@ function getJSONCurrentCandidates(state) {
         async: false
     });
 
-    let url = "/current_legislators/json/" + state + "_current_legislators.json";
+    let url = filePathPrefix + "/current_legislators/json/" + state + "_current_legislators.json";
 
     var success = false;
     $.getJSON(url, function(json) {
@@ -157,7 +163,7 @@ function getJSONAllOverall(bodies) {
             if (state == "US" && body == "Senate") {
                 continue;
             }
-            let url = "/predictions_data/" + state + "_" + body + "_Election_Predictions.json"; 
+            let url = filePathPrefix + "/predictions_data/" + state + "_" + body + "_Election_Predictions.json"; 
 
             var success = false;
             $.getJSON(url, function(json) {
@@ -192,7 +198,7 @@ function getJSONOverall(state, body) {
         async: false
     });
 
-    let url = "/predictions_data/" + state + "_" + body + "_Election_Predictions.json"; 
+    let url = filePathPrefix + "/predictions_data/" + state + "_" + body + "_Election_Predictions.json"; 
 
     var success = false;
     $.getJSON(url, function(json) {
@@ -250,7 +256,7 @@ function getJSONCandidates(states, useAll) {
     
     if (!useAll) {
         let state = states[0];
-        let url = "/predictions_data/" + state + "_Candidates_Election_Predictions.json";
+        let url = filePathPrefix + "/predictions_data/" + state + "_Candidates_Election_Predictions.json";
         var success = false;
         $.getJSON(url, function(json) {
             success = true;
@@ -270,7 +276,7 @@ function getJSONCandidates(states, useAll) {
         }
     } else {
         for (state of states) {
-            let url = "/predictions_data/" + state + "_Candidates_Election_Predictions.json";
+            let url = filePathPrefix + "/predictions_data/" + state + "_Candidates_Election_Predictions.json";
             var success = false;
             $.getJSON(url, function(json) {
                 success = true;
