@@ -875,6 +875,18 @@ input:focus {
     background-color: rgb(233, 233, 233)
 }
 
+.purple-link {
+    font-family: "Roboto";
+    color: rgb(91, 61, 201);
+    text-decoration: none;
+    transition-duration: 0.1s;
+}
+
+.purple-link:hover{
+    background-color: rgb(233, 233, 233);
+    color: rgb(91, 61, 201);
+}
+
 .how-it-works {
     margin-top: 50px;
     text-align: center;
@@ -888,7 +900,7 @@ input:focus {
 }
 
 .how-it-works a:hover {
-    background-color: rgb(233, 233, 233)
+    background-color: rgb(233, 233, 233);
 }
 
 #live-blog {
