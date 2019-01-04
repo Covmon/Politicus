@@ -55,7 +55,10 @@ $(document).ready(function() {
     });
 
     let gitURL = "https://api.github.com/repos/Covmon/Politicus/commits"
-    if (!currentURL.includes("index") && currentURL.length != defaultURLLength && currentURL.length != defaultURLLength + 1) {
+    if (currentURL.includes("/2018/")) {
+        let html = '<p id="updated" class="number"><span class="dot-purple"></span> ' + "Last updated 11/6/2018 at 4:35 PM" + '</p>';
+        $(".header").after(html);
+    } else if (!currentURL.includes("index") && currentURL.length != defaultURLLength && currentURL.length != defaultURLLength + 1) {
         $.getJSON(gitURL, function(json) {
             let commit = json[0];
             let dateData = commit.commit.author.date;
@@ -76,10 +79,7 @@ $(document).ready(function() {
         })
     }
 
-    if (currentURL.includes("/2018/")) {
-        let html = '<p id="updated" class="number"><span class="dot-purple"></span> ' + "Last updated 11/6/2018 at 4:35 PM" + '</p>';
-        $(".header").after(html);
-    }
+    
 
     let buttonHTML = '<button id="top-button">Top</button>';
     $(".nav").after(buttonHTML);
