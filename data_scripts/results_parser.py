@@ -7,14 +7,14 @@ states = ["AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA",
           "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC", 
           "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY"]
 
-statesGA = ["GA"]
+statesToUse = ["ID", "MA"]
 
 rows = [["State", "Position", "District", "Dem Projected", "Dem Actual", "Dem Probability", "Rep Projected", "Rep Actual", "Rep Probability", "Other Projected", "Other Actual", "Other Probability", "Rating", "Winner", "Correct", "Error"]]
 
-for state in statesGA:
+for state in statesToUse:
     pathPredictions = "/Users/noahcovey/Documents/Development/Elections/Politicus/2018_Election_Races_Predictions/" + state + "_Races_Election_Predictions.csv"
     pathResults = "/Users/noahcovey/Documents/Development/Elections/Politicus/2018_Election_Races_Results/" + state + "_Races_Election_Results.csv"
-    pathPredAndResults = "/Users/noahcovey/Documents/Development/Elections/Politicus/2018_Election_Races_Predictions_And_Results/" + state + "_Election_Races_Predictions_And_Results.csv"
+    pathPredAndResults = "/Users/noahcovey/Documents/Development/Elections/Politicus/election_predictons_and_results_csv/2018/2018_Election_Races_Predictions_And_Results/" + state + "_Election_Races_Predictions_And_Results.csv"
 
     with open(pathPredAndResults, "r") as f:
         #predictionsReader = csv.reader(f)
@@ -75,7 +75,7 @@ for state in statesGA:
 
             lineNumber += 1
 
-    fileName = "/Users/noahcovey/Documents/Development/Elections/Politicus/2018_Election_Results_Parsed/" + state + "_2018_Election_Results_Parsed.csv"
+    fileName = "/Users/noahcovey/Documents/Development/Elections/Politicus/election_predictons_and_results_csv/2018/2018_Election_Results_Parsed/" + state + "_2018_Election_Results_Parsed.csv"
     with open(fileName, "w") as f:
         writer = csv.writer(f)
         writer.writerows(rows)
