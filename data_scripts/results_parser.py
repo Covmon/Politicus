@@ -7,7 +7,7 @@ states = ["AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA",
           "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC", 
           "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY"]
 
-statesToUse = ["ID", "MA"]
+statesToUse = ["MA"]
 
 rows = [["State", "Position", "District", "Dem Projected", "Dem Actual", "Dem Probability", "Rep Projected", "Rep Actual", "Rep Probability", "Other Projected", "Other Actual", "Other Probability", "Rating", "Winner", "Correct", "Error"]]
 
@@ -42,7 +42,7 @@ for state in statesToUse:
             print state, position, district, party
 
             projectedNum = re.sub("[^\d\.]", "", predictionRow[6])
-            probabilityNum = re.sub("[^\d\.]", "", predictionRow[8])
+            probabilityNum = re.sub("[^\d\.]", "", predictionRow[9])
 
             projected = round(float(projectedNum),2)
             actual = predictionRow[7]
