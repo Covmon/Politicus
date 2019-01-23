@@ -75,7 +75,7 @@ def writeCSV(file, s, y):
 
 def money_data_reader(year):
     for state in states:
-        fileName = "/fundraising_data/fundraising_data_" + str(year) + "/" + state + "_fundraising_data_" + str(year) + ".csv"
+        fileName = "../Politicus/fundraising_data/fundraising_data_" + str(year) + "/" + state + "_fundraising_data_" + str(year) + ".csv"
         with open('fun', 'w') as csvf:
             writeCSV(csvf, state, str(year))
 
