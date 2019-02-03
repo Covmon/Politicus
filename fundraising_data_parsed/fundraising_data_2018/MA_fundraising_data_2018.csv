@@ -1,0 +1,451 @@
+office,candidate,party,state,incumbency,result,total money,district
+U.S. Senator,Elizabeth Warren,DEM,MA,Incumbent,Won,32230682.29,nan
+Governor,Charles Baker,REP,MA,Incumbent,Won,30874409.75,nan
+U.S. Senator,John Kingston,REP,MA,Open,Lost,6189399.12,nan
+U.S. Senator,Shiva Ayyadurai,IND,MA,Challenger,Lost,4928781.44,nan
+U.S. Representative,Joseph Kennedy III,DEM,MA,Incumbent,Won,4362971.09,4
+Attorney General,Maura Healey,DEM,MA,Incumbent,Won,3688380.94,nan
+U.S. Representative,Richard Neal,DEM,MA,Incumbent,Won,3460058.52,1
+U.S. Representative,Daniel Arrigg Koh,DEM,MA,Open,Lost,3050482.51,3
+Governor,Jay Gonzalez,DEM,MA,Challenger,Lost,2696945.92,nan
+U.S. Representative,Seth Moulton,DEM,MA,Incumbent,Won,2494647.27,6
+U.S. Representative,Lori Trahan,DEM,MA,Open,Won,2409671.33,3
+U.S. Representative,Rufus Gifford,DEM,MA,Open,Lost,2325552.46,3
+U.S. Senator,Geoff Diehl,REP,MA,Challenger,Lost,1976514.48,nan
+U.S. Representative,Michael Capuano,DEM,MA,Incumbent,Lost,1770349.76,7
+U.S. Senator,Beth Lindstrom,REP,MA,Open,Lost,1450528.34,nan
+U.S. Representative,Ayanna Pressley,DEM,MA,Open,Won,1437526.04,7
+Treasurer,Deborah Goldberg,DEM,MA,Incumbent,Won,1387782.18,nan
+U.S. Representative,Katherine Clark,DEM,MA,Incumbent,Won,1216504.16,5
+U.S. Representative,William Richard Keating,DEM,MA,Incumbent,Won,1212640.82,9
+U.S. Representative,James McGovern,DEM,MA,Incumbent,Won,1158710.12,2
+Secretary Of State,William Galvin,DEM,MA,Incumbent,Won,1107476.17,nan
+Representative Nineteenth Suffolk,Robert Deleo,DEM,MA,Incumbent,Default Winner,960959.78,nan
+U.S. Representative,Rick Green,REP,MA,Open,Lost,943552.92,3
+U.S. Representative,Barbara Litalien,DEM,MA,Open,Lost,863860.72,3
+U.S. Representative,Peter Tedeschi,REP,MA,Challenger,Lost,848703.52,9
+U.S. Representative,Stephen Lynch,DEM,MA,Incumbent,Won,841010.73,8
+Secretary Of State,Josh Zakim,DEM,MA,Challenger,Lost,666241.63,nan
+Governor,Robert Massie,DEM,MA,Open,Lost,642203.7,nan
+U.S. Representative,Abhijit Beej Das,DEM,MA,Open,Lost,590431.74,3
+Senator First Suffolk,Nick Collins,DEM,MA,Incumbent,Default Winner,437675.04,nan
+U.S. Representative,Juana Matias,DEM,MA,Open,Lost,410588.61,3
+Senator Second Middlesex And Norfolk,Karen Spilka,DEM,MA,Incumbent,Default Winner,408319.84,nan
+Representative Fifteenth Suffolk,Jeffrey Sanchez,DEM,MA,Incumbent,Lost,408259.11,nan
+Senator Second Essex And Middlesex,Barry Finegold,DEM,MA,Open,Won,406526.0,nan
+Auditor,Suzanne Bump,DEM,MA,Incumbent,Won,387345.53,nan
+Senator Cape And Islands,Julian Andre Cyr,DEM,MA,Incumbent,Won,318982.26,nan
+Auditor,Helen Brady,REP,MA,Challenger,Lost,310282.94,nan
+Senator First Hampden And Hampshire,Eric Philip Lesser,DEM,MA,Incumbent,Default Winner,287980.69,nan
+Representative Third Suffolk,Aaron Michlewitz,DEM,MA,Incumbent,Default Winner,265217.17,nan
+U.S. Representative,Joseph Schneider,REP,MA,Challenger,Lost,259421.3,6
+Senator First Suffolk And Middlesex,Joseph Boncore,DEM,MA,Incumbent,Default Winner,245142.22,nan
+Executive Councilor District 003,Nicholas Carter,DEM,MA,Challenger,Lost,232452.5,nan
+Representative Third Norfolk,Ronald Mariano,DEM,MA,Incumbent,Won,231537.0,nan
+Senator First Bristol And Plymouth,Michael Rodrigues,DEM,MA,Incumbent,Default Winner,220934.72,nan
+Lieutenant Governor,Jimmy Tingle,DEM,MA,Open,Lost,191617.22,nan
+Representative First Suffolk,Adrian Madaro,DEM,MA,Incumbent,Default Winner,191010.39,nan
+Representative Eighteenth Suffolk,Michael Moran,DEM,MA,Incumbent,Default Winner,188291.47,nan
+Senator Middlesex And Worcester,Margaret Woolley Busse,REP,MA,Challenger,Lost,188284.1,nan
+Senator Middlesex And Worcester,James Eldridge,DEM,MA,Incumbent,Won,187692.97,nan
+Representative Eighteenth Essex,Tram Nguyen,DEM,MA,Challenger,Won,177098.32,nan
+U.S. Representative,Brianna Wu,DEM,MA,Challenger,Lost,176203.04,8
+Senator Middlesex,Salvatore Didomenico,DEM,MA,Incumbent,Default Winner,171920.85,nan
+Senator Worcester And Norfolk,Ryan Fattman,REP,MA,Incumbent,Won,161407.02,nan
+Senator First Essex,Diana Dizoglio,DEM,MA,Open,Won,151731.67,nan
+U.S. Representative,Alexandra Chandler,DEM,MA,Open,Lost,150670.0,3
+Senator First Worcester,Harriette Chandler,DEM,MA,Incumbent,Default Winner,148098.16,nan
+Representative Thirteenth Norfolk,Denise Garlick,DEM,MA,Incumbent,Default Winner,145893.23,nan
+U.S. Representative,Tahirah Amatul-Wadud,DEM,MA,Challenger,Lost,143381.41,1
+Representative Fifteenth Suffolk,Nika Elugardo,DEM,MA,Open,Default Winner,142992.0,nan
+Senator Second Worcester,Michael Moore,DEM,MA,Incumbent,Default Winner,142079.41,nan
+Representative Sixteenth Middlesex,Thomas Golden Jr.,DEM,MA,Incumbent,Default Winner,141720.0,nan
+Governor,Scott Douglas Lively,REP,MA,Challenger,Lost,141686.2,nan
+Representative Second Norfolk,Tackey Chan,DEM,MA,Incumbent,Won,139886.0,nan
+Senator Fifth Middlesex,Jason Lewis,DEM,MA,Incumbent,Won,138400.0,nan
+Attorney General,James McMahon III,REP,MA,Challenger,Lost,137268.39,nan
+Treasurer,Keiko Orrall,REP,MA,Challenger,Lost,133301.23,nan
+Representative Thirty-Fifth Middlesex,Paul Donato,DEM,MA,Incumbent,Default Winner,131043.63,nan
+Representative Eighteenth Essex,James Lyons Jr.,REP,MA,Incumbent,Lost,130758.22,nan
+Senator Hampden,James Welch,DEM,MA,Incumbent,Default Winner,130586.45,nan
+Senator First Plymouth And Bristol,Marc Richard Pacheco,DEM,MA,Incumbent,Default Winner,130390.96,nan
+Senator Plymouth And Norfolk,Patrick Michael Oconnor,REP,MA,Incumbent,Won,129162.05,nan
+"Senator Norfolk, Bristol And Middlesex",Rebecca Rausch,DEM,MA,Challenger,Won,127895.12,nan
+"Senator Hampshire, Franklin And Worcester",Jo Comerford,DEM,MA,Open,Default Winner,122712.51,nan
+Representative Fifteenth Middlesex,Michelle Ciccolo,DEM,MA,Open,Default Winner,121713.0,nan
+Senator Plymouth And Barnstable,Viriato Manuel Demacedo,REP,MA,Incumbent,Won,115584.62,nan
+Representative Second Barnstable,William Crocker Jr.,REP,MA,Incumbent,Won,115389.69,nan
+Senator First Essex And Middlesex,Bruce Tarr,REP,MA,Incumbent,Default Winner,112955.37,nan
+Representative Eighth Hampden,Joseph Wagner,DEM,MA,Incumbent,Default Winner,109960.36,nan
+Senator Third Essex,Brendan Crighton,DEM,MA,Incumbent,Won,109342.97,nan
+Representative Eleventh Plymouth,Claire Cronin,DEM,MA,Incumbent,Default Winner,109073.05,nan
+"Senator Berkshire, Hampshire, Franklin And Hampden",Adam Hinds,DEM,MA,Incumbent,Default Winner,106392.59,nan
+Representative Twelfth Suffolk,Dan Cullinane,DEM,MA,Incumbent,Default Winner,106079.31,nan
+Representative Second Barnstable,Paul Cusack,DEM,MA,Challenger,Lost,103388.5,nan
+Representative Seventeenth Middlesex,David Nangle,DEM,MA,Incumbent,Default Winner,102734.18,nan
+Representative First Essex,James Kelcourse,REP,MA,Incumbent,Won,102114.04,nan
+Representative Fourth Plymouth,Patrick Joseph Kearney,DEM,MA,Open,Won,101860.0,nan
+Senator Worcester And Middlesex,Dean Tran,REP,MA,Incumbent,Won,101266.08,nan
+Representative Twentieth Middlesex,Bradley Jones Jr.,REP,MA,Incumbent,Default Winner,100921.74,nan
+"Senator Norfolk, Bristol And Plymouth",Walter Timilty,DEM,MA,Incumbent,Default Winner,100683.35,nan
+Senator Bristol And Norfolk,Paul Feeney,DEM,MA,Incumbent,Won,100375.0,nan
+Senator First Middlesex,John Drinkwater,DEM,MA,Open,Lost,99031.77,nan
+Senator Second Suffolk And Middlesex,William Brownsberger,DEM,MA,Incumbent,Default Winner,98964.1,nan
+Representative Eleventh Norfolk,Paul McMurtry,DEM,MA,Incumbent,Won,98493.28,nan
+Senator Cape And Islands,John Flores,REP,MA,Challenger,Lost,97336.5,nan
+Representative Eleventh Worcester,Hannah Kane,REP,MA,Incumbent,Default Winner,95724.38,nan
+Representative Second Middlesex,James Arciero,DEM,MA,Incumbent,Won,95258.0,nan
+Representative Fourth Essex,Allison Gustavson,DEM,MA,Challenger,Lost,92852.14,nan
+Representative Sixth Bristol,Carole Fiola,DEM,MA,Incumbent,Won,92291.36,nan
+Senator Third Middlesex,Michael Barrett,DEM,MA,Incumbent,Default Winner,91002.45,nan
+Representative Fourth Suffolk,David Biele,DEM,MA,Open,Default Winner,90193.18,nan
+Representative Seventeenth Suffolk,Kevin Honan,DEM,MA,Incumbent,Default Winner,89210.0,nan
+Representative Twelfth Hampden,Angelo Puppolo Jr.,DEM,MA,Incumbent,Won,88536.39,nan
+Executive Councilor District 004,Christopher Iannella Jr.,DEM,MA,Incumbent,Won,88302.04,nan
+Attorney General,Daniel Shores,REP,MA,Open,Lost,88251.52,nan
+Representative Twenty-Fifth Middlesex,Marjorie Decker,DEM,MA,Incumbent,Default Winner,88240.0,nan
+Representative Third Middlesex,Kate Hogan,DEM,MA,Incumbent,Default Winner,87084.39,nan
+Representative Thirteenth Suffolk,Daniel Hunt,DEM,MA,Incumbent,Default Winner,86927.03,nan
+Representative Fifth Norfolk,Mark James Cusack,DEM,MA,Incumbent,Default Winner,86605.0,nan
+Executive Councilor District 001,Joseph Ferreira,DEM,MA,Incumbent,Won,86460.0,nan
+U.S. Representative,Christopher Voehl,DEM,MA,Challenger,Lost,86269.25,8
+Representative Twelfth Worcester,Harold Naughton Jr.,DEM,MA,Incumbent,Won,86236.66,nan
+Representative First Barnstable,Timothy Whelan,REP,MA,Incumbent,Won,85052.47,nan
+Representative Thirty-First Middlesex,Michael Day,DEM,MA,Incumbent,Won,83743.22,nan
+Representative Second Suffolk,Daniel Joseph Ryan,DEM,MA,Incumbent,Default Winner,83544.0,nan
+Representative Second Essex,Christina Eckert,DEM,MA,Challenger,Lost,83293.45,nan
+Senator Second Essex,Joan Lovely,DEM,MA,Incumbent,Default Winner,81428.8,nan
+Representative Twenty-Sixth Middlesex,Mike Connolly,DEM,MA,Incumbent,Default Winner,81094.6,nan
+U.S. Representative,Bopha Malone,DEM,MA,Open,Lost,78544.09,3
+Representative Third Bristol,Shaunna Oconnell,REP,MA,Incumbent,Won,77768.58,nan
+Representative Eleventh Essex,Pete Capano,DEM,MA,Open,Default Winner,77687.45,nan
+Representative Ninth Worcester,David Muradian Jr.,REP,MA,Incumbent,Default Winner,77340.0,nan
+Representative Tenth Suffolk,Edward Coppinger,DEM,MA,Incumbent,Default Winner,76910.0,nan
+Representative Thirty-Seventh Middlesex,Jennifer Benson,DEM,MA,Incumbent,Default Winner,76120.79,nan
+Representative Fourteenth Essex,Christina Minicucci,DEM,MA,Open,Won,74313.0,nan
+Representative Fifth Bristol,Patricia Haddad,DEM,MA,Incumbent,Won,74141.1,nan
+Representative Fifth Suffolk,Liz Miranda,DEM,MA,Open,Won,73667.38,nan
+Representative Eighth Bristol,Paul Schmid III,DEM,MA,Incumbent,Default Winner,72858.34,nan
+Senator Norfolk,Michael Rush,DEM,MA,Incumbent,Default Winner,71537.7,nan
+Representative Third Plymouth,Joan Meschino,DEM,MA,Incumbent,Won,71170.0,nan
+Senator Plymouth And Norfolk,Katie McBrine,DEM,MA,Challenger,Lost,69703.57,nan
+"Senator Worcester, Hampden, Hampshire And Middlesex",Anne Gobi,DEM,MA,Incumbent,Won,68664.0,nan
+Executive Councilor District 007,Paul Depalo,DEM,MA,Challenger,Lost,68498.74,nan
+Senator First Middlesex,Edward Kennedy,DEM,MA,Open,Won,68498.0,nan
+Representative Fifth Essex,Ann-Margaret Ferrante,DEM,MA,Incumbent,Won,67346.19,nan
+Representative Fourth Berkshire,William Pignatelli,DEM,MA,Incumbent,Default Winner,65825.0,nan
+Senator Hampden,Amaad Isiah Rivera,DEM,MA,Challenger,Lost,65524.41,nan
+Representative Seventh Essex,Paul Tucker,DEM,MA,Incumbent,Default Winner,64391.72,nan
+Senator Worcester And Middlesex,Susan Chalifoux-Zephir,DEM,MA,Challenger,Lost,63515.0,nan
+Representative Twenty-Eighth Middlesex,Joseph McGonagle Jr.,DEM,MA,Incumbent,Default Winner,62774.0,nan
+Representative Eleventh Essex,Drew Russo,DEM,MA,Open,Lost,61040.0,nan
+U.S. Representative,Kevin William Powers,REP,MA,Open,Lost,60199.64,2
+Representative Tenth Norfolk,Jeffrey Roy,DEM,MA,Incumbent,Won,59607.91,nan
+Representative Second Hampden,Allison Werder,REP,MA,Challenger,Lost,59475.0,nan
+Senator First Middlesex,William Martin Jr.,DEM,MA,Open,Lost,58704.0,nan
+Representative Fourteenth Middlesex,Tami Gouveia,DEM,MA,Open,Won,57105.83,nan
+Representative Thirteenth Bristol,Antonio D Cabral,DEM,MA,Incumbent,Won,56975.0,nan
+Senator Second Plymouth And Bristol,Michael Brady,DEM,MA,Incumbent,Won,55111.96,nan
+U.S. Representative,Bill Cimbrelo,DEM,MA,Challenger,Lost,54842.26,9
+Representative Ninth Suffolk,Byron Rushing,DEM,MA,Incumbent,Lost,54705.0,nan
+Representative Thirtieth Middlesex,Richard Haggerty,DEM,MA,Open,Won,54556.0,nan
+Representative Seventh Bristol,Alan Silvia,DEM,MA,Incumbent,Default Winner,54453.74,nan
+"Senator Hampshire, Franklin And Worcester",Chelsea Kline,DEM,MA,Open,Lost,54433.2,nan
+Representative Fourth Essex,Bradford Hill,REP,MA,Incumbent,Won,54305.12,nan
+Representative Ninth Norfolk,Shawn Dooley,REP,MA,Incumbent,Won,54224.0,nan
+Senator Second Essex And Middlesex,Mike Armano,DEM,MA,Open,Lost,54066.25,nan
+Representative Sixteenth Essex,William Lantigua,DEM,MA,Open,Lost,53696.75,nan
+Representative Ninth Middlesex,Thomas Stanley,DEM,MA,Incumbent,Default Winner,53128.92,nan
+Representative Ninth Suffolk,Jon Santiago,DEM,MA,Open,Default Winner,53097.22,nan
+Representative Thirteenth Essex,Theodore Speliotis,DEM,MA,Incumbent,Won,52880.06,nan
+Executive Councilor District 008,Mary Hurley,DEM,MA,Incumbent,Won,52103.45,nan
+Representative Seventeenth Worcester,David Henry Argosky Leboeuf,DEM,MA,Open,Won,51774.26,nan
+Representative Eighth Worcester,Michael Soter,REP,MA,Open,Won,51497.41,nan
+Representative First Norfolk,Bruce Ayers,DEM,MA,Incumbent,Default Winner,51390.0,nan
+Representative First Franklin,Natalie Blais,DEM,MA,Open,Default Winner,50291.0,nan
+Senator Fifth Middlesex,Samantha Hammar,DEM,MA,Challenger,Lost,50044.37,nan
+Executive Councilor District 005,Eileen Duff,DEM,MA,Incumbent,Won,49958.09,nan
+Representative Fifteenth Norfolk,Tommy Vitolo,DEM,MA,Open,Default Winner,49956.0,nan
+Representative Fourteenth Worcester,James Oday,DEM,MA,Incumbent,Default Winner,49540.0,nan
+Representative Eleventh Hampden,Bud Williams,DEM,MA,Incumbent,Default Winner,49375.0,nan
+Representative Thirteenth Worcester,John Mahoney,DEM,MA,Incumbent,Default Winner,49140.0,nan
+Representative Fifth Plymouth,Alison Demong,DEM,MA,Challenger,Lost,48884.68,nan
+Representative Fifteenth Norfolk,Rebecca Stone,DEM,MA,Open,Lost,48877.18,nan
+Representative Thirty-Second Middlesex,Paul Brodeur,DEM,MA,Incumbent,Default Winner,48610.0,nan
+Representative Eighth Suffolk,Jay Livingstone,DEM,MA,Incumbent,Default Winner,48545.0,nan
+Representative Second Berkshire,Paul Mark,DEM,MA,Incumbent,Default Winner,47896.36,nan
+Representative Sixth Plymouth,Josh Cutler,DEM,MA,Incumbent,Default Winner,47548.0,nan
+Representative Eleventh Suffolk,Elizabeth Malia,DEM,MA,Incumbent,Default Winner,46740.0,nan
+Representative First Hampden,Todd Smola,REP,MA,Incumbent,Won,46540.0,nan
+Representative Seventh Hampden,Thomas Petrolati,DEM,MA,Incumbent,Default Winner,45978.3,nan
+Representative Sixth Essex,Jerald Parisella,DEM,MA,Incumbent,Won,45950.0,nan
+Representative Seventh Plymouth,Alex Bezanson,DEM,MA,Open,Lost,45905.0,nan
+Representative Fifth Suffolk,Darrin Howell,DEM,MA,Open,Lost,45813.0,nan
+Representative First Plymouth,Mathew Muratore,REP,MA,Incumbent,Won,45696.29,nan
+Representative Thirty-Fourth Middlesex,Christine Barber,DEM,MA,Incumbent,Default Winner,45197.61,nan
+Representative Fourth Barnstable,Sarah Peake,DEM,MA,Incumbent,Default Winner,45172.98,nan
+Representative Fourteenth Suffolk,Angelo Scaccia,DEM,MA,Incumbent,Default Winner,44411.7,nan
+Senator Worcester And Norfolk,Thomas Merolli,DEM,MA,Challenger,Lost,44076.26,nan
+Executive Councilor District 006,Terrence Kennedy,DEM,MA,Incumbent,Won,43855.25,nan
+Representative Fourth Norfolk,James Murphy,DEM,MA,Incumbent,Default Winner,43625.0,nan
+Representative Ninth Essex,Donald Wong,REP,MA,Incumbent,Won,43575.98,nan
+Representative Second Hampden,Brian Michael Ashe,DEM,MA,Incumbent,Won,43387.79,nan
+Secretary Of State,Anthony Amore,REP,MA,Challenger,Lost,43300.63,nan
+Executive Councilor District 004,Mark Rooney,DEM,MA,Challenger,Lost,42266.12,nan
+Representative Tenth Bristol,William Straus,DEM,MA,Incumbent,Default Winner,41860.52,nan
+Representative Fifth Hampden,Aaron Vega,DEM,MA,Incumbent,Default Winner,41728.81,nan
+Representative Twelfth Plymouth,Kathleen Lanatra,DEM,MA,Open,Won,41153.44,nan
+Representative Seventh Plymouth,Alyson Sullivan,REP,MA,Open,Won,41145.06,nan
+Representative Second Bristol,Julie Hall,REP,MA,Challenger,Lost,40155.84,nan
+Representative Fourth Plymouth,Sean Costello,DEM,MA,Open,Lost,39855.0,nan
+"Representative Barnstable, Dukes And Nantucket",Dylan Fernandes,DEM,MA,Incumbent,Default Winner,38592.0,nan
+Representative Fifteenth Middlesex,William Joseph Sweeney,DEM,MA,Open,Lost,37900.0,nan
+U.S. Representative,Tracy Lyn Lovvorn,REP,MA,Challenger,Lost,37825.81,2
+Representative First Hampshire,Lindsay Sabadosa,DEM,MA,Open,Default Winner,37739.58,nan
+Representative Fifth Worcester,Jean Anne Strauss,DEM,MA,Challenger,Lost,37605.51,nan
+Representative Thirty-Sixth Middlesex,Colleen Garry,DEM,MA,Incumbent,Won,37540.0,nan
+Executive Councilor District 003,Marilyn Petitto Devaney,DEM,MA,Incumbent,Won,37375.0,nan
+Representative Third Plymouth,Kristen Arute,REP,MA,Challenger,Lost,37351.0,nan
+Senator Bristol And Norfolk,Jacob Ventura,REP,MA,Challenger,Lost,37277.0,nan
+Senator First Middlesex,Rodney Elliott,DEM,MA,Open,Lost,37227.34,nan
+Senator First Middlesex,John Macdonald,REP,MA,Open,Lost,37181.61,nan
+Representative Ninth Hampden,Jose Tosado,DEM,MA,Incumbent,Default Winner,36490.0,nan
+Senator First Middlesex And Norfolk,Cynthia Stone Creem,DEM,MA,Incumbent,Default Winner,36444.0,nan
+Representative Second Plymouth,Sarah Hewins,DEM,MA,Challenger,Lost,36199.48,nan
+Representative First Hampshire,Diana Szynal,DEM,MA,Open,Lost,36190.89,nan
+Senator Second Hampden And Hampshire,Donald Humason Jr.,REP,MA,Incumbent,Default Winner,35700.0,nan
+Representative Fourth Suffolk,Matthew Rusteika,DEM,MA,Open,Lost,35348.0,nan
+Senator Fourth Middlesex,Cindy Friedman,DEM,MA,Incumbent,Default Winner,35250.0,nan
+Representative Thirty-First Middlesex,Caroline Colarusso,REP,MA,Challenger,Lost,35130.0,nan
+Representative Eighth Norfolk,Louis Kafka,DEM,MA,Incumbent,Default Winner,35100.42,nan
+Representative Eighth Worcester,Ryan Chamberland,REP,MA,Open,Lost,34970.0,nan
+Representative Fourteenth Suffolk,Gretchen Van Ness,DEM,MA,Challenger,Lost,34880.45,nan
+Representative Eleventh Suffolk,Ture Turnbull,DEM,MA,Challenger,Lost,34812.0,nan
+Representative Sixth Middlesex,Maria Robinson,DEM,MA,Open,Default Winner,34670.66,nan
+Representative Third Hampshire,Mindy Domb,DEM,MA,Open,Won,34005.0,nan
+Auditor,Daniel Fishman,LIB,MA,Challenger,Lost,33827.69,nan
+Representative Seventh Middlesex,Jack Patrick Lewis,DEM,MA,Incumbent,Default Winner,33809.0,nan
+Representative Fourteenth Suffolk,Segun Idowu,DEM,MA,Challenger,Lost,33679.9,nan
+Senator Fifth Middlesex,Erin Calvo-Bacci,REP,MA,Challenger,Lost,33656.11,nan
+Representative Second Worcester,Jonathan Zlotnik,DEM,MA,Incumbent,Won,33248.0,nan
+Representative Twenty-First Middlesex,Kenneth Gordon,DEM,MA,Incumbent,Default Winner,33221.92,nan
+Representative Twelfth Norfolk,John Rogers,DEM,MA,Incumbent,Default Winner,33063.55,nan
+Representative Fifth Plymouth,David Decoste,REP,MA,Incumbent,Won,32180.0,nan
+Representative Twenty-Second Middlesex,Marc Lombardo,REP,MA,Incumbent,Won,32015.0,nan
+Representative Tenth Middlesex,John Lawn Jr.,DEM,MA,Incumbent,Default Winner,31487.16,nan
+Representative Seventh Norfolk,William Driscoll Jr.,DEM,MA,Incumbent,Default Winner,31301.75,nan
+Representative Eighteenth Middlesex,James Leary,DEM,MA,Challenger,Lost,30803.7,nan
+Representative Fourth Bristol,Steven Howitt,REP,MA,Incumbent,Default Winner,30517.43,nan
+Representative Fourth Middlesex,Danielle Gregoire,DEM,MA,Incumbent,Won,29813.05,nan
+Representative Ninth Plymouth,Gerard Cassidy,DEM,MA,Incumbent,Default Winner,29355.0,nan
+Representative Sixth Hampden,Michael Finn,DEM,MA,Incumbent,Default Winner,29155.0,nan
+Representative Second Bristol,James Hawkins,DEM,MA,Incumbent,Default Winner,29039.67,nan
+Representative Tenth Essex,Daniel Cahill,DEM,MA,Incumbent,Default Winner,28889.29,nan
+Representative Fourth Worcester,Natalie Higgins,DEM,MA,Incumbent,Won,28781.58,nan
+Representative Eleventh Bristol,Christopher Hendricks,DEM,MA,Open,Default Winner,28257.79,nan
+Representative Sixteenth Worcester,Daniel Donahue,DEM,MA,Incumbent,Default Winner,28050.18,nan
+Representative Eighth Essex,Lori Ehrlich,DEM,MA,Incumbent,Default Winner,27958.0,nan
+Representative Tenth Norfolk,Patrick Casey,REP,MA,Challenger,Lost,27632.22,nan
+Representative Thirteenth Essex,Mark Mezzina,REP,MA,Challenger,Lost,27570.0,nan
+Executive Councilor District 007,Jennie Caissie,REP,MA,Incumbent,Won,27569.65,nan
+Representative Fifth Barnstable,Randy Hunt,REP,MA,Incumbent,Won,27380.0,nan
+Representative Thirty-Third Middlesex,Steven Rocco Ultrino,DEM,MA,Incumbent,Default Winner,27055.74,nan
+Senator Plymouth And Barnstable,Deborah Rudolf,DEM,MA,Challenger,Lost,26741.5,nan
+Representative First Essex,Jennifer Rocco-Runnion,DEM,MA,Challenger,Lost,26729.0,nan
+Representative Fourteenth Norfolk,Alice Hanlon Peisch,DEM,MA,Incumbent,Default Winner,26693.32,nan
+Senator First Middlesex,Terry Ryan,DEM,MA,Open,Lost,26193.0,nan
+Representative Seventeenth Worcester,Stuart Loosemore,DEM,MA,Open,Lost,25665.84,nan
+Representative Fifteenth Middlesex,Mary Ann Stewart,DEM,MA,Open,Lost,25613.01,nan
+Executive Councilor District 002,Robert Jubinville,DEM,MA,Incumbent,Won,25375.0,nan
+Representative Third Hampden,Nicholas Boldyga,REP,MA,Incumbent,Won,25276.0,nan
+Representative Sixteenth Suffolk,Roselee Vincent,DEM,MA,Incumbent,Default Winner,25203.89,nan
+Representative Fourth Plymouth,Joseph Armstrong,IND,MA,Open,Lost,25116.37,nan
+Representative Thirtieth Middlesex,Anne Dj Landry,DEM,MA,Open,Lost,25041.0,nan
+Representative Nineteenth Middlesex,Pina Prinzivalli,REP,MA,Open,Lost,25002.0,nan
+Representative First Franklin,Kate Welch Albright-Hanna,DEM,MA,Open,Lost,24800.87,nan
+Representative Eighth Plymouth,Angelo Demilia,REP,MA,Incumbent,Default Winner,24535.0,nan
+Representative Sixth Bristol,David Steinhof,REP,MA,Challenger,Lost,24520.0,nan
+Representative Tenth Worcester,Brian Murray,DEM,MA,Incumbent,Won,24515.0,nan
+"Senator Norfolk, Bristol And Middlesex",Richard Ross,REP,MA,Incumbent,Lost,24500.0,nan
+Representative Sixth Norfolk,William Galvin,DEM,MA,Incumbent,Default Winner,24475.0,nan
+Representative Fourth Hampden,John Velis,DEM,MA,Incumbent,Default Winner,24126.55,nan
+Representative Third Hampshire,Eric Nakajima,DEM,MA,Open,Lost,24078.0,nan
+Representative Second Plymouth,Susan Gifford,REP,MA,Incumbent,Won,23995.0,nan
+Representative Eleventh Essex,Hong Net,DEM,MA,Open,Lost,23942.52,nan
+Representative Nineteenth Middlesex,Mark Kratman,DEM,MA,Open,Lost,23770.0,nan
+Representative Second Middlesex,Kathleen Lynch,REP,MA,Challenger,Lost,23532.35,nan
+Representative Twelfth Middlesex,Ruth Balser,DEM,MA,Incumbent,Default Winner,23438.6,nan
+Representative Second Hampshire,Daniel Carey,DEM,MA,Open,Won,23298.17,nan
+Representative Sixteenth Essex,Marcos Devers,DEM,MA,Open,Default Winner,23275.0,nan
+Representative Fifteenth Middlesex,Joseph Lahiff,DEM,MA,Open,Lost,23162.16,nan
+Representative Third Worcester,Stephan Hay,DEM,MA,Incumbent,Won,23084.0,nan
+Representative Fifth Barnstable,Jack Stanton,DEM,MA,Challenger,Lost,22892.22,nan
+Representative Thirty-Sixth Middlesex,Sabrina Adena Heisey,DEM,MA,Challenger,Lost,22409.18,nan
+Representative Twenty-Third Middlesex,Sean Garballey,DEM,MA,Incumbent,Default Winner,22184.18,nan
+Representative Second Bristol,Jeffrey Robert Bailey,REP,MA,Open,Lost,21618.9,nan
+Representative Third Berkshire,Tricia Farley-Bouvier,DEM,MA,Incumbent,Default Winner,21556.0,nan
+Representative Fourteenth Essex,Ryan Losco,REP,MA,Open,Lost,21235.0,nan
+Representative Fourth Middlesex,Paul Ferro,REP,MA,Challenger,Lost,21150.71,nan
+Representative Twelfth Essex,Thomas Walsh,DEM,MA,Incumbent,Default Winner,20977.54,nan
+Representative Tenth Plymouth,Michelle Marie Dubois,DEM,MA,Incumbent,Won,20936.44,nan
+Representative Fourteenth Essex,Lisa J. Yarid Ferry,DEM,MA,Open,Lost,20759.5,nan
+Representative Twelfth Bristol,Norman Orrall,REP,MA,Open,Won,20130.09,nan
+Representative Eighteenth Middlesex,Rithy Uong,DEM,MA,Challenger,Lost,20121.47,nan
+Representative Seventh Worcester,Paul Frost,REP,MA,Incumbent,Won,20103.03,nan
+Representative Nineteenth Middlesex,Michael McCoy,DEM,MA,Open,Lost,20000.0,nan
+U.S. Representative,Michael Mullen,IND,MA,Open,Lost,19977.0,3
+Representative Eighteenth Middlesex,Rady Mom,DEM,MA,Incumbent,Default Winner,19899.01,nan
+Representative Second Hampshire,John Hine,DEM,MA,Open,Lost,19570.0,nan
+Representative First Plymouth,John Mahoney Jr.,DEM,MA,Challenger,Lost,19450.0,nan
+Senator Second Essex And Middlesex,Pavel Payano,DEM,MA,Open,Lost,19425.67,nan
+Representative Nineteenth Middlesex,David Allen Robertson,DEM,MA,Open,Won,19200.0,nan
+Representative Fifteenth Middlesex,Matthew Cohen,DEM,MA,Open,Lost,19100.0,nan
+Representative Eighth Worcester,Patrick Malone,DEM,MA,Open,Lost,18863.58,nan
+Representative Fourth Plymouth,Edward Oconnell,REP,MA,Open,Lost,18466.88,nan
+Representative Twenty-Third Middlesex,Lori Lennon,DEM,MA,Challenger,Lost,18461.36,nan
+Representative First Franklin,Francia Wisnewski,DEM,MA,Open,Lost,18162.7,nan
+Representative Twenty-Fourth Middlesex,David Rogers,DEM,MA,Incumbent,Default Winner,18035.0,nan
+Representative Fifteenth Essex,Linda Dean Campbell,DEM,MA,Incumbent,Won,17761.8,nan
+Representative Thirteenth Norfolk,Theodore Steinberg,DEM,MA,Challenger,Lost,17694.11,nan
+Representative Seventeenth Worcester,Paul Fullen,REP,MA,Open,Lost,17635.0,nan
+Senator Second Bristol And Plymouth,Mark Montigny,DEM,MA,Incumbent,Default Winner,17218.63,nan
+Representative Second Franklin,Susannah Whipps,IND,MA,Open,Won,17160.0,nan
+"Senator Worcester, Hampden, Hampshire And Middlesex",Steven Hall,REP,MA,Challenger,Lost,17107.0,nan
+Representative Fifteenth Worcester,Mary Keefe,DEM,MA,Incumbent,Default Winner,16931.06,nan
+Representative Ninth Essex,Matthew Crescenzo,DEM,MA,Challenger,Lost,16796.0,nan
+Representative Twelfth Plymouth,Joseph Truschelli,REP,MA,Open,Lost,16600.0,nan
+Representative Seventeenth Essex,Frank Moran,DEM,MA,Incumbent,Default Winner,16532.68,nan
+Representative Fourth Worcester,Richard Palmieri,REP,MA,Challenger,Lost,16362.5,nan
+Senator Second Middlesex,Patricia Jehlen,DEM,MA,Incumbent,Default Winner,15910.58,nan
+Representative Thirtieth Middlesex,Darryn Elliot Remillard,DEM,MA,Open,Lost,15869.0,nan
+Representative First Barnstable,Steven Leibowitz,DEM,MA,Challenger,Lost,15761.42,nan
+Representative Third Essex,Andres Vargas,DEM,MA,Incumbent,Default Winner,15368.0,nan
+Representative First Hampden,Tanya Neslusan,DEM,MA,Challenger,Lost,14679.15,nan
+Representative Second Essex,Leonard Mirra,REP,MA,Incumbent,Won,14668.18,nan
+Representative First Franklin,Casey Thomas Pease,DEM,MA,Open,Lost,14619.55,nan
+Representative First Franklin,Christine Doktor,DEM,MA,Open,Lost,14551.0,nan
+Representative Third Barnstable,David Vieira,REP,MA,Incumbent,Default Winner,14500.0,nan
+Representative Seventh Suffolk,Chynah Tyler,DEM,MA,Incumbent,Default Winner,14459.64,nan
+Executive Councilor District 005,Richard Baker,REP,MA,Challenger,Lost,14390.92,nan
+Representative Fifth Worcester,Donald Berthiaume Jr.,REP,MA,Incumbent,Won,14175.0,nan
+Representative Fourteenth Bristol,Elizabeth Poirier,REP,MA,Incumbent,Default Winner,14030.93,nan
+U.S. Representative,Gary Rucinski,DEM,MA,Challenger,Lost,13619.65,4
+Representative Twelfth Plymouth,Summer Schmaling,REP,MA,Open,Lost,13533.11,nan
+Representative Thirteenth Middlesex,Carmine Lawrence Gentile,DEM,MA,Incumbent,Default Winner,12960.0,nan
+Senator Second Suffolk,Sonia Chang-Diaz,DEM,MA,Incumbent,Default Winner,12925.0,nan
+Representative Twenty-Eighth Middlesex,Gerly Adrien,DEM,MA,Challenger,Lost,12857.0,nan
+Representative Second Worcester,Edward Gravel,REP,MA,Challenger,Lost,12574.26,nan
+Representative Eighth Worcester,Kevin Tagliaferri,DEM,MA,Open,Lost,12508.0,nan
+Representative Second Bristol,Tyler Waterman,DEM,MA,Open,Lost,12070.0,nan
+Representative Tenth Worcester,Sandra Slattery Biagetti,REP,MA,Challenger,Lost,12012.0,nan
+Representative Twenty-Seventh Middlesex,Denise Provost,DEM,MA,Incumbent,Default Winner,11993.47,nan
+Representative Twelfth Bristol,Allin John Frawley,DEM,MA,Open,Lost,11570.0,nan
+Representative Thirtieth Middlesex,Joseph Demers,DEM,MA,Open,Lost,11485.0,nan
+Representative Nineteenth Middlesex,Erin Marie Buckley,REP,MA,Open,Lost,11406.0,nan
+Representative Fifth Barnstable,Ronald Beaty Jr.,REP,MA,Challenger,Lost,11210.0,nan
+Representative First Middlesex,Sheila Harrington,REP,MA,Incumbent,Default Winner,11095.0,nan
+Representative Eleventh Norfolk,John McDonald,REP,MA,Challenger,Lost,10938.3,nan
+Representative Eighteenth Worcester,Joseph McKenna,REP,MA,Incumbent,Default Winner,10850.0,nan
+Representative First Barnstable,Joshua Mason,DEM,MA,Open,Lost,10405.0,nan
+Representative Tenth Hampden,Carlos Gonzalez,DEM,MA,Incumbent,Default Winner,10369.52,nan
+Representative Thirty-Sixth Middlesex,Raymond Leczynski,REP,MA,Challenger,Lost,10325.0,nan
+Representative Twelfth Suffolk,Jovan Lacet,DEM,MA,Challenger,Lost,10150.0,nan
+Representative Tenth Plymouth,John Cruz,REP,MA,Challenger,Lost,9950.0,nan
+Representative Eighth Middlesex,Carolyn Dykema,DEM,MA,Incumbent,Default Winner,9619.5,nan
+Representative Sixth Middlesex,Mary Kate Feeney,DEM,MA,Open,Lost,9515.0,nan
+Representative Sixth Middlesex,Mike Gatlin,DEM,MA,Open,Lost,9351.0,nan
+Representative Seventh Plymouth,Gregory Eaton,REP,MA,Open,Lost,9235.0,nan
+Representative First Franklin,Jonathan Edwards,DEM,MA,Open,Lost,9172.0,nan
+Representative Seventh Plymouth,Kevin Higgins,DEM,MA,Open,Lost,8976.35,nan
+Representative Third Hampshire,Solomon Goldstein-Rose,IND,MA,Open,Lost,8816.56,nan
+Representative Third Norfolk,Stephen Tougas,REP,MA,Challenger,Lost,8778.14,nan
+Representative Second Hampshire,Marie McCourt,DEM,MA,Open,Lost,8705.33,nan
+Representative Nineteenth Middlesex,Judith Oconnell,DEM,MA,Open,Lost,8634.09,nan
+Representative Seventeenth Worcester,Pamela Gemme,DEM,MA,Open,Lost,8627.0,nan
+"Senator Norfolk, Bristol And Middlesex",Jacqueline Katz,DEM,MA,Open,Lost,8626.0,nan
+Representative Third Bristol,Emily Jm Farrer,DEM,MA,Challenger,Lost,8482.58,nan
+Representative Eleventh Bristol,Robert Koczera,DEM,MA,Incumbent,Lost,8355.98,nan
+Representative First Berkshire,John Barrett III,DEM,MA,Incumbent,Default Winner,8275.0,nan
+Representative Ninth Norfolk,Brian Hamlin,DEM,MA,Challenger,Lost,8021.8,nan
+Executive Councilor District 003,Aaron Hutchins,REPUBLICAN WRITEIN,MA,Open,Lost,7860.0,nan
+Senator Second Essex And Middlesex,Joseph Espinola III,REP,MA,Open,Lost,7640.0,nan
+Representative Eighteenth Middlesex,Sam Meas,DEM,MA,Challenger,Lost,7525.0,nan
+Representative Twenty-Fifth Middlesex,Lesley Rebecca Phillips,DEM,MA,Challenger,Lost,7325.0,nan
+Senator Norfolk And Plymouth,John Keenan,DEM,MA,Incumbent,Won,7095.23,nan
+Representative Fifteenth Essex,Anand Gonsalves,UNENROLLED,MA,Challenger,Lost,7048.56,nan
+Representative Ninth Bristol,Christopher Markey,DEM,MA,Incumbent,Default Winner,6646.05,nan
+Representative Fourth Plymouth,Nathaniel Powell,IND,MA,Open,Lost,6315.0,nan
+Representative Twenty-Second Middlesex,Christopher Tribou,DEM,MA,Challenger,Lost,6291.5,nan
+Representative First Worcester,Kimberly Ferguson,REP,MA,Incumbent,Won,4300.0,nan
+Representative Eleventh Middlesex,Kay Khan,DEM,MA,Incumbent,Default Winner,4200.0,nan
+Representative Nineteenth Middlesex,Erika Frances Johnson,DEM,MA,Open,Lost,4010.18,nan
+Representative Fourteenth Suffolk,Christopher Obi Nzenwa,DEM,MA,Challenger,Lost,3877.64,nan
+Representative Third Worcester,Elmer Eubanks-Archbold,REP,MA,Challenger,Lost,3625.0,nan
+Executive Councilor District 001,Thomas Keyes,REP,MA,Challenger,Lost,3600.0,nan
+Executive Councilor District 005,Marc Mercier,LIB,MA,Challenger,Lost,3561.99,nan
+Representative Second Franklin,John William Arena,DEM,MA,Open,Lost,3484.0,nan
+Representative Fourteenth Middlesex,Benjamin Bloomenthal,DEM,MA,Open,Lost,3402.0,nan
+Representative Second Norfolk,William Burke,REP,MA,Challenger,Lost,3380.86,nan
+Representative Eleventh Suffolk,Charles Clemons Muhammad,DEM,MA,Challenger,Lost,3371.81,nan
+Representative Sixth Middlesex,Tom Blandford,REPUBLICAN WRITEIN,MA,Open,Lost,3346.0,nan
+Representative Sixth Worcester,Peter Durant,REP,MA,Incumbent,Default Winner,3300.0,nan
+Representative Tenth Hampden,"te Hernandez, IV",DEM,MA,Challenger,Lost,3149.11,nan
+Representative Sixth Suffolk,Russell Holmes,DEM,MA,Incumbent,Default Winner,3128.6,nan
+Representative Fifth Middlesex,David Paul Linsky,DEM,MA,Incumbent,Default Winner,3100.6,nan
+Representative Ninth Suffolk,Suezanne Bruce,DEM,MA,Challenger,Lost,2948.45,nan
+Representative Second Bristol,Sara Lynn Reynolds,DEM,MA,Challenger,Lost,2815.0,nan
+Senator First Suffolk,Donald Osgood Sr.,IND,MA,Open,Lost,2803.42,nan
+Representative Twelfth Worcester,Stanley Marcinczyk Jr.,UNENROLLED,MA,Challenger,Lost,2745.0,nan
+Treasurer,Jamie Guerin,GRN,MA,Challenger,Lost,2633.0,nan
+Representative Seventh Worcester,Terry Burke Dotson,DEM,MA,Challenger,Lost,2500.0,nan
+Auditor,Edward Stamas,GRN,MA,Challenger,Lost,2476.0,nan
+Representative Third Hampden,Forrest Bradford,DEM,MA,Challenger,Lost,2455.0,nan
+Representative Fourteenth Middlesex,Christian Krueger,DEM,MA,Open,Lost,2379.21,nan
+Senator Norfolk And Plymouth,Alexander Mendez,IND,MA,Challenger,Lost,2250.0,nan
+Secretary Of State,Juan Sanchez Jr.,GRN,MA,Challenger,Lost,2115.11,nan
+Representative First Bristol,Fred Barrows,REP,MA,Incumbent,Default Winner,1790.0,nan
+Senator First Essex,Alexander Leighton Williams,REP,MA,Open,Lost,1675.0,nan
+Representative First Worcester,Matthew Moncreaff,GRN,MA,Challenger,Lost,1615.0,nan
+Representative Nineteenth Middlesex,Patricia W Meuse,UNENROLLED,MA,Open,Lost,1500.0,nan
+Representative Twelfth Hampden,Donald Flannery,IND,MA,Challenger,Lost,1383.32,nan
+Representative First Franklin,Nathaniel Waring,DEM,MA,Open,Lost,1344.06,nan
+Representative Thirtieth Middlesex,Claire Malaguti,REP,MA,Open,Lost,1335.0,nan
+Representative Sixth Middlesex,Mark Tilden,DEM,MA,Open,Lost,1177.66,nan
+Representative Second Bristol,Paulo George Salgueiro Jr.,DEM,MA,Open,Lost,1120.0,nan
+Representative Second Hampshire,Donald Peltier,REP,MA,Open,Lost,1050.0,nan
+Representative Fourteenth Suffolk,Virak Uy,DEM,MA,Challenger,Lost,1000.0,nan
+Representative Fourteenth Middlesex,Daniel Factor,GRN,MA,Open,Lost,816.0,nan
+"Senator Berkshire, Hampshire, Franklin And Hampden",Thomas Wickham,DEM,MA,Challenger,Lost,800.0,nan
+Representative Second Worcester,Yasmine Khdeer,GRN,MA,Challenger,Lost,565.0,nan
+Representative Ninth Hampden,Mark Kenyon,DEM,MA,Challenger,Lost,555.0,nan
+Executive Councilor District 006,Vincent Lawrence Dixon,UNENROLLED,MA,Challenger,Lost,500.0,nan
+Executive Councilor District 005,Nicholas Torresi,DEM,MA,Challenger,Lost,355.0,nan
+Senator Plymouth And Norfolk,Stephen Gill,VETERAN,MA,Challenger,Lost,305.0,nan
+Representative Ninth Essex,Michael Coller,IND,MA,Challenger,Lost,218.91,nan
+Representative Twenty-Ninth Middlesex,Jonathan Hecht,DEM,MA,Incumbent,Default Winner,177.45,nan
+Representative Fifth Suffolk,Althea Garrison,INDEPENDENT PROGRESSIVE,MA,Open,Lost,61.12,nan
+Representative Fifth Suffolk,Roy Owens,DEM,MA,Open,Lost,0.0,nan
+U.S. Representative,Leonard Golder,DEM,MA,Open,Lost,0.0,3
+Senator Plymouth And Barnstable,Stephen Michael Palmer,DEM,MA,Open,Lost,0.0,nan
+"Senator Norfolk, Bristol And Middlesex",Kristopher Aleksov,DEM,MA,Open,Lost,0.0,nan
+Lieutenant Governor,Quentin Palfrey,DEM,MA,Open,Won,0.0,nan
+U.S. Representative,Jeffrey Ballinger,DEM,MA,Open,Lost,0.0,3
+Representative Fifth Suffolk,Brad Howze,DEM,MA,Open,Lost,0.0,nan
+Representative First Franklin,Andrew Baker,DEM,MA,Open,Lost,0.0,nan
+Representative Sixth Essex,Euplio Marciano,DEM,MA,Challenger,Lost,0.0,nan
+Representative Third Middlesex,Edward Basile,DEM,MA,Challenger,Lost,0.0,nan
+Representative Twenty-Eighth Middlesex,Stephen Stat Smith,DEM,MA,Challenger,Lost,0.0,nan
+Executive Councilor District 008,Michael Franco,IND,MA,Challenger,Lost,0.0,nan
+Representative Thirteenth Bristol,Michael Janson,IND,MA,Challenger,Lost,0.0,nan
+Representative Fifth Essex,James Gardner,IND,MA,Challenger,Lost,0.0,nan
+Representative Thirty-First Middlesex,Kateen Kumar,IND,MA,Challenger,Lost,0.0,nan
+Lieutenant Governor,Karyn Polito,REP,MA,Incumbent,Won,0.0,nan
+U.S. Representative,Louis Kuchnir,REP,MA,Open,Lost,0.0,5
+Senator Second Plymouth And Bristol,Scott Hall,REP,MA,Challenger,Lost,0.0,nan
+U.S. Representative,John Hugo,REP,MA,Challenger,Lost,0.0,5
+Representative Fourth Plymouth,Craig Valdez,REP,MA,Open,Lost,0.0,nan
+Representative Sixth Essex,Donato Paglia,UNENROLLED,MA,Challenger,Lost,0.0,nan
+U.S. Representative,Mary Jean Charbonneau,UNENROLLED,MA,Challenger,Lost,0.0,6
+Senator First Suffolk,Althea Garrison,INDEPENDENT PROGRESSIVE,MA,Open,Lost,0.0,nan
+Senator Middlesex And Worcester,Terra Friedrichs,COOPERATIVE GREEN ECONOMY,MA,Challenger,Lost,0.0,nan
+Representative Twenty-Second Middlesex,Matthew Murphy Mixon,SECOND AMERICAN REVOLUTION,MA,Challenger,Lost,0.0,nan

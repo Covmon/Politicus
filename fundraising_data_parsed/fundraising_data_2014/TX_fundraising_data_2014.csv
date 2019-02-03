@@ -1,0 +1,515 @@
+office,candidate,party,state,incumbency,result,total money,district
+Governor,Greg Abbott,REP,TX,Open,Won-General,44333465.67,nan
+Lieutenant Governor,Dan Goeb Patrick,REP,TX,Open,Won-General,18278278.01,nan
+U.S. Senator,John Cornyn,REP,TX,Incumbent,Won-General,17439509.71,nan
+Lieutenant Governor,David Dewhurst III,REP,TX,Incumbent,Lost-Primary Runoff,10743151.28,nan
+U.S. Senator,David Alameel,DEM,TX,Challenger,Lost-General,10218123.0,nan
+Governor,Wendy Davis,DEM,TX,Open,Lost-General,8762712.81,nan
+State Representative,Joseph Straus III,REP,TX,Incumbent,Won-General,8663854.5,121
+Attorney General,Kenneth Paxton Jr.,REP,TX,Open,Won-General,8337345.27,nan
+Lieutenant Governor,Leticia Van De Putte,DEM,TX,Open,Lost-General,8263860.55,nan
+Attorney General,Daniel Branch,REP,TX,Open,Lost-Primary Runoff,7904899.15,nan
+Commissioner Of General Land Office,George Prescott Bush,REP,TX,Open,Won-General,5292153.59,nan
+Comptroller,Glenn Hegar Jr.,REP,TX,Open,Won-General,5047916.69,nan
+Railroad Commissioner,Ryan Sitton,REP,TX,Open,Won-General,4062683.85,nan
+U.S. Representative,Jeb Hensarling,REP,TX,Incumbent,Won-General,3106312.5,5
+State Senator,Konni Burton,REP,TX,Open,Won-General,2997405.47,10
+U.S. Representative,Pete Sessions,REP,TX,Incumbent,Won-General,2845576.0,32
+U.S. Representative,Pete Gallego,DEM,TX,Incumbent,Lost-General,2741790.41,23
+U.S. Representative,Kevin Brady,REP,TX,Incumbent,Won-General,2523924.71,8
+State Senator,Donald Blaine Huffines,REP,TX,Open,Won-General,2439572.32,16
+State Senator,Elizabeth Willis,DEM,TX,Open,Lost-General,2316351.41,10
+U.S. Representative,Michael Conaway,REP,TX,Incumbent,Won-General,2076833.0,11
+State Senator,Donna Campbell,REP,TX,Incumbent,Won-General,1718752.91,25
+State Representative,Chart Westcott,REP,TX,Open,Lost-Primary Runoff,1680643.22,108
+U.S. Representative,Randy Neugebauer,REP,TX,Incumbent,Won-General,1655163.48,19
+U.S. Representative,Roger Williams,REP,TX,Incumbent,Won-General,1641400.0,25
+U.S. Representative,Michael McCaul,REP,TX,Incumbent,Won-General,1622965.67,10
+U.S. Representative,Mac Thornberry,REP,TX,Incumbent,Won-General,1609180.67,13
+State Senator,Charles Brandon Creighton,REP,TX,Open,Won-General Runoff,1563241.19,4
+Comptroller,Michael Collier,DEM,TX,Open,Lost-General,1561941.58,nan
+U.S. Representative,William Hurd,REP,TX,Challenger,Won-General,1505155.03,23
+U.S. Representative,Enrique Cuellar,DEM,TX,Incumbent,Won-General,1473581.0,28
+U.S. Representative,John Ratcliffe,REP,TX,Open,Won-General,1464680.3,4
+Supreme Court-Chief Justice,Nathan Hecht,REP,TX,Incumbent,Won-General,1459496.99,nan
+U.S. Representative,Pete Olson,REP,TX,Incumbent,Won-General,1437532.98,22
+U.S. Representative,Lamar Smith,REP,TX,Incumbent,Won-General,1420463.2,21
+U.S. Representative,Ben Streusand,REP,TX,Open,Lost-Primary Runoff,1419975.0,36
+U.S. Representative,Marc Veasey,DEM,TX,Incumbent,Won-General,1395787.0,33
+State Representative,Todd Hunter,REP,TX,Incumbent,Won-General,1386091.85,32
+State Senator,John Whitmire,DEM,TX,Incumbent,Won-General,1360870.65,15
+U.S. Representative,Kay Granger,REP,TX,Incumbent,Won-General,1308783.0,12
+State Representative,Lois Kolkhorst,REP,TX,Incumbent,Won-General,1292925.9,13
+State Senator,Robert Deuell,REP,TX,Incumbent,Lost-Primary Runoff,1271601.42,2
+U.S. Representative,Joaquin Castro,DEM,TX,Incumbent,Won-General,1261437.19,20
+State Representative,Wayne Faircloth,REP,TX,Open,Won-General,1232182.96,23
+State Senator,Kel Seliger,REP,TX,Incumbent,Won-General,1199849.95,31
+U.S. Representative,Michael Burgess,REP,TX,Incumbent,Won-General,1169370.97,26
+U.S. Representative,Brian Babin,REP,TX,Open,Won-General,1105609.37,36
+U.S. Representative,Ralph Hall,REP,TX,Incumbent,Lost-Primary Runoff,1062075.0,4
+Supreme Court-J Brown Seat,Jeff Brown,REP,TX,Incumbent,Won-General,1057209.81,nan
+State Representative,Morgan Meyer,REP,TX,Open,Won-General,1048247.02,108
+State Senator,Charles Schwertner,REP,TX,Incumbent,Won-General,1026935.93,5
+U.S. Representative,Randolph Farenthold,REP,TX,Incumbent,Won-General,995000.1,27
+U.S. Representative,John Carter,REP,TX,Incumbent,Won-General,992290.0,31
+U.S. Representative,Gene Green,DEM,TX,Incumbent,Won-General,989478.25,29
+U.S. Representative,Lloyd Doggett,DEM,TX,Incumbent,Won-General,978129.34,35
+U.S. Representative,Sam Johnson,REP,TX,Incumbent,Won-General,971626.7,3
+U.S. Representative,Joe Barton,REP,TX,Incumbent,Won-General,958104.0,6
+State Senator,Robert Nichols,REP,TX,Incumbent,Won-General,918011.3,3
+U.S. Representative,Ted Poe,REP,TX,Incumbent,Won-General,905952.0,2
+State Representative,Sylvester Turner,DEM,TX,Incumbent,Won-General,888828.09,139
+U.S. Representative,William Flores,REP,TX,Incumbent,Won-General,872641.77,17
+Supreme Court-Boyd Seat,Jeffrey Boyd,REP,TX,Incumbent,Won-General,844237.14,nan
+State Representative,Trey Martinez Fischer III,DEM,TX,Incumbent,Won-General,843318.46,116
+Agriculture Commissioner,Sidney Miller,REP,TX,Open,Won-General,837917.12,nan
+State Senator,Kirk Watson,DEM,TX,Incumbent,Won-General,826256.75,14
+State Representative,Kenneth Sheets,REP,TX,Incumbent,Won-General,806240.25,107
+State Senator,Royce West,DEM,TX,Incumbent,Won-General,781275.53,23
+State Representative,Susan Criss,DEM,TX,Open,Lost-General,773122.15,23
+State Representative,Sarah Davis,REP,TX,Incumbent,Won-General,763151.28,134
+U.S. Representative,Kenny Marchant,REP,TX,Incumbent,Won-General,759688.0,24
+U.S. Representative,Randy Weber,REP,TX,Incumbent,Won-General,756685.64,14
+U.S. Representative,Louis Gohmert Jr.,REP,TX,Incumbent,Won-General,756517.17,1
+State Senator,Nicholas Van Campen Taylor,REP,TX,Open,Won-General,743754.77,8
+State Senator,Kelly Hancock,REP,TX,Incumbent,Won-General,733578.13,9
+State Representative,Charlie Geren,REP,TX,Incumbent,Won-General,722519.93,99
+U.S. Representative,John Culberson,REP,TX,Incumbent,Won-General,721900.75,7
+Agriculture Commissioner,Thomas Merritt,REP,TX,Open,Lost-Primary Runoff,713401.16,nan
+State Representative,Scott Turner,REP,TX,Incumbent,Won-General,681770.71,33
+State Senator,Joan Huffman,REP,TX,Incumbent,Won-General,668202.9,17
+State Representative,Drew Darby,REP,TX,Incumbent,Won-General,659720.98,72
+State Representative,Richard Raymond,DEM,TX,Incumbent,Won-General,658034.96,42
+State Representative,Jonathan Mark Stickland,REP,TX,Incumbent,Won-General,654688.81,92
+State Representative,Stefani Carter,REP,TX,Incumbent,Lost-Primary Runoff,648306.42,102
+State Representative,Walter Price IV,REP,TX,Incumbent,Won-General,629139.48,87
+State Senator,Paul Bettencourt,REP,TX,Open,Won-General,612052.5,7
+Attorney General,Samuel Houston,DEM,TX,Open,Lost-General,596153.05,nan
+State Representative,Cindy Burkett,REP,TX,Incumbent,Won-General,594694.88,113
+State Senator,Craig Estes,REP,TX,Incumbent,Won-General,589705.77,30
+State Senator,Jodey Arrington,REP,TX,Open,Lost-General,585398.59,28
+State Representative,John Otto,REP,TX,Incumbent,Won-General,580431.46,18
+U.S. Representative,Eddie Bernice Johnson,DEM,TX,Incumbent,Won-General,563495.0,30
+State Representative,Jose M) Lozano Jr.,REP,TX,Incumbent,Won-General,540650.75,43
+State Representative,John Zerwas,REP,TX,Incumbent,Won-General,538968.49,28
+State Representative,Senfronia Thompson,DEM,TX,Incumbent,Won-General,534515.22,141
+State Representative,James Keffer,REP,TX,Incumbent,Won-General,532483.08,60
+State Senator,Bob Hall,REP,TX,Open,Won-General,528424.01,2
+State Representative,Cesar Blanco,DEM,TX,Open,Won-General,511584.62,76
+State Representative,Linda Koop,REP,TX,Open,Won-General,508128.2,102
+U.S. Representative,Ruben Hinojosa,DEM,TX,Incumbent,Won-General,504030.86,15
+U.S. Representative,Beto Orourke,DEM,TX,Incumbent,Won-General,499620.16,16
+State Representative,Jason Isaac,REP,TX,Incumbent,Won-General,498662.74,45
+U.S. Representative,Filemon Vela,DEM,TX,Incumbent,Won-General,498027.32,34
+U.S. Representative,Alexander Green,DEM,TX,Incumbent,Won-General,476516.6,9
+State Representative,Glenn Callison,REP,TX,Open,Lost-Primary Runoff,475179.95,66
+Supreme Court-Johnson Seat,Phil Johnson,REP,TX,Incumbent,Won-General,466130.28,nan
+U.S. Representative,Sheila Jackson Lee,DEM,TX,Incumbent,Won-General,436661.0,18
+State Representative,Matthew Schaefer,REP,TX,Incumbent,Won-General,429238.57,6
+State Representative,Jason Villalba,REP,TX,Incumbent,Won-General,422164.77,114
+State Representative,Susan Motley,DEM,TX,Open,Lost-General,411745.52,105
+State Representative,Garnet Coleman,DEM,TX,Incumbent,Won-General,398965.0,147
+State Senator,Mark Shelton,REP,TX,Open,Lost-Primary Runoff,389810.24,10
+State Representative,D Sheffield,REP,TX,Incumbent,Won-General,382925.09,59
+State Representative,Angie Chen Button,REP,TX,Incumbent,Won-General,382062.9,112
+State Representative,Byron Cook,REP,TX,Incumbent,Won-General,379149.49,8
+State Representative,Lyle Larson,REP,TX,Incumbent,Won-General,376864.61,122
+State Representative,Andrew Murr,REP,TX,Open,Won-General,372955.53,53
+State Representative,Michael Villarreal,DEM,TX,Incumbent,Won-General,371884.53,123
+State Representative,William Metcalf,REP,TX,Open,Won-General,371843.6,16
+State Representative,Travis Clardy,REP,TX,Incumbent,Won-General,366493.37,11
+Appellate Court District 004-Chief Justice,Sandee Bryan Marion,REP,TX,Incumbent,Won-General,366258.99,nan
+State Representative,Wayne Smith,REP,TX,Incumbent,Won-General,357828.8,128
+State Representative,Philip Cortez,DEM,TX,Incumbent,Lost-General,355539.72,117
+State Representative,Ramon Romero Jr.,DEM,TX,Open,Won-General,349708.64,90
+State Representative,Anthony Dale,REP,TX,Incumbent,Won-General,349235.73,136
+State Representative,Jim Murphy,REP,TX,Incumbent,Won-General,345178.48,133
+State Representative,Jose Antonio Menendez,DEM,TX,Incumbent,Won-General,344115.15,124
+State Representative,Matthew Shaheen,REP,TX,Open,Won-General,341313.48,66
+State Representative,Carol Donovan,DEM,TX,Challenger,Lost-General,338967.53,107
+State Representative,Phil King,REP,TX,Incumbent,Won-General,335346.77,61
+State Representative,John Wray,REP,TX,Open,Won-General,331600.81,10
+State Representative,Rafael Anchia,DEM,TX,Incumbent,Won-General,329463.81,103
+State Representative,John Kuempel,REP,TX,Incumbent,Won-General,326661.16,44
+State Representative,Trent Ashby,REP,TX,Incumbent,Won-General,322455.31,57
+State Representative,Ryan Guillen,DEM,TX,Incumbent,Won-General,320908.01,31
+State Representative,Myra Crownover,REP,TX,Incumbent,Won-General,319993.34,64
+Appellate Court District 005-Place 005,Ken Molberg,DEM,TX,Open,Lost-General,319772.12,nan
+State Representative,Rick Galindo,REP,TX,Challenger,Won-General,317356.68,117
+State Representative,Yvonne Davis,DEM,TX,Incumbent,Won-General,315019.72,111
+State Representative,Chris Paddie,REP,TX,Incumbent,Won-General,314729.1,9
+Appellate Court District 003-Chief Justice,Jeff Rose,REP,TX,Incumbent,Won-General,312307.98,nan
+State Representative,Dennis Bonnen,REP,TX,Incumbent,Won-General,309047.1,25
+U.S. Representative,Wesley Reed,DEM,TX,Challenger,Lost-General,307709.32,27
+Railroad Commissioner,Walter Christian,REP,TX,Open,Lost-Primary Runoff,307260.05,nan
+State Representative,Greg Bonnen,REP,TX,Incumbent,Won-General,305842.67,24
+State Representative,Susan King,REP,TX,Incumbent,Won-General,302788.99,71
+State Representative,Tan Parker,REP,TX,Incumbent,Won-General,298578.2,63
+State Representative,Eric Johnson,DEM,TX,Incumbent,Won-General,297840.91,100
+State Senator,Charles Gregory,REP,TX,Open,Lost-General,296685.0,18
+State Representative,Doug Miller,REP,TX,Incumbent,Won-General,293630.77,73
+State Representative,Leigh Bailey,DEM,TX,Open,Lost-General,292131.88,108
+State Representative,Rene Oliveira,DEM,TX,Incumbent,Won-General,289614.43,37
+State Representative,Mary Ann Perez,DEM,TX,Incumbent,Lost-General,280282.08,144
+State Representative,Kyle Kacal,REP,TX,Incumbent,Won-General,279748.65,12
+State Senator,Rita Lucido,DEM,TX,Challenger,Lost-General,279463.46,17
+State Representative,Eddie Lucio III,DEM,TX,Incumbent,Won-General,278408.27,38
+State Representative,Paul Daniel Workman,REP,TX,Incumbent,Won-General,269401.01,47
+State Representative,Dwayne Bohac,REP,TX,Incumbent,Won-General,266941.14,138
+State Representative,Mike Schofield,REP,TX,Open,Won-General,264419.81,132
+State Representative,Dewayne Burns,REP,TX,Open,Won-General,264222.6,58
+State Senator,Charles Perry,REP,TX,Open,Won-General,254047.64,28
+State Representative,Dennis Paul,REP,TX,Open,Won-General,250817.21,129
+State Representative,David Simpson,REP,TX,Incumbent,Won-General,250628.73,7
+State Representative,Marisa Marquez,DEM,TX,Incumbent,Won-General,243711.16,77
+State Representative,Chris Turner,DEM,TX,Incumbent,Won-General,241097.01,101
+State Representative,Mary Gonzalez,DEM,TX,Incumbent,Won-General,236345.39,75
+State Representative,Larry Gonzales,REP,TX,Incumbent,Won-General,235556.42,52
+State Representative,Jeff Leach,REP,TX,Incumbent,Won-General,233559.92,67
+State Representative,Abel Herrero,DEM,TX,Incumbent,Won-General,229489.96,34
+State Representative,Sergio Munoz Jr.,DEM,TX,Incumbent,Won-General,226751.57,36
+State Representative,Craig Goldman,REP,TX,Incumbent,Won-General,225353.61,97
+State Representative,Hubert Vo,DEM,TX,Incumbent,Won-General,223286.65,149
+State Representative,Dan Flynn,REP,TX,Incumbent,Won-General,222664.49,2
+Appellate Court District 013-Place 006,Dori Contreras Garza,DEM,TX,Incumbent,Won-General,222038.74,nan
+U.S. Representative,Susan Narvaiz,REP,TX,Challenger,Lost-General,221137.29,35
+State Representative,John Raney,REP,TX,Incumbent,Won-General,220066.04,14
+Appellate Court District 014-Place 007,Ken Wise,REP,TX,Incumbent,Won-General,218708.39,nan
+State Representative,Justin Rodriguez,DEM,TX,Incumbent,Won-General,216625.61,125
+State Representative,Tracy King,DEM,TX,Incumbent,Won-General,214998.11,80
+State Representative,Robert Guerra,DEM,TX,Incumbent,Won-General,211686.71,41
+State Representative,Jimmie Don Aycock,REP,TX,Incumbent,Won-General,211194.99,54
+State Representative,Rob Henneke,REP,TX,Open,Lost-Primary Runoff,210403.77,53
+State Representative,Patricia Harless,REP,TX,Incumbent,Won-General,209579.2,126
+State Representative,Jodie Laubenberg,REP,TX,Incumbent,Won-General,207393.45,89
+State Representative,Larry Phillips,REP,TX,Incumbent,Won-General,207170.46,62
+Appellate Court District 014-Chief Justice,Kyle Carter,DEM,TX,Challenger,Lost-General,205766.0,nan
+State Representative,Celia Israel,DEM,TX,Incumbent,Won-General,205482.78,50
+State Representative,Ken King,REP,TX,Incumbent,Won-General,204583.65,88
+State Representative,Kim Gonzalez,DEM,TX,Challenger,Lost-General,201678.39,43
+State Representative,Daniel Huberty,REP,TX,Incumbent,Won-General,199720.33,127
+State Representative,Eddie Rodriguez,DEM,TX,Incumbent,Won-General,195271.68,51
+State Representative,John Frullo,REP,TX,Incumbent,Won-General,189396.88,84
+State Representative,Carol Alvarado,DEM,TX,Incumbent,Won-General,186943.73,145
+State Representative,Brooks Landgraf,REP,TX,Open,Won-General,186476.35,81
+State Representative,Armando Martinez,DEM,TX,Incumbent,Won-General,186014.28,39
+State Representative,Ed Thompson,REP,TX,Incumbent,Won-General,183883.6,29
+Appellate Court District 003-Chief Justice,Diane Henson,DEM,TX,Challenger,Lost-General,182949.16,nan
+State Representative,Tom Craddick,REP,TX,Incumbent,Won-General,181971.92,82
+State Representative,Allen Fletcher,REP,TX,Incumbent,Won-General,180674.7,130
+State Representative,Ted Seago,REP,TX,Open,Lost-Primary Runoff,178261.46,16
+State Representative,Matt Krause,REP,TX,Incumbent,Won-General,177917.69,93
+State Representative,Tony Tinderholt,REP,TX,Open,Won-General,177613.3,94
+State Representative,Jessica Cristina Farrar,DEM,TX,Incumbent,Won-General,169717.24,148
+State Representative,Ann Hodge,REP,TX,Open,Lost-Primary Runoff,165456.57,132
+State Representative,James Frank,REP,TX,Incumbent,Won-General,164440.48,69
+State Representative,Cecil Bell Jr.,REP,TX,Incumbent,Won-General,164250.53,3
+State Representative,Helen Giddings,DEM,TX,Incumbent,Won-General,163249.4,109
+State Representative,Philip Eby,REP,TX,Open,Lost-Primary Runoff,162420.13,58
+State Representative,Phil Stephenson,REP,TX,Incumbent,Won-General,161593.76,85
+State Representative,Joe Deshotel,DEM,TX,Incumbent,Won-General,160254.88,22
+U.S. Senator,Kesha Rogers,DEM,TX,Open,Lost-Primary Runoff,158123.0,nan
+State Representative,Joe Pickett,DEM,TX,Incumbent,Won-General,157944.68,79
+State Representative,Patrick Fallon,REP,TX,Incumbent,Won-General,150865.06,106
+State Representative,Bryan Hughes,REP,TX,Incumbent,Won-General,150509.45,5
+State Representative,Ronald Simmons,REP,TX,Incumbent,Won-General,149784.14,65
+State Representative,Sean McGary,REP,TX,Open,Won-General,149637.98,1
+State Representative,Harold Dutton Jr.,DEM,TX,Incumbent,Won-General,149304.0,142
+State Representative,Giovanni Capriglione,REP,TX,Incumbent,Won-General,148007.06,98
+State Representative,Matthew Rinaldi,REP,TX,Open,Won-General,144627.07,115
+State Representative,Milton Whitley,DEM,TX,Challenger,Lost-General,143764.36,113
+State Representative,Sean McGary,REP,TX,Incumbent,Won-General,139191.21,135
+State Senator,Steve Toth,REP,TX,Open,Lost-General Runoff,138309.48,4
+Governor,Kathie Glass,LIB,TX,Open,Lost-General,137639.28,nan
+Appellate Court District 004-Chief Justice,Irene Rios,DEM,TX,Challenger,Lost-General,137529.63,nan
+State Representative,Donna Howard,DEM,TX,Incumbent,Won-General,134094.93,48
+Appellate Court District 001-Place 003,Russell Lloyd,REP,TX,Challenger,Won-General,131661.55,nan
+State Representative,Eugene Wu,DEM,TX,Incumbent,Won-General,129165.65,137
+Board Of Education District 013,Erika Beltran,DEM,TX,Open,Won-General,124540.79,nan
+State Representative,Roberto Alonzo,DEM,TX,Incumbent,Won-General,122520.05,104
+State Representative,Drew Springer,REP,TX,Incumbent,Won-General,122271.38,68
+U.S. Representative,Eddie Zamora,REP,TX,Challenger,Lost-General,122247.8,15
+State Representative,Stuart Spitzer,REP,TX,Open,Won-General,121447.55,4
+State Representative,J Fabby,REP,TX,Open,Lost-Primary Runoff,120361.56,10
+U.S. Representative,Larry Smith,REP,TX,Challenger,Lost-General,120224.5,34
+State Representative,Al Hoang,REP,TX,Challenger,Lost-General,117786.55,149
+State Representative,Geanie Morrison,REP,TX,Incumbent,Won-General,117188.64,30
+State Representative,Marsha Farney,REP,TX,Incumbent,Won-General,116721.61,20
+State Representative,Debbie Riddle,REP,TX,Incumbent,Won-General,116549.38,150
+State Representative,Alfonso Nevarez Jr.,DEM,TX,Incumbent,Won-General,116352.41,74
+State Representative,Alma Allen,DEM,TX,Incumbent,Won-General,115377.32,131
+State Representative,Mark Keough,REP,TX,Open,Won-General,115075.0,15
+State Representative,Cole Ballweg,DEM,TX,Open,Lost-General,111926.17,94
+U.S. Representative,Francisco Raul Canseco,REP,TX,Open,Lost-Primary Runoff,108221.0,23
+State Representative,F Miller,REP,TX,Incumbent,Won-General,107948.23,26
+State Representative,Dustin Burrows,REP,TX,Open,Won-General,105060.0,83
+State Representative,James White,REP,TX,Incumbent,Won-General,104813.19,19
+State Representative,Oscar Longoria,DEM,TX,Incumbent,Won-General,104351.83,35
+State Representative,Norma Chavez,DEM,TX,Open,Lost-Primary Runoff,102480.0,76
+State Representative,John Smithee,REP,TX,Incumbent,Won-General,101083.75,86
+State Representative,Ruth Jones McClendon,DEM,TX,Incumbent,Won-General,100950.0,120
+State Representative,Tim Kleinschmidt,REP,TX,Incumbent,Won-General,100222.02,17
+State Senator,Gordy Bunch,REP,TX,Open,Lost-General,99138.81,4
+State Representative,Borris Miles,DEM,TX,Incumbent,Won-General,99125.0,146
+State Representative,Elliott Naishtat,DEM,TX,Incumbent,Won-General,98919.65,49
+State Representative,Sheryl Berg,REP,TX,Open,Lost-Primary Runoff,96372.91,129
+State Representative,Scott Sanford,REP,TX,Incumbent,Won-General,95923.3,70
+State Representative,Joseph Moody,DEM,TX,Incumbent,Won-General,94882.88,78
+State Representative,John Bucy III,DEM,TX,Challenger,Lost-General,94724.99,136
+State Representative,Dawnna Dukes,DEM,TX,Incumbent,Won-General,92977.89,46
+State Representative,Rolando Gutierrez,DEM,TX,Incumbent,Won-General,92312.22,119
+State Representative,Charles Anderson,REP,TX,Incumbent,Won-General,90394.75,56
+Appellate Court District 005-Place 008,Bill Whitehill,REP,TX,Incumbent,Won-General,88893.35,nan
+State Representative,Molly White,REP,TX,Open,Won-General,82080.46,55
+State Representative,Ana Hernandez,DEM,TX,Incumbent,Won-General,81492.84,143
+State Representative,Terry Canales,DEM,TX,Incumbent,Won-General,80539.42,40
+U.S. Representative,Mark Greene,DEM,TX,Challenger,Lost-General,80206.5,12
+State Representative,Toni Rose,DEM,TX,Incumbent,Won-General,80070.02,110
+State Representative,Armando Lucio Walle,DEM,TX,Incumbent,Won-General,79506.41,140
+U.S. Representative,James Neal Marchbanks,DEM,TX,Challenger,Lost-General,78793.04,19
+Commissioner Of General Land Office,John Cook,DEM,TX,Open,Lost-General,77246.44,nan
+State Representative,Joe Farias,DEM,TX,Incumbent,Won-General,76349.68,118
+Railroad Commissioner,Stephen Brown II,DEM,TX,Open,Lost-General,73788.62,nan
+Supreme Court-Boyd Seat,Gina Benavides,DEM,TX,Challenger,Lost-General,73727.4,nan
+State Representative,Sameena Karmally,DEM,TX,Challenger,Lost-General,70798.94,89
+State Representative,Stephanie Klick,REP,TX,Incumbent,Won-General,70067.73,91
+Agriculture Commissioner,Richard Friedman,DEM,TX,Open,Lost-Primary Runoff,69634.43,nan
+Appellate Court District 014-Chief Justice,Kem Thompson Frost,REP,TX,Incumbent,Won-General,67664.42,nan
+U.S. Representative,James Cargas,DEM,TX,Challenger,Lost-General,65755.61,7
+U.S. Representative,Louie Minor,DEM,TX,Challenger,Lost-General,65489.27,31
+State Representative,Bill Zedler,REP,TX,Incumbent,Won-General,64300.0,96
+Appellate Court District 005-Place 003,Ada Brown,REP,TX,Incumbent,Won-General,61947.1,nan
+State Representative,Paul Stafford,DEM,TX,Open,Lost-General,60641.43,115
+State Representative,Mike Vandewalle,REP,TX,Challenger,Lost-General,58285.13,50
+Appellate Court District 005-Place 005,Craig Stoddart,REP,TX,Open,Won-General,51831.74,nan
+State Representative,Kevin Ludlow,LIB,TX,Challenger,Lost-General,47760.33,46
+Board Of Education District 012,Geraldine Miller,REP,TX,Incumbent,Won-General,44895.0,nan
+Appellate Court District 001-Place 003,Jim Sharp,DEM,TX,Incumbent,Lost-General,44760.0,nan
+State Senator,Greg Wortham,DEM,TX,Open,Lost-General,41753.51,28
+Appellate Court District 008-Chief Justice,Ann Crawford McClure,DEM,TX,Incumbent,Won-General,40403.02,nan
+State Representative,Chris Osborn,DEM,TX,Challenger,Lost-General,38728.83,52
+State Representative,Gilbert Pena,REP,TX,Challenger,Won-General,38548.34,144
+U.S. Representative,Shirley McKellar,DEM,TX,Challenger,Lost-General,36767.68,1
+Appellate Court District 010-Place 002,Rex Davis,REP,TX,Incumbent,Won-General,36555.0,nan
+State Representative,Nicole Collier,DEM,TX,Incumbent,Won-General,33709.39,95
+U.S. Representative,Marco Montoya,DEM,TX,Challenger,Lost-General,32940.23,25
+U.S. Representative,Donald Glenn Brown Jr.,DEM,TX,Challenger,Lost-General,31820.67,14
+Board Of Education District 011,Patricia Hardy,REP,TX,Incumbent,Won-General,31643.29,nan
+Appellate Court District 009-Place 003,Leanne Johnson,REP,TX,Incumbent,Won-General,31383.21,nan
+State Senator,Daniel Boone,DEM,TX,Challenger,Lost-General,28971.56,25
+State Representative,Elijah Israel Casas,REP,TX,Challenger,Lost-General,28457.5,41
+State Senator,Gregory Perry,DEM,TX,Challenger,Lost-General,27393.87,9
+State Representative,Chris Carmona,REP,TX,Challenger,Lost-General,26853.55,148
+Appellate Court District 002-Place 007,Lee Gabriel,REP,TX,Incumbent,Won-General,26030.0,nan
+Appellate Court District 014-Place 004,Marc Brown,REP,TX,Incumbent,Won-General,25800.0,nan
+U.S. Representative,Michael Cole,DEM,TX,Open,Lost-General,25213.14,36
+Board Of Education District 007,David Bradley,REP,TX,Incumbent,Won-General,22365.0,nan
+State Representative,David Hamilton,REP,TX,Challenger,Lost-General,19551.45,27
+Appellate Court District 011-Place 003,John Bailey,REP,TX,Incumbent,Won-General,19319.24,nan
+Board Of Education District 003,Marisa Perez-Diaz,DEM,TX,Incumbent,Won-General,18851.0,nan
+State Senator,Joel Shapiro,DEM,TX,Challenger,Lost-General,18179.06,5
+State Representative,Tina Penney,DEM,TX,Challenger,Lost-General,17850.71,92
+Supreme Court-Chief Justice,William Moody Jr.,DEM,TX,Challenger,Lost-General,17650.0,nan
+State Senator,John Lawson,REP,TX,Challenger,Lost-General,16100.35,23
+State Representative,Ronald Reynolds,DEM,TX,Incumbent,Won-General,16090.0,27
+State Representative,Morad Fiki,REP,TX,Challenger,Lost-General,15659.33,137
+State Representative,Lisa Osterholt,DEM,TX,Challenger,Lost-General,15121.92,106
+Appellate Court District 002-Place 002,Bill Meier,REP,TX,Incumbent,Won-General,15000.0,nan
+State Representative,Gavin Bruney,DEM,TX,Open,Lost-General,14780.05,21
+Board Of Education District 011,Eric Mahroum,REP,TX,Challenger,Lost-Primary Runoff,12534.42,nan
+Appellate Court District 013-Place 006,Doug Norman,REP,TX,Challenger,Lost-General,12400.0,nan
+State Representative,Abel Bosquez,DEM,TX,Challenger,Lost-General,11422.98,87
+State Representative,Luis Lopez,DEM,TX,Open,Lost-General,11032.28,132
+State Representative,Daniel Moran,DEM,TX,Challenger,Lost-General,10881.0,63
+State Representative,Max Tarbox,DEM,TX,Open,Lost-General,10181.75,83
+U.S. Representative,Tawana Walter-Cadien,DEM,TX,Challenger,Lost-General,10079.0,10
+U.S. Representative,Patrick McGehearty,DEM,TX,Challenger,Lost-General,10001.0,24
+Appellate Court District 014-Place 007,Gordon Goodman,DEM,TX,Challenger,Lost-General,9945.0,nan
+U.S. Representative,Frank Perez,DEM,TX,Challenger,Lost-General,9715.0,32
+State Senator,Michael Galloway,REP,TX,Open,Lost-General,9550.0,4
+State Representative,Laura Nicol,DEM,TX,Challenger,Lost-General,9465.01,133
+Board Of Education District 007,Kathy King,DEM,TX,Challenger,Lost-General,9365.27,nan
+Board Of Education District 004,Lawrence Allen Jr.,DEM,TX,Incumbent,Won-General,9100.0,nan
+U.S. Representative,David Cozad,DEM,TX,Challenger,Lost-General,8820.59,6
+State Representative,Michael Hayles Sr.,DEM,TX,Open,Lost-General,8445.49,16
+State Senator,Sean McGary,REP,TX,Open,Lost-General,8403.0,18
+State Representative,Emy Lyons,DEM,TX,Challenger,Lost-General,8247.0,64
+Board Of Education District 013,Andrea Hilburn,DEM,TX,Open,Lost-Primary Runoff,7235.91,nan
+State Representative,Joel Gardner,LIB,TX,Challenger,Lost-General,7077.0,6
+State Representative,Albert McDaniel,REP,TX,Challenger,Lost-General,7020.0,95
+State Representative,Alex Mendoza,DEM,TX,Challenger,Lost-General,6249.25,65
+State Representative,Amber Paaso,DEM,TX,Challenger,Lost-General,5935.96,26
+Board Of Education District 011,Nancy Bean,DEM,TX,Challenger,Lost-General,5365.0,nan
+State Senator,Whitney Bilyeu,LIB,TX,Open,Lost-General,5335.56,7
+State Representative,George Clayton,DEM,TX,Open,Lost-General,5195.0,102
+State Representative,Terry Meza,DEM,TX,Open,Lost-Primary Runoff,5190.1,105
+State Senator,Ron Hale,REP,TX,Challenger,Lost-General,4923.31,15
+State Representative,Matthew Britt,DEM,TX,Challenger,Lost-General,4619.8,61
+Board Of Education District 012,Lois Parrott,DEM,TX,Challenger,Lost-General,4400.89,nan
+State Representative,Amy Perez,DEM,TX,Challenger,Lost-General,4374.01,150
+State Representative,Carolyn Banks,DEM,TX,Challenger,Lost-General,4277.0,17
+Board Of Education District 003,Dave Mundy,REP,TX,Challenger,Lost-General,3853.0,nan
+U.S. Representative,Sean Seibert,REP,TX,Challenger,Lost-General,3738.0,18
+State Representative,Alexandro Lozano,LIB,TX,Open,Lost-General,3725.0,76
+Comptroller,Ben Sanders,LIB,TX,Open,Lost-General,3669.2,nan
+State Representative,John Gay,DEM,TX,Open,Lost-General,3500.0,129
+Lieutenant Governor,Robert Butler,LIB,TX,Open,Lost-General,3487.51,nan
+State Representative,Greg Kauffman,DEM,TX,Open,Lost-General,3161.0,58
+State Representative,David Ragan,DEM,TX,Challenger,Lost-General,3075.0,91
+Railroad Commissioner,Martina Salinas,GRN,TX,Open,Lost-General,3010.5,nan
+State Representative,Kerry Douglas McKennon,LIB,TX,Challenger,Lost-General,2953.0,88
+Appellate Court District 005-Place 006,David Bridges,REP,TX,Incumbent,Won-General,2800.0,nan
+State Representative,Cynthia Drabek,DEM,TX,Challenger,Lost-General,2710.0,85
+State Representative,Moiz Abbas,DEM,TX,Challenger,Lost-General,2476.0,135
+Board Of Education District 002,Ruben Cortez Jr.,DEM,TX,Incumbent,Won-General,2100.0,nan
+State Representative,Andrew Metscher,DEM,TX,Challenger,Lost-General,2030.0,14
+Agriculture Commissioner,Kenneth Kendrick,GRN,TX,Open,Lost-General,1870.5,nan
+State Representative,Daniel Behrman,LIB,TX,Challenger,Lost-General,1335.0,125
+State Senator,Jim Davis,DEM,TX,Open,Lost-General,1250.0,7
+Supreme Court-J Brown Seat,Lawrence Edward Meyers,DEM,TX,Challenger,Lost-General,1000.0,nan
+Appellate Court District 001-Place 005,Laura Carter Higley,REP,TX,Open,Won-General,1000.0,nan
+State Representative,Maximilian Martin,LIB,TX,Open,Lost-General,973.1,53
+State Senator,Delwin Jones,REP,TX,Open,Lost-General,950.0,28
+Railroad Commissioner,Mark Miller,LIB,TX,Open,Lost-General,825.0,nan
+State Senator,Christian Hawkins,DEM,TX,Open,Lost-General,800.0,18
+Board Of Education District 004,Dorothy Olmos,REP,TX,Challenger,Lost-General,700.0,nan
+State Representative,Jeff Carruthers,LIB,TX,Challenger,Lost-General,665.0,121
+State Senator,Matthew Whittington,LIB,TX,Challenger,Lost-General,619.0,5
+State Representative,Rodney Earl Anderson,REP,TX,Open,Won-General,550.0,105
+U.S. Representative,John Wieder,LIB,TX,Challenger,Lost-General,501.0,14
+State Representative,Fred Vernon,DEM,TX,Challenger,Lost-General,500.0,138
+State Senator,Jonathan Erhardt,LIB,TX,Challenger,Lost-General,500.0,23
+Appellate Court District 007-Chief Justice,Brian Quinn,REP,TX,Incumbent,Won-General,500.0,nan
+State Representative,Robert Bohmfalk,DEM,TX,Challenger,Lost-General,422.0,44
+State Senator,David Courtney,GRN,TX,Challenger,Lost-General,217.84,17
+State Senator,John Tunmire,GRN,TX,Open,Lost-General,200.0,10
+State Representative,Benjamin Eloy Mendoza,IND,TX,Challenger,Lost-General,70.0,77
+State Senator,M Garza,REP,TX,Open,Lost-General,50.0,28
+State Senator,Tyler Lindsey,LIB,TX,Challenger,Lost-General,50.0,3
+State Representative,John Wilford,LIB,TX,Challenger,Lost-General,40.0,8
+State Representative,Clif Deuvall,LIB,TX,Challenger,Lost-General,30.0,56
+State Representative,Stephen Wyman,DEM,TX,Challenger,Lost-General,20.0,20
+Attorney General,Jamie Balagia,LIB,TX,Open,Lost-General,20.0,nan
+State Senator,James Arthur Strohm,LIB,TX,Challenger,Lost-General,6.31,14
+Supreme Court-Johnson Seat,Rs Robert Koelsch,LIB,TX,Challenger,Lost-General,3.0,nan
+Agriculture Commissioner,Jimmie Ray Hogan,DEM,TX,Open,Lost-General,0.0,nan
+U.S. Representative,Frank Briscoe Jr.,DEM,TX,Challenger,Lost-General,0.0,22
+State Representative,Dade Phelan,REP,TX,Open,Won-General,0.0,21
+State Representative,Charles Perry,REP,TX,Incumbent,Withdrew-General,0.0,83
+U.S. Representative,Corey Dean Roen,REP,TX,Challenger,Lost-General,0.0,16
+U.S. Representative,Niko Letsos,DEM,TX,Challenger,Lost-General,0.0,2
+U.S. Representative,Mike Minter,DEM,TX,Challenger,Lost-General,0.0,13
+U.S. Representative,Nick Haynes,DEM,TX,Challenger,Lost-General,0.0,17
+State Representative,Ed Tishler,REP,TX,Challenger,Lost-General,0.0,84
+State Representative,Alison Ruff,DEM,TX,Challenger,Lost-General,0.0,134
+State Senator,Kerry Douglas McKennon,LIB,TX,Open,Lost-General,0.0,28
+State Senator,Scott Jameson,LIB,TX,Open,Lost-General,0.0,8
+U.S. Representative,James Veasaw,LIB,TX,Challenger,Lost-General,0.0,2
+U.S. Representative,Mark Roberts,GRN,TX,Challenger,Lost-General,0.0,2
+U.S. Representative,Paul Blair,GRN,TX,Challenger,Lost-General,0.0,3
+U.S. Representative,Ken Ashby,LIB,TX,Challenger,Lost-General,0.0,5
+U.S. Representative,Hugh Chauvin,LIB,TX,Challenger,Lost-General,0.0,6
+U.S. Representative,Gerald Fowler,LIB,TX,Challenger,Lost-General,0.0,7
+U.S. Representative,Ken Petty,LIB,TX,Challenger,Lost-General,0.0,8
+U.S. Representative,Johnny Johnson,LIB,TX,Challenger,Lost-General,0.0,9
+U.S. Representative,Bill Kelsey,LIB,TX,Challenger,Lost-General,0.0,10
+U.S. Representative,Ryan Lange,LIB,TX,Challenger,Lost-General,0.0,11
+U.S. Representative,Ed Colliver,LIB,TX,Challenger,Lost-General,0.0,12
+U.S. Representative,Emily Pivoda,LIB,TX,Challenger,Lost-General,0.0,13
+U.S. Representative,Don Cook,GRN,TX,Challenger,Lost-General,0.0,13
+U.S. Representative,Johnny Partain,LIB,TX,Challenger,Lost-General,0.0,15
+U.S. Representative,Jaime Perez,LIB,TX,Challenger,Lost-General,0.0,16
+U.S. Representative,Shawn Michael Hamilton,LIB,TX,Challenger,Lost-General,0.0,17
+U.S. Representative,Remington Alessi,GRN,TX,Challenger,Lost-General,0.0,18
+U.S. Representative,Vince Duncan,IND,TX,Challenger,Lost-General,0.0,18
+U.S. Representative,Richard Peterson,LIB,TX,Challenger,Lost-General,0.0,19
+U.S. Representative,Jeffrey Blunt,LIB,TX,Challenger,Lost-General,0.0,20
+U.S. Representative,Ryan Shields,LIB,TX,Challenger,Lost-General,0.0,21
+U.S. Representative,Antonio Diaz,GRN,TX,Challenger,Lost-General,0.0,21
+U.S. Representative,Rob Lapham,LIB,TX,Challenger,Lost-General,0.0,22
+U.S. Representative,Ruben Corvalan,LIB,TX,Challenger,Lost-General,0.0,23
+U.S. Representative,Mike Kolls,LIB,TX,Challenger,Lost-General,0.0,24
+U.S. Representative,John Betz,LIB,TX,Challenger,Lost-General,0.0,25
+U.S. Representative,Mark Boler,LIB,TX,Challenger,Lost-General,0.0,26
+U.S. Representative,Roxanne Simonson,LIB,TX,Challenger,Lost-General,0.0,27
+U.S. Representative,William Aikens,LIB,TX,Challenger,Lost-General,0.0,28
+U.S. Representative,Michael Cary,GRN,TX,Challenger,Lost-General,0.0,28
+U.S. Representative,James Stanczak,LIB,TX,Challenger,Lost-General,0.0,29
+U.S. Representative,Max Koch III,LIB,TX,Challenger,Lost-General,0.0,30
+U.S. Representative,Eric Lemonte Williams,IND,TX,Challenger,Lost-General,0.0,30
+U.S. Representative,Scott Ballard,LIB,TX,Challenger,Lost-General,0.0,31
+U.S. Representative,Ed Rankin,LIB,TX,Challenger,Lost-General,0.0,32
+U.S. Representative,Jason Reeves,LIB,TX,Challenger,Lost-General,0.0,33
+U.S. Representative,Ryan Rowley,LIB,TX,Challenger,Lost-General,0.0,34
+U.S. Representative,Cory Bruner,LIB,TX,Challenger,Lost-General,0.0,35
+U.S. Representative,Kat Swift,GRN,TX,Challenger,Lost-General,0.0,35
+U.S. Representative,Rodney Veach,LIB,TX,Open,Lost-General,0.0,36
+U.S. Representative,Hal Ridley Jr.,GRN,TX,Open,Lost-General,0.0,36
+Governor,Brandon Parmer,GRN,TX,Open,Lost-General,0.0,nan
+Lieutenant Governor,Chandrakantha Courtney,GRN,TX,Open,Lost-General,0.0,nan
+Attorney General,Jamar Osborne,GRN,TX,Open,Lost-General,0.0,nan
+Comptroller,Deb Shafto,GRN,TX,Open,Lost-General,0.0,nan
+Commissioner Of General Land Office,Justin Knight,LIB,TX,Open,Lost-General,0.0,nan
+Commissioner Of General Land Office,Valerie Alessi,GRN,TX,Open,Lost-General,0.0,nan
+Agriculture Commissioner,David Palmquist,LIB,TX,Open,Lost-General,0.0,nan
+Supreme Court-Chief Justice,Tom Oxford,LIB,TX,Challenger,Lost-General,0.0,nan
+Supreme Court-J Brown Seat,Mark Ash,LIB,TX,Challenger,Lost-General,0.0,nan
+Supreme Court-Boyd Seat,Don Fulton,LIB,TX,Challenger,Lost-General,0.0,nan
+Supreme Court-Boyd Seat,Charles Waterbury,GRN,TX,Challenger,Lost-General,0.0,nan
+Supreme Court-Johnson Seat,Jim Chisholm,GRN,TX,Challenger,Lost-General,0.0,nan
+Board Of Education District 003,Josh Morales,LIB,TX,Challenger,Lost-General,0.0,nan
+Board Of Education District 007,Megan Dagata,LIB,TX,Challenger,Lost-General,0.0,nan
+Board Of Education District 011,Craig Sanders,LIB,TX,Challenger,Lost-General,0.0,nan
+Board Of Education District 012,Mark Wester,LIB,TX,Challenger,Lost-General,0.0,nan
+Board Of Education District 013,Junart Sodoy,LIB,TX,Open,Lost-General,0.0,nan
+State Senator,Don Bates,LIB,TX,Open,Lost-General,0.0,2
+State Senator,Gene Lord,LIB,TX,Open,Lost-General,0.0,10
+State Senator,Gilberto Velasquez Jr.,LIB,TX,Challenger,Lost-General,0.0,15
+State Senator,George Hardy,LIB,TX,Challenger,Lost-General,0.0,17
+State Senator,Brandin Lea,LIB,TX,Challenger,Lost-General,0.0,25
+State Senator,Cory Lane,LIB,TX,Challenger,Lost-General,0.0,30
+State Senator,Steven Gibson,LIB,TX,Challenger,Lost-General,0.0,31
+State Representative,Larry Parr,LIB,TX,Challenger,Lost-General,0.0,3
+State Representative,Frederick Stralow,LIB,TX,Open,Lost-General,0.0,4
+State Representative,Ron Walenta,LIB,TX,Challenger,Lost-General,0.0,5
+State Representative,Bruce Pugh,LIB,TX,Challenger,Lost-General,0.0,14
+State Representative,Bob Townsend,LIB,TX,Open,Lost-General,0.0,16
+State Representative,Jarrod Weaver,LIB,TX,Challenger,Lost-General,0.0,20
+State Representative,Nicolas Serna III,GRN,TX,Challenger,Lost-General,0.0,42
+State Representative,Jim Duke,LIB,TX,Challenger,Lost-General,0.0,45
+State Representative,Scott McKinlay,LIB,TX,Challenger,Lost-General,0.0,47
+State Representative,Bennett Easton,LIB,TX,Challenger,Lost-General,0.0,48
+State Representative,Daniel Krawisz,LIB,TX,Challenger,Lost-General,0.0,49
+State Representative,David Dreesen,LIB,TX,Challenger,Lost-General,0.0,50
+State Representative,Arthur Dibianca,LIB,TX,Challenger,Lost-General,0.0,51
+State Representative,Irene Johnson,LIB,TX,Challenger,Lost-General,0.0,52
+State Representative,Braeden Wright,GRN,TX,Challenger,Lost-General,0.0,64
+State Representative,Patrick Peavy,LIB,TX,Challenger,Lost-General,0.0,67
+State Representative,Marco Buentello,GRN,TX,Challenger,Lost-General,0.0,80
+State Representative,Felecia Whatley,LIB,TX,Challenger,Lost-General,0.0,91
+State Representative,Robert Harris,LIB,TX,Open,Lost-General,0.0,94
+State Representative,Quinn Eaker,LIB,TX,Challenger,Lost-General,0.0,96
+State Representative,Rodney Wingo,LIB,TX,Challenger,Lost-General,0.0,97
+State Representative,Brian Chapman,LIB,TX,Challenger,Lost-General,0.0,100
+State Representative,Carl Nulsen,LIB,TX,Challenger,Lost-General,0.0,101
+State Representative,Carl Spiller,LIB,TX,Open,Lost-General,0.0,105
+State Representative,Rodney Caston,LIB,TX,Challenger,Lost-General,0.0,106
+State Representative,Michael Binkley,LIB,TX,Challenger,Lost-General,0.0,112
+State Representative,Thomas Griffing,LIB,TX,Challenger,Lost-General,0.0,114
+State Representative,Kim Kelley,LIB,TX,Open,Lost-General,0.0,115
+State Representative,Gilberto Villela,LIB,TX,Challenger,Lost-General,0.0,120
+State Representative,James Holland,LIB,TX,Challenger,Lost-General,0.0,122
+State Representative,Paul Ingmundson,GRN,TX,Challenger,Lost-General,0.0,123
+State Representative,Cris Hernandez,LIB,TX,Challenger,Lost-General,0.0,126
+State Representative,Ken Lowder,LIB,TX,Challenger,Lost-General,0.0,128
+State Representative,Art Browning,GRN,TX,Challenger,Lost-General,0.0,130
+State Representative,Justin Billiot,LIB,TX,Challenger,Lost-General,0.0,136
+State Representative,Morgan Bradford,GRN,TX,Challenger,Lost-General,0.0,146
+U.S. Senator,Rebecca Paddock,LIB,TX,Challenger,Lost-General,0.0,nan
+U.S. Senator,Emily Sanchez,GRN,TX,Challenger,Lost-General,0.0,nan
+State Senator,Cynthia Drabek,DEM,TX,Open,Lost-General,0.0,18
+State Senator,Lois Kolkhorst,REP,TX,Open,Won-General,0.0,18
+Appellate Court District 009-Chief Justice,Steve McKeithen,REP,TX,Incumbent,Won-General,0.0,nan
+Appellate Court District 012-Chief Justice,Jim Worthen,REP,TX,Incumbent,Won-General,0.0,nan
+Appellate Court District 006-Place 003,Ralph Burgess,REP,TX,Incumbent,Won-General,0.0,nan
+Appellate Court District 011-Place 002,Mike Willson,REP,TX,Incumbent,Won-General,0.0,nan

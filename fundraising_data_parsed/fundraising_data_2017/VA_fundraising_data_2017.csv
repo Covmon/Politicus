@@ -1,0 +1,196 @@
+office,candidate,party,state,incumbency,result,total money,district
+Governor,Ralph Northam,DEM,VA,Open,Won-General,37044906.82,nan
+Governor,Edward Gillespie,REP,VA,Open,Lost-General,29317941.88,nan
+Attorney General,Mark Rankin Herring,DEM,VA,Incumbent,Won-General,10047771.49,nan
+Attorney General,John Adams,REP,VA,Challenger,Lost-General,9594647.58,nan
+Lieutenant Governor,Jill Holtzman Vogel,REP,VA,Open,Lost-General,4809467.43,nan
+Lieutenant Governor,Justin Fairfax,DEM,VA,Open,Won-General,4353778.15,nan
+State Representative,Chris Hurst,DEM,VA,Challenger,Won-General,1252790.87,12
+State Representative,Joseph Yost,REP,VA,Incumbent,Lost-General,1155622.96,12
+State Representative,Elizabeth Guzman,DEM,VA,Challenger,Won-General,1132609.25,31
+State Representative,Timothy Hugo,REP,VA,Incumbent,Won-General,1071605.42,40
+State Representative,Karrie Delaney,DEM,VA,Challenger,Won-General,1008040.06,67
+State Representative,John Joseph Bell,DEM,VA,Incumbent,Won-General,993583.32,87
+State Representative,Danica Roem,DEM,VA,Challenger,Won-General,978781.63,13
+State Representative,Kirkland Cox,REP,VA,Incumbent,Won-General,952080.32,66
+State Representative,James Lemunyon,REP,VA,Incumbent,Lost-General,906798.78,67
+State Representative,David Reid,DEM,VA,Challenger,Won-General,833850.99,32
+State Representative,Thomas Alexander Greason,REP,VA,Incumbent,Lost-General,781786.38,32
+State Representative,Hala Ayala,DEM,VA,Challenger,Won-General,758437.91,51
+State Representative,Michael Mullin,DEM,VA,Incumbent,Won-General,752557.67,93
+State Representative,Ron Villanueva,REP,VA,Incumbent,Lost-General,741881.38,21
+State Representative,Donte Tanner,DEM,VA,Challenger,Lost-General,705815.7,40
+State Representative,Subba Kolla,REP,VA,Challenger,Lost-General,690360.01,87
+State Representative,Heather Cordasco,REP,VA,Challenger,Lost-General,689657.36,93
+State Representative,Chris Jones,REP,VA,Incumbent,Won-General,680089.85,76
+State Representative,Lee Scott Lingamfelter,REP,VA,Incumbent,Lost-General,677316.75,31
+State Representative,David Yancey,REP,VA,Incumbent,Won-General,663614.89,94
+State Representative,Kathy L Tran,DEM,VA,Open,Won-General,662147.19,42
+State Representative,Kathleen Johnson Murphy,DEM,VA,Incumbent,Won-General,643306.92,34
+State Representative,Robert Bernard Bell III,REP,VA,Incumbent,Won-General,627900.65,58
+State Representative,Cheryl Turpin,DEM,VA,Challenger,Won-General,610660.77,85
+State Representative,David Joseph Toscano,DEM,VA,Incumbent,Won-General,596786.55,57
+State Representative,Jennifer Carroll Foy,DEM,VA,Open,Won-General,579140.06,2
+State Representative,Shelly Anne Simonds,DEM,VA,Challenger,Lost-General,578804.11,94
+State Representative,John Obannon III,REP,VA,Incumbent,Lost-General,575454.45,73
+State Representative,Kelly Convirs-Fowler,DEM,VA,Challenger,Won-General,549425.45,21
+State Representative,Schuyler Vanvalkenburg,DEM,VA,Open,Won-General,546258.3,72
+State Representative,Edward Seayers Whitlock III,REP,VA,Open,Lost-General,526720.17,72
+State Representative,Jackson Hunter Miller,REP,VA,Incumbent,Lost-General,500605.66,50
+State Representative,Wendy Gooditis,DEM,VA,Challenger,Won-General,480257.3,10
+State Representative,D Holcomb III,REP,VA,Incumbent,Lost-General,475514.0,85
+State Representative,M Loupassi,REP,VA,Incumbent,Lost-General,439358.2,68
+State Representative,Richard Anderson,REP,VA,Incumbent,Lost-General,434196.56,51
+State Representative,Christopher Todd Gilbert,REP,VA,Incumbent,Won-General,426420.99,15
+State Representative,Terry Kilgore,REP,VA,Incumbent,Won-General,426412.14,1
+State Representative,Robert Marshall,REP,VA,Incumbent,Lost-General,390173.84,13
+State Representative,Barry Knight,REP,VA,Incumbent,Won-General,380844.02,81
+State Representative,Debra Rodman,DEM,VA,Challenger,Won-General,378424.17,73
+State Senator,Ryant Washington,DEM,VA,Open,Lost-General,323585.93,22
+State Representative,Eileen Filler-Corn,DEM,VA,Incumbent,Won-General,306545.48,41
+State Representative,Tia Walbridge,DEM,VA,Challenger,Lost-General,303149.62,33
+State Representative,Margaret Bevans Ransone,REP,VA,Incumbent,Won-General,294867.35,99
+State Representative,Lee Carter,DEM,VA,Challenger,Won-General,289421.23,50
+State Senator,Mark Peake,REP,VA,Open,Won-General,285922.7,22
+State Representative,Jennifer Barton Boysko,DEM,VA,Incumbent,Won-General,284298.64,86
+State Representative,Steven Landes,REP,VA,Incumbent,Won-General,281277.05,25
+State Representative,Robert Orrock,REP,VA,Incumbent,Won-General,280695.11,54
+State Representative,Christopher Peace,REP,VA,Incumbent,Won-General,271322.46,97
+State Representative,Mike Makee,REP,VA,Open,Lost-General,266331.4,2
+State Representative,Gregory Habeeb,REP,VA,Incumbent,Won-General,257489.42,8
+State Senator,Jennifer Leigh McClellan,DEM,VA,Open,Won-General,257084.42,9
+State Representative,Randall Minchew,REP,VA,Incumbent,Lost-General,255402.28,10
+State Representative,Riley Edward Ingram,REP,VA,Incumbent,Won-General,249021.07,62
+State Representative,Robert Thomas Jr.,REP,VA,Open,Won-General,245243.26,28
+State Representative,Roxann Robinson,REP,VA,Incumbent,Won-General,239116.95,27
+State Representative,Jason Miyares,REP,VA,Incumbent,Won-General,237830.64,82
+State Representative,Francis Nicholas Edwards,DEM,VA,Challenger,Lost-General,237617.78,99
+State Representative,Lee Ware Jr.,REP,VA,Incumbent,Won-General,228602.84,65
+State Representative,Willie Randall,DEM,VA,Challenger,Lost-General,223447.82,100
+State Representative,Larry Barnett,DEM,VA,Challenger,Lost-General,215856.23,27
+State Representative,Charniele Herring,DEM,VA,Incumbent,Won-General,214897.02,46
+State Representative,Jerrauld Jones,DEM,VA,Open,Won-General,207505.07,89
+State Representative,Chris Stolle,REP,VA,Incumbent,Won-General,195683.74,83
+State Representative,Djuna Osborne,DEM,VA,Challenger,Lost-General,188380.36,17
+State Representative,Mark Sickles,DEM,VA,Incumbent,Won-General,187231.11,43
+State Representative,Dawn Adams,DEM,VA,Challenger,Won-General,184199.67,68
+State Representative,Dave Larock,REP,VA,Incumbent,Won-General,182910.93,33
+State Representative,Kathy Byron,REP,VA,Incumbent,Won-General,181120.21,22
+State Representative,John McGuire III,REP,VA,Open,Won-General,176749.21,56
+State Representative,Sam Rasoul,DEM,VA,Incumbent,Won-General,168847.4,11
+State Representative,Scott Garrett,REP,VA,Incumbent,Won-General,166176.48,23
+State Representative,Sheila Bynum-Coleman,DEM,VA,Challenger,Lost-General,165936.64,62
+State Representative,Emily Brewer,REP,VA,Open,Won-General,164557.21,64
+State Representative,Melissa Dart,DEM,VA,Open,Lost-General,164492.87,56
+State Representative,Betsy Brooks Carr,DEM,VA,Incumbent,Won-General,160125.8,69
+State Representative,Richard Bell,REP,VA,Incumbent,Won-General,160121.63,20
+State Representative,Samuel Ben Hixon,DEM,VA,Challenger,Lost-General,156023.9,30
+State Representative,Danny Marshall III,REP,VA,Incumbent,Won-General,152142.27,14
+State Representative,Alfonso Lopez,DEM,VA,Incumbent,Won-General,149624.17,49
+State Representative,Lolita Mancheno-Smoak,REP,VA,Open,Lost-General,148540.31,42
+State Representative,Sheila Crowley,DEM,VA,Challenger,Lost-General,139926.73,98
+State Representative,Tony Wilt,REP,VA,Incumbent,Won-General,139169.46,26
+State Representative,Jeion Ward,DEM,VA,Incumbent,Won-General,129709.86,92
+State Representative,Paul Krizek,DEM,VA,Incumbent,Won-General,126066.32,44
+State Representative,David Bulova,DEM,VA,Incumbent,Default Winner-General,125980.83,37
+State Representative,Christopher Head,REP,VA,Incumbent,Won-General,123899.63,17
+State Representative,Keith Hodges,REP,VA,Incumbent,Won-General,123134.0,98
+State Representative,Brenda Pogge,REP,VA,Incumbent,Won-General,119257.08,96
+State Representative,James Leftwich Jr.,REP,VA,Incumbent,Won-General,118014.08,78
+State Representative,Michael Webert,REP,VA,Incumbent,Won-General,117839.44,18
+State Representative,Glenn Davis Jr.,REP,VA,Incumbent,Won-General,117162.78,84
+State Representative,Israel Oquinn,REP,VA,Incumbent,Won-General,115052.0,5
+State Representative,Kellen Squire,DEM,VA,Challenger,Lost-General,113658.29,58
+State Representative,Luke Torian,DEM,VA,Incumbent,Won-General,112213.51,52
+State Representative,Kelly Delucia,DEM,VA,Challenger,Lost-General,110787.71,96
+State Representative,Lashrecse Aird,DEM,VA,Incumbent,Won-General,110150.41,63
+State Representative,Larry Rush,REP,VA,Incumbent,Won-General,109022.82,7
+State Representative,Ben Cline,REP,VA,Incumbent,Won-General,108058.84,24
+State Representative,Marcus Simon,DEM,VA,Incumbent,Won-General,104639.41,53
+State Representative,Matthew Fariss,REP,VA,Incumbent,Won-General,100745.0,59
+State Representative,Vivian Watts,DEM,VA,Incumbent,Default Winner-General,98064.51,39
+State Representative,Brent Finnegan,DEM,VA,Challenger,Lost-General,97121.39,26
+State Representative,Kenneth Plum,DEM,VA,Incumbent,Won-General,92066.68,36
+State Representative,Michele Dixon Edwards,DEM,VA,Challenger,Lost-General,91026.51,20
+State Representative,Cheryl Buford,REP,VA,Challenger,Lost-General,90085.17,34
+State Representative,Todd Pillion,REP,VA,Incumbent,Won-General,87326.0,4
+State Representative,Mark Levine,DEM,VA,Incumbent,Won-General,85672.95,45
+State Representative,Mark Keam,DEM,VA,Incumbent,Won-General,85323.69,35
+State Representative,Gordon Helsel Jr.,REP,VA,Incumbent,Won-General,83817.6,91
+State Representative,Richard Sullivan Jr.,DEM,VA,Incumbent,Won-General,82376.47,48
+State Representative,Charles Poindexter,REP,VA,Incumbent,Won-General,82294.38,9
+State Representative,Joshua Cole,DEM,VA,Open,Lost-General,81824.15,28
+State Representative,James Edmunds II,REP,VA,Incumbent,Won-General,81197.27,60
+State Representative,Patrick Hope,DEM,VA,Incumbent,Won-General,80328.59,47
+State Representative,Lamont Bagby,DEM,VA,Incumbent,Won-General,79929.86,74
+State Representative,F Fowler Jr.,REP,VA,Incumbent,Won-General,79623.59,55
+State Representative,Morgan Goodman,DEM,VA,Challenger,Lost-General,77626.15,55
+State Representative,Robert Bloxom Jr.,REP,VA,Incumbent,Won-General,77321.37,100
+State Representative,Nicholas Freitas,REP,VA,Incumbent,Won-General,77123.24,30
+State Representative,James Morefield,REP,VA,Incumbent,Won-General,75301.31,3
+State Representative,Terry Austin,REP,VA,Incumbent,Won-General,74429.0,19
+State Representative,Roslyn Tyler,DEM,VA,Incumbent,Won-General,73582.42,75
+State Representative,Christopher Collins,REP,VA,Incumbent,Won-General,73226.59,29
+State Representative,Jeff Bourne,DEM,VA,Incumbent,Won-General,71701.97,71
+State Senator,Joseph Hines,IND,VA,Open,Lost-General,70215.0,22
+State Representative,Joseph Lindsey,DEM,VA,Incumbent,Won-General,67035.06,90
+State Representative,Wilton King,GRN,VA,Challenger,Lost-General,61961.01,18
+State Representative,Delores McQuinn,DEM,VA,Incumbent,Won-General,60964.64,70
+Governor,Clifford Hyra,LIB,VA,Open,Lost-General,60761.41,nan
+State Representative,Angela Lynn,DEM,VA,Challenger,Lost-General,60598.42,25
+State Representative,Les Adams,REP,VA,Incumbent,Won-General,60144.86,16
+State Representative,Stephen Heretick,DEM,VA,Incumbent,Won-General,58403.0,79
+State Representative,Steve McBride,DEM,VA,Challenger,Lost-General,55654.15,8
+State Representative,Rebecca Colaw,DEM,VA,Open,Lost-General,55154.36,64
+State Representative,Mark Cole,REP,VA,Incumbent,Won-General,54775.52,88
+State Representative,Steve Aycock,DEM,VA,Challenger,Lost-General,53494.12,88
+State Representative,Marcia Price,DEM,VA,Incumbent,Won-General,49011.6,95
+State Representative,Matthew James,DEM,VA,Incumbent,Won-General,48850.0,80
+State Representative,Veronica Coleman,DEM,VA,Challenger,Lost-General,48845.43,84
+State Representative,Kaye Kory,DEM,VA,Incumbent,Won-General,46511.1,38
+State Representative,Kimberly Anne Tucker,DEM,VA,Challenger,Lost-General,45850.9,81
+State Representative,Jeffrey Campbell,REP,VA,Incumbent,Won-General,45420.97,6
+State Representative,Tristan Shields,DEM,VA,Challenger,Lost-General,43501.31,18
+State Representative,Natalie Short,DEM,VA,Challenger,Lost-General,40565.29,23
+State Representative,Michael Wade,DEM,VA,Challenger,Lost-General,38835.77,91
+State Representative,Alicia Kallen,DEM,VA,Challenger,Lost-General,37319.96,1
+State Representative,E Hayes Jr.,DEM,VA,Incumbent,Won-General,36944.68,77
+State Representative,Flourette Ketner,DEM,VA,Challenger,Lost-General,33420.8,7
+State Representative,Tc Wright Jr.,REP,VA,Incumbent,Won-General,33240.0,61
+State Representative,Katie Sponsler,DEM,VA,Challenger,Lost-General,30902.63,66
+State Representative,Cori Johnson,DEM,VA,Challenger,Lost-General,29614.97,97
+State Representative,Francis Stevens,DEM,VA,Challenger,Lost-General,28130.55,65
+State Representative,David Rose-Carmack,DEM,VA,Challenger,Lost-General,25266.92,83
+State Representative,C Bunch Jr.,DEM,VA,Challenger,Lost-General,20481.13,3
+State Representative,Al Durante,DEM,VA,Challenger,Lost-General,19458.55,54
+State Representative,Jamaal Johnston,DEM,VA,Challenger,Lost-General,17156.63,60
+State Representative,Linda Schulz,REP,VA,Challenger,Lost-General,16769.05,86
+State Representative,John Winfrey,IND,VA,Challenger,Lost-General,16489.06,24
+State Representative,Stephanie Cook,DEM,VA,Challenger,Lost-General,15966.79,9
+State Representative,Leigh Anne Bowling,DEM,VA,Challenger,Lost-General,15708.57,82
+State Representative,Casey Turben,DEM,VA,Challenger,Lost-General,15053.59,29
+State Representative,Adam Roosevelt,REP,VA,Challenger,Lost-General,13610.0,49
+State Representative,Tracy Carver,DEM,VA,Challenger,Lost-General,10404.17,59
+State Representative,Amanda Blalock,IND,VA,Challenger,Lost-General,8504.22,88
+State Representative,Mike Casey,IND,VA,Challenger,Lost-General,6000.0,53
+State Representative,Terry Richard Hurst,LIB,VA,Open,Lost-General,5139.7,89
+State Senator,Corey Maurice Fauconier,LIB,VA,Open,Lost-General,4517.07,9
+State Representative,Jeff Staples,GRN,VA,Challenger,Lost-General,4305.16,77
+State Representative,Marcus Sutphin,GRN,VA,Challenger,Lost-General,3579.91,59
+State Representative,Gerald Anderson,GRN,VA,Challenger,Lost-General,2440.74,88
+State Representative,Jacob Crocker,LIB,VA,Challenger,Lost-General,2402.0,69
+State Representative,Paul Haring,REP,VA,Challenger,Lost-General,1983.89,38
+State Representative,Montigue Magruder,GRN,VA,Challenger,Lost-General,1775.2,69
+State Representative,John Barclay,LIB,VA,Open,Lost-General,1665.0,71
+State Representative,Michael Bartley,LIB,VA,Challenger,Lost-General,1656.17,94
+State Representative,Preston Brown,IND,VA,Challenger,Lost-General,1615.0,74
+State Representative,William Hammer,LIB,VA,Challenger,Lost-General,1248.0,20
+State Representative,Regie Ford,IND,VA,Open,Lost-General,564.06,71
+State Representative,David Wade Ball,IND,VA,Challenger,Lost-General,389.2,59
+State Representative,Christopher Cowger,IND,VA,Challenger,Withdrew-General,100.0,73
+State Representative,Harry Parrish II,REP,VA,Challenger,Withdrew-Primary,0.0,50
+State Representative,Cheryl Turpin,DEM,VA,Open,Lost-General,0.0,85
+State Representative,D Holcomb III,REP,VA,Open,Won-General,0.0,85
+State Representative,Jeff Bourne,DEM,VA,Open,Won-General,0.0,71
+State Representative,Kenneth Browning,IND,VA,Challenger,Lost-General,0.0,6
+State Representative,Nathan Larson,IND,VA,Challenger,Lost-General,0.0,31

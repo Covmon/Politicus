@@ -1,0 +1,448 @@
+office,candidate,party,state,incumbency,result,total money,district
+Governor,Thomas Corbett,REP,PA,Open,Won-General,29321047.51,nan
+Governor,Dan Onorato,DEM,PA,Open,Lost-General,24741393.61,nan
+U.S. Senator,Patrick Joseph Toomey,REP,PA,Open,Won-General,19045008.14,nan
+U.S. Senator,Joseph Sestak Jr.,DEM,PA,Open,Lost-General,13283348.9,nan
+U.S. Representative,Patrick Murphy,DEM,PA,Incumbent,Lost-General,4169953.48,8
+U.S. Representative,Patrick Meehan,REP,PA,Open,Won-General,3096487.85,7
+U.S. Representative,Allyson Young Schwartz,DEM,PA,Incumbent,Won-General,2841553.37,13
+U.S. Representative,Mark Critz,DEM,PA,Incumbent,Won-General,2459353.17,12
+U.S. Representative,Jason Altmire,DEM,PA,Incumbent,Won-General,2445609.46,4
+U.S. Representative,Charles Dent,REP,PA,Incumbent,Won-General,2422795.14,15
+U.S. Representative,Timothy Burns,REP,PA,Challenger,Lost-General,2161789.0,12
+U.S. Representative,Michael Fitzpatrick,REP,PA,Challenger,Won-General,2132644.98,8
+U.S. Representative,John Callahan,DEM,PA,Challenger,Lost-General,1985039.06,15
+U.S. Representative,Jim Gerlach,REP,PA,Incumbent,Won-General,1921648.47,6
+U.S. Representative,Paul Kanjorski,DEM,PA,Incumbent,Lost-General,1857256.43,11
+U.S. Representative,Timothy Murphy,REP,PA,Incumbent,Won-General,1803433.6,18
+U.S. Representative,Kathleen Ann Dahlkemper,DEM,PA,Incumbent,Lost-General,1698269.1,3
+U.S. Representative,Bryan Lentz,DEM,PA,Open,Lost-General,1656687.33,7
+U.S. Representative,Christopher Paul Carney,DEM,PA,Incumbent,Lost-General,1608886.59,10
+U.S. Representative,Manan Trivedi,DEM,PA,Challenger,Lost-General,1406398.88,6
+State Representative,Dwight Evans,DEM,PA,Incumbent,Won-General,1400790.19,203
+U.S. Representative,Tim Holden,DEM,PA,Incumbent,Won-General,1355683.66,17
+U.S. Representative,Keith James Rothfus,REP,PA,Challenger,Lost-General,1340470.21,4
+U.S. Representative,George Kelly Jr.,REP,PA,Challenger,Won-General,1261779.45,3
+U.S. Representative,Lou Barletta,REP,PA,Challenger,Won-General,1253097.64,11
+State Representative,Michael Turzai,REP,PA,Incumbent,Won-General,1116489.99,28
+U.S. Representative,Glenn William Thompson Jr.,REP,PA,Incumbent,Won-General,1064041.85,5
+State Representative,Todd Eachus,DEM,PA,Incumbent,Lost-General,1047400.93,116
+State Senator,Jacob Corman III,REP,PA,Incumbent,Won-General,995438.16,34
+U.S. Representative,Carson Dee Adcock,REP,PA,Challenger,Lost-General,929302.77,13
+U.S. Representative,Robert Brady,DEM,PA,Incumbent,Won-General,895335.0,1
+State Senator,Jane Clare Orie,REP,PA,Incumbent,Won-General,858654.74,40
+State Senator,Patrick Browne,REP,PA,Incumbent,Won-General,843829.04,16
+State Senator,Edwin Erickson,REP,PA,Incumbent,Won-General,818486.22,26
+State Senator,Charles McIlhinney Jr.,REP,PA,Incumbent,Won-General,809552.33,10
+U.S. Representative,Bill Shuster,REP,PA,Incumbent,Won-General,797147.7,9
+State Senator,Robert Tomlinson,REP,PA,Incumbent,Won-General,784323.11,6
+U.S. Representative,Joseph Pitts,REP,PA,Incumbent,Won-General,743689.46,16
+State Senator,Anthony Hardy Williams,DEM,PA,Incumbent,Won-General,742923.17,8
+U.S. Representative,Michael Doyle,DEM,PA,Incumbent,Won-General,720030.98,14
+U.S. Representative,Thomas Anthony Marino,REP,PA,Challenger,Won-General,706688.41,10
+State Representative,Paul Drucker,DEM,PA,Incumbent,Lost-General,680383.27,157
+State Senator,John Patrick Blake,DEM,PA,Open,Won-General,604992.61,22
+State Senator,Kris Vanderman,REP,PA,Open,Lost-General,564032.14,46
+State Senator,John Rafferty Jr.,REP,PA,Incumbent,Won-General,547453.31,44
+State Representative,Steven Santarsiero,DEM,PA,Incumbent,Won-General,530798.67,31
+State Representative,Joshua Shapiro,DEM,PA,Incumbent,Won-General,525019.99,153
+State Senator,Stewart Greenleaf,REP,PA,Incumbent,Won-General,519293.28,12
+State Representative,Frank Dermody,DEM,PA,Incumbent,Won-General,500773.33,33
+State Senator,John Yudichak,DEM,PA,Open,Won-General,496115.56,14
+State Senator,Christine Tartaglione,DEM,PA,Incumbent,Won-General,460344.53,2
+U.S. Representative,Chaka Fattah,DEM,PA,Incumbent,Won-General,459158.26,2
+State Senator,Richard Kasunic,DEM,PA,Incumbent,Won-General,458835.0,32
+State Representative,Mike Gerber,DEM,PA,Incumbent,Won-General,452345.15,148
+State Senator,Timothy Joseph Solobay,DEM,PA,Open,Won-General,448365.12,46
+State Representative,John Perzel,REP,PA,Incumbent,Lost-General,421322.05,172
+U.S. Representative,Lois Herr,DEM,PA,Challenger,Lost-General,409688.1,16
+State Representative,Warren Kampf,REP,PA,Challenger,Won-General,392908.78,157
+State Representative,William Adolph Jr.,REP,PA,Incumbent,Won-General,388268.63,165
+U.S. Representative,David Argall,REP,PA,Challenger,Lost-General,374721.6,17
+State Representative,Sam Smith,REP,PA,Incumbent,Won-General,370055.1,66
+U.S. Representative,Dan Connolly,DEM,PA,Challenger,Lost-General,351003.57,18
+State Representative,George Zalar,DEM,PA,Open,Lost-General,347930.12,107
+State Representative,Joseph Hackett,REP,PA,Open,Won-General,346433.73,161
+State Representative,Ron Buxton,DEM,PA,Incumbent,Won-General,344826.42,103
+State Representative,Mike Horton,DEM,PA,Open,Lost-General,321860.03,131
+State Representative,Joseph Markosek,DEM,PA,Incumbent,Won-General,314028.6,25
+State Senator,Michael Brubaker,REP,PA,Incumbent,Won-General,306141.07,36
+State Representative,Walter Waite Jr.,DEM,PA,Open,Lost-General,303148.64,161
+State Senator,Robert Robbins,REP,PA,Incumbent,Won-General,302601.4,50
+State Representative,William Todd Stephens,REP,PA,Challenger,Won-General,299645.23,151
+State Representative,Jay Moyer,REP,PA,Challenger,Lost-General,293374.4,70
+State Senator,Robert Bruce Mensch,REP,PA,Incumbent,Won-General,292226.92,24
+State Representative,Bryan Barbin,DEM,PA,Incumbent,Won-General,289508.05,71
+State Representative,Frank Anthony Farry III,REP,PA,Incumbent,Won-General,286345.41,142
+State Representative,Charles Dertinger,DEM,PA,Open,Lost-General,279624.74,137
+State Representative,Kevin Boyle,DEM,PA,Challenger,Won-General,277797.06,172
+State Representative,Mark Painter,DEM,PA,Challenger,Lost-General,275156.58,146
+State Representative,David Levdansky,DEM,PA,Incumbent,Lost-General,274924.5,39
+State Senator,Jim Ferlo,DEM,PA,Incumbent,Won-General,274405.0,38
+State Representative,Justin Yaich,DEM,PA,Open,Lost-General,273927.91,122
+State Senator,Michael Folmer,REP,PA,Incumbent,Won-General,271222.58,48
+State Senator,Leanna Washington,DEM,PA,Incumbent,Won-General,269963.16,4
+State Representative,Thomas Houghton,DEM,PA,Incumbent,Lost-General,265827.64,13
+State Representative,Matthew Bradford,DEM,PA,Incumbent,Won-General,262450.12,70
+State Representative,Rick Taylor,DEM,PA,Incumbent,Lost-General,261017.44,151
+State Representative,Michael Patrick McGeehan,DEM,PA,Incumbent,Won-General,254623.78,173
+State Representative,David Reed,REP,PA,Incumbent,Won-General,252511.97,62
+State Representative,Tim Seip,DEM,PA,Incumbent,Lost-General,244189.0,125
+State Representative,Jennifer Mann,DEM,PA,Incumbent,Won-General,242526.53,132
+State Representative,William Keller,DEM,PA,Incumbent,Won-General,242425.0,184
+State Representative,John Taylor,REP,PA,Incumbent,Won-General,238430.82,177
+State Representative,Maureen Carey,REP,PA,Open,Lost-General,235043.51,164
+State Representative,Justin Simmons,REP,PA,Open,Won-General,234807.75,131
+State Representative,William Deweese,DEM,PA,Incumbent,Won-General,232659.0,50
+State Representative,Tarah Toohil,REP,PA,Challenger,Won-General,231855.9,116
+State Representative,Tina Marie Davis,DEM,PA,Open,Won-General,229713.4,141
+State Representative,John Adda Lawrence,REP,PA,Challenger,Won-General,229316.67,13
+State Representative,Joseph Emrick,REP,PA,Open,Won-General,226307.79,137
+State Representative,Marc Gergely,DEM,PA,Incumbent,Won-General,225868.49,35
+State Representative,Richard Mirabito,DEM,PA,Incumbent,Won-General,224411.23,83
+State Senator,Elisabeth Baker,REP,PA,Incumbent,Won-General,224369.42,20
+State Representative,Regina Smith,REP,PA,Challenger,Lost-General,223694.57,3
+State Representative,Robert Ciervo,REP,PA,Challenger,Lost-General,222249.98,31
+State Representative,Nicholas Anthony Miccarelli,REP,PA,Incumbent,Won-General,218844.54,162
+U.S. Representative,Todd Platts,REP,PA,Incumbent,Won-General,218213.48,19
+State Representative,James Casorio Jr.,DEM,PA,Incumbent,Lost-General,217597.2,56
+State Representative,David Kessler,DEM,PA,Incumbent,Lost-General,213671.66,130
+State Representative,Jesse Jeffrey White,DEM,PA,Incumbent,Won-General,212103.55,46
+State Senator,Wayne Fontana,DEM,PA,Incumbent,Won-General,211306.56,42
+State Senator,Lisa Boscola,DEM,PA,Incumbent,Won-General,205751.56,18
+State Representative,Jerome Knowles,REP,PA,Incumbent,Won-General,201568.68,124
+State Representative,Peter Michael Sturla,DEM,PA,Incumbent,Won-General,198772.0,96
+State Representative,John Galloway,DEM,PA,Incumbent,Won-General,189955.0,140
+State Representative,Eli Evankovich,REP,PA,Challenger,Won-General,185719.09,54
+State Representative,Kurt Masser,REP,PA,Open,Won-General,184384.3,107
+State Representative,Doyle Heffley,REP,PA,Open,Won-General,180211.01,122
+State Representative,Daryl Metcalfe,REP,PA,Incumbent,Won-General,178036.67,12
+State Representative,George Dunbar,REP,PA,Challenger,Won-General,173936.75,56
+State Representative,James Christiana III,REP,PA,Incumbent,Won-General,173149.32,15
+State Representative,Michael Tobash,REP,PA,Challenger,Won-General,173086.58,125
+State Senator,Dan Demarco,DEM,PA,Challenger,Lost-General,172971.84,40
+State Representative,Eugene Depasquale,DEM,PA,Incumbent,Won-General,170225.0,95
+State Representative,Thomas Mark Mustio,REP,PA,Incumbent,Won-General,165896.02,44
+State Representative,Michael Kavulich,DEM,PA,Open,Won-General,165016.01,114
+State Representative,James Patrick Rigby,REP,PA,Challenger,Lost-General,164586.0,71
+State Representative,Thomas Killion,REP,PA,Incumbent,Won-General,164337.04,168
+State Representative,Brendan Boyle,DEM,PA,Incumbent,Won-General,164118.41,170
+State Representative,Curt Schroder,REP,PA,Incumbent,Won-General,162548.41,155
+State Representative,Dan Truitt,REP,PA,Open,Won-General,160852.21,156
+State Representative,Richard Saccone,REP,PA,Challenger,Won-General,159497.33,39
+State Representative,Thomas Quigley,REP,PA,Incumbent,Won-General,158696.34,146
+State Representative,John Siptroth,DEM,PA,Incumbent,Lost-General,155884.81,189
+State Representative,Margo Davidson,DEM,PA,Open,Won-General,154827.68,164
+State Representative,Lynda Schlegel Culver,REP,PA,Open,Won-General,154218.56,108
+State Representative,John Pallone,DEM,PA,Incumbent,Lost-General,154190.07,54
+State Representative,Frank Bovalino,DEM,PA,Challenger,Lost-General,153008.39,15
+State Representative,Gregory Deluca,REP,PA,Challenger,Lost-General,151457.35,46
+State Representative,Ted Harhai,DEM,PA,Incumbent,Won-General,150304.37,58
+State Representative,Matthew Smith,DEM,PA,Incumbent,Won-General,146625.69,42
+State Representative,Brandon Neuman,DEM,PA,Open,Won-General,145587.85,48
+State Representative,Stephen Barrar,REP,PA,Incumbent,Won-General,145188.18,160
+State Senator,Ruth Damsker,DEM,PA,Challenger,Lost-General,144531.9,12
+State Representative,Jake Wheatley Jr.,DEM,PA,Incumbent,Won-General,143404.75,19
+State Representative,Rosemary Brown,REP,PA,Challenger,Won-General,142171.25,189
+State Representative,Phyllis Mundy,DEM,PA,Incumbent,Won-General,137437.63,120
+State Representative,Gerry Vaerewyck,REP,PA,Challenger,Lost-General,137152.91,33
+State Representative,Frederick Keller,REP,PA,Open,Won-General,135685.89,85
+State Representative,Catherine Harper,REP,PA,Incumbent,Won-General,134757.04,61
+State Representative,Douglas Reichley,REP,PA,Incumbent,Won-General,133453.59,134
+State Representative,Matthew Gabler,REP,PA,Incumbent,Won-General,133453.42,75
+State Representative,Jo Ellen Bowman,DEM,PA,Challenger,Lost-General,133317.59,60
+State Representative,Dan Frankel,DEM,PA,Incumbent,Won-General,133234.52,23
+State Representative,Joyce Haas,REP,PA,Challenger,Lost-General,128898.65,77
+State Representative,Marguerite Corr Quinn,REP,PA,Incumbent,Won-General,127953.56,143
+State Representative,Jeffrey Pyle,REP,PA,Incumbent,Won-General,127611.2,60
+State Representative,Thomas Caltagirone,DEM,PA,Incumbent,Won-General,124600.0,127
+State Representative,Nicholas Micozzie,REP,PA,Incumbent,Won-General,122259.91,163
+State Representative,Timothy Hennessey,REP,PA,Incumbent,Won-General,120319.14,26
+State Representative,Kevin Murphy,DEM,PA,Incumbent,Won-General,116592.24,113
+State Representative,Louise Williams Bishop,DEM,PA,Incumbent,Won-General,114498.0,192
+State Representative,Michael Obrien,DEM,PA,Incumbent,Won-General,111629.72,175
+State Representative,Jaret Gibbons,DEM,PA,Incumbent,Won-General,111538.82,10
+State Representative,Scott Conklin,DEM,PA,Incumbent,Won-General,111183.17,77
+State Representative,Robert Godshall,REP,PA,Incumbent,Won-General,110765.87,53
+State Representative,Daniel Naylor,REP,PA,Open,Lost-General,110373.06,114
+State Representative,Bryan Boughter,DEM,PA,Open,Lost-General,108951.03,128
+State Senator,Michael Waugh,REP,PA,Incumbent,Won-General,108355.0,28
+State Representative,Kevin Glasson,REP,PA,Open,Lost-General,106805.22,141
+State Representative,Mary Lou Readinger,DEM,PA,Challenger,Lost-General,102322.6,61
+State Representative,Karen Boback,REP,PA,Incumbent,Won-General,99139.48,117
+State Representative,Marcy Toepel,REP,PA,Incumbent,Won-General,96600.55,147
+State Representative,Michael Vereb,REP,PA,Incumbent,Won-General,94847.98,150
+State Representative,Kenyatta Johnson,DEM,PA,Incumbent,Won-General,94641.05,186
+State Representative,Susan Helm,REP,PA,Incumbent,Won-General,94289.75,104
+State Representative,Chelsa Wagner,DEM,PA,Incumbent,Won-General,93225.78,22
+State Representative,Stanley Saylor,REP,PA,Incumbent,Won-General,92718.25,94
+State Representative,John Toth,DEM,PA,Challenger,Lost-General,91914.19,142
+State Representative,Fern Kaufman,DEM,PA,Challenger,Lost-General,91665.66,26
+State Representative,Anthony Deluca,DEM,PA,Incumbent,Won-General,91058.5,32
+State Representative,Timothy Briggs,DEM,PA,Incumbent,Won-General,90180.0,149
+State Representative,Dante Santoni Jr.,DEM,PA,Incumbent,Won-General,89585.94,126
+State Representative,Frank Straub,DEM,PA,Challenger,Lost-General,88358.64,75
+State Senator,Cynthia Philo,DEM,PA,Challenger,Lost-General,86394.33,10
+State Representative,Rick Arnold,REP,PA,Open,Lost-General,86306.71,119
+State Representative,Adam Ravenstahl,DEM,PA,Open,Won-General,86067.94,20
+State Representative,Duane Milne,REP,PA,Incumbent,Won-General,85691.6,167
+State Representative,Richard Geist,REP,PA,Incumbent,Won-General,85662.11,79
+State Representative,Gene Digirolamo,REP,PA,Incumbent,Won-General,84669.0,18
+State Representative,John Hornaman,DEM,PA,Incumbent,Won-General,83600.49,3
+State Representative,James Marshall,REP,PA,Incumbent,Won-General,83365.0,14
+State Representative,Frank Burns,DEM,PA,Incumbent,Won-General,82548.5,72
+State Senator,John Eichelberger Jr.,REP,PA,Incumbent,Won-General,82224.2,30
+State Representative,Glenn Johnston,REP,PA,Challenger,Lost-General,81903.95,74
+State Representative,Mike Carroll,DEM,PA,Incumbent,Won-General,81798.0,118
+State Representative,Ron Marsico,REP,PA,Incumbent,Won-General,80500.0,105
+State Representative,Neal Goodman,DEM,PA,Incumbent,Won-General,80147.47,123
+State Representative,Jerry Stern,REP,PA,Incumbent,Won-General,79376.76,80
+State Representative,Joseph Brennan,DEM,PA,Incumbent,Won-General,78939.0,133
+State Representative,Ken Smith,DEM,PA,Incumbent,Won-General,78746.0,112
+State Representative,Kathy McQuarrie,DEM,PA,Challenger,Lost-General,78659.72,143
+State Representative,James Roebuck,DEM,PA,Incumbent,Won-General,77744.0,188
+State Representative,Timothy Krieger,REP,PA,Incumbent,Won-General,76816.0,57
+State Representative,Timothy Mahoney,DEM,PA,Incumbent,Won-General,75820.0,51
+State Representative,Mario Scavello,REP,PA,Incumbent,Won-General,74862.6,176
+State Representative,John Maher,REP,PA,Incumbent,Won-General,74830.96,40
+State Representative,Marcia Hahn,REP,PA,Incumbent,Won-General,74745.65,138
+State Representative,Curtis Thomas,DEM,PA,Incumbent,Won-General,74218.0,181
+State Representative,Matthew Baker,REP,PA,Incumbent,Won-General,74126.18,68
+State Representative,Babette Josephs,DEM,PA,Incumbent,Won-General,73889.0,182
+State Representative,Scott Petri,REP,PA,Incumbent,Won-General,73846.34,178
+State Representative,Jewell Williams,DEM,PA,Incumbent,Won-General,73328.28,197
+State Representative,Dennis Obrien,REP,PA,Incumbent,Won-General,72125.18,169
+State Senator,Bryan Allen,DEM,PA,Challenger,Lost-General,71002.53,6
+State Representative,Brian Ellis,REP,PA,Incumbent,Won-General,70363.37,11
+State Representative,David Huffman Jr.,REP,PA,Challenger,Lost-General,70082.14,83
+State Representative,Cody Knotts,REP,PA,Open,Lost-General,69176.8,48
+State Representative,Dick Hess,REP,PA,Incumbent,Won-General,68776.79,78
+State Representative,Joseph Preston Jr.,DEM,PA,Incumbent,Won-General,68399.0,24
+State Representative,Garth David Everett,REP,PA,Incumbent,Won-General,68172.62,84
+State Representative,Sandra Major,REP,PA,Incumbent,Won-General,67799.08,111
+State Representative,Cherelle Parker,DEM,PA,Incumbent,Won-General,65280.8,200
+State Representative,Chris Ross,REP,PA,Incumbent,Won-General,65023.15,158
+State Representative,Ryan Aument,REP,PA,Open,Won-General,63345.55,41
+State Representative,Pamela Delissio,DEM,PA,Open,Won-General,62497.98,194
+State Representative,John Myers,DEM,PA,Incumbent,Won-General,61687.0,201
+State Representative,Mark Gillen,REP,PA,Open,Won-General,61596.34,128
+State Representative,Vanessa Lowery Brown,DEM,PA,Incumbent,Won-General,61507.42,190
+U.S. Representative,Melissa Haluszczak,REP,PA,Challenger,Lost-General,60810.16,14
+State Representative,Daniel Deasy Jr.,DEM,PA,Incumbent,Won-General,59788.75,27
+U.S. Representative,Jake Towne,UNK,PA,Challenger,Lost-General,59213.67,15
+State Representative,John Sabatina Jr.,DEM,PA,Incumbent,Won-General,58535.41,174
+State Representative,Sheryl Delozier,REP,PA,Incumbent,Won-General,57614.03,88
+State Representative,Bill Holmes,DEM,PA,Challenger,Lost-General,57207.71,167
+State Representative,Martin Causer,REP,PA,Incumbent,Won-General,56779.98,67
+State Representative,Stephen Bloom,REP,PA,Open,Won-General,56725.02,199
+State Representative,Mettatta Barbour,DEM,PA,Challenger,Lost-General,56468.03,94
+State Representative,Edward Staback,DEM,PA,Incumbent,Won-General,55800.0,115
+State Representative,Camille George,DEM,PA,Incumbent,Won-General,55557.1,74
+State Representative,Peter Daley II,DEM,PA,Incumbent,Won-General,54942.49,49
+State Representative,Eddie Day Pashinski,DEM,PA,Incumbent,Won-General,54169.86,121
+State Representative,William Kortz II,DEM,PA,Incumbent,Won-General,54044.93,38
+State Representative,John Bear,REP,PA,Incumbent,Won-General,54030.1,97
+State Representative,John Williamson,REP,PA,Challenger,Lost-General,53782.78,166
+State Representative,Barbara McIlvaine Smith,DEM,PA,Open,Lost-General,53626.4,156
+State Representative,Richard Yeager,REP,PA,Challenger,Lost-General,53604.08,50
+State Representative,Michelle Brownlee,DEM,PA,Open,Won-General,52410.62,195
+State Representative,Christopher Sainato,DEM,PA,Incumbent,Won-General,51960.0,9
+State Representative,Lawrence Curry,DEM,PA,Incumbent,Won-General,51762.65,154
+State Representative,Paul Costa,DEM,PA,Incumbent,Won-General,51108.62,34
+State Representative,Glen Grell,REP,PA,Incumbent,Won-General,50970.65,87
+State Representative,Gerald Mullery,DEM,PA,Open,Won-General,50213.85,119
+State Representative,David Edgar Molony,REP,PA,Challenger,Lost-General,50037.66,133
+State Representative,Joseph Petrarca,DEM,PA,Incumbent,Won-General,49462.58,55
+State Senator,Richard Orloski,DEM,PA,Challenger,Lost-General,49195.0,16
+State Representative,Mike Hanna,DEM,PA,Incumbent,Won-General,49037.0,76
+State Representative,John Payne,REP,PA,Incumbent,Won-General,48887.43,106
+State Representative,Thaddeus Kirkland,DEM,PA,Incumbent,Won-General,48729.0,159
+State Representative,Tony Payton Jr.,DEM,PA,Incumbent,Won-General,48180.0,179
+State Representative,Katharine Watson,REP,PA,Incumbent,Won-General,48056.71,144
+State Representative,Scott Boyd,REP,PA,Incumbent,Won-General,47990.0,43
+State Representative,Mark Longietti,DEM,PA,Incumbent,Won-General,47911.09,7
+State Representative,Ron Miller,REP,PA,Incumbent,Won-General,47105.17,93
+State Senator,Bill Wallace,DEM,PA,Challenger,Lost-General,46059.95,24
+State Representative,Angel Cruz,DEM,PA,Incumbent,Won-General,45824.41,180
+State Representative,Donna Oberlander,REP,PA,Incumbent,Won-General,45739.3,63
+State Representative,Tom Bell,REP,PA,Challenger,Lost-General,45700.36,154
+State Representative,Deberah Kula,DEM,PA,Incumbent,Won-General,45295.0,52
+State Representative,David Maloney Sr.,REP,PA,Challenger,Won-General,44834.82,130
+State Representative,Michael Reese,REP,PA,Incumbent,Won-General,44072.58,59
+State Representative,Mark Cohen,DEM,PA,Incumbent,Won-General,43126.35,202
+State Representative,Scott Gordon Perry,REP,PA,Incumbent,Won-General,42275.94,92
+State Representative,Juliann Harhart,REP,PA,Incumbent,Won-General,42240.0,183
+State Representative,Paul Irvin Clymer,REP,PA,Incumbent,Won-General,42017.5,145
+State Representative,Robert Matzie,DEM,PA,Incumbent,Won-General,41874.39,16
+State Representative,Gary Haluska,DEM,PA,Incumbent,Won-General,41849.0,73
+State Representative,Dominic James Costa,DEM,PA,Incumbent,Won-General,40854.63,21
+State Representative,Seth Grove,REP,PA,Incumbent,Won-General,39762.8,196
+State Representative,William Rocky Brown,REP,PA,Challenger,Lost-General,38865.8,159
+State Representative,Thomas Murt,REP,PA,Incumbent,Won-General,38714.0,152
+State Representative,Rob Ferguson,REP,PA,Challenger,Lost-General,38461.38,58
+State Representative,Patrick Slattery,DEM,PA,Challenger,Lost-General,37775.0,134
+State Representative,Mark Keller,REP,PA,Incumbent,Won-General,37237.29,86
+State Senator,Michael Farrell,DEM,PA,Challenger,Lost-General,36850.62,26
+State Representative,Bernard Oneill,REP,PA,Incumbent,Won-General,36022.49,29
+State Senator,Jo Ellen Litz,DEM,PA,Challenger,Lost-General,35187.56,48
+State Representative,Kerry Benninghoff,REP,PA,Incumbent,Won-General,34300.0,171
+State Representative,Richard Stevenson,REP,PA,Incumbent,Won-General,33800.0,8
+State Representative,Nickolas Kotik,DEM,PA,Incumbent,Won-General,33545.2,45
+State Representative,Hugh Giordano,GRN,PA,Open,Lost-General,32817.97,194
+State Representative,Shannon Meehan,DEM,PA,Challenger,Lost-General,32103.45,163
+State Representative,Keith Gillespie,REP,PA,Incumbent,Won-General,32025.33,47
+U.S. Representative,Michael Pipe,DEM,PA,Challenger,Lost-General,32004.5,5
+State Representative,Tina Pickett,REP,PA,Incumbent,Won-General,31860.0,110
+State Representative,Andrea Baptiste,DEM,PA,Challenger,Lost-General,31419.37,150
+State Representative,Rosita Youngblood,DEM,PA,Incumbent,Won-General,30520.0,198
+State Representative,Robert Kauffman,REP,PA,Incumbent,Won-General,30370.0,89
+State Representative,Ronald Granville Waters,DEM,PA,Incumbent,Won-General,30350.0,191
+U.S. Representative,Ryan Sanders,DEM,PA,Challenger,Lost-General,30148.32,19
+State Representative,John Evans,REP,PA,Incumbent,Won-General,29950.0,5
+State Representative,Tom Bogar,REP,PA,Challenger,Lost-General,28831.9,153
+State Representative,Dan Moul,REP,PA,Incumbent,Won-General,28245.1,91
+State Representative,Frank Feinberg,DEM,PA,Challenger,Lost-General,28201.83,29
+State Representative,Scott Hutchinson,REP,PA,Incumbent,Won-General,28055.0,64
+State Representative,Gregory Vitali,DEM,PA,Incumbent,Won-General,27373.0,166
+State Representative,David Hickernell,REP,PA,Incumbent,Won-General,26370.0,98
+State Representative,Carl Walker Metzgar,REP,PA,Incumbent,Won-General,26017.79,69
+State Representative,Bryan Cutler,REP,PA,Incumbent,Won-General,25552.48,100
+State Representative,Michael Peifer,REP,PA,Incumbent,Won-General,25193.84,139
+State Representative,Sue Means,REP,PA,Challenger,Lost-General,24270.36,42
+State Representative,Daryl Schafer,REP,PA,Challenger,Lost-General,24094.09,76
+State Representative,Michael See,REP,PA,Challenger,Lost-General,23413.11,10
+State Representative,Gary Day,REP,PA,Incumbent,Won-General,22990.5,187
+State Representative,Marc Collazzo,REP,PA,Challenger,Lost-General,22378.9,170
+State Representative,Eugene Stilp,DEM,PA,Challenger,Lost-General,22098.99,104
+State Representative,Phyllis Bennett,DEM,PA,Challenger,Lost-General,21900.0,106
+State Representative,Jeffrey Faust,DEM,PA,Challenger,Lost-General,21810.07,124
+State Representative,Ron Shegda,REP,PA,Challenger,Lost-General,21155.48,136
+State Representative,Mauree Gingrich,REP,PA,Incumbent,Won-General,20820.0,101
+State Representative,Michele Brooks,REP,PA,Incumbent,Won-General,20639.69,17
+State Representative,Robert Freeman,DEM,PA,Incumbent,Won-General,20465.79,136
+State Representative,Kathy Rapp,REP,PA,Incumbent,Won-General,20245.0,65
+State Representative,Aaron Kime,REP,PA,Challenger,Lost-General,19505.54,45
+State Representative,Harry Readshaw III,DEM,PA,Incumbent,Won-General,19425.54,36
+State Representative,Christopher Adam Harris,REP,PA,Incumbent,Won-General,19130.0,82
+State Representative,Thomas Creighton,REP,PA,Incumbent,Won-General,18549.5,37
+State Representative,Mike Lapolla,REP,PA,Challenger,Lost-General,18374.6,113
+State Representative,Sharon Brown,DEM,PA,Challenger,Lost-General,18150.74,28
+State Representative,Gail Conner,DEM,PA,Challenger,Lost-General,17733.03,168
+State Representative,Gerald Policoff,DEM,PA,Open,Lost-General,17497.29,41
+State Representative,Peter Kohut,REP,PA,Challenger,Lost-General,17042.72,149
+State Representative,Mark Stevens,DEM,PA,Open,Withdrew-General,16585.0,156
+State Representative,Derf Maitland,DEM,PA,Challenger,Lost-General,16279.83,91
+State Representative,Bradley Roae,REP,PA,Incumbent,Won-General,14990.0,6
+State Senator,Stephen Urban,REP,PA,Open,Lost-General,14955.84,14
+State Representative,David Millard,REP,PA,Incumbent,Won-General,14940.0,109
+State Representative,Will Tallman,REP,PA,Incumbent,Won-General,14928.0,193
+State Representative,Curtis Sonney,REP,PA,Incumbent,Won-General,14595.0,4
+State Senator,Frank Scavo,REP,PA,Open,Lost-General,14411.51,22
+State Representative,Fred Baldwin,DEM,PA,Open,Lost-General,13904.0,199
+State Representative,Michael Kester,DEM,PA,Challenger,Lost-General,13789.0,57
+State Senator,John Eich,DEM,PA,Challenger,Lost-General,13529.42,34
+State Representative,Robert Donatucci,DEM,PA,Incumbent,Won-General,13100.0,185
+State Representative,James Kernaghan III,REP,PA,Open,Lost-General,12800.0,195
+State Representative,Tim Mullen,LIB,PA,Challenger,Lost-General,12315.09,120
+State Representative,Patrick Harkins,DEM,PA,Incumbent,Won-General,11865.0,1
+State Senator,Rhashea Harmon,REP,PA,Challenger,Lost-General,11684.22,8
+State Representative,Susan Rzucidlo,DEM,PA,Challenger,Lost-General,11146.04,158
+U.S. Representative,Rick Hellberg,REP,PA,Challenger,Lost-General,11090.87,2
+State Representative,Michael Fleck,REP,PA,Incumbent,Won-General,10915.98,81
+State Representative,Thomas Garman Jr.,REP,PA,Challenger,Lost-General,10687.8,96
+State Representative,Barbara Bergeron,DEM,PA,Challenger,Lost-General,10471.27,155
+State Representative,Gerald Price,DEM,PA,Challenger,Lost-General,10120.56,4
+State Representative,Gordon Denlinger,REP,PA,Incumbent,Won-General,10110.0,99
+State Representative,Patrick Okeefe,DEM,PA,Challenger,Lost-General,9967.29,97
+State Representative,Ettore Dicasimirro,REP,PA,Challenger,Lost-General,9764.41,123
+State Representative,Rosemarie Swanger,REP,PA,Incumbent,Won-General,9635.0,102
+State Senator,Matthew Connolly,REP,PA,Challenger,Lost-General,9218.2,18
+State Representative,Dante Picciano,IND,PA,Challenger,Lost-General,9142.41,124
+State Representative,Dennis Peck,DEM,PA,Challenger,Lost-General,9122.0,66
+State Representative,Louis Trey Casimir,DEM,PA,Open,Lost-General,9098.16,85
+State Representative,Florindo Fabrizio,DEM,PA,Incumbent,Won-General,8924.32,2
+State Representative,Alex Dubart,REP,PA,Open,Lost-General,8892.3,20
+State Representative,Dennis Powell,DEM,PA,Challenger,Lost-General,8889.0,14
+State Representative,Antonio Michetti,DEM,PA,Open,Lost-General,8684.0,108
+U.S. Representative,James Schneller,AMERICAN CONGRESS,PA,Open,Lost-General,8546.31,7
+State Representative,Roger Voit,REP,PA,Challenger,Lost-General,8535.44,126
+State Representative,Jane Burger,REP,PA,Challenger,Lost-General,8331.14,140
+State Representative,Dan Rae,DEM,PA,Challenger,Lost-General,8131.93,109
+State Representative,Linda Small,DEM,PA,Challenger,Lost-General,7688.45,93
+State Representative,Mike Strausbaugh,DEM,PA,Challenger,Lost-General,7582.31,193
+State Representative,James Cox Jr.,REP,PA,Incumbent,Won-General,6975.0,129
+State Representative,Richard Shermanski,DEM,PA,Challenger,Lost-General,6956.01,117
+State Representative,Richard Massafra,REP,PA,Challenger,Lost-General,6921.5,49
+State Representative,James Omeara Sr.,REP,PA,Challenger,Lost-General,6741.21,121
+State Representative,Matthew Maguire,REP,PA,Challenger,Lost-General,6445.35,148
+State Representative,Robert McGuckin,DEM,PA,Challenger,Lost-General,6425.05,152
+State Representative,Mary Whitesell,DEM,PA,Challenger,Lost-General,6391.69,145
+State Representative,Todd Rock,REP,PA,Incumbent,Won-General,6100.0,90
+State Senator,Roberta Biros,IND,PA,Challenger,Lost-General,5793.53,50
+State Representative,Blyden Potts,IND,PA,Challenger,Lost-General,4827.0,89
+State Representative,Theresa Kane,REP,PA,Challenger,Lost-General,4793.42,115
+State Representative,Keith Todd,REP,PA,Challenger,Lost-General,4656.25,186
+State Representative,Scott Macneil,DEM,PA,Challenger,Lost-General,4290.0,162
+State Representative,David Cleary,IND,PA,Challenger,Lost-General,4209.1,160
+State Representative,Angela West,DEM,PA,Challenger,Lost-General,4106.23,87
+State Representative,Robert Dodge,DEM,PA,Challenger,Lost-General,3410.38,147
+State Representative,Ray Uhric,DEM,PA,Challenger,Lost-General,3341.12,44
+State Representative,David Apfelbaum,DEM,PA,Challenger,Lost-General,3027.72,178
+State Representative,Eric Wolfgang,DEM,PA,Challenger,Lost-General,2923.0,47
+State Representative,Jim Knapp,DEM,PA,Challenger,Lost-General,2895.0,111
+State Representative,Rex Dagostino,GRN,PA,Challenger,Lost-General,2727.69,183
+State Representative,Erik Viker,LIB,PA,Open,Lost-General,2692.86,85
+State Representative,Terrence Oconnor,REP,PA,Challenger,Lost-General,2653.91,118
+State Representative,Michael Muhammad,LIB,PA,Challenger,Lost-General,2494.98,203
+State Representative,Curtis Kann,DEM,PA,Challenger,Lost-General,2435.45,196
+State Representative,Daniel Ulrich Wiseman,REP,PA,Challenger,Lost-General,2415.0,23
+State Representative,Kenneth Vybiral Jr.,IND,PA,Open,Lost-General,2328.0,20
+State Senator,Matt Stehman,DEM,PA,Challenger,Lost-General,2193.68,44
+State Representative,Stephen Samuelson,DEM,PA,Incumbent,Won-General,2112.0,135
+State Representative,Rudolph Vulakovich,REP,PA,Incumbent,Won-General,1910.0,30
+State Representative,Vance Mays,LIB,PA,Challenger,Lost-General,1908.0,64
+State Representative,Scott Stout,CON,PA,Challenger,Lost-General,1895.0,76
+State Representative,Louis Schwartz,REP,PA,Challenger,Lost-General,1865.3,175
+U.S. Representative,Joshua Monighan,INDEPENDENT PATRIOTS,PA,Challenger,Lost-General,1743.8,19
+State Senator,Betsy Summers,LIB,PA,Open,Lost-General,1564.32,14
+State Representative,Nick Digregory,DEM,PA,Challenger,Lost-General,1558.0,160
+State Representative,William Kohler,LIB,PA,Challenger,Lost-General,1377.68,196
+State Representative,Dennis Baylor,NO PARTY AFFILIATION,PA,Challenger,Lost-General,1173.0,125
+State Representative,Bryant Brown,DEM,PA,Challenger,Withdrew-General,1130.0,188
+State Representative,Matthew Franchetti,REP,PA,Challenger,Lost-General,1107.0,179
+State Representative,Richard Stine,DEM,PA,Challenger,Lost-General,800.0,187
+State Representative,Jay Sweeney,GRN,PA,Challenger,Lost-General,585.0,111
+State Representative,Zack Byrnes,DEM,PA,Challenger,Lost-General,500.0,12
+State Representative,Richard Mase Sr.,IND,PA,Challenger,Lost-General,399.22,101
+State Representative,Joseph Corrigan III,IND,PA,Challenger,Lost-General,337.36,167
+U.S. Representative,Vernon Etzel,LIB,PA,Challenger,Lost-General,263.32,5
+State Representative,Edward Bonsell,GRN,PA,Challenger,Lost-General,50.0,53
+Lieutenant Governor,Scott Conklin,DEM,PA,Open,Lost-General,0.0,nan
+State Representative,John Hansen,DEM,PA,Challenger,Lost-General,0.0,53
+State Representative,Patricia Stephens,DEM,PA,Challenger,Lost-General,0.0,101
+State Representative,Stephen Shuagis,REP,PA,Challenger,Lost-General,0.0,73
+State Representative,Lee Briane Morgan,REP,PA,Challenger,Lost-General,0.0,112
+State Representative,Bill Goldsmith,REP,PA,Challenger,Lost-General,0.0,120
+State Representative,Stephen Pico,REP,PA,Challenger,Lost-General,0.0,184
+State Representative,Michael Bruno,REP,PA,Challenger,Lost-General,0.0,185
+State Representative,Timothy Downey,REP,PA,Open,Lost-General,0.0,194
+State Representative,Joseph Messa,REP,PA,Challenger,Lost-General,0.0,201
+State Senator,Gary Adam Feldman,REP,PA,Challenger,Lost-General,0.0,2
+State Representative,Ronald Gazze,IND,PA,Challenger,Lost-General,0.0,57
+State Representative,Luther Yoas Sr.,IND,PA,Challenger,Lost-General,0.0,66
+State Representative,Frank Liberatore,LIB,PA,Challenger,Lost-General,0.0,27
+State Representative,Michael Robertson,LIB,PA,Challenger,Lost-General,0.0,63
+State Senator,Edward Gately Sr.,LIB,PA,Challenger,Lost-General,0.0,28
+State Representative,Charles Moyer,GRN,PA,Challenger,Lost-General,0.0,145
+State Representative,Tom Lingenfelter,IND,PA,Challenger,Lost-General,0.0,143
+State Representative,Rodney Lacy,IND,PA,Challenger,Lost-General,0.0,163
+State Representative,Thomas Bradley Anderson,LIB,PA,Challenger,Lost-General,0.0,109
+State Representative,Brian Bergman,LIB,PA,Open,Lost-General,0.0,119
+State Representative,Julie Fagan,NO PARTY AFFILIATION,PA,Challenger,Lost-General,0.0,145
+State Representative,Warren Bloom,NO PARTY AFFILIATION,PA,Open,Lost-General,0.0,195
+Lieutenant Governor,Jim Cawley,REP,PA,Open,Won-General,0.0,nan
+State Representative,Brian Bradley,DEM,PA,Challenger,Withdrew-General,0.0,165
+U.S. Representative,Tom Conners,DEM,PA,Challenger,Lost-General,0.0,9
+U.S. Representative,Ed Bortz,GRN,PA,Challenger,Lost-General,0.0,14
+U.S. Representative,Demo Agoris,LIB,PA,Open,Lost-General,0.0,12
+State Representative,Mike Doyle,REP,PA,Challenger,Lost-General,0.0,25

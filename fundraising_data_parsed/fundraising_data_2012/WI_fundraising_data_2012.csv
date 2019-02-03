@@ -1,0 +1,278 @@
+office,candidate,party,state,incumbency,result,total money,district
+Governor,Scott Walker,REP,WI,Incumbent,Won-General,37643487.41,nan
+U.S. Senator,Tammy Suzanne Green Baldwin,DEM,WI,Open,Won-General,15485117.93,nan
+U.S. Senator,Tommy Thompson,REP,WI,Open,Lost-General,10253216.92,nan
+Governor,Tom Barrett,DEM,WI,Challenger,Lost-General,6562065.7,nan
+U.S. Representative,Paul Ryan,REP,WI,Incumbent,Won-General,5120147.14,1
+U.S. Representative,Reid Ribble,REP,WI,Incumbent,Won-General,2764233.62,8
+U.S. Representative,Sean Duffy,REP,WI,Incumbent,Won-General,2657035.02,7
+U.S. Representative,Robert Zerban,DEM,WI,Challenger,Lost-General,2245978.53,1
+U.S. Representative,Ron Kind,DEM,WI,Incumbent,Won-General,1981142.86,3
+U.S. Representative,Patrick Kreitlow,DEM,WI,Challenger,Lost-General,1327245.3,7
+Lieutenant Governor,Rebecca Kleefisch,REP,WI,Incumbent,Won-General,1182525.39,nan
+U.S. Representative,Jamie Wall,DEM,WI,Challenger,Lost-General,1155848.44,8
+U.S. Representative,Mark Pocan,DEM,WI,Open,Won-General,1142603.68,2
+U.S. Representative,Gwendolynne Moore,DEM,WI,Incumbent,Won-General,821784.65,4
+U.S. Representative,Tom Petri,REP,WI,Incumbent,Won-General,747979.01,6
+State Senator,Scott Fitzgerald,REP,WI,Incumbent,Won-General,671586.77,13
+U.S. Representative,James Sensenbrenner Jr.,REP,WI,Incumbent,Won-General,552457.36,5
+State Senator,Sheila Harsdorf,REP,WI,Incumbent,Won-General,430305.66,10
+Lieutenant Governor,Mahlon Mitchell,DEM,WI,Challenger,Lost-General,342141.36,nan
+State Senator,Richard Gudex,REP,WI,Challenger,Won-General,328541.93,18
+State Senator,Van Wanggaard,REP,WI,Incumbent,Lost-General,297545.25,21
+Governor,Hariprasad Trivedi,IND,WI,Challenger,Lost-General,289780.23,nan
+State Senator,Lori Compas,DEM,WI,Challenger,Lost-General,262257.42,13
+State Senator,Thomas Tiffany,REP,WI,Open,Won-General,260478.86,12
+State Senator,Jessica King,DEM,WI,Incumbent,Lost-General,255699.75,18
+State Senator,John Macco,REP,WI,Challenger,Lost-General,233858.53,30
+State Senator,John Lehman,DEM,WI,Challenger,Won-General,227621.78,21
+State Senator,Terry Moulton,REP,WI,Incumbent,Won-General,202699.78,23
+State Senator,Donna Seidel,DEM,WI,Open,Lost-General,201037.6,29
+State Representative,Robin Vos,REP,WI,Incumbent,Won-General,199921.63,63
+State Representative,Steve Doyle,DEM,WI,Incumbent,Won-General,189995.98,94
+State Senator,Luther Olsen,REP,WI,Incumbent,Won-General,189880.12,14
+State Senator,Jerry Petrowski,REP,WI,Open,Won-General,188120.0,29
+State Senator,Bill Feehan,REP,WI,Challenger,Lost-General,171454.24,32
+State Representative,Howard Marklein,REP,WI,Incumbent,Won-General,166237.46,51
+State Representative,Scott Suder,REP,WI,Incumbent,Won-General,164097.86,69
+State Representative,Warren Petryk,REP,WI,Incumbent,Won-General,163407.21,93
+State Representative,Mary Czaja-Felzkowski,REP,WI,Open,Won-General,162265.5,35
+U.S. Representative,Ray Boland,REP,WI,Challenger,Lost-General,158282.84,3
+State Representative,Nancy Lynn Vandermeer,REP,WI,Challenger,Lost-General,155391.0,70
+State Representative,Patrick Snyder,REP,WI,Open,Lost-General,152170.58,85
+State Senator,Kristen Dexter,DEM,WI,Challenger,Lost-General,147892.09,23
+State Senator,Glenn Grothman,REP,WI,Incumbent,Won-General,147533.23,20
+State Senator,David Hansen,DEM,WI,Incumbent,Won-General,141321.93,30
+State Representative,Roger Rivard,REP,WI,Incumbent,Lost-General,131157.65,75
+State Representative,Kathleen Bernier,REP,WI,Incumbent,Won-General,129683.36,68
+State Senator,Jennifer Shilling,DEM,WI,Incumbent,Won-General,127676.1,32
+State Representative,Scott Krug,REP,WI,Incumbent,Won-General,126998.5,72
+State Representative,Chris Kapenga,REP,WI,Incumbent,Won-General,122424.08,99
+State Representative,John Nygren,REP,WI,Incumbent,Won-General,122195.05,89
+State Senator,Julie Lassa,DEM,WI,Incumbent,Won-General,117352.04,24
+State Representative,Paul Farrow,REP,WI,Incumbent,Won-General,108665.86,98
+State Senator,Lena Carolyn Taylor,DEM,WI,Incumbent,Won-General,105225.45,4
+State Representative,Duane Stroebel Jr.,REP,WI,Incumbent,Won-General,96105.27,60
+U.S. Representative,Chad Lee,REP,WI,Open,Lost-General,93042.47,2
+State Senator,Alberta Darling,REP,WI,Incumbent,Won-General,92930.5,8
+State Representative,Travis Tranel,REP,WI,Incumbent,Won-General,91462.0,49
+State Representative,Michael Endsley,REP,WI,Incumbent,Won-General,91270.97,26
+State Senator,Mark Miller,DEM,WI,Incumbent,Won-General,85583.83,16
+State Representative,Joe Knilans,REP,WI,Incumbent,Lost-General,85473.78,44
+State Representative,Evan Wynn,REP,WI,Incumbent,Lost-General,82661.89,43
+State Representative,John Spiros,REP,WI,Open,Won-General,80449.12,86
+State Representative,David Craig,REP,WI,Incumbent,Won-General,76072.76,83
+State Representative,Jeff Smith,DEM,WI,Challenger,Lost-General,72524.01,93
+State Representative,Stephen Smith,DEM,WI,Challenger,Won-General,71982.99,75
+State Representative,Robert Swearingen,REP,WI,Open,Won-General,71922.61,34
+State Representative,Maureen Theresa May-Grimm,DEM,WI,Challenger,Lost-General,70340.49,51
+State Representative,Shan Haqqi,DEM,WI,Challenger,Lost-General,69401.92,24
+State Representative,William Kramer,REP,WI,Incumbent,Won-General,68507.55,97
+State Representative,Jill Billings,DEM,WI,Incumbent,Won-General,67200.72,95
+State Representative,Tom Johnson,DEM,WI,Challenger,Lost-General,66533.69,96
+State Representative,John Klenke,REP,WI,Incumbent,Won-General,65254.9,88
+State Representative,Chad Weininger,REP,WI,Incumbent,Won-General,64862.0,4
+State Representative,Patrick Veeser,DEM,WI,Challenger,Lost-General,64131.24,1
+State Representative,Debra Kolste,DEM,WI,Challenger,Won-General,63838.75,44
+State Representative,Donald Pridemore,REP,WI,Open,Won-General,62130.88,22
+State Representative,Andrew Earl Jorgensen,DEM,WI,Incumbent,Won-General,61585.5,43
+State Representative,Mandy Wright,DEM,WI,Open,Won-General,61448.94,85
+State Representative,Justin Pluess,DEM,WI,Challenger,Lost-General,61183.45,72
+State Representative,Robb Kahl,DEM,WI,Open,Won-General,60922.27,47
+State Representative,Amy Loudenbeck,REP,WI,Incumbent,Won-General,60262.91,31
+State Senator,Mary Lazich,REP,WI,Incumbent,Won-General,58052.9,28
+State Representative,Samantha Kerkman,REP,WI,Incumbent,Won-General,57939.29,61
+State Representative,Dean Knudson,REP,WI,Incumbent,Won-General,57618.56,30
+State Representative,Garey Bies,REP,WI,Incumbent,Won-General,57177.0,1
+State Representative,Mark Honadel,REP,WI,Incumbent,Won-General,56541.83,21
+State Representative,David Murphy,REP,WI,Open,Won-General,56165.74,56
+State Representative,Amy Sue Vruwink,DEM,WI,Incumbent,Won-General,54893.26,70
+State Representative,Paul Tittl,REP,WI,Open,Won-General,54224.15,25
+State Representative,Diane Odeen,DEM,WI,Challenger,Lost-General,53431.71,30
+State Representative,Dan Knodl,REP,WI,Incumbent,Won-General,53259.6,24
+State Representative,Cory Mason IV,DEM,WI,Incumbent,Won-General,52786.21,66
+State Representative,Thomas Larson,REP,WI,Incumbent,Won-General,52101.92,67
+State Representative,Deb Bieging,DEM,WI,Challenger,Lost-General,52074.86,67
+State Representative,Kevin Koth,DEM,WI,Open,Lost-General,51727.04,35
+State Senator,Tanya Elizabeth Lohr,DEM,WI,Challenger,Lost-General,51587.85,20
+State Representative,Erik Severson,REP,WI,Incumbent,Won-General,51007.48,28
+State Representative,Dale Kooyenga,REP,WI,Incumbent,Won-General,49842.17,14
+State Representative,Joe Sanfelippo,REP,WI,Open,Won-General,49814.76,15
+State Representative,Jeremy John Thiesfeldt,REP,WI,Incumbent,Won-General,49536.99,52
+State Representative,Dianne Hesselbein,DEM,WI,Open,Won-General,49496.07,79
+State Representative,Mary Williams,REP,WI,Incumbent,Won-General,49180.17,87
+State Representative,Janet Bewley,DEM,WI,Incumbent,Won-General,47383.9,74
+State Representative,Michael Schraa,REP,WI,Open,Won-General,47014.0,53
+State Representative,Jim Steineke,REP,WI,Incumbent,Won-General,45897.0,5
+State Senator,Susan Sommer,DEM,WI,Open,Lost-General,45681.84,12
+State Representative,Keith Ripp,REP,WI,Incumbent,Won-General,45660.0,42
+State Representative,Mark Born,REP,WI,Open,Won-General,45474.51,39
+State Representative,Rob Hutton,REP,WI,Open,Won-General,41330.86,13
+State Representative,Alvin Ott,REP,WI,Incumbent,Won-General,41218.0,3
+State Representative,Penny Bernard Schaber,DEM,WI,Incumbent,Won-General,40652.46,57
+State Representative,Edward Allen Brooks,REP,WI,Incumbent,Won-General,40437.81,50
+State Representative,Sondy Pope,DEM,WI,Incumbent,Won-General,40430.69,80
+State Representative,Kevin David Petersen,REP,WI,Incumbent,Won-General,40050.0,40
+State Representative,Melissa Ann Lemke,DEM,WI,Open,Lost-General,39790.16,62
+State Representative,Gordon Hintz,DEM,WI,Incumbent,Won-General,39244.83,54
+State Representative,Judith Ellen Smriga,DEM,WI,Challenger,Lost-General,38846.89,68
+State Representative,John Murtha,REP,WI,Incumbent,Won-General,38765.0,29
+State Representative,Joel Kleefisch,REP,WI,Incumbent,Won-General,38682.0,38
+State Representative,Paul Knoff,DEM,WI,Challenger,Lost-General,38535.9,69
+State Representative,Carol Beals,DEM,WI,Challenger,Lost-General,37950.06,49
+State Representative,John Jagler,REP,WI,Open,Won-General,37766.28,37
+State Representative,Richard Schoenbohm,DEM,WI,Open,Lost-General,37659.8,56
+State Representative,Tyler August,REP,WI,Incumbent,Won-General,37592.44,32
+State Representative,Lee Nerison,REP,WI,Incumbent,Won-General,36232.5,96
+U.S. Representative,Dan Sebring,REP,WI,Challenger,Lost-General,35888.66,4
+State Representative,Evan Goyke,DEM,WI,Open,Won-General,35668.65,18
+State Representative,Thomas Roger Weatherston,REP,WI,Open,Won-General,35067.78,62
+State Senator,Robert Wirch,DEM,WI,Incumbent,Won-General,35057.79,22
+State Representative,Dana Wachs,DEM,WI,Open,Won-General,35049.77,91
+State Representative,Melissa Agard Sargent,DEM,WI,Open,Won-General,34965.95,48
+State Senator,Nikiya Harris Dodd,DEM,WI,Open,Won-General,34002.72,6
+State Representative,Andre Jacque,REP,WI,Incumbent,Won-General,33630.34,2
+State Representative,Janis Ringhand,DEM,WI,Incumbent,Won-General,33139.92,45
+State Representative,Jim Ott,REP,WI,Incumbent,Won-General,33020.0,23
+State Representative,Patricia Strachota,REP,WI,Incumbent,Won-General,32132.45,58
+State Representative,Peter Barca,DEM,WI,Incumbent,Won-General,32106.04,64
+State Representative,Christopher Rockwood,DEM,WI,Challenger,Lost-General,31085.0,14
+State Representative,Daniel Graan Riemer,DEM,WI,Open,Won-General,30689.45,7
+State Representative,Daniel Lemahieu,REP,WI,Incumbent,Won-General,30557.0,59
+State Representative,Dennis Halkoski,DEM,WI,Open,Lost-General,29882.48,86
+State Representative,Joan Ballweg,REP,WI,Incumbent,Won-General,29306.0,41
+State Representative,Michael Kuglitsch,REP,WI,Incumbent,Won-General,28434.0,84
+State Representative,Mandela Barnes,DEM,WI,Open,Won-General,27729.88,11
+State Representative,Eric Carl Genrich,DEM,WI,Open,Won-General,27700.73,90
+State Senator,Fred Risser,DEM,WI,Incumbent,Won-General,27202.15,26
+State Representative,Josh Zepnick,DEM,WI,Incumbent,Won-General,26945.0,9
+State Representative,Jocasta Zamarripa,DEM,WI,Incumbent,Won-General,25966.78,8
+State Representative,Brett Hulsey,DEM,WI,Incumbent,Won-General,25189.53,78
+State Representative,John Sendra,REP,WI,Challenger,Lost-General,24891.23,74
+State Senator,Scott Kenneth Noble,REP,WI,Challenger,Lost-General,24748.89,24
+State Representative,Mike Helmke,DEM,WI,Challenger,Lost-General,24422.0,26
+State Representative,Kole Oswald,DEM,WI,Challenger,Lost-General,24166.2,3
+State Representative,Cris Rogers,DEM,WI,Challenger,Lost-General,23898.18,23
+State Representative,Dean Kaufert,REP,WI,Incumbent,Won-General,23730.84,55
+State Representative,Katrina Shankland,DEM,WI,Open,Won-General,23559.11,71
+State Representative,Jim Norbert Brey,DEM,WI,Open,Lost-General,22130.63,25
+State Representative,Patricia Schaefer,REP,WI,Challenger,Lost-General,21760.81,46
+State Representative,John Steinbrink,DEM,WI,Incumbent,Lost-General,21387.47,61
+State Representative,Frederick Kessler,DEM,WI,Incumbent,Won-General,20461.06,12
+State Representative,Chris Taylor,DEM,WI,Incumbent,Won-General,19566.26,76
+State Representative,Jon Richards,DEM,WI,Incumbent,Won-General,19550.81,19
+State Representative,Molly McGartland,REP,WI,Challenger,Lost-General,18975.0,20
+State Representative,Gary Hebl,DEM,WI,Incumbent,Won-General,18620.22,46
+State Representative,Steve Kestell,REP,WI,Incumbent,Won-General,18547.96,27
+State Representative,Elizabeth Riley,DEM,WI,Challenger,Lost-General,18226.84,87
+State Representative,Gary Tauchen,REP,WI,Incumbent,Won-General,18031.82,6
+State Representative,James Grigg,DEM,WI,Open,Lost-General,17870.38,39
+State Representative,Beth Schmidt,REP,WI,Challenger,Lost-General,17687.36,45
+State Representative,Tod Ohnstad,DEM,WI,Open,Won-General,17636.68,65
+State Representative,Jeffrey Mursau,REP,WI,Incumbent,Won-General,17610.0,36
+State Representative,Adam Bever,DEM,WI,Challenger,Lost-General,17049.11,28
+State Representative,Mary Arnold,DEM,WI,Open,Lost-General,16998.0,37
+State Representative,Jeff McCabe,DEM,WI,Challenger,Lost-General,16089.0,5
+State Representative,Christopher Danou,DEM,WI,Incumbent,Won-General,14402.09,92
+State Senator,Robert Cowles,REP,WI,Incumbent,Won-General,14360.0,2
+State Senator,Jim Ward,DEM,WI,Challenger,Lost-General,14281.75,28
+State Representative,Ryan Schroeder,DEM,WI,Challenger,Lost-General,13912.25,31
+State Representative,James Crail,DEM,WI,Challenger,Lost-General,13047.69,55
+State Representative,Steven Nass,REP,WI,Incumbent,Won-General,12963.9,33
+State Representative,Patrick Testin,REP,WI,Open,Lost-General,12016.09,71
+State Senator,Margarete Worthington,DEM,WI,Challenger,Lost-General,11819.15,14
+State Representative,Ward Bacon,DEM,WI,Challenger,Lost-General,11679.55,88
+State Representative,John Pokrandt,DEM,WI,Open,Lost-General,11600.0,13
+State Representative,Merlin Van Buren,DEM,WI,Open,Lost-General,11406.58,34
+State Representative,Cindy Moore,DEM,WI,Open,Lost-General,11374.51,15
+State Representative,Jeff Stone,REP,WI,Incumbent,Won-General,10860.0,82
+State Representative,James David Swanson,DEM,WI,Challenger,Lost-General,10592.38,29
+State Representative,Scott Martin Michalak,DEM,WI,Challenger,Lost-General,10444.59,38
+State Representative,Terese Berceau,DEM,WI,Incumbent,Won-General,10409.99,77
+State Representative,Latonya Johnson,DEM,WI,Open,Won-General,10144.0,17
+State Representative,Kelley Albrecht,DEM,WI,Challenger,Lost-General,9847.0,63
+State Representative,Nick Milroy,DEM,WI,Incumbent,Won-General,9768.5,73
+State Representative,Melissa Sorenson,DEM,WI,Challenger,Lost-General,9538.93,41
+State Senator,Pam Stevens,REP,WI,Challenger,Lost-General,9515.0,22
+State Representative,Leon Young,DEM,WI,Incumbent,Won-General,9391.31,16
+State Representative,Dorothy Kay Kegley,DEM,WI,Challenger,Lost-General,8558.03,36
+State Senator,Daniel Charles Olson,DEM,WI,Challenger,Lost-General,8478.53,10
+State Representative,Paul Esslinger,REP,WI,Challenger,Lost-General,8189.66,54
+State Representative,John Powers,DEM,WI,Challenger,Lost-General,7735.26,6
+State Representative,Paul Czisny,DEM,WI,Challenger,Lost-General,7358.84,52
+State Representative,William Kurtz,DEM,WI,Challenger,Lost-General,6874.09,21
+State Representative,Marga Krumins,DEM,WI,Challenger,Lost-General,6745.74,97
+State Representative,Sarah Ann Shanahan,DEM,WI,Challenger,Lost-General,6484.72,50
+State Representative,Larry Pruess,DEM,WI,Challenger,Lost-General,6288.23,2
+State Representative,Paula Cooper,DEM,WI,Challenger,Lost-General,5544.35,42
+State Representative,Michael Malcheski,DEM,WI,Challenger,Lost-General,5256.83,4
+State Representative,Kim Peterson,DEM,WI,Challenger,Lost-General,5125.01,32
+U.S. Representative,Joseph Kallas,DEM,WI,Challenger,Lost-General,5116.8,6
+State Representative,Scott Frostman,REP,WI,Challenger,Lost-General,4830.0,81
+State Representative,Christine Sinicki,DEM,WI,Incumbent,Won-General,4450.6,20
+State Representative,Steven Bauer,DEM,WI,Challenger,Lost-General,4250.42,27
+Appellate Court District 001-Fine Seat,Ralph Adam Fine,IND,WI,Incumbent,Won-General,4038.0,nan
+State Representative,Patrick Tjugum,IND,WI,Open,Lost-General,3785.0,35
+State Representative,Kathleen Elizabeth Wied-Vincent,DEM,WI,Challenger,Lost-General,3485.05,82
+State Representative,James Arthur Brownlow,DEM,WI,Challenger,Lost-General,3424.0,83
+State Representative,Bruce Evers,REP,WI,Challenger,Lost-General,3165.0,94
+State Representative,Ryan Flejter,DEM,WI,Open,Lost-General,2782.0,53
+State Representative,Brian Garrow,REPUBLICAN WRITEIN,WI,Challenger,Disqualified-General,2631.0,57
+Appellate Court District 003-Kloppenburg Seat,Joanne Kloppenburg,IND,WI,Incumbent,Won-General,2229.0,nan
+State Representative,Anthony Edwards,IND,WI,Open,Lost-General,2214.0,17
+State Representative,Joseph Reinhard,DEM,WI,Challenger,Lost-General,2142.83,89
+State Representative,Sandra Pasch,DEM,WI,Incumbent,Won-General,1841.0,10
+State Representative,Eric Prudent,DEM,WI,Challenger,Lost-General,1800.0,98
+State Representative,Jonathan Dedering,GRN,WI,Challenger,Lost-General,1755.2,78
+State Representative,Tiffany Lee Koehler,REP,WI,Open,Withdrew-General,1730.36,7
+State Representative,Thomas Hibbard,DEM,WI,Challenger,Lost-General,1605.0,99
+State Representative,Todd Albano,IND,WI,Open,Lost-General,1308.45,34
+State Senator,Virginia Faye Pratt,REP,WI,Open,Disqualified-General,1259.05,6
+State Representative,Kevin Marcus Kuehl,DEM,WI,Open,Disqualified-Primary,1243.1,40
+State Representative,Scott Allan Woods,DEM,WI,Challenger,Lost-General,1040.0,33
+State Senator,David King,IND,WI,Challenger,Lost-General,600.0,4
+State Representative,David Vanderleest,REP,WI,Open,Lost-General,500.0,90
+State Representative,Fred Clark,DEM,WI,Incumbent,Won-General,500.0,81
+State Representative,Robert Daniel Graupner,DEM,WI,Open,Disqualified-Primary,487.75,47
+State Representative,Joshua Young,INDEPENDENT CITIZENS OF WISCONSIN,WI,Challenger,Lost-General,235.0,3
+State Representative,Perry Duman,DEM,WI,Challenger,Lost-General,144.75,60
+State Representative,David Soumis,GRN,WI,Open,Disqualified-Primary,45.0,47
+State Representative,Jesse Roelke,DEM,WI,Challenger,Lost-General,0.0,84
+State Representative,Kevin Fitzpatrick,IND,WI,Open,Lost-General,0.0,34
+State Senator,Paul Ehlers,LIB,WI,Open,Lost-General,0.0,12
+State Representative,Terry Gray,LIB,WI,Open,Lost-General,0.0,48
+State Representative,Jim Maas,LIB,WI,Open,Lost-General,0.0,85
+State Representative,Rich Martin,LIB,WI,Challenger,Lost-General,0.0,55
+State Representative,Melba Morris-Page,LIB,WI,Open,Lost-General,0.0,18
+State Representative,Ben Olson III,LIB,WI,Challenger,Lost-General,0.0,50
+State Representative,David Stolow,LIB,WI,Challenger,Lost-General,0.0,32
+State Representative,Terry Virgil,LIB,WI,Challenger,Lost-General,0.0,33
+State Representative,Leroy Watson,LIB,WI,Challenger,Lost-General,0.0,38
+State Representative,Tom Lamberson,REP,WI,Challenger,Lost-General,0.0,80
+State Senator,Paul Farrow,REP,WI,Open,Won-General,0.0,33
+Appellate Court District 002-Brown Seat,Richard Brown,IND,WI,Incumbent,Won-General,0.0,nan
+Appellate Court District 003-Mangerson Seat,Mark Mangerson,IND,WI,Incumbent,Won-General,0.0,nan
+State Representative,Chad Bucholtz,DEM,WI,Open,Disqualified-Primary,0.0,22
+State Senator,Richard Langan,DEM,WI,Challenger,Disqualified-General,0.0,2
+State Representative,Dana Strohm,DEM,WI,Open,Disqualified-General,0.0,71
+State Representative,James Kilian,IND,WI,Open,Disqualified-General,0.0,37
+State Representative,Andrew Koerwitz,IND,WI,Open,Disqualified-General,0.0,53
+State Representative,Frank Mooney,IND,WI,Open,Disqualified-General,0.0,91
+State Representative,Jeremy Joseph Ryan,IND,WI,Challenger,Disqualified-General,0.0,76
+State Representative,Matthew Schauenburg,IND,WI,Open,Disqualified-General,0.0,48
+State Representative,Douglas Troy Vlotho,IND,WI,Challenger,Disqualified-General,0.0,59
+State Representative,Anthony Glenn Wickersham,IND,WI,Challenger,Disqualified-General,0.0,45
+State Representative,Troy Halversen,LIB,WI,Open,Disqualified-General,0.0,62
+State Representative,George Meyers,LIB,WI,Challenger,Disqualified-General,0.0,67
+State Representative,Thomas Perry,LIB,WI,Challenger,Disqualified-General,0.0,97
+State Representative,Carl Skalitzky,LIB,WI,Open,Disqualified-General,0.0,79
+State Representative,Dennis Wesenberg,LIB,WI,Open,Disqualified-General,0.0,53
+State Representative,Eric Bahr,PEOPLES PARTY,WI,Challenger,Disqualified-General,0.0,95
+State Representative,William Michael Ingram,REP,WI,Open,Disqualified-Primary,0.0,91
+State Representative,Stephen James Doerr,REPUBLICAN WRITEIN,WI,Challenger,Disqualified-General,0.0,92
+U.S. Representative,Keith Deschler,LIB,WI,Challenger,Lost-General,0.0,1
+U.S. Representative,Dave Heaster,DEM,WI,Challenger,Lost-General,0.0,5
+U.S. Representative,Robert Raymond,IND,WI,Challenger,Lost-General,0.0,4
+U.S. Senator,Joseph Kexel,LIB,WI,Open,Lost-General,0.0,nan
+U.S. Senator,Nimrod Allen Yu III,IDEA,WI,Open,Lost-General,0.0,nan
+State Senator,Terry Virgil,LIB,WI,Challenger,Lost-General,0.0,13

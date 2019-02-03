@@ -1,81 +1,84 @@
 office,candidate,party,state,incumbency,result,total money,district
-Governor,Brian Kemp,REP,GA,Open,Pending,17034613.71,nan
-Governor,Stacey Yvonne Abrams,DEM,GA,Open,Pending,16796004.48,nan
+Governor,Stacey Yvonne Abrams,DEM,GA,Open,Lost,27740647.26,nan
+Governor,Brian Kemp,REP,GA,Open,Won,22390930.71,nan
 Governor,S Cagle,REP,GA,Open,Lost,12034614.06,nan
+U.S. Representative,John Lewis,DEM,GA,Incumbent,Won,3693034.06,5
 Governor,Stacey Godfrey Evans,DEM,GA,Open,Lost,3511508.59,nan
-U.S. Representative,John Lewis,DEM,GA,Incumbent,Won,3244370.64,5
+Lieutenant Governor,Geoffrey Duncan,REP,GA,Open,Won,3310843.74,nan
 Governor,Hunter Bradley Hill,REP,GA,Open,Lost,3234750.54,nan
-Governor,Clay Tippins,REP,GA,Open,Lost,3169720.81,nan
+Governor,Clay Tippins,REP,GA,Open,Lost,3169645.81,nan
+Secretary Of State,John Jenkins Barrow,DEM,GA,Open,Lost,3025453.18,nan
 Lieutenant Governor,David Shafer,REP,GA,Open,Lost,2928222.64,nan
-Lieutenant Governor,Geoffrey Duncan,REP,GA,Open,Won,2251096.74,nan
-U.S. Representative,Earl Leroy Carter,REP,GA,Incumbent,Won,2187683.29,1
-Insurance Commissioner,Claude Jimmy Beck Sr.,REP,GA,Open,Won,2053920.07,nan
-U.S. Representative,John Thomas Graves Jr.,REP,GA,Incumbent,Won,1957071.94,14
-Attorney General,Christopher Carr,REP,GA,Incumbent,Won,1928632.56,nan
-Secretary Of State,Bradford Jay Raffensperger,REP,GA,Open,Pending,1905905.8,nan
+U.S. Representative,Carolyn Bourdeaux,DEM,GA,Challenger,Lost,2751023.21,7
+Secretary Of State,Bradford Jay Raffensperger,REP,GA,Open,Won,2683740.8,nan
+U.S. Representative,Lucy McBath,DEM,GA,Challenger,Won,2609790.39,6
+Attorney General,Christopher Carr,REP,GA,Incumbent,Won,2437948.56,nan
+Insurance Commissioner,Claude Jimmy Beck Sr.,REP,GA,Open,Won,2306511.07,nan
+U.S. Representative,John Thomas Graves Jr.,REP,GA,Incumbent,Won,2046009.68,14
 Governor,Michael Williams,REP,GA,Open,Lost,1826055.35,nan
+U.S. Representative,Earl Leroy Carter,REP,GA,Incumbent,Won,1811931.95,1
+U.S. Representative,Karen Christine Handel,REP,GA,Incumbent,Lost,1780638.69,6
+Public Service Commissioner District 003,Lindy Miller,DEM,GA,Challenger,Lost,1692530.12,nan
 Lieutenant Governor,Sarah Lynn Riggs Amico,DEM,GA,Open,Lost,1500602.68,nan
 U.S. Representative,David Kim,DEM,GA,Open,Lost,1494090.37,7
-Secretary Of State,John Jenkins Barrow,DEM,GA,Open,Pending,1400833.18,nan
-U.S. Representative,Carolyn Bourdeaux,DEM,GA,Challenger,Pending,1383776.64,7
-U.S. Representative,Douglas Collins,REP,GA,Incumbent,Won,1309691.85,9
-U.S. Representative,Anderson Ferguson IV,REP,GA,Incumbent,Won,1179105.6,3
-U.S. Representative,William Robert Woodall,REP,GA,Incumbent,Pending,1092321.68,7
-U.S. Representative,Sanford Bishop Jr.,DEM,GA,Incumbent,Won,1080924.11,2
-Public Service Commissioner District 003,Lindy Miller,DEM,GA,Challenger,Pending,1055536.12,nan
-U.S. Representative,David Scott,DEM,GA,Incumbent,Won,1035058.44,13
-U.S. Representative,Richard Allen,REP,GA,Incumbent,Won,1027841.75,12
+U.S. Representative,Douglas Collins,REP,GA,Incumbent,Won,1405190.16,9
+U.S. Representative,Anderson Ferguson IV,REP,GA,Incumbent,Won,1252609.6,3
+U.S. Representative,William Robert Woodall,REP,GA,Incumbent,Won,1236599.68,7
+U.S. Representative,Richard Allen,REP,GA,Incumbent,Won,1120613.75,12
+U.S. Representative,Sanford Bishop Jr.,DEM,GA,Incumbent,Won,1118195.63,2
+U.S. Representative,David Scott,DEM,GA,Incumbent,Won,1099624.15,13
 Lieutenant Governor,Richard Jeffares Jr.,REP,GA,Open,Lost,993289.78,nan
-Supreme Court-Open Seat,John Ellington,IND,GA,Open,Won,969096.35,nan
 State Representative,David Ralston,REP,GA,Incumbent,Won,959231.44,7
-Insurance Commissioner,William Jason Florence,REP,GA,Open,Lost,857300.3,nan
+Attorney General,Charles Curtis Bailey,DEM,GA,Challenger,Lost,915884.93,nan
+Insurance Commissioner,William Jason Florence,REP,GA,Open,Lost,854800.3,nan
 U.S. Representative,Kevin Abel,DEM,GA,Open,Lost,852113.2,6
-U.S. Representative,James Austin Scott,REP,GA,Incumbent,Won,794028.5,8
-U.S. Representative,Barry Loudermilk,REP,GA,Incumbent,Won,768250.45,11
-Attorney General,Charles Curtis Bailey,DEM,GA,Challenger,Lost,753869.3,nan
+U.S. Representative,Barry Loudermilk,REP,GA,Incumbent,Won,845420.45,11
+U.S. Representative,James Austin Scott,REP,GA,Incumbent,Won,824328.5,8
 Appellate Court-Open Seat,Ken Hodges,IND,GA,Open,Won,749497.74,nan
 Secretary Of State,David Belle Isle,REP,GA,Open,Lost,747748.19,nan
-U.S. Representative,Jody Brownlow Hice,REP,GA,Incumbent,Won,640138.3,10
+U.S. Representative,Jody Brownlow Hice,REP,GA,Incumbent,Won,667568.3,10
 U.S. Representative,Robert Kaple,DEM,GA,Open,Lost,623167.97,6
 Appellate Court-Open Seat,Kenneth Shigley,IND,GA,Open,Lost,622804.14,nan
-Agriculture Commissioner,Sean McGary,REP,GA,Incumbent,Won,576502.0,nan
-Public Service Commissioner District 005,Tricia Pridemore,REP,GA,Incumbent,Won,490557.72,nan
-State Senator,Greg Dolezal,REP,GA,Open,Won,438403.98,27
+Agriculture Commissioner,Gary Ward Black,REP,GA,Incumbent,Won,576502.0,nan
+Supreme Court-Open Seat,John Ellington,IND,GA,Open,Won,549204.35,nan
+U.S. Representative,Henry Johnson,DEM,GA,Incumbent,Won,477255.19,4
+State Senator,Greg Dolezal,REP,GA,Open,Won,466353.98,27
 U.S. Representative,Ethan Pham,DEM,GA,Open,Lost,430518.88,7
-U.S. Representative,Henry Johnson,DEM,GA,Incumbent,Won,427164.97,4
 State Senator,Cecil Terrell Miller,REP,GA,Incumbent,Won,390928.0,49
-State Senator,William Fielder,REP,GA,Open,Lost,367667.6,27
 State Senator,Jeff Mullis,REP,GA,Incumbent,Won,360616.32,53
 Insurance Commissioner,Cynthia Zeldin,DEM,GA,Open,Lost,355696.75,nan
+State Senator,William Fielder,REP,GA,Open,Lost,341492.6,27
+Public Service Commissioner District 003,Chuck Eaton,REP,GA,Incumbent,Won,340273.0,nan
 Public Service Commissioner District 003,John Noel,DEM,GA,Open,Lost,321580.4,nan
-State Representative,Brett Harrell,REP,GA,Incumbent,Pending,315538.27,106
+State Representative,Brett Harrell,REP,GA,Incumbent,Won,315538.27,106
 Secretary Of State,Joshua Robert McKoon,REP,GA,Open,Lost,296285.09,nan
 Supreme Court-Boggs Seat,Michael Boggs,IND,GA,Incumbent,Won,295707.25,nan
-State Senator,Brian Tam,REP,GA,Open,Lost,282421.34,27
 State Senator,Leah Aldridge,REP,GA,Challenger,Lost,274770.0,6
+U.S. Representative,Francys Johnson,DEM,GA,Challenger,Lost,269529.98,12
+Public Service Commissioner District 005,Tricia Pridemore,REP,GA,Incumbent,Won,265309.72,nan
 State Senator,John Gordon,REP,GA,Open,Lost,254375.0,6
 State Senator,Zahra Karinshak,DEM,GA,Open,Won,232100.54,48
+State Senator,William Cowsert,REP,GA,Incumbent,Won,230675.0,46
 State Representative,Jon Burns,REP,GA,Incumbent,Won,222859.07,159
+U.S. Representative,Lisa Ring,DEM,GA,Challenger,Lost,218363.31,1
 State Representative,Deborah Silcox,REP,GA,Incumbent,Won,200587.77,52
-U.S. Representative,Lisa Ring,DEM,GA,Challenger,Lost,200016.8,1
 State Senator,Sally Harrell,DEM,GA,Challenger,Won,199211.56,40
-State Representative,Shane Mobley,REP,GA,Open,Lost,197144.37,141
-State Representative,Alex Kaufman,REP,GA,Open,Lost,194910.91,51
+State Representative,Shane Mobley,REP,GA,Open,Lost,196644.37,141
 State Senator,Matt Reeves,REP,GA,Open,Lost,191633.0,48
 State Representative,Kelly Leigh Stewart,REP,GA,Open,Lost,188540.0,50
 State Senator,Franklin Joseph Ginn,REP,GA,Incumbent,Won,187647.0,47
 State Representative,Jan Jones,REP,GA,Incumbent,Won,182301.0,47
 State Representative,Michael Wilensky,DEM,GA,Open,Won,180626.0,79
+State Senator,Brian Tam,REP,GA,Open,Lost,178548.17,27
 State Representative,Kevin Kermit Tanner,REP,GA,Incumbent,Won,170547.4,9
-State Senator,William Cowsert,REP,GA,Incumbent,Won,166850.0,46
+State Representative,Sharon Cooper,REP,GA,Incumbent,Won,168184.32,43
+State Representative,Christian Coomer,REP,GA,Incumbent,Withdrew,164387.09,14
 State Senator,Stephen Gooch,REP,GA,Incumbent,Won,161389.85,51
 State Representative,Richard Smith,REP,GA,Incumbent,Won,161150.0,134
 State Senator,William Burton Jones,REP,GA,Incumbent,Won,159520.0,25
+State Representative,Alex Kaufman,REP,GA,Open,Lost,156711.91,51
 State Representative,Terry Lamar England,REP,GA,Incumbent,Won,154101.0,116
-State Representative,Christian Coomer,REP,GA,Incumbent,Withdrew,153887.09,14
 State Senator,Tyler Harper,REP,GA,Incumbent,Won,153600.0,7
-State Representative,Jen Slipakoff,DEM,GA,Open,Lost,149068.91,36
-Public Service Commissioner District 003,Chuck Eaton,REP,GA,Incumbent,Pending,148950.0,nan
 State Senator,Blake Tillery,REP,GA,Incumbent,Won,148721.12,19
 State Representative,Johnnie Caldwell Jr.,REP,GA,Incumbent,Lost,147185.0,131
 State Representative,James Matthew Hatchett,REP,GA,Incumbent,Won,144460.0,150
@@ -84,61 +87,69 @@ State Senator,Francis Millar,REP,GA,Incumbent,Lost,143024.05,40
 State Representative,John Meadows,REP,GA,Incumbent,Won,141599.0,5
 State Senator,Brandon Beach,REP,GA,Incumbent,Won,141250.0,21
 State Representative,Hugh Brewster Williamson III,REP,GA,Incumbent,Won,139175.47,115
-State Representative,Sharon Cooper,REP,GA,Incumbent,Won,138034.32,43
+State Representative,Becky Evans,DEM,GA,Open,Won,138407.0,83
 State Senator,John Kennedy,REP,GA,Incumbent,Won,137406.67,18
 State Senator,Renee Unterman,REP,GA,Incumbent,Won,136590.0,45
 State Representative,Robert Trammell Jr.,DEM,GA,Incumbent,Won,135395.0,132
-State Representative,Becky Evans,DEM,GA,Open,Won,134874.0,83
 State Senator,Jack Hill,REP,GA,Incumbent,Won,134437.0,4
 State Senator,Stephen Bradley Henson,DEM,GA,Incumbent,Won,133380.0,41
 Supreme Court-Grant Seat,Britt Grant,IND,GA,Incumbent,Won,133338.89,nan
 Appellate Court-Dillard Seat,Stephen Dillard,IND,GA,Incumbent,Won,132994.22,nan
-State Representative,Shelly Hutchinson,DEM,GA,Open,Won,132705.37,107
 State Senator,Jennifer Jordan,DEM,GA,Incumbent,Won,131053.0,6
 State Representative,P Efstration,REP,GA,Incumbent,Won,128332.32,104
+State Representative,Ginny Ehrhart,REP,GA,Open,Won,126850.0,36
+State Representative,Barry Fleming,REP,GA,Incumbent,Won,125345.72,121
 State Representative,William Werkheiser,REP,GA,Incumbent,Won,125185.0,157
+State Representative,John Carson,REP,GA,Incumbent,Won,124793.9,46
 State Senator,Kenneth Dean Burke,REP,GA,Incumbent,Won,122420.0,11
 State Representative,Vance Smith,REP,GA,Open,Won,120123.0,133
+State Representative,Scott Hilton,REP,GA,Incumbent,Lost,119415.18,95
 State Representative,Jere Wood,REP,GA,Challenger,Lost,119219.0,48
 State Senator,K Martin IV,REP,GA,Incumbent,Won,109611.0,9
 State Representative,Dominic Lariccia,REP,GA,Incumbent,Won,107965.0,169
-State Senator,Matt Brass,REP,GA,Incumbent,Won,105380.0,28
+State Representative,Emory Dunahoo Jr.,REP,GA,Incumbent,Won,106200.48,30
+State Representative,Deborah Gonzalez,DEM,GA,Incumbent,Lost,105892.02,117
 State Representative,Alfred Powell Jr.,REP,GA,Incumbent,Won,105350.0,171
+State Senator,Matt Brass,REP,GA,Incumbent,Won,105130.0,28
 Supreme Court-Peterson Seat,Nels Peterson,IND,GA,Incumbent,Won,103040.86,nan
 State Senator,Maurice Harbin Jr.,REP,GA,Incumbent,Won,102869.0,16
+U.S. Representative,Richard Dien Winfield,DEM,GA,Open,Lost,102025.65,10
 U.S. Representative,Chalis Pomeroy Montgomery,DEM,GA,Open,Lost,101606.0,10
-State Representative,Sean McGary,REP,GA,Open,Lost,101000.0,141
+State Representative,Gary Bechtel,REP,GA,Open,Lost,101000.0,141
 State Representative,David Knight,REP,GA,Incumbent,Won,100575.0,130
 State Representative,Lee Hawkins Jr.,REP,GA,Incumbent,Won,97525.0,27
 State Representative,D Kelley,REP,GA,Incumbent,Won,97420.0,16
 State Representative,Matthew Wilson,DEM,GA,Challenger,Won,97135.03,80
-State Representative,Betty Price,REP,GA,Incumbent,Pending,96867.0,48
+State Representative,Betty Price,REP,GA,Incumbent,Lost,96867.0,48
 State Senator,Charles Hufstetler,REP,GA,Incumbent,Won,96225.0,52
-State Representative,Emory Dunahoo Jr.,REP,GA,Incumbent,Won,96100.48,30
-State Representative,Ginny Ehrhart,REP,GA,Open,Won,96100.0,36
 State Representative,Matt Bentley,REP,GA,Open,Lost,95660.74,40
 State Senator,John Wilkinson,REP,GA,Incumbent,Won,95434.94,50
 State Representative,John Lahood,REP,GA,Incumbent,Won,94560.0,175
 State Senator,Robert Brian Strickland,REP,GA,Incumbent,Won,93094.3,17
+State Representative,Jen Slipakoff,DEM,GA,Open,Lost,92549.91,36
+State Representative,Katie Dempsey,REP,GA,Incumbent,Won,90943.0,13
 State Senator,Chuck Payne,REP,GA,Incumbent,Won,90277.0,54
 State Representative,Calvin Smyre,DEM,GA,Incumbent,Won,89165.0,135
 State Representative,Dale Washburn,REP,GA,Open,Won,88925.0,141
 State Representative,Steven Meeks,REP,GA,Open,Won,88829.0,178
-State Representative,Barry Fleming,REP,GA,Incumbent,Won,87344.38,121
 State Representative,Alan Powell,REP,GA,Incumbent,Won,87200.0,32
 State Senator,Larry Walker,REP,GA,Incumbent,Won,86571.0,20
-State Representative,John Carson,REP,GA,Incumbent,Won,86143.9,46
 State Representative,Houston Gaines,REP,GA,Challenger,Won,85525.0,117
 Superintendent Of Public Instruction,Otha Edward Thornton Jr.,DEM,GA,Challenger,Lost,84709.84,nan
 State Representative,Greg Morris,REP,GA,Incumbent,Won,84550.0,156
+State Representative,Shelly Hutchinson,DEM,GA,Open,Won,83518.37,107
+State Representative,Clay Cox,REP,GA,Incumbent,Lost,83225.0,108
 Superintendent Of Public Instruction,John Barge,REP,GA,Challenger,Lost,82773.18,nan
+State Representative,Jesse Petrea,REP,GA,Incumbent,Won,81885.0,166
+State Representative,Matt Dubnik,REP,GA,Incumbent,Won,81842.58,29
+U.S. Representative,Joe Profit,REP,GA,Challenger,Lost,81618.47,4
 State Representative,Paulette Rakestraw Braddock,REP,GA,Incumbent,Lost,80083.0,19
 State Representative,Matthew Gambill,REP,GA,Open,Won,79639.0,15
 State Representative,Darrel Ealum,DEM,GA,Incumbent,Lost,77425.0,153
-State Representative,Jesse Petrea,REP,GA,Incumbent,Won,74260.0,166
+State Representative,Robert Dickey III,REP,GA,Incumbent,Won,77410.0,140
+State Senator,Michael Dugan,REP,GA,Incumbent,Won,76455.27,30
 State Representative,Dale Rutledge,REP,GA,Incumbent,Won,73659.0,109
 State Representative,Beth Beskin,REP,GA,Incumbent,Lost,72917.0,54
-State Representative,Robert Dickey III,REP,GA,Incumbent,Won,72460.0,140
 State Representative,James Slaton Shaw Jr.,REP,GA,Incumbent,Won,72450.0,176
 State Representative,Aisha Yaqoob,DEM,GA,Open,Lost,72301.75,97
 State Representative,Trey Rhodes,REP,GA,Incumbent,Won,72126.85,120
@@ -149,66 +160,68 @@ State Representative,Shaw Blackmon,REP,GA,Incumbent,Won,70090.0,146
 Appellate Court-Mercier Seat,Amanda Mercier,IND,GA,Incumbent,Won,70019.0,nan
 Public Service Commissioner District 005,Doug Stoner,DEM,GA,Open,Lost,69750.0,nan
 State Representative,Jessica Walden,DEM,GA,Open,Lost,69637.0,144
-State Representative,Scott Hilton,REP,GA,Incumbent,Lost,68830.18,95
 State Representative,Josh Bonner,REP,GA,Incumbent,Won,68491.0,72
 Superintendent Of Public Instruction,Sid Chapman,DEM,GA,Open,Lost,68094.83,nan
 State Representative,David Barnett,REP,GA,Open,Lost,67425.64,17
+U.S. Representative,Eugene Chin Yu,REP,GA,Challenger,Lost,67410.0,12
+State Senator,Gail Paulette Davenport,DEM,GA,Incumbent,Won,66577.79,44
 U.S. Representative,Melissa Davis,DEM,GA,Open,Lost,66442.42,7
 State Representative,Bonnie Rich,REP,GA,Open,Won,66001.0,97
 State Senator,William Ligon Jr.,REP,GA,Incumbent,Won,65707.0,3
 State Senator,Bruce Thompson,REP,GA,Incumbent,Won,65705.0,14
 State Representative,Mickey Cummings,REP,GA,Challenger,Lost,65440.12,8
-State Senator,Gail Paulette Davenport,DEM,GA,Incumbent,Won,65377.79,44
 State Senator,L Watson,REP,GA,Incumbent,Won,64400.0,1
 State Representative,Martin Momtahan,REP,GA,Open,Won,64140.0,17
-State Representative,Mary Robichaux,DEM,GA,Challenger,Pending,63225.18,48
+State Representative,David Dreyer,DEM,GA,Incumbent,Won,64139.0,59
+State Representative,Mark Newton,REP,GA,Incumbent,Won,63370.0,123
+State Representative,Mary Robichaux,DEM,GA,Challenger,Won,63225.18,48
 Appellate Court-Rickman Seat,Brian Rickman,IND,GA,Incumbent,Won,63183.0,nan
-State Representative,Chris Erwin,REP,GA,Open,Pending,62785.0,28
+U.S. Representative,Joshua Braxton McCall,DEM,GA,Challenger,Lost,63148.51,9
+State Representative,Chris Erwin,REP,GA,Open,Disqualified,62785.0,28
+State Representative,Heath Clark,REP,GA,Incumbent,Won,61770.0,147
 State Representative,Meagan Hanson,REP,GA,Incumbent,Lost,61655.34,80
-State Senator,Michael Dugan,REP,GA,Incumbent,Won,61405.27,30
 State Senator,Nancy Grogan Orrock,DEM,GA,Incumbent,Won,61398.29,36
 State Representative,Josh McLaurin,DEM,GA,Open,Won,61158.51,51
 State Representative,Terrell Rogers,REP,GA,Incumbent,Won,61096.16,10
 State Representative,Samuel Teasley,REP,GA,Incumbent,Lost,61025.0,37
 State Senator,Randy Robertson,REP,GA,Open,Won,59680.66,29
-State Representative,Clay Cox,REP,GA,Incumbent,Lost,59500.0,108
 State Representative,Jason Chauncey Spencer,REP,GA,Incumbent,Lost,59170.28,180
 State Representative,Samuel Park,DEM,GA,Incumbent,Won,59079.85,101
-U.S. Representative,Joshua Braxton McCall,DEM,GA,Challenger,Lost,58355.13,9
 State Representative,Jan Tankersley,REP,GA,Incumbent,Won,58335.0,160
 State Representative,Angelika Kausche,DEM,GA,Open,Won,58200.88,50
 State Representative,Matt Gurtler,REP,GA,Incumbent,Won,57871.31,8
-State Representative,Robert Daniel Gasaway,REP,GA,Incumbent,Lost,57750.0,28
+State Representative,Robert Daniel Gasaway,REP,GA,Incumbent,Disqualified,57750.0,28
 Insurance Commissioner,Tracy Jordan,REP,GA,Open,Lost,56971.6,nan
 U.S. Representative,Shane Hazel,REP,GA,Challenger,Lost,56782.57,7
 State Representative,Luisa Wakeman,DEM,GA,Challenger,Lost,56358.36,43
 State Representative,Taryn Bowman,REP,GA,Open,Lost,55860.0,40
 State Senator,Lester Jackson III,DEM,GA,Incumbent,Won,55550.0,2
 State Representative,Evelyn Ratigan Smith,REP,GA,Incumbent,Won,55459.9,70
+U.S. Representative,Charles Joseph Enderlin Jr.,DEM,GA,Challenger,Lost,55450.54,3
 State Representative,Andrew Welch III,REP,GA,Incumbent,Won,55325.0,110
 State Representative,Don Parsons,REP,GA,Incumbent,Won,54200.0,44
 State Representative,Albert Reeves,REP,GA,Incumbent,Won,54176.0,34
 State Representative,Donna Sheldon,REP,GA,Open,Lost,54030.58,105
 Lieutenant Governor,Triana Arnold James,DEM,GA,Open,Lost,52441.36,nan
 Appellate Court-Miller Seat,Yvette Miller,IND,GA,Incumbent,Won,52053.0,nan
-State Representative,Matt Dubnik,REP,GA,Incumbent,Won,51650.18,29
 State Representative,Michele Henson,DEM,GA,Incumbent,Won,51545.0,86
 State Representative,Larry Parrish,REP,GA,Incumbent,Won,50600.0,158
 State Senator,Tricia Stearns,REP,GA,Challenger,Lost,50513.0,16
+State Representative,Ellen Diehl,REP,GA,Challenger,Lost,50111.9,81
 Secretary Of State,Dorothea Dee Dawkins-Haigler,DEM,GA,Open,Lost,49600.0,nan
 Appellate Court-Bethel Seat,Charles Bethel,IND,GA,Incumbent,Won,48875.0,nan
 State Representative,Mary Frances Williams,DEM,GA,Challenger,Won,48795.98,37
 State Representative,Scott Holcomb,DEM,GA,Incumbent,Won,48786.0,81
+U.S. Representative,Flynn Broady Jr.,DEM,GA,Challenger,Lost,48650.09,11
+State Representative,Matthew Dollar,REP,GA,Incumbent,Won,48231.36,45
 U.S. Representative,Steven Reilly,DEM,GA,Open,Lost,47342.66,7
 State Representative,Robin Mauck,REP,GA,Open,Lost,47296.99,105
 State Representative,Steven Sainz,REP,GA,Open,Won,47054.4,180
-U.S. Representative,Charles Joseph Enderlin Jr.,DEM,GA,Challenger,Lost,46960.57,3
 State Representative,Erick Allen,DEM,GA,Open,Won,46933.18,40
 State Representative,Eugene Ed Rynders,REP,GA,Incumbent,Won,46685.0,152
 State Representative,Ken Wright,REP,GA,Open,Lost,46191.0,79
 State Representative,Ken Pullin,REP,GA,Open,Won,46184.1,131
 State Representative,Betsy Holland,DEM,GA,Challenger,Won,45608.0,54
-State Representative,Katie Dempsey,REP,GA,Incumbent,Won,45307.0,13
 State Senator,Lindsey Tippins,REP,GA,Incumbent,Won,45250.0,37
 State Representative,William Boddie Jr.,DEM,GA,Incumbent,Won,44358.46,62
 State Representative,Park Cannon,DEM,GA,Incumbent,Won,44142.53,58
@@ -216,37 +229,36 @@ State Representative,Robert Todd Jones,REP,GA,Incumbent,Won,43900.18,25
 State Representative,Jodi Lott,REP,GA,Incumbent,Won,43650.0,122
 State Representative,Shea Roberts,DEM,GA,Challenger,Lost,43347.95,52
 State Senator,Valencia Seay,DEM,GA,Incumbent,Won,43195.42,34
+State Representative,Michael Cheokas,REP,GA,Open,Won,42847.0,138
 State Representative,Franklin Rozier,REP,GA,Open,Lost,42246.0,178
 State Senator,Mike Glanton Jr.,DEM,GA,Challenger,Lost,41950.0,35
 State Representative,Carolyn Hugley,DEM,GA,Incumbent,Won,40892.0,136
 State Senator,Ellis Black,REP,GA,Incumbent,Won,40250.0,8
 U.S. Representative,Michael Trenton Nesmith,DEM,GA,Open,Lost,39939.03,12
 Insurance Commissioner,Janice Laws,DEM,GA,Open,Lost,39912.76,nan
+U.S. Representative,Dave Cooper,DEM,GA,Open,Lost,39784.49,9
 State Representative,Kipper Tabb,REP,GA,Open,Lost,39214.0,97
 State Senator,Gregory Kirk,REP,GA,Incumbent,Won,38775.0,13
 State Representative,Paula Hastings,REP,GA,Open,Lost,38557.14,102
 State Representative,Thomas McCall,REP,GA,Incumbent,Won,38550.0,33
-State Representative,Ellen Diehl,REP,GA,Challenger,Lost,38371.9,81
+State Representative,Pamela Dickerson,DEM,GA,Incumbent,Won,38114.45,113
 State Representative,Joseph Gullett,REP,GA,Open,Won,38056.42,19
 State Representative,Douglas Chanco,REP,GA,Open,Lost,37545.0,50
-State Representative,Deborah Gonzalez,DEM,GA,Incumbent,Lost,37510.7,117
 State Representative,Richard Jasperse,REP,GA,Incumbent,Won,37150.0,11
-State Representative,Pamela Dickerson,DEM,GA,Incumbent,Won,36434.2,113
 State Representative,Thomas Benton Sr.,REP,GA,Incumbent,Won,36297.0,31
 State Representative,Geoffrey Cauble,REP,GA,Incumbent,Lost,36250.0,111
 State Representative,Joanna Cloud,REP,GA,Challenger,Lost,36171.29,24
-State Representative,Mark Newton,REP,GA,Incumbent,Won,35920.0,123
 State Representative,Kim Schofield,DEM,GA,Incumbent,Won,35905.0,60
 State Senator,Kay Kirkpatrick,REP,GA,Incumbent,Won,35850.0,32
 State Representative,Thomas Gray,REP,GA,Open,Lost,35596.85,36
 State Senator,Ed Harbison,DEM,GA,Incumbent,Won,35224.78,15
 State Senator,Lee Anderson,REP,GA,Incumbent,Won,35000.0,24
 State Senator,Gloria Butler,DEM,GA,Incumbent,Won,34105.0,55
-State Representative,Matthew Dollar,REP,GA,Incumbent,Won,34038.0,45
 State Senator,Elena Parent,DEM,GA,Incumbent,Won,33745.0,42
 State Representative,Karen Sandiford,DEM,GA,Challenger,Lost,33679.32,46
 State Representative,Brenda Lopez Romero,DEM,GA,Incumbent,Won,33534.63,99
 State Representative,James Eddie Lumsden,REP,GA,Incumbent,Won,33415.0,12
+State Representative,Karen Mathiak,REP,GA,Incumbent,Won,33295.43,73
 State Senator,Horacena Tate,DEM,GA,Incumbent,Won,33100.0,38
 State Representative,Jonathan Wallace,DEM,GA,Incumbent,Lost,32904.54,119
 Labor Commissioner,John Mark Butler,REP,GA,Incumbent,Won,32900.0,nan
@@ -256,27 +268,29 @@ State Representative,Brian Prince,DEM,GA,Incumbent,Won,32625.0,127
 State Representative,Jozmond Black,DEM,GA,Challenger,Lost,32419.01,60
 State Senator,David Lucas Sr.,DEM,GA,Incumbent,Won,32250.0,26
 State Senator,Marisue Hilliard,DEM,GA,Challenger,Lost,32249.95,46
+State Representative,Jasmine Clark,DEM,GA,Challenger,Won,31237.07,108
+State Representative,John Corbett,REP,GA,Incumbent,Won,30800.0,174
 State Representative,Charles Martin Jr.,REP,GA,Incumbent,Won,30700.0,49
 State Representative,Marcus Wiedower,REP,GA,Challenger,Won,30250.0,119
 State Representative,William Hitchens Jr.,REP,GA,Incumbent,Won,29690.0,161
 State Senator,Jesse Stone,REP,GA,Incumbent,Won,28750.0,23
 State Representative,Lillian Penelope Houston,REP,GA,Incumbent,Won,28725.0,170
 State Representative,Bryan Dobbs,REP,GA,Challenger,Lost,28536.0,19
+State Representative,Valerie Clark,REP,GA,Challenger,Lost,28510.0,101
 Labor Commissioner,Richard Keatley,DEM,GA,Challenger,Lost,28314.0,nan
+State Representative,Gloria Frazier,DEM,GA,Incumbent,Won,27735.0,126
+State Representative,Dewayne Hill,REP,GA,Incumbent,Won,27663.9,3
 State Representative,Michael Eugene Glanton Sr.,DEM,GA,Incumbent,Won,27600.0,75
 State Representative,Mable Mable) Thomas,DEM,GA,Incumbent,Won,27333.5,56
-State Representative,Derrick Jackson,DEM,GA,Incumbent,Won,27287.6,64
-State Representative,C Belton,REP,GA,Incumbent,Won,27274.0,112
 State Representative,Donna McLeod,DEM,GA,Open,Won,27052.23,105
 State Representative,Darlene Taylor,REP,GA,Incumbent,Won,27000.0,173
 State Representative,John Deffenbaugh,REP,GA,Incumbent,Lost,26950.0,1
+State Representative,Demetrius Douglas,DEM,GA,Incumbent,Won,26681.37,78
 State Senator,Sheikh Rahman,DEM,GA,Open,Won,26600.0,5
-State Representative,Michael Cheokas,REP,GA,Open,Won,26347.0,138
 State Representative,Todd Tolbert,REP,GA,Open,Lost,26232.32,141
-State Representative,David Dreyer,DEM,GA,Incumbent,Won,26099.0,59
-State Representative,Demetrius Douglas,DEM,GA,Incumbent,Won,25600.0,78
 State Representative,Essence Johnson,DEM,GA,Challenger,Lost,25133.9,45
 State Representative,Bardin Hooks,DEM,GA,Open,Lost,25047.0,138
+State Representative,Derrick Jackson,DEM,GA,Incumbent,Won,24413.6,64
 State Representative,Margaret Williamson,REP,GA,Challenger,Lost,24281.71,7
 State Senator,Donzella James,DEM,GA,Incumbent,Won,24125.51,35
 State Representative,Susan Holmes,REP,GA,Incumbent,Won,24039.0,129
@@ -284,10 +298,12 @@ State Representative,Dan Berschinski,DEM,GA,Open,Lost,23725.0,54
 State Representative,Twitty Titus,DEM,GA,Challenger,Lost,23666.48,173
 State Representative,Earnest Williams,DEM,GA,Incumbent,Lost,23575.44,87
 State Representative,Samuel Watson,REP,GA,Incumbent,Won,23550.0,172
+State Representative,Jason Ridley,REP,GA,Incumbent,Won,23500.0,6
+U.S. Representative,Tabitha Johnson-Green,DEM,GA,Challenger,Lost,23198.07,10
+State Representative,Ricky Williams,REP,GA,Incumbent,Won,23195.0,145
 State Representative,Julie Jordan,DEM,GA,Challenger,Lost,23061.55,179
-State Representative,Ricky Williams,REP,GA,Incumbent,Won,22945.0,145
 State Senator,Ellyn Jeager,DEM,GA,Challenger,Lost,22799.18,56
-State Representative,Karen Mathiak,REP,GA,Incumbent,Won,22584.85,73
+U.S. Representative,Herman West Jr.,REP,GA,Challenger,Lost,22549.0,2
 State Representative,B Jones,REP,GA,Incumbent,Won,22507.52,167
 State Senator,Evan Ross,DEM,GA,Challenger,Lost,21977.5,52
 State Senator,Tonya Anderson,DEM,GA,Incumbent,Won,21852.4,43
@@ -295,15 +311,12 @@ State Representative,Miriam Lucas Paris,DEM,GA,Incumbent,Won,21835.0,142
 State Representative,Spencer Frye,DEM,GA,Incumbent,Won,21825.0,118
 State Representative,Indran Krishnan,REP,GA,Open,Lost,21801.0,97
 Labor Commissioner,Fred Quinn,DEM,GA,Open,Lost,21795.0,nan
+State Senator,Andy Clark,DEM,GA,Challenger,Lost,21619.0,37
 State Senator,Scott Tidwell,REP,GA,Challenger,Lost,21553.38,54
-State Representative,John Corbett,REP,GA,Incumbent,Won,21550.0,174
 State Representative,Gerald Greene,REP,GA,Incumbent,Won,21525.0,151
-State Representative,Jason Ridley,REP,GA,Incumbent,Won,21250.0,6
-State Representative,Dewayne Hill,REP,GA,Incumbent,Won,21163.9,3
 State Representative,Michael Gravley,REP,GA,Incumbent,Won,21151.0,67
 State Representative,Herschel Smith,REP,GA,Open,Lost,21103.63,138
 State Representative,Carl Gilliard,DEM,GA,Incumbent,Won,21000.0,162
-State Representative,Heath Clark,REP,GA,Incumbent,Won,20950.0,147
 State Senator,Tamara Johnson-Shealey,DEM,GA,Open,Lost,20857.84,40
 State Representative,David Jay Stover,REP,GA,Incumbent,Won,20631.0,71
 State Representative,Howard Mosby,DEM,GA,Incumbent,Lost,20575.0,83
@@ -313,11 +326,14 @@ State Senator,Freddie Powell Sims,DEM,GA,Incumbent,Won,20105.0,12
 State Representative,Deanna Harris,REP,GA,Challenger,Lost,20036.12,41
 State Representative,Denise Gaines-Edmond,DEM,GA,Open,Lost,19916.47,109
 State Senator,William Donald Heath Jr.,REP,GA,Incumbent,Won,19850.0,31
+Secretary Of State,Smythe Duval,LIB,GA,Open,Lost,19779.8,nan
 Superintendent Of Public Instruction,Richard Woods,REP,GA,Incumbent,Won,19630.0,nan
-State Representative,Viola Davis,DEM,GA,Open,Won,19365.0,87
+State Representative,Viola Davis,DEM,GA,Open,Won,19565.0,87
 State Senator,Sandra Workman,DEM,GA,Challenger,Lost,18822.0,1
+State Senator,Christine Triebsch,DEM,GA,Challenger,Lost,18592.08,32
 State Representative,Mandi Ballinger,REP,GA,Incumbent,Won,18425.0,23
 State Senator,Emanuel Jones,DEM,GA,Incumbent,Won,18100.0,10
+State Representative,Doreen Carter,DEM,GA,Incumbent,Won,18086.0,92
 State Representative,Winfred Dukes,DEM,GA,Incumbent,Won,17250.0,154
 State Representative,Krishan Bralley,DEM,GA,Challenger,Lost,17097.0,49
 State Representative,Darshun Kendrick,DEM,GA,Incumbent,Won,17064.0,93
@@ -325,13 +341,14 @@ State Representative,Roger Bruce,DEM,GA,Incumbent,Won,17060.0,61
 State Representative,Dewey McClain,DEM,GA,Incumbent,Won,16953.0,100
 State Representative,Samuel Anders,REP,GA,Challenger,Lost,16928.54,71
 State Representative,Valencia Stovall,DEM,GA,Incumbent,Won,16817.0,74
+State Representative,Karla Lea Drenner,DEM,GA,Incumbent,Won,16600.0,85
 State Representative,Blake Prince,REP,GA,Challenger,Lost,16518.0,109
 State Representative,Beth Moore,DEM,GA,Challenger,Won,16289.72,95
+State Representative,C Belton,REP,GA,Incumbent,Won,16117.0,112
 State Representative,Al Williams,DEM,GA,Incumbent,Won,16000.0,168
-State Representative,Doreen Carter,DEM,GA,Incumbent,Won,15531.0,92
+State Representative,Renitta Shannon,DEM,GA,Incumbent,Won,15579.77,84
 State Representative,Lester Thomas Kirby,REP,GA,Incumbent,Won,15450.0,114
 State Representative,Shelia Edwards,DEM,GA,Challenger,Lost,15365.55,39
-State Representative,Karla Lea Drenner,DEM,GA,Incumbent,Won,15350.0,85
 State Representative,David Clark,REP,GA,Incumbent,Won,15276.55,98
 U.S. Representative,Melvin Russell Oliver,DEM,GA,Open,Lost,15271.18,3
 State Representative,Sharon Beasley-Teague,DEM,GA,Incumbent,Won,15135.63,65
@@ -346,15 +363,12 @@ U.S. Representative,Joseph William Hunt,REP,GA,Challenger,Lost,14050.0,10
 Public Service Commissioner District 005,John Hitchins III,REP,GA,Challenger,Lost,14049.43,nan
 State Senator,Keith Horton,DEM,GA,Challenger,Lost,13900.0,44
 State Representative,David Wilkerson,DEM,GA,Incumbent,Won,13800.0,38
-State Representative,Jasmine Clark,DEM,GA,Challenger,Won,13692.07,108
-State Representative,Gloria Frazier,DEM,GA,Incumbent,Won,13625.0,126
+State Representative,Collins,REP,GA,Incumbent,Won,13759.0,68
 State Representative,Jimmy Pruett Jr.,REP,GA,Incumbent,Won,13600.0,149
 State Representative,Joyce Barlow,DEM,GA,Challenger,Lost,13445.55,151
 State Representative,Regina Lewis-Ward,DEM,GA,Challenger,Lost,13383.0,109
 State Representative,Willie Mack Jackson Sr.,DEM,GA,Incumbent,Won,13325.0,128
-State Representative,Renitta Shannon,DEM,GA,Incumbent,Won,13324.77,84
 State Representative,Samuel Thomas,REP,GA,Challenger,Lost,13301.96,31
-State Representative,Collins,REP,GA,Incumbent,Won,13259.0,68
 State Senator,Harold Jones II,DEM,GA,Incumbent,Won,13150.0,22
 Public Service Commissioner District 005,Dawn Randolph,DEM,GA,Challenger,Lost,13096.53,nan
 State Representative,Mary Margaret Oliver,DEM,GA,Incumbent,Won,12000.0,82
@@ -364,7 +378,9 @@ State Representative,Zach Procter,REP,GA,Open,Lost,11737.96,102
 State Representative,Steven Strickland,REP,GA,Open,Lost,11393.44,119
 State Representative,James Beverly,DEM,GA,Incumbent,Won,11300.0,143
 State Representative,Chinita Allen,DEM,GA,Challenger,Lost,10767.0,44
+U.S. Representative,Bradley Griffin,REP,GA,Challenger,Lost,10750.0,10
 State Representative,Bee Nguyen,DEM,GA,Incumbent,Won,10738.0,89
+State Representative,Sheila Clark Nelson,DEM,GA,Incumbent,Won,10660.0,125
 State Representative,Scott Lecraw,REP,GA,Open,Lost,10551.0,97
 State Senator,Nikema Williams,DEM,GA,Incumbent,Won,10533.0,39
 State Representative,Clay Pirkle,REP,GA,Incumbent,Won,10400.0,155
@@ -378,33 +394,35 @@ State Representative,Ralph Meers,DEM,GA,Open,Lost,9266.75,17
 Secretary Of State,Rakeim Hadley,DEM,GA,Open,Lost,9228.11,nan
 State Representative,Vernon Jones,DEM,GA,Incumbent,Won,9160.0,91
 State Representative,Raymond Ray,REP,GA,Challenger,Lost,9159.53,130
-State Representative,Sheila Clark Nelson,DEM,GA,Incumbent,Won,8910.0,125
+State Representative,Joshua Deriso,DEM,GA,Open,Lost,9077.0,148
 State Representative,Edward Stephens,DEM,GA,Incumbent,Won,8900.0,165
 Agriculture Commissioner,Fred Swann,DEM,GA,Challenger,Lost,8878.08,nan
 State Representative,Charles Hogg,DEM,GA,Challenger,Lost,8850.0,120
 State Representative,Don Hogan,REP,GA,Incumbent,Won,8650.0,179
 State Senator,Melody Totten,DEM,GA,Challenger,Lost,8550.0,34
 State Representative,Patricia Gardner,DEM,GA,Incumbent,Won,8501.0,57
-State Representative,Valerie Clark,REP,GA,Challenger,Lost,8350.0,101
 State Representative,Shawn Allen,DEM,GA,Challenger,Lost,8341.6,99
 State Senator,Bill Lightle,DEM,GA,Challenger,Lost,8305.32,16
 Appellate Court-Reese Seat,Clyde Reese III,IND,GA,Incumbent,Won,8180.0,nan
 State Representative,Delvis William Dutton,REP,GA,Challenger,Lost,8091.76,157
 State Representative,El-Mahdi Holly,DEM,GA,Challenger,Won,8025.0,111
 State Representative,Treva Gear,DEM,GA,Challenger,Lost,7893.36,175
-State Senator,Andy Clark,DEM,GA,Challenger,Lost,7775.0,37
+Public Service Commissioner District 003,Ryan Graham,LIB,GA,Challenger,Lost,7867.07,nan
+U.S. Representative,Steven Knight Griffin,DEM,GA,Open,Lost,7866.56,6
 State Senator,Valerie Haskins,DEM,GA,Open,Lost,7701.09,29
 State Representative,Patty Bentley,DEM,GA,Incumbent,Won,7700.0,139
 State Representative,Michael Caldwell,REP,GA,Incumbent,Won,7694.53,20
+State Representative,Camia Whitaker Hopson,DEM,GA,Open,Won,7450.0,153
 State Representative,Colton Moore,REP,GA,Open,Won,7356.85,1
+State Representative,Kevin Cooke,REP,GA,Incumbent,Won,7250.0,18
 State Representative,Patrick Batubenge,REP,GA,Open,Lost,7250.0,105
 State Representative,Erica Renee Thomas,DEM,GA,Incumbent,Won,6951.0,39
 State Representative,Kellie Pollard Austin,REP,GA,Open,Lost,6833.0,102
+State Representative,Rick Day,DEM,GA,Challenger,Lost,6731.0,7
 State Representative,Scot Turner,REP,GA,Incumbent,Won,6718.0,21
 State Representative,Dean Heard,DEM,GA,Challenger,Lost,6585.0,94
 State Representative,Thomas Stephen Tarvin,REP,GA,Incumbent,Won,6500.0,2
 State Representative,Sandra Scott,DEM,GA,Incumbent,Won,6250.0,76
-Public Service Commissioner District 003,Ryan Graham,LIB,GA,Challenger,Lost,6200.86,nan
 State Senator,Mayo Hadden,REP,GA,Open,Lost,6111.0,29
 State Senator,Cheryle Moses,DEM,GA,Challenger,Lost,5715.5,9
 State Representative,Will Chandler,DEM,GA,Challenger,Lost,5679.0,56
@@ -413,26 +431,28 @@ State Representative,Ken Montano,DEM,GA,Open,Lost,5600.0,107
 State Representative,Tony Barlow,DEM,GA,Challenger,Lost,5550.0,75
 State Representative,Craig Gordon,DEM,GA,Incumbent,Won,5500.0,163
 State Representative,Andrea Stephenson,DEM,GA,Challenger,Lost,5474.0,104
-State Representative,Kevin Cooke,REP,GA,Incumbent,Won,5300.0,18
-State Senator,Christine Triebsch,DEM,GA,Challenger,Lost,4989.18,32
+State Representative,Salvatore Castellana,DEM,GA,Challenger,Lost,5076.0,35
+State Senator,Jerrold Dagen,DEM,GA,Challenger,Lost,4933.85,3
 State Representative,Kimberly Alexander,DEM,GA,Incumbent,Won,4850.0,66
 State Representative,Marc Morris,REP,GA,Incumbent,Won,4850.0,26
 State Representative,Wesley Cantrell,REP,GA,Incumbent,Won,4797.0,22
+U.S. Representative,David Callahan,REP,GA,Challenger,Lost,4775.0,13
 State Senator,Karen Ashley,DEM,GA,Challenger,Lost,4603.0,35
 State Representative,Adam Wynn,DEM,GA,Challenger,Lost,4594.14,23
+State Representative,Phyllis Hightower,DEM,GA,Challenger,Lost,4541.0,143
 State Representative,Cedric King,DEM,GA,Challenger,Lost,4150.0,167
 State Representative,Ragin Edwards,DEM,GA,Open,Lost,4050.0,37
 State Representative,Melanie Whitfield,DEM,GA,Challenger,Lost,4048.97,21
 State Representative,Randall Otis Nix,REP,GA,Incumbent,Won,4000.0,69
 State Senator,Nicole Nash,DEM,GA,Challenger,Lost,3996.68,21
 State Representative,Kyle Rinaudo,DEM,GA,Open,Lost,3994.0,35
+State Representative,Kasey Carpenter,REP,GA,Incumbent,Won,3750.0,4
 State Representative,Mary Kay Bacallao,REP,GA,Challenger,Lost,3722.83,72
 State Representative,Christopher Gyening,REP,GA,Open,Lost,3595.0,133
 State Senator,Sabrina McKenzie,DEM,GA,Challenger,Lost,3550.0,41
 State Representative,Cheyenne Warnock,DEM,GA,Open,Lost,3490.0,144
 State Representative,Joscelyn Oneil,DEM,GA,Challenger,Lost,3465.0,86
 State Representative,Tom Thomason,DEM,GA,Challenger,Lost,3450.0,71
-State Representative,Joshua Deriso,DEM,GA,Open,Lost,3417.0,148
 State Representative,Takosha Swan,REP,GA,Challenger,Lost,3335.0,90
 State Representative,John Burnette II,DEM,GA,Challenger,Lost,3320.0,13
 State Senator,Rachel Kinsey,DEM,GA,Challenger,Lost,3248.0,14
@@ -446,7 +466,6 @@ State Representative,Charles Ravenscraft,DEM,GA,Challenger,Lost,3015.95,22
 State Senator,Curt Thompson,DEM,GA,Incumbent,Lost,2940.0,5
 State Representative,Michael Smith,DEM,GA,Incumbent,Won,2825.0,41
 State Senator,Patrick Thompson,DEM,GA,Open,Lost,2800.0,56
-State Representative,Kasey Carpenter,REP,GA,Incumbent,Won,2750.0,4
 State Representative,Lee Shiver,DEM,GA,Challenger,Lost,2652.85,11
 State Representative,Trey Ennis,REP,GA,Open,Lost,2600.0,144
 State Representative,Fenika Miller,DEM,GA,Challenger,Lost,2593.53,147
@@ -465,20 +484,20 @@ State Representative,Mary Whipple-Lue,DEM,GA,Open,Lost,1845.0,144
 State Representative,Chris Benton,DEM,GA,Open,Lost,1685.18,131
 State Representative,Leonard Gomez,REP,GA,Challenger,Lost,1600.0,132
 State Representative,Rob Harrell,REP,GA,Open,Lost,1442.99,36
-State Representative,Salvatore Castellana,DEM,GA,Challenger,Lost,1425.0,35
 State Representative,Lee Burton,REP,GA,Challenger,Lost,1420.0,156
 State Representative,Andrea Nugent,DEM,GA,Challenger,Lost,1355.0,47
 State Representative,Lillian Burnaman,DEM,GA,Challenger,Lost,1338.01,20
 State Senator,Jana Rodgers,DEM,GA,Challenger,Lost,1334.32,45
-State Senator,Jerrold Dagen,DEM,GA,Challenger,Lost,1271.95,3
 State Representative,Adam Bridges,DEM,GA,Challenger,Lost,1200.0,161
 State Representative,Homer Crothers,REP,GA,Challenger,Lost,1175.0,44
 State Representative,Jackson Williams,REP,GA,Challenger,Lost,1126.0,128
+U.S. Representative,Steven Lamar Foster,DEM,GA,Challenger,Lost,1123.16,14
 State Representative,Greg Odriscoll,DEM,GA,Open,Lost,1107.46,178
 State Representative,John Williams,DEM,GA,Challenger,Lost,1070.0,57
 State Representative,Darryl Terry II,DEM,GA,Challenger,Lost,1040.0,56
 State Senator,Michael Morgan,DEM,GA,Challenger,Lost,1020.0,54
 State Representative,William Mitchell,DEM,GA,Incumbent,Won,1000.0,88
+Insurance Commissioner,Donnie Foster,LIB,GA,Open,Lost,900.0,nan
 State Representative,Gregory Odoms,DEM,GA,Open,Lost,810.95,144
 State Representative,Frank Austin,DEM,GA,Challenger,Lost,800.0,142
 State Representative,Allan Levene,REP,GA,Open,Lost,800.0,15
@@ -487,10 +506,7 @@ State Representative,Mary Egler,DEM,GA,Open,Lost,703.52,152
 State Senator,Nelva Lee,REP,GA,Challenger,Lost,691.63,17
 State Representative,Gregg Kennard,DEM,GA,Open,Won,630.0,102
 State Representative,Marie Robinson Metze,DEM,GA,Incumbent,Won,600.0,55
-State Representative,Rick Day,DEM,GA,Challenger,Lost,506.0,7
-U.S. Representative,Steven Lamar Foster,DEM,GA,Challenger,Lost,332.04,14
 State Representative,Judson McClure,REP,GA,Open,Lost,301.0,97
-U.S. Representative,David Callahan,REP,GA,Challenger,Lost,175.0,13
 State Representative,William Harris,REP,GA,Challenger,Lost,100.0,126
 State Representative,R Bolton,DEM,GA,Open,Lost,0.0,37
 State Representative,Henry Howard,DEM,GA,Incumbent,Won,0.0,124
@@ -499,10 +515,7 @@ State Senator,Ben Anderson,DEM,GA,Open,Lost,0.0,29
 State Representative,Linda Pritchett,DEM,GA,Challenger,Lost,0.0,63
 U.S. Representative,Barbara Seidman,DEM,GA,Open,Lost,0.0,1
 U.S. Representative,Juan Parks,DEM,GA,Challenger,Lost,0.0,4
-State Senator,Phyllis Hatcher,DEM,GA,Open,Lost,0.0,17
-State Representative,El-Mahdi Holly,DEM,GA,Open,Lost,0.0,111
 State Representative,Tarji Leonard Dunn,DEM,GA,Open,Lost,0.0,111
-State Representative,Treva Gear,DEM,GA,Open,Lost,0.0,175
 State Representative,Pat Rhudy,DEM,GA,Challenger,Lost,0.0,18
 State Representative,Nigel Sims,DEM,GA,Open,Lost,0.0,19
 State Representative,Patrick Anderson,DEM,GA,Open,Lost,0.0,30
@@ -514,9 +527,6 @@ State Representative,Tarji Leonard Dunn,DEM,GA,Open,Lost,0.0,111
 State Representative,Darryl Payton,DEM,GA,Open,Lost,0.0,111
 State Representative,Scott Richard,DEM,GA,Challenger,Lost,0.0,123
 State Senator,Jim Guess Jr.,DEM,GA,Open,Lost,0.0,56
-U.S. Representative,Lucy McBath,DEM,GA,Challenger,Pending,0.0,6
-U.S. Representative,Dave Cooper,DEM,GA,Open,Lost,0.0,9
-U.S. Representative,Flynn Broady Jr.,DEM,GA,Challenger,Lost,0.0,11
 U.S. Representative,Robert Ingham,DEM,GA,Open,Lost,0.0,12
 State Representative,Alison Feliciano,DEM,GA,Open,Lost,0.0,19
 State Representative,Sandra Bullock,DEM,GA,Open,Withdrew,0.0,40
@@ -525,40 +535,23 @@ State Representative,Bonnie Clark,DEM,GA,Challenger,Lost,0.0,58
 State Representative,Gregory Shealey,DEM,GA,Challenger,Lost,0.0,90
 State Representative,Tony Scalzitti,DEM,GA,Open,Lost,0.0,102
 State Representative,Sharon Henderson,DEM,GA,Challenger,Lost,0.0,113
-State Representative,Phyllis Hightower,DEM,GA,Challenger,Lost,0.0,143
 State Representative,Marcus Batten,DEM,GA,Challenger,Lost,0.0,152
-State Representative,Camia Whitaker Hopson,DEM,GA,Open,Won,0.0,153
 Public Service Commissioner District 003,Johnny White,DEM,GA,Open,Lost,0.0,nan
 State Senator,Dawn Johnson,DEM,GA,Challenger,Lost,0.0,47
-U.S. Representative,Steven Knight Griffin,DEM,GA,Open,Lost,0.0,6
-U.S. Representative,Tabitha Johnson-Green,DEM,GA,Challenger,Lost,0.0,10
-U.S. Representative,Richard Dien Winfield,DEM,GA,Open,Lost,0.0,10
-U.S. Representative,Francys Johnson,DEM,GA,Challenger,Lost,0.0,12
-Governor,Larry Odom,IND,GA,Open,Pending,0.0,nan
-State Senator,John Fortuin,IND,GA,Challenger,Pending,0.0,46
 State Representative,Nancy Stead,IND,GA,Challenger,Lost,0.0,29
 Governor,Ted Metz,LIB,GA,Open,Lost,0.0,nan
-Insurance Commissioner,Donnie Foster,LIB,GA,Open,Lost,0.0,nan
 Public Service Commissioner District 005,John Turpish,LIB,GA,Challenger,Lost,0.0,nan
-Secretary Of State,Smythe Duval,LIB,GA,Open,Lost,0.0,nan
 Supreme Court-Melton Seat,Harold Melton,IND,GA,Incumbent,Won,0.0,nan
-U.S. Representative,Karen Christine Handel,REP,GA,Incumbent,Pending,0.0,6
-U.S. Representative,Eugene Chin Yu,REP,GA,Challenger,Lost,0.0,12
-State Senator,Robert Brian Strickland,REP,GA,Open,Won,0.0,17
 State Senator,Ed Toney,REP,GA,Open,Lost,0.0,17
-State Senator,Nelva Lee,REP,GA,Open,Lost,0.0,17
-State Representative,Geoffrey Cauble,REP,GA,Open,Won,0.0,111
 State Representative,Bruce Phelps,REP,GA,Open,Lost,0.0,175
 State Representative,Coy Reaves,REP,GA,Open,Lost,0.0,175
-State Representative,Coy Reaves,REP,GA,Challenger,Lost,0.0,175
-State Representative,John Lahood,REP,GA,Open,Won,0.0,175
 State Representative,James W) Morrow Jr.,REP,GA,Challenger,Lost,0.0,39
 State Senator,Annette Davis Jackson,REP,GA,Challenger,Lost,0.0,55
-Governor,Eddie Hayes,REP,GA,Open,Lost,0.0,nan
 State Representative,Tracy Taylor,REP,GA,Open,Lost,0.0,153
 State Senator,Tommy Smith,REP,GA,Challenger,Lost,0.0,34
 State Senator,Scott Howard,REP,GA,Challenger,Lost,0.0,47
-U.S. Representative,Herman West Jr.,REP,GA,Challenger,Lost,0.0,2
-U.S. Representative,Joe Profit,REP,GA,Challenger,Lost,0.0,4
-U.S. Representative,Bradley Griffin,REP,GA,Challenger,Lost,0.0,10
 U.S. Representative,Femi Akinkugbe,REP,GA,Open,Lost,0.0,13
+State Representative,Ken Coomer,REP,GA,Open,Lost,0.0,14
+State Representative,Nickie Leighly,REP,GA,Open,Lost,0.0,14
+State Representative,Mitchell Scoggins,REP,GA,Open,Default Winner,0.0,14
+State Representative,Nathan Wilson,REP,GA,Open,Lost,0.0,14

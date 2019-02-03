@@ -1,0 +1,275 @@
+office,candidate,party,state,incumbency,result,total money,district
+Governor,Kristi Lynn Noem,REP,SD,Open,Won,5819784.11,nan
+Governor,Billie Harmon Sutton,DEM,SD,Open,Lost,2796345.1,nan
+Governor,Marty Jackley,REP,SD,Open,Lost,2546364.88,nan
+U.S. Representative,Dusty Johnson,REP,SD,Open,Won,1672621.11,1
+U.S. Representative,Timothy Bjorkman,DEM,SD,Open,Lost,827432.49,1
+U.S. Representative,Shantel Krebs,REP,SD,Open,Lost,655524.48,1
+U.S. Representative,Neal Tapio,REP,SD,Open,Lost,177010.0,1
+Secretary Of State,Steve Barnett,REP,SD,Open,Won,110848.71,nan
+Attorney General,Jason Ravnsborg,REP,SD,Open,Won,95326.6,nan
+Public Utility Commissioner,Kristie Fiegen,REP,SD,Incumbent,Won,36358.11,nan
+Attorney General,Lance Steven Russell,REP,SD,Open,Lost,32060.0,nan
+State Representative,Sue Peterson,REP,SD,Incumbent,Won,29050.0,13
+Attorney General,John Fitzgerald,REP,SD,Open,Lost,28424.0,nan
+State Representative,Taffy Howard,REP,SD,Incumbent,Won,16655.0,33
+Treasurer,Joshua Haeder,REP,SD,Open,Won,16230.0,nan
+State Representative,David Johnson,REP,SD,Incumbent,Won,14800.0,33
+State Senator,Amanda Scott,REP,SD,Challenger,Lost,12550.0,33
+State Representative,Michael Diedrich,REP,SD,Incumbent,Won,11250.0,34
+State Senator,Bruce Rampelberg,REP,SD,Challenger,Lost,10285.2,30
+State Representative,Kent Peterson,REP,SD,Incumbent,Won,10100.0,19
+State Representative,Melanie Torno,REP,SD,Challenger,Lost,9913.36,33
+State Representative,Michael Boyle,REP,SD,Challenger,Lost,9626.0,19
+State Senator,Deb Soholt,REP,SD,Incumbent,Won,7945.0,14
+State Representative,Jess Olson,REP,SD,Challenger,Won,7055.0,34
+State Representative,Jon Hansen,REP,SD,Challenger,Won,6997.77,25
+State Senator,Billy Kluck,REP,SD,Challenger,Lost,6844.84,29
+State Senator,Byron Callies,REP,SD,Open,Lost,6810.0,5
+State Representative,Roxanne Weber,REP,SD,Challenger,Lost,6750.0,24
+State Representative,Paul Dennert,DEM,SD,Challenger,Lost,6315.0,1
+State Representative,Scyller Borglum,REP,SD,Open,Won,6300.0,32
+State Senator,Lynne Disanto,REP,SD,Open,Won,6075.0,35
+State Representative,Jamie Smith,DEM,SD,Incumbent,Won,5880.0,15
+State Senator,Tyler Swanger,REP,SD,Challenger,Lost,5708.0,14
+State Representative,Tom Holmes,REP,SD,Incumbent,Lost,5679.23,14
+State Senator,Gary Cammack,REP,SD,Incumbent,Won,5350.0,29
+State Representative,Kyle Schoenfish,REP,SD,Incumbent,Won,5345.0,19
+State Senator,Phil Jensen,REP,SD,Incumbent,Won,5255.0,33
+State Senator,Kris Langer,REP,SD,Incumbent,Won,5100.0,25
+State Representative,Patrick Kirschman,DEM,SD,Challenger,Lost,4669.0,15
+State Representative,Larry Zikmund,REP,SD,Incumbent,Won,4550.0,14
+State Representative,Tamera Enalls,REP,SD,Challenger,Lost,4475.0,25
+State Senator,Wayne Steinhauer,REP,SD,Open,Won,4350.0,9
+State Representative,Mary Duvall,REP,SD,Incumbent,Won,4250.0,24
+State Representative,Janette McIntyre,REP,SD,Challenger,Lost,4150.0,34
+State Representative,Tom Pischke,REP,SD,Incumbent,Won,3944.55,25
+State Representative,Tim Rounds,REP,SD,Incumbent,Won,3849.95,24
+Commissioner Of Public Lands,Ryan Brunner,REP,SD,Incumbent,Won,3844.85,nan
+State Senator,Allison Renville,DEM,SD,Open,Lost,3779.5,1
+State Representative,Ed Randazzo,REP,SD,Challenger,Lost,3685.0,32
+State Representative,Anna Kerner Andersson,DEM,SD,Challenger,Lost,3480.0,21
+State Representative,Robert Whitmyre,DEM,SD,Challenger,Lost,2600.0,1
+State Senator,Lee Schoenbeck,REP,SD,Open,Won,2480.88,5
+State Representative,Steven McCleerey,DEM,SD,Incumbent,Won,1840.0,1
+State Representative,Rex Rolfing,REP,SD,Challenger,Lost,1800.0,13
+State Senator,Susan Wismer,DEM,SD,Open,Won,1750.0,1
+State Representative,Shawn Tornow,REP,SD,Challenger,Lost,1565.5,14
+State Senator,Thomas Bisek,DEM,SD,Open,Lost,1310.0,1
+State Representative,Amber Mauricio,REP,SD,Challenger,Lost,1235.0,13
+State Representative,Josh Reinfeld,DEM,SD,Challenger,Lost,985.0,15
+State Representative,Linda Duba,DEM,SD,Challenger,Won,877.2,15
+State Senator,Jim Bradford,DEM,SD,Open,Lost,800.0,27
+State Representative,Peri Pourier,DEM,SD,Challenger,Won,700.0,27
+State Senator,Spencer Wrightsman,REP,SD,Open,Lost,600.0,10
+State Representative,Faith Spotted Eagle,DEM,SD,Challenger,Lost,370.88,21
+Governor,Kurt Evans,LIB,SD,Open,Lost,289.97,nan
+State Senator,Patricia Shiery,REP,SD,Challenger,Lost,200.0,30
+State Senator,Julie Bartling,DEM,SD,Open,Lost,0.0,21
+State Representative,Dan Ahlers,DEM,SD,Incumbent,Lost,0.0,25
+Auditor,Tom Cool,DEM,SD,Open,Lost,0.0,nan
+State Representative,Eleanor Iverson,DEM,SD,Challenger,Lost,0.0,23
+State Representative,Barbara Saxton,DEM,SD,Challenger,Lost,0.0,10
+State Senator,Sherry Bea Smith,DEM,SD,Challenger,Lost,0.0,31
+State Senator,Troy Heinert,DEM,SD,Incumbent,Won,0.0,26
+State Representative,Ray Ring,DEM,SD,Incumbent,Won,0.0,17
+State Representative,Kathy Tyler,DEM,SD,Challenger,Lost,0.0,4
+State Representative,Michael Saba,DEM,SD,Challenger,Won,0.0,9
+State Senator,Craig Kennedy,DEM,SD,Incumbent,Won,0.0,18
+State Senator,Barry Muxen,DEM,SD,Open,Withdrew,0.0,35
+State Senator,Alanna Silvis,DEM,SD,Open,Withdrew,0.0,5
+State Representative,Valerie Loudenback,DEM,SD,Challenger,Lost,0.0,14
+State Representative,Shawn Bordeaux,DEM,SD,Incumbent,Won,0.0,26A
+State Representative,Hank Whitney,DEM,SD,Challenger,Withdrew,0.0,30
+State Senator,Dennis Evenson,DEM,SD,Challenger,Lost,0.0,4
+State Representative,Mary Leary,DEM,SD,Challenger,Withdrew,0.0,8
+State Senator,Pat Cromwell,DEM,SD,Open,Lost,0.0,35
+State Representative,Brooks Briscoe,DEM,SD,Challenger,Lost,0.0,3
+State Representative,Jason Unger,DEM,SD,Challenger,Lost,0.0,8
+State Representative,Dean Kurtz,DEM,SD,Challenger,Lost,0.0,10
+State Senator,Ted Curry,DEM,SD,Challenger,Deceased,0.0,16
+State Senator,Red Dawn Foster,DEM,SD,Open,Won,0.0,27
+State Representative,Oren Lesmeister,DEM,SD,Incumbent,Won,0.0,28A
+State Representative,Susan Kelts,DEM,SD,Open,Lost,0.0,32
+State Senator,Cory Allen Heidelberger,DEM,SD,Challenger,Lost,0.0,3
+State Senator,Reynold Nesiba,DEM,SD,Incumbent,Won,0.0,15
+State Representative,Chad Skiles,DEM,SD,Challenger,Lost,0.0,16
+State Senator,Scott Parsley,DEM,SD,Challenger,Lost,0.0,8
+State Senator,Kevin Elsing,DEM,SD,Challenger,Lost,0.0,11
+State Senator,Elizabeth Merrigan,DEM,SD,Challenger,Lost,0.0,16
+State Representative,Dwight Adamson,DEM,SD,Challenger,Lost,0.0,7
+State Representative,Jade Addison,DEM,SD,Challenger,Lost,0.0,29
+State Representative,Kyle Boese,DEM,SD,Challenger,Lost,0.0,6
+State Representative,Jim Chilson,DEM,SD,Challenger,Lost,0.0,4
+State Representative,Terry Crandall,DEM,SD,Challenger,Lost,0.0,18
+State Representative,Ryan Cwach,DEM,SD,Challenger,Won,0.0,18
+State Representative,Brian Davis,DEM,SD,Challenger,Lost,0.0,34
+State Representative,Lynn Frey,DEM,SD,Challenger,Withdrew,0.0,28B
+State Representative,John Gors,DEM,SD,Challenger,Lost,0.0,17
+State Representative,Diana Hane,DEM,SD,Challenger,Lost,0.0,5
+State Representative,Jenae Hansen,DEM,SD,Challenger,Lost,0.0,2
+State Representative,Michael Hanson,DEM,SD,Open,Lost,0.0,35
+State Representative,Jeff Hayward,DEM,SD,Challenger,Lost,0.0,12
+State Representative,Erin Healy,DEM,SD,Challenger,Won,0.0,14
+State Representative,Lilias Jarding,DEM,SD,Challenger,Lost,0.0,33
+State Representative,Sheryl Johnson,DEM,SD,Challenger,Lost,0.0,11
+State Representative,Ian Keegan,DEM,SD,Challenger,Withdrew,0.0,33
+State Representative,Terry Keller,DEM,SD,Challenger,Lost,0.0,24
+State Representative,Nancy Kirstein,DEM,SD,Challenger,Lost,0.0,6
+State Representative,Ione Klinger,DEM,SD,Open,Lost,0.0,20
+State Representative,John Koch,DEM,SD,Challenger,Lost,0.0,19
+State Representative,Zachary Kovach,DEM,SD,Challenger,Lost,0.0,7
+State Representative,Margaret Kuipers,DEM,SD,Challenger,Lost,0.0,11
+State Representative,Nicole Littlewhiteman,DEM,SD,Open,Lost,0.0,27
+State Representative,Brian Jorgensen,DEM,SD,Challenger,Withdrew,0.0,21
+State Representative,Troy Lunderman,DEM,SD,Challenger,Lost,0.0,26A
+State Representative,Naveen Malik,DEM,SD,Challenger,Lost,0.0,31
+State Representative,Mike McHugh,DEM,SD,Challenger,Lost,0.0,2
+State Representative,Michael McManus,DEM,SD,Challenger,Lost,0.0,29
+State Representative,Melissa Meidinger,DEM,SD,Challenger,Withdrew,0.0,4
+State Representative,Toni Miller,DEM,SD,Challenger,Lost,0.0,9
+State Representative,Bj Motley,DEM,SD,Challenger,Lost,0.0,25
+State Representative,George Nelson,DEM,SD,Challenger,Lost,0.0,34
+State Representative,Wyatt Osthus,DEM,SD,Challenger,Lost,0.0,31
+State Representative,Scott Petersen,DEM,SD,Challenger,Lost,0.0,12
+State Representative,Whitney Raver,DEM,SD,Challenger,Lost,0.0,30
+State Representative,Brett Ries,DEM,SD,Challenger,Lost,0.0,5
+State Representative,Justin Roemmick,DEM,SD,Challenger,Lost,0.0,3
+State Representative,Margaret Ross,DEM,SD,Challenger,Lost,0.0,27
+State Representative,James Schorzmann,DEM,SD,Open,Lost,0.0,20
+State Representative,Bo Sistak,DEM,SD,Open,Lost,0.0,35
+State Representative,Debra Smith,DEM,SD,Open,Lost,0.0,26B
+State Representative,Angel Staley,DEM,SD,Open,Withdrew,0.0,32
+State Representative,Joan Stamm,DEM,SD,Challenger,Withdrew,0.0,8
+State Representative,Mike Steinbrecher,DEM,SD,Challenger,Lost,0.0,16
+State Representative,Kelly Sullivan,DEM,SD,Challenger,Won,0.0,13
+State Representative,Philip Testerman,DEM,SD,Challenger,Withdrew,0.0,23
+State Representative,Tyler Volesky,DEM,SD,Challenger,Lost,0.0,22
+State Representative,Brian Watterson,DEM,SD,Challenger,Lost,0.0,24
+State Senator,Amanda Bachmann,DEM,SD,Challenger,Lost,0.0,24
+State Senator,Eric Bliss,DEM,SD,Challenger,Lost,0.0,22
+State Senator,Howard Grinager,DEM,SD,Challenger,Lost,0.0,17
+State Senator,Hugh Grogan,DEM,SD,Challenger,Withdrew,0.0,13
+State Senator,Mark Guthmiller,DEM,SD,Open,Withdrew,0.0,9
+State Senator,Justyn Hauck,DEM,SD,Challenger,Lost,0.0,14
+State Senator,Matt Kammerer,DEM,SD,Challenger,Lost,0.0,29
+State Senator,Dan Miller,DEM,SD,Challenger,Lost,0.0,20
+State Senator,Alli Moran,DEM,SD,Challenger,Lost,0.0,28
+State Senator,Kasey Olivier,DEM,SD,Challenger,Lost,0.0,12
+State Senator,Paul Register,DEM,SD,Challenger,Lost,0.0,2
+State Senator,Teresa Ann Robbins,DEM,SD,Challenger,Lost,0.0,6
+State Senator,Ayla Rodriguez,DEM,SD,Challenger,Lost,0.0,32
+State Senator,Ryan Ryder,DEM,SD,Challenger,Lost,0.0,33
+State Senator,Zach Vanwyk,DEM,SD,Challenger,Lost,0.0,34
+State Senator,Ardon Wek,DEM,SD,Challenger,Lost,0.0,19
+State Senator,Rachel Willson,DEM,SD,Open,Lost,0.0,10
+State Senator,Kristine Ina Winter,DEM,SD,Challenger,Lost,0.0,30
+State Senator,Joe Yracheta,DEM,SD,Challenger,Lost,0.0,23
+Attorney General,Randy Seiler,DEM,SD,Open,Lost,0.0,nan
+Commissioner Of Public Lands,Woody Houser,DEM,SD,Challenger,Lost,0.0,nan
+Public Utility Commissioner,Wayne Frederick,DEM,SD,Challenger,Lost,0.0,nan
+Treasurer,Aaron Matson,DEM,SD,Open,Lost,0.0,nan
+Secretary Of State,Alexandra Frederick,DEM,SD,Open,Lost,0.0,nan
+State Representative,Chris Francis,DEM,SD,Challenger,Lost,0.0,8
+State Representative,Margaret Ann Walsh,DEM,SD,Challenger,Lost,0.0,23
+State Representative,Karen McGregor,DEM,SD,Challenger,Lost,0.0,30
+State Representative,Bill Knight,DEM,SD,Open,Lost,0.0,32
+State Senator,Laura Swier Kotelman,DEM,SD,Open,Lost,0.0,9
+State Senator,Melissa Hiatt,DEM,SD,Challenger,Lost,0.0,13
+State Representative,Roger Hofer,IND,SD,Challenger,Lost,0.0,19
+State Senator,Mary Perpich,IND,SD,Open,Lost,0.0,7
+State Representative,Alison Bowers,IND,SD,Challenger,Lost,0.0,19
+State Representative,Cory Ann Ellis,IND,SD,Challenger,Lost,0.0,7
+State Representative,Nick Reid,IND,SD,Challenger,Lost,0.0,33
+State Senator,Peter Klebanoff,IND,SD,Challenger,Lost,0.0,25
+State Senator,Brian Wirth,IND,SD,Challenger,Lost,0.0,25
+U.S. Representative,Ron Wieczorek,IND,SD,Open,Lost,0.0,1
+State Representative,Aaron Aylward,LIB,SD,Challenger,Lost,0.0,6
+State Representative,Gregory Baldwin,LIB,SD,Challenger,Lost,0.0,17
+State Representative,Jason Hill,LIB,SD,Challenger,Lost,0.0,28B
+State Representative,Daryl Lamar Root,LIB,SD,Challenger,Lost,0.0,4
+State Senator,Gideon Oakes,LIB,SD,Challenger,Lost,0.0,30
+U.S. Representative,George Hendrickson,LIB,SD,Open,Lost,0.0,1
+Supreme Court,Janine Kern,IND,SD,Incumbent,Won,0.0,nan
+State Senator,Ryan Maher,REP,SD,Incumbent,Won,0.0,28
+State Representative,Elizabeth May,REP,SD,Incumbent,Lost,0.0,27
+State Representative,Jean Hunhoff,REP,SD,Incumbent,Won,0.0,18
+State Senator,Al Novstrup,REP,SD,Incumbent,Won,0.0,3
+State Representative,Mark Willadsen,REP,SD,Incumbent,Won,0.0,11
+State Representative,Thomas Brunner,REP,SD,Incumbent,Won,0.0,29
+State Representative,Deborah Peters,REP,SD,Challenger,Won,0.0,9
+State Senator,Jim Bolin,REP,SD,Incumbent,Won,0.0,16
+State Senator,Justin Cronin,REP,SD,Incumbent,Won,0.0,23
+State Senator,Richard Blake Curd,REP,SD,Incumbent,Won,0.0,12
+State Senator,Lance Steven Russell,REP,SD,Incumbent,Won,0.0,30
+State Representative,Lana Greenfield,REP,SD,Incumbent,Won,0.0,2
+State Senator,Lora Hubbel,REP,SD,Open,Lost,0.0,9
+State Representative,Lee Qualm,REP,SD,Incumbent,Won,0.0,21
+State Senator,Jim White,REP,SD,Incumbent,Won,0.0,22
+State Senator,Stace Nelson,REP,SD,Incumbent,Won,0.0,19
+State Representative,John Mills,REP,SD,Incumbent,Won,0.0,4
+State Representative,Roger Chase,REP,SD,Incumbent,Won,0.0,22
+State Representative,Arch Beal,REP,SD,Incumbent,Won,0.0,12
+State Senator,Roger Meyer,REP,SD,Challenger,Lost,0.0,18
+State Representative,Fred Deutsch,REP,SD,Challenger,Won,0.0,4
+State Representative,Tim Reed,REP,SD,Incumbent,Won,0.0,7
+State Representative,Marli Wiese,REP,SD,Incumbent,Won,0.0,8
+State Senator,Jim Stalzer,REP,SD,Incumbent,Won,0.0,11
+State Representative,David Anderson,REP,SD,Incumbent,Won,0.0,16
+State Senator,Jeff Partridge,REP,SD,Incumbent,Won,0.0,34
+State Representative,Nancy Rasmussen,REP,SD,Incumbent,Won,0.0,17
+State Representative,Herman Otten,REP,SD,Incumbent,Won,0.0,6
+State Representative,Leslie Heinemann,REP,SD,Incumbent,Withdrew,0.0,8
+State Representative,Kevin Jensen,REP,SD,Incumbent,Won,0.0,16
+State Representative,Timothy Johns,REP,SD,Incumbent,Won,0.0,31
+State Representative,Isaac Latterell,REP,SD,Incumbent,Won,0.0,6
+State Senator,Bob Ewing,REP,SD,Incumbent,Won,0.0,31
+State Senator,Ernie Otten Jr.,REP,SD,Incumbent,Won,0.0,6
+State Senator,Brock Greenfield,REP,SD,Incumbent,Won,0.0,2
+State Representative,Chris Karr,REP,SD,Incumbent,Won,0.0,11
+State Representative,Manny Steele,REP,SD,Challenger,Won,0.0,12
+State Senator,Jeff Monroe,REP,SD,Incumbent,Won,0.0,24
+State Representative,Charles Turbiville,REP,SD,Incumbent,Won,0.0,31
+Auditor,Rich Sattgast,REP,SD,Open,Won,0.0,nan
+State Senator,Arthur Rusch,REP,SD,Incumbent,Won,0.0,17
+State Senator,Alan Solano,REP,SD,Incumbent,Won,0.0,32
+State Senator,John Wiik,REP,SD,Incumbent,Won,0.0,4
+State Representative,Steven Haugaard,REP,SD,Incumbent,Won,0.0,10
+State Senator,Joshua Klumb,REP,SD,Incumbent,Won,0.0,20
+State Representative,Sam Marty,REP,SD,Incumbent,Won,0.0,28B
+State Representative,Julie Frye-Mueller,REP,SD,Incumbent,Won,0.0,30
+State Representative,John Lake,REP,SD,Incumbent,Won,0.0,23
+State Representative,Bob Glanzer,REP,SD,Incumbent,Won,0.0,22
+State Representative,Drew Dennert,REP,SD,Incumbent,Won,0.0,3
+State Representative,Hugh Bartels,REP,SD,Incumbent,Won,0.0,5
+State Representative,Nancy York,REP,SD,Incumbent,Won,0.0,5
+State Representative,Michael Clark,REP,SD,Incumbent,Lost,0.0,9
+State Representative,Spencer Gosch,REP,SD,Incumbent,Won,0.0,23
+State Representative,Steve Livermont,REP,SD,Incumbent,Won,0.0,27
+State Representative,Larry Rhoden,REP,SD,Incumbent,Withdrew,0.0,29
+State Representative,Timothy Goodwin,REP,SD,Incumbent,Won,0.0,30
+State Representative,Sean McPherson,REP,SD,Incumbent,Deceased,0.0,32
+State Representative,Doug Post,REP,SD,Challenger,Won,0.0,7
+State Senator,Jordan Youngberg,REP,SD,Incumbent,Won,0.0,8
+State Senator,Jack Kolbeck,REP,SD,Incumbent,Won,0.0,13
+State Senator,Joel Koskan,REP,SD,Challenger,Lost,0.0,26
+State Representative,Lance Koth,REP,SD,Open,Won,0.0,20
+State Representative,Doug Barthel,REP,SD,Incumbent,Won,0.0,10
+State Representative,Tina Mulally,REP,SD,Open,Won,0.0,35
+State Representative,Max Farver,REP,SD,Challenger,Lost,0.0,18
+State Representative,Caleb Finck,REP,SD,Challenger,Won,0.0,21
+State Representative,Tamara St John,REP,SD,Challenger,Won,0.0,1
+State Representative,Paul Miskimins,REP,SD,Open,Won,0.0,20
+State Representative,Carl Perry,REP,SD,Challenger,Won,0.0,3
+State Representative,Tony Randolph,REP,SD,Open,Won,0.0,35
+State Representative,Rebecca Reimer,REP,SD,Open,Won,0.0,26B
+State Representative,Kaleb Weis,REP,SD,Challenger,Won,0.0,2
+State Senator,Dale Barnhart,REP,SD,Challenger,Lost,0.0,25
+State Senator,Rocky Dale Blare,REP,SD,Open,Won,0.0,21
+State Senator,Bill Hines,REP,SD,Open,Lost,0.0,27
+State Senator,Ryan Smith,REP,SD,Open,Lost,0.0,35
+State Senator,Vj Smith,REP,SD,Open,Won,0.0,7
+State Senator,Margaret Sutton,REP,SD,Open,Won,0.0,10
+State Representative,Randy Gross,REP,SD,Challenger,Won,0.0,8
+State Representative,Kirk Chaffee,REP,SD,Challenger,Won,0.0,29
+State Representative,Chris Johnson,REP,SD,Open,Won,0.0,32

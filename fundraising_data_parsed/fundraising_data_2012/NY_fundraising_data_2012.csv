@@ -1,0 +1,484 @@
+office,candidate,party,state,incumbency,result,total money,district
+U.S. Senator,Kirsten Elizabeth Gillibrand,DEM,NY,Incumbent,Won-General,15928961.11,nan
+U.S. Representative,Nan Hayworth,REP,NY,Incumbent,Lost-General,3328550.49,18
+U.S. Representative,Steve Israel,DEM,NY,Incumbent,Won-General,3161942.08,3
+U.S. Representative,Tim Bishop,DEM,NY,Incumbent,Won-General,2931795.43,1
+U.S. Representative,Joseph Crowley,DEM,NY,Incumbent,Won-General,2517970.0,14
+U.S. Representative,Michael Grimm,REP,NY,Incumbent,Won-General,2371570.26,11
+U.S. Representative,Louise Slaughter,DEM,NY,Incumbent,Won-General,2336887.33,25
+U.S. Representative,Matthew Doheny,REP,NY,Challenger,Lost-General,2321638.81,21
+U.S. Representative,Kathleen Courtney Hochul,DEM,NY,Incumbent,Lost-General,2300641.83,27
+U.S. Representative,Sean Patrick Maloney,DEM,NY,Challenger,Won-General,2289686.4,18
+U.S. Representative,Carolyn McCarthy,DEM,NY,Incumbent,Won-General,2272582.01,4
+U.S. Representative,Randy Altschuler,REP,NY,Challenger,Lost-General,2255313.87,1
+U.S. Representative,Christopher Gibson,REP,NY,Incumbent,Won-General,2250059.21,19
+U.S. Representative,Thomas Reed II,REP,NY,Incumbent,Won-General,2184550.48,23
+U.S. Representative,Daniel Maffei,DEM,NY,Challenger,Won-General,2162904.96,24
+U.S. Representative,Ann Marie Buerkle,REP,NY,Incumbent,Lost-General,2125457.29,24
+U.S. Representative,Nita Lowey,DEM,NY,Incumbent,Won-General,2123821.15,17
+U.S. Representative,William Owens,DEM,NY,Incumbent,Won-General,2004009.32,21
+U.S. Representative,Carolyn Maloney,DEM,NY,Incumbent,Won-General,1734745.0,12
+U.S. Representative,Grace Meng,DEM,NY,Open,Won-General,1728272.58,6
+U.S. Representative,Peter King,REP,NY,Incumbent,Won-General,1683691.68,2
+State Senator,Dean Skelos,REP,NY,Incumbent,Won-General,1603709.55,9
+U.S. Representative,Christopher Collins,REP,NY,Challenger,Won-General,1563609.03,27
+State Senator,Mark Grisanti,REP,NY,Incumbent,Won-General,1555765.07,60
+U.S. Representative,Maggie Brooks,REP,NY,Challenger,Lost-General,1461345.17,25
+U.S. Representative,Charles Rangel,DEM,NY,Incumbent,Won-General,1423828.25,13
+U.S. Representative,Hakeem Jeffries,DEM,NY,Open,Won-General,1404928.66,8
+State Senator,Eric Ulrich,REP,NY,Challenger,Lost-General,1394520.73,15
+U.S. Representative,Julian Schreibman,DEM,NY,Challenger,Lost-General,1393008.48,19
+State Senator,Greg Ball,REP,NY,Incumbent,Won-General,1383745.61,40
+State Senator,Martin Golden,REP,NY,Incumbent,Won-General,1378172.77,22
+State Senator,Robert Cohen,REP,NY,Open,Lost-General,1311575.12,37
+State Senator,Thomas Libous,REP,NY,Incumbent,Won-General,1308952.04,52
+State Senator,Jeffrey Klein,DEM,NY,Incumbent,Won-General,1296963.14,34
+U.S. Representative,Jerrold Nadler,DEM,NY,Incumbent,Won-General,1110978.07,10
+U.S. Representative,Brian Higgins,DEM,NY,Incumbent,Won-General,1079607.66,26
+State Senator,Sean Hanna,REP,NY,Open,Lost-General,1068792.73,55
+U.S. Representative,Eliot Engel,DEM,NY,Incumbent,Won-General,1061818.76,16
+State Senator,George Maziarz,REP,NY,Incumbent,Won-General,1051457.76,62
+State Senator,Stephen Saland,REP,NY,Incumbent,Lost-General,1007265.35,41
+U.S. Representative,Mark Murphy,DEM,NY,Challenger,Lost-General,981748.96,11
+U.S. Representative,Paul David Tonko,DEM,NY,Incumbent,Won-General,977205.68,20
+State Senator,Roy McDonald,INDEPENDENCE,NY,Incumbent,Lost-General,973282.23,43
+State Senator,Timothy Kennedy,DEM,NY,Incumbent,Won-General,927808.08,63
+U.S. Representative,Richard Hanna,REP,NY,Incumbent,Won-General,926861.07,22
+State Senator,George Amedore Jr.,REP,NY,Open,Lost-General,898228.22,46
+U.S. Representative,Gregory Meeks,DEM,NY,Incumbent,Won-General,887624.37,5
+U.S. Representative,Nate Shinagawa,DEM,NY,Challenger,Lost-General,836946.78,23
+State Senator,George Latimer,DEM,NY,Open,Won-General,765136.62,37
+State Senator,Lee Michael Zeldin,REP,NY,Incumbent,Won-General,758413.2,3
+State Senator,Kemp Hannon,REP,NY,Incumbent,Won-General,743992.89,6
+U.S. Representative,Yvette Clarke,DEM,NY,Incumbent,Won-General,733946.5,9
+U.S. Senator,Wendy Long,REP,NY,Challenger,Lost-General,726091.1,nan
+State Representative,Joseph Morelle,DEM,NY,Incumbent,Won-General,670651.23,136
+State Representative,Sheldon Silver,DEM,NY,Incumbent,Won-General,665650.79,65
+U.S. Representative,Nydia Velazquez,DEM,NY,Incumbent,Won-General,665008.0,7
+State Senator,Philip Boyle,REP,NY,Open,Won-General,662206.0,4
+State Senator,Simcha Felder,DEM,NY,Challenger,Won-General,601103.22,17
+State Senator,David Carlucci,DEM,NY,Incumbent,Won-General,594017.02,38
+U.S. Representative,Joe Carvin,REP,NY,Challenger,Lost-General,585599.95,17
+State Senator,Jack Martins,REP,NY,Incumbent,Won-General,583021.96,7
+State Senator,James Seward,REP,NY,Incumbent,Won-General,582170.55,51
+State Senator,Charles Fuschillo Jr.,REP,NY,Incumbent,Won-General,577931.67,8
+State Senator,Lewis Fidler,DEM,NY,Open,Lost-General,576981.09,27
+State Senator,Kathleen Marchione,REP,NY,Challenger,Won-General,563333.67,43
+State Senator,John Defrancisco,REP,NY,Incumbent,Won-General,558861.29,50
+State Senator,Ted Obrien,DEM,NY,Open,Won-General,545640.15,55
+State Senator,Michael Gianaris,DEM,NY,Incumbent,Won-General,544266.95,12
+State Senator,John Sampson,DEM,NY,Incumbent,Won-General,521700.0,19
+State Senator,Michael Ranzenhofer,REP,NY,Incumbent,Won-General,518866.0,61
+State Senator,Catharine Young,REP,NY,Incumbent,Won-General,488756.93,57
+State Representative,Angelo Santabarbara,DEM,NY,Open,Won-General,482187.74,111
+State Senator,Diane Savino,DEM,NY,Incumbent,Won-General,475000.0,23
+State Senator,Michael Nozzolio,REP,NY,Incumbent,Won-General,473424.94,54
+State Senator,John Bonacic,REP,NY,Incumbent,Won-General,473411.04,42
+State Senator,Joseph Addabbo Jr.,DEM,NY,Incumbent,Won-General,465045.44,15
+State Senator,Justin Wagner,DEM,NY,Challenger,Lost-General,449887.43,40
+State Senator,Joseph Robach,REP,NY,Incumbent,Won-General,408769.47,56
+State Senator,Brad Hoylman,DEM,NY,Open,Won-General,400476.86,27
+State Representative,Albert Stirpe Jr.,DEM,NY,Challenger,Won-General,398596.79,127
+State Senator,David Valesky,DEM,NY,Incumbent,Won-General,390117.93,53
+State Representative,David Buchwald,DEM,NY,Challenger,Won-General,386650.3,93
+State Representative,Brian Kolb,REP,NY,Incumbent,Won-General,376277.93,131
+State Senator,Neil Breslin,DEM,NY,Incumbent,Won-General,369264.27,44
+State Senator,Toby Ann Stavisky,DEM,NY,Incumbent,Won-General,363005.37,16
+State Representative,Vito Lopez,DEM,NY,Incumbent,Won-General,356118.2,53
+State Representative,Phillip Steck,DEM,NY,Open,Won-General,353124.29,110
+State Senator,Gustavo Rivera,DEM,NY,Incumbent,Won-General,351255.16,33
+State Representative,Phillip Goldfeder,DEM,NY,Incumbent,Won-General,350048.04,23
+State Representative,Mark Gjonaj,DEM,NY,Challenger,Won-General,347127.4,80
+State Senator,David Storobin,REP,NY,Incumbent,Lost-General,338757.99,17
+U.S. Representative,Dan Lamb,DEM,NY,Challenger,Lost-General,338219.16,22
+State Representative,Micah Kellner,DEM,NY,Incumbent,Won-General,337647.69,76
+State Representative,Christopher Fahey,DEM,NY,Open,Lost-General,332486.11,145
+State Senator,Kenneth Lavalle,REP,NY,Incumbent,Won-General,326632.0,1
+State Senator,Andrew Lanza,REP,NY,Incumbent,Won-General,319388.0,24
+State Senator,William Larkin Jr.,REP,NY,Incumbent,Won-General,318430.0,39
+State Representative,Peter Abbate Jr.,DEM,NY,Incumbent,Won-General,318267.0,49
+State Representative,Didi Barrett,DEM,NY,Incumbent,Won-General,315434.64,106
+State Representative,James Brennan,DEM,NY,Incumbent,Won-General,306786.59,44
+State Senator,Adriano Espaillat,DEM,NY,Incumbent,Won-General,294590.0,31
+State Senator,Cecilia Tkaczyk,DEM,NY,Open,Won-General,290876.46,46
+State Senator,Elizabeth C Little,REP,NY,Incumbent,Won-General,284342.31,45
+U.S. Representative,Stephen Labate,REP,NY,Challenger,Lost-General,283500.5,3
+State Senator,Carl Marcellino,REP,NY,Incumbent,Won-General,281827.36,5
+State Senator,Malcolm Smith,DEM,NY,Incumbent,Won-General,279574.0,14
+State Senator,Andrew Gounardes,DEM,NY,Challenger,Lost-General,278634.09,22
+State Senator,Andrea Stewart-Cousins,DEM,NY,Incumbent,Won-General,277328.7,35
+State Representative,James Skoufis,DEM,NY,Open,Won-General,274903.91,99
+State Senator,Patrick Gallivan,REP,NY,Incumbent,Won-General,273638.33,59
+State Senator,John Flanagan Jr.,REP,NY,Incumbent,Won-General,271674.06,2
+State Senator,Kevin Parker,DEM,NY,Incumbent,Won-General,271272.44,21
+State Representative,Donald Miller,REP,NY,Incumbent,Lost-General,267726.78,127
+State Senator,Liz Krueger,DEM,NY,Incumbent,Won-General,256692.88,28
+State Representative,John Ceretto,REP,NY,Incumbent,Won-General,253249.71,145
+State Representative,Steven Cymbrowitz,DEM,NY,Incumbent,Won-General,252811.98,45
+State Representative,Nicole Malliotakis,REP,NY,Incumbent,Won-General,250378.23,64
+State Senator,Jose Peralta,DEM,NY,Incumbent,Won-General,249237.01,13
+State Senator,Patricia Ritchie,REP,NY,Incumbent,Won-General,237022.59,48
+U.S. Representative,Robert Dieterich,REP,NY,Challenger,Lost-General,229489.08,20
+State Senator,Terry Gipson,DEM,NY,Challenger,Won-General,227169.13,41
+State Representative,Cheryl Roberts,DEM,NY,Challenger,Lost-General,219819.0,107
+State Representative,Herman Farrell Jr.,DEM,NY,Incumbent,Won-General,219600.0,71
+State Representative,Amy Paulin,DEM,NY,Incumbent,Won-General,218446.67,88
+State Senator,Thomas Omara,REP,NY,Incumbent,Won-General,217925.0,58
+State Representative,Ronald Kim,DEM,NY,Open,Won-General,214992.38,40
+U.S. Representative,Jose Serrano,DEM,NY,Incumbent,Won-General,208568.0,15
+State Representative,Frank Skartados,DEM,NY,Incumbent,Won-General,208453.54,104
+State Representative,Carl Heastie,DEM,NY,Incumbent,Won-General,201737.0,83
+State Representative,Robert Castelli,REP,NY,Incumbent,Lost-General,198893.0,93
+U.S. Representative,Frank Scaturro,CONSERVATIVE,NY,Challenger,Lost-General,195506.77,4
+State Representative,Rafael Espinal Jr.,DEM,NY,Incumbent,Won-General,194332.0,54
+State Senator,Ryan Cronin,DEM,NY,Challenger,Lost-General,192533.58,6
+State Representative,Jennifer Whalen,REP,NY,Open,Lost-General,191985.53,110
+State Representative,Michelle Schimel,DEM,NY,Incumbent,Won-General,190306.75,16
+State Representative,Keith T Wright,DEM,NY,Incumbent,Won-General,188766.15,70
+State Senator,Martin Malave Dilan,DEM,NY,Incumbent,Won-General,186620.52,18
+State Representative,David Weprin,DEM,NY,Incumbent,Won-General,186071.44,24
+State Representative,Robin Schimminger,DEM,NY,Incumbent,Won-General,183199.25,140
+State Senator,Joseph Griffo,REP,NY,Incumbent,Won-General,177353.0,47
+U.S. Representative,Daniel Halloran,REP,NY,Open,Lost-General,177067.0,6
+State Senator,Ricardo Montano,DEM,NY,Open,Lost-General,176776.62,4
+State Representative,Nick Perry,DEM,NY,Incumbent,Won-General,176645.0,58
+State Representative,Sean Ryan,DEM,NY,Incumbent,Won-General,175179.0,149
+State Representative,Nily Rozic,DEM,NY,Open,Won-General,173796.05,25
+State Representative,Brian Kavanagh,DEM,NY,Incumbent,Won-General,171694.0,74
+State Representative,Michael Cusick,DEM,NY,Incumbent,Won-General,169291.98,63
+State Senator,Bridget Fleming,DEM,NY,Challenger,Lost-General,165504.22,1
+State Representative,Carrie Woerner,DEM,NY,Challenger,Lost-General,164774.76,113
+State Representative,Alec Brook-Krasny,DEM,NY,Incumbent,Won-General,162065.12,46
+U.S. Representative,Francis Becker Jr.,REP,NY,Challenger,Lost-General,160989.77,4
+State Representative,Naomi Rivera,WORKING FAMILIES,NY,Incumbent,Lost-General,157172.69,80
+State Senator,Hugh Farley,REP,NY,Incumbent,Won-General,156171.11,49
+State Representative,Robert Restaino,DEM,NY,Challenger,Lost-General,156043.41,145
+State Representative,Thomas Quackenbush,REP,NY,Open,Lost-General,155522.02,111
+State Senator,Tony Avella,DEM,NY,Incumbent,Won-General,154443.0,11
+State Representative,Patricia Fahy,DEM,NY,Open,Won-General,153538.11,109
+State Senator,Ruth Hassell-Thompson,DEM,NY,Incumbent,Won-General,151859.1,36
+State Representative,Bill Reilich,REP,NY,Incumbent,Won-General,150045.0,134
+State Representative,Steven McLaughlin,REP,NY,Incumbent,Won-General,149889.17,107
+State Representative,Robert Rodriguez,DEM,NY,Incumbent,Won-General,149215.0,68
+State Representative,Jerry Iannece,INDEPENDENCE,NY,Open,Lost-General,146762.14,25
+State Representative,John McDonald III,DEM,NY,Open,Won-General,145599.87,108
+State Representative,William Colton,DEM,NY,Incumbent,Won-General,142246.5,47
+State Senator,Charles Swanick,CONSERVATIVE,NY,Challenger,Lost-General,141935.0,60
+State Representative,Dov Hikind,DEM,NY,Incumbent,Won-General,140881.24,48
+State Senator,Michael Amodeo,DEM,NY,Challenger,Lost-General,137252.45,60
+State Representative,Dan Quart,DEM,NY,Incumbent,Won-General,135695.0,73
+State Representative,James Gary Pretlow,DEM,NY,Incumbent,Won-General,131839.03,89
+State Representative,Rhoda Jacobs,DEM,NY,Incumbent,Won-General,130383.0,42
+State Representative,Dennis Gabryszak,DEM,NY,Incumbent,Won-General,129592.0,143
+State Representative,Charles Lavine,DEM,NY,Incumbent,Won-General,128734.94,13
+State Senator,Eric Adams,DEM,NY,Incumbent,Won-General,127548.47,20
+State Representative,David Byrne,REP,NY,Challenger,Lost-General,126728.19,106
+State Senator,James Sanders Jr.,DEM,NY,Open,Won-General,123309.0,10
+State Representative,Vanessa Gibson,DEM,NY,Incumbent,Won-General,122854.0,77
+State Representative,Kyle Roddey,REP,NY,Open,Lost-General,121434.0,99
+State Representative,Daniel Losquadro,REP,NY,Incumbent,Won-General,121115.0,2
+U.S. Representative,Christopher Wight,REP,NY,Challenger,Lost-General,119766.81,12
+State Representative,Joseph Lentol,DEM,NY,Incumbent,Won-General,119666.48,50
+State Representative,Anthony Mascolo,DEM,NY,Open,Lost-General,119057.66,62
+State Representative,Bill Nojay,REP,NY,Open,Won-General,117072.28,133
+State Representative,James Tedisco,REP,NY,Incumbent,Won-General,116533.5,112
+State Representative,Matthew Titone,DEM,NY,Incumbent,Won-General,115571.33,61
+State Representative,Luis Sepulveda,DEM,NY,Open,Won-General,115508.0,87
+State Representative,William Magnarelli,DEM,NY,Incumbent,Won-General,115219.0,129
+State Representative,Philip Gim,REP,NY,Open,Lost-General,114542.17,40
+State Representative,Walter Mosley III,DEM,NY,Open,Won-General,113195.01,57
+State Representative,Donna Lupardo,DEM,NY,Incumbent,Won-General,113018.0,123
+State Representative,Andrew Garbarino,REP,NY,Open,Won-General,109197.27,7
+State Representative,Helene Weinstein,DEM,NY,Incumbent,Won-General,108338.54,41
+State Representative,Harry Bronson,DEM,NY,Incumbent,Won-General,106034.04,138
+State Representative,Joseph Saladino,REP,NY,Incumbent,Won-General,105405.0,9
+State Representative,Deborah Glick,DEM,NY,Incumbent,Won-General,104897.34,66
+State Representative,Nelson Castro,DEM,NY,Incumbent,Won-General,103434.64,86
+State Representative,Kevin Cahill,DEM,NY,Incumbent,Won-General,102258.4,103
+State Representative,Gary Finch,REP,NY,Incumbent,Won-General,101879.01,126
+State Representative,William Barclay,REP,NY,Incumbent,Won-General,101289.0,120
+State Representative,David Sussman,REP,NY,Challenger,Lost-General,100798.4,20
+State Representative,Tony Jordan,REP,NY,Incumbent,Won-General,100105.9,113
+State Representative,Michaelle Solages,DEM,NY,Open,Won-General,99301.77,22
+State Representative,Steven Otis,DEM,NY,Open,Won-General,97905.73,91
+State Representative,Jeffrey Dinowitz,DEM,NY,Incumbent,Won-General,97444.0,81
+State Representative,Andrew Raia,REP,NY,Incumbent,Won-General,93602.92,12
+State Representative,Robert Oaks,REP,NY,Incumbent,Won-General,93394.0,130
+State Representative,Aileen Gunther,DEM,NY,Incumbent,Won-General,93027.0,100
+State Senator,Robin Andrews,DEM,NY,Challenger,Lost-General,92357.96,43
+State Representative,Carolyn McLaughlin,WORKING FAMILIES,NY,Open,Lost-General,91768.57,108
+State Senator,Ruben Diaz Sr.,DEM,NY,Incumbent,Won-General,91530.65,32
+State Senator,Christopher Eachus,DEM,NY,Challenger,Lost-General,91298.68,39
+State Representative,Claudia Tenney,REP,NY,Incumbent,Won-General,91030.9,101
+State Representative,Karim Camara,DEM,NY,Incumbent,Won-General,90858.05,43
+State Representative,Michael Dendekker,DEM,NY,Incumbent,Won-General,90755.0,34
+State Representative,Edward Ra,REP,NY,Incumbent,Won-General,90340.0,19
+State Representative,Joseph Charles Borelli,REP,NY,Open,Won-General,89436.84,62
+State Representative,Stephen Katz,REP,NY,Incumbent,Won-General,88571.6,94
+State Representative,Aravella Simotas,WORKING FAMILIES,NY,Incumbent,Won-General,88407.45,36
+State Senator,Daniel Squadron,DEM,NY,Incumbent,Won-General,86592.71,26
+State Representative,David Gantt,DEM,NY,Incumbent,Won-General,86045.44,137
+State Representative,Crystal Peoples-Stokes,DEM,NY,Incumbent,Won-General,85182.44,141
+State Representative,Peter Lopez,REP,NY,Incumbent,Won-General,84452.0,102
+State Representative,Francisco Moya,DEM,NY,Incumbent,Won-General,84370.0,39
+State Representative,Bill Magee,DEM,NY,Incumbent,Won-General,84287.5,121
+State Representative,Michael Miller,DEM,NY,Incumbent,Won-General,81440.61,38
+State Representative,Catherine Nolan,DEM,NY,Incumbent,Won-General,81312.0,37
+State Representative,Clifford Crouch,REP,NY,Incumbent,Won-General,79904.88,122
+U.S. Representative,Michael Madigan,REP,NY,Challenger,Lost-General,79656.85,26
+State Representative,Linda Rosenthal,DEM,NY,Incumbent,Won-General,79445.0,67
+State Representative,Philip Ramos,DEM,NY,Incumbent,Won-General,78353.66,6
+State Representative,Daniel Stec,REP,NY,Open,Won-General,76142.51,114
+State Representative,Dean Murray,REP,NY,Incumbent,Lost-General,76039.27,3
+State Representative,David McDonough,REP,NY,Incumbent,Won-General,74788.47,14
+State Representative,Kieran Michael Lalor,REP,NY,Open,Won-General,74559.93,105
+State Representative,Edward Braunstein,DEM,NY,Incumbent,Won-General,72275.0,26
+State Representative,Janet Duprey,REP,NY,Incumbent,Won-General,71458.0,115
+State Representative,Harvey Weisenberg,DEM,NY,Incumbent,Won-General,69624.0,20
+State Senator,Janis Castaldi,REP,NY,Challenger,Lost-General,68907.75,38
+State Representative,Brian Curran,REP,NY,Incumbent,Won-General,67286.0,21
+State Representative,Ann Rabbitt,REP,NY,Incumbent,Won-General,67174.0,98
+State Representative,Ellen Jaffee,DEM,NY,Incumbent,Won-General,66432.0,97
+State Representative,Andrew Hevesi,DEM,NY,Incumbent,Won-General,65962.0,28
+State Representative,Kenneth Zebrowski Jr.,DEM,NY,Incumbent,Won-General,64604.55,96
+State Representative,Eric Stevenson,DEM,NY,Incumbent,Won-General,64550.0,79
+State Representative,Stephen Hawley,REP,NY,Incumbent,Won-General,64438.22,139
+State Representative,Paul Francis Curran,DEM,NY,Open,Lost-General,63811.03,105
+State Representative,Michael Benedetto,DEM,NY,Incumbent,Won-General,63175.0,82
+State Representative,Andrew Goodell,REP,NY,Incumbent,Won-General,63116.96,150
+State Representative,Joseph Dujmic Jr.,DEM,NY,Open,Lost-General,60708.97,10
+State Representative,Clyde Vanel,DEM,NY,Challenger,Lost-General,60457.7,33
+State Representative,Mark Johns,REP,NY,Incumbent,Won-General,59686.59,135
+State Representative,Andrew Falk,DEM,NY,Challenger,Lost-General,59181.4,94
+State Representative,Jane Corwin,REP,NY,Incumbent,Won-General,58943.7,144
+State Representative,Philip Palmesano,REP,NY,Incumbent,Won-General,58936.36,132
+State Representative,Jeffrion Aubry,DEM,NY,Incumbent,Won-General,58330.0,35
+State Representative,Alfred Graf,REP,NY,Incumbent,Won-General,57545.0,5
+State Representative,Jeffrey Friedman,DEM,NY,Challenger,Lost-General,57542.18,21
+State Senator,Neil Anthony Di Carlo,CONSERVATIVE,NY,Challenger,Lost-General,57131.62,41
+State Representative,Jose Rivera,DEM,NY,Incumbent,Won-General,56635.0,78
+State Representative,Margaret Markey,DEM,NY,Incumbent,Won-General,56404.0,30
+State Representative,Chad Lupinacci,REP,NY,Open,Won-General,56237.93,10
+State Representative,Daniel Odonnell,DEM,NY,Incumbent,Won-General,55669.0,69
+State Representative,Abraham Fuchs,REP,NY,Open,Lost-General,55250.0,25
+State Representative,Sandra Galef,DEM,NY,Incumbent,Won-General,54651.19,95
+State Representative,Peter Vazquez,REP,NY,Challenger,Lost-General,54032.49,138
+State Representative,Julie Lewis,REP,NY,Challenger,Lost-General,53759.0,123
+State Representative,Steven Englebright,DEM,NY,Incumbent,Won-General,53294.95,4
+State Representative,Raymond Walter,REP,NY,Open,Won-General,52747.63,146
+State Representative,Samuel Pirozzolo,REP,NY,Challenger,Lost-General,52488.38,63
+State Representative,Joan Millman,DEM,NY,Incumbent,Won-General,52297.0,52
+State Senator,Bill Perkins,DEM,NY,Incumbent,Won-General,50220.0,30
+State Representative,Sam Roberts,DEM,NY,Incumbent,Won-General,49796.52,128
+State Representative,Marc Butler,REP,NY,Incumbent,Won-General,49690.0,118
+State Representative,Michael Montesano,REP,NY,Incumbent,Won-General,49339.33,15
+State Representative,Richard Burke,CONSERVATIVE,NY,Open,Lost-General,48614.0,133
+State Representative,Alan Maisel,DEM,NY,Incumbent,Won-General,47960.02,59
+State Representative,Ben Akselrod,INDEPENDENCE,NY,Challenger,Lost-General,44726.0,45
+State Representative,Kenneth Blankenbush,REP,NY,Incumbent,Won-General,44102.89,117
+State Senator,Amy Hope Witryol,DEM,NY,Challenger,Lost-General,42349.95,62
+State Representative,John Forman,REP,NY,Open,Lost-General,41836.0,100
+State Representative,Deborah McKee,REP,NY,Challenger,Lost-General,41528.72,4
+State Senator,Amy Tresidder,DEM,NY,Challenger,Lost-General,40955.23,48
+State Representative,Gabriela Rosa,DEM,NY,Open,Won-General,40625.31,72
+State Representative,Robert Sweeney,DEM,NY,Incumbent,Won-General,38923.21,11
+State Representative,Inez Barron,DEM,NY,Incumbent,Won-General,38796.0,60
+State Representative,Rudy Mueller,DEM,NY,Challenger,Lost-General,38191.0,150
+State Representative,James Miller,DEM,NY,Challenger,Lost-General,36388.0,102
+State Senator,D Kim,REP,NY,Challenger,Lost-General,36210.0,16
+State Representative,Russell Gallo,REP,NY,Challenger,Lost-General,36113.79,45
+State Representative,Carmen Arroyo,DEM,NY,Incumbent,Won-General,36049.23,84
+State Representative,William Scarborough,DEM,NY,Incumbent,Won-General,34686.7,29
+State Representative,Thomas Abinanti,DEM,NY,Incumbent,Won-General,34331.48,92
+State Representative,Michael Simanowitz,DEM,NY,Incumbent,Won-General,33556.0,27
+State Representative,Joseph Giglio,REP,NY,Incumbent,Won-General,33350.25,148
+State Representative,Thomas McKevitt,REP,NY,Incumbent,Won-General,32421.22,17
+State Representative,Sean Wright,REP,NY,Open,Lost-General,31740.0,22
+State Representative,Anthony Brindisi,DEM,NY,Incumbent,Won-General,31005.0,119
+State Representative,Richard Gottfried,DEM,NY,Incumbent,Won-General,30988.0,75
+State Representative,John Mancuso,DEM,NY,Challenger,Lost-General,30987.46,64
+State Senator,Velmanette Montgomery,DEM,NY,Incumbent,Won-General,30954.0,25
+State Representative,Earlene Hill Hooper,DEM,NY,Incumbent,Won-General,30892.0,18
+State Representative,Vivian Cook,DEM,NY,Incumbent,Won-General,30541.0,32
+State Representative,Marcos Crespo,DEM,NY,Incumbent,Won-General,30530.62,85
+State Representative,Michael Kearns,DEM,NY,Incumbent,Won-General,29943.13,142
+State Representative,Dennis Tarantino,DEM,NY,Open,Lost-General,29885.0,114
+State Representative,Thomas McCarthy,REP,NY,Challenger,Lost-General,28187.92,46
+State Representative,Felix Ortiz,DEM,NY,Incumbent,Won-General,28075.0,51
+State Representative,Barbara Clark,DEM,NY,Incumbent,Won-General,27980.0,33
+U.S. Senator,John Mangelli,COMMON SENSE,NY,Challenger,Lost-General,27420.0,nan
+State Representative,Paul Saryian,REP,NY,Challenger,Lost-General,27066.59,61
+State Representative,Gerard McQuade Jr.,DEM,NY,Challenger,Lost-General,26424.0,98
+State Representative,Addie Jenne Russell,DEM,NY,Incumbent,Won-General,25914.01,116
+State Representative,Theodore Danz Jr.,REP,NY,Open,Lost-General,25868.0,109
+State Representative,Louis Imbroto,REP,NY,Challenger,Lost-General,25751.84,13
+State Representative,John Sharon,REP,NY,Challenger,Lost-General,25628.0,128
+State Representative,Shelley Mayer,DEM,NY,Incumbent,Won-General,25524.0,90
+State Representative,Annette Robinson,DEM,NY,Incumbent,Won-General,25232.0,56
+State Representative,Gary Linton,REP,NY,Challenger,Lost-General,24921.33,100
+State Representative,Michael Fitzpatrick,REP,NY,Incumbent,Won-General,23975.0,8
+State Representative,Karen Bisso,CONSERVATIVE,NY,Challenger,Lost-General,22993.75,115
+State Senator,Jose Serrano,DEM,NY,Incumbent,Won-General,22900.0,29
+State Representative,William Villanova,REP,NY,Open,Lost-General,22760.0,91
+State Representative,Christopher Bodkin,DEM,NY,Open,Lost-General,21818.01,7
+State Representative,David Dipietro,REP,NY,Open,Won-General,21777.0,147
+State Representative,Christina Abt,DEM,NY,Open,Lost-General,21630.11,147
+State Senator,Joseph Concannon,REP,NY,Challenger,Lost-General,20883.59,11
+State Representative,David Koon,DEM,NY,Challenger,Lost-General,20459.74,135
+State Representative,Barbara Lifton,DEM,NY,Incumbent,Won-General,20140.0,125
+State Senator,Daniel Ross,DEM,NY,Challenger,Lost-General,20000.12,7
+State Senator,Mindy Meyer,CONSERVATIVE,NY,Challenger,Lost-General,20000.0,21
+State Representative,Charles Gilbert,REP,NY,Challenger,Lost-General,19401.25,140
+State Representative,Richard Stiek,REP,NY,Challenger,Lost-General,19290.22,16
+State Representative,Christopher Friend,REP,NY,Incumbent,Won-General,19075.0,124
+State Senator,Madelyn Thorne,DEM,NY,Challenger,Lost-General,17084.0,49
+State Representative,Anthony Nunziato,REP,NY,Challenger,Lost-General,16600.0,30
+U.S. Representative,Ursula Rozum,GRN,NY,Challenger,Lost-General,16599.5,24
+U.S. Representative,Allan Jennings Jr.,REP,NY,Challenger,Lost-General,16599.0,5
+State Representative,Levi Spires,REP,NY,Challenger,Lost-General,16500.0,121
+State Senator,Abraham Tischler,SCHOOL CHOICE,NY,Challenger,Lost-General,15804.0,17
+State Senator,Lisa Grey,REP,NY,Challenger,Lost-General,13999.0,23
+State Representative,Kim Izzarelli,REP,NY,Challenger,Lost-General,13885.59,95
+State Representative,Manuel Troche,REP,NY,Challenger,Lost-General,13432.0,6
+State Senator,Howard Leib,DEM,NY,Challenger,Lost-General,13188.0,51
+State Senator,Gary Carsel,DEM,NY,Challenger,Lost-General,12886.65,24
+State Senator,John Orzel,DEM,NY,Challenger,Lost-General,12500.97,52
+State Senator,Elias Weir,CONSERVATIVE,NY,Challenger,Lost-General,9000.0,19
+State Representative,John Kevin Wilson,REP,NY,Challenger,Lost-General,8861.23,37
+U.S. Representative,Vivianne Falcone,DEM,NY,Challenger,Lost-General,8389.44,2
+State Representative,Edward Hennessey,DEM,NY,Challenger,Won-General,7945.0,3
+U.S. Representative,Colin Beavan,GRN,NY,Open,Lost-General,7631.86,8
+State Representative,Michael Zumbluskas,REP,NY,Challenger,Lost-General,7311.0,76
+State Representative,Daniel Brown,DEM,NY,Challenger,Lost-General,6980.13,148
+State Representative,Randolph Weaver,DEM,NY,Open,Lost-General,6835.0,133
+State Representative,Fred Thiele Jr.,DEM,NY,Incumbent,Won-General,6495.0,1
+State Representative,Joanne Schultz,DEM,NY,Open,Lost-General,5839.0,146
+State Senator,David Paul Garland,REP,NY,Challenger,Lost-General,5831.0,28
+State Representative,Joseph Chilelli,DEM,NY,Challenger,Lost-General,5763.12,118
+State Representative,Catherine Fox,REP,NY,Challenger,Lost-General,5725.0,44
+State Representative,Christine Bello,REP,NY,Challenger,Lost-General,5599.0,104
+State Representative,Joseph Hayon,REP,NY,Challenger,Lost-General,4679.5,41
+U.S. Senator,Chris Edes,LIB,NY,Challenger,Lost-General,4429.0,nan
+State Representative,David Casavis,REP,NY,Challenger,Lost-General,4405.0,73
+State Representative,Michele Draves,DEM,NY,Challenger,Lost-General,4156.24,112
+State Senator,Carol Gordon,DEM,NY,Challenger,Lost-General,3902.03,8
+State Representative,Joseph Gravagna,REP,NY,Challenger,Lost-General,3634.39,97
+State Senator,Tony Arcabascio,REP,NY,Challenger,Lost-General,3622.5,12
+State Representative,Frank Decarlo,REP,NY,Challenger,Lost-General,3552.65,143
+State Representative,John Brooks,DEM,NY,Challenger,Lost-General,3500.0,14
+State Representative,Elton McCabe,REP,NY,Challenger,Lost-General,3000.0,18
+State Representative,Michele Titus,DEM,NY,Incumbent,Won-General,2900.0,31
+State Representative,Gary Port,DEM,NY,Challenger,Lost-General,2660.71,19
+State Senator,Justin Rooney,DEM,NY,Challenger,Lost-General,2620.0,61
+State Representative,Wave Chan,REP,NY,Challenger,Lost-General,2488.75,65
+State Representative,Jay Cherlin,DEM,NY,Challenger,Lost-General,2353.63,9
+U.S. Representative,Joseph McLaughlin,REP,NY,Challenger,Lost-General,2350.0,16
+State Representative,Jesse Safer,DEM,NY,Challenger,Lost-General,2238.19,8
+State Representative,Mitchell Tischler,SCHOOL CHOICE,NY,Challenger,Lost-General,2089.0,48
+State Representative,Mark Glogowski,LIB,NY,Challenger,Lost-General,1906.97,139
+State Senator,Peter Lavenia Jr.,GRN,NY,Challenger,Lost-General,1881.0,44
+State Senator,Barrett Esworthy,WORKING FAMILIES,NY,Challenger,Lost-General,1819.0,52
+State Representative,Timothy Carpenter,DEM,NY,Challenger,Lost-General,1700.0,115
+State Representative,Kevin Brady,DEM,NY,Challenger,Lost-General,1377.21,17
+State Representative,Andrew Langdon,GRN,NY,Challenger,Lost-General,1291.0,137
+State Representative,Gary Dannunzio,WORKING FAMILIES,NY,Open,Withdrew-General,1210.0,22
+State Representative,Julia Haich,REP,NY,Challenger,Lost-General,1065.0,36
+State Representative,Daniel Carter,DEM,NY,Challenger,Lost-General,830.0,101
+State Senator,David Johnson,INDEPENDENCE,NY,Challenger,Lost-General,445.0,32
+U.S. Representative,Evergreen Chou,GRN,NY,Open,Lost-General,225.0,6
+State Representative,Ricky Donovan Sr.,REP,NY,Challenger,Lost-General,0.0,141
+State Representative,David Bellissimo,REP,NY,Challenger,Withdrew-General,0.0,149
+State Representative,Joseph Mascia,CONSERVATIVE,NY,Challenger,Lost-General,0.0,149
+State Senator,David Wright,DEM,NY,Challenger,Lost-General,0.0,5
+State Senator,Elizabeth Perri,CONSERVATIVE,NY,Challenger,Lost-General,0.0,34
+State Senator,Carl Lundgren,GRN,NY,Challenger,Lost-General,0.0,34
+State Senator,Michael Donnelly,GRN,NY,Challenger,Lost-General,0.0,50
+State Senator,Gregory Davis,WORKING FAMILIES,NY,Challenger,Lost-General,0.0,60
+State Senator,Robert Diamond,REP,NY,Challenger,Lost-General,0.0,36
+State Representative,Nicholas Deegan,DEM,NY,Challenger,Lost-General,0.0,2
+State Representative,Victor Salamone,DEM,NY,Challenger,Lost-General,0.0,5
+State Representative,Rashad Cureton,REP,NY,Challenger,Lost-General,0.0,11
+State Representative,Jeffery Peress,GRN,NY,Challenger,Lost-General,0.0,13
+State Representative,Mario Ferone,DEM,NY,Challenger,Lost-General,0.0,15
+State Representative,William Garifal Jr.,CONSERVATIVE,NY,Open,Lost-General,0.0,25
+State Representative,Stuart Balberg,REP,NY,Challenger,Lost-General,0.0,43
+State Representative,Patrick Dwyer,GRN,NY,Challenger,Lost-General,0.0,46
+State Representative,James Rippa,REP,NY,Challenger,Lost-General,0.0,47
+State Representative,Vincent Katinas,CONSERVATIVE,NY,Challenger,Lost-General,0.0,49
+State Representative,Victor Best,REP,NY,Challenger,Lost-General,0.0,50
+State Representative,Henry Lallave,REP,NY,Challenger,Lost-General,0.0,51
+State Representative,John Nijhawan,REP,NY,Challenger,Lost-General,0.0,52
+State Representative,Richy Garcia,REP,NY,Challenger,Lost-General,0.0,53
+State Representative,Khorshed Chowdhury,REP,NY,Challenger,Lost-General,0.0,54
+State Representative,Jonathan Anderson,REP,NY,Challenger,Lost-General,0.0,55
+State Representative,Bilal Malik,INDEPENDENCE,NY,Challenger,Lost-General,0.0,55
+State Representative,Francenia Sims-Hall,REP,NY,Challenger,Lost-General,0.0,56
+State Representative,Francis Voyticky,REP,NY,Open,Lost-General,0.0,57
+State Representative,Robert Maresca,CONSERVATIVE,NY,Challenger,Lost-General,0.0,59
+State Representative,Kenneth Waluyn,REP,NY,Challenger,Lost-General,0.0,60
+State Representative,Julia Willebrand,GRN,NY,Challenger,Lost-General,0.0,67
+State Representative,Ronnie Cabrera,REP,NY,Open,Lost-General,0.0,72
+State Representative,Tanya Carmichael,REP,NY,Challenger,Lost-General,0.0,77
+State Representative,Devon Morrison,CONSERVATIVE,NY,Challenger,Lost-General,0.0,77
+State Representative,Luana Malavolta,REP,NY,Challenger,Lost-General,0.0,78
+State Representative,Richard Retcho,CONSERVATIVE,NY,Challenger,Lost-General,0.0,78
+State Representative,Selsia Evans,CONSERVATIVE,NY,Challenger,Lost-General,0.0,79
+State Representative,Jose Padilla Jr.,INDEPENDENCE,NY,Challenger,Lost-General,0.0,79
+State Representative,Nicole Torres,REP,NY,Challenger,Lost-General,0.0,80
+State Representative,Patrick McManus,CONSERVATIVE,NY,Challenger,Lost-General,0.0,80
+State Representative,William Edstrom,GRN,NY,Challenger,Lost-General,0.0,80
+State Representative,Judith Kunz,CONSERVATIVE,NY,Challenger,Lost-General,0.0,81
+State Representative,William Britt Jr.,REP,NY,Challenger,Lost-General,0.0,82
+State Representative,David Glover,REP,NY,Challenger,Lost-General,0.0,83
+State Representative,Trevor Archer,GRN,NY,Challenger,Lost-General,0.0,83
+State Representative,Franklin Chidi Oleh,CONSERVATIVE,NY,Challenger,Lost-General,0.0,84
+State Representative,Janelle King,REP,NY,Challenger,Lost-General,0.0,85
+State Representative,Eduardo Ramirez,CONSERVATIVE,NY,Challenger,Lost-General,0.0,85
+State Representative,Daniel Zuger,GRN,NY,Challenger,Lost-General,0.0,85
+State Representative,Ana Sanchez,REP,NY,Challenger,Lost-General,0.0,86
+State Representative,Vhidiwhatie Diamond,CONSERVATIVE,NY,Challenger,Lost-General,0.0,86
+State Representative,Michael Dennis,CONSERVATIVE,NY,Open,Lost-General,0.0,87
+State Representative,Walter Nestler,GRN,NY,Open,Lost-General,0.0,87
+State Representative,Joseph Sullivan,CONSERVATIVE,NY,Open,Lost-General,0.0,109
+State Representative,Derek Java,GRN,NY,Open,Withdrew-General,0.0,114
+State Senator,Errol Toulon Jr.,DEM,NY,Challenger,Lost-General,0.0,2
+State Senator,Francis Genco,DEM,NY,Challenger,Lost-General,0.0,3
+State Senator,Thomas Feffer,DEM,NY,Challenger,Lost-General,0.0,9
+State Senator,Michael Freeman-Saulsberre,REP,NY,Challenger,Lost-General,0.0,18
+State Senator,Jane Neal,REP,NY,Challenger,Lost-General,0.0,19
+State Senator,Rose Laney,REP,NY,Challenger,Lost-General,0.0,20
+State Senator,Brian Kelly,CONSERVATIVE,NY,Challenger,Lost-General,0.0,20
+State Senator,John Jasilli Jr.,REP,NY,Challenger,Lost-General,0.0,25
+State Senator,Jacqueline Haro,REP,NY,Challenger,Lost-General,0.0,26
+State Senator,Robert Goodman,CONSERVATIVE,NY,Challenger,Lost-General,0.0,29
+State Senator,Thomas Siracuse,GRN,NY,Challenger,Lost-General,0.0,29
+State Senator,Martin Chicon,REP,NY,Challenger,Lost-General,0.0,31
+State Senator,Michael Walters,REP,NY,Challenger,Lost-General,0.0,33
+State Senator,Jonathon Benedict,GRN,NY,Challenger,Lost-General,0.0,62
+State Representative,Rosemarie Jarosz,CONSERVATIVE,NY,Challenger,Lost-General,0.0,89
+State Representative,James Campbell,LIB,NY,Open,Lost-General,0.0,108
+State Representative,Richard Wager,REP,NY,Open,Lost-General,0.0,103
+State Representative,Donnamarie Nolan,REP,NY,Open,Lost-General,0.0,93
+State Representative,William Boyland Jr.,DEM,NY,Incumbent,Won-General,0.0,55
+State Representative,Richard Cahill Jr.,REP,NY,Challenger,Disqualified-General,0.0,103
+State Senator,Brian Siklinski,INDEPENDENCE,NY,Challenger,Withdrew-General,0.0,60
+State Representative,Lauren Whalen Nelson,REP,NY,Challenger,Withdrew-General,0.0,26
+State Representative,Lisa Marie Campbell,CONSERVATIVE,NY,Challenger,Withdrew-General,0.0,83
+U.S. Representative,Anthony Tolda,CON,NY,Challenger,Lost-General,0.0,3
+U.S. Representative,Michael Chan,REP,NY,Challenger,Lost-General,0.0,10
+U.S. Representative,Joseph Diaferia,GRN,NY,Challenger,Lost-General,0.0,16
+U.S. Representative,Craig Schley,REP,NY,Challenger,Lost-General,0.0,13
+U.S. Senator,Colia Clark,GRN,NY,Challenger,Lost-General,0.0,nan
+U.S. Representative,Anthony Gronowicz,GRN,NY,Challenger,Lost-General,0.0,14
+U.S. Representative,Frank Della Valle,REP,NY,Challenger,Lost-General,0.0,15
+U.S. Representative,Michael McDermott,LIB,NY,Challenger,Lost-General,0.0,3
+U.S. Representative,Catherine Wark,LIB,NY,Challenger,Lost-General,0.0,5
+U.S. Representative,James Murray,CONSERVATIVE,NY,Challenger,Lost-General,0.0,7
+U.S. Representative,Alan Bellone,REP,NY,Open,Lost-General,0.0,8
+U.S. Representative,Daniel Cavanagh,REP,NY,Challenger,Lost-General,0.0,9
+U.S. Representative,Vivia Morgan,GRN,NY,Challenger,Lost-General,0.0,9
+U.S. Representative,Henry Bardel,GRN,NY,Challenger,Lost-General,0.0,11
+U.S. Representative,Deborah Liatos,SOC,NY,Challenger,Lost-General,0.0,13
+U.S. Representative,Francis Morganthaler,WE THE PEOPLE,NY,Challenger,Lost-General,0.0,17
+U.S. Representative,Donald Hassig,GRN,NY,Challenger,Lost-General,0.0,21
+U.S. Representative,Willam Gibbons Jr.,REP,NY,Challenger,Lost-General,0.0,14

@@ -1,0 +1,380 @@
+office,candidate,party,state,incumbency,result,total money,district
+U.S. Senator,Richard Blumenthal,DEM,CT,Incumbent,Won-General,6137079.9,nan
+U.S. Representative,James Himes,DEM,CT,Incumbent,Won-General,2034102.84,4
+U.S. Representative,Elizabeth Esty,DEM,CT,Incumbent,Won-General,1817072.92,5
+U.S. Representative,John Larson,DEM,CT,Incumbent,Won-General,1616037.66,1
+U.S. Representative,Joe Courtney,DEM,CT,Incumbent,Won-General,1192212.6,2
+U.S. Representative,Rosa Delauro,DEM,CT,Incumbent,Won-General,1148838.52,3
+U.S. Senator,Daniel Carter,REP,CT,Challenger,Lost-General,249065.28,nan
+State Senator,Theresa Bielinski Gerratana,DEM,CT,Incumbent,Won-General,196189.4,6
+State Senator,Edwin Gomes,DEM,CT,Incumbent,Won-General,195966.0,23
+State Senator,Marilyn Moore,DEM,CT,Incumbent,Won-General,195628.86,22
+U.S. Representative,John Shaban,REP,CT,Challenger,Lost-General,156254.73,4
+State Senator,Elizabeth Ann Bye,DEM,CT,Incumbent,Won-General,116178.64,5
+State Senator,Robert Duff,DEM,CT,Incumbent,Won-General,115460.0,25
+State Senator,Antonietta Boucher,REP,CT,Incumbent,Won-General,115350.0,26
+State Senator,Edward Kennedy Jr.,DEM,CT,Incumbent,Won-General,115026.85,12
+State Senator,Robert Kane,REP,CT,Incumbent,Won-General,113700.0,32
+State Senator,Arlene Avery,DEM,CT,Challenger,Lost-General,113618.03,35
+State Senator,Carlo Leone,DEM,CT,Incumbent,Won-General,113592.0,27
+State Senator,Norm Needleman,DEM,CT,Challenger,Lost-General,113545.0,33
+State Senator,Kevin Witkos,REP,CT,Incumbent,Won-General,113529.76,8
+State Senator,Catherine Osten,DEM,CT,Incumbent,Won-General,113487.38,19
+State Senator,Joseph Markley,REP,CT,Incumbent,Won-General,112968.38,16
+State Senator,Anthony Hwang,REP,CT,Incumbent,Won-General,112900.03,28
+State Senator,Eric Coleman,DEM,CT,Incumbent,Won-General,112769.0,2
+State Senator,John Fonfara,DEM,CT,Incumbent,Won-General,112745.16,1
+State Senator,Timothy Larson,DEM,CT,Incumbent,Won-General,112395.0,3
+State Senator,Joseph Crisco Jr.,DEM,CT,Incumbent,Lost-General,112270.04,17
+State Senator,Arthur Linares,REP,CT,Incumbent,Won-General,112264.68,33
+State Senator,David Lawson,DEM,CT,Challenger,Lost-General,112185.6,30
+State Senator,George Logan,REP,CT,Challenger,Won-General,112155.06,17
+State Senator,Craig Miner,REP,CT,Incumbent,Won-General,112117.0,30
+State Senator,Stephen Cassano,DEM,CT,Incumbent,Won-General,112005.0,4
+State Senator,Bruce Wilson Jr.,REP,CT,Challenger,Lost-General,111992.87,12
+State Senator,Paul Doyle,DEM,CT,Incumbent,Won-General,111895.0,9
+State Senator,Mae Flexer,DEM,CT,Incumbent,Won-General,111875.65,29
+State Senator,Kevin Kelly,REP,CT,Incumbent,Won-General,111812.06,21
+State Senator,Gregory Ehlers,REP,CT,Challenger,Lost-General,111694.0,25
+State Senator,Kenneth Gucker,DEM,CT,Challenger,Lost-General,111636.07,24
+State Senator,Dante Bartolomeo,DEM,CT,Incumbent,Lost-General,111600.0,13
+State Senator,Philip Dwyer,DEM,CT,Challenger,Lost-General,111503.03,28
+State Senator,Lorraine Marchetti,REP,CT,Challenger,Lost-General,111500.0,4
+State Senator,Michael McLachlan,REP,CT,Incumbent,Won-General,111490.0,24
+State Senator,John French,REP,CT,Challenger,Lost-General,111480.0,29
+State Senator,Greg Cava,DEM,CT,Challenger,Lost-General,111475.0,32
+State Senator,Carolyn Streeter Mirek,REP,CT,Challenger,Lost-General,111455.0,3
+State Senator,Mark Merritt,REP,CT,Challenger,Lost-General,111447.03,5
+State Senator,John Blankley,DEM,CT,Challenger,Lost-General,111444.0,36
+State Senator,John Kissel,REP,CT,Incumbent,Won-General,111409.0,7
+State Senator,Anthony Guglielmo,REP,CT,Incumbent,Won-General,111395.0,35
+State Senator,Henrietta Martin,REP,CT,Incumbent,Won-General,111295.0,31
+State Senator,Barbara Richardson Crouch,REP,CT,Challenger,Lost-General,111260.73,19
+State Senator,Timothy Russell Bowles,DEM,CT,Open,Lost-General,111248.0,18
+State Senator,Pat Libero,REP,CT,Challenger,Lost-General,111125.0,14
+State Senator,Annie Hornish,DEM,CT,Challenger,Lost-General,111113.0,7
+State Senator,Ryan Henowitz,DEM,CT,Challenger,Lost-General,111105.98,20
+State Senator,Ryan Rogers,DEM,CT,Challenger,Lost-General,110978.01,16
+State Senator,Leonard Frank Suzio Jr.,REP,CT,Challenger,Won-General,110975.0,13
+State Senator,Elaine Hammers,REP,CT,Challenger,Lost-General,109069.0,22
+State Senator,Paul Formica,REP,CT,Incumbent,Won-General,107958.54,20
+U.S. Representative,Clay Cope,REP,CT,Challenger,Lost-General,103752.67,5
+State Senator,Michael Nicastro,DEM,CT,Challenger,Lost-General,103385.16,31
+State Representative,Charlie Stallworth,DEM,CT,Incumbent,Won-General,62070.05,126
+State Representative,Christian Soto,DEM,CT,Open,Won-General,61622.06,39
+State Representative,Terry Adams,DEM,CT,Incumbent,Won-General,61125.92,146
+State Representative,Andre Baker Jr.,DEM,CT,Incumbent,Won-General,60853.25,124
+State Representative,Joshua Elliott,DEM,CT,Open,Won-General,58888.88,88
+State Representative,Dita Bhargava,DEM,CT,Challenger,Lost-General,51051.52,151
+U.S. Representative,Daria Novak,REP,CT,Challenger,Lost-General,50917.66,2
+State Senator,Martin Looney,DEM,CT,Incumbent,Won-General,46313.0,11
+State Representative,Jason Perillo,REP,CT,Incumbent,Won-General,45160.0,113
+State Senator,Leroy Scott Frantz,REP,CT,Incumbent,Won-General,42408.0,36
+State Representative,Sharon Palmer,DEM,CT,Challenger,Lost-General,40290.0,38
+State Representative,Emmett Riley,DEM,CT,Incumbent,Won-General,38495.04,46
+State Representative,Matthew Ritter,DEM,CT,Incumbent,Won-General,37215.0,1
+State Representative,Derek Slap,DEM,CT,Open,Won-General,36654.68,19
+State Representative,Lonnie Reed,DEM,CT,Incumbent,Won-General,36510.04,102
+State Representative,John Kennedy Hampton,DEM,CT,Incumbent,Won-General,36167.51,16
+State Representative,Saud Anwar,DEM,CT,Open,Lost-General,36140.1,14
+State Representative,Pat Boyd,DEM,CT,Open,Won-General,35661.38,50
+State Representative,John Fusco,REP,CT,Challenger,Won-General,35592.54,81
+State Representative,Jeffrey Berger,DEM,CT,Incumbent,Won-General,35505.0,73
+State Representative,Randy Klein,DEM,CT,Challenger,Lost-General,35420.03,141
+State Representative,Craig Fishbein,REP,CT,Open,Won-General,35277.03,90
+State Representative,Andrew Fleischmann,DEM,CT,Incumbent,Won-General,35231.0,18
+State Representative,Nicole Klarides Ditria,REP,CT,Challenger,Won-General,35125.0,105
+State Representative,Ben Gettinger,DEM,CT,Challenger,Lost-General,34990.02,119
+State Representative,Christie Carpino,REP,CT,Incumbent,Won-General,34976.0,32
+State Representative,Eva Bermudez Zimmerman,DEM,CT,Challenger,Lost-General,34951.54,106
+State Representative,Joseph Aresimowicz,DEM,CT,Incumbent,Won-General,34885.0,30
+State Representative,David Zoni,DEM,CT,Incumbent,Lost-General,34870.0,81
+State Representative,Holly Cheeseman,REP,CT,Open,Won-General,34855.05,37
+State Representative,Adam Dunsby,REP,CT,Open,Won-General,34845.02,135
+State Representative,Gregory Haddad,DEM,CT,Incumbent,Won-General,34831.06,54
+State Representative,David Baram,DEM,CT,Incumbent,Won-General,34825.0,15
+State Representative,Brenda Kupchick,REP,CT,Incumbent,Won-General,34720.05,132
+State Representative,James Albis,DEM,CT,Incumbent,Won-General,34720.0,99
+State Representative,Lydia Tedone,REP,CT,Challenger,Lost-General,34655.0,16
+State Representative,Steven Giacomi,REP,CT,Challenger,Lost-General,34620.0,73
+State Representative,Whit Betts,REP,CT,Incumbent,Won-General,34540.02,78
+State Representative,Caroline Simmons,DEM,CT,Incumbent,Won-General,34526.31,144
+State Representative,Prasad Sr.inivasan,REP,CT,Incumbent,Won-General,34521.0,31
+State Representative,Tami Zawistowski,REP,CT,Incumbent,Won-General,34480.0,61
+State Representative,Theresa Conroy,DEM,CT,Incumbent,Lost-General,34395.0,105
+State Representative,Elizabeth Linehan,DEM,CT,Open,Won-General,34392.02,103
+State Representative,Joseph Serra,DEM,CT,Incumbent,Won-General,34390.0,33
+State Representative,Toni Edmonds Walker,DEM,CT,Incumbent,Won-General,34345.0,93
+State Representative,Mary Jane Lundgren,DEM,CT,Open,Lost-General,34340.0,67
+State Representative,Michael Ferguson,REP,CT,Open,Won-General,34320.0,138
+State Representative,John Frey,REP,CT,Incumbent,Won-General,34315.0,111
+State Representative,David Arconti Jr.,DEM,CT,Incumbent,Won-General,34255.0,109
+State Representative,Daniel Fox,DEM,CT,Incumbent,Won-General,34250.03,148
+State Representative,Raymond Neuberger,REP,CT,Challenger,Lost-General,34250.0,133
+State Representative,William Tong,DEM,CT,Incumbent,Won-General,34241.0,147
+State Representative,Joseph Vollano,REP,CT,Challenger,Lost-General,34215.0,83
+State Representative,Dru Georgiadis,DEM,CT,Challenger,Lost-General,34195.0,132
+State Representative,Matt Saunig,DEM,CT,Challenger,Lost-General,34180.0,31
+State Representative,William Duff,REP,CT,Open,Won-General,34179.0,2
+State Representative,Steven Stafstrom,DEM,CT,Incumbent,Won-General,34164.0,129
+State Representative,Chris Barnes,REP,CT,Open,Lost-General,34125.0,19
+State Representative,Charles Ferraro,REP,CT,Incumbent,Won-General,34125.0,117
+State Representative,Carol Hall,REP,CT,Open,Won-General,34105.04,59
+State Representative,Robert Sampson,REP,CT,Incumbent,Won-General,34073.07,80
+State Representative,Myrna Watanabe,DEM,CT,Challenger,Lost-General,34067.31,76
+State Representative,Laura Bartok,DEM,CT,Challenger,Lost-General,34045.27,77
+State Representative,John Scott,REP,CT,Incumbent,Lost-General,34034.88,40
+State Representative,Todd Schaller,REP,CT,Challenger,Lost-General,34025.06,65
+State Representative,Jonathan Steinberg,DEM,CT,Incumbent,Won-General,34024.42,136
+State Representative,Stephanie Cummings,REP,CT,Open,Won-General,33995.02,74
+State Representative,Mark Tweedie,REP,CT,Incumbent,Won-General,33995.0,13
+State Representative,Geraldo Reyes Jr.,DEM,CT,Incumbent,Won-General,33992.05,75
+State Representative,Frederick Garrity Jr.,DEM,CT,Challenger,Lost-General,33985.0,134
+State Representative,Christopher Perone,DEM,CT,Incumbent,Won-General,33973.0,137
+State Representative,Emanuela Palmares,REP,CT,Challenger,Lost-General,33950.0,110
+State Representative,Joe De La Cruz,DEM,CT,Challenger,Won-General,33949.0,41
+State Representative,Frederick Streets,DEM,CT,Challenger,Lost-General,33940.0,120
+State Representative,Kate Donnelly,DEM,CT,Challenger,Lost-General,33929.0,47
+State Representative,Jeff Tomchik,DEM,CT,Open,Lost-General,33922.75,138
+State Representative,Joe Dowdell,DEM,CT,Challenger,Lost-General,33918.0,111
+State Representative,Eric Berthel,REP,CT,Incumbent,Won-General,33905.0,68
+State Representative,Tony Fantoli,REP,CT,Challenger,Lost-General,33902.55,49
+State Representative,Mary Mushinsky,DEM,CT,Incumbent,Won-General,33895.04,85
+State Representative,Joshua Shulman,DEM,CT,Challenger,Lost-General,33895.0,27
+State Representative,Philip Miller,DEM,CT,Incumbent,Lost-General,33885.0,36
+State Representative,Fred Camillo,REP,CT,Incumbent,Won-General,33885.0,151
+State Representative,Terrie Wood,REP,CT,Incumbent,Won-General,33850.06,141
+State Representative,Linda Orange,DEM,CT,Incumbent,Won-General,33842.41,48
+State Representative,Joseph Diminico,DEM,CT,Challenger,Lost-General,33835.67,13
+State Representative,Bonnie Troy,DEM,CT,Open,Lost-General,33834.0,135
+State Representative,Mitch Bolinsky,REP,CT,Incumbent,Won-General,33830.0,106
+State Representative,David Alexander,DEM,CT,Incumbent,Lost-General,33825.0,58
+State Representative,Tom Delnicki,REP,CT,Open,Won-General,33795.0,14
+State Representative,Edwin Vargas Jr.,DEM,CT,Incumbent,Won-General,33790.0,6
+State Representative,Michael Winkler,DEM,CT,Open,Won-General,33786.05,56
+State Representative,Scott Flaherty,DEM,CT,Challenger,Lost-General,33780.0,131
+State Representative,Michael Demicco,DEM,CT,Incumbent,Won-General,33778.04,21
+State Representative,Christine Rosati Randall,DEM,CT,Incumbent,Lost-General,33770.0,44
+State Representative,Linda Gentile,DEM,CT,Incumbent,Won-General,33765.0,104
+State Representative,Veasna Roeun,REP,CT,Challenger,Lost-General,33755.0,109
+State Representative,Antonio Guerrera,DEM,CT,Incumbent,Won-General,33750.04,29
+State Representative,Ethan Book,REP,CT,Challenger,Lost-General,33750.0,128
+State Representative,Robert Levine,REP,CT,Challenger,Lost-General,33736.0,18
+State Representative,Robert Siegrist,REP,CT,Challenger,Won-General,33725.35,36
+State Representative,Kevin Ryan,DEM,CT,Incumbent,Won-General,33725.0,139
+State Representative,John Piscopo,REP,CT,Incumbent,Won-General,33700.04,76
+State Representative,Gayle Carr,DEM,CT,Open,Lost-General,33691.0,66
+State Representative,Krystal Myers,DEM,CT,Challenger,Lost-General,33685.04,78
+State Representative,Tracey Hanson,DEM,CT,Open,Lost-General,33666.8,45
+State Representative,David Labriola,REP,CT,Incumbent,Won-General,33642.05,131
+State Representative,Stephen Harding,REP,CT,Incumbent,Won-General,33640.0,107
+State Representative,Michael Malloy,DEM,CT,Challenger,Lost-General,33637.0,61
+State Representative,Kelly Juleson-Scopino,DEM,CT,Incumbent,Won-General,33625.0,12
+State Representative,Darline Perpignan,REP,CT,Challenger,Lost-General,33625.0,137
+State Representative,William Riiska,DEM,CT,Open,Lost-General,33616.06,64
+State Representative,Christopher Forster,REP,CT,Challenger,Lost-General,33605.0,21
+State Representative,Andrew Falvey,REP,CT,Open,Lost-General,33595.0,103
+State Representative,Cristin McCarthy Vahey,DEM,CT,Incumbent,Won-General,33593.0,133
+State Representative,Kim Rose,DEM,CT,Incumbent,Won-General,33591.0,118
+State Representative,Susan Eastwood,DEM,CT,Challenger,Lost-General,33590.0,53
+State Representative,Elizabeth Boukus,DEM,CT,Incumbent,Lost-General,33580.0,22
+State Representative,Steven Bartolo Kolenberg,REP,CT,Challenger,Lost-General,33575.02,144
+State Representative,Timothy Ackert,REP,CT,Incumbent,Won-General,33570.0,8
+State Representative,William Buckbee,REP,CT,Open,Won-General,33562.0,67
+State Representative,Beth Hogan,DEM,CT,Open,Lost-General,33560.04,37
+State Representative,Matthew Lesser,DEM,CT,Incumbent,Won-General,33555.0,100
+State Representative,David Yaccarino,REP,CT,Incumbent,Won-General,33550.09,87
+State Representative,Douglas Dubitsky,REP,CT,Incumbent,Won-General,33550.0,47
+State Representative,Sean Ronan,DEM,CT,Challenger,Lost-General,33545.05,117
+State Representative,Joseph Jaumann,REP,CT,Challenger,Lost-General,33545.0,104
+State Representative,Jim Tedford,REP,CT,Open,Lost-General,33537.0,56
+State Representative,Michelle Cook,DEM,CT,Incumbent,Won-General,33536.25,65
+State Representative,Pamela Staneski,REP,CT,Incumbent,Won-General,33525.0,119
+State Representative,Laura Devlin,REP,CT,Incumbent,Won-General,33525.0,134
+State Representative,David Rutigliano,REP,CT,Incumbent,Won-General,33520.0,123
+State Representative,Kathleen McCarty,REP,CT,Incumbent,Won-General,33517.79,38
+State Representative,Sean McGary,REP,CT,Incumbent,Won-General,33495.0,27
+State Representative,Patrick Reynolds,DEM,CT,Open,Lost-General,33493.0,90
+State Representative,Patricia Billie Miller,DEM,CT,Incumbent,Won-General,33484.0,145
+State Representative,Kathy Bachiochi,DEM,CT,Challenger,Lost-General,33479.0,52
+State Representative,Jesse Maclachlan,REP,CT,Incumbent,Won-General,33475.0,35
+State Representative,Lino Costantini,DEM,CT,Challenger,Lost-General,33474.35,123
+State Representative,Pete Del Mastro,REP,CT,Open,Lost-General,33460.0,79
+State Representative,Laura Hoydick,REP,CT,Incumbent,Won-General,33455.03,120
+State Representative,Russell Morin,DEM,CT,Incumbent,Won-General,33455.0,28
+State Representative,Big Steve Tracey,REP,CT,Challenger,Lost-General,33440.02,99
+State Representative,Raghib Allie-Brennan,DEM,CT,Open,Lost-General,33438.58,2
+State Representative,James Sanders Jr.,REP,CT,Challenger,Lost-General,33438.0,24
+State Representative,Robert Godfrey,DEM,CT,Incumbent,Won-General,33415.03,110
+State Representative,Catherine Abercrombie,DEM,CT,Incumbent,Won-General,33412.0,83
+State Representative,Robert Sanchez,DEM,CT,Incumbent,Won-General,33400.0,25
+State Representative,Christine Conley,DEM,CT,Challenger,Won-General,33390.0,40
+State Representative,Paul Panos,REP,CT,Challenger,Lost-General,33355.03,5
+State Representative,Adam Heller,DEM,CT,Challenger,Lost-General,33355.0,113
+State Representative,Joseph Gresko,DEM,CT,Incumbent,Won-General,33355.0,121
+State Representative,Timothy Curtis,DEM,CT,Open,Lost-General,33345.04,60
+State Representative,Stephen Dargan,DEM,CT,Incumbent,Won-General,33340.04,115
+State Representative,Christopher Rosario,DEM,CT,Incumbent,Won-General,33340.0,128
+State Representative,Rick Lopes,DEM,CT,Incumbent,Won-General,33325.0,24
+State Representative,David Wilson,REP,CT,Open,Won-General,33320.05,66
+State Representative,Thomas Currier,DEM,CT,Challenger,Lost-General,33315.16,8
+State Representative,Ellen Dahlgren,DEM,CT,Challenger,Lost-General,33311.2,35
+State Representative,Richard Depalma,REP,CT,Open,Lost-General,33305.0,116
+State Representative,Anthony Dipace,DEM,CT,Open,Lost-General,33289.0,59
+State Representative,Catherine Walsh,REP,CT,Challenger,Lost-General,33280.0,136
+State Representative,Raymond Work,REP,CT,Challenger,Lost-General,33277.0,75
+State Representative,Marjorie Bonadies,REP,CT,Open,Lost-General,33272.44,88
+State Representative,Brian Ohler,REP,CT,Open,Won-General,33267.0,64
+State Representative,Christopher Ziogas,DEM,CT,Open,Won-General,33230.02,79
+State Representative,Wendy Tyson-Wood,DEM,CT,Open,Lost-General,33229.0,74
+State Representative,Rick Varrone,REP,CT,Challenger,Lost-General,33212.0,118
+State Representative,Susan Johnson,DEM,CT,Incumbent,Won-General,33113.64,49
+State Representative,Henry Genga,DEM,CT,Incumbent,Won-General,33111.0,10
+State Representative,Peter Tercyak,DEM,CT,Incumbent,Won-General,33009.45,26
+State Representative,John Topping,REP,CT,Challenger,Lost-General,33009.44,12
+State Representative,Michael Hurley,REP,CT,Challenger,Lost-General,32830.0,28
+State Representative,Linda Szynkowicz,REP,CT,Challenger,Lost-General,32491.69,33
+State Representative,Cara Christine Pavalock-Damato,REP,CT,Incumbent,Won-General,31631.0,77
+State Representative,Diana Urban,DEM,CT,Incumbent,Won-General,31496.05,43
+State Representative,Steve Gifford,DEM,CT,Challenger,Lost-General,30855.0,87
+State Senator,Joan Hartley,DEM,CT,Incumbent,Won-General,29860.0,15
+State Representative,Daniel Rovero,DEM,CT,Incumbent,Won-General,27333.3,51
+State Representative,Geraldo Reyes Jr.,DEM,CT,Open,Won-General,26857.53,75
+State Representative,Themis Klarides,REP,CT,Incumbent,Won-General,26336.67,114
+State Representative,Susan Barksdale,REP,CT,Open,Lost-General,26050.04,121
+State Representative,Raymond Work,REP,CT,Open,Lost-General,25872.53,75
+State Representative,Friedrich Wilms,REP,CT,Incumbent,Won-General,25506.67,142
+State Representative,Joseph Gresko,DEM,CT,Open,Won-General,25117.5,121
+State Representative,Jay Case,REP,CT,Incumbent,Won-General,25060.06,63
+State Representative,Ben McGorty,REP,CT,Incumbent,Won-General,24229.67,122
+State Representative,Jason Rojas,DEM,CT,Incumbent,Won-General,24166.67,9
+State Representative,Larry Butler,DEM,CT,Incumbent,Won-General,24099.67,72
+State Representative,Hilda Santiago,DEM,CT,Incumbent,Won-General,24081.75,84
+State Senator,Heather Somers,REP,CT,Open,Won-General,19895.0,18
+State Representative,Gail Lavielle,REP,CT,Incumbent,Won-General,18535.05,143
+State Senator,David Pena,DEM,CT,Challenger,Lost-General,16975.0,8
+U.S. Representative,Matthew McKinnon Corey,REP,CT,Challenger,Lost-General,15490.31,1
+State Representative,Juan Candelaria,DEM,CT,Incumbent,Won-General,15330.03,95
+State Representative,Sean Scanlon,DEM,CT,Open,Won-General,15075.0,98
+State Representative,Minnie Gonzalez,DEM,CT,Incumbent,Won-General,14095.7,3
+State Representative,William Simanski,REP,CT,Incumbent,Won-General,14010.0,62
+State Representative,Joseph Verrengia,DEM,CT,Incumbent,Won-General,13881.0,20
+State Representative,Robyn Porter,DEM,CT,Incumbent,Won-General,13801.0,94
+State Senator,Sharon Beloin-Saavedra,PETITIONING CANDIDATE,CT,Challenger,Lost-General,13025.0,6
+State Senator,Gayle Slossberg,DEM,CT,Incumbent,Won-General,10751.02,14
+State Representative,Michael Dagostino,DEM,CT,Incumbent,Won-General,10710.64,91
+State Senator,Charles Paonessa,REP,CT,Challenger,Lost-General,10152.0,6
+State Representative,Melissa Ziobron,REP,CT,Incumbent,Won-General,7945.0,34
+State Representative,Lezlye Zupkus,REP,CT,Incumbent,Won-General,7695.0,89
+State Representative,Angel Arce,DEM,CT,Incumbent,Won-General,7291.0,4
+State Representative,Devin Carney,REP,CT,Incumbent,Won-General,7002.34,23
+State Representative,Aundre Bumgardner,REP,CT,Incumbent,Lost-General,6905.0,41
+State Representative,Patricia Dillon,DEM,CT,Incumbent,Won-General,6780.0,92
+State Representative,Jeffrey Currey,DEM,CT,Incumbent,Won-General,6670.42,11
+State Senator,Gino Bottino,REP,CT,Challenger,Lost-General,6170.0,27
+State Representative,Christopher Kelly,REP,CT,Challenger,Lost-General,6160.0,102
+State Representative,Noreen Kokoruda,REP,CT,Incumbent,Won-General,6139.88,101
+State Representative,Michael Dimassa,DEM,CT,Open,Won-General,5680.0,116
+State Representative,Rob Dempsky,REP,CT,Challenger,Lost-General,5570.0,46
+State Representative,Christopher Morelli,REP,CT,Challenger,Lost-General,5498.0,30
+State Representative,Brian Lynch,REP,CT,Challenger,Lost-General,5385.0,51
+State Representative,Giselle Jacobs,PETITIONING CANDIDATE,CT,Challenger,Lost-General,5335.0,7
+State Representative,Vincent Mase,PETITIONING CANDIDATE,CT,Open,Lost-General,5331.0,86
+State Representative,Kevin Skulczyck,REP,CT,Open,Won-General,5284.0,45
+State Representative,Evan Evans,REP,CT,Challenger,Lost-General,5257.0,48
+State Representative,Scott Storms,REP,CT,Open,Won-General,5250.0,60
+State Representative,William Petit Jr.,REP,CT,Challenger,Won-General,5215.0,22
+State Representative,Serge Mihaly,REP,CT,Challenger,Lost-General,5184.98,85
+State Representative,Gregory Stokes,REP,CT,Challenger,Won-General,5165.0,58
+State Representative,Kurt Vail,REP,CT,Incumbent,Won-General,5160.0,52
+State Representative,Nora Valentine,REP,CT,Open,Lost-General,5131.0,50
+State Representative,Andrew Lockwood,PETITIONING CANDIDATE,CT,Open,Lost-General,5075.0,39
+State Representative,Sam Belsito,REP,CT,Incumbent,Won-General,5062.5,53
+State Representative,Brandon McGee,DEM,CT,Incumbent,Won-General,5030.0,5
+State Representative,Anne Dubay Dauphinais,REP,CT,Challenger,Won-General,5000.0,44
+State Representative,Timothy Legeyt,REP,CT,Incumbent,Won-General,4750.0,17
+State Representative,Joseph Mark Taraya,REP,CT,Challenger,Lost-General,4305.0,139
+State Senator,Leonard Fasano Jr.,REP,CT,Incumbent,Won-General,4300.0,34
+State Representative,Mark Sargent,REP,CT,Challenger,Lost-General,4055.0,54
+State Representative,Jp Sr.edzinski,REP,CT,Incumbent,Won-General,3962.0,112
+State Representative,Christopher Davis,REP,CT,Incumbent,Won-General,3906.0,57
+State Representative,Arthur Oneill,REP,CT,Incumbent,Won-General,3665.0,69
+State Representative,Philip Balestriere,REP,CT,Challenger,Lost-General,3605.0,148
+State Representative,Mike Bocchino,REP,CT,Incumbent,Won-General,3495.0,150
+State Representative,Roland Lemar,DEM,CT,Incumbent,Won-General,3300.0,96
+State Representative,Robin Green,REP,CT,Open,Won-General,3280.0,55
+State Representative,Mike France,REP,CT,Incumbent,Won-General,3105.0,42
+State Representative,Emil Altobello Jr.,DEM,CT,Incumbent,Won-General,3085.0,82
+State Representative,Nicholas Mullane II,REP,CT,Challenger,Lost-General,2859.0,43
+State Representative,Bonita Hong,PETITIONING CANDIDATE,CT,Challenger,Lost-General,2855.0,46
+State Representative,Desiree Agosto,REP,CT,Challenger,Lost-General,2650.0,26
+State Representative,Douglas Losty,REP,CT,Challenger,Lost-General,2332.01,93
+State Representative,Anthony Damelio,REP,CT,Incumbent,Won-General,2206.88,71
+State Senator,Sean McGary,DEM,CT,Incumbent,Won-General,2093.0,10
+State Representative,Linda Louise Lacasse,PETITIONING CANDIDATE,CT,Challenger,Lost-General,1805.0,52
+State Representative,Lauren Shaw,GRN,CT,Challenger,Lost-General,1530.0,38
+State Representative,Richard Smith,REP,CT,Open,Won-General,1309.88,108
+State Senator,Prez Palmer,DEM,CT,Challenger,Lost-General,1294.55,21
+State Representative,Vernon Matthews Jr.,IND,CT,Challenger,Lost-General,1245.0,72
+State Senator,Theresa Tillett,REP,CT,Challenger,Lost-General,1110.0,2
+State Representative,Alphonse Paolillo Jr.,DEM,CT,Open,Won-General,1050.0,97
+State Representative,John Hennessy,DEM,CT,Incumbent,Won-General,1040.0,127
+State Representative,Todd Brown,REP,CT,Challenger,Lost-General,960.0,29
+State Representative,Anthony Rj Moran,REP,CT,Challenger,Lost-General,875.0,100
+State Representative,Bruce Morris,DEM,CT,Incumbent,Won-General,800.0,140
+State Representative,Vincent Candelora,REP,CT,Open,Won-General,750.0,86
+State Representative,Ronna Stuller,GRN,CT,Open,Lost-General,632.34,39
+State Representative,James Lynch,REP,CT,Challenger,Lost-General,470.43,91
+State Representative,Ezequiel Santiago,DEM,CT,Incumbent,Won-General,300.0,130
+State Representative,Myron Johnson,DEM,CT,Challenger,Lost-General,235.0,32
+State Representative,Richard Gadomski,REP,CT,Challenger,Lost-General,175.0,25
+State Representative,Douglas McCrory,DEM,CT,Incumbent,Won-General,25.0,7
+State Representative,Kenneth Lerman,REP,CT,Challenger,Lost-General,0.0,1
+State Representative,Lloyd Carter,REP,CT,Challenger,Lost-General,0.0,4
+State Representative,Russell Williams,REP,CT,Challenger,Lost-General,0.0,6
+State Representative,Richard Lion,LIB,CT,Challenger,Lost-General,0.0,9
+State Representative,Travis Simpson,REP,CT,Challenger,Lost-General,0.0,10
+State Representative,Robert Kalechman,PETITIONING CANDIDATE,CT,Challenger,Lost-General,0.0,16
+State Representative,Martha Kelly,GRN,CT,Challenger,Lost-General,0.0,25
+State Representative,Lee Johnson,PETITIONING CANDIDATE,CT,Challenger,Lost-General,0.0,28
+State Representative,Ian Barron,GRN,CT,Challenger,Lost-General,0.0,35
+State Representative,Austin Coco,LIB,CT,Challenger,Lost-General,0.0,35
+State Representative,Cynthia Day,GRN,CT,Open,Lost-General,0.0,67
+State Representative,Rosa Rebimbas,REP,CT,Incumbent,Won-General,0.0,70
+State Representative,Danielle Albert,IND,CT,Challenger,Lost-General,0.0,71
+State Representative,Richard John Cam,PETITIONING CANDIDATE,CT,Challenger,Lost-General,0.0,72
+State Representative,Theodore Derouin Jr.,IND,CT,Challenger,Lost-General,0.0,75
+State Representative,Matthew Went,GRN,CT,Challenger,Lost-General,0.0,84
+State Representative,Aldon Hynes,WORKING FAMILIES,CT,Challenger,Lost-General,0.0,114
+State Representative,Bart Chadderton,REP,CT,Challenger,Lost-General,0.0,115
+State Representative,Cliffton Price,PETITIONING CANDIDATE,CT,Challenger,Lost-General,0.0,120
+State Representative,Angela Capinera,GRN,CT,Challenger,Lost-General,0.0,122
+State Representative,Jose Quiroga,REP,CT,Challenger,Lost-General,0.0,124
+State Representative,Tom Odea,REP,CT,Incumbent,Won-General,0.0,125
+State Representative,Hector Lopez,GRN,CT,Challenger,Lost-General,0.0,125
+State Representative,Anthony Pizighelli,REP,CT,Challenger,Lost-General,0.0,126
+State Representative,Ruben Coriano,REP,CT,Challenger,Lost-General,0.0,127
+State Representative,Peter Perillo,REP,CT,Challenger,Lost-General,0.0,129
+State Representative,Melissa Borres,REP,CT,Challenger,Lost-General,0.0,130
+State Representative,Anna Duleep,WORKING FAMILIES,CT,Challenger,Lost-General,0.0,142
+State Representative,Francky Trofort,REP,CT,Challenger,Lost-General,0.0,145
+State Representative,Arkadiusz Jakubowski,REP,CT,Challenger,Lost-General,0.0,146
+State Representative,Olivia Floren,REP,CT,Incumbent,Won-General,0.0,149
+State Senator,Barbara Barry,GRN,CT,Challenger,Lost-General,0.0,1
+State Senator,Barbara Ruhe,REP,CT,Challenger,Lost-General,0.0,1
+State Senator,Earle Roberts,REP,CT,Challenger,Lost-General,0.0,9
+State Senator,James Russell,IND,CT,Challenger,Lost-General,0.0,15
+State Senator,Mike Garrett,REP,CT,Challenger,Lost-General,0.0,23
+State Senator,Carolanne Curry,DEM,CT,Challenger,Lost-General,0.0,26
+State Senator,Cora Marie Santaguida,GRN,CT,Challenger,Lost-General,0.0,27
+State Senator,Colin Daniel Bennett,GRN,CT,Challenger,Lost-General,0.0,33
+State Senator,Edward Heflin,GRN,CT,Challenger,Lost-General,0.0,36
+U.S. Representative,Michael Derosa,GRN,CT,Challenger,Lost-General,0.0,1
+U.S. Representative,Jonathan Pelto,GRN,CT,Challenger,Lost-General,0.0,2
+U.S. Representative,Daniel Reale,LIB,CT,Challenger,Lost-General,0.0,2
+U.S. Representative,Angel Cadena,REP,CT,Challenger,Lost-General,0.0,3
+U.S. Senator,Richard Lion,LIB,CT,Challenger,Lost-General,0.0,nan
+U.S. Senator,Jeffery Russell,GRN,CT,Challenger,Lost-General,0.0,nan
+State Representative,Craig Fishbein,REP,CT,Open,Won-General,0.0,90
+State Representative,Patrick Reynolds,DEM,CT,Open,Lost-General,0.0,90
+State Representative,Brian Merlen,GRN,CT,Challenger,Lost-General,0.0,148

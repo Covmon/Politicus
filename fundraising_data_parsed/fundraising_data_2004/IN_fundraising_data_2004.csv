@@ -1,0 +1,237 @@
+office,candidate,party,state,incumbency,result,total money,district
+Governor,Mitch Daniels,REP,IN,Challenger,Won-General,19178346.36,nan
+Governor,Joseph Kernan,DEM,IN,Incumbent,Lost-General,16076775.19,nan
+Attorney General,Stephen Carter,REP,IN,Incumbent,Won-General,1887902.54,nan
+Attorney General,Joseph Hogsett,DEM,IN,Challenger,Lost-General,1180385.15,nan
+State Senator,Vi Simpson,DEM,IN,Incumbent,Won-General,1005454.34,40
+State Representative,Ron Liggett,DEM,IN,Incumbent,Lost-General,731835.07,33
+State Representative,Bill Davis,REP,IN,Challenger,Won-General,495035.81,33
+State Representative,Patrick Bauer,DEM,IN,Incumbent,Won-General,412370.11,6
+State Representative,Bruce Alan Borders,REP,IN,Challenger,Won-General,380936.41,45
+State Representative,Phil Hoy,DEM,IN,Open,Won-General,379730.54,77
+State Representative,Craig Raymond Fry,DEM,IN,Incumbent,Won-General,331447.62,5
+State Representative,Alan Chowning,DEM,IN,Incumbent,Lost-General,326728.55,45
+State Representative,Joe Micon,DEM,IN,Open,Won-General,322819.85,26
+State Representative,Brian Bosma,REP,IN,Incumbent,Won-General,304437.0,88
+State Representative,Larry Hile,DEM,IN,Open,Lost-General,286388.57,31
+State Senator,Howard Kenley,REP,IN,Incumbent,Won-General,267340.91,20
+State Representative,Michael Reddy,REP,IN,Challenger,Lost-General,262439.1,5
+State Representative,Brooks Laplante,REP,IN,Incumbent,Lost-General,260639.37,46
+State Representative,David Orentlicher,DEM,IN,Incumbent,Won-General,235101.74,86
+State Representative,Timothy Harris,REP,IN,Open,Won-General,210368.77,31
+State Representative,Phillip Pflum,DEM,IN,Incumbent,Won-General,197103.64,56
+State Representative,Mort Large,REP,IN,Challenger,Lost-General,196947.54,86
+State Representative,John Smith,REP,IN,Challenger,Won-General,193411.26,30
+State Senator,Nancy Dembowski,DEM,IN,Incumbent,Lost-General,190650.18,5
+State Senator,Robert Meeks,REP,IN,Incumbent,Won-General,189216.12,13
+State Representative,Connie Basham,REP,IN,Open,Lost-General,181895.64,26
+State Senator,Brent Waltz,REP,IN,Open,Won-General,181750.0,36
+State Representative,Ron Herrell,DEM,IN,Incumbent,Lost-General,173499.71,30
+State Representative,Robert Kuzman,DEM,IN,Incumbent,Won-General,171835.0,19
+State Senator,Victor Heinold,REP,IN,Challenger,Won-General,159850.15,5
+State Representative,Markt Lance Lytle,DEM,IN,Incumbent,Lost-General,157290.48,69
+State Representative,Billy Bright,REP,IN,Challenger,Won-General,151601.5,69
+State Representative,Ed Yanos,REP,IN,Challenger,Lost-General,140064.08,56
+State Representative,Vern Tincher,DEM,IN,Challenger,Won-General,140036.02,46
+State Senator,David Long,REP,IN,Incumbent,Won-General,136204.51,16
+State Senator,Patricia Miller,REP,IN,Incumbent,Won-General,131173.43,32
+State Representative,Rusell Stilwell,DEM,IN,Incumbent,Won-General,116903.43,74
+State Representative,Jerry Denbo,DEM,IN,Incumbent,Won-General,114075.06,62
+State Representative,William Crawford,DEM,IN,Incumbent,Won-General,113460.85,98
+State Representative,Jeffrey Keller Espich,REP,IN,Incumbent,Won-General,112602.09,82
+State Representative,Andrew Thomas,REP,IN,Incumbent,Won-General,110070.5,44
+State Representative,Scott Reske,DEM,IN,Incumbent,Won-General,108808.8,37
+State Senator,Robert Jackman,REP,IN,Incumbent,Won-General,108192.89,42
+State Representative,David Hennig,REP,IN,Open,Lost-General,104296.53,77
+State Representative,John Gregory Frenz,DEM,IN,Incumbent,Lost-General,103775.89,64
+State Representative,Charlie Brown,DEM,IN,Incumbent,Won-General,102766.5,3
+State Representative,Linda Lawson,DEM,IN,Incumbent,Won-General,99971.49,1
+State Representative,Michael Murphy,REP,IN,Incumbent,Won-General,99446.22,90
+Superintendent Of Public Instruction,Suellen Reed,REP,IN,Incumbent,Won-General,93719.56,nan
+State Representative,Troy Woodruff,REP,IN,Challenger,Won-General,91591.45,64
+State Representative,Randy Borror,REP,IN,Incumbent,Won-General,89343.49,84
+State Representative,Chester Dobis,DEM,IN,Incumbent,Won-General,86505.0,13
+State Representative,William Friend,REP,IN,Incumbent,Won-General,77779.49,23
+State Representative,Steven Heim,REP,IN,Incumbent,Won-General,77636.02,17
+State Representative,John Cornelious Aguilera,DEM,IN,Incumbent,Won-General,76890.0,12
+State Representative,Jacqueline Swihart Walorski,REP,IN,Open,Won-General,76207.4,21
+State Representative,Trent Van Haaften,DEM,IN,Open,Won-General,76201.6,76
+State Representative,Jack Lutz,REP,IN,Incumbent,Won-General,75659.95,35
+State Representative,David Crooks,DEM,IN,Incumbent,Won-General,73693.5,63
+State Representative,Janie Craig Chenault,REP,IN,Challenger,Lost-General,72791.13,62
+State Representative,Kathy Kreag Richardson,REP,IN,Incumbent,Won-General,72351.82,29
+State Representative,Terri Jo Austin,DEM,IN,Incumbent,Won-General,71146.0,36
+State Representative,Luke Messer,REP,IN,Incumbent,Won-General,69194.9,57
+State Representative,Dennie Ray Oxley,DEM,IN,Incumbent,Won-General,69035.0,73
+State Representative,Marlin Stutzman,REP,IN,Incumbent,Won-General,66749.81,52
+State Representative,Dan Stevenson Sr.,DEM,IN,Incumbent,Won-General,65244.11,11
+State Senator,Michael Young,REP,IN,Incumbent,Won-General,64484.69,35
+State Representative,Robert Cherry,REP,IN,Incumbent,Won-General,63225.0,53
+State Representative,Vaneta Becker,REP,IN,Incumbent,Won-General,62659.0,78
+State Representative,Matthew Whetstone,REP,IN,Incumbent,Won-General,61515.52,40
+State Representative,Cynthia Jean Noe,REP,IN,Incumbent,Won-General,60580.0,87
+State Senator,Beverly Gard,REP,IN,Incumbent,Won-General,60150.0,28
+State Senator,Thomas Weatherwax,REP,IN,Incumbent,Won-General,59918.02,18
+State Representative,Sheila Klinker,DEM,IN,Incumbent,Won-General,59746.0,27
+State Representative,Terry Allen Goodin,DEM,IN,Incumbent,Won-General,59710.22,66
+State Representative,Charles Burton,REP,IN,Incumbent,Won-General,59685.0,58
+State Representative,Peggy Welch,DEM,IN,Incumbent,Won-General,59555.4,60
+State Representative,Paul Eric Turner,REP,IN,Incumbent,Won-General,58114.68,32
+State Senator,Marvin Riegsecker,REP,IN,Incumbent,Won-General,56225.92,12
+State Representative,William Charles Cochran,DEM,IN,Incumbent,Won-General,55725.0,72
+State Representative,Edmund Mahern,DEM,IN,Incumbent,Won-General,55575.72,97
+State Representative,Floyd Dale Grubb,DEM,IN,Incumbent,Won-General,55375.0,42
+State Representative,Mary Kay Budak,REP,IN,Incumbent,Won-General,53855.0,20
+State Senator,Becky Skillman,REP,IN,Incumbent,Withdrew-General,53007.0,44
+State Representative,Jeffery Lee,REP,IN,Challenger,Withdrew-General,52634.32,46
+State Senator,Brandt Hershman,REP,IN,Incumbent,Won-General,51614.38,7
+State Representative,Gregory Porter,DEM,IN,Incumbent,Won-General,50030.25,96
+State Representative,Carolene Renee Mays,DEM,IN,Incumbent,Won-General,49850.56,94
+State Representative,David Frizzell,REP,IN,Incumbent,Won-General,48862.26,93
+State Senator,Teresa Lubbers,REP,IN,Incumbent,Won-General,47368.55,30
+State Senator,Anita Olga Bowser,DEM,IN,Incumbent,Won-General,46640.9,8
+State Senator,Gregory Server,REP,IN,Incumbent,Won-General,45775.0,50
+State Representative,Raymond Kirtley,DEM,IN,Challenger,Lost-General,45195.0,41
+State Senator,Connie Lawson,REP,IN,Incumbent,Won-General,44977.0,24
+State Representative,Thomas Saunders,REP,IN,Incumbent,Won-General,44826.95,54
+State Representative,Scott Douglas Pelath,DEM,IN,Incumbent,Won-General,44778.12,9
+State Representative,Richard McClain,REP,IN,Incumbent,Won-General,43845.0,24
+State Representative,Cleo Duncan,REP,IN,Incumbent,Won-General,41365.0,67
+State Representative,James Buck,REP,IN,Incumbent,Won-General,41308.08,38
+State Representative,Rolla Tiny Adams,DEM,IN,Incumbent,Won-General,41303.0,34
+State Representative,Roxanne Butler,REP,IN,Challenger,Lost-General,40559.5,97
+State Senator,Glenn Howard,DEM,IN,Incumbent,Won-General,40150.0,33
+State Senator,John Edward Broden,DEM,IN,Incumbent,Won-General,39149.0,10
+State Representative,Donald Lehe,REP,IN,Incumbent,Won-General,38585.0,15
+State Representative,Eric Gutwein,REP,IN,Incumbent,Won-General,38179.0,16
+State Representative,Eric Koch,REP,IN,Incumbent,Won-General,38030.0,65
+State Senator,Earline Rogers,DEM,IN,Incumbent,Won-General,37364.3,3
+State Representative,David Alan Wolkins,REP,IN,Incumbent,Won-General,37261.0,18
+State Representative,William Ruppel,REP,IN,Incumbent,Won-General,36502.0,22
+State Representative,Kent Saunders,DEM,IN,Challenger,Lost-General,36324.98,35
+State Representative,Benjamin Giaquinta,DEM,IN,Incumbent,Won-General,35815.75,80
+State Representative,Michael Ripley,REP,IN,Incumbent,Won-General,35085.0,79
+State Representative,James Bottorff,DEM,IN,Incumbent,Won-General,33970.0,71
+State Senator,Richard Bray,REP,IN,Incumbent,Won-General,33750.0,37
+State Representative,Earl Harris Jr.,DEM,IN,Incumbent,Won-General,32044.0,2
+State Representative,Gerald Torr,REP,IN,Incumbent,Won-General,31800.0,39
+State Senator,Allen Stevens Jr.,REP,IN,Challenger,Lost-General,30372.0,8
+State Representative,Timothy Neese,REP,IN,Incumbent,Won-General,30247.06,48
+State Representative,Ralph Foley,REP,IN,Incumbent,Won-General,30147.88,47
+State Representative,Daniel Leonard,REP,IN,Incumbent,Won-General,30015.5,50
+State Representative,Robert Behning,REP,IN,Incumbent,Won-General,29725.0,91
+State Representative,Joanna Blacketor,REP,IN,Challenger,Lost-General,29322.05,7
+State Representative,Phillip Hinkle,REP,IN,Incumbent,Won-General,28977.1,92
+State Representative,Ryan Jon Bergman,REP,IN,Challenger,Lost-General,28517.78,72
+State Representative,Robert Alderman,REP,IN,Incumbent,Won-General,28378.45,83
+State Representative,Ralph Donald Ayres,REP,IN,Incumbent,Won-General,27435.0,4
+State Representative,Robert Bischoff,DEM,IN,Incumbent,Won-General,26956.56,68
+State Representative,Jeb Bardon,DEM,IN,Incumbent,Won-General,26855.0,25
+State Representative,Lawrence Buell,REP,IN,Incumbent,Won-General,25845.85,89
+State Representative,Jack Gillespie,REP,IN,Challenger,Lost-General,24702.88,66
+State Senator,Barry Welsh,DEM,IN,Challenger,Lost-General,24645.0,42
+State Representative,Carl Kaser,DEM,IN,Open,Lost-General,23473.0,21
+State Representative,Eric Wolfe,DEM,IN,Challenger,Lost-General,23443.85,44
+State Representative,Robert Hoffman,REP,IN,Incumbent,Won-General,23203.0,55
+State Representative,Winfield Moses Jr.,DEM,IN,Incumbent,Won-General,23190.0,81
+State Representative,David Bradley Yount,REP,IN,Incumbent,Won-General,22500.0,59
+State Representative,Timothy Brown,REP,IN,Incumbent,Won-General,22295.49,41
+State Senator,Billie Breaux,DEM,IN,Incumbent,Won-General,21666.88,34
+State Representative,Matt Pierce,DEM,IN,Incumbent,Won-General,21038.04,61
+State Representative,David McLiver,DEM,IN,Challenger,Lost-General,20827.35,17
+State Representative,Ryan Michael Dvorak,DEM,IN,Incumbent,Won-General,20673.09,8
+State Representative,Ron Cooper,REP,IN,Challenger,Lost-General,20066.18,19
+State Representative,Clyde Kersey,DEM,IN,Incumbent,Won-General,19865.0,43
+State Representative,James Tomes,REP,IN,Open,Lost-General,18642.14,76
+State Representative,Dennis Avery,DEM,IN,Incumbent,Won-General,17930.0,75
+State Representative,Jeffrey Thompson,REP,IN,Incumbent,Won-General,17620.0,28
+State Representative,Paul McFeaters,REP,IN,Challenger,Lost-General,16628.14,63
+State Representative,Richard Dodge,REP,IN,Open,Won-General,16353.9,51
+State Representative,Paul Robertson,DEM,IN,Incumbent,Won-General,16190.65,70
+State Representative,John Delucenay,DEM,IN,Challenger,Lost-General,16085.0,52
+State Senator,Samual Smith Jr.,DEM,IN,Incumbent,Won-General,15901.7,2
+State Representative,Jerome Baffa,REP,IN,Challenger,Lost-General,15609.55,1
+Superintendent Of Public Instruction,Susan Williams,DEM,IN,Challenger,Lost-General,15544.0,nan
+State Representative,Daniel Fagen,REP,IN,Challenger,Lost-General,15523.76,12
+State Senator,Ryan Mishler,REP,IN,Open,Won-General,15375.21,9
+State Representative,Thomas Kromkowski,DEM,IN,Incumbent,Won-General,13815.41,7
+State Representative,Duane Cheney,DEM,IN,Incumbent,Won-General,13129.51,10
+State Representative,Phyllis Pond,REP,IN,Incumbent,Won-General,12920.0,85
+State Senator,Terry Rice,DEM,IN,Open,Lost-General,12380.0,36
+State Representative,Doug Edge,REP,IN,Challenger,Lost-General,12166.39,37
+State Representative,Mae Dickinson,DEM,IN,Incumbent,Won-General,11949.34,95
+State Representative,Jeff Crites,REP,IN,Challenger,Lost-General,11567.58,27
+State Representative,Richard Ryfa,REP,IN,Challenger,Lost-General,9670.0,11
+State Representative,Vernon Smith,DEM,IN,Incumbent,Won-General,9285.0,14
+State Representative,John Day,DEM,IN,Incumbent,Won-General,8840.99,100
+State Senator,Brent Steele,REP,IN,Open,Won-General,8700.0,44
+Governor,Kenn Gividen,LIB,IN,Challenger,Lost-General,8520.19,nan
+State Representative,James Mason,DEM,IN,Open,Lost-General,7562.25,51
+State Senator,Harvey Knox,DEM,IN,Challenger,Lost-General,7205.0,35
+State Representative,James Cuffia,IND,IN,Challenger,Lost-General,6883.0,19
+State Representative,Paul Hager,REP,IN,Challenger,Lost-General,6815.89,60
+State Senator,Dale Cassiday,REP,IN,Challenger,Lost-General,5302.0,40
+State Representative,Brian Thomas,REP,IN,Challenger,Lost-General,5297.36,70
+State Representative,Christopher Surber,DEM,IN,Challenger,Lost-General,5051.0,54
+State Representative,Vanessa Summers,DEM,IN,Incumbent,Won-General,5000.0,99
+State Representative,Dennis Foreman,REP,IN,Challenger,Lost-General,4603.06,25
+State Representative,Brian Jessen,REP,IN,Challenger,Lost-General,4490.0,96
+State Representative,Dennis Kruse,REP,IN,Incumbent,Withdrew-General,4350.0,51
+State Representative,Ronald Carrell,REP,IN,Challenger,Lost-General,3403.78,36
+State Representative,Dolores Jean Montgomery,DEM,IN,Challenger,Withdrew-General,3219.5,58
+State Representative,Christopher Holland,DEM,IN,Challenger,Lost-General,3211.45,67
+State Representative,Joe Wilson,DEM,IN,Challenger,Lost-General,2782.35,50
+State Representative,Barry Slegers,DEM,IN,Challenger,Lost-General,2765.6,4
+State Representative,Lynne Spevak,DEM,IN,Challenger,Lost-General,2586.5,20
+State Representative,Wm Garret,IND,IN,Open,Lost-General,2370.0,77
+State Representative,Carolyn Ballenger,IND,IN,Challenger,Lost-General,2200.0,3
+State Representative,Greg Turley,DEM,IN,Challenger,Lost-General,1925.56,58
+State Representative,Jeff Davies,REP,IN,Challenger,Lost-General,1615.0,99
+State Representative,Sam Goldstein,LIB,IN,Challenger,Lost-General,1475.0,86
+State Representative,Catherine Campbell,REP,IN,Challenger,Lost-General,1375.0,14
+State Senator,Kristin Szczerbik,DEM,IN,Challenger,Lost-General,1361.93,37
+State Senator,Robert Threlkeld,DEM,IN,Challenger,Lost-General,1334.69,20
+State Representative,Alan Barry Cramer,IND,IN,Challenger,Lost-General,1125.0,54
+State Representative,Kim Brand,LIB,IN,Challenger,Lost-General,1100.0,53
+State Senator,Charles Mumaw,DEM,IN,Challenger,Lost-General,1070.0,12
+State Representative,Leon Dixon,LIB,IN,Challenger,Lost-General,1010.0,34
+State Representative,Alvin Skoog Jr.,DEM,IN,Challenger,Lost-General,617.2,39
+State Representative,Willie Brown,REP,IN,Challenger,Lost-General,500.0,3
+State Representative,Jon Bell,LIB,IN,Challenger,Lost-General,483.46,56
+State Representative,Shane Brinkman,REP,IN,Challenger,Lost-General,350.0,94
+State Representative,Nicholas Blesch,LIB,IN,Challenger,Lost-General,345.0,61
+State Representative,Steve Wolfe,DEM,IN,Challenger,Lost-General,306.95,32
+State Representative,Kevin Marc Howell,REP,IN,Challenger,Lost-General,300.0,80
+State Representative,Kevin Francis Foley,IND,IN,Challenger,Lost-General,261.54,17
+State Representative,Lon Childress,DEM,IN,Challenger,Lost-General,255.0,15
+State Senator,Kenneth Kern,DEM,IN,Challenger,Lost-General,125.0,32
+State Senator,Josephine Coleman,LIB,IN,Challenger,Lost-General,45.0,33
+State Representative,Patricia Smith,REP,IN,Challenger,Lost-General,0.0,42
+State Representative,Gordon Southern,DEM,IN,Challenger,Lost-General,-1093.93,24
+State Representative,Lyman Tex Black,REP,IN,Challenger,Lost-General,0.0,95
+State Representative,Eric Barnes,LIB,IN,Challenger,Lost-General,0.0,95
+State Representative,Bert Bell,LIB,IN,Challenger,Lost-General,0.0,15
+State Representative,Gayle Bond,LIB,IN,Challenger,Lost-General,0.0,54
+State Representative,Dorn Brenton,LIB,IN,Challenger,Lost-General,0.0,90
+State Representative,Mark Brickman,LIB,IN,Challenger,Lost-General,0.0,12
+State Senator,Bob Farrell,LIB,IN,Challenger,Lost-General,0.0,30
+State Representative,Frank Findley,LIB,IN,Challenger,Lost-General,0.0,74
+State Senator,Janet Gillon,LIB,IN,Challenger,Lost-General,0.0,8
+State Senator,Brett Glaze,LIB,IN,Challenger,Lost-General,0.0,28
+State Representative,Mike Goodpaster,LIB,IN,Challenger,Lost-General,0.0,68
+State Representative,Aaron Gordon,LIB,IN,Challenger,Lost-General,0.0,88
+Superintendent Of Public Instruction,Joe Hauptmann,LIB,IN,Challenger,Lost-General,0.0,nan
+State Representative,Bethany Hayes,GRN,IN,Challenger,Lost-General,0.0,100
+State Representative,Gregory Kelver,LIB,IN,Challenger,Lost-General,0.0,9
+State Representative,John Marcum,LIB,IN,Challenger,Lost-General,0.0,55
+State Representative,Jay McGlothen,DEM,IN,Challenger,Lost-General,0.0,55
+Attorney General,Aaron Milewski,LIB,IN,Challenger,Lost-General,0.0,nan
+State Representative,Ray Nowosielski,LIB,IN,Challenger,Lost-General,0.0,40
+State Senator,Bruce Parisi,LIB,IN,Challenger,Lost-General,0.0,2
+State Representative,William Schadowsky,LIB,IN,Challenger,Lost-General,0.0,20
+State Representative,Allen Swinford Jr.,DEM,IN,Challenger,Lost-General,0.0,92
+State Senator,Thomas Tindle,LIB,IN,Challenger,Lost-General,0.0,50
+State Representative,Kent Van Cleave,LIB,IN,Challenger,Lost-General,0.0,65
+State Representative,Brent Wheeler,LIB,IN,Challenger,Lost-General,0.0,94
+State Senator,Shane Wheeler,LIB,IN,Challenger,Lost-General,0.0,35
+State Representative,John Ulmer,REP,IN,Incumbent,Won-General,0.0,49

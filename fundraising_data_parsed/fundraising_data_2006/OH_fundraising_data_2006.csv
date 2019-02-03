@@ -1,0 +1,266 @@
+office,candidate,party,state,incumbency,result,total money,district
+Governor,Ted Strickland,DEM,OH,Open,Won-General,16730624.69,nan
+Governor,Kenneth Blackwell,REP,OH,Open,Lost-General,11773552.16,nan
+Attorney General,Betty Montgomery,REP,OH,Open,Lost-General,4842163.0,nan
+Attorney General,Marc Dann,DEM,OH,Open,Won-General,2622565.05,nan
+Secretary Of State,Jennifer Brunner,DEM,OH,Open,Won-General,2259495.99,nan
+Treasurer,Richard Cordray,DEM,OH,Open,Won-General,2095020.57,nan
+Secretary Of State,Greg Hartmann,REP,OH,Open,Lost-General,2039844.11,nan
+State Representative,Jon Husted,REP,OH,Incumbent,Won-General,1963041.8,37
+Auditor,Mary Taylor,REP,OH,Open,Won-General,1890360.37,nan
+State Senator,Bill Harris,REP,OH,Incumbent,Won-General,1881775.78,19
+State Senator,Kevin Coughlin,REP,OH,Incumbent,Won-General,1856878.78,27
+State Senator,David Goodman,REP,OH,Incumbent,Won-General,1600066.33,3
+Supreme Court-Odonnell Seat,Terrence Odonnell,IND,OH,Incumbent,Won-General,1071872.37,nan
+Auditor,Barbara Sykes,DEM,OH,Open,Lost-General,1058076.63,nan
+Supreme Court-Open Seat,Robert Cupp,IND,OH,Open,Won-General,999418.0,nan
+State Senator,Sue Morano,DEM,OH,Open,Won-General,916324.3,13
+State Senator,Tim Schaffer,REP,OH,Open,Won-General,798707.7,31
+State Representative,Thomas Patton,REP,OH,Incumbent,Won-General,738174.4,18
+State Representative,Ross McGregor,REP,OH,Incumbent,Won-General,717303.06,72
+State Senator,John Carey Jr.,REP,OH,Incumbent,Won-General,712747.74,17
+State Representative,Josh Mandel,REP,OH,Open,Won-General,701114.94,17
+State Representative,Earl Martin,REP,OH,Incumbent,Lost-General,652211.24,57
+State Representative,Jim Hughes,REP,OH,Incumbent,Won-General,604524.09,22
+State Representative,Kevin Dewine,REP,OH,Incumbent,Won-General,565800.44,70
+State Representative,Mark Wagoner,REP,OH,Incumbent,Won-General,546070.28,46
+State Representative,Kevin Bacon,REP,OH,Open,Won-General,533312.56,21
+Supreme Court-Open Seat,Ben Espy,IND,OH,Open,Lost-General,503008.35,nan
+State Representative,Geoffrey Smith,REP,OH,Incumbent,Lost-General,498028.38,24
+State Representative,Bill Hayes,REP,OH,Open,Lost-General,480953.18,91
+State Representative,Dan White,REP,OH,Open,Lost-General,467075.09,58
+State Representative,Carol-Ann Schindel,REP,OH,Challenger,Won-General,464780.17,63
+State Representative,Armond Budish,DEM,OH,Open,Won-General,448477.0,8
+State Senator,Stephen Buehrer,REP,OH,Open,Won-General,441828.38,1
+State Senator,Thomas Roberts,DEM,OH,Incumbent,Won-General,415245.03,5
+State Senator,Kirk Schuring,REP,OH,Incumbent,Won-General,404925.43,29
+State Representative,John Widowfield,REP,OH,Incumbent,Won-General,396472.36,42
+State Representative,Chris Redfern,DEM,OH,Incumbent,Won-General,373898.72,80
+State Representative,Randy Law,REP,OH,Incumbent,Lost-General,368710.31,64
+State Representative,John Schlichter,REP,OH,Incumbent,Won-General,343809.05,85
+State Senator,Teresa Fedor,DEM,OH,Incumbent,Won-General,336368.93,11
+State Senator,Robert Schuler,REP,OH,Incumbent,Won-General,334637.39,7
+State Representative,William Seitz,REP,OH,Incumbent,Won-General,332609.87,30
+State Representative,Matthew Dolan,REP,OH,Incumbent,Won-General,332357.25,98
+State Senator,Judy Hanna,DEM,OH,Challenger,Lost-General,331340.07,27
+State Representative,Jim Raussen,REP,OH,Incumbent,Won-General,325144.94,28
+State Representative,Mark Okey,DEM,OH,Open,Won-General,324700.49,61
+State Representative,Larry Flowers,REP,OH,Incumbent,Won-General,300762.06,19
+State Senator,Donald McLaurin,REP,OH,Challenger,Lost-General,292777.6,5
+State Representative,James Stewart,REP,OH,Incumbent,Won-General,290615.28,92
+State Representative,Ted Celeste,DEM,OH,Challenger,Won-General,283273.44,24
+State Representative,Dale Henry,DEM,OH,Challenger,Lost-General,279205.21,72
+State Representative,Jay Goyal,DEM,OH,Open,Won-General,274365.21,73
+State Representative,Shannon Jones,REP,OH,Open,Won-General,264660.63,67
+State Representative,Joyce Beatty,DEM,OH,Incumbent,Won-General,264650.25,27
+State Representative,John Celebrezze,DEM,OH,Challenger,Lost-General,241447.67,18
+State Representative,Phillip Holloway,REP,OH,Open,Lost-General,241375.84,73
+State Representative,Thomas Cousineau,REP,OH,Challenger,Lost-General,239567.15,41
+State Representative,Jim Carmichael,REP,OH,Incumbent,Won-General,229589.31,3
+State Senator,Eric Kearney,DEM,OH,Incumbent,Won-General,225285.04,9
+State Senator,John Boccieri,DEM,OH,Open,Won-General,223786.93,33
+State Representative,Brian Williams,DEM,OH,Incumbent,Won-General,218360.7,41
+State Representative,Jim McGregor,REP,OH,Incumbent,Won-General,211687.77,20
+State Representative,Lorraine Fende,DEM,OH,Incumbent,Won-General,210682.51,62
+State Representative,Linda Bolon,DEM,OH,Open,Won-General,204819.37,1
+State Representative,John Hagan,REP,OH,Incumbent,Won-General,204139.26,50
+State Representative,Thomas J Letson,DEM,OH,Challenger,Won-General,197947.85,64
+State Representative,Jay Hottinger,REP,OH,Open,Won-General,196055.95,71
+State Representative,Christopher Widener,REP,OH,Incumbent,Won-General,193246.65,84
+State Senator,Emily Kreider,DEM,OH,Challenger,Lost-General,192573.79,3
+State Representative,Todd Book,DEM,OH,Incumbent,Won-General,185253.63,89
+State Senator,Martha Wise,REP,OH,Open,Lost-General,184650.67,13
+State Representative,John Adams,REP,OH,Open,Won-General,176911.53,78
+State Representative,Jennifer Garrison,DEM,OH,Incumbent,Won-General,176653.85,93
+State Representative,Lynn Wachtmann,REP,OH,Open,Won-General,170457.08,75
+State Representative,Michelle Schneider,REP,OH,Incumbent,Won-General,170169.73,35
+State Representative,Timothy Cassell,DEM,OH,Incumbent,Lost-General,169738.19,63
+State Senator,Dale Miller,DEM,OH,Incumbent,Won-General,168011.29,23
+State Representative,Keith Lloyd Faber,REP,OH,Incumbent,Won-General,164704.47,77
+State Senator,David Lynch,REP,OH,Open,Lost-General,163809.44,25
+State Representative,Jon Peterson,REP,OH,Incumbent,Won-General,162506.28,2
+State Representative,John Patrick Carney,DEM,OH,Challenger,Lost-General,157924.13,22
+State Representative,William Batchelder III,REP,OH,Open,Won-General,156983.97,69
+State Senator,Lance Mason,DEM,OH,Open,Won-General,153293.93,25
+State Representative,Steven Driehaus,DEM,OH,Incumbent,Won-General,146276.54,31
+State Representative,Stephen Dyer,DEM,OH,Open,Won-General,145754.13,43
+State Senator,Rick Smith,DEM,OH,Challenger,Lost-General,141883.8,7
+State Representative,Arlene Setzer,REP,OH,Incumbent,Won-General,138144.54,36
+Board Of Education District 007,Deborah Owens Fink,IND,OH,Incumbent,Lost-General,137952.47,nan
+State Representative,Debbie Phillips,DEM,OH,Challenger,Lost-General,137240.78,92
+State Representative,William Coley,REP,OH,Incumbent,Won-General,131817.5,55
+State Representative,Edward Fitzpatrick Herman,REP,OH,Open,Lost-General,128409.32,16
+State Representative,John White,REP,OH,Incumbent,Won-General,126800.0,38
+State Representative,Connie Pillich,DEM,OH,Challenger,Lost-General,119374.56,28
+State Representative,David Daniels,REP,OH,Incumbent,Won-General,118857.23,86
+State Representative,Brant Luther,REP,OH,Open,Lost-General,114845.13,61
+State Representative,Matt Huffman,REP,OH,Open,Won-General,114819.46,4
+State Representative,Thomas Brinkman Jr.,REP,OH,Incumbent,Won-General,113279.62,34
+State Representative,Matthew Barrett,DEM,OH,Open,Won-General,113196.81,58
+State Representative,Matthew Szollosi,DEM,OH,Open,Won-General,110116.74,49
+State Representative,Daniel Stewart,DEM,OH,Incumbent,Won-General,109917.07,25
+State Representative,Daniel Dodd,DEM,OH,Open,Won-General,107572.51,91
+State Representative,Shawn Webster,REP,OH,Incumbent,Won-General,105511.4,53
+State Representative,Robert Latta,REP,OH,Incumbent,Won-General,104657.03,6
+State Representative,Timothy Degeeter,DEM,OH,Incumbent,Won-General,104058.22,15
+State Representative,Robert Brian Gibbs,REP,OH,Incumbent,Won-General,100938.0,97
+Treasurer,Sandra Obrien,REP,OH,Open,Lost-General,96460.67,nan
+State Representative,Darrell Opfer,DEM,OH,Challenger,Lost-General,96087.98,81
+State Representative,Jeff Wagner,REP,OH,Incumbent,Won-General,92735.72,81
+State Representative,Clyde Evans,REP,OH,Incumbent,Won-General,89372.5,87
+State Representative,Fred Strahorn,DEM,OH,Incumbent,Won-General,88550.0,40
+State Representative,Danny Bubp,REP,OH,Incumbent,Won-General,87159.98,88
+State Representative,Thom Collier,REP,OH,Incumbent,Won-General,86562.83,90
+Governor,Bill Peirce,IND,OH,Open,Lost-General,86368.05,nan
+State Representative,Gerald Stebelton,REP,OH,Open,Won-General,82978.2,5
+State Representative,Michael Skindell,DEM,OH,Incumbent,Won-General,82529.95,13
+State Senator,Ray Miller,DEM,OH,Incumbent,Won-General,78315.19,15
+State Representative,Kenny Yuko,DEM,OH,Incumbent,Won-General,77948.05,7
+State Representative,Larry Wolpert,REP,OH,Incumbent,Won-General,77841.1,23
+State Representative,Cliff Hite,REP,OH,Open,Won-General,75720.75,76
+State Representative,Matt Lundy,DEM,OH,Challenger,Won-General,75692.08,57
+State Representative,Allan Sayre,DEM,OH,Incumbent,Won-General,75006.01,96
+State Representative,Scott Oelslager,REP,OH,Incumbent,Won-General,74774.48,51
+State Representative,Dale Mallory,DEM,OH,Open,Won-General,74705.84,32
+State Representative,Adam Ward,DEM,OH,Open,Lost-General,70144.79,78
+State Representative,Christine Croce,REP,OH,Open,Lost-General,69818.26,43
+State Representative,Mike Foley,DEM,OH,Open,Won-General,69794.15,14
+State Representative,James Aslanides,REP,OH,Incumbent,Won-General,69637.62,94
+State Representative,George Distel,DEM,OH,Incumbent,Won-General,67424.25,99
+State Representative,Robert Hagan,DEM,OH,Open,Won-General,67150.0,60
+State Representative,Jim Hoppel,REP,OH,Open,Lost-General,63051.71,1
+State Representative,Greg Schmidt,REP,OH,Challenger,Lost-General,62576.71,62
+State Representative,Dennis Shreefer,DEM,OH,Open,Lost-General,61728.35,4
+State Senator,Shirley Smith,DEM,OH,Open,Won-General,61671.53,21
+State Representative,Marian Harris,DEM,OH,Challenger,Lost-General,60684.59,19
+State Representative,Peter Ujvagi,DEM,OH,Incumbent,Won-General,59951.6,47
+State Representative,Stephen Reinhard,REP,OH,Incumbent,Won-General,59303.52,82
+State Representative,Jennifer Brady,DEM,OH,Open,Won-General,58812.07,16
+State Representative,Donald Gadd,REP,OH,Challenger,Lost-General,58477.72,93
+State Senator,Thomas West,DEM,OH,Challenger,Lost-General,57555.72,29
+State Representative,Dean Hernandez,DEM,OH,Open,Lost-General,56946.05,21
+Board Of Education District 007,Thomas Sawyer,IND,OH,Challenger,Won-General,54818.95,nan
+State Representative,Diana Fessler,REP,OH,Incumbent,Won-General,53412.7,79
+State Representative,Louis Blessing Jr.,REP,OH,Incumbent,Won-General,53223.06,29
+State Representative,Barbara Boyd,DEM,OH,Open,Won-General,52825.46,9
+State Representative,Sandra Stabile Harwood,DEM,OH,Incumbent,Won-General,52348.64,65
+State Representative,Raymond Allen Pryor,DEM,OH,Challenger,Lost-General,51775.7,85
+State Representative,William Healy II,DEM,OH,Incumbent,Won-General,51114.23,52
+State Representative,Sandra Williams,DEM,OH,Open,Won-General,45299.51,11
+Supreme Court-Odonnell Seat,William Oneill,IND,OH,Challenger,Lost-General,40235.01,nan
+State Representative,Roger Goudy,DEM,OH,Open,Lost-General,39788.0,17
+State Representative,Tyrone Yates,DEM,OH,Incumbent,Won-General,38502.0,33
+Board Of Education District 004,John Hritz,IND,OH,Challenger,Lost-General,35721.0,nan
+State Representative,Kathleen Chandler,DEM,OH,Incumbent,Won-General,35556.58,68
+State Representative,Edward Enderle,REP,OH,Challenger,Lost-General,34615.79,80
+State Representative,Anthony Core,REP,OH,Incumbent,Won-General,34545.0,83
+State Representative,Kenneth Carano,DEM,OH,Incumbent,Won-General,32565.0,59
+State Representative,Kimberly Hale,REP,OH,Open,Lost-General,31603.67,32
+State Representative,Carolyn Rice,DEM,OH,Challenger,Lost-General,29674.45,38
+State Representative,Bruce Goodwin,REP,OH,Open,Won-General,28874.41,74
+State Representative,Vernon Sykes,DEM,OH,Open,Won-General,28570.88,44
+State Representative,Edna Brown,DEM,OH,Incumbent,Won-General,28490.0,48
+State Representative,Jeffrey Ruppert,DEM,OH,Open,Lost-General,28092.84,67
+State Representative,Robert Otterman,DEM,OH,Incumbent,Won-General,26700.0,45
+State Senator,Dennis Lupher,DEM,OH,Open,Lost-General,26413.68,31
+State Representative,Raymond Ku,DEM,OH,Challenger,Lost-General,26334.85,98
+State Representative,Courtney Combs,REP,OH,Incumbent,Won-General,26325.0,54
+State Representative,Tracy Heard,DEM,OH,Open,Won-General,26260.69,26
+State Representative,John Kostyo,DEM,OH,Open,Lost-General,25078.65,76
+State Representative,Connie Crockett,DEM,OH,Challenger,Lost-General,23964.51,84
+State Representative,Shane Thompson,REP,OH,Challenger,Lost-General,23587.18,96
+State Representative,Stephen Silver,DEM,OH,Challenger,Lost-General,23434.45,34
+State Senator,Ben Nienberg,DEM,OH,Open,Lost-General,22602.89,1
+State Representative,Clayton Luckie II,DEM,OH,Open,Won-General,22330.0,39
+State Representative,Joseph Koziura,DEM,OH,Incumbent,Won-General,21905.0,56
+State Representative,Bill Davis,REP,OH,Challenger,Lost-General,21758.57,68
+State Representative,Jack Schira,DEM,OH,Open,Lost-General,21501.0,69
+State Representative,Angie Byrne,DEM,OH,Open,Lost-General,21127.59,75
+State Representative,Joseph Uecker,REP,OH,Incumbent,Won-General,20575.0,66
+State Representative,Kody Gonzalez,DEM,OH,Challenger,Lost-General,20480.72,51
+State Representative,Steve Hornyak,REP,OH,Open,Lost-General,20145.95,49
+State Representative,Thomas Holliday Sr.,DEM,OH,Open,Lost-General,19852.33,71
+State Representative,William Pikor,REP,OH,Challenger,Lost-General,18671.13,99
+State Representative,Eugene Miller,DEM,OH,Open,Won-General,17575.51,10
+Board Of Education District 003,James Uphoff,IND,OH,Challenger,Lost-General,16803.27,nan
+State Representative,Aaron Phillips,DEM,OH,Challenger,Lost-General,16779.21,94
+Board Of Education District 003,Thomas Gunlock,IND,OH,Incumbent,Lost-General,16769.43,nan
+State Senator,Jim Craciun,IND,OH,Challenger,Lost-General,16729.75,23
+Governor,Robert Fitrakis,IND,OH,Open,Lost-General,16611.29,nan
+State Representative,Bill Horne,DEM,OH,Challenger,Lost-General,15735.0,86
+State Representative,Duane Grassbaugh,DEM,OH,Challenger,Lost-General,15211.24,90
+State Representative,Bruce Edward Burnworth,DEM,OH,Challenger,Lost-General,15206.33,2
+State Representative,Mark Dansack,DEM,OH,Challenger,Lost-General,15030.26,46
+State Representative,Scott Gehring,REP,OH,Challenger,Lost-General,14840.0,31
+State Representative,Glenda Smith,DEM,OH,Challenger,Lost-General,14613.97,53
+State Representative,Dave Fisher,DEM,OH,Challenger,Lost-General,14365.96,79
+Board Of Education District 004,R Schloemer,IND,OH,Incumbent,Won-General,14295.0,nan
+State Representative,Kelly Kirk,DEM,OH,Open,Lost-General,13805.0,5
+State Representative,Jimmie Hicks Jr.,REP,OH,Open,Lost-General,13739.1,9
+Board Of Education District 002,John Bender,IND,OH,Open,Won-General,13582.0,nan
+State Representative,William Newby,DEM,OH,Challenger,Lost-General,13351.84,66
+State Representative,Beverly Campbell,DEM,OH,Challenger,Lost-General,12748.15,20
+State Representative,Jeffrey Bretz,DEM,OH,Challenger,Lost-General,12419.48,6
+Board Of Education District 008,Deborah Cain,IND,OH,Challenger,Won-General,10570.0,nan
+State Representative,Paul Colavecchio,DEM,OH,Challenger,Lost-General,10275.28,42
+Secretary Of State,Timothy Kettler,IND,OH,Open,Lost-General,9453.77,nan
+State Representative,Ben McCullough,DEM,OH,Open,Lost-General,9423.99,74
+State Representative,Tim Knauff,REP,OH,Challenger,Lost-General,9297.0,89
+State Representative,Shawn Allen,DEM,OH,Challenger,Lost-General,8860.48,83
+State Representative,Arno Hill,REP,OH,Challenger,Lost-General,8764.62,65
+Board Of Education District 008,Jim Craig,IND,OH,Incumbent,Lost-General,8605.77,nan
+State Representative,Michael Debose,DEM,OH,Incumbent,Won-General,8325.0,12
+Secretary Of State,John Eastman,IND,OH,Open,Lost-General,8214.95,nan
+State Representative,Michael Elicson,REP,OH,Open,Lost-General,7057.31,26
+State Representative,Beverly Smith,DEM,OH,Challenger,Lost-General,6365.0,36
+State Senator,John Roscoe,REP,OH,Challenger,Lost-General,6332.03,15
+State Representative,Eric Waldrop,REP,OH,Challenger,Lost-General,6081.72,52
+State Representative,John Domenick,DEM,OH,Incumbent,Won-General,5700.0,95
+State Representative,Joseph Crawford,REP,OH,Open,Lost-General,5613.0,44
+State Representative,John Johnson,DEM,OH,Challenger,Lost-General,5444.93,50
+State Representative,Nick Rupert,DEM,OH,Challenger,Lost-General,5432.0,87
+State Representative,Karen Adams,DEM,OH,Challenger,Lost-General,4692.01,35
+State Representative,Kenneth Keith Jr.,DEM,OH,Challenger,Lost-General,4565.0,54
+State Senator,Thomas Burkhart,DEM,OH,Challenger,Lost-General,4512.03,19
+Board Of Education District 002,Kenneth Ault,IND,OH,Open,Lost-General,4490.8,nan
+State Senator,Thomas Brown,REP,OH,Challenger,Lost-General,4300.0,9
+Board Of Education District 003,Susan Haverkos,IND,OH,Challenger,Won-General,4245.0,nan
+State Representative,James Riley,DEM,OH,Challenger,Lost-General,4216.2,97
+State Representative,William McGivern,REP,OH,Open,Lost-General,3980.36,14
+State Representative,Rob Thornton,REP,OH,Challenger,Lost-General,3500.0,33
+State Representative,Michael Wiles,REP,OH,Challenger,Lost-General,3055.19,25
+State Representative,Logan Martinez,IND,OH,Open,Lost-General,3029.67,39
+State Representative,Mike Poast,REP,OH,Open,Withdrew-General,2968.2,32
+State Representative,J Voyteeck,REP,OH,Challenger,Lost-General,2435.0,95
+State Representative,Mike Bryan,IND,OH,Challenger,Lost-General,2363.29,89
+State Senator,Richard Norris,REP,OH,Open,Lost-General,2231.0,21
+State Representative,Betsy Marshall,DEM,OH,Challenger,Lost-General,2200.0,77
+State Representative,George Coles,REP,OH,Open,Lost-General,1809.4,39
+State Representative,Carolyn Eyre,REP,OH,Challenger,Lost-General,1588.74,48
+State Representative,Michael Murphy,DEM,OH,Challenger,Lost-General,1461.51,23
+State Representative,Brent Gray,DEM,OH,Challenger,Lost-General,1400.0,29
+State Senator,Howard Shrimpton,REP,OH,Challenger,Lost-General,1200.0,23
+State Representative,Ernie Berry,REP,OH,Challenger,Lost-General,883.82,47
+Board Of Education District 002,Kathleen McGervey,IND,OH,Open,Lost-General,883.12,nan
+State Representative,Martin Arbagi,REP,OH,Challenger,Lost-General,876.5,40
+State Representative,Kevin Obrien,DEM,OH,Challenger,Lost-General,845.68,70
+State Representative,Sheryl Ross,REP,OH,Challenger,Withdrew-General,805.0,31
+State Representative,David Fago,REP,OH,Challenger,Lost-General,755.0,15
+Board Of Education District 007,David Kovacs,IND,OH,Challenger,Lost-General,630.0,nan
+State Representative,Anthony Cefaratti,REP,OH,Challenger,Lost-General,605.0,12
+Board Of Education District 003,Mike Anagnostou,IND,OH,Challenger,Lost-General,525.0,nan
+State Representative,John Edward Jufko,REP,OH,Challenger,Lost-General,260.0,27
+State Representative,Joshua Jones,REP,OH,Challenger,Lost-General,85.0,45
+Board Of Education District 007,John Jones,IND,OH,Challenger,Lost-General,55.0,nan
+State Senator,April Howland,DEM,OH,Challenger,Lost-General,50.0,17
+State Representative,Beverly Valencic,REP,OH,Challenger,Lost-General,-654.21,7
+State Representative,John Patrick Hildebrand,REP,OH,Challenger,Lost-General,0.0,13
+State Representative,Rosalind McAllister,REP,OH,Open,Lost-General,0.0,10
+Board Of Education District 002,Roland Hansen,IND,OH,Open,Lost-General,0.0,nan
+State Representative,Kasey Shidel,REP,OH,Challenger,Lost-General,0.0,59
+State Representative,Guy Fogle,DEM,OH,Challenger,Withdrew-General,0.0,37
+State Representative,Barry Garrett,REP,OH,Challenger,Withdrew-General,0.0,56
+State Senator,Maggie Nafziger,REP,OH,Challenger,Withdrew-General,0.0,9
+State Representative,Michael Oshea,DEM,OH,Open,Withdrew-General,0.0,16
+State Senator,Carol Van Deventer,REP,OH,Challenger,Withdrew-General,0.0,11
+State Senator,Tracy Winbush,REP,OH,Open,Withdrew-General,0.0,33

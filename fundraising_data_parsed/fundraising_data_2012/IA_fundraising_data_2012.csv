@@ -1,0 +1,251 @@
+office,candidate,party,state,incumbency,result,total money,district
+U.S. Representative,Steven King,REP,IA,Incumbent,Won-General,3857301.6,4
+U.S. Representative,Christie Vilsack,DEM,IA,Challenger,Lost-General,3355570.2,4
+U.S. Representative,Tom Latham,REP,IA,Incumbent,Won-General,3354958.92,3
+U.S. Representative,Bruce Braley,DEM,IA,Incumbent,Won-General,2771606.36,1
+State Senator,Michael Gronstal,DEM,IA,Incumbent,Won-General,1783877.86,8
+U.S. Representative,Leonard Boswell,DEM,IA,Incumbent,Lost-General,1767644.68,3
+U.S. Representative,David Wayne Loebsack,DEM,IA,Incumbent,Won-General,1544694.59,2
+U.S. Representative,Benjamin Lange,REP,IA,Challenger,Lost-General,1085600.92,1
+U.S. Representative,John Archer,REP,IA,Challenger,Lost-General,965633.17,2
+State Representative,Kraig Paulsen,REP,IA,Incumbent,Won-General,925173.87,67
+State Representative,Linda Upmeyer,REP,IA,Incumbent,Won-General,640049.38,54
+State Senator,Steve Sodders,DEM,IA,Incumbent,Won-General,604864.89,36
+State Senator,Mary Jo Wilhelm,DEM,IA,Incumbent,Won-General,539125.31,26
+State Senator,Nate Willems,DEM,IA,Open,Lost-General,508993.55,48
+State Senator,Jeffrey Danielson,DEM,IA,Incumbent,Won-General,460118.77,30
+State Representative,Kevin McCarthy,DEM,IA,Incumbent,Won-General,452091.18,33
+State Senator,Merlin Bartz,REP,IA,Incumbent,Lost-General,436399.38,26
+State Senator,Chris Brase,DEM,IA,Challenger,Won-General,417177.34,46
+State Senator,Richard Taylor,DEM,IA,Open,Won-General,414595.93,42
+State Senator,Jerry Behn,REP,IA,Incumbent,Won-General,394982.86,24
+State Senator,Rita Rottinghaus Hart,DEM,IA,Open,Won-General,387409.11,49
+State Representative,Renee Schulte,REP,IA,Incumbent,Lost-General,380639.04,66
+State Senator,Matt Reisetter,REP,IA,Challenger,Lost-General,378795.46,30
+State Senator,John Beard,DEM,IA,Open,Lost-General,334117.63,28
+State Representative,Jeremy Taylor,REP,IA,Incumbent,Lost-General,332000.97,13
+State Senator,Al Ringgenberg,REP,IA,Challenger,Lost-General,323060.71,8
+State Representative,Chip Baltimore,REP,IA,Incumbent,Won-General,300173.7,47
+State Representative,Ross Paustian,REP,IA,Incumbent,Lost-General,298914.36,92
+State Senator,Mary Bruner,DEM,IA,Open,Lost-General,298071.18,6
+State Representative,David Maxwell,REP,IA,Open,Won-General,283300.19,76
+State Senator,Shawn Hamerlinck,REP,IA,Incumbent,Lost-General,270879.26,46
+State Senator,Andrew Naeve,REP,IA,Open,Lost-General,267754.43,49
+State Representative,Art Staed,DEM,IA,Challenger,Won-General,261345.8,66
+State Representative,Christopher Hagenow,REP,IA,Incumbent,Won-General,255063.42,43
+State Senator,Daniel Zumbach,REP,IA,Open,Won-General,254426.38,48
+State Representative,Mark Nelson,REP,IA,Challenger,Lost-General,246666.14,93
+State Representative,Chris Hall,DEM,IA,Incumbent,Won-General,243015.17,13
+State Representative,Michael Brown,REP,IA,Open,Lost-General,220934.75,40
+State Representative,Walt Rogers,REP,IA,Incumbent,Won-General,218651.9,60
+State Senator,Jane Jech,REP,IA,Challenger,Lost-General,216193.26,36
+State Senator,Brian Schoenjahn,DEM,IA,Incumbent,Won-General,205611.5,32
+State Representative,Thomas Sands,REP,IA,Incumbent,Won-General,203741.89,88
+State Representative,Dick Schwab,DEM,IA,Open,Lost-General,201715.74,73
+State Representative,Phyllis Thede,DEM,IA,Incumbent,Won-General,190097.79,93
+State Representative,Jim Carley,REP,IA,Open,Lost-General,188837.83,30
+State Senator,Michael Breitbach,REP,IA,Open,Won-General,188755.83,28
+State Representative,Sandy Salmon,DEM,IA,Open,Won-General,182150.68,63
+State Representative,Roger Thomas,DEM,IA,Incumbent,Won-General,177139.68,55
+State Senator,Tim Kapucian,REP,IA,Incumbent,Won-General,172882.43,38
+State Representative,Patricia Ruff,DEM,IA,Challenger,Won-General,170493.82,56
+State Representative,Joseph Riding,DEM,IA,Open,Won-General,166657.34,30
+State Representative,Pat Grassley,REP,IA,Incumbent,Won-General,161975.03,50
+State Representative,Scott Ourth,DEM,IA,Open,Won-General,159383.99,26
+State Representative,Robert Kressig,DEM,IA,Incumbent,Won-General,159091.2,59
+State Senator,Larry Kruse,REP,IA,Open,Lost-General,157581.1,42
+State Senator,Thomas Courtney,DEM,IA,Incumbent,Won-General,157395.55,44
+State Representative,Quentin Stanerson,REP,IA,Open,Won-General,157030.98,95
+State Representative,Peter Cownie,REP,IA,Incumbent,Won-General,151152.33,42
+State Representative,Mark Smith,DEM,IA,Incumbent,Won-General,149479.18,71
+State Representative,James Kenyon,REP,IA,Challenger,Lost-General,144343.29,59
+State Representative,Nick Wagner,REP,IA,Incumbent,Lost-General,140146.77,68
+State Senator,Elliott Henderson,REP,IA,Challenger,Lost-General,139525.25,32
+State Senator,Charles Schneider,REP,IA,Open,Won-General,136925.1,22
+State Representative,Bobby Kaufmann,REP,IA,Open,Won-General,133944.24,73
+State Representative,John Forbes,DEM,IA,Open,Won-General,130321.16,40
+State Representative,Michael Klimesh,REP,IA,Challenger,Lost-General,129207.38,55
+State Senator,Elizabeth Mathis,DEM,IA,Incumbent,Won-General,124774.43,34
+State Representative,Steven Olson,REP,IA,Incumbent,Won-General,123639.28,97
+State Representative,Sara Sedlacek,DEM,IA,Challenger,Lost-General,121952.02,88
+State Representative,John Wittneben,DEM,IA,Incumbent,Lost-General,119679.2,7
+State Representative,Susan Eliza Judkins,DEM,IA,Challenger,Lost-General,118025.34,43
+State Representative,Tedd Gassman,REP,IA,Challenger,Won-General,112562.72,7
+State Senator,Pat Ward,REP,IA,Incumbent,Won-General,111605.0,22
+State Senator,Mark Segebart,REP,IA,Open,Won-General,108353.18,6
+State Representative,Larry Sheets,REP,IA,Open,Won-General,103837.02,80
+State Representative,Megan Lee Hess Jones,REP,IA,Open,Won-General,103518.64,2
+State Representative,David Alan Dawson,DEM,IA,Open,Won-General,103048.17,14
+State Senator,Desmund Adams,DEM,IA,Challenger,Lost-General,100047.14,22
+State Representative,Joseph Judge,DEM,IA,Open,Lost-General,99681.03,80
+State Representative,Chuck Soderberg,REP,IA,Incumbent,Won-General,98928.02,5
+State Representative,Linda Miller,REP,IA,Incumbent,Won-General,98856.47,94
+State Representative,Brian Moore,REP,IA,Incumbent,Won-General,98162.73,58
+State Senator,Dennis Guth,REP,IA,Open,Won-General,83769.46,4
+State Representative,Allen Burt,REP,IA,Challenger,Lost-General,83126.58,71
+State Representative,Gregg Grupp,REP,IA,Open,Lost-General,80448.19,14
+State Representative,Bill Heckroth,REP,IA,Open,Lost-General,77282.37,63
+State Senator,Randy Feenstra,REP,IA,Incumbent,Won-General,76425.59,2
+State Representative,Mark Lofgren,REP,IA,Incumbent,Won-General,75891.54,91
+State Senator,Brad Zaun,REP,IA,Incumbent,Won-General,74625.0,20
+State Representative,Robert Taylor,REP,IA,Open,Won-General,74583.96,44
+State Representative,Jim Lykam,DEM,IA,Incumbent,Won-General,74036.42,89
+State Representative,Marti Anderson,DEM,IA,Open,Won-General,73994.97,36
+State Representative,Greg Heartsill,REP,IA,Open,Won-General,73635.09,28
+State Representative,Ronald Jorgensen,REP,IA,Incumbent,Won-General,72505.3,6
+State Representative,Rachel Bly,DEM,IA,Open,Lost-General,72497.62,76
+State Representative,Brian Quirk,DEM,IA,Incumbent,Won-General,71357.0,52
+State Representative,Bob Hager,REP,IA,Incumbent,Lost-General,70658.1,56
+State Representative,Jeff Smith,REP,IA,Incumbent,Won-General,70135.89,1
+State Representative,Patrick Joseph Murphy,DEM,IA,Incumbent,Won-General,68801.32,99
+State Representative,Paul Kern,REP,IA,Challenger,Lost-General,67172.37,99
+State Senator,Amy Beth Sinclair,REP,IA,Open,Won-General,66989.03,14
+State Representative,Kevin Koester,REP,IA,Incumbent,Won-General,66422.58,38
+State Representative,Mark Brandenburg,REP,IA,Incumbent,Won-General,66158.58,15
+State Representative,David Heaton,REP,IA,Incumbent,Won-General,65353.87,84
+State Representative,Tyler Olson,DEM,IA,Incumbent,Won-General,65161.58,65
+State Representative,Guy Vander Linden,REP,IA,Incumbent,Won-General,63530.31,79
+State Representative,Kristin Keast,DEM,IA,Open,Lost-General,62589.42,95
+State Representative,Dan Muhlbauer,DEM,IA,Incumbent,Won-General,61573.4,12
+State Representative,Dawn Pettengill,REP,IA,Incumbent,Won-General,61505.43,75
+State Representative,Josh Byrnes,REP,IA,Incumbent,Won-General,60684.0,51
+State Representative,Bob Greenwood,DEM,IA,Challenger,Lost-General,58839.0,60
+State Senator,Joni Ernst,REP,IA,Incumbent,Won-General,55815.88,12
+State Senator,Kenneth Rozenboom,REP,IA,Open,Won-General,55608.29,40
+State Representative,Dave Deyoe,REP,IA,Incumbent,Won-General,54263.61,49
+State Senator,Janet Petersen,DEM,IA,Open,Won-General,53952.0,18
+State Representative,Dean Fisher,REP,IA,Open,Won-General,52876.71,72
+State Senator,Shelley Parbs,DEM,IA,Challenger,Lost-General,52154.54,38
+State Representative,Daniel Lundby,DEM,IA,Challenger,Won-General,51318.58,68
+State Senator,Dick Dearden,DEM,IA,Incumbent,Won-General,51023.08,16
+State Representative,Jason Schultz,REP,IA,Incumbent,Won-General,50374.69,18
+State Representative,Anesa Kajtazovic,DEM,IA,Incumbent,Won-General,49788.16,61
+State Representative,Lisa Heddens,DEM,IA,Incumbent,Won-General,49448.84,46
+State Representative,Katie Routh,DEM,IA,Challenger,Lost-General,47993.47,25
+State Representative,Julian Garrett,REP,IA,Incumbent,Won-General,47668.35,25
+State Senator,Brad Bourn,REP,IA,Challenger,Lost-General,47274.0,44
+State Representative,Mary Ann Hanusa,REP,IA,Incumbent,Won-General,47083.5,16
+State Representative,Helen Miller,DEM,IA,Incumbent,Won-General,46924.03,9
+State Representative,Lee Hein,REP,IA,Incumbent,Won-General,45950.0,96
+State Representative,Curtis Hanson,DEM,IA,Incumbent,Won-General,45514.26,82
+State Representative,Matthew Windschitl,REP,IA,Incumbent,Won-General,41713.9,17
+State Representative,David Jacoby,DEM,IA,Incumbent,Won-General,41026.23,74
+State Representative,Kirsten Running-Marquardt,DEM,IA,Incumbent,Won-General,40649.91,69
+State Representative,Joel Fry,REP,IA,Incumbent,Won-General,37466.36,27
+State Representative,Thomas Schueller,DEM,IA,Challenger,Lost-General,36081.74,58
+State Senator,Mary Pamela Jochum,DEM,IA,Incumbent,Won-General,35931.94,50
+State Representative,Barney Bornhoft,REP,IA,Challenger,Lost-General,35326.89,12
+State Representative,Dan Kelley,DEM,IA,Incumbent,Won-General,34964.25,29
+State Representative,Jack Drake,REP,IA,Incumbent,Won-General,34889.41,21
+State Representative,Beth Wessel-Kroeschell,DEM,IA,Incumbent,Won-General,34769.0,45
+State Representative,Steve Bomgaars,DEM,IA,Open,Lost-General,34595.27,2
+State Representative,Steve McCoy,REP,IA,Open,Lost-General,34006.04,26
+State Senator,Jake Chapman,REP,IA,Open,Won-General,33890.66,10
+State Representative,John Landon,REP,IA,Open,Won-General,33384.31,37
+State Representative,Sally Stutsman,DEM,IA,Open,Won-General,32952.97,77
+State Representative,Henry V) Rayhons,REP,IA,Incumbent,Won-General,31879.51,8
+State Representative,Ralph Watts,REP,IA,Incumbent,Won-General,31243.41,19
+State Representative,Greg Forristall,REP,IA,Incumbent,Won-General,30837.82,22
+State Representative,John Dabeet,DEM,IA,Challenger,Lost-General,30721.98,91
+State Representative,Jo Oldson,DEM,IA,Incumbent,Won-General,30048.0,41
+State Representative,Jake Highfill,REP,IA,Open,Won-General,29753.88,39
+State Representative,Dennis Cohoon,DEM,IA,Incumbent,Won-General,29364.15,87
+State Representative,Jarad Klein,REP,IA,Incumbent,Won-General,28629.81,78
+State Representative,Kelsey Clark,DEM,IA,Open,Lost-General,28609.58,39
+State Representative,Mary Gaskill,DEM,IA,Incumbent,Won-General,28603.92,81
+State Representative,Todd Taylor,DEM,IA,Incumbent,Won-General,28307.1,70
+State Representative,Mary Mascher,DEM,IA,Incumbent,Won-General,28023.83,86
+State Representative,Tom Shaw,REP,IA,Incumbent,Won-General,27970.51,10
+State Representative,Bruce Hunter,DEM,IA,Incumbent,Won-General,27744.0,34
+State Representative,Sharon Steckman,DEM,IA,Incumbent,Won-General,26541.04,53
+State Representative,Donovan Olson,DEM,IA,Challenger,Lost-General,26494.96,47
+State Representative,Maria Blasa Cano Bribriesco,DEM,IA,Challenger,Lost-General,26343.81,94
+State Representative,Robert Bacon,REP,IA,Open,Won-General,24755.99,48
+State Representative,Charles Isenhart,DEM,IA,Incumbent,Won-General,24066.61,100
+State Representative,Rick Olson,DEM,IA,Incumbent,Won-General,23957.92,31
+State Representative,Nancy Dunkel,DEM,IA,Open,Won-General,23851.99,57
+State Representative,James Johnson,REP,IA,Challenger,Lost-General,23576.8,82
+State Representative,Jerry Kearns,DEM,IA,Incumbent,Won-General,21687.12,83
+State Representative,Bruce Bearinger,DEM,IA,Open,Won-General,21454.36,64
+State Senator,David Scott Edwards,REP,IA,Challenger,Lost-General,21388.9,16
+State Representative,Clel Baudler,REP,IA,Incumbent,Won-General,21237.0,20
+State Representative,Mark Seidl,DEM,IA,Challenger,Lost-General,20797.51,67
+State Representative,Eric Brenneman,DEM,IA,Open,Lost-General,20688.0,44
+State Representative,Cecil Dolecheck,REP,IA,Incumbent,Won-General,20301.9,24
+State Representative,Sandra Cronbaugh,DEM,IA,Challenger,Lost-General,20021.84,75
+State Representative,John Phoenix,DEM,IA,Challenger,Lost-General,19806.3,38
+State Senator,Bob Jennings,DEM,IA,Open,Lost-General,19776.67,4
+State Representative,Stephen Sherman,REP,IA,Open,Lost-General,19573.2,77
+State Representative,Dane Nealson,REP,IA,Challenger,Lost-General,18586.84,45
+State Representative,Frank Wood,DEM,IA,Challenger,Won-General,18439.9,92
+State Representative,Patti Branco,REP,IA,Challenger,Lost-General,18126.02,34
+State Representative,Nathan Wrage,DEM,IA,Open,Lost-General,18125.07,72
+State Senator,Timothy Tripp,DEM,IA,Open,Lost-General,17711.87,40
+State Senator,Shelly Stotts,DEM,IA,Challenger,Lost-General,17375.28,24
+State Representative,Daniel Huseman,REP,IA,Incumbent,Won-General,17101.9,3
+State Representative,Kasey Friedrichsen,DEM,IA,Challenger,Lost-General,16423.0,18
+State Representative,Gary Worthan,REP,IA,Incumbent,Won-General,16373.23,11
+State Representative,Megan Day Suhr,DEM,IA,Open,Lost-General,16307.99,28
+State Representative,Mary Lynn Wolfe,DEM,IA,Incumbent,Won-General,16117.35,98
+State Representative,Vicki Lensing,DEM,IA,Incumbent,Won-General,16020.87,85
+State Representative,Kenneth Herring,DEM,IA,Challenger,Lost-General,15747.12,19
+State Senator,Dick Schrad,DEM,IA,Open,Lost-General,15181.17,14
+State Representative,Dwayne Alons,REP,IA,Incumbent,Won-General,15111.9,4
+State Senator,Ryan Flood,REP,IA,Challenger,Lost-General,14723.68,34
+State Representative,Cindy Winckler,DEM,IA,Incumbent,Won-General,14711.36,90
+State Representative,Ako Abdul-Samad,DEM,IA,Incumbent,Won-General,14641.05,35
+State Representative,George Warren Yaple,DEM,IA,Challenger,Lost-General,14603.86,15
+State Representative,Deborah Berry,DEM,IA,Incumbent,Won-General,14225.0,62
+State Representative,Lance Lefebure,REP,IA,Challenger,Lost-General,13388.91,70
+State Representative,Matt Alcazar,REP,IA,Challenger,Lost-General,12722.0,9
+State Representative,Dan Cahill,IND,IA,Challenger,Lost-General,11000.0,87
+State Representative,Blake Smith,REP,IA,Challenger,Lost-General,10720.0,81
+State Senator,Vicki Stogdill,REP,IA,Open,Lost-General,10409.98,18
+State Representative,Bill Edmond,REP,IA,Challenger,Lost-General,10369.42,89
+State Representative,John Rose,DEM,IA,Challenger,Lost-General,9615.0,21
+State Representative,Greg Nepstad,DEM,IA,Challenger,Lost-General,9530.0,20
+U.S. Representative,George Todd Krail II,NOMINATED BY PETITION,IA,Challenger,Lost-General,8745.0,1
+State Representative,Mark Costello,REP,IA,Open,Won-General,7420.0,23
+State Representative,Jeff Ibbotson,REP,IA,Open,Lost-General,7333.87,36
+State Senator,William Johnson,REP,IA,Challenger,Lost-General,6454.76,50
+State Representative,Ted Whisler,DEM,IA,Challenger,Lost-General,6256.07,97
+State Representative,Heidi Guggisberg-Coners,DEM,IA,Challenger,Lost-General,5577.92,16
+State Representative,Ruth Ann Gaines,DEM,IA,Incumbent,Won-General,5497.84,32
+State Representative,Lyn Tackett,REP,IA,Challenger,Lost-General,5156.9,61
+State Representative,Stephen Quist,REP,IA,Challenger,Lost-General,5117.52,46
+State Representative,Becky Perkovich,DEM,IA,Open,Lost-General,5022.0,48
+State Representative,Kevin Ericson,DEM,IA,Challenger,Lost-General,4800.0,49
+State Representative,Carolyn Grimes,NOMINATED BY PETITION,IA,Challenger,Lost-General,4787.01,98
+State Representative,Jim Robidoux,REP,IA,Open,Withdrew-General,4566.26,37
+State Representative,Gabe Swersie,REP,IA,Challenger,Lost-General,3340.0,29
+State Representative,James Steffen,REP,IA,Challenger,Lost-General,3183.6,83
+State Representative,Ruth Eilleen Smith,DEM,IA,Challenger,Lost-General,2113.85,27
+State Representative,Terrance Williams,REP,IA,Challenger,Lost-General,1775.0,35
+State Representative,Jim Givant,REP,IA,Open,Lost-General,1575.0,64
+State Senator,Randi Shannon,REP,IA,Challenger,Withdrew-General,1290.0,34
+State Representative,Eric Hungerford,DEM,IA,Challenger,Lost-General,1280.0,51
+State Representative,Daniel Lerette,REP,IA,Challenger,Lost-General,1154.16,33
+State Representative,Joe Corbin,REP,IA,Challenger,Lost-General,1017.89,32
+State Representative,Mike McRae,DEM,IA,Challenger,Lost-General,96.05,42
+State Representative,Brett Nelson,NONE LISTED,IA,Challenger,Lost-General,0.0,38
+State Representative,Clarke Davidson,REP,IA,Challenger,Lost-General,0.0,41
+State Representative,Chris Wilson,DEM,IA,Challenger,Lost-General,0.0,79
+State Representative,Andrew Wilson,REP,IA,Challenger,Lost-General,0.0,87
+State Representative,John Boehm,NONE LISTED,IA,Open,Lost-General,0.0,37
+State Representative,Eric Cooper,NONE LISTED,IA,Challenger,Lost-General,0.0,45
+State Representative,Craig Clark,REP,IA,Challenger,Lost-General,0.0,52
+State Representative,Chad Folken,REP,IA,Challenger,Lost-General,0.0,62
+State Representative,Ryan Roberson,REP,IA,Challenger,Lost-General,0.0,90
+State Representative,Mark James Riley,NOMINATED BY PETITION,IA,Challenger,Lost-General,0.0,90
+Appellate Court-Vaitheswaran Seat,Anuradha Vaitheswaran,IND,IA,Incumbent,Won-Retention,0.0,nan
+Supreme Court-Wiggins Seat,David Wiggins,IND,IA,Incumbent,Won-Retention,0.0,nan
+Supreme Court-Mansfield Seat,Edward Mansfield,IND,IA,Incumbent,Won-Retention,0.0,nan
+Appellate Court-Mullins Seat,Michael Mullins,IND,IA,Incumbent,Won-Retention,0.0,nan
+Appellate Court-Tabor Seat,Mary Tabor,IND,IA,Incumbent,Won-Retention,0.0,nan
+Supreme Court-Waterman Seat,Thomas Waterman,IND,IA,Incumbent,Won-Retention,0.0,nan
+Supreme Court-Zager Seat,Bruce Zager,IND,IA,Incumbent,Won-Retention,0.0,nan
+U.S. Representative,Scott Batcher,NOMINATED BY PETITION,IA,Challenger,Lost-General,0.0,3
+U.S. Representative,Martin James Monroe,NOMINATED BY PETITION,IA,Challenger,Lost-General,0.0,4
+U.S. Representative,Gregory Hughes,NOMINATED BY PETITION,IA,Challenger,Lost-General,0.0,1
+U.S. Representative,Alan Aversa,NOMINATED BY PETITION,IA,Challenger,Lost-General,0.0,2
+U.S. Representative,David Rosenfeld,SOC,IA,Challenger,Lost-General,0.0,3

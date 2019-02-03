@@ -1,0 +1,92 @@
+office,candidate,party,state,incumbency,result,total money,district
+Governor,John Burris,REP,DE,Open,Lost-General,1522178.0,nan
+Governor,Ruth Ann Minner,DEM,DE,Open,Won-General,1497552.0,nan
+Lieutenant Governor,Dennis Rochford,REP,DE,Open,Lost-General,418321.0,nan
+Lieutenant Governor,John Carney Jr.,DEM,DE,Open,Won-General,359514.0,nan
+State Senator,Paul Welsh,REP,DE,Challenger,Lost-General,127163.0,8
+State Senator,Patricia Blevins,DEM,DE,Incumbent,Won-General,78437.0,7
+State Senator,Gerald Hocker,REP,DE,Challenger,Lost-General,75636.0,20
+State Senator,William McGlinchey,DEM,DE,Open,Lost-General,72179.0,5
+State Senator,David Sokola,DEM,DE,Incumbent,Won-General,64609.0,8
+State Senator,Nancy Cook,DEM,DE,Incumbent,Won-General,62749.0,15
+State Senator,Thomas Sharp,DEM,DE,Incumbent,Won-General,61950.0,9
+State Representative,Bethany Hall-Long,DEM,DE,Challenger,Lost-General,50922.0,9
+State Senator,David Burris,REP,DE,Challenger,Lost-General,49279.0,15
+State Representative,Shirley Price,DEM,DE,Incumbent,Won-General,48621.0,38
+State Senator,Harris McDowell III,DEM,DE,Incumbent,Won-General,48515.0,1
+State Representative,Stephanie Ulbrich,REP,DE,Incumbent,Won-General,45516.0,25
+State Representative,Roger Roy,REP,DE,Incumbent,Won-General,44375.0,20
+State Representative,Pamela Thornburg,REP,DE,Open,Won-General,44035.0,29
+State Senator,George Bunting Jr.,DEM,DE,Incumbent,Won-General,42586.0,20
+State Representative,Charles West,DEM,DE,Incumbent,Won-General,40573.0,41
+State Senator,Dorinda Connor,REP,DE,Incumbent,Won-General,40385.0,12
+State Representative,Robert Valihura Jr.,REP,DE,Incumbent,Won-General,40228.0,10
+State Senator,Catherine Cloutier,REP,DE,Open,Won-General,40104.0,5
+State Representative,Timothy Boulden,REP,DE,Incumbent,Won-General,39826.0,23
+State Senator,David McBride,DEM,DE,Incumbent,Won-General,37863.0,13
+Insurance Commissioner,Donna Lee Williams,REP,DE,Incumbent,Won-General,36430.0,nan
+State Senator,Thurman Adams Jr.,DEM,DE,Incumbent,Won-General,35425.0,19
+State Representative,Michael Mulrooney,DEM,DE,Incumbent,Won-General,35160.0,17
+State Representative,Richard Cathcart,REP,DE,Incumbent,Won-General,35070.0,9
+State Representative,Donna Stone,REP,DE,Incumbent,Won-General,34890.0,32
+State Representative,Gregory Francis Lavelle,REP,DE,Open,Won-General,33580.0,11
+State Representative,Richard Diliberto Jr.,DEM,DE,Incumbent,Won-General,32703.0,14
+State Representative,Benjamin Ewing Jr.,REP,DE,Incumbent,Won-General,29288.0,35
+State Representative,Judith Hendricks,DEM,DE,Challenger,Lost-General,28897.0,23
+State Representative,John Viola,DEM,DE,Incumbent,Won-General,28492.0,26
+State Senator,James Vaughn,DEM,DE,Incumbent,Won-General,28472.0,14
+State Representative,Scott Evans,REP,DE,Challenger,Lost-General,28045.0,41
+State Representative,Robert Everett II,DEM,DE,Open,Lost-General,27783.0,29
+State Representative,Robert Gilligan,DEM,DE,Incumbent,Won-General,26645.0,19
+State Representative,Kenneth Sutton III,REP,DE,Challenger,Lost-General,26190.0,38
+State Representative,Al Plant Sr.,DEM,DE,Incumbent,Won-General,25500.0,2
+State Representative,Terry Spence,REP,DE,Incumbent,Won-General,25455.0,18
+State Representative,Helene Keeley,DEM,DE,Incumbent,Won-General,25258.0,5
+State Representative,John Van Sant,DEM,DE,Incumbent,Won-General,25025.0,13
+State Representative,George Carey,REP,DE,Incumbent,Won-General,24715.0,36
+State Representative,George Robert Quillen,REP,DE,Incumbent,Won-General,24702.0,30
+State Representative,William Oberle Jr.,REP,DE,Incumbent,Won-General,24525.0,24
+State Representative,David Ennis,REP,DE,Incumbent,Won-General,23605.0,6
+State Representative,Wayne Smith,REP,DE,Incumbent,Won-General,23459.0,7
+State Representative,Nancy Wagner,REP,DE,Incumbent,Won-General,23060.0,31
+State Representative,Joseph Dipinto,REP,DE,Incumbent,Won-General,21845.0,4
+State Representative,John Schroeder,DEM,DE,Incumbent,Won-General,21790.0,37
+State Representative,Vincent Lofink,REP,DE,Incumbent,Won-General,21225.0,27
+State Senator,Lee Murphy,REP,DE,Challenger,Lost-General,20456.0,1
+State Representative,David Brady,DEM,DE,Incumbent,Won-General,20045.0,8
+State Representative,Joseph Miro,REP,DE,Incumbent,Won-General,19050.0,22
+State Representative,Arthur Scott,DEM,DE,Incumbent,Won-General,19000.0,3
+State Representative,Vance Daniels Sr.,DEM,DE,Challenger,Lost-General,18994.0,36
+State Representative,Deborah Hudson,REP,DE,Incumbent,Won-General,17850.0,12
+State Representative,Bruce Ennis,DEM,DE,Incumbent,Won-General,17765.0,28
+State Representative,Tina Fallon,REP,DE,Incumbent,Won-General,17725.0,39
+State Representative,Gerald Buckworth,REP,DE,Incumbent,Won-General,17545.0,34
+State Representative,Kenneth Turoczy,REP,DE,Challenger,Lost-General,16959.0,8
+State Representative,William Houghton,DEM,DE,Incumbent,Won-General,16870.0,16
+State Representative,Dennis Williams,DEM,DE,Incumbent,Won-General,16795.0,1
+State Representative,Pamela Maier,REP,DE,Incumbent,Won-General,14703.0,21
+State Representative,Clifford Lee,REP,DE,Incumbent,Won-General,14595.0,40
+State Representative,William Daisey,DEM,DE,Challenger,Lost-General,13286.0,32
+State Representative,Wallace Caulk Jr.,REP,DE,Incumbent,Won-General,12016.0,33
+State Representative,John Meghan,REP,DE,Challenger,Lost-General,11159.0,26
+State Representative,Richard Lindale,DEM,DE,Challenger,Lost-General,11041.0,35
+State Representative,Fran Anglin,DEM,DE,Challenger,Lost-General,10997.0,18
+State Representative,Campbell Hay,DEM,DE,Challenger,Lost-General,10918.0,4
+State Representative,Michael Shaw,REP,DE,Challenger,Lost-General,9493.0,17
+State Representative,Ruth Elizabeth Crystal,REP,DE,Challenger,Lost-General,9475.0,37
+State Representative,Bruce Reynolds,REP,DE,Incumbent,Won-General,9450.0,15
+State Senator,John Pasquale Jr.,REP,DE,Challenger,Lost-General,9180.0,7
+State Representative,Tommye Staley,DEM,DE,Challenger,Lost-General,6747.0,33
+State Representative,Thomas Popo,DEM,DE,Challenger,Lost-General,6564.0,10
+State Representative,Mary Sherlock,DEM,DE,Challenger,Lost-General,4930.0,34
+State Representative,Steven Biener,DEM,DE,Open,Lost-General,4572.0,11
+State Representative,Goodwin Cobb IV,DEM,DE,Challenger,Lost-General,3080.0,25
+State Representative,Pamela Darling,DEM,DE,Challenger,Lost-General,2415.0,30
+State Representative,David Dennett,DEM,DE,Challenger,Lost-General,1534.0,6
+State Representative,Terri Lewis,LIB,DE,Challenger,Lost-General,1500.0,28
+State Representative,Michael McGroerty,DEM,DE,Challenger,Lost-General,1275.0,39
+Governor,Floyd McDowell Sr.,IND,DE,Open,Lost-General,750.0,nan
+State Representative,Andrew Gregg,LIB,DE,Challenger,Lost-General,311.0,26
+State Senator,Rick Schroeter,CON,DE,Challenger,Lost-General,270.0,15
+State Representative,Nancy Mattson,NATURAL LAW,DE,Challenger,Lost-General,0.0,16
+State Senator,William McMurray,DEM,DE,Challenger,Lost-General,0.0,12

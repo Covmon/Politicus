@@ -1,0 +1,120 @@
+office,candidate,party,state,incumbency,result,total money,district
+Governor,Dave Freudenthal,DEM,WY,Incumbent,Won-General,1077654.16,nan
+Governor,Ray Hunkins,REP,WY,Challenger,Lost-General,584670.48,nan
+Auditor,Rita Meyer,REP,WY,Open,Won-General,157824.0,nan
+Secretary Of State,Max Maxfield,REP,WY,Open,Won-General,96667.52,nan
+Treasurer,Joe Meyer,REP,WY,Open,Won-General,60900.0,nan
+Superintendent Of Public Instruction,Michelle Hoffman,DEM,WY,Challenger,Lost-General,52446.0,nan
+State Senator,Grant Larson,REP,WY,Incumbent,Won-General,49484.87,17
+Superintendent Of Public Instruction,Jim McBride,REP,WY,Incumbent,Won-General,42787.31,nan
+State Senator,Larry Clapp,DEM,WY,Open,Lost-General,41977.48,29
+State Senator,Chuck Herz,DEM,WY,Challenger,Lost-General,38900.66,17
+State Senator,Robert Fecht,REP,WY,Open,Won-General,32346.7,5
+State Senator,Curtis Meier,REP,WY,Incumbent,Won-General,26712.16,3
+State Representative,Peter Jorgensen,DEM,WY,Incumbent,Won-General,23959.49,16
+State Representative,Tom Walsh,REP,WY,Incumbent,Won-General,23850.0,56
+State Representative,Mary Ann Throne,DEM,WY,Open,Won-General,21759.34,11
+State Representative,Kate Mead,REP,WY,Challenger,Lost-General,21533.62,16
+State Representative,William Steward,REP,WY,Open,Won-General,18227.78,47
+State Representative,Lori Millin,DEM,WY,Challenger,Won-General,16740.9,8
+State Representative,Doug Samuelson,REP,WY,Incumbent,Won-General,16630.86,7
+State Representative,Larry Meuli,REP,WY,Incumbent,Lost-General,14897.49,8
+State Representative,Timothy Hallinan,REP,WY,Open,Won-General,14175.0,32
+State Representative,Lisa Shepperson,REP,WY,Open,Won-General,14010.0,58
+State Representative,David Bush,REP,WY,Open,Lost-General,13385.0,41
+State Senator,Drew Perkins,REP,WY,Open,Won-General,12485.0,29
+State Representative,Sleeter Dover,DEM,WY,Challenger,Lost-General,11759.0,9
+Auditor,Bill Eikenberry,DEM,WY,Open,Lost-General,11072.3,nan
+State Senator,John Hastert,DEM,WY,Open,Won-General,10930.0,13
+State Representative,Ken Esquibel,DEM,WY,Open,Won-General,9745.0,41
+State Representative,Sue Wallis,REP,WY,Open,Won-General,9538.52,52
+State Representative,Tom Lockhart,REP,WY,Incumbent,Won-General,9325.0,57
+State Representative,Saundra Meyer,DEM,WY,Open,Won-General,9028.3,49
+State Representative,Kevin White,REP,WY,Incumbent,Won-General,8670.0,45
+State Senator,Christopher Shoults,DEM,WY,Challenger,Lost-General,8375.5,3
+State Senator,William Vasey,DEM,WY,Incumbent,Won-General,8077.04,11
+State Representative,Amy Edmonds,REP,WY,Open,Won-General,7930.0,12
+State Representative,Allen Jaggi,REP,WY,Open,Won-General,7883.22,18
+State Representative,Peter Illoway,REP,WY,Incumbent,Won-General,7678.54,42
+State Representative,Liz Gentile,DEM,WY,Challenger,Won-General,7590.0,36
+State Representative,Linda Fleming,DEM,WY,Open,Lost-General,7587.6,47
+State Representative,Tom Rea,DEM,WY,Challenger,Lost-General,7536.9,56
+State Representative,Rodney Anderson,REP,WY,Incumbent,Won-General,7475.0,10
+State Representative,Mark Harris,REP,WY,Open,Lost-General,7470.78,49
+State Representative,Steve Harshman,REP,WY,Incumbent,Won-General,7460.0,37
+State Representative,Jan Alvaney,DEM,WY,Challenger,Lost-General,7253.72,46
+State Representative,Gerald Gay,REP,WY,Incumbent,Lost-General,7175.0,36
+State Representative,Deborah Alden,REP,WY,Incumbent,Won-General,6953.79,3
+State Representative,Dan Dockstader,REP,WY,Open,Won-General,6668.06,21
+State Representative,James Slater,REP,WY,Incumbent,Won-General,6600.0,46
+State Representative,Matt Teeters,REP,WY,Open,Won-General,6451.12,5
+State Senator,Randall Lane,DEM,WY,Open,Lost-General,6232.0,5
+State Representative,Patrick Goggles,DEM,WY,Incumbent,Won-General,6070.83,33
+State Representative,Monte Olsen,REP,WY,Incumbent,Won-General,5550.0,22
+State Representative,Joe Malek,REP,WY,Challenger,Lost-General,5538.41,33
+State Senator,John Barrasso,REP,WY,Incumbent,Won-General,5500.0,27
+State Representative,Roman Hildt,REP,WY,Open,Lost-General,5330.0,11
+State Senator,Ray Peterson,REP,WY,Incumbent,Won-General,5300.0,19
+State Representative,Erin Mercer,REP,WY,Incumbent,Won-General,5257.5,53
+State Representative,Cynthia Li,DEM,WY,Open,Lost-General,5142.27,58
+State Representative,Bob Taylor,REP,WY,Challenger,Lost-General,5060.0,15
+State Representative,George Bagby,DEM,WY,Incumbent,Won-General,4913.49,15
+State Representative,Floyd Esquibel,DEM,WY,Incumbent,Won-General,4550.0,44
+State Representative,Leo Garcia,DEM,WY,Open,Lost-General,4283.82,12
+State Representative,Dan Zwonitzer,REP,WY,Incumbent,Won-General,4119.02,43
+State Representative,Seth Carson,DEM,WY,Challenger,Lost-General,3901.0,45
+State Representative,Scott Koenekamp,DEM,WY,Challenger,Lost-General,3755.0,37
+State Representative,Stan Blake,DEM,WY,Open,Won-General,3620.0,39
+State Representative,Michael Madden,REP,WY,Open,Won-General,3550.0,40
+State Representative,Pat Hans,DEM,WY,Challenger,Lost-General,3487.0,38
+State Representative,Roy Cohee,REP,WY,Incumbent,Won-General,3325.0,35
+State Representative,David Edwards,REP,WY,Incumbent,Won-General,3175.0,6
+State Representative,Robert Brechtel,REP,WY,Incumbent,Won-General,3150.0,38
+State Representative,Kathy Davison,REP,WY,Incumbent,Won-General,3148.2,20
+State Representative,Lorraine Quarberg,REP,WY,Incumbent,Won-General,2925.0,28
+State Representative,Debbie Healy Hammons,DEM,WY,Incumbent,Won-General,2875.0,27
+State Representative,David Zwonitzer,REP,WY,Incumbent,Won-General,2775.0,9
+State Senator,Ken Decaria,DEM,WY,Incumbent,Won-General,2578.92,15
+State Representative,Thomas Lubnau II,REP,WY,Incumbent,Won-General,2531.12,31
+State Representative,Colin Simpson,REP,WY,Incumbent,Won-General,2525.0,24
+State Representative,James Owen Petersen,REP,WY,Incumbent,Won-General,2450.0,19
+State Representative,Marty Martin,DEM,WY,Incumbent,Won-General,2425.0,48
+State Senator,Kathryn Sessions,DEM,WY,Incumbent,Won-General,2400.0,7
+State Representative,Ross Diercks,DEM,WY,Incumbent,Won-General,2250.0,2
+State Senator,Bruce Burns,REP,WY,Incumbent,Won-General,2225.0,21
+State Representative,Bernadine Craft,DEM,WY,Open,Won-General,2155.0,17
+State Representative,Del McOmie,REP,WY,Incumbent,Won-General,2099.1,54
+State Representative,Sue Howard,IND,WY,Challenger,Lost-General,2067.76,53
+State Senator,James Cale Case,REP,WY,Incumbent,Won-General,2063.24,25
+State Senator,Leland J) Turner,DEM,WY,Challenger,Lost-General,2007.72,23
+State Representative,David Miller,REP,WY,Incumbent,Won-General,1875.0,55
+State Representative,Bill Thompson,DEM,WY,Incumbent,Won-General,1875.0,60
+State Senator,Michael Massie,DEM,WY,Incumbent,Won-General,1825.0,9
+State Senator,John Hines,REP,WY,Incumbent,Won-General,1810.0,23
+State Representative,Elaine Harvey,REP,WY,Incumbent,Won-General,1797.21,26
+State Representative,Jack Landon Jr.,REP,WY,Incumbent,Won-General,1675.0,30
+State Representative,Charles Childers,REP,WY,Incumbent,Won-General,1625.0,50
+State Representative,Keith Gingery,REP,WY,Incumbent,Won-General,1575.0,23
+State Senator,Harry Lovato,REP,WY,Challenger,Lost-General,1525.0,11
+State Representative,Rosie Berger,REP,WY,Incumbent,Won-General,1275.0,51
+State Representative,Jerry Iekel,REP,WY,Incumbent,Won-General,1225.0,29
+State Senator,Travis Brockie,DEM,WY,Challenger,Lost-General,1200.0,25
+State Representative,Mark Semlek,REP,WY,Incumbent,Won-General,1200.0,1
+State Senator,L Townsend,REP,WY,Incumbent,Won-General,1181.7,1
+State Representative,Jane Warren,DEM,WY,Incumbent,Won-General,1075.0,13
+State Representative,Ed Buchanan,REP,WY,Incumbent,Won-General,910.0,4
+State Representative,Kermit Brown,REP,WY,Incumbent,Won-General,825.0,14
+State Representative,Frank Philp,REP,WY,Incumbent,Won-General,656.0,34
+State Senator,Kenneth Casner,IND,WY,Challenger,Lost-General,564.0,11
+State Representative,Mary Meyer Gilmore,DEM,WY,Incumbent,Won-General,525.0,59
+Treasurer,Ron Redo,DEM,WY,Open,Lost-General,418.22,nan
+State Representative,David McCleary,REP,WY,Challenger,Lost-General,400.0,44
+State Representative,Duffy Jenniges,DEM,WY,Open,Lost-General,250.0,32
+Secretary Of State,Dennis Brossman,LIB,WY,Open,Lost-General,200.0,nan
+State Representative,Richard Paul Brubaker,LIB,WY,Challenger,Lost-General,96.72,34
+State Representative,Alan Jones,REP,WY,Incumbent,Won-General,51.66,25
+State Representative,Timothy Delany,LIB,WY,Challenger,Lost-General,25.0,57
+State Representative,Richard Tass,IND,WY,Open,Lost-General,0.0,40
+Supreme Court-Burke Seat,James Burke,IND,WY,Incumbent,Won-Retention,0.0,nan
+Supreme Court-Golden Seat,Michael Golden,IND,WY,Incumbent,Won-Retention,0.0,nan
+State Representative,Jana Howard Ginter,DEM,WY,Challenger,Withdrew-General,0.0,10

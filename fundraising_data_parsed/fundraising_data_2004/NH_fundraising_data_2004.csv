@@ -1,0 +1,799 @@
+office,candidate,party,state,incumbency,result,total money,district
+Governor,Craig Benson,REP,NH,Incumbent,Lost-General,4015876.6,nan
+Governor,John Lynch,DEM,NH,Challenger,Won-General,2969633.13,nan
+State Senator,Martha Fuller Clark,DEM,NH,Open,Won-General,146176.0,24
+State Senator,Harry Haytayan,REP,NH,Open,Lost-General,116304.0,12
+State Senator,David Gottesman,DEM,NH,Open,Won-General,107366.89,12
+Executive Councilor,Raymond Burton,REP,NH,Incumbent,Won-General,94876.75,nan
+State Senator,John Lyons Jr.,REP,NH,Open,Lost-General,90869.0,24
+Executive Councilor-004,Raymond Buckley II,DEM,NH,Open,Lost-General,87723.25,nan
+State Senator,Margaret Wood Hassan,DEM,NH,Challenger,Won-General,73758.3,23
+State Senator,Robert Clegg Jr.,REP,NH,Open,Won-General,73130.0,14
+State Senator,Lou Dallesandro,DEM,NH,Open,Won-General,69865.0,20
+State Senator,Peter Bragdon,REP,NH,Open,Won-General,67920.0,11
+State Senator,Robert Odell Jr.,REP,NH,Open,Won-General,66984.0,8
+State Senator,Thomas Eaton,REP,NH,Incumbent,Won-General,63705.0,10
+State Senator,Charles Morse,REP,NH,Incumbent,Won-General,61713.63,22
+State Senator,Russell Prescott,REP,NH,Incumbent,Lost-General,58877.0,23
+State Senator,McKim Mitchell,DEM,NH,Challenger,Lost-General,56732.21,10
+State Senator,Peter Hoe Burling,DEM,NH,Open,Won-General,53733.06,5
+Executive Councilor District Hillsborough 004,Raymond Wieczorek,REP,NH,Incumbent,Won-General,52970.0,nan
+State Senator,Jerry Sorlucco,DEM,NH,Open,Lost-General,52637.0,1
+State Senator,Carroll French,DEM,NH,Open,Lost-General,51915.0,8
+State Senator,Daniel Philbrick,REP,NH,Open,Lost-General,51250.0,21
+State Senator,Mark Fernald,DEM,NH,Open,Lost-General,49778.3,11
+Executive Councilor-005,David Wheeler,REP,NH,Incumbent,Lost-General,45490.0,nan
+State Senator,Richard Green,REP,NH,Incumbent,Won-General,45451.36,6
+State Senator,Robert Flanders,REP,NH,Open,Won-General,45023.39,7
+State Senator,Carl Johnson,REP,NH,Incumbent,Won-General,40885.0,2
+State Senator,Bob Letourneau,REP,NH,Open,Won-General,40275.0,19
+State Senator,Dave Gelinas,DEM,NH,Challenger,Lost-General,38347.46,18
+State Senator,John Gallus,REP,NH,Open,Won-General,38047.0,1
+State Senator,Andre Martel,REP,NH,Incumbent,Won-General,36585.0,18
+Executive Councilor-005,Debora Pignatelli,DEM,NH,Challenger,Won-General,36158.55,nan
+State Senator,Robert Boyce,REP,NH,Incumbent,Won-General,34840.0,4
+State Senator,Corey Corbin,DEM,NH,Open,Lost-General,28785.0,17
+State Senator,Sylvia Larsen,DEM,NH,Open,Won-General,27188.0,15
+State Senator,Sidney Lovett,DEM,NH,Challenger,Lost-General,23871.0,2
+State Senator,Joe Foster,DEM,NH,Open,Won-General,22915.0,13
+Executive Councilor-002,Peter Spaulding,REP,NH,Incumbent,Won-General,22740.0,nan
+State Senator,Joseph Kenney,REP,NH,Incumbent,Won-General,20054.0,3
+State Senator,Sheila Roberge,REP,NH,Open,Won-General,19805.0,9
+State Senator,Iris Estabrook,DEM,NH,Open,Won-General,15541.22,21
+State Senator,Matt Mayberry,REP,NH,Open,Lost-General,14215.0,21
+State Senator,Theodore Gatsas,REP,NH,Open,Won-General,12339.97,16
+State Representative,Nicholas Thacher,DEM,NH,Open,Lost-General,12157.5,7
+State Senator,James Dean,REP,NH,Open,Lost-General,11922.06,5
+State Senator,Jim Boynton,REP,NH,Open,Lost-General,11111.0,21
+State Senator,Beth Rodd,DEM,NH,Open,Lost-General,11055.0,7
+State Senator,Beth Reever Arsenault,DEM,NH,Challenger,Lost-General,9880.0,4
+State Representative,Dunc Chaplin,REP,NH,Open,Won-General,9800.0,3
+State Senator,Richard Brothers,REP,NH,Challenger,Lost-General,9300.0,2
+Executive Councilor-003,Ruth Griffin,REP,NH,Incumbent,Won-General,9300.0,nan
+State Representative,John Hunt,REP,NH,Open,Won-General,9300.0,7
+State Representative,David Scott,REP,NH,Open,Lost-General,8378.0,5
+State Representative,Joseph Donahue,DEM,NH,Open,Lost-General,8055.83,5
+State Representative,April Hersey Mason,REP,NH,Open,Won-General,7803.0,13
+State Senator,Joseph Kelly Levasseur,REP,NH,Open,Lost-General,6655.0,20
+State Representative,Laurel Redden,DEM,NH,Open,Lost-General,6485.0,4
+State Representative,Rogers Johnson,REP,NH,Open,Won-General,6232.33,13
+State Representative,James Mackay,REP,NH,Open,Won-General,5779.25,11
+State Senator,John Barnes Jr.,REP,NH,Open,Won-General,5730.0,17
+State Representative,Bette Lasky,DEM,NH,Open,Won-General,5500.0,26
+State Representative,Bernie Benn,DEM,NH,Open,Won-General,5290.0,9
+State Representative,Patricia McMahon,DEM,NH,Open,Won-General,5256.0,3
+State Representative,Saghir Tahir,REP,NH,Open,Won-General,5150.0,9
+State Senator,Grace Reisdorf,DEM,NH,Open,Lost-General,5136.8,19
+State Representative,James Craig,DEM,NH,Open,Won-General,4875.0,9
+State Representative,Robert Foose,DEM,NH,Open,Won-General,4853.72,1
+State Representative,Maureen Mooney,REP,NH,Open,Won-General,4793.5,19
+State Representative,Fran Egbers,DEM,NH,Open,Won-General,4622.25,10
+State Representative,Nancy Stiles,REP,NH,Open,Won-General,4608.62,15
+State Representative,Mark Carter,REP,NH,Open,Won-General,4575.0,3
+State Representative,Gene Chandler,REP,NH,Open,Won-General,4242.5,1
+State Representative,Leo Fraser Jr.,REP,NH,Open,Lost-General,4175.0,11
+State Representative,Aaron Lavallee,DEM,NH,Open,Lost-General,3860.0,5
+State Representative,Christopher Pappas,DEM,NH,Open,Won-General,3627.0,8
+State Representative,David Borden,DEM,NH,Open,Lost-General,3555.21,18
+State Representative,Ryan Hansen,REP,NH,Open,Won-General,3486.89,6
+State Senator,Marlene Dechane,DEM,NH,Challenger,Lost-General,3467.5,6
+State Representative,Suzanne Harvey,DEM,NH,Open,Won-General,3375.0,21
+State Representative,Sheila Francoeur,REP,NH,Open,Won-General,3345.12,15
+State Representative,Eric Daniels,REP,NH,Open,Lost-General,3285.0,10
+State Representative,Laurie Harding,DEM,NH,Open,Won-General,3238.75,11
+State Representative,Lee Slocum,REP,NH,Open,Won-General,3215.0,6
+State Representative,Marshall Quandt,REP,NH,Open,Won-General,3150.0,13
+State Representative,John Ward,REP,NH,Open,Won-General,3129.21,1
+State Senator,William Farnum,DEM,NH,Challenger,Lost-General,3025.0,3
+State Representative,Michael Irving Moffett,REP,NH,Open,Lost-General,3002.95,11
+State Representative,Charlotte Houde Quimby,DEM,NH,Open,Won-General,2993.0,1
+State Representative,Paul Johnson,DEM,NH,Open,Lost-General,2862.5,26
+State Representative,Mary Beth Walz,DEM,NH,Open,Won-General,2825.0,13
+State Representative,Sharon Nordgren,DEM,NH,Open,Won-General,2750.0,9
+State Representative,Mark Newhall,REP,NH,Open,Lost-General,2731.97,22
+State Representative,Michael Brunelle,DEM,NH,Open,Lost-General,2710.0,17
+State Representative,Susi Nord,DEM,NH,Open,Lost-General,2696.0,1
+State Senator,Tom St Martin,DEM,NH,Open,Lost-General,2681.35,16
+State Representative,Cindy Rosenwald,DEM,NH,Open,Won-General,2660.0,22
+State Representative,Judith Reever,DEM,NH,Challenger,Lost-General,2605.0,4
+State Representative,Kurt Roessner,REP,NH,Open,Lost-General,2592.97,13
+State Representative,Donald Andolina,REP,NH,Open,Lost-General,2577.0,6
+State Representative,Sheila Foote,REP,NH,Open,Won-General,2543.3,6
+State Representative,Peter Goyette Jr.,REP,NH,Open,Won-General,2500.0,27
+State Representative,Janet Shaffer Hammond,DEM,NH,Open,Lost-General,2425.0,3
+State Representative,Stephen Prichard,DEM,NH,Open,Won-General,2368.06,1
+State Representative,Desmond Ford,REP,NH,Open,Lost-General,2297.81,1
+State Representative,James Michael Garrity,REP,NH,Open,Won-General,2289.48,6
+Executive Councilor-002,John Dana Shea,DEM,NH,Challenger,Lost-General,2278.21,nan
+State Representative,Jeremy Blanchard,DEM,NH,Open,Lost-General,2261.98,6
+State Representative,J Bettencourt,REP,NH,Open,Won-General,2200.0,4
+State Representative,Tara Reardon,DEM,NH,Open,Won-General,2200.0,11
+State Representative,Charles Weed,DEM,NH,Open,Won-General,2200.0,3
+State Representative,William Obrien,REP,NH,Open,Won-General,2193.3,4
+State Representative,Dan Allen,DEM,NH,Open,Lost-General,2156.56,1
+State Representative,James Powers,DEM,NH,Open,Won-General,2155.0,16
+State Representative,Martha Stroup McLeod,DEM,NH,Open,Won-General,2122.91,2
+State Representative,William Beaton,REP,NH,Open,Lost-General,2096.38,8
+State Representative,Marcia Moody,DEM,NH,Open,Won-General,2028.07,12
+State Representative,Jim Carew,REP,NH,Open,Won-General,2003.0,1
+State Representative,Randolph Holden,REP,NH,Open,Won-General,2000.0,7
+State Representative,Pamela Coughlin,REP,NH,Open,Won-General,1968.72,4
+State Representative,Richard Goodman,DEM,NH,Open,Lost-General,1959.35,15
+State Representative,Daniel Carr,DEM,NH,Open,Lost-General,1951.87,4
+State Representative,Sid Das,DEM,NH,Open,Lost-General,1930.0,27
+State Senator,Rose Arthur,DEM,NH,Open,Lost-General,1895.0,9
+State Representative,Deb Hogancamp,REP,NH,Open,Won-General,1875.0,4
+State Representative,William Infantine,REP,NH,Open,Won-General,1850.0,13
+State Representative,Fred Vogt,REP,NH,Open,Lost-General,1837.0,1
+State Representative,Debra Naro,REPUBLICAN DEMOCRATIC,NH,Open,Won-General,1800.0,7
+State Representative,Stuart Hodgeman,REP,NH,Open,Lost-General,1783.62,1
+State Representative,James Wheeler,REP,NH,Open,Won-General,1764.58,6
+State Senator,Jeff Newman,REP,NH,Open,Lost-General,1712.11,15
+State Representative,Larry Elliott,REP,NH,Open,Won-General,1711.26,1
+State Representative,Arthur Jillette Jr.,DEM,NH,Open,Won-General,1710.15,2
+State Representative,Harry Gale Jr.,REP,NH,Open,Won-General,1700.0,3
+State Representative,Terie Norelli,DEM,NH,Open,Won-General,1690.0,16
+State Representative,Susan Kepner,DEM,NH,Open,Lost-General,1675.0,15
+State Representative,Russell Bridle,REP,NH,Open,Won-General,1668.0,15
+State Representative,David Currier,REP,NH,Open,Won-General,1600.0,5
+State Representative,Bob Williams,DEM,NH,Open,Won-General,1595.0,11
+State Representative,Alan Bemis,REP,NH,Open,Lost-General,1591.77,1
+State Representative,Joe Stone,REP,NH,Open,Won-General,1590.0,1
+State Representative,Carl Porter,REP,NH,Open,Lost-General,1570.98,11
+State Representative,Matthew Quandt,REP,NH,Open,Won-General,1550.0,13
+State Representative,Paul Digeronimo,DEM,NH,Open,Lost-General,1540.0,4
+State Representative,Mike Warmington,DEM,NH,Open,Lost-General,1530.0,5
+State Representative,William Golding,REP,NH,Open,Won-General,1500.65,9
+State Representative,Timothy Easson,REP,NH,Open,Won-General,1456.36,3
+State Representative,David Essex,DEM,NH,Open,Won-General,1455.0,1
+State Representative,Stephanie Eaton,REP,NH,Open,Won-General,1450.21,1
+State Representative,Thomas Buco,DEM,NH,Open,Won-General,1450.0,1
+State Representative,William Butynski,DEM,NH,Open,Won-General,1408.96,4
+State Representative,Larry Converse,DEM,NH,Open,Won-General,1400.0,4
+State Representative,Joseph Chromy,DEM,NH,Open,Lost-General,1365.0,3
+State Representative,Christopher Irish,REP,NH,Open,Won-General,1364.25,4
+State Representative,Peter Solomon,DEM,NH,Open,Won-General,1325.0,10
+State Representative,Derek Owen,DEM,NH,Open,Won-General,1316.67,4
+State Representative,Pamela Vezinat Manney,REP,NH,Open,Won-General,1286.04,7
+State Representative,David Hess,REP,NH,Open,Won-General,1268.91,9
+State Representative,James Oneil,DEM,NH,Open,Lost-General,1265.0,19
+State Representative,Tim Oconnell,REP,NH,Open,Won-General,1245.0,6
+State Representative,Henry Rodeschin,REP,NH,Open,Lost-General,1230.45,2
+State Representative,Beverly Rodeschin,REP,NH,Open,Won-General,1210.45,2
+State Representative,Normand Tanguay,DEM,NH,Open,Lost-General,1208.72,15
+State Representative,Gail Barry,REP,NH,Open,Won-General,1194.0,16
+State Representative,Peyton Hinkle,REP,NH,Open,Won-General,1161.6,19
+State Representative,Anne Marie Irwin,DEM,NH,Open,Won-General,1160.0,3
+State Representative,Susan Almy,DEM,NH,Open,Won-General,1139.25,11
+State Representative,Gene Andersen,DEM,NH,Open,Won-General,1139.25,11
+State Representative,Lee Hammond,DEM,NH,Open,Won-General,1139.25,11
+State Representative,Peter Batula,REP,NH,Open,Won-General,1126.0,19
+State Representative,Dana Hilliard,DEM,NH,Open,Won-General,1125.0,2
+State Representative,Sandra Harris,DEM,NH,Open,Lost-General,1100.0,4
+State Representative,James Dunn,DEM,NH,Open,Won-General,1100.0,3
+State Representative,Brenda Ferland,DEM,NH,Open,Won-General,1100.0,5
+State Representative,Joe Harris,DEM,NH,Open,Won-General,1100.0,4
+State Representative,Richard Heon,DEM,NH,Open,Won-General,1100.0,2
+State Representative,James Phinizy,DEM,NH,Open,Won-General,1100.0,5
+State Representative,James Splaine,DEM,NH,Open,Won-General,1100.0,16
+State Representative,Howie Lund,REP,NH,Open,Won-General,1083.02,5
+State Representative,John Lunn,DEM,NH,Open,Lost-General,1080.0,2
+State Representative,David Knox,REP,NH,Open,Won-General,1079.26,4
+State Representative,John Tholl Jr.,REP,NH,Open,Won-General,1073.03,2
+State Representative,Carolyn Brown,REP,NH,Open,Won-General,1051.0,1
+State Representative,Jeffrey Hollinger,REP,NH,Open,Won-General,1050.0,5
+State Representative,Pamela Price,REP,NH,Open,Won-General,1003.67,26
+State Representative,Peter Allen,DEM,NH,Open,Won-General,1000.0,6
+State Representative,Don Brueggemann,DEM,NH,Open,Won-General,1000.0,12
+State Representative,Mary Stuart Gile,DEM,NH,Open,Won-General,1000.0,10
+State Representative,Stephen Michon,DEM,NH,Open,Won-General,1000.0,25
+State Representative,Jessie Osborne,DEM,NH,Open,Won-General,1000.0,12
+State Representative,Frances Potter,DEM,NH,Open,Won-General,1000.0,10
+State Representative,Hilda Weyl Sokol,DEM,NH,Open,Won-General,1000.0,9
+State Representative,Judith Spang,DEM,NH,Open,Won-General,1000.0,7
+State Representative,Mary Jane Wallner,DEM,NH,Open,Won-General,1000.0,12
+State Representative,John Pratt,DEM,NH,Open,Won-General,1000.0,2
+State Representative,John Gibson,REP,NH,Open,Won-General,985.0,19
+State Representative,Hector Velez,DEM,NH,Open,Won-General,975.0,12
+State Representative,Albert Cernota,REP,NH,Open,Lost-General,972.0,26
+State Representative,Joseph Norman Feuer,REP,NH,Open,Lost-General,968.51,2
+State Representative,Frank Tupper,DEM,NH,Open,Won-General,965.0,6
+State Representative,Robert Martel,DEM,NH,Open,Lost-General,950.0,13
+State Representative,Mary Eisner,DEM,NH,Open,Lost-General,945.0,5
+State Representative,Ralph Doolan Jr.,REP,NH,Open,Lost-General,925.0,2
+State Representative,Susan Emerson,REP,NH,Open,Won-General,909.43,7
+State Representative,Dario Carrara,REP,NH,Open,Lost-General,900.0,2
+State Representative,Nancy Elliott,REP,NH,Open,Won-General,876.6,19
+State Representative,Ruth Bleyler,DEM,NH,Open,Won-General,870.0,9
+State Representative,Phyllis Woods,REP,NH,Open,Lost-General,865.0,6
+State Representative,Eugene Kelly Jr.,REP,NH,Open,Won-General,860.95,20
+State Representative,Richard William Morris,REP,NH,Open,Won-General,850.0,14
+State Representative,David Buhlman,REP,NH,Open,Won-General,845.45,27
+State Representative,John Finan,REP,NH,Open,Lost-General,830.47,13
+State Representative,Eileen Flockhart,DEM,NH,Open,Won-General,825.0,13
+State Representative,Sheldon Sawyer,REP,NH,Open,Won-General,819.52,2
+State Representative,James Coburn,REP,NH,Open,Won-General,814.12,4
+State Representative,Sherman Packard,REP,NH,Open,Won-General,800.0,3
+State Representative,Anthony Matarazzo,DEM,NH,Open,Won-General,796.36,20
+State Representative,Edwin Smith,REP,NH,Open,Lost-General,783.0,4
+State Representative,Paula Werme,REP,NH,Open,Lost-General,775.0,6
+State Representative,Elizabeth Blanchard,REP,NH,Open,Won-General,747.42,10
+State Representative,Gene Charron,REP,NH,Open,Won-General,740.32,7
+State Representative,Paul Chevalier,REP,NH,Open,Lost-General,731.05,16
+State Representative,Kathleen Russell,DEM,NH,Open,Lost-General,725.0,13
+State Representative,Carlos Gonzalez,REP,NH,Open,Won-General,725.0,17
+State Representative,Claudia Chase,DEM,NH,Open,Won-General,710.0,2
+State Representative,Daniel Adams Eaton,DEM,NH,Open,Won-General,700.0,2
+State Representative,Albert Weare,REP,NH,Open,Won-General,700.0,14
+State Representative,Curt Carr,DEM,NH,Open,Lost-General,675.0,5
+State Representative,Barbara French,DEM,NH,Open,Won-General,675.0,5
+State Representative,Peter Bergin,REP,NH,Open,Won-General,659.81,6
+State Representative,Norman Major,REP,NH,Open,Won-General,650.0,8
+State Representative,Larry Emerton,REP,NH,Open,Won-General,635.0,7
+State Representative,Thomas Gillick Jr.,REP,NH,Open,Won-General,628.89,15
+State Representative,Nelson Allan,REP,NH,Open,Won-General,624.0,26
+State Representative,Edmond Gionet,REP,NH,Open,Won-General,600.0,3
+State Representative,Jane Langley,REP,NH,Open,Won-General,600.0,18
+State Representative,Robert Rowe,REP,NH,Open,Won-General,600.0,6
+State Representative,Lynne Ober,REP,NH,Open,Won-General,587.27,27
+State Representative,Stephen Pelkey,REP,NH,Open,Won-General,584.43,7
+State Representative,Joy Tilton,DEM,NH,Open,Won-General,582.5,6
+State Representative,Mark Clark,REP,NH,Open,Won-General,580.19,18
+State Representative,Michael Scanlon,REP,NH,Open,Won-General,580.19,18
+State Representative,James Mitchell Jr.,DEM,NH,Open,Lost-General,575.56,3
+State Representative,Stephen Destefano,DEM,NH,Open,Won-General,575.5,13
+State Representative,Ronald Wanner,REP,NH,Open,Lost-General,566.47,13
+State Representative,Eric Anderson,REP,NH,Open,Won-General,566.47,13
+State Representative,Susan Abert,REP,NH,Open,Lost-General,556.99,2
+State Representative,Sally Sherrard,DEM,NH,Open,Lost-General,550.0,1
+State Representative,Dudley Daniels Dumaine,REP,NH,Open,Won-General,550.0,3
+State Representative,Andrew Renzullo,REP,NH,Open,Won-General,545.5,27
+State Representative,Gerald Parker,REP,NH,Open,Lost-General,534.43,7
+State Representative,Lawrence Artz,REP,NH,Open,Lost-General,524.0,26
+State Representative,Peter Brunette,DEM,NH,Challenger,Lost-General,500.0,4
+State Representative,John M Alger,REP,NH,Open,Won-General,500.0,6
+State Representative,Catherine Mulholland,DEM,NH,Open,Won-General,500.0,10
+State Representative,Peter Sullivan,DEM,NH,Open,Won-General,500.0,10
+State Representative,Janet Wall,DEM,NH,Open,Won-General,500.0,7
+State Representative,Donald Dyer,REP,NH,Open,Won-General,483.0,26
+State Representative,Christine Hamm,DEM,NH,Open,Won-General,481.67,4
+State Representative,Nell Conkwright,DEM,NH,Open,Lost-General,478.0,2
+State Representative,Alida Millham,REP,NH,Open,Won-General,459.0,5
+State Representative,John Flanders Sr.,REP,NH,Open,Won-General,450.0,8
+State Representative,Carolyn Gargasz,REP,NH,Open,Won-General,450.0,5
+State Representative,Michael Farley,DEM,NH,Open,Lost-General,421.0,17
+State Representative,Anthony Simon,DEM,NH,Open,Lost-General,400.0,11
+State Representative,Mary Cooney,DEM,NH,Open,Won-General,400.0,7
+State Representative,Joan Schulze,DEM,NH,Open,Won-General,383.0,26
+State Representative,Eileen Williams,REP,NH,Open,Lost-General,378.0,6
+State Representative,Bea Francoeur,REP,NH,Open,Won-General,359.67,26
+State Representative,Robert Barker,REP,NH,Open,Won-General,354.97,6
+State Representative,Stephen Stepanek,REP,NH,Open,Won-General,350.0,6
+State Representative,David Woodbury,DEM,NH,Open,Lost-General,348.0,4
+State Representative,Larry Brown,IND,NH,Open,Lost-General,308.0,3
+State Representative,Eileen Keim,DEM,NH,Open,Lost-General,300.0,11
+State Representative,Bonnie Mitchell,DEM,NH,Open,Won-General,300.0,7
+State Representative,Ronald Nowe,REP,NH,Open,Won-General,295.68,9
+State Representative,Stephen Shurtleff,DEM,NH,Open,Won-General,275.0,10
+State Representative,Katy Forry,DEM,NH,Open,Lost-General,250.0,7
+State Representative,John Sweeney,REP,NH,Open,Lost-General,250.0,4
+State Representative,Richard Drisko,REP,NH,Open,Won-General,250.0,5
+State Representative,Linda Foster,DEM,NH,Open,Won-General,250.0,4
+State Representative,John Thomas,REP,NH,Open,Won-General,250.0,5
+State Representative,Andrew Roeper,DEM,NH,Open,Lost-General,225.0,4
+State Representative,Sandra Reeves,REP,NH,Open,Won-General,216.84,8
+State Representative,Richard Thackston III,REP,NH,Open,Lost-General,200.0,6
+State Representative,Claire Clarke,DEM,NH,Open,Won-General,200.0,6
+State Representative,Ken Hawkins,REP,NH,Open,Won-General,200.0,18
+State Representative,Leon Calawa Jr.,REP,NH,Open,Won-General,190.0,27
+State Representative,Suzie Fortier,DEM,NH,Open,Lost-General,150.0,13
+State Representative,Paul Brassard,DEM,NH,Open,Won-General,150.0,17
+State Representative,Eric Palangas,DEM,NH,Open,Won-General,150.0,12
+State Representative,George Musler,REP,NH,Open,Lost-General,112.0,3
+State Representative,Russell Perkins,REP,NH,Open,Lost-General,100.0,11
+State Representative,Fred Teeboom,REP,NH,Open,Lost-General,100.0,20
+State Representative,Vivian Desmarais,REP,NH,Open,Won-General,100.0,14
+State Representative,Thomas Donovan,DEM,NH,Open,Won-General,100.0,4
+State Representative,David Kidder,REP,NH,Open,Won-General,100.0,1
+State Representative,Penn Brown,DEM,NH,Open,Lost-General,80.0,9
+State Representative,Samuel Citron,DEM,NH,Open,Lost-General,75.0,3
+State Representative,Roland Hofemann,DEM,NH,Open,Won-General,75.0,6
+State Representative,Mary Till,DEM,NH,Open,Lost-General,72.15,7
+State Representative,Donna Marie Marceau,DEM,NH,Open,Lost-General,50.0,27
+State Representative,Kimberly Shaw,DEM,NH,Open,Won-General,50.0,26
+State Representative,Candace Bouchard,DEM,NH,Open,Won-General,18.98,11
+State Representative,John Dejoie,DEM,NH,Open,Won-General,-1400.0,11
+State Representative,Robert Adam,REP,NH,Open,Lost-General,0.0,3
+State Representative,Elaine Andrews-Ahearn,DEM,NH,Open,Lost-General,0.0,14
+State Representative,Ralph Akins,IND,NH,Open,Lost-General,0.0,11
+State Representative,Mary Andosca,DEM,NH,Open,Lost-General,0.0,26
+State Representative,Tim Arsenault,DEM,NH,Challenger,Lost-General,0.0,4
+State Representative,Richard Arthur,DEM,NH,Open,Lost-General,0.0,19
+State Representative,Mahlon Artz,REP,NH,Open,Lost-General,0.0,26
+State Representative,Thomas Aselton Jr.,DEM,NH,Open,Lost-General,0.0,5
+State Representative,Brian Ballou,DEM,NH,Open,Lost-General,0.0,27
+State Representative,Leo Balzano,DEM,NH,Open,Lost-General,0.0,21
+State Representative,Toula Barber,DEM,NH,Open,Lost-General,0.0,8
+State Representative,Kevin Barnett,REP,NH,Open,Lost-General,0.0,23
+State Representative,Thomas Barringer,DEM,NH,Open,Lost-General,0.0,5
+State Representative,Robert Bartlett,DEM,NH,Open,Lost-General,0.0,11
+State Representative,Walter Becht,DEM,NH,Open,Lost-General,0.0,15
+State Representative,Marlowe Bergendoff,DEM,NH,Open,Lost-General,0.0,13
+State Representative,Shannon Lee Bernier,DEM,NH,Open,Lost-General,0.0,17
+State Representative,Sherri Bernstein,DEM,NH,Open,Lost-General,0.0,13
+State Representative,Wilfred Bishop,DEM,NH,Open,Lost-General,0.0,3
+State Representative,Ann Bond,REP,NH,Open,Lost-General,0.0,7
+State Representative,Laura Bonk,DEM,NH,Open,Lost-General,0.0,8
+State Representative,David Boothby,DEM,NH,Open,Lost-General,0.0,26
+State Representative,Scott Borthwick,REP,NH,Open,Lost-General,0.0,10
+State Representative,Donald Botsch,DEM,NH,Open,Lost-General,0.0,19
+State Representative,Michael Bouchard,DEM,NH,Open,Lost-General,0.0,9
+State Representative,Adam Bowker,DEM,NH,Open,Lost-General,0.0,5
+State Representative,Paula Bradley,DEM,NH,Open,Lost-General,0.0,2
+State Representative,William Brennan,DEM,NH,Open,Lost-General,0.0,1
+State Representative,Richard Brewster,DEM,NH,Open,Lost-General,0.0,6
+State Representative,Robert Bridgham,DEM,NH,Open,Lost-General,0.0,2
+State Representative,Dave Brody,DEM,NH,Open,Lost-General,0.0,4
+State Representative,David Brody,DEM,NH,Open,Lost-General,0.0,26
+State Representative,Scott Brody,DEM,NH,Open,Lost-General,0.0,4
+State Representative,David Brown,DEM,NH,Open,Lost-General,0.0,3
+State Representative,George Brown,DEM,NH,Open,Lost-General,0.0,1
+State Representative,Robert Brown,REP,NH,Open,Lost-General,0.0,4
+State Representative,Diane Bryon,REP,NH,Open,Lost-General,0.0,7
+State Representative,William Bryon,REP,NH,Open,Lost-General,0.0,7
+State Representative,Paulette Burgess,DEM,NH,Open,Lost-General,0.0,5
+State Representative,Shawna Burgess,DEM,NH,Open,Lost-General,0.0,5
+State Representative,James Caron,DEM,NH,Open,Lost-General,0.0,27
+State Representative,Jeffrey Carter,REP,NH,Open,Lost-General,0.0,14
+State Representative,Michael Caruso,DEM,NH,Open,Lost-General,0.0,4
+State Representative,Roberta Cernota,REP,NH,Open,Lost-General,0.0,26
+State Representative,Norma Greet Champagne,REP,NH,Open,Lost-General,0.0,12
+State Representative,Brian Charles,DEM,NH,Open,Lost-General,0.0,1
+State Representative,Tom Chase,DEM,NH,Open,Lost-General,0.0,1
+State Representative,Richard Close,REP,NH,Open,Lost-General,0.0,5
+State Representative,Sam Cohen,REP,NH,Open,Lost-General,0.0,12
+State Representative,Timothy Comerford,IND,NH,Open,Lost-General,0.0,9
+State Representative,Karen Cote,DEM,NH,Open,Lost-General,0.0,10
+State Representative,William Cowie,DEM,NH,Open,Lost-General,0.0,2
+State Representative,Fred Creed Jr.,REP,NH,Open,Lost-General,0.0,4
+State Representative,Arthur Creighton,REP,NH,Open,Lost-General,0.0,11
+State Representative,Ruth Cserr,DEM,NH,Open,Lost-General,0.0,6
+State Representative,James Cyr,DEM,NH,Open,Lost-General,0.0,3
+State Representative,Paul Dadak,DEM,NH,Open,Lost-General,0.0,27
+State Representative,Joshua Damaso,DEM,NH,Open,Lost-General,0.0,5
+State Representative,Roger Day,REP,NH,Open,Lost-General,0.0,3
+State Representative,Kathryn Dean,DEM,NH,Open,Lost-General,0.0,18
+State Representative,Greg Demarco,DEM,NH,Open,Lost-General,0.0,9
+State Representative,Alana Demers,REP,NH,Open,Lost-General,0.0,8
+State Representative,Pierre Derochemont,REP,NH,Open,Lost-General,0.0,16
+State Representative,Maureen Desmarais,DEM,NH,Open,Lost-General,0.0,7
+State Representative,James Devine,DEM,NH,Open,Lost-General,0.0,7
+State Representative,Michael Devlin,REP,NH,Open,Lost-General,0.0,5
+State Representative,Eric Dickner,REP,NH,Open,Lost-General,0.0,11
+State Representative,Leona Dolloff,DEM,NH,Open,Lost-General,0.0,27
+State Representative,Brad Dorsey,IND,NH,Open,Lost-General,0.0,4
+State Representative,Gary Dozier,DEM,NH,Open,Lost-General,0.0,14
+State Representative,Marc Drapeau,REP,NH,Open,Lost-General,0.0,1
+State Representative,John Dunn,DEM,NH,Open,Lost-General,0.0,5
+State Representative,Robert Durell,IND,NH,Open,Lost-General,0.0,15
+State Representative,John Early,DEM,NH,Open,Lost-General,0.0,17
+State Representative,Eileen Ehlers,DEM,NH,Open,Lost-General,0.0,9
+State Representative,William Ellis,IND,NH,Open,Lost-General,0.0,27
+State Representative,Eric Estevez,IND,NH,Open,Lost-General,0.0,27
+State Representative,Donna Farrelly,REP,NH,Open,Lost-General,0.0,10
+State Representative,Dennis Fields,REP,NH,Open,Lost-General,0.0,2
+State Representative,Douglas Fish,REP,NH,Open,Lost-General,0.0,3
+State Representative,Doris Flaherty,DEM,NH,Open,Lost-General,0.0,4
+State Representative,Al Foley,REP,NH,Open,Lost-General,0.0,6
+State Representative,John Friede,DEM,NH,Open,Lost-General,0.0,3
+State Representative,Sarah Beatrice Friedman,DEM,NH,Open,Lost-General,0.0,15
+State Representative,Donald Frost,DEM,NH,Open,Lost-General,0.0,5
+State Representative,Mary Frost,DEM,NH,Open,Lost-General,0.0,5
+State Representative,Elizabeth Gabler,REP,NH,Open,Lost-General,0.0,7
+State Senator,Michael Garofalo,DEM,NH,Challenger,Lost-General,0.0,22
+State Representative,David Gleneck,REP,NH,Open,Lost-General,0.0,23
+State Representative,Warren Goddard,REP,NH,Open,Lost-General,0.0,16
+State Representative,Leo Goldman,DEM,NH,Open,Lost-General,0.0,3
+State Representative,Dorothy Paras Goodwin,REP,NH,Open,Lost-General,0.0,2
+State Representative,Louise Graham,DEM,NH,Open,Lost-General,0.0,4
+State Representative,Doug Grant,DEM,NH,Open,Lost-General,0.0,1
+State Representative,Pam Green,DEM,NH,Open,Lost-General,0.0,19
+State Representative,John Guidotti,REP,NH,Open,Lost-General,0.0,11
+State Representative,Harvey Harkness,DEM,NH,Open,Lost-General,0.0,8
+State Representative,Paul Harrington,REP,NH,Open,Lost-General,0.0,22
+State Representative,Joshua Harwood,DEM,NH,Open,Lost-General,0.0,12
+State Representative,Jonathan Heath,REP,NH,Open,Lost-General,0.0,10
+State Representative,Pat Heinrich,DEM,NH,Open,Lost-General,0.0,19
+State Representative,Claire Helfman,DEM,NH,Open,Lost-General,0.0,5
+State Representative,Brian Helman,DEM,NH,Open,Lost-General,0.0,8
+State Representative,Lawrence Hennessy Sr.,DEM,NH,Open,Lost-General,0.0,2
+State Representative,Denise Marie Herman,REP,NH,Open,Lost-General,0.0,17
+State Representative,Adam Hoffman,DEM,NH,Open,Lost-General,0.0,3
+State Representative,Alan Hoffman,DEM,NH,Open,Lost-General,0.0,3
+State Representative,Donald Holmquist,REP,NH,Open,Lost-General,0.0,4
+State Representative,Cindy Houghton,IND,NH,Open,Lost-General,0.0,6
+State Representative,Pamela Hubbard,DEM,NH,Open,Lost-General,0.0,1
+State Representative,Winfred Hutchinson,REP,NH,Open,Lost-General,0.0,9
+State Representative,Richard Ingram,DEM,NH,Open,Lost-General,0.0,27
+State Representative,Norma Roth Jackman,DEM,NH,Open,Lost-General,0.0,3
+State Representative,Michael Jacques,REP,NH,Open,Lost-General,0.0,3
+State Representative,Clark Johnson III,DEM,NH,Open,Lost-General,0.0,4
+State Representative,William Joscelyn,DEM,NH,Open,Lost-General,0.0,2
+State Representative,Thomas Katsiantonis,DEM,NH,Open,Lost-General,0.0,17
+State Representative,Robert Keays,REP,NH,Open,Lost-General,0.0,4
+State Representative,Daniel Kern,DEM,NH,Open,Lost-General,0.0,17
+State Representative,Neal Kimball,DEM,NH,Open,Lost-General,0.0,13
+State Representative,Edward Kirby,DEM,NH,Open,Lost-General,0.0,4
+State Senator,John Knowles,DEM,NH,Open,Lost-General,0.0,14
+State Representative,Emmanuel Krasner,DEM,NH,Open,Lost-General,0.0,3
+State Representative,Christine Kurtz-White,DEM,NH,Open,Lost-General,0.0,3
+State Representative,Dana Landers,DEM,NH,Open,Lost-General,0.0,2
+State Representative,Carol Lapierre,DEM,NH,Open,Lost-General,0.0,1
+State Representative,Brandon Laroche,DEM,NH,Open,Lost-General,0.0,3
+State Representative,John Laurent,REP,NH,Open,Lost-General,0.0,1
+State Representative,Elaine Lauterborn,DEM,NH,Open,Lost-General,0.0,1
+State Representative,Rose Leblanc,DEM,NH,Open,Lost-General,0.0,4
+State Representative,Regis Lemaire,DEM,NH,Open,Lost-General,0.0,7
+State Representative,Robert Leonard,REP,NH,Open,Lost-General,0.0,4
+State Representative,Timothy Logsdon,REP,NH,Open,Lost-General,0.0,2
+State Representative,Bill Longmaid,DEM,NH,Open,Lost-General,0.0,3
+State Representative,Bernard Luebkert,REP,NH,Open,Lost-General,0.0,13
+State Representative,Harold Lynde,DEM,NH,Open,Lost-General,0.0,27
+State Senator,Peter Macdonald,DEM,NH,Open,Lost-General,0.0,21
+State Representative,Linda Macia,DEM,NH,Open,Lost-General,0.0,16
+State Representative,Sharon Manos,DEM,NH,Open,Lost-General,0.0,6
+State Representative,Richard Marston,REP,NH,Open,Lost-General,0.0,17
+State Representative,David Martin,IND,NH,Open,Lost-General,0.0,5
+State Representative,Marion Martin,DEM,NH,Open,Lost-General,0.0,4
+State Representative,Thomas William Martin,DEM,NH,Open,Lost-General,0.0,11
+State Representative,Frank McCarthy,REP,NH,Open,Lost-General,0.0,1
+State Representative,Winston McCarty,REP,NH,Open,Lost-General,0.0,10
+State Representative,Donald McCollum,REP,NH,Open,Lost-General,0.0,26
+State Representative,Tom McCormick,REP,NH,Open,Lost-General,0.0,1
+State Representative,Henry McElroy Jr.,REP,NH,Open,Lost-General,0.0,20
+State Representative,Vivian McGuire,DEM,NH,Open,Lost-General,0.0,27
+State Representative,E McLean,REP,NH,Open,Lost-General,0.0,7
+State Representative,Karla McManus,DEM,NH,Open,Lost-General,0.0,18
+State Representative,Marc McNamara,DEM,NH,Open,Lost-General,0.0,6
+State Representative,Charles Melvin Sr.,REP,NH,Open,Lost-General,0.0,11
+State Representative,Robert Mercer,REP,NH,Open,Lost-General,0.0,21
+State Representative,Karyn Russell Merriman,DEM,NH,Open,Lost-General,0.0,18
+State Representative,Thomas Merritt,IND,NH,Open,Lost-General,0.0,1
+State Representative,Gordon Millar,DEM,NH,Open,Lost-General,0.0,5
+State Representative,Gordon Porter Miller,DEM,NH,Open,Lost-General,0.0,6
+State Representative,Ron Mirsky,DEM,NH,Open,Lost-General,0.0,13
+State Representative,John Moffett,REP,NH,Open,Lost-General,0.0,1
+State Representative,Michael Molkentine,REP,NH,Open,Lost-General,0.0,5
+State Representative,Gerard Morin,DEM,NH,Challenger,Lost-General,0.0,4
+State Representative,Wilfred Morrison Jr.,REP,NH,Open,Lost-General,0.0,3
+State Representative,Arthur Morse,DEM,NH,Open,Lost-General,0.0,8
+State Representative,William Mosher,REP,NH,Open,Lost-General,0.0,26
+State Representative,Sandra Mucci,DEM,NH,Open,Lost-General,0.0,3
+State Representative,Sharon L Mullen,DEM,NH,Open,Lost-General,0.0,15
+State Representative,Jeremy Muller,DEM,NH,Open,Lost-General,0.0,27
+State Representative,Carol Mulligan,DEM,NH,Open,Lost-General,0.0,3
+State Representative,Daniel Nash,REP,NH,Open,Lost-General,0.0,11
+State Representative,Daniel Nicholson,DEM,NH,Open,Lost-General,0.0,15
+State Representative,Vasilka Nicolova,DEM,NH,Open,Lost-General,0.0,10
+State Representative,Edward Nutter,REP,NH,Open,Lost-General,0.0,8
+State Representative,Anne Oehlschlaeger,DEM,NH,Challenger,Lost-General,0.0,4
+State Representative,Mollie Palmer Okeefe,DEM,NH,Open,Lost-General,0.0,14
+State Representative,Patricia Okeefe,DEM,NH,Open,Lost-General,0.0,14
+State Representative,Chris Oneill,DEM,NH,Open,Lost-General,0.0,5
+State Representative,Kevin Hackett Oneill,DEM,NH,Open,Lost-General,0.0,19
+State Representative,Lisa Oneill,DEM,NH,Open,Lost-General,0.0,5
+State Representative,Cynthia Onigman,DEM,NH,Open,Lost-General,0.0,18
+State Representative,Richard Oshaughnessy,DEM,NH,Open,Lost-General,0.0,4
+State Representative,Edwina Palm,DEM,NH,Open,Lost-General,0.0,4
+State Representative,June Panagopoulos,DEM,NH,Open,Lost-General,0.0,17
+State Representative,Joseph Parodi,DEM,NH,Open,Lost-General,0.0,5
+State Representative,Curtis Payne,DEM,NH,Open,Lost-General,0.0,10
+State Representative,Gregory Pederzani,REP,NH,Open,Lost-General,0.0,12
+State Representative,Vincent Perry,DEM,NH,Open,Lost-General,0.0,3
+State Representative,Leonard Pichini,DEM,NH,Open,Lost-General,0.0,13
+State Representative,Terry Pierson,DEM,NH,Open,Lost-General,0.0,4
+State Representative,Martha Pike,DEM,NH,Open,Lost-General,0.0,5
+State Representative,Jim Powell,REP,NH,Open,Lost-General,0.0,3
+State Representative,Charles Proulx,DEM,NH,Open,Lost-General,0.0,13
+State Representative,Greg Provost,DEM,NH,Open,Lost-General,0.0,5
+State Representative,Katherine Racicot,REP,NH,Open,Lost-General,0.0,9
+State Representative,Michael Reuschel,DEM,NH,Open,Lost-General,0.0,14
+State Representative,Daniel Richardson,REP,NH,Open,Lost-General,0.0,22
+State Representative,Kevin Riley,DEM,NH,Open,Lost-General,0.0,27
+State Representative,Lin Robinson,DEM,NH,Open,Lost-General,0.0,5
+State Representative,Doris Robitaille,DEM,NH,Open,Lost-General,0.0,9
+State Representative,Rose Marie Rogers,DEM,NH,Open,Lost-General,0.0,1
+State Representative,Jesse Roisin,REP,NH,Open,Lost-General,0.0,9
+State Representative,John Rossi,DEM,NH,Open,Lost-General,0.0,1
+State Representative,Sharron Rowlett,DEM,NH,Open,Lost-General,0.0,21
+State Representative,Francis Ruffing,REP,NH,Open,Lost-General,0.0,6
+State Representative,Fred Russell,DEM,NH,Open,Lost-General,0.0,7
+State Representative,Jim Salmon,DEM,NH,Open,Lost-General,0.0,1
+State Representative,Nicole Schultz,REP,NH,Open,Lost-General,0.0,6
+State Representative,Alan Seidman,DEM,NH,Open,Lost-General,0.0,18
+State Representative,Roy Shoults Sr.,REP,NH,Open,Lost-General,0.0,11
+State Representative,William Shutt,DEM,NH,Open,Lost-General,0.0,27
+State Representative,Thomas Simmons,IND,NH,Open,Lost-General,0.0,1
+State Representative,Jayme Simoes,DEM,NH,Open,Lost-General,0.0,1
+State Representative,William Siroty,DEM,NH,Open,Lost-General,0.0,6
+State Representative,Janet Smith,DEM,NH,Open,Lost-General,0.0,12
+State Representative,Richard Snow,DEM,NH,Open,Lost-General,0.0,1
+State Representative,Charles Sova,REP,NH,Open,Lost-General,0.0,10
+State Representative,Alan Spickler,DEM,NH,Open,Lost-General,0.0,4
+State Representative,Carol Spickler,DEM,NH,Open,Lost-General,0.0,4
+State Representative,Stephen Spratt,DEM,NH,Open,Lost-General,0.0,3
+State Representative,Tyler St Cyr,IND,NH,Open,Lost-General,0.0,17
+State Representative,Ralph Stein,DEM,NH,Open,Lost-General,0.0,4
+State Representative,Donald Sumner,REP,NH,Open,Lost-General,0.0,7
+State Representative,Kevin Taylor,DEM,NH,Open,Lost-General,0.0,6
+State Representative,Jonathan Teeling,IND,NH,Open,Lost-General,0.0,17
+State Representative,William Thomas,DEM,NH,Open,Lost-General,0.0,3
+State Representative,Rob Thompson,REP,NH,Open,Lost-General,0.0,12
+State Representative,Thomas Toner,REP,NH,Open,Lost-General,0.0,9
+State Representative,Amos Townsend,REP,NH,Open,Lost-General,0.0,7
+State Representative,Gail Tulipani,DEM,NH,Open,Lost-General,0.0,27
+State Representative,John Tuthill,IND,NH,Open,Lost-General,0.0,5
+State Representative,Michael Douglas Tuthill,DEM,NH,Open,Lost-General,0.0,7
+State Representative,Robert Van Winkle,DEM,NH,Open,Lost-General,0.0,1
+State Representative,James Walsh,REP,NH,Open,Lost-General,0.0,5
+State Representative,Kent Warner,DEM,NH,Open,Lost-General,0.0,1
+State Representative,Jacob Weisberg,DEM,NH,Open,Lost-General,0.0,19
+State Representative,Scott Welch,DEM,NH,Open,Lost-General,0.0,1
+State Representative,Gerry Wroe,DEM,NH,Open,Lost-General,0.0,4
+State Representative,Susan Griffin Yonkers,REP,NH,Open,Lost-General,0.0,4
+State Representative,William Zarges,DEM,NH,Open,Lost-General,0.0,1
+State Representative,Sandra Ziehm,REP,NH,Open,Lost-General,0.0,24
+State Representative,Diane Zito,DEM,NH,Open,Lost-General,0.0,18
+State Representative,Henri Azibert,DEM,NH,Open,Lost-General,0.0,3
+State Representative,Jason Bedrick,IND,NH,Open,Lost-General,0.0,4
+State Representative,Elizabeth Bellevue,DEM,NH,Open,Lost-General,0.0,5
+State Representative,Raimond Bowles,REP,NH,Open,Lost-General,0.0,16
+State Representative,Constance Dimmock,DEM,NH,Open,Lost-General,0.0,5
+State Representative,Dean Eaton,REP,NH,Open,Lost-General,0.0,3
+State Representative,Alfreda Englund,DEM,NH,Open,Lost-General,0.0,2
+State Representative,Gilbert Gitchell,DEM,NH,Open,Lost-General,0.0,6
+State Representative,George Gline,REP,NH,Open,Lost-General,0.0,3
+State Representative,Kenneth Jopp,DEM,NH,Open,Lost-General,0.0,6
+State Representative,Peter Leishman,DEM,NH,Open,Lost-General,0.0,6
+State Representative,Jennifer Mitchell,DEM,NH,Challenger,Lost-General,0.0,8
+State Representative,Jacek Nowicki,DEM,NH,Open,Lost-General,0.0,20
+State Representative,Matthew Quiet,DEM,NH,Open,Lost-General,0.0,9
+State Representative,Jeffrey Semprini,REP,NH,Open,Lost-General,0.0,16
+State Representative,Walter Service,CON,NH,Open,Lost-General,0.0,4
+State Representative,Sharon Smith,REP,NH,Open,Lost-General,0.0,4
+State Representative,Philip Tetreau,DEM,NH,Open,Lost-General,0.0,3
+State Representative,Lee Townsend,DEM,NH,Open,Lost-General,0.0,18
+State Representative,Felice Vincelette,DEM,NH,Open,Lost-General,0.0,3
+State Representative,Denise Walderich,DEM,NH,Open,Lost-General,0.0,7
+State Representative,Lisa Wilber,LIB,NH,Open,Lost-General,0.0,7
+State Representative,Charles Zoeller,DEM,NH,Open,Lost-General,0.0,5
+State Representative,Dennis Abbott,DEM,NH,Open,Won-General,0.0,12
+State Representative,Jeffrey Aboshar,REP,NH,Open,Won-General,0.0,13
+State Representative,Jarvis Adams IV,REP,NH,Open,Won-General,0.0,2
+State Representative,Christopher Ahlgren,REP,NH,Open,Won-General,0.0,4
+State Representative,Russell Albert,REP,NH,Open,Won-General,0.0,1
+State Representative,Janet Allen,REP,NH,Open,Won-General,0.0,5
+State Representative,Mary Allen,REP,NH,Open,Won-General,0.0,11
+State Representative,Michael Asselin,REP,NH,Open,Won-General,0.0,7
+State Representative,David Babson Jr.,REP,NH,Open,Won-General,0.0,3
+State Representative,Stephen Baines,REP,NH,Open,Won-General,0.0,7
+State Representative,Michael Balboni,REP,NH,Open,Won-General,0.0,21
+State Representative,Benjamin Baroody,DEM,NH,Open,Won-General,0.0,13
+State Representative,Jane Ellen Beaulieu,DEM,NH,Open,Won-General,0.0,17
+State Representative,Ronald Belanger,REP,NH,Open,Won-General,0.0,4
+State Representative,Jean Guy Bergeron,REP,NH,Open,Won-General,0.0,27
+State Representative,Roger Berube,DEM,NH,Open,Won-General,0.0,2
+State Representative,David Bickford,REP,NH,Open,Won-General,0.0,3
+State Representative,Elbert Bicknell,REP,NH,Open,Won-General,0.0,1
+State Representative,Franklin Bishop,REP,NH,Open,Won-General,0.0,2
+State Representative,Michael Biundo,REP,NH,Open,Won-General,0.0,15
+State Representative,Mary Ann Blanchard,DEM,NH,Open,Won-General,0.0,16
+State Representative,Ralph Boehm,REP,NH,Open,Won-General,0.0,27
+State Representative,Laurie Boyce,REP,NH,Open,Won-General,0.0,5
+State Representative,Julie Brown,REP,NH,Open,Won-General,0.0,1
+State Representative,Robert Brundige,REP,NH,Open,Won-General,0.0,19
+State Representative,Suzanne Butcher,DEM,NH,Open,Won-General,0.0,3
+State Representative,Donald Buxton,REP,NH,Open,Won-General,0.0,10
+State Representative,Bernard Buzzell,DEM,NH,Open,Won-General,0.0,4
+State Representative,Harriet Cady,REP,NH,Open,Won-General,0.0,1
+State Representative,Jacqueline Cali-Pitts,DEM,NH,Open,Won-General,0.0,16
+State Representative,Frank Callaghan,DEM,NH,Open,Won-General,0.0,1
+State Representative,Kevin Camm,REP,NH,Open,Won-General,0.0,8
+State Representative,David Campbell,DEM,NH,Open,Won-General,0.0,24
+State Representative,Wayne Campbell,REP,NH,Open,Won-General,0.0,3
+State Representative,Donald Carlson,REP,NH,Open,Won-General,0.0,3
+State Representative,Sharon Carson,REP,NH,Open,Won-General,0.0,3
+State Representative,Kimberley Casey,DEM,NH,Open,Won-General,0.0,11
+State Representative,Sam Cataldo,REP,NH,Open,Won-General,0.0,3
+State Representative,Robert Chabot,REP,NH,Open,Won-General,0.0,17
+State Representative,Bill Chase,DEM,NH,Open,Won-General,0.0,1
+State Representative,Chris Christensen,REP,NH,Open,Won-General,0.0,19
+State Representative,Lars Christiansen,REP,NH,Open,Won-General,0.0,27
+State Representative,Charles Clark,REP,NH,Open,Won-General,0.0,5
+State Representative,William Clayton,DEM,NH,Open,Won-General,0.0,10
+State Representative,Jane Clemons,DEM,NH,Open,Won-General,0.0,24
+State Representative,John Cloutier,DEM,NH,Open,Won-General,0.0,4
+State Representative,Richard Cooney,REP,NH,Open,Won-General,0.0,4
+State Representative,David Cote,DEM,NH,Open,Won-General,0.0,23
+State Representative,Peter Cote,DEM,NH,Open,Won-General,0.0,25
+State Representative,Elenore Crane,REP,NH,Open,Won-General,0.0,21
+State Representative,Irene Creteau,DEM,NH,Open,Won-General,0.0,1
+State Representative,Janeen Dalrymple,REP,NH,Open,Won-General,0.0,4
+State Representative,James William Danforth,REP,NH,Open,Won-General,0.0,6
+State Representative,Caitlin Daniuk,DEM,NH,Open,Won-General,0.0,11
+State Representative,Betsi Devries,DEM,NH,Open,Won-General,0.0,15
+State Representative,Judson Dexter,REP,NH,Open,Won-General,0.0,6
+State Representative,Howard Dickinson,REP,NH,Open,Won-General,0.0,1
+State Representative,Anthony Difruscia,REP,NH,Open,Won-General,0.0,4
+State Representative,Robert Dodge,REP,NH,Open,Won-General,0.0,9
+State Representative,Cynthia Dokmo,REP,NH,Open,Won-General,0.0,6
+State Representative,Baldwin Domingo,DEM,NH,Open,Won-General,0.0,5
+State Representative,Richard Donahue,REP,NH,Open,Won-General,0.0,7
+State Representative,Andrew Dorsett,REP,NH,Challenger,Won-General,0.0,8
+State Representative,John Dowd,REP,NH,Open,Won-General,0.0,5
+State Representative,Patricia Dowling,REP,NH,Open,Won-General,0.0,5
+State Representative,Christopher Doyle,REP,NH,Open,Won-General,0.0,4
+State Representative,Patricia Dunlap,REP,NH,Open,Won-General,0.0,1
+State Representative,Peter Espiefs,DEM,NH,Open,Won-General,0.0,3
+State Representative,Robert Fesh,REP,NH,Open,Won-General,0.0,5
+State Representative,William Doty Field,REP,NH,Open,Won-General,0.0,7
+State Representative,James Fitzgerald,REP,NH,Challenger,Won-General,0.0,4
+State Representative,Donald Flanders,REP,NH,Incumbent,Won-General,0.0,4
+State Representative,Robert Forsing,REP,NH,Open,Won-General,0.0,2
+State Representative,Peter Franklin,DEM,NH,Open,Won-General,0.0,2
+State Representative,Patrick Garrity,DEM,NH,Open,Won-General,0.0,14
+State Representative,Karl Gilbert,REP,NH,Open,Won-General,0.0,12
+State Representative,Ruth Ginsburg,DEM,NH,Open,Won-General,0.0,20
+State Representative,Robert Giuda,REP,NH,Open,Won-General,0.0,5
+State Representative,Jeff Goley,DEM,NH,Open,Won-General,0.0,8
+State Representative,Earle Goodwin,DEM,NH,Open,Won-General,0.0,6
+State Representative,Mary Gorman,DEM,NH,Open,Won-General,0.0,23
+State Representative,Kenneth Gould,REP,NH,Open,Won-General,0.0,5
+State Representative,John Graham,REP,NH,Open,Won-General,0.0,18
+State Representative,Anne Grassie,DEM,NH,Open,Won-General,0.0,1
+State Representative,Vincent Greco,DEM,NH,Open,Won-General,0.0,7
+State Representative,Mary Griffin,REP,NH,Open,Won-General,0.0,4
+State Representative,Barbara Hagan,REP,NH,Open,Won-General,0.0,17
+State Representative,Elizabeth Hager,REP,NH,Open,Won-General,0.0,12
+State Representative,Robert Haley,DEM,NH,Open,Won-General,0.0,14
+State Representative,Betty Hall,DEM,NH,Open,Won-General,0.0,5
+State Representative,Bonnie Ham,REP,NH,Open,Won-General,0.0,4
+State Representative,Michael Harrington,REP,NH,Open,Won-General,0.0,3
+State Representative,James Headd,REP,NH,Open,Won-General,0.0,3
+State Representative,Bruce Heald,REP,NH,Open,Won-General,0.0,3
+State Representative,Raymond Hebert,REP,NH,Open,Won-General,0.0,17
+State Representative,Stephen Hellwig,REP,NH,Open,Won-General,0.0,27
+State Representative,Keith Hirschmann,REP,NH,Open,Won-General,0.0,17
+State Representative,Paul Hopfgarten,REP,NH,Open,Won-General,0.0,5
+State Representative,Daniel Hughes,REP,NH,Open,Won-General,0.0,18
+State Representative,Bruce Hunter,REP,NH,Open,Won-General,0.0,7
+State Representative,Karen Keegan-Hutchinson,REP,NH,Open,Won-General,0.0,3
+State Representative,Paul Ingbretson,REP,NH,Open,Won-General,0.0,5
+State Representative,Russell Ingram,REP,NH,Open,Won-General,0.0,4
+State Representative,Robert Introne,REP,NH,Open,Won-General,0.0,3
+State Representative,Daniel Itse,REP,NH,Open,Won-General,0.0,9
+State Representative,Shawn Jasper,REP,NH,Open,Won-General,0.0,27
+State Representative,Claudette Jean,DEM,NH,Open,Won-General,0.0,25
+State Representative,Nancy Johnson,DEM,NH,Open,Won-General,0.0,3
+State Representative,Paula Johnson,DEM,NH,Open,Won-General,0.0,26
+State Representative,Robert Johnson,REP,NH,Open,Won-General,0.0,1
+State Representative,Naida Kaen,DEM,NH,Open,Won-General,0.0,7
+State Representative,George Katsakiores,REP,NH,Open,Won-General,0.0,5
+State Representative,Phyllis Katsakiores,REP,NH,Open,Won-General,0.0,5
+State Representative,Sandra Balomenos Keans,REP,NH,Open,Won-General,0.0,1
+State Representative,Richard Kennedy,REP,NH,Open,Won-General,0.0,4
+State Representative,Frederick King Sr.,REP,NH,Open,Won-General,0.0,1
+State Representative,John Klose,REP,NH,Open,Won-General,0.0,8
+State Representative,William Knowles,DEM,NH,Open,Won-General,0.0,6
+State Representative,Rudolph Kobel,REP,NH,Open,Won-General,0.0,1
+State Representative,Angeline Kopka,DEM,NH,Open,Won-General,0.0,26
+State Representative,Neal Kurk,REPUBLICAN DEMOCRATIC,NH,Open,Won-General,0.0,7
+State Representative,Thomas Langlais,REP,NH,Open,Won-General,0.0,8
+State Representative,Bruce Lary,REP,NH,Open,Won-General,0.0,3
+State Representative,James Lawrence,REP,NH,Open,Won-General,0.0,27
+State Representative,Roland Lefebvre,DEM,NH,Open,Won-General,0.0,24
+State Representative,Rudy Lessard,REP,NH,Open,Won-General,0.0,27
+State Representative,Bob Lheureux,REP,NH,Open,Won-General,0.0,19
+State Representative,Stephen Lheureux,REP,NH,Open,Won-General,0.0,9
+State Representative,Priscilla Parmenter Lockwood,REP,NH,Open,Won-General,0.0,6
+State Representative,John Manning Jr.,REP,NH,Open,Won-General,0.0,4
+State Representative,Richard Marple,REP,NH,Open,Won-General,0.0,9
+State Representative,James Martin,REP,NH,Open,Won-General,0.0,5
+State Representative,Mary Ellen Martin,DEM,NH,Open,Won-General,0.0,26
+State Representative,Roy Maxfield,REP,NH,Open,Won-General,0.0,6
+State Representative,Margie Maybeck,REP,NH,Challenger,Won-General,0.0,8
+State Representative,Mark McConkey,REP,NH,Open,Won-General,0.0,3
+State Representative,Betsy McKinney,REP,NH,Open,Won-General,0.0,3
+State Representative,Charles McMahon,REP,NH,Open,Won-General,0.0,4
+State Representative,Karen McRae,REP,NH,Open,Won-General,0.0,7
+State Representative,Bob Mead,REP,NH,Open,Won-General,0.0,4
+State Representative,Edgar Mears,DEM,NH,Open,Won-General,0.0,4
+State Representative,Scott Merrick,DEM,NH,Open,Won-General,0.0,2
+State Representative,Harry Merrow,REP,NH,Open,Won-General,0.0,3
+State Representative,Irene Messier,REP,NH,Open,Won-General,0.0,17
+State Representative,Joseph Miller,DEM,NH,Open,Won-General,0.0,7
+State Representative,Paul Mirski,REP,NH,Open,Won-General,0.0,10
+State Representative,Benjamin Moore,REP,NH,Open,Won-General,0.0,14
+State Representative,Edward Moran Jr.,REP,NH,Open,Won-General,0.0,18
+State Representative,Gail Morrison,DEM,NH,Open,Won-General,0.0,2
+State Representative,Lori Movsesian,DEM,NH,Open,Won-General,0.0,22
+State Representative,Stephen Nedeau,REP,NH,Open,Won-General,0.0,3
+State Representative,Clifford Newton,REP,NH,Open,Won-General,0.0,1
+State Representative,Lisbeth Olimpio,REP,NH,Open,Won-General,0.0,5
+State Representative,James Oliver,REP,NH,Open,Won-General,0.0,9
+State Representative,Michael Oneil,REP,NH,Open,Won-General,0.0,15
+State Representative,Laura Pantelakos,DEM,NH,Open,Won-General,0.0,16
+State Representative,Benjamin Parker,REP,NH,Open,Won-General,0.0,3
+State Representative,Henry L Parkhurst,DEM,NH,Open,Won-General,0.0,4
+State Representative,Betsey Patten,REP,NH,Open,Won-General,0.0,4
+State Representative,Leo Pepino,REP,NH,Open,Won-General,0.0,11
+State Representative,Donald Philbrick,REP,NH,Open,Won-General,0.0,2
+State Representative,James Pilliod,REP,NH,Open,Won-General,0.0,5
+State Representative,Maurice Pilotte,DEM,NH,Open,Won-General,0.0,16
+State Representative,Stanley Plifka Jr.,DEM,NH,Open,Won-General,0.0,4
+State Representative,Anne Priestley,REP,NH,Open,Won-General,0.0,4
+State Representative,Ed Putnam II,REP,NH,Open,Won-General,0.0,8
+State Representative,James Rausch,REP,NH,Open,Won-General,0.0,5
+State Representative,Dennis Reed,REP,NH,Open,Won-General,0.0,2
+State Representative,William Remick,REP,NH,Open,Won-General,0.0,2
+State Representative,Barbara Hull Richardson,DEM,NH,Open,Won-General,0.0,5
+State Representative,Herbert Richardson,REP,NH,Open,Won-General,0.0,2
+State Representative,Kris Edward Roberts,DEM,NH,Open,Won-General,0.0,3
+State Representative,Carl Robertson,REP,NH,Open,Won-General,0.0,13
+State Representative,Timothy Robertson,DEM,NH,Open,Won-General,0.0,3
+State Representative,Eric Rochette,DEM,NH,Open,Won-General,0.0,23
+State Representative,Michael Rollo,DEM,NH,Open,Won-General,0.0,2
+State Representative,James Rolston,REP,NH,Open,Won-General,0.0,17
+State Representative,Ralph Rosen,REP,NH,Challenger,Won-General,0.0,4
+State Representative,Lawrence Ross,REP,NH,Open,Won-General,0.0,3
+State Representative,Emma Rous,DEM,NH,Open,Won-General,0.0,7
+State Representative,Deanna Rush,DEM,NH,Open,Won-General,0.0,7
+State Representative,David Russell,REP,NH,Open,Won-General,0.0,6
+State Representative,Jim Ryan,DEM,NH,Open,Won-General,0.0,2
+State Representative,Donald Ryder,REP,NH,Open,Won-General,0.0,5
+State Representative,Elisabeth Sanders,REP,NH,Open,Won-General,0.0,7
+State Representative,Doug Scamman,REP,NH,Open,Won-General,0.0,13
+State Representative,Stella Scamman,REP,NH,Open,Won-General,0.0,13
+State Representative,Peter Schmidt,DEM,NH,Open,Won-General,0.0,4
+State Representative,Christopher Serlin,DEM,NH,Open,Won-General,0.0,16
+State Representative,Barbara Shaw,DEM,NH,Open,Won-General,0.0,16
+State Representative,Stephanie Sinclair,DEM,NH,Open,Won-General,0.0,3
+State Representative,David Smith,DEM,NH,Open,Won-General,0.0,22
+State Representative,Marjorie Smith,DEM,NH,Open,Won-General,0.0,7
+State Representative,Paul Smith,REP,NH,Open,Won-General,0.0,3
+State Representative,Clair Snyder,DEM,NH,Open,Won-General,0.0,2
+State Representative,Tony Soltani,REP,NH,Open,Won-General,0.0,8
+State Representative,Gregory Sorg,REP,NH,Open,Won-General,0.0,3
+State Representative,Kathleen Souza,REP,NH,Open,Won-General,0.0,11
+State Representative,Stanley Stevens,REP,NH,Open,Won-General,0.0,4
+State Representative,Eric Stohl,REP,NH,Open,Won-General,0.0,1
+State Representative,Francis Sullivan,DEM,NH,Open,Won-General,0.0,12
+State Representative,Katherine Taylor,DEM,NH,Open,Won-General,0.0,4
+State Representative,Kathleen Taylor,DEM,NH,Open,Won-General,0.0,4
+State Representative,Robert Theberge,DEM,NH,Open,Won-General,0.0,4
+State Representative,Anna Tilton,DEM,NH,Open,Won-General,0.0,6
+State Representative,Franklin Tilton,REP,NH,Challenger,Won-General,0.0,4
+State Representative,William Tobin,REP,NH,Open,Won-General,0.0,2
+State Representative,James Twombly,REP,NH,Open,Won-General,0.0,1
+State Representative,Jordan Ulery,REP,NH,Open,Won-General,0.0,27
+State Representative,Steve Vaillancourt,REP,NH,Open,Won-General,0.0,15
+State Representative,John Veazey,REP,NH,Challenger,Won-General,0.0,4
+State Representative,Moe Villeneuve,REP,NH,Open,Won-General,0.0,18
+State Representative,Kevin Waterhouse,REP,NH,Open,Won-General,0.0,4
+State Representative,David Welch,REP,NH,Open,Won-General,0.0,8
+State Representative,Norman Weldy Jr.,REP,NH,Open,Won-General,0.0,2
+State Representative,Roger Wells,REP,NH,Open,Won-General,0.0,8
+State Representative,Fran Wendelboe,REP,NH,Open,Won-General,0.0,1
+State Representative,Kenneth Weyler,REP,NH,Open,Won-General,0.0,8
+State Representative,Michael Whalley,REP,NH,Open,Won-General,0.0,5
+State Representative,Robert Wheeler,REP,NH,Open,Won-General,0.0,7
+State Representative,Herbert Whiting,REP,NH,Open,Won-General,0.0,2
+State Representative,Robert Wiley,REP,NH,Open,Won-General,0.0,5
+State Representative,Burton Williams,REP,NH,Incumbent,Won-General,0.0,8
+State Representative,George Winchell,REP,NH,Open,Won-General,0.0,6
+State Representative,Charles Yeaton,DEM,NH,Open,Won-General,0.0,8
+State Representative,William Zolla,REP,NH,Open,Won-General,0.0,5
+State Representative,Jacalyn Cilley,DEM,NH,Open,Won-General,0.0,3
+State Representative,Renny Morneau,REP,NH,Open,Won-General,0.0,4
+State Representative,Frank Palazzo Sr.,REP,NH,Open,Won-General,0.0,14
+State Representative,Jennifer Brown,DEM,NH,Open,Won-General,0.0,5

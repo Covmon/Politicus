@@ -1,0 +1,388 @@
+office,candidate,party,state,incumbency,result,total money,district
+State Senator,Tom Sawyer Jr.,REP,ME,Open,Won-General,153706.35,9
+State Senator,Adam Mack,REP,ME,Challenger,Lost-General,57406.36,29
+State Senator,Judith Powers,DEM,ME,Open,Lost-General,55063.71,12
+State Senator,Carol Kontos,DEM,ME,Incumbent,Lost-General,32526.0,26
+State Senator,Christine Savage,REP,ME,Open,Won-General,31956.04,12
+State Senator,Edward Youngblood,REP,ME,Challenger,Won-General,30110.0,6
+State Senator,Loren Bailey,DEM,ME,Challenger,Lost-General,27948.0,27
+State Senator,Karl Turner,REP,ME,Challenger,Won-General,27154.2,26
+State Senator,Jane Saxl,DEM,ME,Open,Lost-General,26584.0,9
+State Senator,William Ogara,DEM,ME,Incumbent,Won-General,26030.0,29
+State Senator,Charles Gaunce,REP,ME,Open,Lost-General,25496.0,14
+State Senator,Joel Abromson,REP,ME,Incumbent,Won-General,24733.0,27
+State Senator,Ruth McCleery Watson,REP,ME,Open,Lost-General,24462.0,30
+State Senator,David Snow,REP,ME,Open,Lost-General,24234.0,23
+State Senator,Neria Douglass,DEM,ME,Incumbent,Won-General,24173.33,22
+State Senator,Marjorie Kilkelly,DEM,ME,Incumbent,Won-General,22954.45,16
+State Senator,Michael McAlevey,REP,ME,Open,Won-General,20246.09,34
+State Senator,John Ford,REP,ME,Challenger,Lost-General,19973.96,11
+State Representative,Audrey Buffington,REP,ME,Challenger,Lost-General,19096.87,61
+State Senator,Janet Ellen Tockman,DEM,ME,Open,Lost-General,18885.89,33
+State Senator,Betty Lou Mitchell,REP,ME,Incumbent,Won-General,18845.0,10
+State Senator,Kenneth Lemont,REP,ME,Open,Won-General,17957.06,35
+State Representative,Kevin Glynn,REP,ME,Incumbent,Won-General,17845.81,27
+State Senator,David Ireland,REP,ME,Challenger,Lost-General,17758.0,7
+State Senator,Margaret Rotundo,DEM,ME,Open,Won-General,17475.0,21
+State Senator,Lynn Bromley,DEM,ME,Open,Won-General,17396.0,30
+State Senator,Susan Longley,DEM,ME,Incumbent,Won-General,17396.0,11
+State Senator,Mary Cathcart,DEM,ME,Incumbent,Won-General,17295.3,7
+State Senator,Dirk Poole,REP,ME,Challenger,Lost-General,17205.65,16
+State Senator,Paul Davis Sr.,REP,ME,Incumbent,Won-General,16999.0,8
+State Representative,Elizabeth Wooster,DEM,ME,Challenger,Lost-General,16894.37,59
+State Senator,Catherine Woodard,DEM,ME,Open,Lost-General,16581.0,35
+State Senator,Betheda Edmonds,DEM,ME,Open,Won-General,16504.0,23
+State Senator,Eugene McLaughlin Jr.,DEM,ME,Open,Lost-General,16321.0,2
+State Senator,Richard Kneeland,REP,ME,Open,Won-General,15822.0,2
+State Senator,Jean Hay,DEM,ME,Challenger,Lost-General,15768.0,10
+State Senator,Richard Ruhlin,DEM,ME,Incumbent,Lost-General,15565.0,6
+State Senator,Kenneth Gagnon,DEM,ME,Open,Won-General,14938.07,14
+State Senator,Russell Christensen,DEM,ME,Open,Lost-General,14710.95,17
+State Senator,Joann Clark Austin,REP,ME,Challenger,Lost-General,14695.0,15
+State Senator,Donald Gean,DEM,ME,Open,Lost-General,14695.0,34
+State Senator,Linda Clark Howard,DEM,ME,Challenger,Lost-General,14695.0,8
+State Senator,John Kaiser,REP,ME,Challenger,Lost-General,14695.0,18
+State Senator,Mark Sangster,REP,ME,Challenger,Lost-General,14695.0,31
+State Senator,Beverly Daggett,DEM,ME,Incumbent,Won-General,14695.0,15
+State Senator,Norman Ferguson Jr.,REP,ME,Incumbent,Won-General,14695.0,24
+State Senator,Peter Mills,REP,ME,Incumbent,Won-General,14695.0,13
+State Senator,John Nutting,DEM,ME,Incumbent,Won-General,14695.0,20
+State Senator,Peggy Pendleton,DEM,ME,Incumbent,Won-General,14695.0,31
+State Senator,Anne Rand,DEM,ME,Incumbent,Won-General,14695.0,28
+State Senator,Mary Small,REP,ME,Incumbent,Won-General,14695.0,19
+State Senator,Sharon Treat,DEM,ME,Incumbent,Won-General,14695.0,18
+State Senator,Chandler Woodcock,REP,ME,Open,Won-General,14695.0,17
+State Senator,Mathew Scease,GREEN INDEPENDENT,ME,Challenger,Withdrew-General,14695.0,19
+State Senator,Joseph Derouche,DEM,ME,Challenger,Lost-General,14694.98,24
+State Senator,Roger Ek,REP,ME,Challenger,Lost-General,14694.81,3
+State Senator,George Finch,DEM,ME,Open,Lost-General,13760.0,4
+State Senator,Kevin Shorey,REP,ME,Open,Won-General,13580.0,4
+State Senator,David Carpenter,REP,ME,Open,Won-General,13325.0,33
+State Senator,Carol Ann Grose,DEM,ME,Challenger,Lost-General,12960.0,19
+State Senator,Jeffery McCulloh,REP,ME,Challenger,Lost-General,12920.0,32
+State Representative,Theodore Koffman,DEM,ME,Challenger,Won-General,12697.46,130
+State Representative,Stavros Mendros,REP,ME,Incumbent,Won-General,12658.0,88
+State Representative,Deborah Kaler McNeil,REP,ME,Incumbent,Won-General,11994.78,62
+State Representative,Daniel Williams,DEM,ME,Incumbent,Lost-General,11930.0,122
+State Senator,John Martin,DEM,ME,Open,Won-General,11575.0,1
+State Representative,Patrick Colwell,DEM,ME,Incumbent,Won-General,11380.42,91
+State Representative,Daniel Newton Crewe,DEM,ME,Challenger,Lost-General,10968.0,42
+State Representative,Roy Daigle,REP,ME,Challenger,Lost-General,10910.07,118
+State Senator,Michael Michaud,DEM,ME,Incumbent,Won-General,10578.81,3
+State Representative,Brian Duprey,REP,ME,Open,Won-General,9996.09,114
+State Representative,Christina Baker,DEM,ME,Incumbent,Won-General,9960.85,117
+State Representative,Mary Ellen Ledwin,REP,ME,Open,Won-General,9914.0,116
+State Senator,Lloyd Lafountain III,DEM,ME,Incumbent,Won-General,9855.0,32
+State Representative,Thomas Murphy Jr.,REP,ME,Incumbent,Won-General,9855.0,8
+State Representative,John Harris,REP,ME,Open,Lost-General,9806.45,56
+State Representative,Margaret Niblett,REP,ME,Open,Lost-General,9692.13,144
+State Representative,Frank Farrington,REP,ME,Challenger,Lost-General,9681.0,117
+State Representative,David Bowles,REP,ME,Incumbent,Won-General,9475.0,9
+State Representative,Richard Rosen,REP,ME,Incumbent,Won-General,9475.0,113
+State Representative,Monica McGlocklin,DEM,ME,Incumbent,Won-General,9048.4,66
+State Representative,Harold Joseph Tomah,DEM,ME,Challenger,Lost-General,9023.0,7
+State Senator,Pamela Hatch,DEM,ME,Challenger,Lost-General,8986.0,13
+State Representative,William Schneider,REP,ME,Incumbent,Won-General,8950.0,85
+State Representative,Jean Chalmers,DEM,ME,Challenger,Lost-General,8898.33,62
+State Representative,Ronald Collins,REP,ME,Incumbent,Won-General,8858.27,7
+State Representative,Jacqueline Lundeen,DEM,ME,Open,Won-General,8483.0,144
+State Representative,Edward Dugay,DEM,ME,Incumbent,Won-General,8295.0,131
+State Representative,Nancy Sullivan,DEM,ME,Incumbent,Won-General,8260.0,17
+State Representative,Paul Leo Tessier,DEM,ME,Incumbent,Won-General,8150.0,101
+State Representative,Stanley Gerzofsky,DEM,ME,Open,Won-General,8068.0,50
+State Representative,David McKechnie,DEM,ME,Challenger,Lost-General,7922.03,11
+State Representative,Christopher L Hall,DEM,ME,Open,Won-General,7884.3,56
+State Representative,Joseph Brannigan,DEM,ME,Open,Won-General,7861.86,35
+State Representative,Russell Treadwell,REP,ME,Incumbent,Won-General,7850.0,124
+State Representative,Charles Lawton,DEM,ME,Challenger,Lost-General,7725.0,2
+State Representative,Julie Ann Obrien,REP,ME,Incumbent,Won-General,7640.71,96
+State Representative,Terrence McKenney,REP,ME,Incumbent,Won-General,7585.0,42
+State Representative,John Burke,DEM,ME,Open,Lost-General,7466.0,116
+State Representative,David Clark,DEM,ME,Challenger,Lost-General,7456.0,40
+State Representative,Bernard McGowan,DEM,ME,Challenger,Won-General,7370.0,104
+State Representative,Willis Lord,REP,ME,Open,Lost-General,7291.5,12
+State Representative,Edward Dexter,REP,ME,Challenger,Lost-General,7275.0,66
+State Representative,Charles Buzzell,REP,ME,Challenger,Lost-General,7068.62,139
+State Representative,Joseph Brooks,DEM,ME,Incumbent,Won-General,6926.0,107
+State Representative,Douglas Watts,DEM,ME,Challenger,Lost-General,6910.0,95
+State Representative,Clyde Leclair,DEM,ME,Challenger,Lost-General,6837.0,96
+State Representative,Jeffrey Kaelin,REP,ME,Challenger,Lost-General,6755.0,107
+State Representative,Roderick Carr,REP,ME,Incumbent,Won-General,6745.0,138
+State Representative,Christopher Oneil,DEM,ME,Incumbent,Won-General,6735.0,15
+State Representative,Edward Povich,DEM,ME,Incumbent,Won-General,6725.0,127
+State Representative,Sumner Jones Jr.,REP,ME,Incumbent,Lost-General,6710.0,104
+State Representative,Philip Cressey Jr.,REP,ME,Open,Won-General,6704.56,47
+State Representative,Joseph Bruno,REP,ME,Incumbent,Won-General,6525.0,38
+State Representative,Austin Treworgy,REP,ME,Open,Lost-General,6517.8,50
+State Representative,Mary Black Andrews,REP,ME,Incumbent,Won-General,6495.0,2
+State Representative,Abel Saucier,DEM,ME,Challenger,Lost-General,6470.2,9
+State Representative,Charles Fisher,DEM,ME,Incumbent,Won-General,6353.87,115
+State Representative,Robert Stanwood,REP,ME,Incumbent,Lost-General,6325.0,130
+State Representative,Robert Nutting,REP,ME,Incumbent,Won-General,6245.0,103
+State Representative,David Trahan,REP,ME,Incumbent,Won-General,6240.0,59
+State Representative,Clifton Foster,REP,ME,Incumbent,Won-General,6020.0,41
+State Representative,William Donovan,REP,ME,Challenger,Lost-General,6019.59,49
+State Representative,Richard Mailhot,DEM,ME,Incumbent,Won-General,6000.0,86
+State Representative,Earl Richardson,REP,ME,Incumbent,Lost-General,5986.0,111
+State Representative,Frank Tarazewich,DEM,ME,Open,Won-General,5973.47,12
+State Representative,Donald Berry Sr.,REP,ME,Incumbent,Won-General,5840.0,109
+State Representative,Robert Poulin,DEM,ME,Challenger,Lost-General,5639.96,88
+State Representative,Thomas Bull,DEM,ME,Incumbent,Won-General,5611.0,48
+State Representative,James Skoglund,DEM,ME,Incumbent,Won-General,5554.52,61
+State Representative,Joseph Perry,DEM,ME,Incumbent,Won-General,5520.82,118
+State Representative,Jacqueline Norton,DEM,ME,Open,Won-General,5458.02,120
+State Representative,James Annis,REP,ME,Open,Won-General,5446.0,112
+State Representative,Lyle Cramer,REP,ME,Challenger,Lost-General,5434.0,29
+State Representative,Susan Dorr,DEM,ME,Open,Won-General,5431.0,63
+State Representative,Christopher Muse,DEM,ME,Incumbent,Won-General,5150.0,26
+State Representative,Stedman Seavey,REP,ME,Challenger,Lost-General,5122.37,17
+State Representative,Millard Pray,REP,ME,Challenger,Lost-General,5100.0,48
+State Representative,Glenys Lovett,REP,ME,Incumbent,Won-General,5025.0,21
+State Representative,Clinton Larry Stinchcomb,REP,ME,Challenger,Lost-General,5000.0,77
+State Representative,Paul Lessard,DEM,ME,Open,Won-General,4997.0,52
+State Representative,Vaughn Stedman,REP,ME,Incumbent,Won-General,4972.09,108
+State Representative,Gregory Brown,DEM,ME,Open,Lost-General,4955.0,47
+State Representative,Joseph Clark,DEM,ME,Incumbent,Won-General,4928.75,140
+State Representative,Priscilla Taylor,REP,ME,Open,Lost-General,4920.0,63
+State Representative,Bruce Bryant,DEM,ME,Incumbent,Won-General,4873.01,67
+State Representative,Richard Nass,REP,ME,Incumbent,Won-General,4867.5,11
+State Representative,Linda Rogers McKee,DEM,ME,Incumbent,Won-General,4861.0,79
+State Representative,George Bunker Jr.,DEM,ME,Challenger,Won-General,4850.0,136
+State Representative,Carol Weston,REP,ME,Incumbent,Won-General,4800.57,110
+State Representative,John Tuttle Jr.,DEM,ME,Incumbent,Won-General,4768.97,10
+State Representative,Gerald Davis,REP,ME,Incumbent,Won-General,4745.0,40
+State Representative,Robert Pendleton Jr.,DEM,ME,Challenger,Lost-General,4695.0,22
+State Representative,Gabrielle Carbonneau,REP,ME,Challenger,Lost-General,4662.0,82
+State Representative,Robert Macdonald,REP,ME,Challenger,Lost-General,4626.11,90
+State Representative,Laura Sanborn,DEM,ME,Incumbent,Lost-General,4600.0,137
+State Representative,Betty Johnson,DEM,ME,Challenger,Lost-General,4586.0,109
+State Representative,Thomas Shields,REP,ME,Incumbent,Won-General,4574.0,72
+State Representative,Joan Stiehler,REP,ME,Challenger,Lost-General,4525.0,79
+State Representative,Ernest Greenlaw,REP,ME,Open,Lost-General,4509.88,43
+State Representative,Janet McLaughlin,DEM,ME,Open,Won-General,4490.92,25
+State Representative,Carl Pease,DEM,ME,Open,Lost-General,4393.45,114
+State Representative,Stanley Tetenman,DEM,ME,Challenger,Lost-General,4393.0,72
+State Representative,Boyd Marley,DEM,ME,Open,Won-General,4393.0,36
+State Representative,Deborah Pelletier-Simpson,DEM,ME,Open,Won-General,4393.0,73
+State Representative,Arthur Mayo III,REP,ME,Incumbent,Won-General,4388.61,54
+State Representative,Frederic Johnson,REP,ME,Open,Lost-General,4335.0,99
+State Representative,Paul Volenik,DEM,ME,Incumbent,Won-General,4327.0,129
+State Representative,Stuart Kallgren,REP,ME,Challenger,Lost-General,4305.0,140
+State Representative,Raymond Pineau,DEM,ME,Open,Won-General,4274.0,76
+State Representative,Florence Young,REP,ME,Open,Won-General,4263.0,148
+State Senator,Sumner Lymburner,REP,ME,Challenger,Lost-General,4169.71,5
+State Representative,Carmaleta Farrington,DEM,ME,Challenger,Lost-General,4110.0,106
+State Representative,Ronald Usher,DEM,ME,Incumbent,Won-General,4092.0,28
+State Representative,Tom Winsor,REP,ME,Incumbent,Won-General,4069.5,68
+State Representative,David Madore,REP,ME,Incumbent,Won-General,4000.0,95
+State Representative,Charles Ayer,LIB,ME,Open,Lost-General,3975.0,52
+State Representative,Sally Landry,DEM,ME,Open,Won-General,3866.79,141
+State Representative,Stephen Estes,DEM,ME,Open,Won-General,3863.0,1
+State Representative,John Burgess,DEM,ME,Challenger,Lost-General,3862.49,125
+State Representative,Clare Grindal,REP,ME,Challenger,Lost-General,3826.0,129
+State Representative,Brian Camire,DEM,ME,Challenger,Lost-General,3813.0,78
+State Representative,Randa Thomas,DEM,ME,Challenger,Lost-General,3789.0,13
+State Representative,Theodore Heidrich,REP,ME,Incumbent,Won-General,3780.0,64
+State Representative,Royce Perkins,REP,ME,Incumbent,Won-General,3769.0,128
+State Representative,Richard Crabtree,REP,ME,Open,Won-General,3764.0,60
+State Representative,Michael Saxl,DEM,ME,Incumbent,Won-General,3763.47,31
+State Representative,John Richardson,DEM,ME,Incumbent,Won-General,3763.09,49
+State Representative,Shlomit Auciello,DEM,ME,Open,Lost-General,3763.0,60
+State Representative,Patricia Dutille,REP,ME,Open,Lost-General,3763.0,53
+State Representative,Derrick Grant,GREEN INDEPENDENT,ME,Challenger,Lost-General,3763.0,31
+State Representative,Randall Adam Greenwood,REP,ME,Challenger,Lost-General,3763.0,83
+State Representative,David Hall,DEM,ME,Challenger,Lost-General,3763.0,55
+State Representative,Steven Joy,REP,ME,Challenger,Lost-General,3763.0,127
+State Representative,Nancy Larsen,REP,ME,Open,Lost-General,3763.0,24
+State Representative,Jolene Lovejoy,REP,ME,Open,Lost-General,3763.0,70
+State Representative,Orene Clarke Nesin,REP,ME,Open,Lost-General,3763.0,105
+State Representative,David Rudolph,DEM,ME,Challenger,Lost-General,3763.0,126
+State Representative,Brian Sessions,DEM,ME,Challenger,Lost-General,3763.0,68
+State Representative,Kelly Ann Staples,DEM,ME,Challenger,Lost-General,3763.0,54
+State Representative,David Summers,REP,ME,Open,Lost-General,3763.0,98
+State Representative,Glenn Cummings,DEM,ME,Open,Won-General,3763.0,37
+State Representative,Robert Duplessie,DEM,ME,Incumbent,Won-General,3763.0,29
+State Representative,Rosita Gagne,DEM,ME,Incumbent,Won-General,3763.0,69
+State Representative,Bonnie Green,DEM,ME,Incumbent,Won-General,3763.0,83
+State Representative,Susan Hawes,DEM,ME,Open,Won-General,3763.0,43
+State Representative,Patricia Jacobs,DEM,ME,Incumbent,Won-General,3763.0,75
+State Representative,Sharon Libby Jones,DEM,ME,Challenger,Won-General,3763.0,111
+State Representative,John McDonough,DEM,ME,Incumbent,Won-General,3763.0,32
+State Representative,Marc Michaud,DEM,ME,Open,Won-General,3763.0,151
+State Representative,William Norbert,DEM,ME,Incumbent,Won-General,3763.0,34
+State Representative,Lillian Lafontiane Obrien,DEM,ME,Open,Won-General,3763.0,89
+State Representative,John Patrick,DEM,ME,Open,Won-General,3763.0,70
+State Representative,Judith Peavey,REP,ME,Incumbent,Won-General,3763.0,55
+State Representative,William Pinkham,REP,ME,Incumbent,Won-General,3763.0,132
+State Representative,William Savage,DEM,ME,Incumbent,Won-General,3763.0,14
+State Representative,Elizabeth Watson,DEM,ME,Incumbent,Won-General,3763.0,82
+State Representative,Michael Zimmer,DEM,ME,Challenger,Withdrew-General,3763.0,2
+State Representative,Thomas Kane,DEM,ME,Incumbent,Won-General,3750.0,16
+State Representative,Jay Macdougall,REP,ME,Incumbent,Won-General,3745.0,4
+State Representative,Gerald Bouffard,DEM,ME,Incumbent,Won-General,3700.0,90
+State Representative,Harold Clough,REP,ME,Incumbent,Won-General,3680.0,22
+State Representative,Troy Dale Jackson,REP,ME,Open,Lost-General,3659.0,151
+State Representative,John McGinty,REP,ME,Open,Lost-General,3615.92,25
+State Representative,Lawrence Bliss,DEM,ME,Open,Won-General,3597.0,24
+State Representative,Marilyn Canavan,DEM,ME,Open,Won-General,3597.0,99
+State Representative,Robert Daigle,REP,ME,Incumbent,Won-General,3570.0,13
+State Senator,Frank Akers,REP,ME,Challenger,Lost-General,3560.0,28
+State Representative,Patricia Wallace,DEM,ME,Challenger,Lost-General,3532.39,132
+State Representative,Kenneth Honey,REP,ME,Incumbent,Won-General,3500.0,58
+State Representative,David Tobin,REP,ME,Incumbent,Won-General,3496.08,39
+State Representative,Peter Rines,DEM,ME,Open,Won-General,3467.0,57
+State Representative,Rita Caron,REP,ME,Challenger,Lost-General,3382.23,26
+State Senator,Michael Vaughan,REP,ME,Challenger,Lost-General,3355.0,22
+State Representative,John Morrison,REP,ME,Open,Won-General,3321.11,135
+State Representative,Stephen Stanley,DEM,ME,Incumbent,Won-General,3304.78,139
+State Representative,Paul Hatch,DEM,ME,Open,Won-General,3255.0,98
+State Representative,Donald Lewis III,REP,ME,Open,Lost-General,3252.0,119
+State Representative,Judith Merck,DEM,ME,Open,Lost-General,3252.0,112
+State Representative,Matthew Sanfacon,DEM,ME,Challenger,Lost-General,3252.0,147
+State Representative,Rosanna Libby,IND,ME,Open,Lost-General,3252.0,114
+State Representative,Bruce Gerry,IND,ME,Open,Lost-General,3252.0,73
+State Representative,Deborah Hutton,DEM,ME,Open,Won-General,3252.0,53
+State Representative,John Michael,IND,ME,Challenger,Won-General,3252.0,74
+State Senator,Arthur Dolan,IND,ME,Open,Lost-General,3160.59,4
+State Representative,Mark Sousa,REP,ME,Open,Lost-General,3120.0,1
+State Representative,Charles Laverdiere,DEM,ME,Incumbent,Won-General,3007.0,77
+State Representative,Eleanor Murphy,REP,ME,Incumbent,Won-General,2899.0,5
+State Representative,Walter Gooley,REP,ME,Incumbent,Won-General,2885.0,78
+State Representative,Donald Shepley,DEM,ME,Challenger,Lost-General,2845.0,124
+State Representative,Patricia Blanchette,DEM,ME,Open,Won-General,2841.0,119
+State Representative,Robert Brandenstein,REP,ME,Challenger,Lost-General,2805.0,14
+State Representative,William Reid,LIB,ME,Open,Lost-General,2780.73,76
+State Representative,Lisa Tessier Marrache,DEM,ME,Open,Won-General,2780.0,100
+State Representative,Lois Snowe-Mello,REP,ME,Incumbent,Won-General,2763.38,71
+State Representative,Stephen Martin,REP,ME,Open,Lost-General,2692.27,141
+State Representative,Gary French,DEM,ME,Challenger,Lost-General,2663.53,108
+State Representative,Jonathan Thomas,DEM,ME,Open,Won-General,2582.01,123
+State Representative,Howard Chick,REP,ME,Incumbent,Won-General,2540.0,6
+State Representative,John Buck,REP,ME,Incumbent,Won-General,2525.0,44
+State Senator,Larry Poulin,REP,ME,Open,Lost-General,2443.3,21
+State Representative,Susan Kasprzak,REP,ME,Incumbent,Won-General,2376.74,125
+State Representative,Janice Labrecque,REP,ME,Incumbent,Won-General,2375.0,23
+State Representative,David Lemoine,DEM,ME,Incumbent,Won-General,2375.0,20
+State Representative,Joanne Woodard,IND,ME,Open,Lost-General,2369.83,98
+State Representative,Barry Abbott,DEM,ME,Challenger,Lost-General,2345.0,4
+State Representative,Barry Gillis,REP,ME,Incumbent,Lost-General,2270.5,136
+State Representative,Rosaire Paradis Jr.,DEM,ME,Open,Won-General,2225.0,150
+State Representative,Alton Morgan,DEM,ME,Challenger,Lost-General,2220.69,27
+State Representative,James Tobin Jr.,REP,ME,Incumbent,Won-General,2219.0,126
+State Representative,Randall Berry,DEM,ME,Incumbent,Won-General,2195.0,93
+State Representative,Mark Sanborn,DEM,ME,Challenger,Lost-General,2191.97,41
+State Representative,Randall Bumps,REP,ME,Incumbent,Won-General,2175.0,106
+State Representative,Kevin Muse,REP,ME,Open,Won-General,2150.0,45
+State Representative,David Etnier,DEM,ME,Incumbent,Won-General,2145.0,51
+State Representative,Gilman Pelletier,IND,ME,Open,Lost-General,2072.94,99
+State Representative,Roger Sherman,REP,ME,Incumbent,Won-General,2050.0,142
+State Representative,Irvin Belanger,REP,ME,Incumbent,Won-General,2025.0,147
+State Representative,Brian Bolduc,DEM,ME,Incumbent,Lost-General,2000.0,74
+State Representative,Claton Corriveau,DEM,ME,Challenger,Lost-General,1943.56,110
+State Representative,David Kirkpatrick,DEM,ME,Challenger,Lost-General,1900.0,138
+State Senator,Robert Coates,REP,ME,Challenger,Lost-General,1865.37,20
+State Representative,Marie Laverriere-Boucher,DEM,ME,Open,Won-General,1815.0,18
+State Senator,Richard Bennett,REP,ME,Incumbent,Won-General,1791.42,25
+State Representative,William Cote,DEM,ME,Incumbent,Won-General,1775.0,87
+State Representative,Maurice Drouin,REP,ME,Challenger,Lost-General,1767.17,87
+State Representative,Elaine Fuller,DEM,ME,Incumbent,Won-General,1739.09,80
+State Representative,Jean Dellert,REP,ME,Challenger,Lost-General,1659.25,91
+State Representative,Benjamin Barth,LIB,ME,Open,Lost-General,1656.56,57
+State Representative,Linda Strohecker,DEM,ME,Challenger,Lost-General,1656.0,6
+State Representative,Jennifer Lm Carleton,REP,ME,Open,Lost-General,1600.0,57
+State Representative,Nancy Chizmar,DEM,ME,Incumbent,Won-General,1598.0,84
+State Representative,Anita Peavey Haskell,REP,ME,Challenger,Won-General,1590.43,137
+State Representative,Richard Duncan,REP,ME,Incumbent,Won-General,1585.0,145
+State Representative,Patrick Beck,DEM,ME,Challenger,Lost-General,1550.0,85
+State Representative,James Schatz,DEM,ME,Challenger,Lost-General,1493.0,128
+State Representative,Robert Coolidge,LIB,ME,Challenger,Lost-General,1415.83,130
+State Representative,Steven Punsky,REP,ME,Challenger,Lost-General,1400.0,32
+State Representative,Matthew Dunlap,DEM,ME,Incumbent,Won-General,1375.0,121
+State Senator,Jill Goldthwait,IND,ME,Incumbent,Won-General,1355.23,5
+State Representative,Dennis McLellan,DEM,ME,Challenger,Lost-General,1350.0,103
+State Senator,Richard Davis Hart,LIB,ME,Challenger,Lost-General,1326.5,5
+State Representative,John Leighton Jr.,UNK,ME,Challenger,Lost-General,1270.0,21
+State Representative,Shirley Richard,DEM,ME,Incumbent,Won-General,1247.81,97
+State Representative,Jane Scease,GREEN INDEPENDENT,ME,Open,Lost-General,1234.31,52
+State Representative,Mark Cenci,LIB,ME,Open,Lost-General,1225.0,36
+State Representative,Joseph Hunt,REP,ME,Open,Lost-General,1189.0,120
+State Representative,Charles Casey,DEM,ME,Open,Lost-General,1160.0,135
+State Representative,Arlan Jodrey,REP,ME,Incumbent,Won-General,1150.0,65
+State Senator,Robert Toothaker,MODERATE INDEPENDENT,ME,Open,Lost-General,1125.02,23
+State Representative,Morrison Bonpasse,DEM,ME,Challenger,Lost-General,1112.23,58
+State Representative,William Smith,DEM,ME,Challenger,Won-General,1074.03,149
+State Representative,James Arsenault,IND,ME,Challenger,Lost-General,1070.0,67
+State Representative,David Brewer,REP,ME,Open,Lost-General,1035.0,37
+State Representative,David Shiah,DEM,ME,Incumbent,Withdrew-General,1000.0,53
+State Representative,Gary Wheeler,DEM,ME,Incumbent,Won-General,975.86,3
+State Representative,Paul Waterhouse,REP,ME,Incumbent,Won-General,905.0,46
+State Representative,Edgar Wheeler,REP,ME,Incumbent,Won-General,870.0,143
+State Representative,Annie Switser,DEM,ME,Challenger,Lost-General,863.25,64
+State Representative,Linda Bennett-Catlow,DEM,ME,Challenger,Lost-General,850.0,113
+State Representative,Shawn Levasseur,LIB,ME,Challenger,Lost-General,808.0,62
+State Representative,Martha Bagley,DEM,ME,Incumbent,Won-General,803.7,133
+State Representative,Joanne Twomey,DEM,ME,Incumbent,Won-General,776.77,19
+State Representative,Walter Ash Jr.,DEM,ME,Open,Won-General,713.05,105
+State Senator,Duane Belanger,REP,ME,Open,Lost-General,700.0,1
+State Representative,Jo Anne Frank,REP,ME,Challenger,Lost-General,624.96,86
+State Representative,Richard Linkletter,REP,ME,Challenger,Lost-General,607.11,97
+State Representative,Mabel Desmond,DEM,ME,Incumbent,Won-General,525.0,146
+State Representative,Scott Cowger,DEM,ME,Incumbent,Won-General,511.62,92
+State Representative,Benjamin Dudley,DEM,ME,Incumbent,Won-General,511.0,30
+State Representative,Charles Mitchell,DEM,ME,Incumbent,Won-General,511.0,94
+State Representative,Rosaire Sirois,DEM,ME,Incumbent,Lost-General,500.0,149
+State Representative,Lynda Wilson-Dinino,DEM,ME,Challenger,Lost-General,500.0,8
+State Representative,Marc Breton,IND,ME,Open,Lost-General,463.27,89
+State Representative,Barbara Robinson,REP,ME,Challenger,Lost-General,450.0,69
+State Representative,Tarren Bragdon,REP,ME,Incumbent,Withdrew-General,400.0,119
+State Representative,Ronald Snow,IND,ME,Challenger,Lost-General,399.15,68
+State Representative,Gregory Jr. Young,IND,ME,Challenger,Lost-General,345.0,93
+State Representative,Wayne Leach,LIB,ME,Challenger,Lost-General,287.0,102
+State Representative,Nathan Hagelin,NATURAL LAW,ME,Challenger,Lost-General,270.0,42
+State Representative,Thomas Wright,DEM,ME,Challenger,Lost-General,208.82,5
+State Representative,Peter Sipes,LIB,ME,Challenger,Lost-General,175.0,16
+State Representative,Albion Goodwin,DEM,ME,Incumbent,Won-General,175.0,134
+State Representative,Michael Quint,DEM,ME,Incumbent,Won-General,174.85,33
+State Representative,William Clarke,REP,ME,Challenger,Lost-General,121.4,75
+State Representative,Richard Eaton,LIB,ME,Challenger,Lost-General,60.0,28
+State Representative,Sturgis Whalen,REP,ME,Open,Lost-General,55.0,18
+State Representative,Benjamin Rines Jr.,DEM,ME,Incumbent,Withdrew-General,7.01,57
+State Representative,Michael Lewis,REP,ME,Challenger,Lost-General,0.0,10
+State Representative,Albert Duplessis,REP,ME,Challenger,Lost-General,0.0,121
+State Representative,Wade McLaughlin,DEM,ME,Open,Lost-General,0.0,148
+State Representative,Paul Cleary,DEM,ME,Challenger,Lost-General,0.0,142
+State Representative,Moses Sebunya,IND,ME,Open,Lost-General,0.0,35
+State Representative,Zachary Matthews,DEM,ME,Incumbent,Won-General,0.0,102
+State Representative,Richard Hc Tracy,DEM,ME,Open,Won-General,0.0,81
+State Representative,Peter Chase,REP,ME,Challenger,Won-General,0.0,122
+State Senator,Roger Baffer,DEM,ME,Challenger,Withdrew-General,0.0,19
+State Representative,Cynthia Blake,DEM,ME,Challenger,Withdrew-General,0.0,128
+State Representative,James Bowdoin,REP,ME,Challenger,Withdrew-General,0.0,102
+State Representative,Andrew Cavanaugh,REP,ME,Open,Withdrew-General,0.0,63
+State Representative,Anne Birgel Cunningham,DEM,ME,Challenger,Withdrew-General,0.0,42
+State Representative,Carol Farnsworth,DEM,ME,Challenger,Withdrew-General,0.0,46
+State Representative,Caroline Gardiner,DEM,ME,Challenger,Withdrew-General,0.0,38
+State Representative,Phoebe Gause,DEM,ME,Challenger,Withdrew-General,0.0,71
+State Representative,Jerome Graffam,REP,ME,Open,Withdrew-General,0.0,123
+State Representative,Rockie Graham,DEM,ME,Challenger,Withdrew-General,0.0,65
+State Representative,Joseph Jabar Sr.,DEM,ME,Incumbent,Withdrew-General,0.0,99
+State Representative,Sally Kakitis,DEM,ME,Challenger,Withdrew-General,0.0,23
+State Representative,Thomas Mackie,DEM,ME,Open,Withdrew-General,0.0,24
+State Representative,David McAlpine,DEM,ME,Open,Withdrew-General,0.0,135
+State Representative,Thomas Morelli,REP,ME,Challenger,Withdrew-General,0.0,115
+State Representative,Bruce Nye,REP,ME,Challenger,Withdrew-General,0.0,117
+State Representative,Adair Kathleen Oreilly,DEM,ME,Challenger,Withdrew-General,0.0,13
+State Representative,Wendy Pieh,DEM,ME,Incumbent,Withdrew-General,0.0,56
+State Representative,Pamela Pinault,DEM,ME,Open,Withdrew-General,0.0,45
+State Representative,Timothy Rich,REP,ME,Challenger,Withdrew-General,0.0,34
+State Representative,Roger Roy,DEM,ME,Challenger,Withdrew-General,0.0,147
+State Representative,Ted Alden Small,DEM,ME,Open,Withdrew-General,0.0,47
+State Representative,William Stone,DEM,ME,Challenger,Withdrew-General,0.0,132
+State Representative,Richard Tory,DEM,ME,Challenger,Withdrew-General,0.0,108
+State Representative,Gary Treworgy,REP,ME,Challenger,Withdrew-General,0.0,122
+State Representative,Lynn Urbach,DEM,ME,Challenger,Withdrew-General,0.0,44
+State Representative,Bruce Archer,DEM,ME,Challenger,Withdrew-General,0.0,145
+State Representative,Channa Eberhart,REP,ME,Challenger,Withdrew-General,0.0,51
+State Representative,Jeffrey Edwards,REP,ME,Challenger,Withdrew-General,0.0,94
+State Representative,Kimberly Lindlof,REP,ME,Open,Withdrew-General,0.0,100
+State Representative,Timothy McGonagle,REP,ME,Challenger,Withdrew-General,0.0,33

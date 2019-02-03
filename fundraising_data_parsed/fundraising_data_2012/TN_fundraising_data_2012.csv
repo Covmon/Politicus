@@ -1,0 +1,238 @@
+office,candidate,party,state,incumbency,result,total money,district
+U.S. Senator,Robert Corker Jr.,REP,TN,Incumbent,Won-General,12544163.9,nan
+U.S. Representative,Stephen Lee Fincher,REP,TN,Incumbent,Won-General,2236108.59,8
+U.S. Representative,Diane Lynn Black,REP,TN,Incumbent,Won-General,2054365.59,6
+U.S. Representative,Marsha Blackburn,REP,TN,Incumbent,Won-General,1756449.37,7
+U.S. Representative,George Flinn Jr.,REP,TN,Challenger,Lost-General,1592861.02,9
+U.S. Representative,Chuck Fleischmann,REP,TN,Incumbent,Won-General,1351454.96,3
+U.S. Representative,Scott Desjarlais,REP,TN,Incumbent,Won-General,1289077.69,4
+U.S. Representative,Jim Cooper,DEM,TN,Incumbent,Won-General,1191627.18,5
+U.S. Representative,Stephen Cohen,DEM,TN,Incumbent,Won-General,825861.85,9
+U.S. Representative,Eric Stewart,DEM,TN,Challenger,Lost-General,698051.23,4
+U.S. Representative,David Phillip Roe,REP,TN,Incumbent,Won-General,670430.0,1
+State Senator,Steven Reid Dickerson,REP,TN,Open,Won-General,647348.81,20
+U.S. Representative,John Duncan Jr.,REP,TN,Incumbent,Won-General,620516.65,2
+State Senator,Philip North,DEM,TN,Open,Lost-General,550083.78,20
+State Senator,Mark Green,REP,TN,Challenger,Won-General,539751.23,22
+State Senator,Douglas Overbey,REP,TN,Incumbent,Won-General,487616.93,2
+State Senator,Joseph Hensley,REP,TN,Open,Won-General,402516.45,28
+State Senator,Mark Norris,REP,TN,Incumbent,Won-General,393192.0,32
+State Senator,John Stevens,REP,TN,Open,Won-General,360448.85,24
+State Senator,Jim Tracy,REP,TN,Incumbent,Won-General,359912.05,14
+State Senator,Ken Yager,REP,TN,Incumbent,Won-General,355687.24,12
+State Senator,Todd Gardenhire,REP,TN,Open,Won-General,332774.92,10
+State Senator,Tim Barnes,DEM,TN,Incumbent,Lost-General,330682.36,22
+State Senator,Ferrell Haile,REP,TN,Open,Won-General,325655.53,18
+State Senator,Brad Thompson,DEM,TN,Open,Lost-General,322198.67,24
+State Senator,Dolores Gresham,REP,TN,Incumbent,Won-General,303809.64,26
+State Senator,James Kyle Jr.,DEM,TN,Incumbent,Won-General,282542.92,30
+State Representative,Charles Sargent Jr.,REP,TN,Incumbent,Won-General,280307.21,61
+State Senator,Ty Cobb,DEM,TN,Open,Lost-General,250829.4,28
+State Representative,Charles Williamson,REP,TN,Open,Lost-General,237779.73,50
+State Representative,Gerald McCormick,REP,TN,Incumbent,Won-General,218880.0,26
+State Representative,Beth Harwell,REP,TN,Incumbent,Won-General,199100.0,56
+State Senator,Janice Bowling,REP,TN,Open,Won-General,190111.99,16
+State Representative,Bo Mitchell,DEM,TN,Open,Won-General,179212.0,50
+State Senator,Ronald Ramsey,REP,TN,Incumbent,Won-General,178810.0,4
+State Representative,Darren Jernigan,DEM,TN,Challenger,Won-General,176671.25,60
+State Representative,Craig Fitzhugh,DEM,TN,Incumbent,Won-General,175959.0,82
+State Representative,Jeremy Durham,REP,TN,Open,Won-General,171733.62,65
+State Representative,Timothy Wirgau,REP,TN,Incumbent,Won-General,164804.9,75
+State Representative,Jim Gotto,REP,TN,Incumbent,Lost-General,162353.2,60
+State Senator,Becky Duncan Massey,REP,TN,Open,Won-General,159678.35,6
+State Representative,Matthew Hill,REP,TN,Incumbent,Won-General,155570.0,7
+State Representative,Glen Casada,REP,TN,Incumbent,Won-General,150159.96,63
+State Representative,Eric Watson,REP,TN,Incumbent,Won-General,149773.5,22
+State Representative,Andrew Farmer,REP,TN,Open,Won-General,146365.0,17
+State Representative,Jim Hackworth,DEM,TN,Challenger,Lost-General,141679.82,33
+State Representative,Vance Dennis,REP,TN,Incumbent,Won-General,140365.29,71
+State Senator,Frank Niceley,REP,TN,Open,Won-General,134580.0,8
+State Representative,Stephen McManus,REP,TN,Incumbent,Won-General,134313.75,96
+State Representative,Gary Odom,DEM,TN,Incumbent,Won-General,134030.02,55
+State Representative,John Ragan,REP,TN,Incumbent,Won-General,132878.91,33
+State Representative,Ryan Haynes,REP,TN,Incumbent,Won-General,127976.36,14
+State Representative,Mark Maddox,DEM,TN,Challenger,Lost-General,127445.85,76
+State Representative,David Hawk,REP,TN,Incumbent,Won-General,126349.8,5
+State Representative,Barry Doss,REP,TN,Open,Won-General,125959.0,70
+State Representative,Jason Powell,DEM,TN,Open,Won-General,120529.7,53
+State Representative,Tony Shipley,REP,TN,Incumbent,Won-General,119987.51,2
+State Representative,Courtney Rogers,REP,TN,Open,Won-General,117648.48,45
+State Representative,Andrew Holt,REP,TN,Incumbent,Won-General,115810.99,76
+State Representative,Dawn White,REP,TN,Open,Won-General,115509.98,37
+State Representative,Ryan Williams,REP,TN,Incumbent,Won-General,113639.1,42
+State Representative,Joshua Evans,REP,TN,Incumbent,Won-General,113610.0,66
+State Representative,Jon Lundberg,REP,TN,Incumbent,Won-General,110140.0,1
+State Representative,Charles Curtiss,DEM,TN,Incumbent,Won-General,107737.81,43
+State Representative,William Lamberth,REP,TN,Open,Won-General,107714.37,44
+State Representative,Cameron Sexton,REP,TN,Incumbent,Won-General,102158.8,25
+State Representative,Sheila Butt,REP,TN,Incumbent,Won-General,101946.07,64
+State Representative,Kevin Brooks,REP,TN,Incumbent,Won-General,100376.05,24
+State Representative,David Shepard,DEM,TN,Incumbent,Won-General,98289.44,69
+State Representative,Bill Sanderson,REP,TN,Incumbent,Won-General,97250.0,77
+State Representative,Judd Matheny,REP,TN,Incumbent,Won-General,97175.0,47
+State Representative,Jimmy Eldridge,REP,TN,Incumbent,Won-General,96880.0,73
+State Representative,Kent Williams,IND,TN,Incumbent,Won-General,96175.0,4
+State Representative,Bob Ramsey,REP,TN,Incumbent,Won-General,95970.0,20
+State Representative,Jeremy Faison,REP,TN,Incumbent,Won-General,95724.0,11
+State Representative,Steve McDaniel,REP,TN,Incumbent,Won-General,95450.0,72
+State Representative,Kent Calfee,REP,TN,Open,Won-General,94992.78,32
+State Representative,Bruce Dale Carr,REP,TN,Open,Won-General,92620.52,12
+State Representative,Arthur Swann,REP,TN,Incumbent,Won-General,92021.0,8
+State Representative,Mike Harrison,REP,TN,Incumbent,Won-General,91725.0,9
+State Representative,Ben Claybaker,REP,TN,Open,Lost-General,90853.7,53
+State Representative,Mary Littleton,REP,TN,Open,Won-General,90145.07,78
+State Representative,Billy Spivey,REP,TN,Open,Won-General,89365.0,92
+State Representative,Michael Turner,DEM,TN,Incumbent,Won-General,88234.12,51
+State Representative,Terri Lynn Weaver,REP,TN,Incumbent,Won-General,85047.9,40
+State Representative,Kelly Keisling,REP,TN,Incumbent,Won-General,84506.77,38
+State Senator,Meryl Rice,DEM,TN,Challenger,Lost-General,84330.79,26
+U.S. Representative,Mary Headrick,DEM,TN,Challenger,Lost-General,84122.14,3
+State Representative,Sherry Jones,DEM,TN,Incumbent,Won-General,83929.7,59
+State Representative,Gary Loe,REP,TN,Open,Lost-General,81423.11,13
+State Representative,Timothy Hill,REP,TN,Open,Won-General,80043.93,3
+State Representative,Gloria Johnson,DEM,TN,Open,Won-General,78383.89,13
+State Representative,John Mark Windle,DEM,TN,Incumbent,Won-General,75565.0,41
+State Representative,Rick Womick,REP,TN,Incumbent,Won-General,73501.74,34
+State Representative,Debra Moody,REP,TN,Open,Won-General,73422.67,81
+State Representative,Ron Travis,REP,TN,Open,Won-General,73338.0,31
+State Representative,David Alexander,REP,TN,Incumbent,Won-General,72780.0,39
+State Representative,Mark White,REP,TN,Incumbent,Won-General,72447.42,83
+State Representative,Joseph Armstrong,DEM,TN,Incumbent,Won-General,72025.0,15
+State Representative,Ron Lollar,REP,TN,Incumbent,Won-General,67215.0,99
+State Representative,Steve Wright,DEM,TN,Challenger,Lost-General,67038.92,75
+State Representative,Susan Lynn,REP,TN,Open,Won-General,66564.85,57
+State Representative,Robert Duvall,REP,TN,Challenger,Lost-General,64689.93,59
+State Representative,Barrett Rich,REP,TN,Incumbent,Won-General,63064.47,94
+State Representative,Steve Hall,REP,TN,Incumbent,Won-General,61635.0,18
+State Senator,Jim Lewis,DEM,TN,Open,Lost-General,60792.48,16
+State Representative,Calvin Moore,DEM,TN,Open,Lost-General,60494.0,70
+State Representative,Curtis Johnson,REP,TN,Incumbent,Won-General,59745.0,68
+State Representative,Curry Todd,REP,TN,Incumbent,Won-General,59600.0,95
+State Representative,Dennis Powers,REP,TN,Incumbent,Won-General,57949.0,36
+State Representative,Vince Dean,REP,TN,Incumbent,Won-General,56570.96,30
+State Representative,John Forgety,REP,TN,Incumbent,Won-General,54189.29,23
+State Representative,Pat Marsh,REP,TN,Incumbent,Won-General,52650.0,62
+State Representative,Joe Pitts,DEM,TN,Incumbent,Won-General,52325.0,67
+State Representative,Linda Hayes,DEM,TN,Open,Lost-General,51986.37,78
+State Representative,Eddie Yokley,DEM,TN,Challenger,Lost-General,49693.52,5
+State Representative,Sarah Marie Smith,DEM,TN,Challenger,Lost-General,49355.29,40
+State Representative,Larry Miller,DEM,TN,Incumbent,Won-General,49285.0,88
+State Representative,Curtis Halford,REP,TN,Incumbent,Won-General,49035.0,79
+State Senator,Andrae McGary,DEM,TN,Open,Lost-General,47014.96,10
+State Representative,Michael Sparks,REP,TN,Incumbent,Won-General,46930.14,49
+State Representative,Joe Carr,REP,TN,Incumbent,Won-General,46600.0,48
+State Representative,Micah Van Huss,REP,TN,Open,Won-General,46420.0,6
+State Representative,James Coley,REP,TN,Incumbent,Won-General,44617.75,97
+State Representative,Mark Pody,REP,TN,Incumbent,Won-General,44403.0,46
+State Representative,Michael Stewart,DEM,TN,Incumbent,Won-General,44266.34,52
+State Representative,John Tidwell,DEM,TN,Incumbent,Won-General,44262.85,74
+State Representative,Joanne Favors,DEM,TN,Incumbent,Won-General,43815.0,28
+State Representative,Steven Glaser,DEM,TN,Open,Lost-General,41220.98,44
+State Representative,Bobby Stewart,REP,TN,Challenger,Lost-General,40507.8,41
+State Representative,Brenda Gilmore,DEM,TN,Incumbent,Won-General,40252.3,54
+State Representative,Bill Dunn,REP,TN,Incumbent,Won-General,37870.0,16
+State Representative,James Lloyd Matlock,REP,TN,Incumbent,Won-General,36608.0,21
+State Representative,Harry Brooks,REP,TN,Incumbent,Won-General,33792.0,19
+State Representative,Thomas Gray III,REP,TN,Challenger,Lost-General,33193.22,4
+State Representative,Roger Kane,REP,TN,Open,Won-General,32212.0,89
+U.S. Senator,Shaun Crowell,IND,TN,Challenger,Lost-General,32081.02,nan
+State Representative,Karen Camper,DEM,TN,Incumbent,Won-General,31406.45,87
+State Representative,Conneye Albright,DEM,TN,Open,Lost-General,31390.0,81
+State Representative,Lois Deberry,DEM,TN,Incumbent,Won-General,31175.0,91
+U.S. Representative,Timothy Dixon,DEM,TN,Challenger,Lost-General,30722.0,8
+State Representative,Dennis Roach,REP,TN,Incumbent,Won-General,29175.0,35
+State Representative,Lauri Day,REP,TN,Challenger,Lost-General,28849.56,74
+State Representative,Johnnie Turner,DEM,TN,Incumbent,Won-General,26319.0,85
+State Representative,Johnny Shaw,DEM,TN,Incumbent,Won-General,26292.7,80
+State Representative,Antonio Shay) Parkinson,DEM,TN,Incumbent,Won-General,25383.0,98
+State Representative,Doug Clark,DEM,TN,Challenger,Lost-General,24423.18,39
+State Representative,Tilman Goins,REP,TN,Open,Won-General,24273.76,10
+U.S. Representative,Alan Woodruff,DEM,TN,Challenger,Lost-General,24171.0,1
+State Representative,Mark Oakes,DEM,TN,Challenger,Lost-General,24044.6,77
+State Representative,John Deberry Jr.,DEM,TN,Incumbent,Won-General,23755.0,90
+State Representative,Robert Dunham,REP,TN,Challenger,Lost-General,23619.11,43
+State Representative,Joe Towns Jr.,DEM,TN,Incumbent,Won-General,23125.0,84
+State Representative,Scott Price,DEM,TN,Challenger,Lost-General,22185.13,47
+State Senator,Maria Brewer,DEM,TN,Open,Lost-General,21990.0,18
+State Representative,Richard Floyd,REP,TN,Incumbent,Won-General,21650.0,27
+State Representative,George Thomas Hill,IND,TN,Open,Lost-General,21318.0,81
+State Representative,Barbara Cooper,DEM,TN,Incumbent,Won-General,20985.0,86
+State Representative,Harold Love,DEM,TN,Open,Won-General,20820.0,58
+State Representative,A Hardaway Sr.,DEM,TN,Incumbent,Won-General,19600.0,93
+State Representative,Anthony Hancock,DEM,TN,Challenger,Lost-General,19440.09,18
+State Representative,Nancy Fischman,DEM,TN,Challenger,Lost-General,19022.93,7
+U.S. Representative,Jack Arnold,IND,TN,Challenger,Lost-General,18047.11,7
+U.S. Representative,Troy Christopher Goodale,DEM,TN,Challenger,Lost-General,17356.58,2
+U.S. Representative,Brad Staats,REP,TN,Challenger,Lost-General,17218.49,5
+State Representative,Corey Currie,DEM,TN,Challenger,Lost-General,16618.6,73
+State Representative,Vicki Cain,DEM,TN,Open,Lost-General,16470.0,92
+State Representative,Marjorie Ramsey,DEM,TN,Challenger,Lost-General,15000.88,11
+State Representative,Bruce Dotson,DEM,TN,Challenger,Lost-General,14259.4,2
+State Representative,Brian Brewer,DEM,TN,Challenger,Lost-General,13478.0,64
+State Representative,James Hart,IND,TN,Challenger,Lost-General,12521.45,75
+State Representative,Mike Carter,REP,TN,Open,Won-General,12125.0,29
+State Senator,Evelyn Gill,DEM,TN,Open,Lost-General,10612.61,6
+State Representative,Frank Eaton,DEM,TN,Challenger,Lost-General,10290.71,27
+State Representative,Wayne White,REP,TN,Challenger,Lost-General,9570.0,69
+State Representative,Johnny Horne,REP,TN,Challenger,Lost-General,9200.0,28
+State Representative,Flo Matheson,DEM,TN,Challenger,Lost-General,9151.0,25
+State Representative,Rick Wilson,IND,TN,Open,Lost-General,8241.04,78
+State Representative,Luke Dickerson,DEM,TN,Challenger,Lost-General,8139.16,34
+State Representative,Jerome Miller,DEM,TN,Challenger,Lost-General,7031.88,14
+State Representative,Jack McNew,DEM,TN,Open,Lost-General,6328.24,32
+State Representative,Lawrence Miller,DEM,TN,Challenger,Withdrew-General,6075.0,26
+State Representative,Andrew Bennett III,DEM,TN,Challenger,Lost-General,5069.79,21
+State Representative,Robert New,DEM,TN,Open,Lost-General,4991.11,37
+State Representative,Peggy Hall Wall,DEM,TN,Challenger,Lost-General,4694.5,23
+State Representative,Mike Dockery,DEM,TN,Open,Lost-General,4614.0,17
+State Representative,Mike Williams,DEM,TN,Challenger,Lost-General,4367.3,49
+U.S. Representative,James Hart,IND,TN,Challenger,Lost-General,4154.0,8
+State Representative,Johnny Edwards,REP,TN,Challenger,Lost-General,3975.0,82
+State Representative,David Harper,DEM,TN,Challenger,Lost-General,3840.0,38
+State Representative,Daniel Towers Lewis,IND,TN,Challenger,Lost-General,3475.0,52
+State Representative,Sandy Norris Smith,DEM,TN,Challenger,Lost-General,2687.95,30
+State Representative,Calvin Cassady,GRN,TN,Challenger,Lost-General,2638.02,15
+State Representative,Jonathan Gladden,DEM,TN,Challenger,Lost-General,900.0,22
+State Representative,Harry Barber,REP,TN,Challenger,Lost-General,768.19,88
+U.S. Representative,John Miglietta,GRN,TN,Challenger,Lost-General,501.95,5
+State Representative,Mich Cazana,IND,TN,Open,Lost-General,402.3,13
+State Representative,Kenneth Buser,IND,TN,Challenger,Lost-General,0.0,69
+State Representative,Michael Edward Clark,DEM,TN,Open,Lost-General,0.0,6
+State Representative,Allen Cole,IND,TN,Open,Lost-General,0.0,32
+State Representative,John Crandall,IND,TN,Challenger,Lost-General,0.0,71
+State Representative,George Edwards III,REP,TN,Challenger,Lost-General,0.0,86
+State Representative,Jeanette Jackson,DEM,TN,Open,Lost-General,0.0,45
+State Representative,John Johnson,IND,TN,Open,Lost-General,0.0,70
+State Representative,Virgil Kidwell,IND,TN,Challenger,Lost-General,0.0,36
+State Representative,Leah Kirk,DEM,TN,Open,Lost-General,0.0,3
+State Representative,Thomas Willoughby,DEM,TN,Challenger,Lost-General,0.0,42
+State Representative,Rodger Cooksey,IND,TN,Challenger,Lost-General,0.0,26
+State Senator,Colonel Gene Billingsley,REP,TN,Challenger,Withdrew-General,0.0,30
+State Representative,Suzanne Parker,GRN,TN,Open,Lost-General,0.0,3
+State Representative,Bryan Moneyhun,GRN,TN,Challenger,Lost-General,0.0,16
+State Representative,Susan Shann,GRN,TN,Challenger,Lost-General,0.0,55
+Criminal Appellate Court District Middle-Bivins Seat,Jeff Bivins,IND,TN,Incumbent,Won-Retention,0.0,nan
+Criminal Appellate Court District Middle-Page Seat,Roger Page,IND,TN,Incumbent,Won-Retention,0.0,nan
+U.S. Representative,Mark Rawles,IND,TN,Challenger,Lost-General,0.0,8
+U.S. Representative,Credo Comlan Amouzouvik,DEM,TN,Challenger,Lost-General,0.0,7
+U.S. Representative,Howard Switzer,GRN,TN,Challenger,Lost-General,0.0,7
+U.S. Representative,Greg Samples,IND,TN,Challenger,Lost-General,0.0,2
+U.S. Representative,Karen Sherry Brackett,IND,TN,Challenger,Lost-General,0.0,1
+U.S. Representative,Michael Salyer,IND,TN,Challenger,Lost-General,0.0,1
+U.S. Representative,Brandon Stewart,IND,TN,Challenger,Lost-General,0.0,2
+U.S. Representative,Norris Dryer,GRN,TN,Challenger,Lost-General,0.0,2
+U.S. Representative,Matthew Deniston,IND,TN,Challenger,Lost-General,0.0,3
+U.S. Representative,Scott Beasley,IND,TN,Challenger,Lost-General,0.0,6
+U.S. Representative,Pat Riley,GRN,TN,Challenger,Lost-General,0.0,6
+U.S. Representative,Wm Ryan Akin,IND,TN,Challenger,Lost-General,0.0,7
+U.S. Representative,Leonard Ladner,IND,TN,Challenger,Lost-General,0.0,7
+U.S. Representative,Brian Saulsberry,IND,TN,Challenger,Lost-General,0.0,9
+U.S. Representative,Gregory Joiner,IND,TN,Challenger,Lost-General,0.0,9
+U.S. Representative,Robert Smith,GRN,TN,Challenger,Lost-General,0.0,1
+U.S. Senator,James Higdon,IND,TN,Challenger,Lost-General,0.0,nan
+U.S. Senator,Michel Joseph Long,IND,TN,Challenger,Lost-General,0.0,nan
+U.S. Senator,Troy Stephen Scoggin,IND,TN,Challenger,Lost-General,0.0,nan
+U.S. Senator,Martin Pleasant,GRN,TN,Challenger,Lost-General,0.0,nan
+U.S. Senator,Kermit Steck,CON,TN,Challenger,Lost-General,0.0,nan
+U.S. Senator,David Gatchell,IND,TN,Challenger,Lost-General,0.0,nan
+U.S. Senator,Mark Clayton,DEM,TN,Challenger,Lost-General,0.0,nan

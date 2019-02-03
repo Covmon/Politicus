@@ -11,6 +11,7 @@ import os
 from collections import OrderedDict, Counter
 import operator
 from itertools import groupby
+import sys
 
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split, cross_val_score, KFold
@@ -19,6 +20,7 @@ from sklearn.svm import LinearSVR
 from sklearn.decomposition import PCA
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 
+sys.path.insert(0, '/Users/sammahle/Desktop/election_projects/open_election_investigation/finding_elections')
 from finding_years_of_elections import election_finder
 
 desired_positions_dict = {'u.s. representative': 'us_rep','state senator': 'state_sen','state representative': 'state_rep'}
@@ -59,10 +61,10 @@ def RepresentssInt(s):
 	    except ValueError:
 	        return s			
 
-def news_briefer(position_name,state,year=2018):
+def news_briefer(position_name,state,year):
 	desired_positions_dict = {'U.S. Representative': 'us_rep','State Senator': 'state_sen','State Representative': 'state_rep'}
 
-	df_state_elec_data = pd.read_csv('statewide_election_general_data.csv')
+	df_state_elec_data = pd.read_csv('../open_election_investigation/statewide_election_general_data.csv')
 	df_state_elec_data = df_state_elec_data.loc[df_state_elec_data['Unnamed: 0']==state_abrv_to_name[state.upper()],:]
 	us_rep_seats = df_state_elec_data['Number of U.S. Representatives']
 	state_rep_seats = df_state_elec_data['Size of Lower Chamber']
@@ -81,8 +83,11 @@ def news_briefer(position_name,state,year=2018):
 		term_length = int(state_sen_term_length)
 	last_election = int(year-int(term_length))
 
-	df_election_data_features = pd.read_csv('/Users/sammahle/Downloads/Politicus-master/fundraising_data1/fundraising_data_{}/{}_fundraising_data_{}.csv'.format(year,state.upper(),year))
-	df_election_data_features = df_election_data_features.loc[df_election_data_features.result.str.contains('Pending')]
+	#df_election_data_features = pd.read_csv('/Users/sammahle/Downloads/Politicus-master/fundraising_data1/fundraising_data_{}/{}_fundraising_data_{}.csv'.format(year,state.upper(),year))
+	#df_election_data_features = df_election_data_features.loc[df_election_data_features.result.str.contains('Pending')]
+
+	df_election_data_features = pd.read_csv('/Users/sammahle/Desktop/election_projects/Politicus/pending_elections/{}_pending_elections.csv'.format(state.upper()))
+
 	df_election_data_features = df_election_data_features.loc[df_election_data_features.office==position_name]
 	df_election_data_features.insert(loc=0,column='year',value=year)
 	df_election_data_features = df_election_data_features[['state','year','office','district','candidate','party', 'incumbency','total money']]
@@ -98,8 +103,7 @@ def news_briefer(position_name,state,year=2018):
 	df_election_data_features.district = df_election_data_features.district.str.replace('.0','',regex=False)
 	df_election_data_features_pos = df_election_data_features.loc[df_election_data_features.office==position_name]
 	
-
-	df_election_data_features_old = pd.read_csv('/Users/sammahle/Downloads/Politicus-master/fundraising_data1/fundraising_data_{}/{}_fundraising_data_{}.csv'.format(str(int(year-term_length)),state.upper(),str(int(year-term_length))))
+	df_election_data_features_old = pd.read_csv('/Users/sammahle/Desktop/election_projects/Politicus/fundraising_data_parsed/fundraising_data_{}/{}_fundraising_data_{}.csv'.format(str(int(year-term_length)),state.upper(),str(int(year-term_length))))
 	df_election_data_features_old = df_election_data_features_old.loc[df_election_data_features_old.result.str.contains('General')]
 	df_election_data_features_old = df_election_data_features_old.loc[df_election_data_features_old.office==position_name]
 	df_election_data_features_old.insert(loc=0,column='year',value=str(int(year-term_length)))
@@ -122,7 +126,8 @@ def news_briefer(position_name,state,year=2018):
 	df_current_legislators_before_last_pos.District = df_current_legislators_before_last_pos.District.str.replace('.0','',regex=False)
 
 	#first load election predictions
-	df_election_predictions = pd.read_csv('/Users/sammahle/Desktop/election_projects/open_election_investigation/{}_Candidates_Election_Predictions.csv'.format(state))
+	df_election_predictions = pd.read_csv('/Users/sammahle/Desktop/election_projects/Politicus/election_predictons_and_results_csv/{}/{}_Election_Races_Predictions/{}_Races_Election_Predictions.csv'.format(year,year,state.upper()))
+	print df_election_predictions
 	df_election_predictions = df_election_predictions.loc[df_election_predictions.Position==position_name]
 	df_election_predictions['Predicted Win Probability'] = df_election_predictions['Predicted Win Probability'].str.replace('>', '')
 	df_election_predictions['Predicted Win Probability'] = df_election_predictions['Predicted Win Probability'].str.replace('<', '')	
@@ -210,6 +215,8 @@ def news_briefer(position_name,state,year=2018):
 
 	full_statement = ''
 
+	raise ValueError('l')
+
 	def special_elections_statement_function():
 
 		special_seats_not_flipped = {}
@@ -286,12 +293,6 @@ def news_briefer(position_name,state,year=2018):
 		return special_elections_statement
 
 	special_elections_statement = special_elections_statement_function()	
-
-
-
-
-
-
 
 	if num_net_seats_party_winner_last_election == 0:
 		num_net_seats_party_winner_last_election = 'neither party picked up seats as the {} held their '.format(controlling_party)
@@ -376,22 +377,20 @@ def news_briefer(position_name,state,year=2018):
 	full_statement = full_statement.replace('Republicans Party', 'Republican Party')
 	full_statement = full_statement.replace('Democrats Party', 'Democratic Party')
 
-
-
-
 	if position_name == 'State Senator':
 		position_filler = 'State_Senator'
 	elif position_name == 'State Representative':
 		position_filler = 'State_Representative'
 
-	with open('/Users/sammahle/Desktop/election_projects/Politicus/news_articles/{}_{}.txt'.format(state, position_filler),'w') as f:
+	if not os.path.exists('/Users/sammahle/Desktop/election_projects/Politicus/news_articles/{}/{}'.format(year, state, state, position_filler)):
+	    os.makedirs('/Users/sammahle/Desktop/election_projects/Politicus/news_articles/{}/{}'.format(year, state, state, position_filler))
+
+	with open('/Users/sammahle/Desktop/election_projects/Politicus/news_articles/{}/{}/{}_{}.txt'.format(year, state, state, position_filler),'w') as f:
 		f.write(full_statement)
 
 
-for state in ['GA']:
-	news_briefer('State Senator',state)
-	news_briefer('State Representative',state)
 
+news_briefer('State Representative','GA',2019)
 
 
 """#Going into the 2018 Election, the REP Party holds a 118-62 lead in the Georgia House of Representatives. During the 2016 Election Cycle, the DEM picked up 1 overall seats to cut into their majority. In this election the following seats were flipped: 101, 138, 145.

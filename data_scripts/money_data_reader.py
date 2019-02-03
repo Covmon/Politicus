@@ -17,14 +17,11 @@ states = ["AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DC", "DE", "FL", "GA",
 #year = raw_input("Input Year - ")
 #c-t-pt,c-t-eid,c-r-id,c-t-sts,c-t-ico
 def writeCSV(file, s, y):
-    print '-'
     url = "https://api.followthemoney.org/?dt=1&s=" + s + "&gro=c-t-id&y=" + y + "&APIKey=03c9486f133f22f6eb5638f0b2265782&mode=json"
     data = getJSONFromURL(url)
 
     statusName = "Election_Status"
     candidateName = "Candidate"
-
-    print 'a'
 
     if y == "2018":
         statusName = "Status_of_Candidate"
@@ -36,8 +33,6 @@ def writeCSV(file, s, y):
     writer = csv.writer(file)
     writer.writerow(["Candidate", "Party", "State", "Office", "Incumbency", "Result", "Total Money"])
 
-    print 'b'
-
     for page in range(0,pages):
         pageURL = url + "&p=" + str(page)
         pageData = getJSONFromURL(pageURL)
@@ -45,8 +40,6 @@ def writeCSV(file, s, y):
         records = pageData["records"]
         length = len(records)
         print("Length of records: " + str(length) + " on page: " + str(page))
-
-        print 'c'
 
         for record in records:
             number = record["record_id"]
@@ -76,7 +69,7 @@ def writeCSV(file, s, y):
 def money_data_reader(year):
     for state in states:
         fileName = "../Politicus/fundraising_data/fundraising_data_" + str(year) + "/" + state + "_fundraising_data_" + str(year) + ".csv"
-        with open('fun', 'w') as csvf:
+        with open(fileName, 'w') as csvf:
             writeCSV(csvf, state, str(year))
 
 print("FINISHED")

@@ -1,0 +1,307 @@
+office,candidate,party,state,incumbency,result,total money,district
+Governor,John Ellis Bush,REP,FL,Incumbent,Won-General,10266823.83,nan
+Governor,William McBride,DEM,FL,Challenger,Lost-General,8573319.42,nan
+Attorney General,Charles Joseph Crist Jr.,REP,FL,Open,Won-General,2466860.63,nan
+Agriculture Commissioner,Charles Bronson,REP,FL,Open,Won-General,2133955.54,nan
+Attorney General,Buddy Dyer,DEM,FL,Open,Lost-General,2025142.81,nan
+Chief Financial Officer,Tom Gallagher,REP,FL,Open,Won-General,1902893.6,nan
+State Senator,Jeffrey Atwater,REP,FL,Open,Won-General,890812.83,25
+State Senator,Michael Bennett,REP,FL,Open,Won-General,630131.41,21
+State Senator,James King Jr.,REP,FL,Open,Won-General,547135.9,8
+State Senator,Bob Butterworth,DEM,FL,Open,Lost-General,525360.06,25
+State Senator,Mike Fasano,REP,FL,Open,Won-General,494762.42,11
+State Senator,Richard Mitchell,DEM,FL,Open,Lost-General,482194.38,3
+State Senator,Dave Aronberg,DEM,FL,Open,Won-General,477820.26,27
+State Senator,Dennis Jones,REP,FL,Open,Won-General,456668.51,13
+State Representative,Johnnie Byrd Jr.,REP,FL,Incumbent,Won-General,411939.42,62
+State Senator,Charlie Clary,REP,FL,Open,Won-General,362247.85,4
+State Senator,Evelyn Joan Lynn,REP,FL,Open,Won-General,361059.6,7
+State Senator,Alex Diaz De La Portilla,REP,FL,Open,Won-General,339839.6,36
+State Representative,Edward Homan Jr.,REP,FL,Challenger,Won-General,336188.48,60
+State Representative,Carl Domino,REP,FL,Open,Won-General,328977.29,83
+State Senator,Nancy Argenziano,REP,FL,Open,Won-General,327634.88,3
+State Representative,Frank Farkas,REP,FL,Incumbent,Won-General,321284.03,52
+State Senator,Debbie Wasserman Schultz,DEM,FL,Incumbent,Won-General,314371.58,34
+State Senator,Ron Klein,DEM,FL,Open,Won-General,313830.0,30
+State Representative,Adam Hasner,REP,FL,Open,Won-General,309205.62,87
+State Representative,David Rivera,REP,FL,Open,Won-General,304863.69,112
+State Senator,Frank Mann Jr.,REP,FL,Open,Lost-General,303238.63,27
+State Representative,Bill Galvano,REP,FL,Open,Won-General,299275.92,68
+State Representative,Connie Mack IV,REP,FL,Incumbent,Won-General,290920.4,91
+State Representative,Perry McGriff Jr.,DEM,FL,Incumbent,Lost-General,285192.47,22
+State Senator,Gwen Margolis,DEM,FL,Open,Won-General,282069.0,35
+State Senator,James Ward,DEM,FL,Open,Lost-General,278482.77,7
+State Representative,Jeffrey Kottkamp,REP,FL,Incumbent,Won-General,272912.95,74
+State Representative,Nan Rich,DEM,FL,Incumbent,Won-General,269908.88,97
+State Senator,Jim Sebesta,REP,FL,Open,Won-General,263517.32,16
+State Representative,Leslie Waters,REP,FL,Incumbent,Won-General,262539.76,51
+State Representative,Donna Clarke,REP,FL,Incumbent,Won-General,253988.12,69
+State Representative,Bev Kilmer,REP,FL,Incumbent,Won-General,250744.33,7
+State Representative,Bruce Kyle,REP,FL,Incumbent,Won-General,249801.14,73
+State Representative,Gustavo Barreiro,REP,FL,Incumbent,Won-General,242545.5,107
+State Senator,Anthony Hill Sr.,DEM,FL,Open,Won-General,238394.64,1
+State Representative,Sara Romeo,DEM,FL,Incumbent,Lost-General,235018.42,60
+State Representative,Sandra Murman,REP,FL,Incumbent,Won-General,233537.27,56
+State Senator,Anthony Tony Suarez,REP,FL,Open,Lost-General,228021.41,19
+State Senator,Lisa Carlton,REP,FL,Open,Won-General,227090.23,23
+State Representative,Mike Haridopolos,REP,FL,Incumbent,Won-General,223597.12,30
+State Senator,Bill Posey,REP,FL,Open,Won-General,219735.0,24
+State Representative,Pat Patterson,REP,FL,Open,Won-General,218907.05,26
+State Representative,Marcelo Llorente,REP,FL,Open,Won-General,216502.99,116
+State Representative,Julio Robaina,REP,FL,Open,Won-General,214673.23,117
+State Representative,Kevin Ambler,REP,FL,Open,Won-General,207105.61,47
+State Representative,Ralph Poppell,REP,FL,Open,Won-General,203730.59,29
+State Representative,Scott Farrell,DEM,FL,Open,Lost-General,203707.19,57
+State Representative,Larry Cretul,REP,FL,Challenger,Won-General,201713.4,22
+State Representative,Juan-Carlos C) Planas,REP,FL,Open,Won-General,192930.15,115
+State Senator,Gary Siplin,DEM,FL,Open,Won-General,191342.48,19
+State Representative,David Russell,REP,FL,Incumbent,Won-General,188780.19,44
+State Representative,Stan Jordan,REP,FL,Incumbent,Won-General,184458.69,17
+State Representative,James Andrew Edwards,REP,FL,Open,Lost-General,178443.88,85
+State Representative,Mike Davis,REP,FL,Open,Won-General,175817.72,101
+State Representative,Suzanne Kosmas,DEM,FL,Incumbent,Won-General,175735.75,28
+State Representative,Charles Dean Sr.,REP,FL,Open,Won-General,175558.29,43
+State Representative,Faye Culp,REP,FL,Open,Won-General,174807.74,57
+State Senator,Jd Alexander,REP,FL,Open,Won-General,173045.14,17
+State Representative,Ken Sorensen,REP,FL,Incumbent,Won-General,172840.98,120
+State Representative,Carl Persis,DEM,FL,Open,Lost-General,171790.21,26
+State Senator,Lee Cannon,DEM,FL,Open,Lost-General,170587.26,11
+State Representative,Juan Zapata,REP,FL,Open,Won-General,165199.0,119
+State Representative,Jose Fernandez,DEM,FL,Open,Lost-General,157660.19,49
+State Representative,Jim Kallinger,REP,FL,Incumbent,Won-General,154743.68,35
+State Representative,Doug Wiles,DEM,FL,Incumbent,Won-General,154179.1,20
+State Representative,Randy Johnson,REP,FL,Incumbent,Won-General,152245.67,41
+State Representative,Ron Reagan,REP,FL,Open,Won-General,150801.34,67
+State Representative,Kim Berfield,REP,FL,Incumbent,Won-General,149952.43,50
+State Representative,Robert Henriquez,DEM,FL,Incumbent,Won-General,148441.9,58
+State Representative,Joe Pickens,REP,FL,Incumbent,Won-General,148318.95,21
+State Representative,Heather Fiorentino,REP,FL,Incumbent,Won-General,144355.67,46
+State Representative,Mitch Needelman,REP,FL,Incumbent,Won-General,144051.19,31
+State Senator,Howard Futch,REP,FL,Open,Won-General,139496.82,26
+State Representative,Frederick Brummer,REP,FL,Incumbent,Won-General,137440.68,38
+State Representative,Loranne Ausley,DEM,FL,Incumbent,Won-General,135428.26,9
+State Representative,Alexander Sandy Halperin,REP,FL,Challenger,Lost-General,132963.03,97
+State Representative,Ronald Greenstein,DEM,FL,Incumbent,Won-General,132364.58,95
+State Senator,Frederica Wilson,DEM,FL,Open,Won-General,132357.0,33
+State Representative,Greg Evers,REP,FL,Open,Won-General,131577.98,1
+State Representative,Rafael Ralph Arza,REP,FL,Incumbent,Won-General,131180.0,102
+State Senator,Ken Pruitt,REP,FL,Open,Won-General,127940.4,28
+State Representative,Bob Allen,REP,FL,Incumbent,Won-General,125587.83,32
+State Representative,Alicya Simmons,REP,FL,Incumbent,Won-General,124325.65,37
+State Senator,Muriel Dawson-White,DEM,FL,Open,Won-General,123369.97,29
+State Representative,Gregory Williams,DEM,FL,Challenger,Lost-General,122069.82,44
+State Representative,John Quinones IV,REP,FL,Open,Won-General,121159.76,49
+State Representative,Ray Sansom,REP,FL,Open,Won-General,120273.13,4
+State Representative,Gus Michael Bilirakis,REP,FL,Incumbent,Won-General,120161.76,48
+State Representative,Anne Gannon,DEM,FL,Open,Won-General,118678.77,86
+State Representative,John Stargel,REP,FL,Open,Won-General,118374.69,64
+State Representative,Charlie Justice,DEM,FL,Incumbent,Won-General,115946.63,53
+State Representative,Sandra Adams,REP,FL,Open,Won-General,114289.72,33
+State Representative,Anna Holliday Benson,REP,FL,Incumbent,Won-General,112148.3,3
+State Representative,David Robbe,DEM,FL,Open,Lost-General,112051.13,87
+State Senator,Stephen Wise,REP,FL,Open,Won-General,111169.98,5
+State Representative,Michael Steinberg,DEM,FL,Open,Lost-General,111127.97,47
+State Representative,Donald Davis,REP,FL,Incumbent,Won-General,110625.06,18
+State Representative,David Mealor,REP,FL,Incumbent,Won-General,110419.29,34
+State Representative,Patrick Howell,REP,FL,Open,Lost-General,109885.67,36
+State Representative,Kenneth Littlefield,REP,FL,Incumbent,Won-General,107584.9,61
+State Representative,Roger Wishner,DEM,FL,Incumbent,Won-General,107255.7,98
+State Representative,Tom Anderson,REP,FL,Open,Won-General,103874.63,45
+State Representative,Dave Murzin,REP,FL,Open,Won-General,103050.65,2
+State Representative,Gayle Harrell,REP,FL,Incumbent,Won-General,103000.28,81
+State Representative,Aaron Paul Bean,REP,FL,Incumbent,Won-General,102604.3,12
+State Representative,Dick Kravitz,REP,FL,Incumbent,Won-General,101395.0,19
+State Representative,Dennis Ross,REP,FL,Incumbent,Won-General,101047.17,63
+State Representative,Donald Brown,REP,FL,Incumbent,Won-General,100580.56,5
+State Representative,Dwight Stansel,DEM,FL,Incumbent,Won-General,98378.6,11
+State Representative,Mary Brandenburg,DEM,FL,Open,Won-General,98360.86,89
+State Representative,Sheri McInvale,DEM,FL,Open,Won-General,98000.0,36
+State Representative,John Seiler,DEM,FL,Incumbent,Won-General,96530.0,92
+State Representative,Marni Berger,DEM,FL,Challenger,Lost-General,95724.83,35
+State Representative,Shelley Vana,DEM,FL,Open,Won-General,95194.59,85
+State Representative,Mark Mahon,REP,FL,Incumbent,Won-General,94857.73,16
+State Representative,Will Kendrick,DEM,FL,Incumbent,Won-General,94759.46,10
+Agriculture Commissioner,Mary Barley,DEM,FL,Open,Lost-General,94599.55,nan
+State Representative,Marsha Bowen,REP,FL,Incumbent,Won-General,92036.6,65
+State Representative,Patrick Vilar,DEM,FL,Open,Lost-General,90420.0,116
+State Representative,Kenneth Gottlieb,DEM,FL,Open,Won-General,89555.41,105
+State Senator,Paula Dockery,REP,FL,Open,Won-General,87293.38,15
+State Representative,Arthenia Joyner,DEM,FL,Incumbent,Won-General,87051.32,59
+State Representative,Edward Jennings Jr.,DEM,FL,Incumbent,Won-General,87023.08,23
+State Representative,Gaston Ignacio Cantens,REP,FL,Incumbent,Won-General,86900.0,114
+State Representative,Rene Garcia,REP,FL,Incumbent,Won-General,86469.32,110
+State Representative,Baxter Troutman,REP,FL,Open,Won-General,86314.4,66
+State Representative,John Carassas,REP,FL,Incumbent,Won-General,85993.4,54
+State Representative,Dorothy Bendross-Mindingall,DEM,FL,Incumbent,Won-General,84580.27,109
+State Representative,Stanley Mayfield,REP,FL,Incumbent,Won-General,84258.15,80
+State Representative,Allan George Bense,REP,FL,Incumbent,Won-General,82629.98,6
+State Representative,Dennis Baxley,REP,FL,Incumbent,Won-General,82297.44,24
+State Representative,Joseph Spratt,REP,FL,Incumbent,Won-General,82050.46,77
+State Senator,Durell Peaden Jr.,REP,FL,Open,Won-General,81040.2,2
+State Representative,Terry Fields,DEM,FL,Incumbent,Won-General,80961.43,14
+State Representative,Phillip Brutus,DEM,FL,Incumbent,Won-General,80796.0,108
+State Representative,Eleanor Sobel,DEM,FL,Open,Won-General,80323.23,99
+State Representative,Frank Attkisson,REP,FL,Incumbent,Won-General,79281.68,79
+State Representative,Carole Green,REP,FL,Incumbent,Won-General,79002.3,75
+State Representative,Stacy Ritter,DEM,FL,Incumbent,Won-General,78977.0,96
+State Senator,Joanna Kennedy,DEM,FL,Open,Lost-General,77685.95,13
+State Representative,Dudley Goodlette,REP,FL,Incumbent,Won-General,77149.3,76
+State Senator,Larcenia Bullard,DEM,FL,Open,Won-General,77045.0,39
+State Representative,Andy Gardiner,REP,FL,Incumbent,Won-General,76977.38,40
+State Representative,Marco Antonio Rubio,REP,FL,Incumbent,Won-General,76554.33,111
+State Senator,Alex Villalobos,REP,FL,Open,Won-General,73280.0,38
+State Representative,Lindsay Harrington,REP,FL,Incumbent,Won-General,72744.3,72
+State Representative,Kenneth Shelin,DEM,FL,Challenger,Lost-General,71436.79,69
+State Representative,Frank Peterman Jr.,DEM,FL,Incumbent,Won-General,70298.09,55
+State Senator,Lee Constantine,REP,FL,Open,Won-General,68864.0,22
+State Senator,Rodolfo Garcia Jr.,REP,FL,Open,Won-General,68100.0,40
+State Representative,Christopher Eaton,DEM,FL,Challenger,Lost-General,66832.22,52
+State Representative,Manuel Prieguez,REP,FL,Incumbent,Won-General,63399.3,113
+State Senator,Victor Crist,REP,FL,Open,Won-General,63095.0,12
+State Representative,Edward Bullard,DEM,FL,Incumbent,Won-General,62365.0,118
+State Representative,Matthew Meadows,DEM,FL,Incumbent,Won-General,62226.65,94
+State Senator,Steven Geller,DEM,FL,Open,Won-General,61300.13,31
+State Representative,Dan Gelber,DEM,FL,Incumbent,Won-General,60653.34,106
+State Senator,Daniel Webster,REP,FL,Open,Won-General,60650.0,9
+State Representative,Timothy Tim Ryan,DEM,FL,Open,Won-General,60300.0,100
+State Representative,Joe Negron,REP,FL,Incumbent,Won-General,60277.66,82
+State Representative,Mike Hogan,REP,FL,Incumbent,Won-General,60259.3,13
+State Senator,Anna Cowin,REP,FL,Open,Won-General,59433.3,20
+State Representative,Ken Feck,REP,FL,Challenger,Lost-General,59253.78,53
+State Representative,Carey Baker,REP,FL,Incumbent,Won-General,54169.26,25
+State Senator,Rod Smith,DEM,FL,Open,Won-General,53755.0,14
+State Senator,Alfred Lawson Jr.,DEM,FL,Open,Won-General,52164.0,6
+State Representative,Bruce Antone,DEM,FL,Open,Won-General,50605.0,39
+State Representative,George Maurer,DEM,FL,Challenger,Lost-General,49810.0,120
+State Representative,Hugh Gibson III,REP,FL,Incumbent,Won-General,49776.58,42
+State Representative,Yolly Roberson,DEM,FL,Open,Won-General,49272.0,104
+State Senator,Cj Czaia,DEM,FL,Open,Lost-General,48975.9,21
+State Representative,Curtis Richardson,DEM,FL,Incumbent,Won-General,48385.87,8
+State Representative,Rory Martin,REP,FL,Incumbent,Won-General,46971.0,71
+State Representative,Wilbert Theodore Holloway,DEM,FL,Incumbent,Won-General,44828.0,103
+State Representative,Clifton Thomas,DEM,FL,Challenger,Lost-General,44701.82,7
+State Representative,Craig McCart,DEM,FL,Challenger,Lost-General,44598.08,46
+State Representative,Nancy Detert,REP,FL,Incumbent,Won-General,43900.0,70
+State Representative,Gary Shirk,DEM,FL,Open,Lost-General,42749.0,101
+State Senator,Thomas Lee,REP,FL,Open,Won-General,42550.0,10
+State Representative,Irving Slosberg,DEM,FL,Open,Won-General,42025.0,90
+State Senator,Burt Saunders,REP,FL,Open,Won-General,41547.13,37
+State Representative,Christopher Smith,DEM,FL,Incumbent,Won-General,41052.5,93
+State Representative,Arlene Sweeting,DEM,FL,Open,Lost-General,40155.87,68
+State Representative,James Hank Harper,DEM,FL,Incumbent,Won-General,37875.37,84
+State Senator,Andy Wojcicki,DEM,FL,Open,Lost-General,36779.55,8
+State Representative,Val Screen,REP,FL,Challenger,Lost-General,33370.0,108
+State Representative,Audrey Gibson,DEM,FL,Open,Won-General,32914.0,15
+State Senator,Walter Campbell Jr.,DEM,FL,Open,Won-General,32630.0,32
+State Representative,Chris Stagman,DEM,FL,Open,Lost-General,30784.91,29
+State Representative,Deborah Denys,REP,FL,Challenger,Lost-General,30417.51,28
+State Representative,Joyce Cusack,DEM,FL,Open,Won-General,29641.0,27
+State Representative,Richard Machek,DEM,FL,Incumbent,Won-General,28700.0,78
+State Representative,Susan Bucher,DEM,FL,Incumbent,Won-General,26090.0,88
+Agriculture Commissioner,David Carl Nelson,DEM,FL,Open,Lost-General,25402.72,nan
+State Representative,Rafael Velasquez,DEM,FL,Challenger,Lost-General,24661.0,107
+State Representative,Hector Vila,REP,FL,Challenger,Lost-General,24619.98,58
+State Representative,Elliot Shaw,REP,FL,Open,Lost-General,23835.0,89
+State Representative,Kevin Jensen,DEM,FL,Open,Lost-General,23285.94,45
+State Representative,James Carr,DEM,FL,Open,Lost-General,19560.47,43
+Governor,Robert Kunst,NONE LISTED,FL,Challenger,Lost-General,17977.16,nan
+State Senator,Lesley Miller Jr.,DEM,FL,Open,Won-General,16064.56,18
+State Representative,Patricia Burke,DEM,FL,Challenger,Lost-General,15652.26,61
+State Senator,Evaristo Ever Marina,REP,FL,Open,Lost-General,15600.0,39
+State Representative,Jerald Cumbus,DEM,FL,Challenger,Lost-General,13601.97,21
+State Senator,Allison McInnis-Gimbert,DEM,FL,Open,Lost-General,12588.76,16
+State Representative,Richard Langton,DEM,FL,Challenger,Lost-General,11938.11,51
+State Senator,Lawrence Milford,DEM,FL,Open,Lost-General,11646.0,23
+State Representative,Kemel Anthony Cereceda,IND,FL,Open,Lost-General,10475.0,117
+State Representative,Arlington Sands Jr.,REP,FL,Open,Lost-General,9695.0,104
+State Representative,Kai Rush,DEM,FL,Challenger,Lost-General,8751.4,50
+State Representative,Christie Norman,DEM,FL,Challenger,Lost-General,8533.53,73
+State Senator,Art Waganheim,REP,FL,Challenger,Lost-General,8530.12,34
+State Representative,Linda Parnell,DEM,FL,Challenger,Lost-General,8234.35,74
+State Representative,William Van Allen Jr.,LIB,FL,Challenger,Lost-General,7810.91,69
+State Representative,John Kennedy,LIB,FL,Open,Lost-General,7195.61,36
+State Representative,Jim Martin,DEM,FL,Challenger,Lost-General,6965.0,38
+State Representative,Kurt Gratzol,GRN,FL,Challenger,Lost-General,6568.26,54
+State Senator,Steve Hatch,REP,FL,Open,Lost-General,6500.0,30
+State Senator,Fred Segal,IND,FL,Open,Lost-General,6100.0,29
+State Representative,Janet Buckles,REP,FL,Open,Lost-General,5240.0,39
+State Representative,Jodi James,DEM,FL,Challenger,Lost-General,4961.32,31
+State Representative,Paul Broshear,LIB,FL,Open,Lost-General,4500.0,4
+State Representative,Joseph Delaney,REP,FL,Challenger,Lost-General,3738.16,118
+State Representative,Tim Doyle,GRN,FL,Challenger,Lost-General,3201.0,30
+State Senator,Beulah Farquharson,IND,FL,Open,Lost-General,3035.0,19
+State Representative,Mark Howard,LIB,FL,Challenger,Lost-General,2123.36,56
+State Representative,Chris Batchelor,LIB,FL,Challenger,Lost-General,1891.0,19
+State Representative,Thomas William Glaser,LIB,FL,Open,Lost-General,1260.68,115
+State Representative,Bob Horan,IND,FL,Challenger,Lost-General,1200.0,120
+State Representative,Robert Glasure,LIB,FL,Challenger,Lost-General,1175.0,5
+State Representative,Ricardo Mejias,LIB,FL,Challenger,Lost-General,1086.0,13
+State Representative,J Brent,LIB,FL,Challenger,Lost-General,875.0,48
+State Representative,Craig Chamberlin,LIB,FL,Open,Lost-General,795.91,29
+State Representative,Ronald Johnson,LIB,FL,Challenger,Lost-General,703.0,22
+State Representative,Thomas Clark,LIB,FL,Challenger,Lost-General,567.0,74
+State Representative,Vincent Hopkins,REP,FL,Challenger,Lost-General,545.0,55
+State Representative,Neil Evangelista,LIB,FL,Open,Lost-General,380.0,87
+State Representative,Michael Gilson-Delemos,LIB,FL,Challenger,Lost-General,300.0,53
+State Representative,Ty Price,LIB,FL,Challenger,Lost-General,285.0,17
+State Representative,James Clifford,LIB,FL,Challenger,Lost-General,217.42,65
+State Representative,James Coakley,LIB,FL,Open,Lost-General,100.0,33
+State Representative,Neil Polimeni,LIB,FL,Open,Lost-General,95.0,43
+State Representative,Thomas Luongo,LIB,FL,Challenger,Lost-General,54.02,21
+State Representative,Susan Lipschultz,LIB,FL,Open,Lost-General,30.0,90
+State Representative,Mitch Covington,LIB,FL,Challenger,Lost-General,20.0,9
+State Representative,Joseph Ballard,LIB,FL,Challenger,Lost-General,0.0,12
+State Representative,Barbara Bujak,LIB,FL,Open,Lost-General,0.0,2
+State Representative,Ronald Cadby,LIB,FL,Challenger,Lost-General,0.0,80
+State Representative,Scott Palmer Carter,LIB,FL,Challenger,Lost-General,0.0,16
+State Representative,Louis Cashmer,LIB,FL,Challenger,Lost-General,0.0,41
+State Representative,Dirk Clary,LIB,FL,Challenger,Lost-General,0.0,72
+State Representative,Ryan Conley,LIB,FL,Challenger,Lost-General,0.0,60
+State Representative,John Conway,LIB,FL,Challenger,Lost-General,0.0,40
+State Representative,Britt Craig,LIB,FL,Open,Lost-General,0.0,105
+State Representative,Rex Curry,LIB,FL,Challenger,Lost-General,0.0,59
+State Representative,John Doherty,LIB,FL,Open,Lost-General,0.0,45
+State Representative,Jason Downs,LIB,FL,Challenger,Lost-General,0.0,63
+State Representative,Mark Eckert,LIB,FL,Open,Lost-General,0.0,119
+State Representative,Roger Eckert,LIB,FL,Challenger,Lost-General,0.0,96
+State Representative,Grier Ellis,LIB,FL,Challenger,Lost-General,0.0,11
+State Representative,Brian Gilbert,LIB,FL,Challenger,Lost-General,0.0,50
+State Representative,Michael Guidry,LIB,FL,Challenger,Lost-General,0.0,113
+State Representative,Kim Hawk,LIB,FL,Challenger,Lost-General,0.0,73
+State Representative,Dean Hintz,LIB,FL,Challenger,Lost-General,0.0,18
+State Representative,Scott Hudmon,LIB,FL,Challenger,Lost-General,0.0,77
+State Representative,Mary Beth Jones,LIB,FL,Challenger,Lost-General,0.0,95
+State Representative,Thomas Kilmon,LIB,FL,Challenger,Lost-General,0.0,55
+State Representative,Michael Krech,LIB,FL,Open,Lost-General,0.0,64
+State Representative,Jon Kueny,LIB,FL,Challenger,Lost-General,0.0,46
+State Representative,Brian Kuszmar,LIB,FL,Challenger,Lost-General,0.0,91
+State Representative,Travis Larson,LIB,FL,Challenger,Lost-General,0.0,79
+State Representative,Fred Levin,LIB,FL,Challenger,Lost-General,0.0,42
+State Representative,Nathan Lipschultz,LIB,FL,Challenger,Lost-General,0.0,92
+State Representative,Alison Lipscomb,LIB,FL,Challenger,Lost-General,0.0,52
+State Representative,Carol Longo,LIB,FL,Open,Lost-General,0.0,89
+State Representative,John McElligott,LIB,FL,Challenger,Lost-General,0.0,10
+State Representative,Mary Morelly,LIB,FL,Challenger,Lost-General,0.0,28
+State Representative,Tim Moriarty,LIB,FL,Challenger,Lost-General,0.0,37
+State Representative,Brooks Harris Nelson,LIB,FL,Challenger,Lost-General,0.0,23
+State Representative,Adam Norwood,LIB,FL,Open,Lost-General,0.0,15
+State Representative,Aaron Obrien,LIB,FL,Challenger,Lost-General,0.0,75
+State Representative,Michael Shane Obrien,LIB,FL,Open,Lost-General,0.0,101
+State Representative,Franklin Perez,LIB,FL,Challenger,Lost-General,0.0,32
+State Representative,David Personett,LIB,FL,Challenger,Lost-General,0.0,20
+State Representative,Tom Petrone,LIB,FL,Challenger,Lost-General,0.0,3
+State Representative,Edward Pittman,LIB,FL,Challenger,Lost-General,0.0,44
+State Representative,Joseph Frank Preta Jr.,LIB,FL,Challenger,Lost-General,0.0,61
+State Representative,Saunder Primack,LIB,FL,Challenger,Lost-General,0.0,70
+State Representative,Tyson Richmond,LIB,FL,Open,Lost-General,0.0,57
+State Representative,John Roszman,LIB,FL,Challenger,Lost-General,0.0,81
+State Representative,Rob Schwartzberg,LIB,FL,Open,Lost-General,0.0,47
+State Representative,Dwight Seigler,DEM,FL,Challenger,Lost-General,0.0,32
+State Representative,Ron Stringfield,LIB,FL,Open,Lost-General,0.0,67
+State Representative,Leslie Edward Sutter,LIB,FL,Challenger,Lost-General,0.0,76
+State Representative,Lida Throckmorton,LIB,FL,Challenger,Lost-General,0.0,24
+State Representative,James Donald Wallace,LIB,FL,Open,Lost-General,0.0,68
+State Representative,Christopher Michael Wheeler,LIB,FL,Challenger,Lost-General,0.0,34
+State Representative,Jill Bradley Wood,LIB,FL,Open,Lost-General,0.0,26
+Supreme Court-Anstead Seat,Harry Lee Anstead,IND,FL,Incumbent,Won-Retention,0.0,nan
+Supreme Court-Wells Seat,Charles Wells,IND,FL,Incumbent,Won-Retention,0.0,nan

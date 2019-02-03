@@ -1,0 +1,74 @@
+office,candidate,party,state,incumbency,result,total money,district
+Governor,Mike Johanns,REP,NE,Incumbent,Won-General,2382948.85,nan
+Attorney General,Jon Bruning,REP,NE,Challenger,Won-General,417895.01,nan
+Board Of Regents District 002,Howard Hawks,IND,NE,Challenger,Won-General,411793.48,nan
+Treasurer,Lorelee Byrd,REP,NE,Incumbent,Won-General,202641.47,nan
+Secretary Of State,John Gale,REP,NE,Incumbent,Won-General,189910.29,nan
+Governor,Stormy Dean,DEM,NE,Challenger,Lost-General,163498.56,nan
+Board Of Regents District 002,Nancy Obrien,IND,NE,Incumbent,Lost-General,109241.0,nan
+Attorney General,Mike Meister,DEM,NE,Incumbent,Lost-General,94894.09,nan
+State Senator,Nancy Thompson,IND,NE,Incumbent,Won-General,91258.29,14
+State Senator,Mick Mines,IND,NE,Open,Won-General,84563.15,18
+State Senator,Matt Connealy,IND,NE,Incumbent,Won-General,80763.1,16
+Public Service Commissioner District 002,Anne Boyle,DEM,NE,Incumbent,Won-General,71093.98,nan
+State Senator,Deb Suttle,IND,NE,Incumbent,Lost-General,68095.2,10
+State Senator,Douglas Cunningham,IND,NE,Challenger,Won-General,67649.3,40
+State Senator,Pam Brown,IND,NE,Incumbent,Won-General,66008.0,6
+State Senator,Dennis Byars,IND,NE,Incumbent,Won-General,62143.13,30
+Board Of Regents District 001,Charles Wilson,IND,NE,Incumbent,Won-General,55415.33,nan
+State Senator,Dave Biba,IND,NE,Open,Lost-General,54502.72,32
+State Senator,Marian Price,IND,NE,Incumbent,Won-General,53666.77,26
+State Senator,Bob Kremer,IND,NE,Incumbent,Won-General,51499.83,34
+State Senator,Jennie Robak,IND,NE,Incumbent,Lost-General,50372.03,22
+State Senator,David Landis,IND,NE,Incumbent,Won-General,48577.13,46
+State Senator,Ed Schrock,IND,NE,Incumbent,Won-General,47024.87,38
+State Senator,Vickie McDonald,IND,NE,Open,Won-General,43706.39,41
+State Senator,Jim Jensen,IND,NE,Incumbent,Won-General,43478.88,20
+State Senator,Cap Dierks,IND,NE,Incumbent,Lost-General,43034.5,40
+Board Of Education District 007,Kandy Imes,IND,NE,Challenger,Won-General,42928.71,nan
+State Senator,Fred Hlava,BY PETITION,NE,Incumbent,Lost-General,39660.82,49
+Auditor,Kate Witek,REP,NE,Incumbent,Won-General,38361.01,nan
+State Senator,Pam Redfield,IND,NE,Incumbent,Won-General,37799.46,12
+Board Of Education District 008,Joseph Higgins,IND,NE,Challenger,Won-General,37709.89,nan
+State Senator,Christopher Beutler,IND,NE,Incumbent,Won-General,37623.82,28
+Board Of Regents District 001,Tony Ojeda,IND,NE,Challenger,Lost-General,37344.34,nan
+State Senator,Jeanne Combs,IND,NE,Open,Won-General,37159.47,32
+State Senator,Tim Pendrell,IND,NE,Challenger,Lost-General,35850.0,6
+State Senator,Don Pederson,IND,NE,Incumbent,Won-General,34773.17,42
+State Senator,Patrick Bourne,IND,NE,Incumbent,Won-General,34278.13,8
+State Senator,Roger Wehrbein,IND,NE,Incumbent,Won-General,34091.0,2
+State Senator,Adrian Smith,IND,NE,Incumbent,Won-General,33358.2,48
+State Senator,Thomas Baker,IND,NE,Incumbent,Won-General,29942.74,44
+State Senator,Mike Friend,IND,NE,Challenger,Won-General,28313.9,10
+State Senator,Kermit Brashear,IND,NE,Incumbent,Won-General,27675.0,4
+State Senator,Jim Cudaback,IND,NE,Incumbent,Won-General,27373.96,36
+Board Of Education District 006,Fred Meyer,IND,NE,Incumbent,Won-General,24047.38,nan
+State Senator,Elaine Stuhr,IND,NE,Incumbent,Won-General,21129.04,24
+State Senator,John Synowiecki,IND,NE,Open,Won-General,20822.32,7
+State Senator,James Kovarik,IND,NE,Open,Lost-General,18164.88,18
+State Senator,Joel Johnson,BY PETITION,NE,Incumbent,Won-General,15002.67,37
+State Senator,Leroy Louden,BY PETITION,NE,Challenger,Won-General,13790.35,49
+State Senator,Arnie Stuthman,IND,NE,Challenger,Won-General,13266.0,22
+Secretary Of State,Jay Stoddard,DEM,NE,Challenger,Lost-General,13223.25,nan
+Governor,Paul Rosberg,NEBRASKA,NE,Challenger,Lost-General,9547.5,nan
+Auditor,David Wilken,DEM,NE,Challenger,Lost-General,9148.0,nan
+State Senator,Brice Sullivan,IND,NE,Challenger,Lost-General,8986.79,26
+Board Of Education District 007,Kathy Wilmot,IND,NE,Incumbent,Lost-General,8072.41,nan
+State Senator,Scott Scheierman,IND,NE,Challenger,Lost-General,7709.0,38
+State Senator,Bill Koile,IND,NE,Challenger,Lost-General,7031.02,12
+State Senator,Jerry Schmitt,IND,NE,Open,Lost-General,3278.47,41
+Board Of Education District 005,Stephen Scherr,IND,NE,Incumbent,Won-General,2500.0,nan
+Public Service Commissioner District 002,Reid Kenedy,REP,NE,Challenger,Lost-General,0.0,nan
+State Senator,David Kentsmith,IND,NE,Challenger,Lost-General,0.0,2
+State Senator,Dave Munoz,IND,NE,Challenger,Lost-General,0.0,42
+Board Of Education District 008,Kathryn Piller,IND,NE,Incumbent,Lost-General,0.0,nan
+Secretary Of State,Joseph Rosberg,NEBRASKA,NE,Challenger,Lost-General,0.0,nan
+Auditor,Kelly Renee Rosberg,NEBRASKA,NE,Challenger,Lost-General,0.0,nan
+Treasurer,Bob Sheckler,NEBRASKA,NE,Challenger,Lost-General,0.0,nan
+Secretary Of State,Tudor Lewis,LIB,NE,Challenger,Lost-General,0.0,nan
+State Senator,Jerry Willhoft,IND,NE,Challenger,Lost-General,0.0,34
+State Senator,Brad Allen,IND,NE,Challenger,Lost-General,0.0,14
+Board Of Education District 006,Paul Allen,IND,NE,Challenger,Lost-General,0.0,nan
+State Senator,John Carter,IND,NE,Challenger,Lost-General,0.0,46
+Supreme Court-Chief Justice,John Hendry,IND,NE,Incumbent,Won-Retention,0.0,nan
+Supreme Court District 002,Lindsey Miller-Lerman,IND,NE,Incumbent,Won-Retention,0.0,nan

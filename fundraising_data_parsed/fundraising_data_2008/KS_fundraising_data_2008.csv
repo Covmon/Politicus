@@ -1,0 +1,312 @@
+office,candidate,party,state,incumbency,result,total money,district
+State Senator,Laura Kelly,DEM,KS,Incumbent,Won-General,234446.01,18
+State Senator,Stephen Morris,REP,KS,Incumbent,Won-General,233012.28,39
+State Senator,Julia Lynn,REP,KS,Incumbent,Won-General,198770.19,9
+State Senator,Thomas Holland,DEM,KS,Challenger,Won-General,190461.31,3
+State Senator,Vicki Schmidt,REP,KS,Incumbent,Won-General,184614.37,20
+State Senator,Derek Larkin Schmidt,REP,KS,Incumbent,Won-General,182610.22,15
+State Senator,John Vratil,REP,KS,Incumbent,Won-General,168785.41,11
+State Senator,Rusty Wilson,DEM,KS,Challenger,Lost-General,168758.32,22
+State Senator,Dwayne Umbarger,REP,KS,Incumbent,Won-General,162967.01,14
+State Senator,Ron Wimmer,DEM,KS,Challenger,Lost-General,152423.84,9
+State Senator,Anthony Hensley,DEM,KS,Incumbent,Won-General,142934.97,19
+State Senator,Carolyn McGinn,REP,KS,Incumbent,Won-General,132023.22,31
+State Senator,Steve Fitzgerald,REP,KS,Open,Lost-General,127291.96,5
+State Senator,Bob Marshall,REP,KS,Open,Won-General,126316.39,13
+State Senator,Ruth Teichman,REP,KS,Incumbent,Won-General,125618.41,33
+State Senator,Terry Bruce,REP,KS,Incumbent,Won-General,124224.48,34
+State Senator,Janis K. Lee,DEM,KS,Incumbent,Won-General,119920.92,36
+State Senator,Dennis Pyle,REP,KS,Incumbent,Won-General,116501.95,1
+State Senator,Jay Emler,REP,KS,Incumbent,Won-General,115476.42,35
+State Senator,Roger Pine,REP,KS,Incumbent,Lost-General,115473.97,3
+State Senator,Timothy Huelskamp,REP,KS,Incumbent,Won-General,113970.32,38
+State Representative,Sean Tevis,DEM,KS,Challenger,Lost-General,110107.09,15
+State Senator,Roger Reitz,REP,KS,Incumbent,Won-General,109017.85,22
+State Senator,Pete Brungardt,REP,KS,Incumbent,Won-General,101300.0,24
+State Senator,Mike Petersen,REP,KS,Incumbent,Won-General,99038.88,28
+State Senator,Mary Pilcher-Cook,REP,KS,Open,Won-General,98983.83,10
+State Senator,Pat Apple,REP,KS,Incumbent,Won-General,96252.52,12
+State Representative,Raj Goyle,DEM,KS,Incumbent,Won-General,95825.68,87
+State Senator,Pete Roman,DEM,KS,Open,Lost-General,94778.14,10
+State Representative,Melvin Neufeld,REP,KS,Incumbent,Won-General,93184.52,115
+State Senator,Ty Masterson,REP,KS,Open,Won-General,90901.69,16
+State Representative,Tony Brown,DEM,KS,Open,Won-General,89983.49,10
+State Senator,Susan Wagle,REP,KS,Incumbent,Won-General,88481.39,30
+State Senator,Greta Goodwin,DEM,KS,Incumbent,Lost-General,85499.8,32
+State Representative,Ray Merrick,REP,KS,Incumbent,Won-General,83420.0,27
+State Senator,Jeff Colyer,REP,KS,Open,Won-General,82733.28,37
+State Senator,Karin Brownlee,REP,KS,Incumbent,Won-General,82613.42,23
+State Senator,Thomas Owens,REP,KS,Open,Won-General,81469.93,8
+State Senator,James Barnett,REP,KS,Incumbent,Won-General,81341.5,17
+State Senator,Kelly Kultala,DEM,KS,Open,Won-General,81268.0,5
+State Senator,David Inskeep,DEM,KS,Challenger,Lost-General,80684.4,34
+State Representative,Kevin Yoder,REP,KS,Incumbent,Won-General,80567.37,20
+State Senator,Patty Horgan,DEM,KS,Open,Lost-General,75010.0,13
+State Representative,Joe Novak,DEM,KS,Challenger,Lost-General,72153.0,39
+State Representative,Mike Slattery,DEM,KS,Challenger,Won-General,70286.12,24
+State Senator,Mark Taddiken,REP,KS,Incumbent,Won-General,69748.42,21
+State Senator,Chris Steineger,DEM,KS,Incumbent,Won-General,68500.0,6
+State Senator,James Zeller,REP,KS,Challenger,Lost-General,68084.76,18
+State Representative,Stephanie Kelton,DEM,KS,Challenger,Lost-General,66454.64,38
+State Senator,Leslie Donovan Sr.,REP,KS,Incumbent,Won-General,64531.23,27
+State Representative,Dennis McKinney,DEM,KS,Incumbent,Won-General,63550.6,116
+State Representative,Cindy Neighbor,DEM,KS,Incumbent,Won-General,62931.54,18
+State Senator,Peter Devries,DEM,KS,Open,Lost-General,61079.39,16
+State Representative,Brenda Landwehr,REP,KS,Incumbent,Won-General,60559.87,91
+State Representative,Michael Oneal,REP,KS,Incumbent,Won-General,58038.0,104
+State Representative,Arlen Siegfreid,REP,KS,Incumbent,Won-General,57827.0,15
+State Representative,Gene Rardin,DEM,KS,Incumbent,Won-General,56143.89,16
+State Senator,Scott Morgan,REP,KS,Challenger,Lost-General,55842.03,2
+State Senator,Marci Francisco,DEM,KS,Incumbent,Won-General,55155.12,2
+State Senator,Shala Perez,DEM,KS,Challenger,Lost-General,54603.0,28
+State Representative,Mark Hardison,DEM,KS,Challenger,Lost-General,53887.83,81
+State Representative,Joe Patton,REP,KS,Incumbent,Won-General,52254.0,54
+State Representative,Robert Olson,REP,KS,Incumbent,Won-General,52185.42,26
+State Senator,Jean Kurtis Schodorf,REP,KS,Incumbent,Won-General,51377.0,25
+State Representative,Milack Talia,DEM,KS,Open,Won-General,49439.71,23
+State Representative,Robert Grant,DEM,KS,Incumbent,Won-General,49394.7,2
+State Representative,Shirley Palmer,DEM,KS,Incumbent,Won-General,48529.55,4
+State Representative,Sydney Carlin,DEM,KS,Incumbent,Won-General,48151.63,66
+State Representative,Tom Hawk,DEM,KS,Incumbent,Won-General,47414.62,67
+State Representative,Joshua Svaty,DEM,KS,Incumbent,Won-General,47288.82,108
+State Representative,Annie Kuether,DEM,KS,Incumbent,Won-General,46706.15,55
+State Senator,Elizabeth Bishop,DEM,KS,Challenger,Lost-General,46224.45,30
+State Representative,Anthony Brown,REP,KS,Incumbent,Won-General,45648.32,38
+State Representative,Marc Rhoades,REP,KS,Incumbent,Won-General,45476.14,72
+State Representative,Ronnie Metsker,REP,KS,Incumbent,Lost-General,45255.63,24
+State Senator,David Wysong,REP,KS,Incumbent,Won-General,44525.0,7
+State Senator,Dick Kelsey,REP,KS,Open,Won-General,44270.61,26
+State Representative,Terry McLachlan,DEM,KS,Incumbent,Lost-General,43568.5,96
+State Representative,Lance Kinzer,REP,KS,Incumbent,Won-General,43551.38,14
+State Representative,Owen Donohoe,REP,KS,Incumbent,Won-General,43013.1,39
+State Representative,Mark Treaster,DEM,KS,Incumbent,Lost-General,42293.89,101
+State Senator,Steve Abrams,REP,KS,Challenger,Won-General,42190.95,32
+State Representative,Dolores Furtado,DEM,KS,Open,Won-General,42073.51,19
+State Senator,Oletha Faust-Goudeau,DEM,KS,Open,Won-General,41979.42,29
+State Representative,Peggy Mast,REP,KS,Incumbent,Won-General,41763.0,76
+State Representative,Tom Sloan,REP,KS,Incumbent,Won-General,40454.4,45
+State Representative,Lana Gordon,REP,KS,Incumbent,Won-General,40140.39,52
+State Representative,Pete Degraaf,REP,KS,Incumbent,Won-General,39395.43,81
+State Representative,Kay Wolf,REP,KS,Incumbent,Won-General,39180.51,21
+State Senator,Pam Frieden,DEM,KS,Open,Lost-General,39164.85,26
+State Representative,Martin Keenan,DEM,KS,Challenger,Lost-General,38784.29,112
+State Representative,Gene Burr,DEM,KS,Challenger,Lost-General,38370.4,79
+State Representative,Ann Mah,DEM,KS,Incumbent,Won-General,37937.77,53
+State Representative,Clark Shultz,REP,KS,Incumbent,Won-General,37875.52,73
+State Representative,Pat Colloton,REP,KS,Incumbent,Won-General,37522.0,28
+State Representative,August Bogina III,REP,KS,Open,Lost-General,36932.11,23
+State Representative,Virgil Peck Jr.,REP,KS,Incumbent,Won-General,36596.52,11
+State Representative,Steven Brunk,REP,KS,Incumbent,Won-General,36529.0,85
+State Representative,Jim Ward,DEM,KS,Incumbent,Won-General,35662.05,88
+Board Of Education District 004,Carolyn Campbell,DEM,KS,Open,Won-General,35636.51,nan
+State Representative,Steve Lukert,DEM,KS,Incumbent,Won-General,34810.93,62
+State Representative,John Wilson,DEM,KS,Challenger,Lost-General,34688.39,45
+State Senator,Ralph Ostmeyer,REP,KS,Incumbent,Won-General,34603.79,40
+State Representative,Bruce Cooper,DEM,KS,Challenger,Lost-General,34569.03,54
+State Representative,Bill Wolf,REP,KS,Incumbent,Won-General,34516.47,112
+State Senator,Kenya Cox,REP,KS,Open,Lost-General,34122.0,29
+State Representative,Charles Roth,REP,KS,Incumbent,Won-General,33960.0,71
+State Representative,Jeff King,REP,KS,Incumbent,Won-General,33914.24,12
+State Representative,Pat George,REP,KS,Incumbent,Won-General,33575.0,119
+State Representative,Tom Adrian,DEM,KS,Challenger,Lost-General,33515.0,72
+State Representative,Michael Wunder,DEM,KS,Challenger,Lost-General,33304.98,65
+State Representative,Jason Watkins,REP,KS,Incumbent,Won-General,32900.0,105
+State Representative,Anna Tietze,DEM,KS,Incumbent,Won-General,32584.88,56
+State Representative,Lee Tafanelli,REP,KS,Incumbent,Won-General,32375.6,47
+State Representative,Joe Seiwert,REP,KS,Challenger,Won-General,31996.76,101
+State Representative,Melanie Sanders Meier,DEM,KS,Open,Won-General,31749.71,40
+State Representative,Jill Quigley,REP,KS,Incumbent,Won-General,31566.0,17
+State Representative,Lisa Benlon,DEM,KS,Open,Won-General,31468.23,22
+State Representative,Julie Menghini,DEM,KS,Incumbent,Won-General,31319.44,3
+State Representative,John Grange,REP,KS,Incumbent,Won-General,31315.0,75
+State Representative,Vincent Wetta,DEM,KS,Incumbent,Won-General,30217.09,80
+State Representative,John Rubin,REP,KS,Challenger,Lost-General,30017.14,18
+Board Of Education District 004,Robert Meissner,REP,KS,Open,Lost-General,29563.16,nan
+State Representative,Bill Feuerborn,DEM,KS,Incumbent,Won-General,29375.0,5
+State Representative,John Coen,REP,KS,Open,Lost-General,28901.0,10
+Board Of Education District 002,Sue Storm,DEM,KS,Open,Won-General,28837.26,nan
+State Representative,David Crum,REP,KS,Incumbent,Won-General,28804.0,77
+State Representative,Sharon Schwartz,REP,KS,Incumbent,Won-General,28697.09,106
+State Representative,Paul Davis,DEM,KS,Incumbent,Won-General,28623.18,46
+State Representative,Marvin Kleeb,REP,KS,Open,Won-General,27975.37,48
+State Representative,Kasha Kelley,REP,KS,Incumbent,Won-General,27872.09,79
+State Representative,Aaron Jack,REP,KS,Open,Won-General,27645.0,99
+State Representative,Don Hineman,REP,KS,Challenger,Won-General,27569.8,118
+State Representative,Bob Bethell,REP,KS,Incumbent,Won-General,27040.0,113
+State Representative,Tom Moxley,REP,KS,Incumbent,Won-General,26913.0,68
+State Representative,Ed Trimmer,DEM,KS,Incumbent,Won-General,26689.65,78
+State Representative,Jene Vickrey,REP,KS,Incumbent,Won-General,26597.0,6
+Board Of Education District 006,Christopher Renner,DEM,KS,Challenger,Lost-General,26585.01,nan
+State Representative,Doug Gatewood,DEM,KS,Incumbent,Won-General,26496.7,1
+State Representative,Sheryl Spalding,REP,KS,Incumbent,Won-General,26320.0,29
+State Senator,David Haley,DEM,KS,Incumbent,Won-General,26015.74,4
+State Representative,Terrie Huntington,REP,KS,Incumbent,Won-General,25725.0,25
+State Representative,Marti Crow,DEM,KS,Incumbent,Won-General,25640.51,41
+State Representative,Ron Worley,REP,KS,Incumbent,Won-General,25493.55,30
+State Representative,Don Schroeder,REP,KS,Incumbent,Won-General,24785.0,74
+State Representative,Scott Schwab,REP,KS,Incumbent,Won-General,24334.0,49
+State Representative,Nile Dillmore,DEM,KS,Incumbent,Won-General,24118.55,92
+State Representative,Barbara Craft,REP,KS,Incumbent,Won-General,24102.2,65
+State Representative,Judith Loganbill,DEM,KS,Incumbent,Won-General,23782.23,86
+State Senator,Judy Macy,DEM,KS,Open,Lost-General,23745.6,8
+State Representative,Mario Goico,REP,KS,Incumbent,Won-General,23441.0,100
+State Representative,Don Myers,REP,KS,Incumbent,Won-General,23050.0,82
+State Representative,Carl Holmes,REP,KS,Incumbent,Won-General,23025.0,125
+State Senator,Larry Salmans,REP,KS,Challenger,Lost-General,22997.91,36
+State Representative,Jo Ann Pottorff,REP,KS,Incumbent,Won-General,22057.0,83
+State Representative,Richard Carlson,REP,KS,Incumbent,Won-General,21996.52,61
+State Representative,Deena Horst,REP,KS,Incumbent,Won-General,21555.0,69
+State Representative,Jinna Jeffery,DEM,KS,Challenger,Lost-General,21488.44,91
+State Representative,Sean Gatewood,DEM,KS,Open,Won-General,21301.77,57
+State Representative,Bill Light,REP,KS,Incumbent,Won-General,21300.0,124
+State Representative,Gary Hayzlett,REP,KS,Incumbent,Won-General,21159.2,122
+State Representative,Steven Huebert,REP,KS,Incumbent,Won-General,20645.0,90
+Board Of Education District 006,Kathy Martin,REP,KS,Incumbent,Won-General,20246.0,nan
+State Representative,Vern Swanson,REP,KS,Incumbent,Won-General,20150.5,64
+State Representative,Harold Lane,DEM,KS,Incumbent,Won-General,20092.84,58
+State Representative,Don Hill,REP,KS,Incumbent,Won-General,19760.59,60
+State Representative,Tom Sawyer,DEM,KS,Incumbent,Won-General,19287.63,95
+State Senator,Galen Weiland,DEM,KS,Challenger,Lost-General,19210.0,1
+State Representative,Jerry Williams,DEM,KS,Incumbent,Won-General,18761.62,8
+State Representative,Dee McKee,REP,KS,Challenger,Lost-General,18706.0,66
+Board Of Education District 008,Dennis Hedke,REP,KS,Open,Lost-General,18695.0,nan
+State Senator,Gene Marsh,DEM,KS,Challenger,Lost-General,18614.63,31
+State Representative,John Stevens,REP,KS,Challenger,Lost-General,18580.0,86
+State Representative,Phil Hermanson,REP,KS,Challenger,Won-General,18340.0,96
+State Representative,Virginia Beamer,REP,KS,Incumbent,Lost-General,18096.86,118
+State Senator,Shari Weber,REP,KS,Challenger,Lost-General,18090.0,19
+State Representative,Dan Kerschen,REP,KS,Open,Won-General,18060.03,93
+State Representative,Tom Burroughs,DEM,KS,Incumbent,Won-General,17575.0,33
+State Representative,Mike Kiegerl,REP,KS,Incumbent,Won-General,17329.33,43
+State Representative,Lynne Oharah,REP,KS,Challenger,Lost-General,17311.29,4
+State Representative,Dick Miller,REP,KS,Challenger,Lost-General,17060.86,67
+State Representative,Sarah Johnston,DEM,KS,Challenger,Lost-General,16991.11,75
+State Representative,Roy Claycamp,REP,KS,Challenger,Lost-General,16919.96,62
+State Representative,Eber Phelps,DEM,KS,Incumbent,Won-General,16873.15,111
+State Representative,Rocky Fund,REP,KS,Incumbent,Won-General,16687.0,50
+State Representative,Elaine Bowers,REP,KS,Incumbent,Won-General,16571.0,107
+State Representative,Gail Finney,DEM,KS,Open,Won-General,16542.83,84
+State Representative,Jerry Henry,DEM,KS,Incumbent,Won-General,16325.0,63
+State Representative,Jim Morrison,REP,KS,Incumbent,Won-General,16163.78,121
+State Representative,John Faber,REP,KS,Incumbent,Won-General,16040.0,120
+State Representative,Margaret Long,DEM,KS,Incumbent,Won-General,15957.0,36
+State Senator,Rob Hodgkinson,LIB,KS,Open,Lost-General,15572.67,37
+State Representative,Richard Proehl,REP,KS,Incumbent,Won-General,15525.0,7
+State Representative,Pam Ippel,DEM,KS,Open,Lost-General,15485.62,48
+State Representative,Joy Bourdess,REP,KS,Open,Lost-General,15359.19,22
+State Representative,Clay Aurand,REP,KS,Incumbent,Won-General,15203.0,109
+State Representative,Forrest Knox,REP,KS,Incumbent,Won-General,15175.0,13
+State Representative,Bill Otto,REP,KS,Incumbent,Won-General,14981.96,9
+State Representative,Larry Powell,REP,KS,Incumbent,Won-General,14949.57,117
+State Representative,Dave Smith,REP,KS,Challenger,Lost-General,14755.6,108
+State Representative,David Avery Norlin,DEM,KS,Challenger,Lost-General,14646.02,71
+State Representative,Becky Ansley,DEM,KS,Challenger,Lost-General,14593.0,27
+State Representative,Dale Swenson,REP,KS,Incumbent,Won-General,14573.32,97
+State Representative,Jim Yonally,REP,KS,Challenger,Lost-General,13650.0,16
+State Representative,Mike Burgess,REP,KS,Incumbent,Won-General,13550.0,51
+State Representative,William Prescott,REP,KS,Open,Won-General,13365.0,59
+State Representative,Connie Obrien,REP,KS,Open,Won-General,13329.93,42
+State Representative,Dan Johnson,REP,KS,Incumbent,Won-General,13175.0,110
+State Senator,Carolyn Weinhold,DEM,KS,Challenger,Lost-General,12798.25,20
+State Representative,Joe McLeland,REP,KS,Incumbent,Won-General,12605.0,94
+State Representative,Valdenia Winn,DEM,KS,Incumbent,Won-General,12526.5,34
+State Representative,Delia Garcia,DEM,KS,Incumbent,Won-General,12355.04,103
+Board Of Education District 008,Walter Chappell,DEM,KS,Open,Won-General,11879.9,nan
+State Representative,Billie Knighton,DEM,KS,Challenger,Lost-General,11835.17,85
+State Representative,Louis Ruiz,DEM,KS,Incumbent,Won-General,11775.0,32
+State Representative,Rebekah Gaston,DEM,KS,Challenger,Lost-General,11732.38,69
+State Representative,Geraldine Flaharty,DEM,KS,Incumbent,Won-General,11610.0,98
+State Representative,Jason Fisher,REP,KS,Challenger,Lost-General,11502.0,55
+State Representative,Cecil Washington Jr.,REP,KS,Challenger,Lost-General,11418.01,53
+State Senator,Abner Perney,DEM,KS,Challenger,Lost-General,11004.48,24
+State Senator,Laura Mead,DEM,KS,Challenger,Lost-General,10725.0,38
+State Representative,Carol Strickland,DEM,KS,Challenger,Lost-General,10556.56,76
+State Representative,Melody McCray-Miller,DEM,KS,Incumbent,Won-General,10200.0,89
+State Representative,Barbara Ballard,DEM,KS,Incumbent,Won-General,10125.0,44
+State Representative,Charlie Gregor,REP,KS,Open,Lost-General,9635.0,40
+State Representative,Jeff Whitham,REP,KS,Incumbent,Won-General,9549.36,123
+State Representative,John Whittington,REP,KS,Challenger,Lost-General,9335.0,78
+State Representative,Janice Pauls,DEM,KS,Incumbent,Won-General,9295.0,102
+State Representative,John Skubal,REP,KS,Open,Lost-General,9161.79,19
+State Senator,Kitty Frank,DEM,KS,Challenger,Lost-General,9138.7,17
+State Representative,Stan Frownfelter,DEM,KS,Incumbent,Won-General,8726.14,31
+State Representative,Jim Irey,DEM,KS,Open,Lost-General,8390.0,59
+State Representative,Cheryl McFarthing,DEM,KS,Open,Lost-General,8041.31,99
+State Representative,Mitch Holmes,REP,KS,Incumbent,Won-General,7750.0,114
+State Representative,Broderick Henderson,DEM,KS,Incumbent,Won-General,7625.0,35
+State Representative,Rebecca Escalante,DEM,KS,Challenger,Lost-General,7581.13,119
+State Representative,Scott Snavely,DEM,KS,Challenger,Lost-General,7409.0,43
+State Senator,Jim Aubuchon,DEM,KS,Open,Withdrew-General,7280.0,37
+State Senator,Bond Faulwell,DEM,KS,Open,Lost-General,7209.15,37
+State Representative,Joann Keiter,DEM,KS,Open,Lost-General,7098.0,93
+State Representative,Michael Peterson,DEM,KS,Incumbent,Won-General,7075.0,37
+Board Of Education District 002,Mary Ralstin,REP,KS,Open,Lost-General,6980.43,nan
+State Senator,Susan Myers,DEM,KS,Challenger,Lost-General,6664.32,7
+State Representative,Fred Pinaire,REP,KS,Challenger,Lost-General,6595.0,87
+State Representative,Virgil Horn Jr.,DEM,KS,Challenger,Lost-General,6081.08,11
+State Representative,Robert Brookens,REP,KS,Open,Won-General,6029.71,70
+State Representative,Jon Dunbar,DEM,KS,Challenger,Lost-General,5993.47,9
+State Representative,Jana Taylor Goodman,REP,KS,Challenger,Lost-General,5772.93,41
+State Representative,Kristi Boone,DEM,KS,Challenger,Lost-General,5289.35,49
+State Representative,Anita Hafner,DEM,KS,Challenger,Lost-General,5202.91,82
+State Senator,Patrick Wilbur,LIB,KS,Challenger,Lost-General,5084.65,3
+Board Of Education District 002,Steve Roberts,IND,KS,Open,Lost-General,5010.0,nan
+Board Of Education District 010,David Dennis,REP,KS,Open,Won-General,4683.42,nan
+State Representative,Chris Napolitano,DEM,KS,Challenger,Lost-General,4680.0,30
+State Representative,Timothy Moran,DEM,KS,Open,Lost-General,4444.0,42
+State Representative,Jeffrey Locke,REP,KS,Challenger,Lost-General,4258.28,2
+State Representative,James Woomack,REP,KS,Challenger,Lost-General,3899.96,92
+State Senator,Cynthia Nelson,DEM,KS,Challenger,Lost-General,3685.0,35
+State Representative,Jaque Davis,DEM,KS,Challenger,Lost-General,3579.14,90
+State Representative,Mike Laudick,DEM,KS,Challenger,Lost-General,3316.12,113
+State Representative,Claude Lee,DEM,KS,Challenger,Lost-General,2983.9,52
+State Representative,Max Smith,DEM,KS,Challenger,Lost-General,2597.08,74
+State Senator,Melissa Flower,DEM,KS,Challenger,Lost-General,2505.0,27
+State Representative,Thomas Price,REP,KS,Challenger,Lost-General,2345.0,3
+State Representative,Derik White,DEM,KS,Challenger,Lost-General,2126.69,105
+State Senator,Thomas Hochard,DEM,KS,Challenger,Lost-General,2000.0,21
+State Senator,David Miller,DEM,KS,Challenger,Lost-General,1898.42,14
+State Senator,Andrew Rickel,DEM,KS,Challenger,Lost-General,1885.75,12
+State Representative,Cheryl Reynolds,REP,KS,Open,Lost-General,1870.98,57
+State Representative,Beverly Lucas,DEM,KS,Challenger,Lost-General,1840.0,100
+State Senator,Robert Macfarland,DEM,KS,Challenger,Lost-General,1815.0,11
+State Representative,Cynthia Polsley,REP,KS,Challenger,Lost-General,1671.65,5
+State Representative,Sandra Frisco,DEM,KS,Challenger,Lost-General,1577.74,12
+State Representative,Robert Strevey,DEM,KS,Challenger,Lost-General,1516.8,120
+State Representative,Randy Conyers,DEM,KS,Challenger,Lost-General,1236.0,73
+State Representative,Aunesty Janssen,DEM,KS,Challenger,Lost-General,1200.0,14
+Board Of Education District 010,Paul Casanova,DEM,KS,Open,Lost-General,1025.0,nan
+State Senator,Hibbard Davis,DEM,KS,Challenger,Lost-General,795.0,25
+State Representative,Tyler Holmes,DEM,KS,Challenger,Lost-General,732.36,28
+State Senator,Bill Jackson,DEM,KS,Challenger,Lost-General,730.0,23
+State Representative,Jason Peck,LIB,KS,Challenger,Lost-General,675.0,24
+State Representative,Mike Trow,LIB,KS,Challenger,Lost-General,500.0,69
+State Representative,Benny Boman,REP,KS,Challenger,Lost-General,365.46,95
+State Representative,Scott Gregory,DEM,KS,Challenger,Lost-General,350.0,25
+State Representative,Robert McElwain,LIB,KS,Challenger,Lost-General,250.0,21
+State Representative,Gary Glauberman,DEM,KS,Challenger,Lost-General,100.0,20
+State Representative,Ed Coleman,DEM,KS,Challenger,Lost-General,86.26,17
+State Representative,Allan Abrams,DEM,KS,Challenger,Lost-General,0.0,21
+State Representative,Emanuel Banks,REP,KS,Challenger,Lost-General,0.0,88
+State Representative,David Cook,DEM,KS,Challenger,Lost-General,0.0,83
+State Representative,Mike Pener,DEM,KS,Challenger,Lost-General,0.0,29
+State Representative,Marilynn Powell,DEM,KS,Challenger,Lost-General,0.0,97
+State Senator,Gordon Bakken,LIB,KS,Challenger,Lost-General,0.0,30
+State Representative,Yvonne Marie Cunningham,LIB,KS,Challenger,Lost-General,0.0,26
+State Representative,Mark Darby,LIB,KS,Challenger,Lost-General,0.0,30
+State Representative,Bennie Lee Ferguson,LIB,KS,Challenger,Lost-General,0.0,104
+State Representative,Greggory Nicholas Hahn,LIB,KS,Open,Lost-General,0.0,22
+State Representative,Josiah Johnson,LIB,KS,Challenger,Lost-General,0.0,92
+State Representative,Michael Kerner,LIB,KS,Challenger,Lost-General,0.0,17
+State Senator,Lawrence Monaghan,LIB,KS,Open,Lost-General,0.0,13
+State Representative,James Pruden,LIB,KS,Challenger,Lost-General,0.0,86
+State Representative,Shirley Roy,LIB,KS,Challenger,Lost-General,0.0,2
+State Representative,Shawn Smith,LIB,KS,Challenger,Lost-General,0.0,83
+State Representative,William Stewart Starks,LIB,KS,Open,Lost-General,0.0,10
+State Representative,Sheri Stearns,LIB,KS,Challenger,Lost-General,0.0,43
+Appellate Court-Greene Seat,Richard Greene,IND,KS,Incumbent,Won-Retention,0.0,nan
+Appellate Court-Leben Seat,Steve Leben,IND,KS,Incumbent,Won-Retention,0.0,nan
+Appellate Court-Marquardt Seat,Christel Marquardt,IND,KS,Incumbent,Won-Retention,0.0,nan
+Appellate Court-Pierron Seat,Joseph Pierron Jr.,IND,KS,Incumbent,Won-Retention,0.0,nan
+Supreme Court-Johnson Seat,Lee Johnson,IND,KS,Incumbent,Won-Retention,0.0,nan
+Supreme Court-Rosen Seat,Eric Rosen,IND,KS,Incumbent,Won-Retention,0.0,nan

@@ -1,0 +1,560 @@
+office,candidate,party,state,incumbency,result,total money,district
+U.S. Senator,Kamala Harris,DEM,CA,Open,Won-General,14962913.9,nan
+U.S. Representative,Kevin McCarthy,REP,CA,Incumbent,Won-General,9732521.06,23
+U.S. Senator,Loretta Sanchez,DEM,CA,Open,Lost-General,5161939.76,nan
+U.S. Representative,Edward Royce Sr.,REP,CA,Incumbent,Won-General,4803283.1,39
+State Representative,Al Muratsuchi,DEM,CA,Challenger,Won-General,4730054.16,66
+State Representative,Sharon Darlene Quirk-Silva,DEM,CA,Challenger,Won-General,4342612.42,65
+U.S. Representative,Nancy Pelosi,DEM,CA,Incumbent,Won-General,4340286.51,12
+U.S. Representative,Ami Bera,DEM,CA,Incumbent,Won-General,4082220.98,7
+U.S. Representative,Rohit Khanna,DEM,CA,Challenger,Won-General,3704371.31,17
+State Senator,Anthony Portantino,DEM,CA,Open,Won-General,3592852.68,25
+U.S. Representative,Scott Peters,DEM,CA,Incumbent,Won-General,3505007.81,52
+State Representative,Catharine Baker,REP,CA,Incumbent,Won-General,3406760.11,16
+U.S. Representative,Jeff Denham,REP,CA,Incumbent,Won-General,3358742.26,10
+U.S. Representative,Julia Brownley,DEM,CA,Incumbent,Won-General,3300041.4,26
+State Senator,Ling Ling Chang,REP,CA,Open,Lost-General,3298818.06,29
+State Representative,Abigail Medina,DEM,CA,Challenger,Lost-General,3287083.93,40
+U.S. Representative,Raul Ruiz,DEM,CA,Incumbent,Won-General,3173470.35,36
+U.S. Representative,Michael Honda,DEM,CA,Incumbent,Lost-General,3145836.69,17
+U.S. Representative,Salud Carbajal,DEM,CA,Open,Won-General,3100411.8,24
+State Representative,Cheryl Cook-Kallio,DEM,CA,Challenger,Lost-General,3077632.51,16
+State Senator,Henry Stern,DEM,CA,Open,Won-General,3051374.46,27
+U.S. Representative,Pete Aguilar,DEM,CA,Incumbent,Won-General,2910371.65,31
+State Representative,Young Kim,REP,CA,Incumbent,Lost-General,2838258.03,65
+U.S. Representative,David Valadao,REP,CA,Incumbent,Won-General,2771368.42,21
+State Senator,Scott Wiener,DEM,CA,Open,Won-General,2764533.55,11
+State Senator,Josh Newman,DEM,CA,Open,Won-General,2764282.32,29
+State Representative,David Hadley,REP,CA,Incumbent,Lost-General,2739616.87,66
+State Representative,Dawn Ortiz-Legg,DEM,CA,Open,Lost-General,2723864.64,35
+U.S. Representative,Darrell Issa,REP,CA,Incumbent,Won-General,2720996.33,49
+State Representative,Anthony Rendon,DEM,CA,Incumbent,Won-General,2683112.56,63
+State Senator,Scott Wilk,REP,CA,Open,Won-General,2621885.33,21
+State Representative,Marc Steinorth,REP,CA,Incumbent,Won-General,2538268.59,40
+U.S. Representative,Devin Nunes,REP,CA,Incumbent,Won-General,2500036.48,22
+State Senator,Cathleen Galgiani,DEM,CA,Incumbent,Won-General,2359234.42,5
+State Senator,Toni Atkins,DEM,CA,Open,Won-General,2318409.98,39
+U.S. Representative,Justin Fareed,REP,CA,Open,Lost-General,2315881.24,24
+State Senator,Nancy Skinner,DEM,CA,Open,Won-General,2246265.31,9
+State Senator,James Beall Jr.,DEM,CA,Incumbent,Won-General,2147480.37,15
+State Senator,Ricardo Lara,DEM,CA,Incumbent,Won-General,2140684.07,33
+State Senator,Bill Dodd,DEM,CA,Open,Won-General,2086201.35,3
+State Senator,Johnathon Levar Ervin,DEM,CA,Open,Lost-General,2074237.44,21
+State Representative,Sabrina Cervantes,DEM,CA,Challenger,Won-General,2052403.48,60
+U.S. Representative,Doug Loren Applegate,DEM,CA,Challenger,Lost-General,2047737.28,49
+U.S. Representative,Ted Lieu,DEM,CA,Incumbent,Won-General,2033330.77,33
+U.S. Representative,Mike Thompson,DEM,CA,Incumbent,Won-General,2019448.33,5
+U.S. Representative,Mimi Walters,REP,CA,Incumbent,Won-General,1969709.64,45
+U.S. Representative,Eric Swalwell,DEM,CA,Incumbent,Won-General,1933768.69,15
+U.S. Representative,Nanette Diaz Barragan,DEM,CA,Open,Won-General,1895510.01,44
+State Representative,Rob Bonta,DEM,CA,Incumbent,Won-General,1883531.38,18
+U.S. Representative,Xavier Becerra,DEM,CA,Incumbent,Won-General,1878093.73,34
+State Senator,Michael Antonovich,REP,CA,Open,Lost-General,1824474.6,25
+State Representative,Christy Smith,DEM,CA,Open,Lost-General,1805305.48,38
+State Senator,Jane Kim,DEM,CA,Open,Lost-General,1762031.15,11
+U.S. Representative,Jim Costa,DEM,CA,Incumbent,Won-General,1741007.87,16
+U.S. Representative,Steve Knight,REP,CA,Incumbent,Won-General,1720630.73,25
+U.S. Representative,Tony Cardenas,DEM,CA,Incumbent,Won-General,1688829.35,29
+U.S. Representative,Bryan Caforio,DEM,CA,Challenger,Lost-General,1675667.5,25
+U.S. Representative,Michael Eggman,DEM,CA,Challenger,Lost-General,1590156.12,10
+U.S. Representative,Brad Sherman,DEM,CA,Incumbent,Won-General,1541976.11,30
+State Representative,Chad Mayes,REP,CA,Incumbent,Won-General,1519513.49,42
+State Senator,Steve Bradford,DEM,CA,Open,Won-General,1492280.61,35
+U.S. Representative,Zoe Lofgren,DEM,CA,Incumbent,Won-General,1478510.19,19
+U.S. Representative,Linda Sanchez,DEM,CA,Incumbent,Won-General,1475360.33,38
+U.S. Representative,Jimmy Panetta,DEM,CA,Open,Won-General,1464017.14,20
+U.S. Representative,Ken Calvert,REP,CA,Incumbent,Won-General,1443899.49,42
+State Representative,Matt Dababneh,DEM,CA,Incumbent,Won-General,1424030.15,45
+State Representative,Cheryl Brown,DEM,CA,Incumbent,Lost-General,1414348.88,47
+State Representative,Eric Linder,REP,CA,Incumbent,Lost-General,1411787.74,60
+State Senator,Richard Roth,DEM,CA,Incumbent,Won-General,1396574.61,31
+U.S. Representative,Isadore Hall III,DEM,CA,Open,Lost-General,1392316.94,44
+U.S. Representative,Denise Gitsham,REP,CA,Challenger,Lost-General,1387692.03,52
+State Representative,Jacqui Irwin,DEM,CA,Incumbent,Won-General,1373176.41,44
+State Representative,Jim Cooper,DEM,CA,Incumbent,Won-General,1365625.26,9
+U.S. Representative,Scott Jones,REP,CA,Challenger,Lost-General,1357147.83,7
+U.S. Representative,Anna Eshoo,DEM,CA,Incumbent,Won-General,1354586.49,18
+State Senator,Steve Fazio,REP,CA,Open,Lost-General,1348444.88,27
+U.S. Representative,Barbara Lee,DEM,CA,Incumbent,Won-General,1341209.59,13
+State Senator,Steven Glazer,DEM,CA,Incumbent,Won-General,1313853.66,7
+State Senator,Jerry Hill,DEM,CA,Incumbent,Won-General,1293628.08,13
+State Representative,Adam Gray,DEM,CA,Incumbent,Won-General,1277210.27,21
+State Representative,Miguel Santiago,DEM,CA,Incumbent,Won-General,1276034.69,53
+State Representative,Jordan Cunningham,REP,CA,Open,Won-General,1274258.91,35
+State Representative,Jimmy Gomez,DEM,CA,Incumbent,Won-General,1241582.24,51
+U.S. Representative,Jerry McNerney,DEM,CA,Incumbent,Won-General,1222565.06,9
+State Representative,Ian Calderon,DEM,CA,Incumbent,Won-General,1193264.21,57
+State Representative,Lorena Gonzalez Fletcher,DEM,CA,Incumbent,Won-General,1192875.33,80
+State Representative,Evan Low,DEM,CA,Incumbent,Won-General,1191159.55,28
+State Representative,Laura Friedman,DEM,CA,Open,Won-General,1176403.6,43
+State Representative,Phil Ting,DEM,CA,Incumbent,Won-General,1165253.89,19
+U.S. Representative,Judy Chu,DEM,CA,Incumbent,Won-General,1164381.02,27
+State Representative,Madison Nguyen,DEM,CA,Open,Lost-General,1160595.93,27
+State Representative,Tony Thurmond,DEM,CA,Incumbent,Won-General,1160523.03,15
+State Representative,Rudy Salas,DEM,CA,Incumbent,Won-General,1151121.78,32
+State Representative,Ardy Kassakhian,DEM,CA,Open,Lost-General,1147309.19,43
+U.S. Representative,John Garamendi,DEM,CA,Incumbent,Won-General,1139638.58,3
+State Representative,Raul Bocanegra,DEM,CA,Challenger,Won-General,1137155.09,39
+U.S. Representative,Duncan Hunter,REP,CA,Incumbent,Won-General,1136087.81,50
+State Representative,Ash Kalra,DEM,CA,Open,Won-General,1127774.33,27
+State Representative,Mike Anthony Gipson,DEM,CA,Incumbent,Won-General,1124515.02,64
+State Representative,Jim Frazier,DEM,CA,Incumbent,Won-General,1109807.39,11
+U.S. Representative,Doris Matsui,DEM,CA,Incumbent,Won-General,1102778.11,6
+U.S. Representative,Mark Takano,DEM,CA,Incumbent,Won-General,1064544.87,41
+State Representative,David Chiu,DEM,CA,Incumbent,Won-General,1052742.95,17
+U.S. Representative,Jared Huffman,DEM,CA,Incumbent,Won-General,1052537.04,2
+State Representative,Tom Daly,DEM,CA,Incumbent,Won-General,1051744.64,69
+State Senator,Bill Monning,DEM,CA,Incumbent,Won-General,1049913.77,17
+U.S. Representative,Tom McClintock,REP,CA,Incumbent,Won-General,1039094.98,4
+U.S. Representative,Adam Schiff,DEM,CA,Incumbent,Won-General,1035436.7,28
+State Representative,Jim Wood,DEM,CA,Incumbent,Won-General,992688.44,2
+State Representative,Autumn Burke,DEM,CA,Incumbent,Won-General,986824.94,62
+State Representative,Dante Acosta,REP,CA,Open,Won-General,985488.67,38
+State Representative,Frank Bigelow,REP,CA,Incumbent,Won-General,975751.58,5
+U.S. Representative,Lou Correa,DEM,CA,Open,Won-General,966988.87,46
+State Senator,Janice Kamenir-Reznik,DEM,CA,Open,Lost-Top Two Primary,966173.12,27
+State Representative,Cristina Garcia,DEM,CA,Incumbent,Won-General,953954.23,58
+State Senator,Hannah-Beth Jackson,DEM,CA,Incumbent,Won-General,952775.38,19
+U.S. Representative,Paul Cook,REP,CA,Incumbent,Won-General,943601.19,8
+State Representative,Marc Berman,DEM,CA,Open,Won-General,911293.34,24
+State Representative,Marc Levine,DEM,CA,Incumbent,Won-General,894377.2,10
+State Representative,Tom Lackey,REP,CA,Incumbent,Won-General,893415.14,36
+U.S. Representative,Juan Vargas,DEM,CA,Incumbent,Won-General,880657.43,51
+U.S. Representative,Dana Rohrabacher,REP,CA,Incumbent,Won-General,878959.65,48
+State Representative,Mae Cendana Torlakson,DEM,CA,Open,Lost-General,876425.1,14
+State Representative,Patrick Odonnell,DEM,CA,Incumbent,Won-General,869350.58,70
+U.S. Representative,Jackie Speier,DEM,CA,Incumbent,Won-General,867786.66,14
+State Representative,Kevin Mullin,DEM,CA,Incumbent,Won-General,856701.87,22
+State Representative,Chris Holden,DEM,CA,Incumbent,Won-General,825518.37,41
+State Representative,Joaquin Arambula,DEM,CA,Incumbent,Won-General,818425.86,31
+State Representative,Reggie Jones-Sawyer,DEM,CA,Incumbent,Won-General,802127.28,59
+U.S. Representative,H Katcho Achadjian,REP,CA,Open,Lost-Top Two Primary,796369.85,24
+State Senator,Ted Gaines,REP,CA,Incumbent,Won-General,793660.3,1
+U.S. Representative,Doug La Malfa,REP,CA,Incumbent,Won-General,786967.98,1
+State Representative,Adrin Nazarian,DEM,CA,Incumbent,Won-General,785797.36,46
+State Representative,Tim Grayson,DEM,CA,Open,Won-General,767819.05,14
+State Representative,Eloise Gomez Reyes,DEM,CA,Challenger,Won-General,766900.87,47
+U.S. Representative,Emilio Jesus Huerta,DEM,CA,Challenger,Lost-General,760264.56,21
+U.S. Representative,Alan Lowenthal,DEM,CA,Incumbent,Won-General,756453.83,47
+State Representative,Vince Fong,REP,CA,Open,Won-General,753921.23,34
+State Representative,James Gallagher,REP,CA,Incumbent,Won-General,753780.83,3
+State Representative,Todd Gloria,DEM,CA,Open,Won-General,750273.09,78
+State Representative,Vicki Veenker,DEM,CA,Open,Lost-General,744741.39,24
+State Representative,Brian Maienschein,REP,CA,Incumbent,Won-General,743608.98,77
+State Representative,Blanca Rubio,DEM,CA,Open,Won-General,740138.16,48
+State Representative,Sebastian Ridley-Thomas,DEM,CA,Incumbent,Won-General,731485.77,54
+State Representative,Susan Talamantes Eggman,DEM,CA,Incumbent,Won-General,727855.05,13
+U.S. Representative,Grace Flores Napolitano,DEM,CA,Incumbent,Won-General,724391.19,32
+State Senator,Michael Morrell,REP,CA,Incumbent,Won-General,714080.23,23
+State Representative,Freddie Rodriguez,DEM,CA,Incumbent,Won-General,702686.48,52
+State Representative,Jim Patterson,REP,CA,Incumbent,Won-General,696618.59,23
+State Representative,Bill Quirk,DEM,CA,Incumbent,Won-General,678604.22,20
+U.S. Representative,Sean Flynn,REP,CA,Challenger,Lost-Top Two Primary,677341.76,31
+State Senator,Warren Furutani,DEM,CA,Open,Lost-General,667902.95,35
+U.S. Representative,Lucille Roybal-Allard,DEM,CA,Incumbent,Won-General,660432.58,40
+State Representative,Ken Cooley,DEM,CA,Incumbent,Won-General,656566.46,8
+U.S. Representative,Maxine Waters,DEM,CA,Incumbent,Won-General,656053.76,43
+State Representative,Kevin McCarty,DEM,CA,Incumbent,Won-General,647185.06,7
+State Senator,Sandre Swanson,DEM,CA,Open,Lost-General,647009.08,9
+U.S. Senator,George Sundheim,REP,CA,Open,Lost-Top Two Primary,641862.41,nan
+State Representative,Anna Caballero,DEM,CA,Open,Won-General,639868.49,30
+State Representative,Eduardo Garcia,DEM,CA,Incumbent,Won-General,632021.93,56
+State Senator,Mariko Yamada,DEM,CA,Open,Lost-General,630391.22,3
+U.S. Representative,Karen Bass,DEM,CA,Incumbent,Won-General,629549.4,37
+U.S. Representative,Mark Desaulnier,DEM,CA,Incumbent,Won-General,627713.01,11
+U.S. Representative,Paul Chabot,REP,CA,Challenger,Lost-General,621343.69,31
+State Representative,Kevin Kiley,REP,CA,Open,Won-General,613560.69,6
+State Representative,Monique Limon,DEM,CA,Open,Won-General,611959.92,37
+U.S. Representative,Norma Torres,DEM,CA,Incumbent,Won-General,607173.16,35
+State Representative,Jose Medina,DEM,CA,Incumbent,Won-General,588354.48,61
+State Senator,Sukhee Kang,DEM,CA,Open,Lost-Top Two Primary,582362.76,29
+U.S. Representative,Johnny Tacherra,REP,CA,Challenger,Lost-General,578364.54,16
+State Representative,Brian Dahle,REP,CA,Incumbent,Won-General,576377.76,1
+State Representative,Richard Bloom,DEM,CA,Incumbent,Won-General,571760.5,50
+U.S. Representative,Helene Schneider,DEM,CA,Open,Lost-Top Two Primary,561038.1,24
+State Representative,Devon Mathis,REP,CA,Incumbent,Won-General,559209.92,26
+State Representative,Clint Olivier,REP,CA,Open,Lost-Top Two Primary,554287.48,31
+State Representative,Bryan Urias,DEM,CA,Open,Lost-Top Two Primary,554137.24,48
+State Representative,Shirley Weber,DEM,CA,Incumbent,Won-General,520329.48,79
+State Representative,William Brough,REP,CA,Incumbent,Won-General,517123.9,73
+State Representative,Cecilia Aguiar-Curry,DEM,CA,Open,Won-General,512975.96,4
+State Representative,Travis Allen,REP,CA,Incumbent,Won-General,504845.93,72
+State Representative,Phillip Chen,REP,CA,Open,Won-General,501506.87,55
+U.S. Representative,Susan Davis,DEM,CA,Incumbent,Won-General,490142.85,53
+State Representative,Karina Cervantez-Alejo,DEM,CA,Open,Lost-General,469038.35,30
+State Senator,John W Moorlach,REP,CA,Incumbent,Won-General,459911.81,37
+State Representative,Edwin Chau,DEM,CA,Incumbent,Won-General,446491.0,49
+State Representative,Steven Choi,REP,CA,Open,Won-General,440961.43,68
+State Representative,Ken Vogel,REP,CA,Open,Lost-General,429495.28,12
+State Senator,Shawn Bayliss,DEM,CA,Open,Lost-Top Two Primary,421744.5,27
+State Representative,Barry Chang,DEM,CA,Open,Lost-Top Two Primary,421675.13,24
+U.S. Representative,Casey Lucius,REP,CA,Open,Lost-General,420369.55,20
+State Representative,Jay Obernolte,REP,CA,Incumbent,Won-General,409539.08,33
+U.S. Representative,Joe Dunn,DEM,CA,Open,Lost-Top Two Primary,404383.55,46
+U.S. Senator,Thomas Del Becaro,REP,CA,Open,Lost-Top Two Primary,402183.43,nan
+State Representative,Kansen Chu,DEM,CA,Incumbent,Won-General,393265.72,25
+U.S. Representative,Eugene Cleek,REP,CA,Challenger,Lost-General,388519.17,3
+State Representative,Andrew Pugno,REP,CA,Open,Lost-Top Two Primary,373219.61,6
+State Representative,Marie Waldron,REP,CA,Incumbent,Won-General,363460.67,75
+State Representative,Harry Sidhu,REP,CA,Open,Lost-Top Two Primary,363330.26,68
+State Representative,Melissa Melendez,REP,CA,Incumbent,Won-General,362264.26,67
+U.S. Representative,Jeff Stone,REP,CA,Challenger,Lost-General,360728.32,36
+State Representative,Cristi Nelson,REP,CA,Open,Lost-Top Two Primary,360696.19,6
+State Representative,Mark Stone,DEM,CA,Incumbent,Won-General,360391.74,29
+State Representative,William Halldin,REP,CA,Open,Lost-Top Two Primary,359511.78,6
+State Senator,Katherine Grace Welch,DEM,CA,Open,Lost-Top Two Primary,325601.39,9
+State Representative,Rajiv Dalal,DEM,CA,Open,Lost-Top Two Primary,318725.0,43
+State Representative,Don Saylor,DEM,CA,Open,Lost-Top Two Primary,306071.29,4
+State Representative,Heath Flora,REP,CA,Open,Won-General,302972.32,12
+State Senator,Gabe Griess,DEM,CA,Open,Lost-Top Two Primary,300095.05,3
+State Representative,Randy Voepel,REP,CA,Open,Won-General,278941.49,71
+U.S. Representative,Bao Nguyen,DEM,CA,Open,Lost-General,265159.44,46
+U.S. Representative,Doug Shepherd,REP,CA,Challenger,Lost-General,262555.04,41
+State Representative,Matthew Harper,REP,CA,Incumbent,Won-General,235194.18,74
+State Senator,Phlunte Riddle,DEM,CA,Open,Lost-Top Two Primary,232213.08,25
+U.S. Representative,David Rogers,REP,CA,Challenger,Lost-Top Two Primary,227592.54,16
+State Senator,Katherine Perez-Estolano,DEM,CA,Open,Lost-Top Two Primary,227036.43,25
+State Representative,Greg Rodriguez,DEM,CA,Challenger,Lost-General,222801.57,42
+State Representative,Andrew Blumenfeld,DEM,CA,Open,Lost-Top Two Primary,213019.45,43
+State Representative,Kevin Hanley,REP,CA,Open,Lost-Top Two Primary,195623.38,6
+State Senator,David Pollock,DEM,CA,Open,Lost-Top Two Primary,194092.43,27
+State Senator,Isaac Galvan,DEM,CA,Open,Lost-Top Two Primary,187096.15,35
+State Senator,Alan Nakanishi,REP,CA,Challenger,Lost-General,186378.84,5
+State Representative,Cory Ellenson,REP,CA,Open,Lost-General,186040.16,48
+U.S. Representative,Rafael Alberto Dagnesses,REP,CA,Challenger,Lost-General,182643.0,26
+U.S. Representative,Jack Orswell,REP,CA,Challenger,Lost-General,180893.01,27
+U.S. Representative,Joe Montes,REP,CA,Challenger,Lost-Top Two Primary,175979.67,1
+U.S. Representative,Jacquie Atkinson,REP,CA,Challenger,Lost-Top Two Primary,167707.97,52
+State Senator,Nora Campos,DEM,CA,Challenger,Lost-General,154968.93,15
+State Representative,Darren Parker,DEM,CA,Challenger,Lost-Top Two Primary,153049.21,36
+State Representative,Steve Fox,DEM,CA,Challenger,Lost-General,152927.0,36
+State Representative,Virginia Madueno,DEM,CA,Open,Lost-Top Two Primary,145338.76,12
+State Representative,Rita Topalian,REP,CA,Challenger,Lost-General,143341.95,57
+State Representative,Patty Lopez,DEM,CA,Incumbent,Lost-General,143117.95,39
+State Representative,Mike Kasperzak,DEM,CA,Open,Lost-Top Two Primary,140457.72,24
+U.S. Representative,Tim Sheridan,DEM,CA,Challenger,Lost-General,137588.17,42
+U.S. Representative,Aejaz Rab,DEM,CA,Challenger,Lost-Top Two Primary,137001.0,30
+U.S. Representative,James Edward Reed,DEM,CA,Challenger,Lost-General,134958.68,1
+U.S. Representative,James Veltmeyer,REP,CA,Challenger,Lost-General,120886.0,53
+U.S. Representative,Greg Raths,REP,CA,Challenger,Lost-Top Two Primary,120336.73,45
+U.S. Representative,Roger Hernandez,DEM,CA,Challenger,Lost-General,115064.23,32
+State Representative,Hector Diaz,REP,CA,Challenger,Lost-General,111483.8,61
+U.S. Representative,Suzanne Savary,DEM,CA,Challenger,Lost-General,109746.88,48
+U.S. Representative,Tim Donnelly,REP,CA,Challenger,Lost-Top Two Primary,101590.25,8
+State Representative,Cong Thanh Do,DEM,CA,Open,Lost-Top Two Primary,101202.14,27
+U.S. Representative,Lou Vince,DEM,CA,Challenger,Lost-Top Two Primary,93555.15,25
+State Representative,Steven Tye,REP,CA,Open,Lost-Top Two Primary,93505.73,55
+State Representative,Van Le,REP,CA,Open,Lost-Top Two Primary,92845.51,27
+U.S. Representative,Robert Derlet,DEM,CA,Challenger,Lost-General,92767.05,4
+State Senator,John Renison,REP,CA,Open,Lost-General,82982.84,39
+State Representative,Rudy Mendoza,REP,CA,Challenger,Lost-Top Two Primary,82750.0,26
+U.S. Representative,Lynn Schott,REP,CA,Open,Lost-Top Two Primary,80313.5,46
+U.S. Representative,Kathryn Nance,REP,CA,Challenger,Lost-Top Two Primary,79701.01,9
+U.S. Representative,Brett Murdock,DEM,CA,Challenger,Lost-General,78882.92,39
+State Representative,Harinder Grewal,DEM,CA,Open,Lost-Top Two Primary,78093.13,12
+U.S. Representative,Matt Kokkonen,REP,CA,Open,Lost-Top Two Primary,76188.64,24
+U.S. Representative,William Ostrander,DEM,CA,Open,Lost-Top Two Primary,75698.34,24
+U.S. Representative,Daniel Parra,DEM,CA,Challenger,Lost-Top Two Primary,75143.07,21
+U.S. Representative,Juan Hidalgo Jr.,REP,CA,Challenger,Lost-General,74795.74,51
+U.S. Representative,Antonio Amador,REP,CA,Challenger,Lost-General,73291.45,9
+U.S. Representative,Marcus Musante,DEM,CA,Open,Lost-Top Two Primary,72651.38,44
+U.S. Representative,Kenneth Wright,REP,CA,Challenger,Lost-General,71927.0,33
+U.S. Representative,Andy Whallon,REP,CA,Challenger,Lost-General,69863.0,47
+U.S. Representative,Richard Alarcon,DEM,CA,Challenger,Lost-General,69668.45,29
+State Representative,Jarrod Degonia,REP,CA,Open,Lost-Top Two Primary,69393.74,38
+U.S. Senator,Ron Unz,REP,CA,Open,Lost-Top Two Primary,68820.0,nan
+U.S. Representative,Randy Fox,REP,CA,Challenger,Lost-Top Two Primary,67065.0,41
+State Representative,Esau Herrera,DEM,CA,Open,Lost-Top Two Primary,63204.0,27
+State Representative,Andrew Masiel Sr.,DEM,CA,Challenger,Lost-General,62220.93,75
+State Representative,Ray Marquez,REP,CA,Open,Lost-Top Two Primary,61326.77,55
+State Representative,Charlie Schaupp,REP,CA,Open,Lost-General,61315.25,4
+State Representative,Angela Rupert,DEM,CA,Challenger,Lost-General,61031.0,46
+State Representative,Sean Jay Panahi,DEM,CA,Open,Lost-General,60876.06,68
+State Senator,Chris Chahinian,DEM,CA,Open,Lost-Top Two Primary,59262.19,25
+U.S. Representative,Erin Schrode,DEM,CA,Challenger,Lost-Top Two Primary,58283.5,2
+State Senator,Ari Grayson,DEM,CA,Challenger,Lost-General,57176.8,37
+U.S. Representative,Kerri Condley,NO PARTY PREFERENCE,CA,Challenger,Lost-Top Two Primary,56733.19,42
+State Representative,Mike Spence,REP,CA,Open,Lost-Top Two Primary,54342.55,55
+State Representative,Tyler Izen,REP,CA,Open,Lost-Top Two Primary,54325.0,38
+State Representative,Edward Ritchie,DEM,CA,Challenger,Lost-General,53843.08,3
+State Representative,Gwen Morris,REP,CA,Challenger,Lost-General,53624.77,23
+U.S. Senator,Greg Conlon,REP,CA,Open,Lost-Top Two Primary,51675.71,nan
+State Representative,Darcie Green,DEM,CA,Open,Lost-Top Two Primary,48846.83,27
+U.S. Representative,Joe Baca Jr.,REP,CA,Challenger,Lost-Top Two Primary,48113.79,31
+State Representative,Cindy Marks,REP,CA,Open,Lost-Top Two Primary,47785.59,12
+State Representative,Deborah Pauly,REP,CA,Open,Lost-Top Two Primary,47091.87,68
+State Representative,Alexia Deligianni-Brydges,REP,CA,Open,Lost-Top Two Primary,45597.76,68
+U.S. Representative,Michael Barkley,DEM,CA,Challenger,Lost-Top Two Primary,45478.62,10
+U.S. Representative,Joseph Shammas,DEM,CA,Challenger,Lost-Top Two Primary,43498.27,29
+State Representative,Mark Maccarley,REP,CA,Open,Lost-Top Two Primary,42854.41,43
+U.S. Representative,Kenneth Mettler,REP,CA,Challenger,Lost-Top Two Primary,40965.12,23
+State Senator,Palmer Kain,REP,CA,Challenger,Lost-General,39602.88,17
+U.S. Representative,Max Gouron,DEM,CA,Challenger,Lost-Top Two Primary,38900.0,45
+State Representative,Ken Park,DEM,CA,Challenger,Lost-Top Two Primary,38214.84,60
+State Representative,Debora Allen,REP,CA,Open,Lost-Top Two Primary,37580.8,14
+U.S. Representative,Rita Ramirez,DEM,CA,Challenger,Lost-General,35743.12,8
+State Representative,Suzanne Jones,REP,CA,Open,Lost-Top Two Primary,35254.0,6
+U.S. Representative,Jim Ash,REP,CA,Challenger,Lost-Top Two Primary,35117.51,53
+U.S. Representative,Wendy Reed,DEM,CA,Challenger,Lost-General,35034.75,23
+State Representative,Brian Caples,DEM,CA,Open,Lost-General,33524.57,6
+State Representative,Peter Ohtaki,REP,CA,Open,Lost-Top Two Primary,31785.2,24
+U.S. Representative,Bob Peterson,REP,CA,Open,Lost-Top Two Primary,30918.0,46
+State Representative,Andres Quintero,DEM,CA,Open,Lost-Top Two Primary,29634.79,27
+U.S. Representative,Preston Picus,NO PARTY PREFERENCE,CA,Challenger,Lost-General,28263.57,12
+U.S. Representative,Patrick Malloy,DEM,CA,Challenger,Lost-General,27016.29,50
+State Representative,Nick Bloise,REP,CA,Challenger,Lost-General,26776.5,8
+State Representative,Joel Fajardo,DEM,CA,Challenger,Lost-Top Two Primary,26453.15,39
+State Representative,Joanne Fernandez,DEM,CA,Challenger,Lost-Top Two Primary,26432.43,39
+U.S. Representative,Carlos Sanchez,REP,CA,Challenger,Lost-Top Two Primary,26124.0,51
+U.S. Senator,Tom Palzer,REP,CA,Open,Lost-Top Two Primary,24168.72,nan
+U.S. Senator,Phillip Wyman,REP,CA,Open,Lost-Top Two Primary,23900.0,nan
+State Representative,Sandra Mendoza,DEM,CA,Challenger,Lost-General,23763.54,53
+State Representative,Robert Carabas,DEM,CA,Challenger,Lost-General,23628.84,5
+State Representative,Casey Higgins,REP,CA,Challenger,Lost-General,23208.62,41
+State Representative,Dennis Bullock,DEM,CA,Open,Lost-Top Two Primary,22491.67,43
+State Senator,Rich Kinney,REP,CA,Open,Lost-Top Two Primary,21942.78,9
+State Senator,Greg Coppes,REP,CA,Open,Lost-Top Two Primary,21111.9,3
+State Representative,Brian Chuchua,NO PARTY PREFERENCE,CA,Open,Lost-Top Two Primary,20850.98,68
+State Representative,Peter Amundson,REP,CA,Challenger,Lost-General,20612.0,49
+State Representative,Peter Scott Markovich,DEM,CA,Challenger,Lost-General,20479.82,33
+State Representative,Mark Belden,NO PARTY PREFERENCE,CA,Challenger,Lost-Top Two Primary,20047.94,5
+State Representative,Kostas Roditis,REP,CA,Open,Lost-Top Two Primary,19457.04,68
+State Representative,Veronica Jacobi,DEM,CA,Challenger,Lost-General,19131.0,10
+State Representative,Harmesh Kumara,DEM,CA,Open,Lost-Top Two Primary,18716.0,14
+State Representative,Doug Kriegel,DEM,CA,Challenger,Lost-Top Two Primary,17938.25,45
+State Representative,Jorge Lopez,DEM,CA,Challenger,Lost-General,17865.99,67
+State Representative,Luis Wong,REP,CA,Challenger,Lost-General,17588.85,20
+State Representative,Kevin Lincoln II,REP,CA,Challenger,Lost-General,17118.0,13
+State Senator,Rob Rowen,DEM,CA,Challenger,Lost-General,17080.09,1
+U.S. Representative,Kenneth Canada,REP,CA,Challenger,Lost-Top Two Primary,17000.0,52
+State Senator,Steven Baird,REP,CA,Challenger,Lost-Top Two Primary,16685.71,1
+State Representative,Georgia Acosta,REP,CA,Open,Lost-Top Two Primary,16303.2,30
+U.S. Representative,Benny Bernal,DEM,CA,Challenger,Lost-Top Two Primary,15602.48,29
+State Representative,Jeff Hewitt,LIB,CA,Challenger,Lost-Top Two Primary,15361.0,42
+U.S. Representative,John Horst,REP,CA,Challenger,Lost-Top Two Primary,14600.0,52
+State Representative,Tim Gorsulowsky,REP,CA,Challenger,Lost-General,14482.62,9
+State Representative,Melinda Vasquez,DEM,CA,Challenger,Lost-General,14060.07,77
+State Senator,Richard Fago,REP,CA,Open,Lost-Top Two Primary,13891.0,39
+State Senator,Teddy Choi,DEM,CA,Open,Lost-Top Two Primary,13830.74,25
+State Senator,Honor Mimi Robson,LIBERTARIAN WRITEIN,CA,Challenger,Lost-General,13800.11,33
+State Representative,Thomas Krouse,REP,CA,Challenger,Lost-General,13278.0,76
+State Representative,Ryan Brown,REP,CA,Challenger,Lost-General,13099.07,7
+U.S. Representative,Peter Kuo,REP,CA,Challenger,Lost-Top Two Primary,12332.23,17
+State Senator,Richard Reed,REP,CA,Challenger,Lost-General,12292.71,31
+State Representative,Art Kiesel,REP,CA,Challenger,Lost-General,11953.71,22
+State Senator,Ken Loo,REP,CA,Open,Lost-Top Two Primary,11747.86,11
+State Senator,Chuck Page,REP,CA,Challenger,Lost-Top Two Primary,11655.6,15
+State Representative,John Inks,LIB,CA,Open,Lost-Top Two Primary,11303.09,24
+State Representative,Gregg Fritchle,DEM,CA,Open,Lost-General,11216.76,55
+State Representative,Tony Teora,REP,CA,Open,Lost-Top Two Primary,11197.95,71
+State Representative,Edward Fuller,NO PARTY PREFERENCE,CA,Open,Lost-General,11178.37,37
+U.S. Senator,Massie Munroe,DEM,CA,Open,Lost-Top Two Primary,11003.48,nan
+State Senator,Joseph Alexander Rubay,REP,CA,Challenger,Lost-General,10686.05,7
+U.S. Representative,Nils Palsson,DEM,CA,Challenger,Lost-Top Two Primary,10240.59,5
+U.S. Representative,Terry Reagan Allvord,REP,CA,Challenger,Lost-Top Two Primary,10161.36,52
+State Senator,Guy Moore,DEM,CA,Challenger,Lost-Top Two Primary,9996.9,7
+State Representative,Bob Brunton,REP,CA,Challenger,Lost-General,9602.51,25
+U.S. Representative,Ryan Detert,REP,CA,Challenger,Lost-Top Two Primary,9445.92,3
+U.S. Representative,Christopher Castillo,REP,CA,Open,Lost-Top Two Primary,8840.0,44
+State Representative,Roseann Slonsky-Breault,REP,CA,Challenger,Lost-General,8738.95,18
+U.S. Senator,Steve Stokes,DEM,CA,Open,Lost-Top Two Primary,8674.92,nan
+State Representative,Baron Bruno,LIB,CA,Challenger,Lost-General,8508.57,62
+U.S. Representative,Juan Mercado-Flores,DEM,CA,Challenger,Lost-Top Two Primary,8100.0,51
+State Representative,Lenore Albert-Sheridan,DEM,CA,Challenger,Lost-General,7806.01,72
+State Representative,Ofelia Velarde-Garcia,REP,CA,Challenger,Lost-General,7669.0,69
+U.S. Representative,Barry Hermanson,GRN,CA,Challenger,Lost-Top Two Primary,7430.36,12
+State Representative,Theresa Sanford,REP,CA,Challenger,Lost-General,7221.43,64
+State Representative,Rocky Chavez,REP,CA,Incumbent,Won-General,7200.0,76
+U.S. Representative,Roger Allen Petersen,REP,CA,Challenger,Lost-General,7046.88,11
+U.S. Representative,John Pinkerton,DEM,CA,Challenger,Lost-Top Two Primary,6954.18,8
+U.S. Representative,Steve Isakson,NO PARTY PREFERENCE,CA,Open,Lost-Top Two Primary,6755.22,24
+State Representative,Matthew Gene Craffey,REP,CA,Challenger,Lost-General,6575.04,50
+State Representative,Kerry Nelson,REP,CA,Challenger,Lost-General,6390.0,44
+State Representative,Carlos Taylor,REP,CA,Challenger,Lost-General,6375.0,19
+State Representative,Nicholas Sclavos,REP,CA,Challenger,Lost-General,6316.13,28
+State Senator,Anthony Macias,REP,CA,Challenger,Lost-Top Two Primary,6201.3,15
+State Representative,Ollie McCaulley,DEM,CA,Challenger,Lost-Top Two Primary,6054.11,36
+U.S. Representative,David Guzman,DEM,CA,Challenger,Lost-Top Two Primary,5957.0,29
+State Representative,Martha Flores-Gibson,REP,CA,Challenger,Lost-General,5687.0,70
+U.S. Representative,Louie Campos,DEM,CA,Challenger,Lost-General,5638.6,22
+U.S. Senator,Mike Beitiks,NO PARTY PREFERENCE,CA,Open,Lost-Top Two Primary,5634.54,nan
+U.S. Representative,Bob Miller,REP,CA,Challenger,Lost-Top Two Primary,5622.38,12
+State Representative,Gabriel Hydrick,REP,CA,Open,Lost-Top Two Primary,5552.31,6
+U.S. Representative,Burt Lancaster,REP,CA,Challenger,Lost-General,5500.0,19
+State Representative,Kevin Melton,REP,CA,Open,Lost-General,5344.0,78
+State Representative,Kevin Jang,DEM,CA,Challenger,Lost-Top Two Primary,5200.0,53
+State Senator,Steve Hill,DEM,CA,Open,Lost-Top Two Primary,5093.6,21
+State Representative,Janine Kloss,LIBERTARIAN WRITEIN,CA,Challenger,Lost-Top Two Primary,4540.0,7
+U.S. Representative,Sue Caro,REP,CA,Challenger,Lost-General,4521.0,13
+State Representative,Sierra Roberts,REP,CA,Challenger,Lost-General,4399.0,29
+State Representative,Matthew Del Carlo,REP,CA,Challenger,Lost-General,4238.15,17
+U.S. Representative,Angel Cardenas,REP,CA,Challenger,Lost-General,4105.06,14
+U.S. Senator,Clive Grey,NO PARTY PREFERENCE,CA,Open,Lost-Top Two Primary,4100.0,nan
+State Representative,Greg Opinski,REP,CA,Challenger,Lost-General,4099.0,21
+U.S. Representative,Ron Cohen,REP,CA,Challenger,Lost-Top Two Primary,4094.4,17
+State Representative,Michael Garcia Biglay,REP,CA,Open,Lost-Top Two Primary,4045.0,34
+State Representative,Leo Hamel,REP,CA,Open,Lost-General,4025.0,71
+State Representative,John Moore,REP,CA,Challenger,Lost-General,3937.0,79
+State Representative,Mike Madrigal,DEM,CA,Challenger,Lost-Top Two Primary,3931.55,66
+U.S. Representative,Tyler Fischella,REP,CA,Challenger,Lost-General,3747.65,35
+State Representative,Jerry Kowal,REP,CA,Challenger,Lost-General,3736.26,45
+State Representative,Gregory Allen,REP,CA,Challenger,Lost-Top Two Primary,3700.27,10
+State Senator,Samuel Anderson,REP,CA,Challenger,Lost-Top Two Primary,3590.0,5
+U.S. Representative,Dale Mensing,REP,CA,Challenger,Lost-General,3464.31,2
+State Senator,Bribiesca,REP,CA,Open,Lost-Top Two Primary,3397.84,39
+State Senator,Colin Patrick Walch,REP,CA,Challenger,Lost-General,3298.82,19
+State Senator,George Christopher Thomas,DEM,CA,Open,Lost-Top Two Primary,3248.13,27
+State Representative,Perrin Swanlund,DEM,CA,Open,Lost-General,3228.09,34
+State Representative,Claire Chiara,REP,CA,Challenger,Lost-General,3205.91,15
+U.S. Representative,Pierluigi Oliverio,DEM,CA,Challenger,Lost-Top Two Primary,3052.0,17
+U.S. Representative,Robert Evans,REP,CA,Challenger,Lost-General,2905.0,6
+U.S. Representative,Omar Navarro,REP,CA,Challenger,Lost-General,2846.0,43
+U.S. Representative,Carlos Santamaria,REP,CA,Challenger,Lost-General,2700.0,5
+State Representative,Ted Miller,REP,CA,Challenger,Lost-Top Two Primary,2700.0,31
+State Senator,Rick Ciardella,REP,CA,Challenger,Lost-General,2530.8,13
+State Senator,Ronald Odonnell,DEM,CA,Challenger,Lost-General,2495.0,23
+State Representative,Adam Miller,REP,CA,Challenger,Lost-General,2311.13,63
+State Representative,Ruben Macareno,DEM,CA,Challenger,Lost-General,2292.43,26
+U.S. Representative,Shariff Hasas,REP,CA,Challenger,Lost-Top Two Primary,2250.0,37
+State Representative,John Nevill,REP,CA,Open,Lost-Top Two Primary,2055.0,30
+State Representative,Lincoln Pickard,REP,CA,Challenger,Lost-General,1790.0,80
+State Senator,Charlotte Svolos,REP,CA,Open,Lost-Top Two Primary,1500.0,35
+State Representative,Dave Miller,REP,CA,Challenger,Lost-General,941.0,11
+State Representative,Kai Ellsworth,DEM,CA,Challenger,Lost-Top Two Primary,940.0,5
+U.S. Senator,Karen Roseberry,REP,CA,Open,Lost-Top Two Primary,910.0,nan
+State Representative,Ramiro Alvarado,REP,CA,Challenger,Lost-General,659.9,58
+U.S. Representative,Danny Turner,REP,CA,Challenger,Lost-General,632.75,15
+U.S. Senator,Gar Myers,NO PARTY PREFERENCE,CA,Open,Lost-Top Two Primary,600.0,nan
+State Representative,Manuel Ramirez,REP,CA,Challenger,Lost-General,525.0,32
+State Representative,Louis Marinelli III,NO PARTY PREFERENCE,CA,Challenger,Lost-Top Two Primary,362.19,80
+U.S. Senator,Emory Rodgers,DEM,CA,Open,Lost-Top Two Primary,85.0,nan
+U.S. Representative,Adrienne Nicole Edwards,DEM,CA,Challenger,Lost-General,20.0,34
+State Representative,Mark Gilham,REP,CA,Challenger,Lost-Top Two Primary,9.0,22
+U.S. Senator,Scott Vineberg,NO PARTY PREFERENCE,CA,Open,Lost-Top Two Primary,0.0,nan
+U.S. Representative,Richard Fox,REP,CA,Challenger,Lost-General,-762.75,18
+U.S. Representative,Ron Varasteh,DEM,CA,Challenger,Lost-General,-34696.51,45
+U.S. Senator,Von Hougo,REP,CA,Open,Lost-Top Two Primary,0.0,nan
+U.S. Senator,Don Krampe,REP,CA,Open,Lost-Top Two Primary,0.0,nan
+U.S. Senator,Jerry Laws,REP,CA,Open,Lost-Top Two Primary,0.0,nan
+U.S. Senator,Jarrell Williamson,REP,CA,Open,Lost-Top Two Primary,0.0,nan
+U.S. Senator,George Yang,REP,CA,Open,Lost-Top Two Primary,0.0,nan
+U.S. Senator,Pamela Elizondo,GRN,CA,Open,Lost-Top Two Primary,0.0,nan
+U.S. Senator,Mark Matthew Herd,LIB,CA,Open,Lost-Top Two Primary,0.0,nan
+U.S. Senator,Gail Lightfoot,LIB,CA,Open,Lost-Top Two Primary,0.0,nan
+U.S. Senator,John Thompson Parker,PEACE & FREEDOM,CA,Open,Lost-Top Two Primary,0.0,nan
+U.S. Senator,Eleanor Garcia,NO PARTY PREFERENCE,CA,Open,Lost-Top Two Primary,0.0,nan
+U.S. Senator,Tim Gildersleeve,NO PARTY PREFERENCE,CA,Open,Lost-Top Two Primary,0.0,nan
+U.S. Senator,Don Grundmann,NO PARTY PREFERENCE,CA,Open,Lost-Top Two Primary,0.0,nan
+U.S. Senator,Jason Hanania,NO PARTY PREFERENCE,CA,Open,Lost-Top Two Primary,0.0,nan
+U.S. Senator,Jason Kraus,NO PARTY PREFERENCE,CA,Open,Lost-Top Two Primary,0.0,nan
+U.S. Senator,Paul Merritt,NO PARTY PREFERENCE,CA,Open,Lost-Top Two Primary,0.0,nan
+U.S. Senator,Ling Ling Shi,NO PARTY PREFERENCE,CA,Open,Lost-Top Two Primary,0.0,nan
+U.S. Representative,David Peterson,DEM,CA,Challenger,Lost-Top Two Primary,0.0,1
+U.S. Representative,Gregory Cheadle,REP,CA,Challenger,Lost-Top Two Primary,0.0,1
+U.S. Representative,Gary Allen Oxley,REP,CA,Challenger,Lost-Top Two Primary,0.0,1
+U.S. Representative,Jeff Gerlach,NO PARTY PREFERENCE,CA,Challenger,Lost-Top Two Primary,0.0,1
+U.S. Representative,Matthew Robert Wookey,NO PARTY PREFERENCE,CA,Challenger,Lost-Top Two Primary,0.0,2
+U.S. Representative,Sean White,DEM,CA,Challenger,Lost-Top Two Primary,0.0,4
+U.S. Representative,Alex Poling,DEM,CA,Challenger,Lost-Top Two Primary,0.0,5
+U.S. Representative,Jefferson Jr.mar,DEM,CA,Challenger,Lost-Top Two Primary,0.0,6
+U.S. Representative,Mario Galvan,NO PARTY PREFERENCE,CA,Challenger,Lost-Top Two Primary,0.0,6
+U.S. Representative,Yuriy Seretskiy,NO PARTY PREFERENCE,CA,Challenger,Lost-Top Two Primary,0.0,6
+U.S. Representative,Roger La Plante,DEM,CA,Challenger,Lost-Top Two Primary,0.0,8
+U.S. Representative,Alex Appleby,LIB,CA,Challenger,Lost-Top Two Primary,0.0,9
+U.S. Representative,Robert Hodges,REP,CA,Challenger,Lost-Top Two Primary,0.0,10
+U.S. Representative,Kennita Watson,LIB,CA,Challenger,Lost-Top Two Primary,0.0,17
+U.S. Representative,Bob Harlow,DEM,CA,Challenger,Lost-Top Two Primary,0.0,18
+U.S. Representative,Joe Williams,PEACE & FREEDOM,CA,Open,Lost-Top Two Primary,0.0,20
+U.S. Representative,Jack Digby,NO PARTY PREFERENCE,CA,Open,Lost-Top Two Primary,0.0,20
+U.S. Representative,Barbara Honegger,NO PARTY PREFERENCE,CA,Open,Lost-Top Two Primary,0.0,20
+U.S. Representative,Teresita Andres,REP,CA,Challenger,Lost-Top Two Primary,0.0,22
+U.S. Representative,Gerald Morris,REP,CA,Challenger,Lost-Top Two Primary,0.0,23
+U.S. Representative,Benjamin Lucas,DEM,CA,Open,Lost-Top Two Primary,0.0,24
+U.S. Representative,John Uebersax,NO PARTY PREFERENCE,CA,Open,Lost-Top Two Primary,0.0,24
+U.S. Representative,Jeffrey Moffatt,REP,CA,Challenger,Lost-Top Two Primary,0.0,25
+U.S. Representative,Tim Sweeney,NO PARTY PREFERENCE,CA,Challenger,Lost-Top Two Primary,0.0,27
+U.S. Representative,Sal Genovese,DEM,CA,Challenger,Lost-Top Two Primary,0.0,28
+U.S. Representative,Lenore Solis,REP,CA,Challenger,Lost-General,0.0,28
+U.S. Representative,Luke Davis,DEM,CA,Challenger,Lost-Top Two Primary,0.0,30
+U.S. Representative,Patrea Patrick,DEM,CA,Challenger,Lost-Top Two Primary,0.0,30
+U.S. Representative,Mark Reed,REP,CA,Challenger,Lost-General,0.0,30
+U.S. Representative,Navraj Singh,REP,CA,Challenger,Lost-Top Two Primary,0.0,30
+U.S. Representative,Christopher David Townsend,REP,CA,Challenger,Lost-Top Two Primary,0.0,30
+U.S. Representative,Kaisar Ahmed,DEM,CA,Challenger,Lost-Top Two Primary,0.0,31
+U.S. Representative,Gordon Fisher,REP,CA,Challenger,Lost-Top Two Primary,0.0,32
+U.S. Representative,Stephan Wolkowicz,REP,CA,Challenger,Lost-Top Two Primary,0.0,36
+U.S. Representative,Chris Blake Wiggins,DEM,CA,Challenger,Lost-General,0.0,37
+U.S. Representative,Ryan Downing,REP,CA,Challenger,Lost-General,0.0,38
+U.S. Representative,Scott Michael Adams,NO PARTY PREFERENCE,CA,Challenger,Lost-Top Two Primary,0.0,38
+U.S. Representative,Roman Gabriel Gonzalez,NO PARTY PREFERENCE,CA,Challenger,Lost-General,0.0,40
+U.S. Representative,Cody Ryan,REP,CA,Challenger,Lost-Top Two Primary,0.0,41
+U.S. Representative,Martha Delgadillo,DEM,CA,Open,Lost-Top Two Primary,0.0,44
+U.S. Representative,Morris Griffin,DEM,CA,Open,Lost-Top Two Primary,0.0,44
+U.S. Representative,Sylvia Ortiz,DEM,CA,Open,Lost-Top Two Primary,0.0,44
+U.S. Representative,Armando Sotomayor,DEM,CA,Open,Lost-Top Two Primary,0.0,44
+U.S. Representative,Ronald Siegel,REP,CA,Open,Lost-Top Two Primary,0.0,44
+U.S. Representative,Michael De Mauricio,NO PARTY PREFERENCE,CA,Open,Lost-Top Two Primary,0.0,44
+U.S. Representative,Louie Contreras,REP,CA,Open,Lost-Top Two Primary,0.0,46
+U.S. Representative,Rodolfo Rudy Gaona,REP,CA,Open,Lost-Top Two Primary,0.0,46
+U.S. Representative,Nancy Trinidad Marin,NO PARTY PREFERENCE,CA,Open,Lost-Top Two Primary,0.0,46
+U.S. Representative,Sanford Kahn,REP,CA,Challenger,Lost-Top Two Primary,0.0,47
+U.S. Representative,Robert John Banuelos,DEM,CA,Challenger,Lost-Top Two Primary,0.0,48
+U.S. Representative,Ryan Glenn Wingo,NO PARTY PREFERENCE,CA,Challenger,Lost-Top Two Primary,0.0,49
+U.S. Representative,David Secor,DEM,CA,Challenger,Lost-Top Two Primary,0.0,50
+U.S. Representative,Scott Meisterlin,REP,CA,Challenger,Lost-Top Two Primary,0.0,50
+U.S. Representative,Fuji Shioura,NO PARTY PREFERENCE,CA,Challenger,Lost-Top Two Primary,0.0,50
+U.S. Representative,Nicholas Walpert,DEM,CA,Challenger,Lost-Top Two Primary,0.0,53
+State Senator,John Webster,LIB,CA,Challenger,Lost-Top Two Primary,0.0,13
+State Senator,Star Moffatt,REP,CA,Open,Lost-Top Two Primary,0.0,21
+State Senator,Mark Westwood,DEM,CA,Challenger,Lost-Top Two Primary,0.0,23
+State Representative,Elmer Mark Kropp,DEM,CA,Open,Lost-Top Two Primary,0.0,4
+State Representative,John Edward Zberg,DEM,CA,Open,Lost-Top Two Primary,0.0,6
+State Representative,Ron Mikulaco,REP,CA,Open,Lost-Top Two Primary,0.0,6
+State Representative,Bogdan Ambrozewicz,NO PARTY PREFERENCE,CA,Open,Lost-Top Two Primary,0.0,6
+State Representative,Janice Marlae Bonser,LIB,CA,Challenger,Lost-Top Two Primary,0.0,8
+State Representative,Jafri,DEM,CA,Challenger,Lost-Top Two Primary,0.0,13
+State Representative,Jacob Souza,REP,CA,Challenger,Lost-Top Two Primary,0.0,13
+State Representative,Sea Reddy,DEM,CA,Open,Lost-Top Two Primary,0.0,24
+State Representative,Jay Blas Jacob Cabrera,NO PARTY PREFERENCE,CA,Open,Lost-Top Two Primary,0.0,24
+State Representative,Ernie Gollenhon,REP,CA,Open,Lost-Top Two Primary,0.0,34
+State Representative,Steve Lebard,REP,CA,Open,Lost-Top Two Primary,0.0,35
+State Representative,Dominic Robert Rubini,LIB,CA,Open,Lost-Top Two Primary,0.0,35
+State Representative,Mina Creswell,DEM,CA,Challenger,Lost-Top Two Primary,0.0,39
+State Representative,Kevin Suscavage,DEM,CA,Challenger,Lost-Top Two Primary,0.0,39
+State Representative,Dan Taylor,REP,CA,Challenger,Lost-Top Two Primary,0.0,41
+State Representative,Alan Reynolds,NO PARTY PREFERENCE,CA,Challenger,Lost-Top Two Primary,0.0,41
+State Representative,Alexandra Bustamante,REP,CA,Open,Lost-Top Two Primary,0.0,43
+State Representative,Aaron Cervantes,AMERICAN INDEPENDENT,CA,Open,Lost-Top Two Primary,0.0,43
+State Representative,Aissa Chanel Sanchez,REP,CA,Challenger,Lost-Top Two Primary,0.0,47
+State Representative,Armando Barajas,DEM,CA,Open,Lost-Top Two Primary,0.0,48
+State Representative,Manuel Lozano,DEM,CA,Open,Lost-Top Two Primary,0.0,48
+State Representative,Paul Vincent Avila,DEM,CA,Challenger,Lost-General,0.0,52
+State Representative,Glen Ratcliff,REP,CA,Challenger,Lost-General,0.0,54
+State Representative,Nam Pham,DEM,CA,Challenger,Lost-Top Two Primary,0.0,72
+State Representative,Karina Onofre,DEM,CA,Challenger,Lost-General,0.0,74
+State Representative,Katherine Daigle,REP,CA,Challenger,Lost-Top Two Primary,0.0,74
+U.S. Senator,Ric Llewellyn,NO PARTY PREFERENCE,CA,Open,Lost-Top Two Primary,0.0,nan
+U.S. Senator,Billy Falling,REP,CA,Open,Lost-Top Two Primary,0.0,nan
+U.S. Senator,Alexis Stuart,REP,CA,Open,Lost-Top Two Primary,0.0,nan
+U.S. Senator,President Cristina Grappo,DEM,CA,Open,Lost-Top Two Primary,0.0,nan
+U.S. Senator,Herbert Glenn Peters,DEM,CA,Open,Lost-Top Two Primary,0.0,nan
+State Representative,Bryce Corron,DEM,CA,Challenger,Lost-Top Two Primary,0.0,3
+State Representative,Daniel Kappler,DEM,CA,Challenger,Lost-Top Two Primary,0.0,19
+State Representative,Billy Graham,DEM,CA,Challenger,Lost-Top Two Primary,0.0,70
+State Representative,Mesbah Islam,DEM,CA,Challenger,Lost-General,0.0,73
+State Senator,Michael Petrelis,DEM,CA,Open,Lost-Top Two Primary,0.0,11
+U.S. Representative,Andy Caffrey,DEM,CA,Challenger,Lost-Top Two Primary,0.0,2
+U.S. Representative,Kenneth Mejia,DEM,CA,Challenger,Lost-Top Two Primary,0.0,34
+U.S. Representative,Cesar Flores,DEM,CA,Challenger,Lost-Top Two Primary,0.0,40
+U.S. Representative,Richard Gomez,GREEN WRITEIN,CA,Challenger,Lost-Top Two Primary,0.0,16
+State Representative,Donn Coenen,LIB,CA,Challenger,Lost-General,0.0,1
+State Representative,Ken Anton,LIB,CA,Challenger,Lost-General,0.0,2
+State Representative,Matthew Shannon,LIBERTARIAN WRITEIN,CA,Challenger,Lost-Top Two Primary,0.0,49
+State Representative,Mike Everling,LIB,CA,Challenger,Lost-General,0.0,51
+U.S. Representative,Jeff Bomberger,NO PARTY PREFERENCE WRITEIN,CA,Challenger,Lost-Top Two Primary,0.0,25
+U.S. Representative,Rich Camp,NO PARTY PREFERENCE WRITEIN,CA,Challenger,Lost-Top Two Primary,0.0,47
+State Representative,Ralph Merletti,REPUBLICAN WRITEIN,CA,Challenger,Lost-Top Two Primary,0.0,7
+State Representative,Brien Rahilly,REPUBLICAN WRITEIN,CA,Challenger,Lost-Top Two Primary,0.0,21
+State Representative,Roxanne Beckford Hoge,REPUBLICAN WRITEIN,CA,Challenger,Lost-Top Two Primary,0.0,46
+State Representative,Toni Holle,REPUBLICAN WRITEIN,CA,Challenger,Lost-Top Two Primary,0.0,52
+State Representative,Marco Antonio Leal,NO PARTY AFFILIATION,CA,Challenger,Lost-General,0.0,62

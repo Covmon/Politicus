@@ -1,0 +1,557 @@
+office,candidate,party,state,incumbency,result,total money,district
+U.S. Senator,Claire Conner McCaskill,DEM,MO,Incumbent,Lost,36017043.98,nan
+U.S. Senator,Joshua David Hawley,REP,MO,Challenger,Won,11868440.02,nan
+U.S. Representative,Ann Wagner,REP,MO,Incumbent,Won,3042058.87,2
+U.S. Representative,Cort Vanostran,DEM,MO,Challenger,Lost,2341088.05,2
+U.S. Representative,Blaine Luetkemeyer,REP,MO,Incumbent,Won,2296522.81,3
+U.S. Representative,Jason Smith,REP,MO,Incumbent,Won,1972457.4,8
+U.S. Representative,Samuel Graves Jr.,REP,MO,Incumbent,Won,1684122.68,6
+U.S. Representative,Billy Long,REP,MO,Incumbent,Won,1506373.33,7
+Auditor,Nicole Galloway,DEM,MO,Incumbent,Won,1454841.32,nan
+U.S. Representative,Hartzler,REP,MO,Incumbent,Won,1245858.55,4
+U.S. Representative,Emanuel Cleaver II,DEM,MO,Incumbent,Won,1189681.39,5
+State Senator,Jill Seltzer Schupp,DEM,MO,Incumbent,Won,1043295.65,24
+U.S. Representative,William Lacy Clay Jr.,DEM,MO,Incumbent,Won,656760.49,1
+U.S. Senator,Austin Petersen,REP,MO,Open,Lost,628683.72,nan
+U.S. Senator,Craig Odear,IND,MO,Challenger,Lost,627764.5,nan
+State Senator,Robert Frank Onder Jr.,REP,MO,Incumbent,Won,599895.92,2
+State Senator,Tony Luetkemeyer,REP,MO,Open,Won,598369.47,34
+Auditor,David Wasinger,REP,MO,Open,Lost,587708.6,nan
+State Senator,Paul Wieland,REP,MO,Incumbent,Won,487255.51,22
+U.S. Senator,Raffaele Antonio Monetti,REP,MO,Open,Lost,470853.53,nan
+U.S. Representative,Suzanne Renee Hoagenson,DEM,MO,Challenger,Lost,462385.26,4
+State Senator,Lauren Arthur,DEM,MO,Open,Won,449637.82,17
+State Senator,Eric Burlison,REP,MO,Open,Won,389099.65,20
+State Senator,Lincoln Hough,REP,MO,Open,Won,384253.09,30
+State Representative,Elijah Haahr,REP,MO,Incumbent,Won,383170.04,134
+State Senator,William White,REP,MO,Open,Won,373246.16,32
+State Senator,Dave Schatz,REP,MO,Incumbent,Won,357527.36,26
+State Senator,Harry Roberts,REP,MO,Open,Lost,344009.25,34
+State Senator,Jeanie Riddle,REP,MO,Incumbent,Won,323459.98,10
+State Senator,Cindy Olaughlin,REP,MO,Open,Won,312166.5,18
+State Representative,Robert Vescovo,REP,MO,Incumbent,Won,259550.0,112
+State Senator,Daniel Hegeman,REP,MO,Incumbent,Won,230455.0,12
+U.S. Representative,Kathryn Gail Ellis,DEM,MO,Challenger,Lost,192239.25,8
+State Senator,Jacob Hummel,DEM,MO,Incumbent,Lost,184578.5,4
+State Senator,Craig Redmon,REP,MO,Open,Lost,174639.98,18
+State Senator,Mike Bernskoetter,REP,MO,Open,Won,172676.0,6
+State Senator,Diane Franklin,REP,MO,Open,Lost,172195.0,16
+U.S. Representative,Mark Osmack,DEM,MO,Open,Lost,166096.83,2
+State Senator,Rob Obrian,REP,MO,Open,Lost,161860.81,32
+State Senator,Hillary Shields,DEM,MO,Challenger,Lost,160244.79,8
+State Senator,Martin Rucker II,DEM,MO,Open,Lost,146962.51,34
+State Senator,Ryan Dillon,DEM,MO,Open,Lost,139773.45,16
+State Representative,Jon Patterson,REP,MO,Open,Won,139111.84,30
+U.S. Representative,Cori Bush,DEM,MO,Challenger,Lost,138293.61,1
+State Representative,Shamed Dogan,REP,MO,Incumbent,Won,133038.96,98
+State Senator,Nathan Belt Walker,REP,MO,Open,Lost,132516.41,18
+State Representative,David Gregory,REP,MO,Incumbent,Won,132137.87,96
+State Representative,Robert Cornejo,REP,MO,Incumbent,Withdrew,125503.0,64
+State Representative,Jean Evans,REP,MO,Incumbent,Won,121175.27,99
+State Senator,Joseph Adams Jr.,DEM,MO,Open,Lost,116646.99,14
+State Representative,Kathryn Swan,REP,MO,Incumbent,Won,116626.28,147
+State Representative,Hardy Billington,REP,MO,Open,Won,115802.79,152
+State Representative,Sam Gladney,DEM,MO,Open,Lost,115250.32,87
+State Representative,Scott Fitzpatrick,REP,MO,Incumbent,Won,112467.17,158
+State Representative,Dean Plocher,REP,MO,Incumbent,Won,106520.67,89
+State Representative,Pat Rowe Kerr,REP,MO,Open,Lost,103928.52,60
+State Representative,John Wiemann,REP,MO,Incumbent,Won,102260.17,103
+State Representative,Stephen Butz,DEM,MO,Open,Won,97175.12,81
+State Senator,Justin Brown,REP,MO,Open,Won,97161.2,16
+State Representative,Brad Bakker,DEM,MO,Open,Lost,92634.25,84
+State Senator,Mike Cierpiot,REP,MO,Incumbent,Won,92165.8,8
+State Representative,Rocky Miller,REP,MO,Incumbent,Won,89642.5,124
+State Representative,Doug Beck,DEM,MO,Incumbent,Won,85197.78,92
+State Representative,Holly Rehder,REP,MO,Incumbent,Won,81695.91,148
+Auditor,Paul Curtman,REP,MO,Open,Lost,80958.62,nan
+State Representative,Deborah Lavender,DEM,MO,Incumbent,Won,78753.45,90
+State Senator,Brian Williams,DEM,MO,Open,Won,78187.05,14
+State Representative,Bruce Degroot,REP,MO,Incumbent,Won,77905.6,101
+State Senator,Robert Butler,DEM,MO,Challenger,Lost,77493.41,22
+State Representative,Cody Smith,REP,MO,Incumbent,Won,74945.76,163
+State Representative,Jack Scott Bondon,REP,MO,Incumbent,Won,73877.5,56
+State Representative,Nick Schroer,REP,MO,Incumbent,Won,73606.26,107
+State Representative,Crystal Quade,DEM,MO,Incumbent,Won,71497.5,132
+State Representative,Mark Ellebracht,DEM,MO,Incumbent,Won,70874.9,17
+State Representative,Rudy Veit,REP,MO,Open,Won,70600.58,59
+State Representative,John Black,REP,MO,Open,Won,69994.37,137
+State Representative,Dan Houx,REP,MO,Incumbent,Won,67644.22,54
+State Representative,Derek Grier,REP,MO,Incumbent,Won,64245.19,100
+State Representative,Travis Fitzwater,REP,MO,Incumbent,Won,63783.03,49
+State Representative,Matt Doell,REP,MO,Open,Lost,62735.58,110
+State Representative,Ian Mackey,DEM,MO,Open,Won,61911.07,87
+State Senator,Keith Frederick,REP,MO,Open,Lost,61483.89,16
+State Representative,Charles Basye,REP,MO,Incumbent,Won,61422.34,47
+State Representative,Dave Griffith,REP,MO,Open,Won,61405.0,60
+State Representative,Jim Scaggs,DEM,MO,Open,Lost,61082.37,144
+State Representative,Peter Merideth,DEM,MO,Incumbent,Won,59746.84,80
+State Representative,Raleigh Drue Ritter,REP,MO,Open,Lost,59513.31,160
+State Representative,Robert Ross,REP,MO,Incumbent,Won,58820.39,142
+State Senator,Patrice Billings,DEM,MO,Challenger,Lost,57561.46,2
+State Representative,James Neely,REP,MO,Incumbent,Won,57138.42,8
+State Representative,Steven Roberts II,DEM,MO,Incumbent,Won,57006.81,77
+State Representative,Brenda Shields,REP,MO,Open,Won,56145.0,11
+U.S. Representative,Jamie Daniel Schoolcraft,DEM,MO,Challenger,Lost,55838.56,7
+State Senator,Charles Norr,DEM,MO,Open,Lost,55236.68,30
+State Representative,Hannah Kelly,REP,MO,Incumbent,Won,54475.96,141
+State Representative,Keri Ingle,DEM,MO,Open,Won,54429.09,35
+State Representative,Mike Revis,DEM,MO,Incumbent,Lost,53589.37,97
+State Representative,Vic Allred,REP,MO,Open,Won,52836.34,13
+State Representative,Jeff Munzinger,DEM,MO,Open,Lost,52698.19,136
+State Representative,Jon Carpenter,DEM,MO,Incumbent,Won,52224.2,15
+State Representative,Joe Patterson,REP,MO,Open,Lost,50502.0,95
+State Representative,Karen Leydens,REP,MO,Open,Lost,50289.39,59
+State Representative,Sean Smith,REP,MO,Open,Lost,49667.6,35
+State Representative,Rusty Black,REP,MO,Incumbent,Won,49587.08,7
+State Representative,Ron Rammaha,REP,MO,Open,Lost,49028.59,94
+State Senator,Sandy Crawford,REP,MO,Incumbent,Won,48779.9,28
+State Representative,Michela Skelton,DEM,MO,Challenger,Lost,47301.21,50
+State Representative,Kent Haden,REP,MO,Open,Won,46560.0,43
+State Representative,Jeff Porter,REP,MO,Open,Won,46185.0,42
+State Representative,Bryan Spencer,REP,MO,Incumbent,Won,45425.5,63
+State Representative,William Kidd,REP,MO,Incumbent,Won,44167.5,20
+State Representative,Dan Shaul,REP,MO,Incumbent,Won,44150.0,113
+State Representative,Donna McBaringer,DEM,MO,Incumbent,Won,43345.18,82
+State Representative,Helena Webb,DEM,MO,Challenger,Lost,42570.27,100
+State Representative,Sarah Unsicker,DEM,MO,Incumbent,Won,42448.15,91
+State Representative,Becky Ruth,REP,MO,Incumbent,Won,40943.55,114
+State Representative,Phil Christofanelli,REP,MO,Incumbent,Won,39856.23,105
+U.S. Representative,Hallie Thompson,DEM,MO,Open,Lost,39852.96,4
+State Representative,Kip Kendrick,DEM,MO,Incumbent,Won,39852.75,45
+State Representative,David Evans,REP,MO,Open,Won,39339.96,154
+State Representative,John Simmons,REP,MO,Open,Won,38881.0,109
+State Representative,Travis Estes,DEM,MO,Open,Lost,38730.42,81
+State Representative,Daron McGee,DEM,MO,Incumbent,Won,38677.18,36
+State Representative,Tom Lovell,REP,MO,Open,Lost,38670.0,35
+State Representative,Mike Haffner,REP,MO,Open,Won,38441.99,55
+State Representative,Adam Schnelting,REP,MO,Open,Won,38263.29,104
+State Representative,Bruce Franks Jr.,DEM,MO,Incumbent,Won,37932.96,78
+State Representative,Carl Robert Burns,DEM,MO,Incumbent,Won,37220.0,93
+State Senator,Sharon Pace,DEM,MO,Open,Lost,37039.54,14
+State Representative,Chris Dinkins,REP,MO,Incumbent,Won,36452.93,144
+State Representative,Dan Oneill,DEM,MO,Open,Lost,35564.44,21
+State Representative,Greg Razer,DEM,MO,Incumbent,Won,34533.0,25
+U.S. Representative,Henry Robert Martin,DEM,MO,Challenger,Lost,34386.36,6
+State Representative,David Linton,REP,MO,Open,Lost,33933.59,97
+State Representative,Sheila Solon,REP,MO,Open,Won,33849.3,9
+U.S. Representative,Katy Geppert,DEM,MO,Challenger,Lost,33639.97,3
+State Representative,Tyler Gunlock,DEM,MO,Challenger,Lost,33620.35,130
+State Representative,Dale Wright,REP,MO,Open,Won,33204.5,116
+State Representative,Jeff Knight,REP,MO,Incumbent,Won,33104.55,129
+State Representative,Mitch Weber,DEM,MO,Open,Lost,32980.93,13
+State Representative,Sara Walsh,REP,MO,Incumbent,Won,32928.4,50
+State Representative,Steve Helms,REP,MO,Incumbent,Won,32624.49,135
+State Representative,Doug Richey,REP,MO,Open,Won,32568.59,38
+State Senator,Lindell Shumake,REP,MO,Open,Lost,32282.62,18
+State Representative,Mary Elizabeth Coleman,REP,MO,Challenger,Won,31956.68,97
+State Representative,Michael McGirl,REP,MO,Open,Won,31918.5,118
+State Representative,Jeff Shawan,REP,MO,Open,Won,31830.0,153
+State Representative,Justin Hill,REP,MO,Incumbent,Won,31800.0,108
+State Representative,Glen Kolkmeyer,REP,MO,Incumbent,Won,31715.36,53
+State Representative,Wes Rogers,DEM,MO,Open,Won,31597.41,18
+State Representative,Barry Hovis,REP,MO,Open,Won,31135.0,146
+State Representative,Mike Walter,DEM,MO,Open,Lost,31118.25,95
+State Representative,Ladonna Appelbaum,DEM,MO,Open,Won,31065.0,71
+State Representative,Craig Fishel,REP,MO,Open,Won,30892.82,136
+State Representative,Lane Roberts,REP,MO,Open,Won,30224.0,161
+State Representative,Noel Shull,REP,MO,Incumbent,Won,28847.93,16
+State Representative,Thomas Hannegan,REP,MO,Incumbent,Won,28670.23,65
+State Representative,Gregory Sharpe,REP,MO,Open,Won,28550.0,4
+State Representative,Doug Clemens,DEM,MO,Open,Won,28518.03,72
+State Representative,Jane Beetem,REP,MO,Open,Lost,28226.08,60
+State Senator,Karla May,DEM,MO,Open,Won,27978.0,4
+State Representative,Chrissy Sommer,REP,MO,Incumbent,Won,27923.02,106
+State Representative,Bradley Pollitt,REP,MO,Open,Won,27840.0,52
+State Representative,Elaine Freeman Gannon,REP,MO,Incumbent,Won,27770.0,115
+State Representative,Dan Wibracht,DEM,MO,Open,Lost,27713.09,72
+U.S. Representative,Winston Apple,DEM,MO,Open,Lost,27681.32,6
+State Representative,Ben Baker,REP,MO,Open,Won,27557.76,160
+State Representative,Chase Crawford,DEM,MO,Challenger,Lost,27509.94,125
+State Representative,Tommie Pierson Jr.,DEM,MO,Incumbent,Won,27487.79,66
+State Representative,Gina Mitten,DEM,MO,Incumbent,Won,27445.07,83
+State Representative,Nathan Tate,REP,MO,Incumbent,Won,27300.43,119
+State Representative,Dottie Bailey,REP,MO,Open,Won,27045.41,110
+State Representative,Dave Muntzel,REP,MO,Incumbent,Won,27005.0,48
+State Representative,Jim Murphy,REP,MO,Open,Won,26893.62,94
+State Representative,Jean Pretto,DEM,MO,Open,Lost,26803.49,94
+State Representative,William Otto,DEM,MO,Challenger,Lost,26563.6,65
+State Representative,Robert Sauls,DEM,MO,Open,Won,26450.41,21
+State Representative,Holmes Osborne,DEM,MO,Open,Lost,26354.68,21
+State Representative,Karen Settlemoir-Berg,DEM,MO,Challenger,Lost,26178.05,113
+State Representative,Martha Stevens,DEM,MO,Incumbent,Won,26068.81,46
+U.S. Representative,John Farmer De La Torre,DEM,MO,Open,Lost,26051.65,7
+State Representative,Mike Henderson,REP,MO,Incumbent,Won,26000.0,117
+State Representative,Joni Perry,DEM,MO,Open,Lost,25815.0,3
+State Representative,Lynn Morris,REP,MO,Incumbent,Won,25800.0,140
+State Representative,Georjene Tilton,REP,MO,Open,Lost,24115.03,137
+State Representative,Rebecca Roeber,REP,MO,Incumbent,Won,24072.26,34
+State Senator,Ayanna Shivers,DEM,MO,Challenger,Lost,23918.3,10
+State Representative,Erica Hoffman,DEM,MO,Challenger,Lost,23639.26,96
+State Representative,Rick Francis,REP,MO,Incumbent,Won,23373.7,145
+State Representative,Louis Riggs,REP,MO,Open,Won,23296.71,5
+State Representative,Donna Pfautsch,REP,MO,Incumbent,Won,23226.38,33
+State Representative,Wiley Price IV,DEM,MO,Open,Won,23175.0,84
+State Representative,Peggy McGaugh,REP,MO,Incumbent,Won,22974.43,39
+State Representative,Mike Stephens,REP,MO,Incumbent,Won,22925.0,128
+State Representative,Kevin Fitzgerald,DEM,MO,Challenger,Lost,22884.75,89
+State Representative,Cora Faith Walker,DEM,MO,Incumbent,Won,22777.46,74
+State Representative,Kevin Windham Jr.,DEM,MO,Open,Won,22250.64,85
+Auditor,Saundra McDowell,REP,MO,Challenger,Lost,22156.02,nan
+State Representative,Robert Bromley,REP,MO,Open,Won,22000.0,162
+State Representative,Don Mayhew,REP,MO,Open,Won,21861.07,121
+State Representative,Warren Love,REP,MO,Incumbent,Won,21779.16,125
+State Representative,Dirk Deaton,REP,MO,Open,Won,21703.73,159
+State Representative,Jered Taylor,REP,MO,Incumbent,Won,21548.37,139
+State Representative,Adrian Plank,DEM,MO,Challenger,Lost,21432.99,47
+State Representative,Jp Johnson,DEM,MO,Open,Lost,21423.18,79
+State Representative,Sonya Murray Anderson,REP,MO,Incumbent,Won,21381.95,131
+State Representative,Michael Vinck,REP,MO,Open,Lost,21150.64,55
+State Representative,Mark Matthiesen,REP,MO,Incumbent,Lost,21103.84,70
+State Representative,Ryana Parks-Shaw,DEM,MO,Open,Lost,20912.74,30
+State Representative,David Wood,REP,MO,Incumbent,Won,20721.5,58
+State Representative,Ingrid Burnett,DEM,MO,Incumbent,Won,20410.41,19
+State Representative,Raychel Proudie,DEM,MO,Open,Won,20168.36,73
+State Representative,Genevieve Steidtmann,DEM,MO,Challenger,Lost,19862.63,101
+State Representative,Cathy Richards,REP,MO,Challenger,Lost,19759.15,46
+State Representative,Judy Morgan,DEM,MO,Incumbent,Won,19710.27,24
+State Representative,Bruce Goodrich,REP,MO,Open,Lost,19696.8,121
+State Representative,Jason Chipman,REP,MO,Incumbent,Won,19630.0,120
+State Representative,Lakeysha Bosley,DEM,MO,Open,Won,19276.57,79
+State Representative,Rory Rowland,DEM,MO,Incumbent,Won,19195.41,29
+State Representative,Kevin Corlew,REP,MO,Incumbent,Lost,18790.0,14
+State Representative,Mik Chester,REP,MO,Open,Lost,18078.0,9
+State Representative,Paula Brown,DEM,MO,Challenger,Won,18050.06,70
+State Representative,Dan Stacy,REP,MO,Incumbent,Won,17794.0,31
+State Representative,Sara Michael,DEM,MO,Open,Lost,17731.9,60
+State Representative,T Howard,DEM,MO,Challenger,Lost,17345.41,151
+State Representative,Rodger Reedy,REP,MO,Open,Won,17105.38,57
+State Representative,Rich Horton,DEM,MO,Challenger,Lost,17096.05,128
+State Representative,Jeff Coleman,REP,MO,Open,Won,17015.55,32
+State Representative,George Randall Heim,REP,MO,Open,Lost,16900.29,127
+State Representative,Tracy McCreery,DEM,MO,Incumbent,Won,16418.0,88
+State Representative,Joe Runions,DEM,MO,Incumbent,Won,16355.41,37
+State Representative,Phil Amato,REP,MO,Open,Lost,16102.35,97
+State Representative,Jerome Barnes,DEM,MO,Incumbent,Won,15917.6,28
+State Representative,Ann Kelley,REP,MO,Open,Won,15820.0,127
+U.S. Representative,John Messmer,DEM,MO,Open,Lost,15737.0,2
+State Representative,Scott Cernicek,DEM,MO,Challenger,Lost,15728.16,105
+U.S. Senator,Courtland Sykes,REP,MO,Open,Lost,15725.93,nan
+State Representative,Gretchen Bangert,DEM,MO,Incumbent,Won,15586.76,69
+State Representative,Karan Pujji,REP,MO,Open,Lost,15566.74,88
+State Representative,Angela Thomas,DEM,MO,Open,Lost,15338.16,160
+State Representative,Tim Remole,REP,MO,Incumbent,Won,15336.36,6
+State Representative,Loren Graham,REP,MO,Open,Lost,15207.63,5
+State Representative,Cheri Toalson Reisch,REP,MO,Open,Won,15066.0,44
+State Representative,Jim Klenc,DEM,MO,Challenger,Lost,15056.76,103
+State Representative,Errol Bush,DEM,MO,Open,Lost,14783.14,85
+State Representative,Ashley Bland Manlove,DEM,MO,Open,Won,14326.0,26
+State Representative,Jason Shaffer,REP,MO,Challenger,Lost,14245.09,140
+State Representative,Karla Eslinger,REP,MO,Open,Won,14175.0,155
+State Representative,Theresa Schmitt,DEM,MO,Challenger,Lost,13998.06,120
+State Representative,Rick Mellon,DEM,MO,Challenger,Lost,13739.93,39
+State Representative,Matt Sain,DEM,MO,Challenger,Won,13680.86,14
+State Representative,Rik Combs,REP,MO,Open,Lost,13606.72,59
+State Representative,Brad Hudson,REP,MO,Open,Won,13593.04,138
+State Representative,Danny Busick,REP,MO,Open,Won,13566.95,3
+State Representative,Alan Gray,DEM,MO,Incumbent,Won,13112.28,75
+State Representative,Charles Triplett,DEM,MO,Challenger,Lost,13111.9,98
+State Representative,Chris Hankins,REP,MO,Open,Lost,13096.06,30
+State Representative,Aaron Griesheimer,REP,MO,Open,Won,13035.0,61
+State Representative,Michael Odonnell,REP,MO,Open,Won,13030.04,95
+State Representative,Fred Kratky,DEM,MO,Challenger,Lost,12996.05,82
+State Representative,Curtis Trent,REP,MO,Incumbent,Won,12980.76,133
+State Representative,James Ripley,DEM,MO,Challenger,Lost,12938.41,34
+State Representative,Brandon Ellington,DEM,MO,Incumbent,Won,12535.0,22
+State Representative,Shane Roden,REP,MO,Incumbent,Won,12475.0,111
+State Representative,Travis Hagewood,DEM,MO,Challenger,Lost,12227.47,31
+State Representative,Mitch Wrenn,DEM,MO,Challenger,Lost,12141.11,6
+State Representative,Eggleston,REP,MO,Incumbent,Won,12120.0,2
+U.S. Representative,Ed Andres,DEM,MO,Open,Lost,11730.0,6
+State Representative,Bob Oreskovic,REP,MO,Open,Lost,11250.16,109
+U.S. Representative,Kress Franklin Cambers,REP,MO,Open,Lost,11246.24,5
+State Representative,James Lowman,REP,MO,Open,Lost,11199.89,30
+State Representative,Lisa Buhr,DEM,MO,Challenger,Lost,11156.38,49
+State Representative,Betty Vining,DEM,MO,Challenger,Lost,11087.38,108
+State Representative,Chris Carter,DEM,MO,Open,Won,10920.0,76
+State Representative,Floyd Blackwell,DEM,MO,Open,Lost,10896.07,73
+State Representative,Kevin Juergens,REP,MO,Open,Lost,10792.64,109
+State Representative,Abby Zavos,DEM,MO,Open,Lost,10727.5,38
+State Representative,Jack Bates,REP,MO,Challenger,Lost,10679.99,143
+State Representative,Suzie Pollock,REP,MO,Open,Won,10630.5,123
+State Representative,Richard Brown,DEM,MO,Incumbent,Won,10575.41,27
+State Representative,Curtis Wylde,DEM,MO,Challenger,Lost,10447.97,107
+State Representative,Benjamin Hagin,DEM,MO,Challenger,Lost,10428.0,112
+State Representative,Mary Hill,REP,MO,Challenger,Lost,10347.08,17
+State Representative,Alan Green,DEM,MO,Incumbent,Won,10340.41,67
+State Representative,Barbara Anne Washington,DEM,MO,Incumbent,Won,10290.41,23
+State Representative,Ronna Ford,DEM,MO,Open,Lost,10024.53,129
+State Representative,Jeffery Justus,REP,MO,Incumbent,Won,9862.99,156
+State Representative,Kenneth Wilson,REP,MO,Incumbent,Won,9820.0,12
+State Representative,Barbara Marco,DEM,MO,Open,Lost,9789.07,118
+State Representative,Donald Rone Jr.,REP,MO,Incumbent,Won,9725.0,149
+State Representative,Austin Montee,DEM,MO,Open,Lost,9686.36,10
+State Representative,Mike Labozzetta,DEM,MO,Challenger,Lost,9673.48,99
+State Representative,Randy Pietzman,REP,MO,Incumbent,Won,9625.0,41
+State Representative,Lee Smith,DEM,MO,Open,Lost,9519.79,73
+State Representative,Bruce Buwalda,REP,MO,Open,Lost,9369.96,72
+State Representative,Damon Haymer,DEM,MO,Open,Lost,9146.0,76
+State Representative,Farrakhan Shegog,DEM,MO,Open,Lost,9140.0,86
+State Representative,Maren Bell Jones,DEM,MO,Open,Lost,9097.49,44
+State Representative,Ron Hicks,REP,MO,Open,Won,9075.0,102
+State Representative,Larry Lindeman,REP,MO,Open,Lost,9040.0,154
+State Representative,Sandra Lee Van Wagner,DEM,MO,Challenger,Lost,8958.85,12
+State Representative,Joseph Widner,DEM,MO,Open,Lost,8878.53,42
+State Representative,Brad Eichstadt,LIB,MO,Open,Lost,8807.0,30
+U.S. Representative,Demarco Kaureen Davidson,DEM,MO,Challenger,Lost,8637.68,1
+State Representative,Bing Schimmelpfenning,REP,MO,Open,Lost,8587.33,55
+State Senator,Jim Billedo,DEM,MO,Open,Lost,8581.06,20
+State Representative,Sarah Mills,REP,MO,Open,Lost,8518.58,18
+State Representative,Eileen Grant McGeoghegan,DEM,MO,Open,Lost,8500.0,72
+State Representative,Jay Mosley,DEM,MO,Incumbent,Won,8461.49,68
+State Representative,Raymond Lampert,DEM,MO,Open,Lost,8444.2,137
+State Representative,Cindy Slimp,DEM,MO,Challenger,Lost,8398.42,133
+State Representative,Dean Dohrman,REP,MO,Incumbent,Won,8325.0,51
+State Representative,Peggy Sherwin,DEM,MO,Open,Lost,8298.5,104
+State Representative,Jeff Messenger,REP,MO,Incumbent,Won,8275.0,130
+Auditor,Kevin Roach,REP,MO,Open,Lost,8248.78,nan
+State Representative,Patricia Pike,REP,MO,Incumbent,Won,8069.9,126
+State Representative,Carl Ward,REP,MO,Open,Lost,7900.0,154
+State Representative,Bill Burlison,DEM,MO,Challenger,Lost,7800.0,149
+State Representative,Robert Smith,DEM,MO,Open,Lost,7728.04,152
+State Representative,James Williams,DEM,MO,Challenger,Lost,7671.3,54
+State Representative,Pamela Menefee,DEM,MO,Open,Lost,7652.0,61
+State Representative,Herman Morse,REP,MO,Incumbent,Won,7575.0,151
+State Representative,Kevin Nelson,DEM,MO,Open,Lost,7561.13,60
+State Representative,Kimberly-Ann Collins,DEM,MO,Challenger,Lost,7462.05,77
+State Representative,Christopher Evans,REP,MO,Open,Lost,7332.0,9
+State Senator,Joe Poor,DEM,MO,Challenger,Lost,7282.0,28
+State Representative,Bryan Cooper,REP,MO,Open,Lost,7199.86,102
+U.S. Representative,Jim Evans,REP,MO,Challenger,Lost,7006.89,7
+State Representative,Thomas Wyatt,REP,MO,Open,Lost,6999.29,123
+State Representative,Derrick Nowlin,DEM,MO,Challenger,Lost,6700.85,134
+State Representative,Jackie Sclair,DEM,MO,Challenger,Lost,6670.41,106
+State Representative,Teona McGhaw-Boure,DEM,MO,Challenger,Lost,6637.1,75
+State Representative,Gloria Nickerson,DEM,MO,Open,Lost,6464.21,86
+U.S. Representative,Noga Sachs,REP,MO,Challenger,Lost,6433.07,2
+State Representative,Jamie Blair,DEM,MO,Open,Lost,6405.11,43
+State Representative,Bill Falkner,REP,MO,Open,Won,6300.09,10
+State Representative,Bill Heisse,REP,MO,Challenger,Lost,6264.91,92
+State Representative,Steven Bailey,REP,MO,Open,Lost,5790.0,87
+State Representative,Joe Register,DEM,MO,Open,Lost,5766.02,123
+State Representative,Dennis Vandyke,DEM,MO,Challenger,Lost,5765.41,7
+State Representative,Matt Miller,REP,MO,Open,Lost,5714.07,121
+State Representative,Chuck Hoskins,REP,MO,Open,Lost,5650.0,118
+State Representative,Joan Shores,DEM,MO,Open,Lost,5624.82,57
+State Representative,Nathan Williams,REP,MO,Open,Lost,5473.41,123
+State Representative,Rob Bailey,DEM,MO,Challenger,Lost,5305.41,135
+State Representative,Mike Moon,REP,MO,Incumbent,Won,5169.86,157
+State Representative,Marissa Brown,DEM,MO,Open,Lost,5143.28,76
+U.S. Senator,Christina Smith,REP,MO,Open,Lost,5137.4,nan
+State Representative,James Cordrey,DEM,MO,Open,Lost,4954.29,109
+State Representative,Andrew McDaniel,REP,MO,Incumbent,Won,4950.0,150
+State Representative,Wes Powell,REP,MO,Open,Lost,4890.0,123
+State Senator,Bryan Struebig,DEM,MO,Open,Lost,4748.2,6
+State Representative,Neal Minor,REP,MO,Open,Lost,4670.03,5
+State Senator,John Kiehne,DEM,MO,Challenger,Lost,4659.0,26
+State Representative,Jim Hansen,REP,MO,Incumbent,Won,4400.0,40
+State Representative,Joe Frese,DEM,MO,Open,Lost,4350.41,5
+State Representative,Ethan Perkinson,DEM,MO,Open,Lost,4337.54,39
+State Senator,Terry Richard,DEM,MO,Challenger,Lost,4299.08,12
+State Representative,Matt Michel,DEM,MO,Open,Lost,4289.86,153
+State Representative,Gregory Upchurch,DEM,MO,Open,Lost,4244.46,70
+State Representative,Linda Ellen Greeson,DEM,MO,Open,Lost,4210.0,59
+State Senator,Conon Gillis,GRN,MO,Open,Lost,4159.66,32
+State Representative,Tony Smith,DEM,MO,Challenger,Lost,4059.01,140
+State Senator,Nicole Thompson,DEM,MO,Open,Lost,4051.25,6
+State Representative,John Boyd Jr.,REP,MO,Challenger,Lost,3934.54,37
+State Representative,Gary Wester,DEM,MO,Open,Lost,3932.19,102
+State Senator,Crystal Stephens,DEM,MO,Open,Lost,3885.05,18
+State Representative,Karen Echols,REP,MO,Challenger,Lost,3775.0,157
+State Representative,Tony Laforest,REP,MO,Open,Lost,3675.0,146
+State Representative,Steve Dakopolos,DEM,MO,Challenger,Lost,3669.98,124
+State Representative,Phoebe Ottomeyer,DEM,MO,Challenger,Lost,3669.88,111
+State Representative,Adela Falk,REP,MO,Open,Lost,3657.69,43
+State Representative,Steve West,REP,MO,Challenger,Lost,3655.97,15
+State Representative,Renita Green,DEM,MO,Challenger,Lost,3628.79,147
+State Representative,Jessica Catron,REP,MO,Open,Lost,3625.46,42
+State Representative,Ashley Fajkowski,DEM,MO,Challenger,Lost,3565.11,62
+State Representative,Janet Kester,DEM,MO,Challenger,Lost,3536.88,63
+State Representative,Allen Andrews,REP,MO,Incumbent,Won,3527.45,1
+State Representative,Maria Chappelle-Nadal,DEM,MO,Open,Won,3323.53,86
+State Representative,Edward Bell,DEM,MO,Open,Lost,3270.77,26
+State Representative,Pat Williams,DEM,MO,Challenger,Lost,3268.34,33
+Auditor,Jacob Luetkemeyer,CON,MO,Challenger,Lost,3228.15,nan
+State Representative,Tina Goodrick,REP,MO,Open,Lost,3190.41,9
+State Representative,Dylan Burd,DEM,MO,Open,Lost,3135.0,26
+State Representative,Tom Gorenc,DEM,MO,Challenger,Lost,3134.0,16
+State Representative,Bill Kraemer,DEM,MO,Open,Lost,3130.0,116
+State Representative,Teri Hanna,DEM,MO,Open,Lost,2979.91,127
+State Representative,Jim Hogan,DEM,MO,Challenger,Lost,2976.3,126
+State Senator,Carolyn McGowan,DEM,MO,Open,Lost,2875.68,32
+U.S. Senator,Angelica Earl,DEM,MO,Challenger,Lost,2802.0,nan
+State Senator,Robert Crump,REP,MO,Open,Lost,2800.0,4
+State Representative,Josh Rittenberry,DEM,MO,Challenger,Lost,2746.46,150
+State Representative,Kyle Bone,REP,MO,Open,Lost,2714.59,118
+State Representative,Vince Lutterbie,DEM,MO,Challenger,Lost,2681.03,51
+State Representative,Dennis McDonald,DEM,MO,Challenger,Lost,2677.37,114
+State Representative,Mark Bartley,REP,MO,Open,Lost,2616.0,159
+State Representative,Cora Hanf,DEM,MO,Challenger,Lost,2583.43,139
+State Representative,Adam Jenning,REP,MO,Challenger,Lost,2575.04,69
+State Representative,Marcie Nichols,DEM,MO,Challenger,Lost,2441.06,119
+State Representative,Beau McCoy Gooch,REP,MO,Challenger,Lost,2424.55,144
+State Representative,Khalil Abdul Mumin,DEM,MO,Challenger,Lost,2387.0,66
+State Representative,Jessica Merrick,DEM,MO,Challenger,Lost,2303.79,20
+State Representative,Stephen Biles,CON,MO,Challenger,Lost,2171.0,126
+State Representative,Bill Yarberry,REP,MO,Challenger,Lost,2144.94,126
+State Representative,Boris Abadzhyan,DEM,MO,Open,Lost,2095.0,71
+State Representative,Michael Lind,REP,MO,Open,Lost,1951.63,155
+State Representative,Brian Ridenour,DEM,MO,Open,Lost,1902.2,118
+State Representative,Robert Stokes,REP,MO,Open,Lost,1885.55,162
+State Representative,Cody Kelley,DEM,MO,Open,Lost,1846.05,110
+State Representative,David Beckham,DEM,MO,Challenger,Lost,1780.41,41
+State Representative,Marshall Works,REP,MO,Open,Lost,1686.32,138
+State Representative,Jack Clemans,REP,MO,Open,Lost,1557.24,155
+State Representative,Sarah Hinkle,DEM,MO,Open,Lost,1549.42,162
+State Representative,Ranen Bechthold,REP,MO,Open,Lost,1530.05,15
+State Representative,David Osborn,REP,MO,Open,Lost,1518.83,160
+State Representative,Elizabeth Lundstrum,DEM,MO,Open,Lost,1507.74,161
+State Representative,Raymond Faubion,DEM,MO,Challenger,Lost,1406.63,48
+State Representative,Lloyd Nolan,REP,MO,Challenger,Lost,1400.0,88
+State Representative,Brady Lee Odell,DEM,MO,Open,Lost,1357.41,11
+U.S. Senator,Japheth Ray Campbell,LIB,MO,Challenger,Lost,1316.93,nan
+State Representative,Gary Bonacker,REP,MO,Challenger,Lost,1300.0,111
+State Representative,Timothy Harris,REP,MO,Open,Lost,1229.58,15
+State Representative,Reign Harris,DEM,MO,Open,Lost,1203.65,79
+State Representative,Kendra Lane,REP,MO,Open,Lost,1175.75,59
+State Representative,Chris Shove,REP,MO,Open,Lost,1100.0,11
+State Representative,William Hastings,GRN,MO,Challenger,Lost,1000.0,46
+State Representative,Isaac Howard Paul Boyd,REP,MO,Open,Lost,1000.0,138
+State Senator,Richie Camden,LIB,MO,Challenger,Lost,987.03,22
+State Senator,Mollie Kristen Freebairn,DEM,MO,Open,Lost,784.67,6
+State Representative,Connie Simmons,DEM,MO,Challenger,Lost,718.02,53
+State Representative,Dan Marshall,DEM,MO,Open,Lost,694.01,52
+State Representative,Daniel Romine,REP,MO,Challenger,Lost,645.51,134
+State Representative,Loretta Thomas,DEM,MO,Challenger,Lost,600.0,157
+State Representative,Jack Johnson,REP,MO,Open,Lost,587.5,153
+State Representative,Deshon Porter,REP,MO,Challenger,Lost,558.82,135
+State Representative,Steven Lynch Jr.,REP,MO,Incumbent,Won,525.0,122
+State Representative,Jacob Walters,DEM,MO,Open,Lost,501.0,85
+State Representative,David Martin,REP,MO,Challenger,Lost,463.09,23
+State Representative,Val Engholm,GRN,MO,Challenger,Lost,450.0,19
+State Representative,Matt Heltz,DEM,MO,Open,Lost,430.0,121
+State Representative,Simon Abela,REP,MO,Open,Lost,305.0,15
+State Representative,John Paul Tomko,REP,MO,Open,Lost,300.38,5
+State Representative,Carol Hexem,GRN,MO,Challenger,Lost,300.0,70
+State Representative,Donald Klein,DEM,MO,Open,Lost,281.08,70
+U.S. Representative,John Webb,REP,MO,Challenger,Lost,250.0,4
+State Representative,Erik Shelquist,REP,MO,Challenger,Lost,250.0,82
+State Representative,Cydney Johnson,DEM,MO,Open,Lost,200.0,76
+State Representative,Sheryl Gladney,DEM,MO,Open,Lost,194.55,72
+State Representative,Jennifer Bird,REP,MO,Challenger,Lost,100.0,91
+U.S. Representative,Robert Vroman,REP,MO,Challenger,Lost,100.0,1
+State Representative,Robert Debbaut,GRN,MO,Challenger,Lost,93.35,140
+State Representative,Nate Branscom,DEM,MO,Challenger,Lost,48.02,131
+State Representative,Tom Hurst,REP,MO,Incumbent,Won,-18900.0,62
+U.S. Representative,C Fredland,CON,MO,Challenger,Lost,0.0,5
+U.S. Senator,Leonard Steinman,DEM,MO,Challenger,Lost,0.0,nan
+U.S. Senator,Travis Gonzalez,DEM,MO,Challenger,Lost,0.0,nan
+U.S. Representative,Robert Hazel,DEM,MO,Open,Lost,0.0,2
+State Representative,Ronald Pember,DEM,MO,Challenger,Lost,0.0,145
+State Representative,Janice Brill,DEM,MO,Open,Lost,0.0,32
+U.S. Representative,William Haas,DEM,MO,Open,Lost,0.0,2
+U.S. Representative,Vince Jennings,DEM,MO,Open,Lost,0.0,7
+U.S. Senator,David Faust,DEM,MO,Challenger,Lost,0.0,nan
+U.S. Senator,John Hogan,DEM,MO,Challenger,Lost,0.0,nan
+U.S. Senator,Carla Wright,DEM,MO,Challenger,Lost,0.0,nan
+U.S. Representative,Joshua Shipp,DEM,MO,Challenger,Lost,0.0,1
+U.S. Representative,Kenneth Hatfield,DEM,MO,Open,Lost,0.0,7
+State Senator,Edward Thurman,DEM,MO,Open,Lost,0.0,22
+State Representative,Bob Bergland,DEM,MO,Open,Lost,0.0,9
+State Representative,Denny Braun,DEM,MO,Open,Lost,0.0,105
+State Representative,Kayla Chick,DEM,MO,Challenger,Lost,0.0,117
+State Representative,Gayla Dace,DEM,MO,Open,Lost,0.0,146
+State Representative,Chad Fletcher,DEM,MO,Challenger,Lost,0.0,163
+State Representative,John Foster,DEM,MO,Open,Lost,0.0,102
+State Representative,Shea Tan Henderson,DEM,MO,Challenger,Lost,0.0,28
+State Representative,Maxine Johnson,DEM,MO,Open,Lost,0.0,79
+State Representative,Caleb McKnight,DEM,MO,Challenger,Lost,0.0,8
+State Representative,Jeanine Molloff,DEM,MO,Open,Lost,0.0,72
+State Representative,Eric Reese,DEM,MO,Open,Lost,0.0,85
+State Representative,Bobby Shields,DEM,MO,Open,Lost,0.0,86
+State Representative,Matthew Simmons,DEM,MO,Open,Lost,0.0,33
+State Representative,Jerry Sparks,DEM,MO,Open,Lost,0.0,159
+State Representative,Paul Taylor,DEM,MO,Challenger,Lost,0.0,1
+State Representative,Shane Thompson,DEM,MO,Open,Lost,0.0,10
+State Representative,Mariah Vandiver,DEM,MO,Challenger,Lost,0.0,80
+State Representative,Shawn Finklein,DEM,MO,Open,Lost,0.0,64
+U.S. Senator,Jo Crain,GRN,MO,Challenger,Lost,0.0,nan
+U.S. Representative,Maurice Copeland,GRN,MO,Challenger,Lost,0.0,5
+U.S. Representative,David Justus Arnold,GRN,MO,Challenger,Lost,0.0,2
+Auditor,Don Fitz,GRN,MO,Challenger,Lost,0.0,nan
+U.S. Senator,Jerome Bauer,GRN,MO,Open,Lost,0.0,nan
+State Representative,Mollie Dyer,GRN,MO,Open,Lost,0.0,162
+State Representative,Robert Warbin,GRN,MO,Open,Lost,0.0,87
+State Representative,Jeff Francis,IND,MO,Challenger,Lost,0.0,23
+State Representative,Jackie Townes McGee,IND,MO,Challenger,Lost,0.0,149
+U.S. Representative,Cisse Spragins,LIB,MO,Open,Lost,0.0,5
+State Representative,Bill Slantz,LIB,MO,Challenger,Lost,0.0,105
+Auditor,Sean Otoole,LIB,MO,Challenger,Lost,0.0,nan
+State Senator,Jim Higgins,LIB,MO,Challenger,Lost,0.0,24
+State Representative,Ladonna Higgins,LIB,MO,Open,Lost,0.0,71
+State Representative,Rick Vandeven,LIB,MO,Challenger,Lost,0.0,151
+State Representative,Timothy Peterman,LIB,MO,Challenger,Lost,0.0,36
+U.S. Representative,Dan Hogan,LIB,MO,Challenger,Lost,0.0,6
+U.S. Representative,Mark Bliss,LIB,MO,Challenger,Lost,0.0,4
+U.S. Representative,Benjamin Brixey,LIB,MO,Challenger,Lost,0.0,7
+State Representative,William Truman Wayne,LIB,MO,Challenger,Lost,0.0,51
+State Representative,Dan Elder,LIB,MO,Open,Lost,0.0,79
+U.S. Representative,Robb Cunningham,LIB,MO,Challenger,Lost,0.0,1
+U.S. Representative,Larry Kirk,LIB,MO,Challenger,Lost,0.0,2
+U.S. Representative,Donald Stolle,LIB,MO,Challenger,Lost,0.0,3
+U.S. Representative,Steven Koonse,LIB,MO,Open,Lost,0.0,4
+U.S. Representative,Alexander Howell,LIB,MO,Challenger,Lost,0.0,5
+U.S. Representative,Jonathan Shell,LIB,MO,Challenger,Lost,0.0,8
+State Senator,Steven Wilson,LIB,MO,Open,Lost,0.0,6
+State Representative,Andrew Bolin,LIB,MO,Challenger,Lost,0.0,83
+State Representative,Carl-Herman Freese,LIB,MO,Challenger,Lost,0.0,63
+State Representative,Eric Harris,LIB,MO,Challenger,Lost,0.0,69
+State Representative,Stephen Johnson,LIB,MO,Challenger,Lost,0.0,88
+State Representative,James Scariot,LIB,MO,Challenger,Lost,0.0,91
+State Representative,Jeremy Utterback,LIB,MO,Challenger,Lost,0.0,28
+Appellate Court District Southern-Bates Seat,Jeffrey Bates,IND,MO,Incumbent,Won,0.0,nan
+Supreme Court-Russell Seat,Mary Rhodes Russell,IND,MO,Incumbent,Won,0.0,nan
+Appellate Court District Western-Ardini Seat,Edward Ardini Jr.,IND,MO,Incumbent,Won,0.0,nan
+Appellate Court District Eastern-Dolan Seat,Colleen Dolan,IND,MO,Incumbent,Won,0.0,nan
+Appellate Court District Eastern-Page Seat,Lisa Page,IND,MO,Incumbent,Won,0.0,nan
+Supreme Court-Powell Seat,Wesley Brent Powell,IND,MO,Open,Won,0.0,nan
+State Senator,Kevin Corlew,REP,MO,Open,Lost,0.0,17
+State Representative,Jeffrey Pogue,REP,MO,Incumbent,Won,0.0,143
+U.S. Representative,Jacob Turk,REP,MO,Challenger,Lost,0.0,5
+U.S. Senator,Kristi Nichols,REP,MO,Open,Lost,0.0,nan
+U.S. Senator,Ken Patterson,REP,MO,Open,Lost,0.0,nan
+U.S. Representative,Camille Lombardi-Olive,REP,MO,Open,Lost,0.0,1
+State Representative,Randy Dinwiddie,REP,MO,Open,Lost,0.0,59
+State Representative,Steven McKnight,REP,MO,Open,Lost,0.0,85
+U.S. Senator,Fred Ryman,REP,MO,Open,Lost,0.0,nan
+U.S. Senator,Brian Hagg,REP,MO,Open,Lost,0.0,nan
+U.S. Senator,Bradley Krembs,REP,MO,Open,Lost,0.0,nan
+U.S. Senator,Peter Pfeifer,REP,MO,Open,Lost,0.0,nan
+U.S. Representative,Edward Van Deventer Jr.,REP,MO,Open,Lost,0.0,1
+U.S. Representative,Chadwick Bicknell,REP,MO,Challenger,Lost,0.0,3
+U.S. Representative,Richonda Oaks,REP,MO,Open,Lost,0.0,5
+U.S. Representative,Benjamin Holcomb,REP,MO,Challenger,Lost,0.0,7
+U.S. Representative,Lance Norris,REP,MO,Challenger,Lost,0.0,7
+State Senator,Leonard Jonas Hughes IV,REP,MO,Challenger,Lost,0.0,8
+State Senator,Gregory Powers,REP,MO,Challenger,Lost,0.0,24
+State Representative,Amy Babcock,REP,MO,Challenger,Lost,0.0,2
+State Representative,Billy Babcock,REP,MO,Open,Lost,0.0,10
+State Representative,Dennis Lee Chilton,REP,MO,Challenger,Lost,0.0,135
+State Representative,Marvin Fricke,REP,MO,Challenger,Lost,0.0,115
+State Representative,Lloyd Buck Graham,REP,MO,Open,Lost,0.0,11
+State Representative,Ed Lockwood,REP,MO,Open,Lost,0.0,43
+State Representative,Patti Longworth,REP,MO,Challenger,Lost,0.0,67
+State Representative,Michael Phillips,REP,MO,Open,Lost,0.0,132
+State Representative,Sarah Semple,REP,MO,Challenger,Lost,0.0,132
+State Representative,Amber Elizabeth Thomsen,REP,MO,Challenger,Lost,0.0,156
+State Representative,Laurel Youmans,REP,MO,Open,Lost,0.0,132
+State Representative,Tony Lovasco,REP,MO,Open,Won,0.0,64

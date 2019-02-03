@@ -1,0 +1,359 @@
+office,candidate,party,state,incumbency,result,total money,district
+Governor,Anthony Brown,DEM,MD,Open,Lost-General,15717807.77,nan
+Governor,Lawrence Hogan Jr.,REP,MD,Open,Won-General,6523273.36,nan
+U.S. Representative,Steny Hoyer,DEM,MD,Incumbent,Won-General,3584567.0,5
+U.S. Representative,John Delaney,DEM,MD,Incumbent,Won-General,2530023.57,6
+Attorney General,Brian Frosh,DEM,MD,Open,Won-General,2144072.44,nan
+Comptroller,Peter Franchot,DEM,MD,Incumbent,Won-General,1678511.28,nan
+U.S. Representative,Daniel John Bongino,REP,MD,Challenger,Lost-General,1458291.97,6
+U.S. Representative,Andrew Harris,REP,MD,Incumbent,Won-General,1293522.37,1
+U.S. Representative,Christopher Van Hollen Jr.,DEM,MD,Incumbent,Won-General,1081692.0,8
+U.S. Representative,A Dutch Ruppersberger,DEM,MD,Incumbent,Won-General,1069648.73,2
+State Senator,Thomas Miller Jr.,DEM,MD,Incumbent,Won-General,991123.0,27
+State Representative,Michael Busch,DEM,MD,Incumbent,Won-General,950772.32,30A
+U.S. Representative,Elijah Cummings,DEM,MD,Incumbent,Won-General,888750.5,7
+U.S. Representative,John Sarbanes,DEM,MD,Incumbent,Won-General,774892.0,3
+U.S. Representative,William Tilghman,DEM,MD,Challenger,Lost-General,574512.81,1
+U.S. Representative,Donna Fern Edwards,DEM,MD,Incumbent,Won-General,571253.16,4
+State Senator,Thomas McClain Middleton,DEM,MD,Incumbent,Won-General,482234.86,28
+State Senator,Guy Guzzone,DEM,MD,Open,Won-General,461044.0,13
+State Senator,Douglas J Peters,DEM,MD,Incumbent,Won-General,412367.0,23
+State Senator,James Rosapepe,DEM,MD,Incumbent,Won-General,358651.93,21
+State Senator,Robert Zirkin,DEM,MD,Incumbent,Won-General,357675.0,11
+State Senator,James Mathias,DEM,MD,Incumbent,Won-General,356093.57,38
+State Representative,Dereck Eugene Davis,DEM,MD,Incumbent,Won-General,346175.1,25
+State Senator,Mary Dulany James,DEM,MD,Open,Lost-General,345845.0,34
+State Senator,John Astle,DEM,MD,Incumbent,Won-General,335902.23,30
+State Senator,John Olszewski Jr.,DEM,MD,Open,Lost-General,323037.75,6
+State Senator,Catherine Pugh,DEM,MD,Incumbent,Won-General,311068.77,40
+State Representative,Mark Nicholas Fisher,REP,MD,Incumbent,Won-General,306546.59,27C
+State Senator,James Brochin,DEM,MD,Incumbent,Won-General,274592.3,42
+State Senator,Ulysses Currie,DEM,MD,Incumbent,Won-General,270109.72,25
+State Senator,Michael Hough,REP,MD,Open,Won-General,267188.82,4
+State Representative,Herb McMillan,REP,MD,Incumbent,Won-General,264609.8,30A
+State Representative,Brooke Elizabeth Lierman,DEM,MD,Challenger,Won-General,260404.42,46
+State Senator,Nathaniel McFadden,DEM,MD,Incumbent,Won-General,253453.0,45
+State Senator,Susan Clair Lee,DEM,MD,Open,Won-General,252127.39,16
+State Representative,Sheila Ellis Hixson,DEM,MD,Incumbent,Won-General,242166.43,20
+State Senator,James Degrange Sr.,DEM,MD,Incumbent,Won-General,235960.28,32
+State Senator,Joan Carter Conway,DEM,MD,Incumbent,Won-General,232090.62,43
+State Representative,Maggie McIntosh,DEM,MD,Incumbent,Won-General,231933.84,43
+State Representative,Hasan Mahfuz Jalisi,DEM,MD,Challenger,Won-General,231726.32,10
+State Representative,Kumar Barve,DEM,MD,Incumbent,Won-General,230253.91,17
+State Representative,Norman Conway,DEM,MD,Incumbent,Lost-General,222981.45,38B
+State Representative,Marc Alan Korman,DEM,MD,Challenger,Won-General,222048.93,16
+State Senator,Brian Feldman,DEM,MD,Open,Won-General,221561.03,15
+State Senator,Bill Ferguson,DEM,MD,Incumbent,Won-General,219712.74,46
+State Senator,Joanne Benson,DEM,MD,Incumbent,Won-General,219618.9,24
+State Representative,Charles William Frick,DEM,MD,Incumbent,Won-General,216946.07,16
+State Representative,Peter Hammen,DEM,MD,Incumbent,Won-General,214222.59,46
+State Representative,Shelly Hettleman,DEM,MD,Challenger,Won-General,210350.09,11
+State Representative,John Bohanan Jr.,DEM,MD,Incumbent,Lost-General,206215.94,29B
+State Senator,Katherine Ann Klausmeier,DEM,MD,Incumbent,Won-General,204765.0,8
+State Representative,Talmadge Branch,DEM,MD,Incumbent,Won-General,195081.0,45
+State Senator,Cheryl Kagan,DEM,MD,Open,Won-General,191868.29,17
+State Senator,Edward Kasemeyer,DEM,MD,Incumbent,Won-General,190910.37,12
+State Representative,Charles Barkley,DEM,MD,Incumbent,Won-General,190887.0,39
+State Representative,Robert Bowie Jr.,DEM,MD,Challenger,Lost-General,190703.0,7
+State Representative,Joseph Vallario Jr.,DEM,MD,Incumbent,Won-General,181825.0,23B
+State Senator,Roger Manno,DEM,MD,Incumbent,Won-General,181811.78,19
+State Senator,Victor Ramirez,DEM,MD,Incumbent,Won-General,181184.61,47
+State Representative,Dan Morhaim,DEM,MD,Incumbent,Won-General,177895.07,11
+State Representative,Ariana Marie Kelly,DEM,MD,Incumbent,Won-General,170744.43,16
+State Representative,Aruna Miller,DEM,MD,Incumbent,Won-General,169875.0,15
+State Representative,Kathryn Szeliga,REP,MD,Incumbent,Won-General,164365.37,7
+State Representative,Johnny Mautz,REP,MD,Open,Won-General,164119.94,37B
+State Representative,Nicholaus Kipke,REP,MD,Incumbent,Won-General,164056.01,31B
+State Senator,Jamin Ben Raskin,DEM,MD,Incumbent,Won-General,164023.02,20
+State Representative,Mary Lynn Washington,DEM,MD,Incumbent,Won-General,163926.14,43
+State Representative,Christopher West,REP,MD,Challenger,Won-General,159755.0,42B
+State Representative,James Tarlau,DEM,MD,Open,Won-General,159609.08,47A
+State Representative,Jay Walker,DEM,MD,Incumbent,Won-General,155702.0,26
+State Senator,Charles Anthony Muse,DEM,MD,Incumbent,Won-General,153099.61,26
+State Representative,Neil Parrott,REP,MD,Incumbent,Won-General,148023.82,2A
+State Representative,Stephen Lafferty,DEM,MD,Incumbent,Won-General,145089.65,42A
+State Representative,Justin Ready,REP,MD,Incumbent,Won-General,144811.69,5
+State Senator,Richard Stuart Madaleno Jr.,DEM,MD,Incumbent,Won-General,144774.21,18
+State Representative,Dana Stein,DEM,MD,Incumbent,Won-General,144663.32,11
+State Senator,Ryan Casey Frederic,DEM,MD,Open,Lost-General,142735.0,9
+State Senator,Delores Goodwin Kelley,DEM,MD,Incumbent,Won-General,138610.0,10
+State Senator,Nancy King,DEM,MD,Incumbent,Won-General,138322.59,39
+State Representative,Adrienne Jones,DEM,MD,Incumbent,Won-General,135026.0,10
+State Representative,Kelly Schulz,REP,MD,Incumbent,Won-General,127261.86,4
+State Representative,Kathy Afzali,REP,MD,Incumbent,Won-General,124808.38,4
+State Representative,Susan Krebs,REP,MD,Incumbent,Won-General,124795.0,5
+State Senator,Michael McDermott,REP,MD,Challenger,Lost-General,124424.55,38
+State Representative,Mike Weir Jr.,DEM,MD,Incumbent,Lost-General,123439.78,6
+State Representative,Marvin Holmes Jr.,DEM,MD,Incumbent,Won-General,121888.0,23B
+State Representative,Clarence Lam,DEM,MD,Open,Won-General,121828.14,12
+State Representative,Anne Kaiser,DEM,MD,Incumbent,Won-General,121639.0,14
+State Representative,Sue Kullen,DEM,MD,Challenger,Lost-General,118175.96,27C
+State Senator,Ronald Young,DEM,MD,Incumbent,Won-General,115487.41,3
+State Representative,Cory McCray,DEM,MD,Challenger,Won-General,115281.15,45
+State Representative,Susan Aumann,REP,MD,Incumbent,Won-General,114790.43,42B
+State Representative,Luke Clippinger,DEM,MD,Incumbent,Won-General,110261.93,46
+State Representative,Rose Maria Li,REP,MD,Challenger,Lost-General,108686.66,16
+State Representative,Shane Pendergrass,DEM,MD,Incumbent,Won-General,106219.39,13
+State Representative,Warren Miller,REP,MD,Incumbent,Won-General,105610.82,9A
+State Senator,Karen Montgomery,DEM,MD,Incumbent,Won-General,103412.25,14
+State Representative,David Moon,DEM,MD,Challenger,Won-General,102039.16,20
+State Senator,Stephen Hershey Jr.,REP,MD,Open,Won-General,101878.72,36
+State Senator,Edward Richard Reilly,REP,MD,Incumbent,Won-General,100075.32,33
+State Representative,Mary Ann Lisanti,DEM,MD,Challenger,Won-General,99481.75,34A
+State Representative,Michael Vaughn,DEM,MD,Incumbent,Won-General,99233.0,24
+State Representative,Craig Zucker,DEM,MD,Incumbent,Won-General,98498.4,14
+State Representative,Samuel Rosenberg,DEM,MD,Incumbent,Won-General,97428.0,41
+State Senator,Joseph Getty,REP,MD,Incumbent,Won-General,97015.37,5
+State Representative,Vanessa Atterbeary,DEM,MD,Challenger,Won-General,96903.95,13
+State Representative,Benjamin Fred Kramer,DEM,MD,Incumbent,Won-General,96309.46,19
+State Representative,Tom Coale,DEM,MD,Open,Lost-General,94658.23,9B
+State Representative,Benjamin Brooks,DEM,MD,Challenger,Won-General,94216.62,10
+State Senator,Tim Robinson,REP,MD,Challenger,Lost-General,94100.0,42
+State Representative,Anne Healey,DEM,MD,Incumbent,Won-General,92429.0,22
+State Senator,Gail Bates,REP,MD,Open,Won-General,91243.7,9
+State Representative,Terri Lynn Hill,DEM,MD,Open,Won-General,90597.33,12
+State Representative,Eric Bromwell,DEM,MD,Incumbent,Won-General,90045.99,8
+State Senator,Wayne Norman,REP,MD,Open,Won-General,89832.49,35
+State Representative,Cheryl Glenn,DEM,MD,Incumbent,Won-General,89610.0,45
+State Representative,Mary Elizabeth Carozza,REP,MD,Open,Won-General,88473.46,38C
+State Representative,Ned Carey,DEM,MD,Open,Won-General,88450.44,31A
+State Representative,David Vincent Fraser-Hidalgo,DEM,MD,Challenger,Won-General,87780.0,15
+State Representative,Alonzo Washington,DEM,MD,Challenger,Won-General,87555.26,22
+State Representative,John Cluster Jr.,REP,MD,Incumbent,Won-General,86779.93,8
+State Senator,Adelaide Eckardt,REP,MD,Open,Won-General,86645.5,37
+State Senator,Jonathan B) Jennings,REP,MD,Incumbent,Won-General,86180.97,7
+State Representative,Theodore John Sophocleus,DEM,MD,Incumbent,Won-General,84425.0,32
+State Representative,William Smith Jr.,DEM,MD,Challenger,Won-General,83876.59,20
+State Senator,Shirley Nathan-Pulliam,DEM,MD,Open,Won-General,83762.0,44
+State Representative,Alfred Carr Jr.,DEM,MD,Incumbent,Won-General,83089.19,18
+State Representative,Charles William Ferrar,DEM,MD,Challenger,Lost-General,82288.0,30A
+State Representative,Kirill Reznik,DEM,MD,Incumbent,Won-General,82010.62,39
+State Representative,Kriselda Valderrama,DEM,MD,Incumbent,Won-General,81556.14,26
+State Representative,Eric Luedtke,DEM,MD,Incumbent,Won-General,80321.57,14
+State Representative,Bill Paulshock,DEM,MD,Challenger,Lost-General,79672.5,8
+State Representative,Mark Chang,DEM,MD,Challenger,Won-General,79419.0,32
+State Representative,Frank Conaway Jr.,DEM,MD,Incumbent,Won-General,77972.5,40
+State Representative,Frank Turner,DEM,MD,Incumbent,Won-General,77961.72,13
+State Representative,Jay Jacobs,REP,MD,Incumbent,Won-General,75815.5,36
+State Representative,Pamela Beidle,DEM,MD,Incumbent,Won-General,74546.38,32
+State Representative,Jeff Waldstreicher,DEM,MD,Incumbent,Won-General,74246.85,18
+State Representative,Geraldine Valentino-Smith,DEM,MD,Incumbent,Won-General,74140.0,23A
+State Representative,Erek Barron,DEM,MD,Challenger,Won-General,73115.52,24
+State Senator,Stephen Waugh,REP,MD,Challenger,Won-General,71287.56,29
+State Representative,Sally Jameson,DEM,MD,Incumbent,Won-General,70428.31,28
+State Representative,Bonnie Cullison,DEM,MD,Incumbent,Won-General,70091.99,19
+State Representative,Andrew Platt,DEM,MD,Challenger,Won-General,68497.0,17
+State Representative,Kathleen Dumais,DEM,MD,Incumbent,Won-General,68070.0,15
+State Representative,Haven Neely Shoemaker Jr.,REP,MD,Challenger,Won-General,66402.0,5
+State Representative,Eric Ebersole,DEM,MD,Open,Won-General,64480.18,12
+State Senator,Roy Dyson,DEM,MD,Incumbent,Lost-General,62080.0,29
+State Representative,Carolyn B Howard,DEM,MD,Incumbent,Won-General,61919.5,24
+State Representative,"te Morales, Marice IV",DEM,MD,Challenger,Won-General,61454.77,19
+State Senator,Franklin Delano Howard Jr.,REP,MD,Challenger,Lost-General,60444.25,14
+State Representative,Anthony Odonnell,REP,MD,Incumbent,Won-General,59977.93,29C
+State Representative,Nick Scarpelli,DEM,MD,Open,Lost-General,59221.28,1C
+State Representative,Mike McKay,REP,MD,Open,Won-General,55739.5,1C
+State Senator,Christopher Shank,REP,MD,Incumbent,Won-General,55405.2,2
+State Senator,Bob Cassilly,REP,MD,Open,Won-General,55174.92,34
+State Representative,Matt Morgan,REP,MD,Open,Won-General,55050.13,29A
+State Senator,Paul Pinsky,DEM,MD,Incumbent,Won-General,54265.5,22
+State Representative,Mitchelle Stephenson,DEM,MD,Open,Lost-General,53554.2,30B
+State Representative,T Wilson,DEM,MD,Incumbent,Won-General,53380.47,28
+State Representative,Joseline Pena-Melnyk,DEM,MD,Incumbent,Won-General,52452.35,21
+State Representative,Ernest Edwin Edmundson,REP,MD,Challenger,Lost-General,52325.0,15
+State Representative,Pat McDonough,REP,MD,Incumbent,Won-General,51616.28,7
+State Representative,Kevin Kelly,DEM,MD,Incumbent,Lost-General,51467.51,1B
+State Representative,Elizabeth Paul,DEM,MD,Challenger,Lost-General,50904.98,2A
+State Representative,David Rudolph,DEM,MD,Incumbent,Lost-General,50772.04,35A
+State Representative,Cathy Vitale,REP,MD,Incumbent,Won-General,50621.12,33
+State Representative,Stephen Slater,DEM,MD,Open,Lost-General,50483.74,3B
+State Representative,Karen Lewis Young,DEM,MD,Open,Won-General,50365.82,3A
+State Senator,Bryan Warner Simonaire,REP,MD,Incumbent,Won-General,49599.28,31
+State Representative,Sid Saab,REP,MD,Challenger,Won-General,49480.0,33
+State Representative,Benjamin Barnes,DEM,MD,Incumbent,Won-General,49087.1,21
+State Representative,Antonio Hayes,DEM,MD,Challenger,Won-General,48308.75,40
+State Representative,Richard Impallaria,REP,MD,Incumbent,Won-General,48004.0,7
+State Representative,Tawanna Gaines,DEM,MD,Incumbent,Won-General,47947.0,22
+State Representative,Robert Leonard,DEM,MD,Challenger,Lost-General,47530.51,42B
+State Representative,John Donoghue,DEM,MD,Incumbent,Lost-General,47239.0,2B
+State Representative,Daniel M Slade,DEM,MD,Open,Lost-General,46162.0,29A
+State Representative,Steven Arentz,REP,MD,Challenger,Won-General,44751.65,36
+State Representative,Pat Young,DEM,MD,Open,Won-General,44200.77,44B
+State Representative,Charles Sydnor III,DEM,MD,Open,Won-General,44177.98,44B
+State Representative,Michael Jackson,DEM,MD,Open,Won-General,43318.0,27B
+State Representative,Seth Adam Howard,REP,MD,Open,Won-General,42942.0,30B
+State Senator,George Edwards,REP,MD,Incumbent,Won-General,42469.94,1
+State Representative,Len Zuza,DEM,MD,Challenger,Lost-General,42163.11,29C
+State Representative,Cassandra Beverley,DEM,MD,Challenger,Lost-General,41062.84,34B
+State Representative,Deborah Christine Rey,REP,MD,Challenger,Won-General,41011.08,29B
+State Representative,Keith Haynes,DEM,MD,Incumbent,Won-General,40515.0,44A
+State Senator,Lisa Gladden,DEM,MD,Incumbent,Won-General,39965.0,41
+State Representative,Christopher Troy Adams,REP,MD,Open,Won-General,39446.0,37B
+State Representative,Carl Anderton Jr.,REP,MD,Challenger,Won-General,39326.51,38B
+U.S. Representative,Nancy Hoyt,REP,MD,Challenger,Lost-General,37810.97,4
+State Representative,Barbara Robinson,DEM,MD,Incumbent,Won-General,37594.17,40
+State Representative,Brett Wilson,REP,MD,Challenger,Won-General,37450.0,2B
+State Senator,Christopher Robinson,DEM,MD,Open,Lost-General,36908.82,37
+State Representative,Edith Jerry Patterson,DEM,MD,Challenger,Won-General,36790.14,28
+State Representative,Renee Smith,DEM,MD,Challenger,Lost-General,35465.0,8
+State Representative,Robert Flanagan,REP,MD,Open,Won-General,35400.65,9B
+State Representative,William Anthony McConkey,REP,MD,Incumbent,Won-General,35285.0,33
+State Representative,Ana Sol Gutierrez,DEM,MD,Incumbent,Won-General,34245.0,18
+State Representative,Teresa Reilly,REP,MD,Open,Won-General,33535.37,35B
+State Representative,Jason Buckel,REP,MD,Challenger,Won-General,31586.15,1B
+State Senator,Jesse Tyler Pippy,REP,MD,Challenger,Lost-General,31457.57,12
+State Representative,Robert Alan Thornton Jr.,DEM,MD,Challenger,Lost-General,31061.6,36
+State Representative,James Waters Gilchrist,DEM,MD,Incumbent,Won-General,31007.23,17
+State Representative,Christian Joseph Miele,REP,MD,Challenger,Won-General,30727.76,8
+State Representative,Carol Krimm,DEM,MD,Open,Won-General,28776.2,3A
+State Representative,James Proctor Jr.,DEM,MD,Incumbent,Won-General,28725.0,27A
+State Representative,Diana Fennell,DEM,MD,Open,Won-General,28707.43,47A
+State Representative,Jacob James Mohorovic Jr.,DEM,MD,Challenger,Lost-General,28581.5,6
+State Representative,Meagan Christin Simonaire,REP,MD,Challenger,Won-General,28545.12,31B
+State Representative,Henry Green,DEM,MD,Challenger,Lost-General,28501.43,33
+State Representative,Shane Robinson,DEM,MD,Incumbent,Won-General,27611.0,39
+State Representative,Wendell Beitzel,REP,MD,Incumbent,Won-General,26640.0,1A
+State Representative,Robin Grammer Jr.,REP,MD,Challenger,Won-General,26328.58,6
+State Senator,Jody Venkatesan,REP,MD,Open,Lost-General,25805.58,13
+State Representative,Irving Pinder,DEM,MD,Challenger,Lost-General,25448.79,36
+State Representative,Tim Walters,REP,MD,Challenger,Lost-General,24145.0,32
+State Representative,Robert Long,REP,MD,Challenger,Won-General,24135.21,6
+State Representative,Trent Mitchell Kittleman,REP,MD,Challenger,Won-General,23180.89,9A
+State Representative,Susan McComas,REP,MD,Incumbent,Won-General,22920.37,34B
+State Representative,Andrew Cassilly,REP,MD,Open,Won-General,21000.35,35B
+State Representative,Darryl Barnes,DEM,MD,Challenger,Won-General,20960.87,25
+State Representative,Judy Davis,DEM,MD,Open,Lost-General,20841.95,38C
+State Representative,Kevin Bailey Hornberger,REP,MD,Challenger,Won-General,20449.93,35A
+State Representative,Glen Glass,REP,MD,Incumbent,Won-General,19987.25,34A
+State Representative,Paul Smith,REP,MD,Open,Lost-General,19862.88,3A
+U.S. Representative,Christopher Parry Chaffee,REP,MD,Challenger,Lost-General,19765.0,5
+State Representative,Nathaniel Oaks,DEM,MD,Incumbent,Won-General,17955.0,41
+State Representative,Barbara Ann Frush,DEM,MD,Incumbent,Won-General,17408.0,21
+State Senator,Johnny Ray Salling,REP,MD,Open,Won-General,17059.0,6
+State Senator,Dan Rupli,DEM,MD,Open,Lost-General,16324.96,4
+State Representative,Angela Angel,DEM,MD,Challenger,Won-General,15955.05,25
+State Representative,William Folden,REP,MD,Open,Won-General,15880.28,3B
+State Senator,Don Quinn,REP,MD,Challenger,Lost-General,15849.11,30
+State Representative,Gene Stanton,DEM,MD,Challenger,Lost-General,15522.99,4
+U.S. Representative,David Wallace II,REP,MD,Challenger,Lost-General,15370.01,8
+State Representative,Norman Gifford Jr.,DEM,MD,Challenger,Lost-General,15275.39,7
+State Representative,Marla Posey-Moss,DEM,MD,Challenger,Lost-General,14847.14,34A
+Comptroller,William Henry Campbell,REP,MD,Challenger,Lost-General,14491.85,nan
+State Senator,Corey Stottlemyer,REP,MD,Challenger,Lost-General,14379.26,3
+State Representative,Victoria Wilkins,REP,MD,Open,Lost-General,13491.34,3A
+State Representative,Michael McAllister,REP,MD,Challenger,Lost-General,13476.03,42A
+State Representative,Richard Metzgar,REP,MD,Challenger,Won-General,13454.55,6
+State Representative,Will Campos,DEM,MD,Open,Won-General,13290.0,47B
+State Representative,Charles James Otto,REP,MD,Incumbent,Won-General,12780.0,38A
+State Representative,Joseph Fioravante,REP,MD,Challenger,Lost-General,12702.97,32
+State Representative,Nicholas D Amado Jr.,DEM,MD,Challenger,Lost-General,12319.8,6
+State Representative,Keasha Haythe,DEM,MD,Open,Lost-General,11756.0,37B
+State Representative,Patricia Ann Fenati,REP,MD,Challenger,Lost-General,11673.21,14
+State Representative,Mike Blizzard,REP,MD,Challenger,Lost-General,11385.52,34A
+State Representative,Danny Eaton,REP,MD,Challenger,Lost-General,11199.46,13
+State Representative,Cy Okoro,DEM,MD,Challenger,Lost-General,11017.57,24
+State Representative,Konstantinos George Alexakis,DEM,MD,Challenger,Lost-General,11011.84,33
+State Senator,Benjamin Tilghman,DEM,MD,Open,Lost-General,10744.22,36
+State Representative,David Vogt III,REP,MD,Challenger,Won-General,10669.89,4
+State Representative,Tony Knotts,DEM,MD,Challenger,Won-General,10640.7,26
+State Representative,Jeff Ghrist,REP,MD,Challenger,Won-General,10405.0,36
+State Representative,Sheree Sample-Hughes,DEM,MD,Open,Won-General,10235.0,37A
+State Representative,Joseph Hooe,REP,MD,Open,Lost-General,10025.0,12
+State Representative,Jimmy Williams,REP,MD,Challenger,Lost-General,9864.17,13
+State Representative,Terry Lynn Degraw,REP,MD,Open,Lost-General,9611.96,31A
+State Representative,Jill Carter,DEM,MD,Incumbent,Won-General,9449.88,41
+State Representative,Daniel Robinson,GRN,MD,Challenger,Lost-General,9435.0,20
+State Representative,Curt Anderson,DEM,MD,Incumbent,Won-General,9001.0,43
+State Representative,Andrew Serafini,REP,MD,Incumbent,Won-General,8900.0,2A
+State Representative,Dorothy Scanlan,DEM,MD,Challenger,Lost-General,8463.72,5
+State Representative,Christine Thron,REP,MD,Challenger,Lost-General,8337.06,15
+State Representative,James Ward Morrow,DEM,MD,Challenger,Lost-General,8205.0,9A
+State Representative,Tom Angelis,DEM,MD,Challenger,Lost-General,7587.0,33
+State Representative,Peter Definbaugh,DEM,MD,Challenger,Lost-General,7211.9,7
+State Representative,Philip Parenti,REP,MD,Open,Lost-General,7075.0,27B
+State Representative,Percy Purnell Jr.,DEM,MD,Challenger,Lost-General,7050.0,38A
+Attorney General,Jeffrey Pritzker,REP,MD,Open,Lost-General,6993.91,nan
+State Representative,Gordon Bull,REP,MD,Open,Lost-General,6744.84,12
+State Senator,Stephanie Boston,DEM,MD,Challenger,Lost-General,6445.0,10
+State Senator,Larry Barber,REP,MD,Challenger,Lost-General,5385.09,32
+State Senator,Bridget Kelly,DEM,MD,Open,Lost-General,5274.04,35
+State Representative,Charles Bailey,DEM,MD,Challenger,Lost-General,5090.0,2A
+State Representative,Sharon Trexler Begosh,REP,MD,Challenger,Lost-General,5053.4,14
+State Representative,Walter Carson,DEM,MD,Challenger,Lost-General,4977.48,9A
+State Senator,Anita Lombardi Riley,DEM,MD,Challenger,Lost-General,4940.0,5
+State Representative,Fred Price Jr.,REP,MD,Open,Lost-General,4813.43,47A
+State Representative,Chris Yates,REP,MD,Challenger,Lost-General,4812.25,13
+Governor,Shawn Quinn,LIB,MD,Open,Lost-General,4711.0,nan
+U.S. Representative,Charles Long,REP,MD,Challenger,Lost-General,4016.33,3
+State Representative,Katherine Butcher,REP,MD,Challenger,Lost-General,3815.66,21
+State Representative,Michael Ostroff,REP,MD,Challenger,Lost-General,3736.0,14
+State Representative,Gloria Chang,REP,MD,Challenger,Lost-General,3713.88,39
+State Senator,Jesse Allen Peed,REP,MD,Challenger,Lost-General,3695.0,27
+State Representative,Roger Bedingfield,REP,MD,Challenger,Lost-General,3156.7,46
+State Representative,Genevieve Lindner,REP,MD,Challenger,Lost-General,3070.0,30A
+U.S. Representative,Ian Schlakman,GRN,MD,Challenger,Lost-General,3067.0,2
+State Representative,Richard Martel Jr.,REP,MD,Open,Lost-General,2859.6,12
+State Representative,Lynn White,REP,MD,Challenger,Lost-General,2670.0,22
+State Senator,Bernard Joseph Reiter,REP,MD,Open,Lost-General,2600.0,44
+State Senator,Kory Boone,REP,MD,Challenger,Lost-General,2134.71,25
+State Representative,Xiangfei Cheng,REP,MD,Challenger,Lost-General,2094.15,39
+State Representative,Al Phillips,REP,MD,Challenger,Lost-General,2038.0,39
+State Representative,Mark Angell,REP,MD,Challenger,Lost-General,2008.98,32
+State Representative,Jeremiah Chiappelli,DEM,MD,Challenger,Lost-General,1806.56,31B
+State Senator,Kim Letke,DEM,MD,Challenger,Lost-General,1630.82,7
+State Representative,Martha Schaerr,REP,MD,Challenger,Lost-General,1600.0,19
+Attorney General,Leo Wayne Dymowski,LIB,MD,Open,Lost-General,1400.0,nan
+U.S. Representative,David Banach,REP,MD,Challenger,Lost-General,1275.65,2
+State Representative,Michael Russell,REP,MD,Open,Lost-General,1200.0,44B
+State Senator,Anthony Scott Harman,DEM,MD,Challenger,Lost-General,1060.0,31
+State Representative,Norma Secoura,REP,MD,Challenger,Lost-General,257.77,8
+State Representative,Rodney Benjamin,DEM,MD,Open,Lost-General,195.5,37B
+Governor,Charles Smith,DEM,MD,Open,Lost-General,40.0,nan
+State Representative,Frederick Ware-Newsome,DEM,MD,Open,Lost-General,1.0,44B
+State Senator,Janice Denise Fountaine,REP,MD,Challenger,Lost-General,0.0,22
+State Representative,Zachary Hands,DEM,MD,Challenger,Lost-General,0.0,5
+U.S. Representative,Arvin Vohra,LIB,MD,Challenger,Lost-General,0.0,4
+U.S. Representative,George Gluck,GRN,MD,Challenger,Lost-General,0.0,6
+U.S. Representative,Corrogan Vaughn,REP,MD,Challenger,Lost-General,0.0,7
+U.S. Representative,Scott Soffen,LIB,MD,Challenger,Lost-General,0.0,7
+U.S. Representative,Lih Young,DEM,MD,Challenger,Lost-General,0.0,8
+State Senator,Scott Collier,IND,MD,Open,Lost-General,0.0,6
+State Senator,Robin Keith Ficker,REP,MD,Open,Lost-General,0.0,15
+State Senator,Meyer Marks,REP,MD,Open,Lost-General,0.0,16
+State Senator,Kelley Howells,REP,MD,Challenger,Lost-General,0.0,26
+State Senator,Allan Donnelly,REP,MD,Challenger,Lost-General,0.0,28
+State Representative,Michael Tyrone Brown Sr.,DEM,MD,Challenger,Lost-General,0.0,10
+State Representative,William Newton,REP,MD,Challenger,Lost-General,0.0,10
+State Representative,Laura Harkins,REP,MD,Challenger,Lost-General,0.0,11
+State Representative,Robin Keith Ficker,REP,MD,Challenger,Lost-General,0.0,15
+State Representative,Shukoor Ahmed,IND,MD,Challenger,Lost-General,0.0,23A
+State Representative,Mike Hethmon,REP,MD,Challenger,Lost-General,0.0,23B
+State Representative,Robin Breedon,IND,MD,Challenger,Disqualified-General,0.0,23B
+State Representative,Joe Crawford,REP,MD,Challenger,Lost-General,0.0,27A
+State Representative,Jim Crawford,REP,MD,Challenger,Lost-General,0.0,28
+State Representative,Doug Morris,DEM,MD,Challenger,Lost-General,0.0,31B
+State Representative,Jeffrey Elliott,DEM,MD,Open,Lost-General,0.0,35B
+State Representative,Daniel Lewis Lamey,DEM,MD,Open,Lost-General,0.0,35B
+State Representative,Craig Little,DEM,MD,Challenger,Lost-General,0.0,42B
+State Representative,Greg Dorsey,IND,MD,Challenger,Lost-General,0.0,43
+State Representative,Rick Saffery,REP,MD,Challenger,Lost-General,0.0,45
+State Representative,Larry Wardlow Jr.,REP,MD,Challenger,Lost-General,0.0,45
+State Representative,Ronald Owens-Bey,LIB,MD,Challenger,Lost-General,0.0,45
+State Representative,Joseph Sedtal,REP,MD,Challenger,Lost-General,0.0,46
+U.S. Representative,Andrew Jaye Wildman,IND,MD,Challenger,Lost-General,0.0,8
+State Senator,Erik Lofstad,REP,MD,Challenger,Lost-General,0.0,8
+State Senator,Steve Zellers,REP,MD,Open,Lost-General,0.0,17
+State Senator,Felix Ed Gonzalez II,REP,MD,Challenger,Lost-General,0.0,19
+State Representative,John Andrews,REP,MD,Challenger,Lost-General,0.0,16
+State Representative,Lynda Del Castillo,REP,MD,Challenger,Lost-General,0.0,16
+State Representative,Duane Shelton,REP,MD,Challenger,Lost-General,0.0,46
+U.S. Representative,Dennis Fritz,IND,MD,Challenger,Lost-General,0.0,5
+State Senator,Taren James Nance,DEM,MD,Open,Lost-General,0.0,37
+Supreme Court District 006,Shirley Marie Watts,IND,MD,Incumbent,Won-Retention,0.0,nan
+Comptroller,Anjali Reed Phukan,OTHER,MD,Challenger,Lost-General,0.0,nan
+State Representative,Valerie Nia Shell,DEM,MD,Challenger,Lost-General,0.0,14
+State Representative,John Ford,REPUBLICAN WRITEIN,MD,Challenger,Lost-General,0.0,28
+Appellate Court District 2Nd Circuit,Douglas M Nazarian,IND,MD,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 6Th Circuit,Michael Reed,IND,MD,Incumbent,Won-Retention,0.0,nan
+Appellate Court District At Large-Arthur Seat,Kevin Arthur,IND,MD,Incumbent,Won-Retention,0.0,nan
+Appellate Court District At Large-Leahy Seat,Andrea Leahy,IND,MD,Incumbent,Won-Retention,0.0,nan

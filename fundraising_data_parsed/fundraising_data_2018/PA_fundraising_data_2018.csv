@@ -1,0 +1,623 @@
+office,candidate,party,state,incumbency,result,total money,district
+Governor,Thomas Wolf,DEM,PA,Incumbent,Won,34458178.88,nan
+U.S. Senator,Robert Casey Jr.,DEM,PA,Incumbent,Won,21249957.12,nan
+Governor,Scott Wagner,REP,PA,Challenger,Lost,18700299.61,nan
+U.S. Representative,Scott Wallace,DEM,PA,Open,Lost,14169637.06,1
+U.S. Representative,Conor Lamb,DEM,PA,Incumbent,Won,8968315.47,17
+Governor,Paul David Mango,REP,PA,Open,Lost,8470744.65,nan
+U.S. Senator,Louis Barletta,REP,PA,Challenger,Lost,7348294.31,nan
+U.S. Representative,Chrissy Houlahan,DEM,PA,Open,Won,4253338.19,6
+U.S. Representative,Brian Fitzpatrick,REP,PA,Open,Won,3374399.35,1
+U.S. Representative,Susan Wild,DEM,PA,Open,Won,3244177.99,7
+U.S. Representative,Keith James Rothfus,REP,PA,Incumbent,Lost,3159790.07,17
+U.S. Representative,George Kelly Jr.,REP,PA,Incumbent,Won,2576481.72,16
+U.S. Representative,John Chrin,REP,PA,Challenger,Lost,2286150.36,8
+U.S. Representative,Dan Meuser,REP,PA,Open,Won,2218290.16,9
+U.S. Representative,Matthew Alton Cartwright,DEM,PA,Incumbent,Won,2187291.24,8
+U.S. Representative,George Scott,DEM,PA,Challenger,Lost,2183529.88,10
+U.S. Representative,Richard Saccone,REP,PA,Open,Lost,1980641.32,14
+U.S. Representative,Jess King,DEM,PA,Challenger,Lost,1941381.32,11
+U.S. Representative,Mary Gay Scanlon,DEM,PA,Open,Won,1910278.71,5
+State Representative,Michael Turzai,REP,PA,Incumbent,Won,1901511.91,28
+State Senator,Jacob Corman III,REP,PA,Incumbent,Won,1711164.33,34
+U.S. Representative,Ronald Dincola,DEM,PA,Challenger,Lost,1684458.61,16
+U.S. Representative,Lloyd Smucker,REP,PA,Incumbent,Won,1544011.59,11
+U.S. Representative,John Joyce,REP,PA,Open,Won,1507803.44,13
+U.S. Representative,Denny Wolff,DEM,PA,Open,Lost,1469286.24,9
+U.S. Representative,Scott Gordon Perry,REP,PA,Incumbent,Won,1466259.41,10
+U.S. Representative,Glenn William Thompson Jr.,REP,PA,Incumbent,Won,1366182.64,15
+State Senator,Patrick Browne,REP,PA,Incumbent,Won,1358878.35,16
+Lieutenant Governor,Michael Stack III,DEM,PA,Incumbent,Lost,1356054.18,nan
+U.S. Representative,Madeleine Dean,DEM,PA,Open,Won,1336025.54,4
+Governor,Laura Ellsworth,REP,PA,Open,Lost,1322656.29,nan
+U.S. Representative,Dwight Evans,DEM,PA,Incumbent,Won,1112577.18,3
+U.S. Representative,Guy Reschenthaler,REP,PA,Open,Won,1047216.27,14
+U.S. Representative,Marty Nothstein,REP,PA,Open,Lost,979972.52,7
+U.S. Representative,Brendan Boyle,DEM,PA,Incumbent,Won,973954.67,2
+Lieutenant Governor,Nina Ahmad,DEM,PA,Challenger,Lost,948227.13,nan
+U.S. Representative,Michael Doyle,DEM,PA,Incumbent,Won,888607.7,18
+U.S. Representative,Ashley Lunkenheimer,DEM,PA,Open,Lost,806176.93,5
+U.S. Representative,Thomas Anthony Marino,REP,PA,Incumbent,Won,784107.47,12
+State Senator,Thomas McGarrigle Sr.,REP,PA,Open,Lost,766335.0,26
+U.S. Representative,Bibiana Boerio,DEM,PA,Open,Lost,687257.28,14
+State Representative,Frank Dermody,DEM,PA,Incumbent,Won,610620.0,33
+State Senator,Rudolph Vulakovich,REP,PA,Incumbent,Lost,557607.34,38
+State Senator,Jeremy Kevin Shaffer,REP,PA,Open,Lost,544148.0,38
+State Senator,Anthony Hardy Williams,DEM,PA,Incumbent,Won,534861.0,8
+U.S. Representative,Pearl Kim,REP,PA,Open,Lost,521360.86,5
+State Senator,Tanner Rouse,DEM,PA,Open,Lost,519745.06,26
+U.S. Representative,Dan David,REP,PA,Open,Lost,506044.7,4
+State Senator,John Yudichak,DEM,PA,Incumbent,Won,497095.97,14
+U.S. Representative,Rachel Reddick,DEM,PA,Open,Lost,463378.42,1
+State Senator,John Patrick Blake,DEM,PA,Incumbent,Won,447586.27,22
+U.S. Representative,Greg Edwards,DEM,PA,Open,Lost,442511.06,7
+Lieutenant Governor,Diana Irey Vaughan,REP,PA,Open,Lost,427734.94,nan
+State Senator,Elisabeth Baker,REP,PA,Incumbent,Won,423799.06,20
+State Representative,Sean Michael Kilkenny,DEM,PA,Open,Lost,402271.0,177
+State Senator,Robert Bruce Mensch,REP,PA,Incumbent,Won,400951.77,24
+U.S. Representative,Chet Beiler,REP,PA,Challenger,Lost,397867.0,11
+State Representative,Wendi Thomas,REP,PA,Open,Won,392371.47,178
+State Representative,Stanley Saylor,REP,PA,Incumbent,Won,388091.87,94
+State Senator,John Rafferty Jr.,REP,PA,Incumbent,Lost,382607.11,44
+State Representative,Helen Tai,DEM,PA,Open,Lost,364818.13,178
+U.S. Representative,Stephen Bloom,REP,PA,Open,Lost,335757.0,13
+State Senator,Lisa Boscola,DEM,PA,Incumbent,Won,331160.0,18
+State Representative,Timothy Jon Oneal,REP,PA,Open,Won,320225.23,48
+U.S. Representative,Molly Sheehan,DEM,PA,Open,Lost,317915.32,5
+State Senator,Steven Santarsiero,DEM,PA,Open,Won,293410.7,10
+State Senator,Camera Bartolotta,REP,PA,Incumbent,Won,292960.0,46
+State Senator,Robert Tomlinson,REP,PA,Incumbent,Won,285800.0,6
+State Senator,Mario Scavello,REP,PA,Incumbent,Won,285646.16,40
+U.S. Representative,Robert Solomon,DEM,PA,Open,Lost,285550.54,14
+State Senator,Wayne Fontana,DEM,PA,Incumbent,Won,281140.0,42
+U.S. Representative,Greg McCauley,REP,PA,Open,Lost,270224.99,6
+U.S. Senator,James Joseph Christiana III,REP,PA,Open,Lost,261858.7,nan
+State Representative,Warren Kampf,REP,PA,Incumbent,Lost,260562.3,157
+State Representative,Leanne Krueger-Braneky,DEM,PA,Incumbent,Won,256908.24,161
+U.S. Representative,Shira Goodman,DEM,PA,Open,Lost,245907.35,4
+U.S. Representative,George Halcovage,REP,PA,Open,Lost,243531.7,9
+U.S. Representative,Eric Feigl-Ding,DEM,PA,Open,Lost,238436.34,10
+State Senator,Patrick Stefano,REP,PA,Incumbent,Won,235245.0,32
+U.S. Representative,John Morganelli,DEM,PA,Open,Lost,233570.0,7
+State Senator,Kristin Lee Phillips-Hill,REP,PA,Open,Won,228927.67,28
+U.S. Representative,Dean Browning,REP,PA,Open,Lost,226600.0,7
+State Senator,Tina Davis,DEM,PA,Challenger,Lost,216040.62,6
+State Senator,Ryan Aument,REP,PA,Incumbent,Won,203057.79,36
+U.S. Representative,John Eichelberger,REP,PA,Open,Lost,185121.55,13
+U.S. Senator,Dale Ronald Kerns Jr.,LIB,PA,Challenger,Lost,184856.6,nan
+State Senator,Marguerite Quinn,REP,PA,Open,Lost,180120.0,10
+State Representative,Dan Frankel,DEM,PA,Incumbent,Won,171993.0,23
+State Senator,Christine Tartaglione,DEM,PA,Incumbent,Won,170925.0,2
+State Senator,Michael Folmer,REP,PA,Incumbent,Won,169445.51,48
+State Senator,Julie Dietz Wheeler,REP,PA,Open,Lost,169299.5,28
+State Representative,William Todd Stephens,REP,PA,Incumbent,Won,165543.5,151
+U.S. Representative,Lindy Li,DEM,PA,Open,Lost,161290.0,5
+State Representative,Michael Kelly Hanna Jr.,DEM,PA,Open,Lost,160469.99,76
+State Representative,Elizabeth Fiedler,DEM,PA,Open,Won,156995.51,184
+U.S. Representative,Marc Friedenberg,DEM,PA,Challenger,Lost,155963.39,12
+State Senator,Arthur Haywood III,DEM,PA,Incumbent,Won,154192.2,4
+State Representative,Kyle Mullins,DEM,PA,Open,Won,152771.03,112
+State Representative,Melissa Scott,DEM,PA,Challenger,Lost,148809.45,200
+U.S. Representative,Judy Herschel,DEM,PA,Open,Lost,146687.65,12
+State Representative,James Santora,REP,PA,Incumbent,Lost,144200.0,163
+State Representative,Kerry Benninghoff,REP,PA,Incumbent,Won,143900.0,171
+U.S. Representative,Susan Boser,DEM,PA,Challenger,Lost,143667.13,15
+State Representative,Mike Carroll,DEM,PA,Incumbent,Won,139175.0,118
+State Representative,Jordan Harris,DEM,PA,Incumbent,Won,139163.0,186
+State Representative,Summer Lee,DEM,PA,Open,Won,139031.83,34
+State Representative,Joseph Hohenstein,DEM,PA,Open,Won,138922.81,177
+State Representative,Paul Costa,DEM,PA,Incumbent,Lost,137205.77,34
+State Representative,Christopher Rabb,DEM,PA,Incumbent,Won,136055.46,200
+State Representative,Margaret Rita Borski,DEM,PA,Open,Lost,133697.16,177
+State Representative,Pam Snyder,DEM,PA,Incumbent,Won,130033.26,50
+U.S. Representative,Kevin Johnson,DEM,PA,Challenger,Lost,129088.55,3
+State Representative,Jared Solomon,DEM,PA,Incumbent,Won,127567.0,202
+State Representative,Jennifer Omara,DEM,PA,Challenger,Won,125234.55,165
+U.S. Representative,Arthur Halvorson,REP,PA,Open,Lost,125132.0,13
+State Senator,Timothy Kearney,DEM,PA,Open,Won,124701.51,26
+State Representative,Dominic James Costa,DEM,PA,Incumbent,Lost,124490.0,21
+State Representative,Malcolm Kenyatta,DEM,PA,Open,Won,122403.54,181
+State Representative,Martina White,REP,PA,Incumbent,Won,122307.7,170
+State Representative,Bryan Cutler,REP,PA,Incumbent,Won,120214.2,100
+U.S. Representative,Robert Joseph Kuniegel,REP,PA,Open,Lost,120100.0,8
+State Representative,Thomas Mehaffie III,REP,PA,Incumbent,Won,119755.0,106
+State Representative,Sara Innamorato,DEM,PA,Open,Won,119448.11,21
+State Senator,Stewart Greenleaf Jr.,REP,PA,Open,Lost,118815.0,12
+State Representative,Carolyn Comitta,DEM,PA,Incumbent,Won,116845.11,156
+State Representative,Susan Helm,REP,PA,Incumbent,Won,116007.4,104
+State Representative,Jonathan Rowan,DEM,PA,Open,Lost,114300.0,184
+State Senator,Judith Ward,REP,PA,Open,Won,113486.15,30
+State Senator,Stephanie Joan Walsh,DEM,PA,Open,Lost,113267.95,38
+State Representative,Austin Davis,DEM,PA,Incumbent,Won,113259.46,35
+U.S. Representative,Scott Uehlinger,REP,PA,Open,Lost,113099.0,9
+State Representative,Frank Anthony Farry III,REP,PA,Incumbent,Won,109372.0,142
+U.S. Representative,Doug McLinko,REP,PA,Challenger,Lost,107985.62,12
+State Senator,Ezra Nanes,DEM,PA,Challenger,Lost,107323.81,34
+U.S. Representative,Gregory Vitali,DEM,PA,Open,Lost,105050.6,5
+State Representative,Donna Oberlander,REP,PA,Incumbent,Won,102599.03,63
+State Representative,Sara Joanne Johnson Rothman,DEM,PA,Challenger,Lost,102486.56,151
+State Representative,Perry Warren Jr.,DEM,PA,Incumbent,Won,102153.3,31
+State Representative,Michael Driscoll,DEM,PA,Incumbent,Won,98017.9,173
+State Representative,Madeleine Dean,DEM,PA,Open,Withdrew,96829.29,153
+State Representative,Peter Michael Sturla,DEM,PA,Incumbent,Won,95948.0,96
+State Representative,Brian Kendall Sims,DEM,PA,Incumbent,Won,95891.5,182
+State Representative,Tina Marie Davis,DEM,PA,Incumbent,Won,95705.0,141
+State Representative,Melissa Shusterman,DEM,PA,Challenger,Won,94812.45,157
+State Representative,Brian Ellis,REP,PA,Incumbent,Won,93773.6,11
+State Representative,Louis Schmitt Jr.,REP,PA,Open,Won,92638.21,79
+State Representative,Adam Klein,REP,PA,Open,Lost,89444.56,105
+State Representative,Thomas Caltagirone,DEM,PA,Incumbent,Won,84550.0,127
+State Representative,Eric Roe,REP,PA,Incumbent,Lost,83359.55,158
+State Representative,Stephen Barrar,REP,PA,Incumbent,Won,83310.0,160
+State Representative,Catherine Harper,REP,PA,Incumbent,Lost,82769.31,61
+State Representative,Edward Gainey,DEM,PA,Incumbent,Won,81455.0,24
+State Representative,Donna Bullock,DEM,PA,Incumbent,Won,80418.52,195
+State Representative,Michael Schlossberg,DEM,PA,Incumbent,Won,80412.68,132
+State Representative,James Marshall,REP,PA,Incumbent,Won,76635.0,14
+State Representative,Daryl Metcalfe,REP,PA,Incumbent,Won,75918.68,12
+State Representative,William Gregory Rothman,REP,PA,Incumbent,Won,74038.86,87
+State Representative,Aaron Joseph Bernstine,REP,PA,Incumbent,Won,73584.5,10
+State Representative,Clark Alexander Mitchell Jr.,DEM,PA,Open,Lost,73395.37,48
+State Representative,Peter Schweyer,DEM,PA,Incumbent,Won,73245.0,22
+U.S. Representative,Thaddeus Kirkland,DEM,PA,Open,Lost,73042.79,5
+State Representative,Christopher Quinn,REP,PA,Incumbent,Won,73015.81,168
+State Representative,Emily Skopov,DEM,PA,Challenger,Lost,72728.84,28
+State Representative,Dawn Wetzel Keefer,REP,PA,Incumbent,Won,72686.16,92
+State Representative,Adam Ravenstahl,DEM,PA,Incumbent,Won,72363.6,20
+State Representative,Ryan Mackenzie,REP,PA,Incumbent,Won,72173.0,134
+State Representative,Barry Jozwiak,REP,PA,Incumbent,Won,71926.0,5
+State Senator,Michele Brooks,REP,PA,Incumbent,Won,71825.49,50
+State Representative,David Delloso,DEM,PA,Open,Won,71720.9,162
+State Representative,Gene Digirolamo,REP,PA,Incumbent,Won,71662.0,18
+State Representative,Rosemary Brown,REP,PA,Incumbent,Won,71537.97,189
+State Representative,William Kortz II,DEM,PA,Incumbent,Won,71250.39,38
+State Representative,Laura Elizabeth Frances Hanbidge,DEM,PA,Challenger,Won,70179.75,61
+State Representative,Alexander Tesla Charlton,REP,PA,Incumbent,Lost,69575.0,165
+State Representative,Harry Readshaw III,DEM,PA,Incumbent,Won,68825.0,36
+State Representative,Marcy Toepel,REP,PA,Incumbent,Won,67909.81,147
+State Representative,Doyle Heffley,REP,PA,Incumbent,Won,67757.96,122
+State Representative,Patti Rodgers Morrisette,REP,PA,Challenger,Lost,66927.5,161
+State Representative,Margo Davidson,DEM,PA,Incumbent,Won,66554.88,164
+State Representative,Martin Flynn II,DEM,PA,Incumbent,Won,66064.0,113
+State Representative,Justin Simmons,REP,PA,Incumbent,Won,65536.9,131
+State Representative,Thomas Murt,REP,PA,Incumbent,Won,65230.0,152
+State Representative,Daniel Miller,DEM,PA,Incumbent,Won,65046.79,42
+U.S. Representative,Pamela Iovino,DEM,PA,Open,Lost,64532.77,18
+State Representative,Joanna McClinton,DEM,PA,Incumbent,Won,63773.98,191
+State Representative,Andrew Lewis,REP,PA,Open,Won,63506.39,105
+State Representative,Stephen Kinsey,DEM,PA,Incumbent,Won,63500.0,201
+State Representative,Mark Keller,REP,PA,Incumbent,Won,62771.56,86
+State Representative,Eric Epstein,DEM,PA,Open,Lost,62659.06,105
+State Representative,Clinton Dennis Owlett,REP,PA,Open,Won,61821.8,68
+State Representative,Karen Boback,REP,PA,Incumbent,Won,61425.0,117
+State Representative,Ed Neilson,DEM,PA,Incumbent,Won,61326.79,174
+State Representative,Michele Knoll,DEM,PA,Open,Lost,61065.75,44
+State Senator,Lindsey Marie Williams,DEM,PA,Open,Won,60049.25,38
+State Representative,Eddie Day Pashinski,DEM,PA,Incumbent,Won,59806.0,121
+State Representative,Joseph Emrick,REP,PA,Incumbent,Won,59315.7,137
+State Representative,Patty Kim,DEM,PA,Incumbent,Won,59135.0,103
+State Representative,Joshua Daniel Kail,REP,PA,Open,Won,57540.05,15
+State Representative,Daryl Kirk Boling,DEM,PA,Challenger,Lost,57412.55,152
+U.S. Representative,Doug Mastriano,REP,PA,Open,Lost,57243.16,13
+State Representative,John Galloway,DEM,PA,Incumbent,Won,56975.0,140
+State Representative,Matthew Bradford,DEM,PA,Incumbent,Won,56900.0,70
+State Representative,Thomas Stanley Wyatt,DEM,PA,Open,Lost,56616.0,184
+State Senator,Mark Pinsley,DEM,PA,Challenger,Lost,56504.88,16
+State Representative,Gerald Mullery,DEM,PA,Incumbent,Won,55850.0,119
+State Representative,Paul Michael Jones,REP,PA,Open,Won,55488.8,93
+State Senator,Maria Collett,DEM,PA,Open,Won,54844.52,12
+State Representative,David Hickernell,REP,PA,Incumbent,Won,54655.02,98
+State Representative,Andrew Scott Lee,DEM,PA,Challenger,Lost,53848.0,131
+State Representative,Robert Brooks,REP,PA,Open,Won,53450.0,54
+State Representative,Robert Merski,DEM,PA,Open,Won,53431.9,2
+State Representative,Timothy Patrick Brennan,DEM,PA,Open,Lost,52694.65,143
+State Representative,Michael Kavulich,DEM,PA,Incumbent,Won,52520.12,114
+State Representative,Rebecca Corbin,REP,PA,Incumbent,Lost,52041.0,155
+State Representative,Jack Rader Jr.,REP,PA,Incumbent,Won,51517.6,176
+State Representative,Marcia Hahn,REP,PA,Incumbent,Won,51360.0,138
+State Representative,Philip Block,DEM,PA,Open,Lost,51223.62,168
+State Representative,Stephen McCarter,DEM,PA,Incumbent,Won,50827.0,154
+Lieutenant Governor,Kathleen Cozzone,DEM,PA,Challenger,Lost,50279.15,nan
+State Representative,Kurt Masser,REP,PA,Incumbent,Won,49699.4,107
+State Representative,Barbara Gleim,REP,PA,Open,Won,49484.85,199
+State Senator,Linda Fields,DEM,PA,Challenger,Lost,49236.2,24
+State Representative,Marty Qually,DEM,PA,Challenger,Lost,49082.31,91
+State Representative,Erin Condo McCracken,DEM,PA,Challenger,Lost,48889.19,171
+State Representative,Harold English,REP,PA,Incumbent,Withdrew,48700.0,30
+State Representative,Mark Longietti,DEM,PA,Incumbent,Won,48688.0,7
+State Representative,Jason Dawkins,DEM,PA,Incumbent,Won,48600.0,179
+State Representative,Jeffrey Paul Curry,DEM,PA,Challenger,Lost,48517.93,188
+U.S. Representative,Tom Prigg,DEM,PA,Open,Lost,48468.94,14
+State Representative,Michael Obrien,DEM,PA,Incumbent,Withdrew,48415.0,175
+U.S. Representative,Steve Bacher,DEM,PA,Open,Lost,47593.16,1
+State Representative,Jerome Knowles,REP,PA,Incumbent,Won,47421.64,124
+U.S. Representative,Gary Wegman,DEM,PA,Open,Lost,47341.53,9
+State Representative,Joseph Petrarca,DEM,PA,Incumbent,Won,46650.0,55
+State Senator,James Craig,DEM,PA,Challenger,Lost,46518.84,46
+State Representative,Pamela Hacker,DEM,PA,Challenger,Lost,45649.44,26
+State Representative,Martin Causer,REP,PA,Incumbent,Won,45378.93,67
+State Representative,Steven Curtis Mentzer,REP,PA,Incumbent,Won,44225.0,97
+State Representative,James Bruno Struzzi II,REP,PA,Open,Won,43925.59,62
+State Representative,Anthony Deluca,DEM,PA,Incumbent,Won,43813.0,32
+U.S. Representative,Robert Multari,DEM,PA,Open,Lost,42840.0,16
+State Representative,Kevin Boyle,DEM,PA,Incumbent,Won,42010.0,172
+State Representative,Sheryl Delozier,REP,PA,Incumbent,Won,41886.91,88
+State Senator,Tarah Dorothea Probst,DEM,PA,Challenger,Lost,41431.6,40
+State Representative,David Zimmerman,REP,PA,Incumbent,Won,41171.34,99
+State Representative,Donald Cook,REP,PA,Incumbent,Won,40382.84,49
+State Representative,Keith Greiner,REP,PA,Incumbent,Won,39970.99,43
+State Representative,Robert Kauffman,REP,PA,Incumbent,Won,39676.0,89
+State Representative,Timothy Briggs,DEM,PA,Incumbent,Won,39665.0,149
+State Representative,Tarah Toohil,REP,PA,Incumbent,Won,39480.0,116
+State Representative,Daniel Deasy Jr.,DEM,PA,Incumbent,Won,39100.0,27
+State Representative,Ryan Warner,REP,PA,Incumbent,Won,38303.0,52
+State Representative,Timothy Mahoney,DEM,PA,Challenger,Lost,38250.0,51
+State Representative,Robert Matzie,DEM,PA,Incumbent,Won,38225.0,16
+State Representative,Valerie Gaydos,REP,PA,Open,Won,37577.42,44
+State Representative,Richard Filippi,DEM,PA,Open,Lost,37558.29,2
+State Representative,Bryan Lee Kline,REP,PA,Open,Lost,37145.57,54
+State Representative,Ryan Bizzarro,DEM,PA,Incumbent,Won,36186.58,3
+State Representative,Amy Cozze,DEM,PA,Challenger,Lost,36184.0,137
+U.S. Representative,Michael Crossey,DEM,PA,Open,Lost,35953.23,18
+State Representative,Carol Hill-Evans,DEM,PA,Incumbent,Won,35741.54,95
+State Representative,Steven Richard Malagari,DEM,PA,Open,Won,35575.1,53
+U.S. Representative,Brent Ottaway,DEM,PA,Open,Lost,35454.29,13
+State Representative,Michael Reese,REP,PA,Incumbent,Won,35425.0,59
+State Representative,Cynthia Miller,REP,PA,Challenger,Lost,35032.97,183
+U.S. Representative,Margo Davidson,DEM,PA,Open,Lost,34911.0,5
+State Representative,Rueben Nathaniel Brock,DEM,PA,Open,Lost,34567.22,46
+State Representative,Christopher Sainato,DEM,PA,Incumbent,Won,34220.0,9
+State Representative,Aaron Kaufer,REP,PA,Incumbent,Won,33938.96,120
+State Representative,Joseph Ciresi,DEM,PA,Challenger,Won,33861.0,146
+State Representative,Anton Andrew,DEM,PA,Challenger,Lost,33591.0,160
+State Representative,Robert August Doddato,REP,PA,Open,Lost,33471.26,44
+State Representative,Daniel Burton Smith Jr.,DEM,PA,Challenger,Lost,33463.0,12
+State Representative,Christina Sappey,DEM,PA,Challenger,Won,33269.99,158
+State Representative,Matthew Gabler,REP,PA,Incumbent,Won,33182.0,75
+State Representative,Jeffrey Pyle,REP,PA,Incumbent,Won,33150.0,60
+State Representative,Scott Larue,REP,PA,Open,Lost,32993.0,44
+State Representative,Neal Goodman,DEM,PA,Incumbent,Won,32914.37,123
+State Representative,Jake Wheatley Jr.,DEM,PA,Incumbent,Won,31825.0,19
+State Representative,Tina Pickett,REP,PA,Incumbent,Won,31550.0,110
+State Representative,Michael Patrick Zabel,DEM,PA,Challenger,Won,31482.76,163
+State Representative,Natalie Nicole Mihalek Stuck,REP,PA,Open,Won,31093.95,40
+State Representative,Mary Jo Daley,DEM,PA,Incumbent,Won,31084.04,148
+State Representative,Maureen Madden,DEM,PA,Incumbent,Won,30762.69,115
+State Representative,Paul Dixon,REP,PA,Open,Lost,30530.0,40
+State Representative,Aerion Andrew Abney,DEM,PA,Challenger,Lost,30321.03,19
+State Representative,Johnathan Dean Hershey,REP,PA,Open,Won,30185.32,82
+State Representative,Ethan Earl Keedy,DEM,PA,Challenger,Lost,30057.74,52
+State Representative,Julie Anderson,REP,PA,Open,Lost,29966.36,62
+State Representative,Jason Ortitay,REP,PA,Incumbent,Won,29938.2,46
+State Representative,Michael Devine,DEM,PA,Challenger,Lost,29886.8,20
+State Representative,Douglas Hunt,DEM,PA,Challenger,Lost,29634.0,56
+State Representative,Morgan Cephas,DEM,PA,Incumbent,Won,29574.31,192
+State Representative,Anita Astorino Kulik,DEM,PA,Incumbent,Won,29560.0,45
+State Representative,Francis Xavier Ryan,REP,PA,Incumbent,Won,28811.0,101
+U.S. Representative,Chris Rieger,DEM,PA,Open,Lost,28536.85,16
+State Representative,Frederick Ramirez,DEM,PA,Challenger,Lost,28518.43,197
+State Representative,Timothy Hennessey,REP,PA,Incumbent,Won,28200.0,26
+State Representative,James Gregory,REP,PA,Open,Won,27635.0,80
+State Representative,Zachary Mako,REP,PA,Incumbent,Won,27616.03,183
+State Representative,Michael Korns Jr.,REP,PA,Open,Lost,27433.5,54
+State Representative,Byron Flavin Timmins,DEM,PA,Challenger,Lost,26741.9,46
+U.S. Representative,Joe Peters,REP,PA,Open,Lost,26660.0,8
+State Representative,Frederick Keller,REP,PA,Incumbent,Won,26620.0,85
+State Representative,Jean Marie Vargas Foschi,DEM,PA,Challenger,Lost,26145.0,88
+State Representative,Beverly Plosa-Bowser,REP,PA,Challenger,Lost,25912.69,131
+State Senator,Daniel Joseph Kiss,REP,PA,Open,Lost,25686.0,30
+State Representative,Lynda Schlegel Culver,REP,PA,Incumbent,Won,25565.19,108
+State Representative,Garth David Everett,REP,PA,Incumbent,Won,25242.5,84
+State Representative,Brian Joseph Kirkland,DEM,PA,Incumbent,Won,25110.0,159
+State Representative,Torren Ecker,REP,PA,Open,Won,25059.58,193
+State Representative,Eric Nelson,REP,PA,Incumbent,Won,25003.96,57
+State Representative,Jason Eugene Kelso,REP,PA,Open,Lost,24778.44,199
+State Representative,Thomas Quigley,REP,PA,Incumbent,Lost,24739.85,146
+State Representative,Tedd Nesbit,REP,PA,Incumbent,Won,24136.04,8
+State Representative,Joshua Harris Camson,DEM,PA,Challenger,Lost,23751.48,147
+State Representative,Seth Grove,REP,PA,Incumbent,Won,23750.0,196
+State Representative,David Millard,REP,PA,Incumbent,Won,23500.0,109
+State Representative,Matthew David Dowling,REP,PA,Incumbent,Won,23407.0,51
+State Representative,George Dunbar,REP,PA,Incumbent,Won,23165.0,56
+State Representative,Kristin Seale,DEM,PA,Challenger,Lost,22877.03,168
+State Representative,Nicholas Deminski,REP,PA,Challenger,Lost,22765.36,156
+State Representative,Carl Walker Metzgar,REP,PA,Incumbent,Won,22553.9,69
+State Representative,Justin Walsh,REP,PA,Incumbent,Won,22455.0,58
+State Representative,David Parker,REP,PA,Challenger,Lost,22305.0,115
+State Representative,George Andrew Szekely II,REP,PA,Open,Lost,22184.32,53
+State Representative,Carrie Heath,DEM,PA,Open,Lost,22086.89,68
+State Representative,Catherine Elizabeth Spahr,DEM,PA,Open,Lost,21657.31,160
+State Representative,Deborah Lee Derricks,DEM,PA,Challenger,Lost,21538.12,175
+State Representative,Elizabeth Rohanna McClure,REP,PA,Challenger,Lost,21538.1,50
+State Representative,Francis Paul McHale,DEM,PA,Open,Lost,21279.69,112
+Lieutenant Governor,Peg Luksik,REP,PA,Open,Lost,21165.33,nan
+State Representative,Douglas Metcalfe,DEM,PA,Challenger,Lost,20926.97,128
+State Representative,Rosita Youngblood,DEM,PA,Incumbent,Won,20718.0,198
+State Representative,Jason Ruff,DEM,PA,Challenger,Lost,20571.0,183
+State Representative,Matthew Robert Jansen,REP,PA,Open,Lost,20563.51,93
+State Representative,Isabella Fitzgerald,DEM,PA,Incumbent,Won,20343.5,203
+State Representative,Michael Peifer,REP,PA,Incumbent,Won,20193.7,139
+State Representative,Frank Burns,DEM,PA,Incumbent,Won,20000.0,72
+U.S. Representative,Larry Arata,DEM,PA,Open,Lost,19789.0,5
+State Representative,Brandon Markosek,DEM,PA,Open,Won,19720.0,25
+State Representative,Jesse Topper,REP,PA,Incumbent,Won,19675.0,78
+State Representative,Maria Donatucci,DEM,PA,Incumbent,Won,19350.0,185
+State Representative,Bernard Oneill,REP,PA,Incumbent,Withdrew,19120.0,29
+State Representative,Thomas Carl Carlucci,DEM,PA,Open,Lost,19086.24,112
+State Representative,Kathy Rapp,REP,PA,Incumbent,Won,19055.0,65
+State Representative,Bryan Barbin,DEM,PA,Incumbent,Lost,19050.0,71
+State Representative,Joshua Maxwell,DEM,PA,Open,Lost,19014.36,74
+State Senator,William Troutman Jr.,DEM,PA,Challenger,Lost,18798.19,36
+State Representative,Jeanne McNeill,DEM,PA,Incumbent,Won,18545.0,133
+State Representative,Wendy Ullman,DEM,PA,Open,Won,18389.0,143
+U.S. Representative,Bryan Leib,REP,PA,Challenger,Lost,18077.0,3
+State Senator,Lois Herr,DEM,PA,Challenger,Lost,18037.0,48
+State Representative,Robert Lee James,REP,PA,Incumbent,Won,17700.0,64
+State Representative,Maryalice Newborn,REP,PA,Open,Lost,17438.79,54
+State Representative,Kareem Kandil,DEM,PA,Open,Lost,17105.28,30
+U.S. Representative,Laura Quick,DEM,PA,Open,Lost,16942.48,9
+State Representative,Amy Fazio,DEM,PA,Challenger,Lost,16915.0,14
+State Representative,Jennifer Renee Rager-Kay,DEM,PA,Challenger,Lost,16625.76,85
+State Representative,Michael Francis Doyle Jr.,DEM,PA,Challenger,Lost,16595.0,170
+State Representative,Laura Burke,DEM,PA,Open,Lost,16565.37,80
+State Representative,Danielle Friel Otten,DEM,PA,Challenger,Won,16553.18,155
+State Representative,Stephen Richard Snell,DEM,PA,Challenger,Lost,16325.8,94
+State Representative,Linda Kay Sosniak,DEM,PA,Challenger,Lost,16147.19,84
+State Representative,Jonathan Fritz,REP,PA,Incumbent,Won,16125.0,111
+State Representative,Patty Pat Kozlowski,REP,PA,Open,Lost,15600.0,177
+State Representative,Russ Diamond,REP,PA,Incumbent,Won,15525.0,102
+State Representative,David Leonard Bachman,REP,PA,Open,Lost,15446.27,44
+State Representative,Emilio Agustin Vazquez,DEM,PA,Incumbent,Lost,15025.0,197
+State Representative,Todd Polinchock,REP,PA,Open,Won,14900.0,144
+State Representative,Susannah Walker,DEM,PA,Challenger,Lost,14871.1,13
+State Representative,Elizabeth Monroe,DEM,PA,Open,Lost,14525.57,30
+State Representative,Logan Sheriff Dellafiora,DEM,PA,Open,Lost,14386.37,62
+State Representative,Joseph Webster,DEM,PA,Open,Won,14378.2,150
+State Representative,Sharon Bream,REP,PA,Open,Lost,14264.38,79
+State Representative,Dean Donaher,DEM,PA,Challenger,Lost,14000.0,138
+State Representative,Stephen David Schlauch,REP,PA,Open,Lost,13934.3,25
+State Representative,James Junkin,REP,PA,Open,Lost,13665.48,82
+State Representative,Tracy Powell Markle,REP,PA,Open,Lost,13565.32,82
+State Representative,Manuel Guzman Jr.,DEM,PA,Challenger,Lost,13411.85,127
+State Representative,Frank Allen Pryor,DEM,PA,Open,Lost,13389.47,74
+State Representative,Jacob Robert Pavlecic,DEM,PA,Open,Lost,13224.43,30
+State Representative,Cesar Liriano,DEM,PA,Challenger,Lost,13200.99,101
+State Representative,Bernard Williams,DEM,PA,Challenger,Lost,12993.7,198
+State Representative,Joseph Zupancic,DEM,PA,Open,Lost,12880.64,48
+State Representative,Craig Staats,REP,PA,Incumbent,Won,12838.15,145
+State Representative,Scott Conklin,DEM,PA,Incumbent,Won,12725.0,77
+State Representative,Claudette Williams,DEM,PA,Challenger,Lost,12648.53,176
+State Representative,Ryan Gallagher,REP,PA,Challenger,Lost,12451.5,31
+State Representative,James Cox Jr.,REP,PA,Incumbent,Won,12200.0,129
+State Representative,Fawn Walker-Montgomery,REP,PA,Open,Lost,12151.53,35
+State Representative,Michael Tobash,REP,PA,Incumbent,Won,12064.36,125
+State Representative,Michael Puskaric,REP,PA,Open,Won,11991.3,39
+State Representative,Amber Little Turner,REP,PA,Open,Lost,11744.0,74
+State Representative,Thomas Sankey III,REP,PA,Incumbent,Won,11550.0,73
+State Representative,Melinda Fee,REP,PA,Incumbent,Won,11250.0,37
+State Representative,Keith Gillespie,REP,PA,Incumbent,Won,11150.0,47
+State Representative,Laban Marsh,REP,PA,Open,Lost,11031.34,2
+State Representative,Meredith Jean Buck,DEM,PA,Open,Lost,10824.45,144
+State Representative,Robert Elwood Myers III,DEM,PA,Open,Lost,10752.39,106
+State Representative,Christopher Creek,REP,PA,Open,Lost,10680.0,80
+State Representative,Regina Scheerer,REP,PA,Challenger,Lost,10405.0,165
+State Representative,Clare Helen Dooley,DEM,PA,Challenger,Lost,10387.0,59
+State Representative,Michael Corr,REP,PA,Incumbent,Withdrew,10290.0,150
+State Representative,Robert Rhoderick Jr.,DEM,PA,Open,Lost,10150.0,39
+State Representative,Joshua Baird Hershey,REP,PA,Challenger,Lost,10040.0,92
+State Representative,Jerald Leach,REP,PA,Open,Lost,10021.67,82
+State Representative,Sharon Guidi,DEM,PA,Open,Lost,9970.87,40
+State Representative,Kerith Strano Taylor,DEM,PA,Challenger,Lost,9820.49,66
+State Senator,Shawn Mauck,DEM,PA,Open,Lost,9799.82,28
+State Representative,Vincent Gagliardo Jr.,REP,PA,Challenger,Lost,9633.39,127
+State Representative,Parke Wentling,REP,PA,Incumbent,Won,9450.0,17
+State Representative,Deborah Turner Baughman,DEM,PA,Challenger,Lost,9250.31,78
+State Representative,Mary Auker-Endres,DEM,PA,Challenger,Lost,8937.64,98
+State Representative,Patrick Harkins,DEM,PA,Incumbent,Won,8904.18,1
+State Representative,Shane Caylor,REP,PA,Open,Lost,8800.0,62
+State Representative,Leon Angelichio,DEM,PA,Open,Lost,8737.49,53
+State Senator,Emily Garbuny Best,DEM,PA,Open,Lost,8677.36,30
+State Representative,Erin Vecchio,DEM,PA,Challenger,Lost,8200.0,32
+State Representative,Donna Iannone,DEM,PA,Challenger,Lost,8133.87,110
+State Representative,Baltazar Edson Rubio,REP,PA,Challenger,Lost,8076.7,166
+State Representative,John Adda Lawrence,REP,PA,Incumbent,Won,8050.0,13
+State Representative,Nicholas Didonato Jr.,DEM,PA,Open,Lost,8024.93,184
+State Representative,Justin Capouellez,REP,PA,Open,Lost,7946.22,71
+State Representative,Joseph Patrick Flood,REP,PA,Open,Lost,7940.2,143
+State Representative,Richard Irvin,REP,PA,Incumbent,Won,7812.7,81
+State Representative,Andrew David Myers,REP,PA,Open,Lost,7766.72,193
+State Representative,Malinda Lauren Lareau,DEM,PA,Challenger,Lost,7688.02,142
+State Representative,Thomas Lee Applebach,DEM,PA,Challenger,Lost,6895.0,134
+State Representative,Dennis Weaver,REP,PA,Open,Lost,6695.0,68
+State Senator,Judith McCormick Higgins,DEM,PA,Open,Lost,6686.98,28
+State Representative,James Roebuck,DEM,PA,Incumbent,Won,6650.0,188
+State Representative,Jeff Wheeland,REP,PA,Incumbent,Won,6640.0,83
+U.S. Representative,Kim Ward,REP,PA,Open,Lost,6578.65,18
+State Representative,Christa Caceres,DEM,PA,Open,Lost,6525.83,189
+State Representative,Sean Patrick Quinlan,DEM,PA,Challenger,Lost,6404.78,87
+State Representative,Joshua Richard Nulph,REP,PA,Challenger,Lost,6391.0,33
+State Representative,Jennie Elaine Porter,DEM,PA,Challenger,Lost,6376.67,43
+State Representative,Mark Gillen,REP,PA,Incumbent,Won,6300.0,128
+State Representative,Abu Vincente Edwards,DEM,PA,Challenger,Lost,6281.47,179
+State Representative,Cris Dush,REP,PA,Incumbent,Won,5890.0,66
+State Representative,Mark Hamilton,REP,PA,Open,Lost,5700.0,68
+State Representative,Mary Popovich,DEM,PA,Challenger,Lost,5331.15,58
+State Representative,Mike Baker,REP,PA,Open,Lost,5065.0,62
+State Representative,Dan Moul,REP,PA,Incumbent,Won,4975.0,91
+State Representative,James Patrick Rigby,REP,PA,Challenger,Won,4700.5,71
+State Representative,Adam Anthony Rodriguez,DEM,PA,Challenger,Lost,4697.4,189
+State Representative,Michele Wherley,DEM,PA,Challenger,Lost,4678.34,41
+Lieutenant Governor,Kathy Coder,REP,PA,Open,Lost,4645.0,nan
+Governor,Kenneth Krawchuk,LIB,PA,Challenger,Lost,4548.22,nan
+State Representative,Lisa Boeving-Learned,DEM,PA,Challenger,Lost,4532.62,8
+State Representative,Gilberto Gonzalez,DEM,PA,Open,Lost,4530.51,181
+State Representative,Shanna Leigh Danielson,DEM,PA,Challenger,Lost,4451.09,92
+State Representative,Diane Settles,DEM,PA,Challenger,Lost,4400.0,188
+State Representative,Robert Freeman,DEM,PA,Incumbent,Won,4350.0,136
+State Representative,William Donald Westbrook Jr.,REP,PA,Challenger,Lost,4209.15,158
+State Representative,Joshua Fultz,REP,PA,Open,Lost,4120.92,82
+State Representative,Steven Matthew Toprani,DEM,PA,Challenger,Lost,3962.97,49
+U.S. Representative,Richard Daugherty,DEM,PA,Open,Lost,3926.0,7
+State Representative,David Maloney Sr.,REP,PA,Incumbent,Won,3876.01,130
+State Representative,Jeffrey Ryan McFall,DEM,PA,Open,Lost,3847.12,167
+State Representative,Sarah Donnelly,DEM,PA,Challenger,Lost,3800.0,107
+State Representative,Dana Hamp Gulick,DEM,PA,Challenger,Lost,3799.48,97
+State Representative,Duane Milne,REP,PA,Incumbent,Lost,3750.0,167
+State Representative,Aaron Winsor Lehman,DEM,PA,Open,Lost,3693.19,62
+State Representative,Andrew Franklin Dixon,DEM,PA,Open,Lost,3645.7,29
+State Representative,Bradley Roae,REP,PA,Incumbent,Won,3500.0,6
+State Representative,Jay Breneman,DEM,PA,Open,Lost,3483.0,2
+State Representative,Mark Rozzi,DEM,PA,Incumbent,Won,3400.0,126
+State Representative,Edward Eichenlaub,DEM,PA,Open,Lost,3239.62,40
+State Representative,Justin Behrens,REP,PA,Challenger,Lost,3202.0,119
+State Representative,Brett Miller,REP,PA,Incumbent,Won,3150.0,41
+State Representative,Kate Anne Klunk,REP,PA,Incumbent,Won,3050.0,169
+U.S. Representative,Janis Brooks,DEM,PA,Challenger,Lost,2901.88,18
+State Representative,Joseph Matthew Sernell,REP,PA,Open,Lost,2723.15,71
+State Representative,Kara Scott,DEM,PA,Challenger,Lost,2559.64,122
+State Representative,Edward Thomas Sanders III,DEM,PA,Challenger,Lost,2524.0,109
+State Representative,Patricia Ann Smith,DEM,PA,Challenger,Lost,2522.84,104
+State Representative,Gregory Michalek,REP,PA,Challenger,Lost,2420.0,9
+State Representative,Joseph Eugene Ughetto II,REP,PA,Open,Lost,2336.75,82
+State Representative,Matthew Nelson,DEM,PA,Open,Lost,2228.62,193
+State Representative,Kathleen Bowers,REP,PA,Challenger,Lost,2204.9,154
+State Representative,Rebecca Kinney,DEM,PA,Challenger,Lost,2130.34,111
+State Representative,Jill Linta,DEM,PA,Challenger,Lost,2118.0,106
+State Representative,Tricia Wertz,DEM,PA,Challenger,Lost,2110.49,129
+State Representative,Stephen Samuelson,DEM,PA,Incumbent,Won,2022.0,135
+State Representative,Archie Follweiler,DEM,PA,Challenger,Withdrew,2000.0,187
+State Representative,Stephanie Paige Borowicz,REP,PA,Open,Won,1922.96,76
+State Representative,Christopher Mundiath,REP,PA,Challenger,Lost,1908.0,70
+State Senator,Sue Ann Mulvey,DEM,PA,Challenger,Lost,1890.65,50
+State Representative,Ernest Dominic Lemoncelli,REP,PA,Open,Lost,1830.0,112
+Lieutenant Governor,Ray Sosa,DEM,PA,Challenger,Lost,1565.0,nan
+State Representative,Sarah Elizabeth Hammond,DEM,PA,Challenger,Lost,1525.14,169
+State Representative,Collin Warren,DEM,PA,Challenger,Lost,1510.0,57
+State Representative,Joseph Sherwood McGinnis Jr.,DEM,PA,Open,Lost,1500.0,199
+State Representative,John Kluck,DEM,PA,Challenger,Lost,1423.2,64
+Governor,Paul Glover,GRN,PA,Challenger,Lost,1391.2,nan
+State Representative,Thomas Street,REP,PA,Open,Lost,1375.0,181
+State Representative,Pamela Delissio,DEM,PA,Incumbent,Won,1350.0,194
+State Representative,James Roman,REP,PA,Open,Lost,1280.0,40
+State Representative,Kimberly Hart,DEM,PA,Open,Withdrew,1278.79,82
+State Representative,Angel Cruz,DEM,PA,Incumbent,Won,1275.0,180
+State Representative,Robert Andrew Bertha,DEM,PA,Open,Lost,1275.0,54
+State Representative,Wanda Logan,DEM,PA,Challenger,Lost,1250.0,190
+State Representative,Curtis Sonney,REP,PA,Incumbent,Won,1250.0,4
+State Representative,Jonathan Paul McCabe,DEM,PA,Open,Lost,1238.0,54
+State Representative,Douglas Beaver Jr.,REP,PA,Open,Lost,1200.0,153
+State Senator,James Williams,REP,PA,Challenger,Withdrew,1156.74,4
+State Representative,Karen Ann Anderson,DEM,PA,Challenger,Lost,1113.69,86
+State Representative,Paul Schemel,REP,PA,Incumbent,Won,1000.0,90
+U.S. Representative,Dean Malik,REP,PA,Open,Lost,1000.0,1
+State Representative,Gregory Stephen Wolovich Jr.,REP,PA,Challenger,Withdrew,959.85,121
+State Representative,Richard James Rogers Sr.,DEM,PA,Challenger,Lost,765.0,81
+State Representative,Ronald Beitler,REP,PA,Challenger,Lost,740.0,134
+U.S. Senator,Neal Taylor Gale,GRN,PA,Challenger,Lost,737.0,nan
+State Representative,Robert Castellani,DEM,PA,Open,Lost,725.0,112
+State Representative,Gerald Carnicella,REP,PA,Challenger,Lost,700.0,72
+State Representative,Anthony Thomas Harrell,REP,PA,Challenger,Lost,700.0,103
+State Representative,Brian Kline,DEM,PA,Challenger,Lost,550.0,145
+State Representative,Daniel Martino,DEM,PA,Open,Lost,525.0,177
+State Representative,Ruth Moton,REP,PA,Challenger,Lost,501.0,159
+State Representative,Jeff Cole,DEM,PA,Challenger,Lost,500.0,69
+State Representative,Tia-Marie Fritz,DEM,PA,Open,Lost,465.48,176
+State Representative,Curtis Werner,REP,PA,Challenger,Lost,400.0,92
+U.S. Representative,Ben Hornberger,REP,PA,Open,Lost,365.0,13
+State Representative,Terrance Shepler,REP,PA,Open,Lost,324.0,82
+State Representative,Samuel Doctor,IND,PA,Challenger,Lost,301.0,11
+State Representative,Gregory Vitali,DEM,PA,Incumbent,Won,150.0,166
+State Representative,Ebony Taylor,DEM,PA,Challenger,Lost,75.0,19
+State Representative,Honora Mary Rockar,DEM,PA,Open,Lost,50.0,12
+State Representative,Vanessa Lowery Brown,DEM,PA,Incumbent,Won,0.0,190
+Lieutenant Governor,John Fetterman,DEM,PA,Challenger,Won,0.0,nan
+U.S. Representative,Robert Charles Solomon,DEM,PA,Open,Lost,0.0,18
+U.S. Representative,Rueben Brock,DEM,PA,Open,Lost,0.0,18
+U.S. Representative,Gina Cerilli,DEM,PA,Open,Lost,0.0,18
+U.S. Representative,Keith Seewald,DEM,PA,Open,Lost,0.0,18
+State Representative,Clark Mitchell Jr.,DEM,PA,Open,Lost,0.0,48
+State Senator,Katie Muth,DEM,PA,Challenger,Won,0.0,44
+State Representative,James John Lamb III,DEM,PA,Challenger,Lost,0.0,18
+State Representative,William Anderson,DEM,PA,Challenger,Lost,0.0,24
+State Representative,Todd Elliott Koger,DEM,PA,Challenger,Lost,0.0,24
+State Representative,Suzanne Delahunt,DEM,PA,Challenger,Lost,0.0,37
+State Representative,Michael Wascovich,DEM,PA,Challenger,Lost,0.0,47
+State Representative,Randy Barli Mr,DEM,PA,Open,Lost,0.0,49
+State Representative,Dan Williams,DEM,PA,Open,Won,0.0,74
+State Representative,Airneezer Page-Delahaye,DEM,PA,Challenger,Lost,0.0,83
+State Representative,Meggan Orourke,DEM,PA,Open,Withdrew,0.0,93
+State Representative,Randy Castellani,DEM,PA,Open,Lost,0.0,112
+State Representative,Orlando Marrero,DEM,PA,Challenger,Lost,0.0,139
+State Representative,Ronald Graham,DEM,PA,Open,Lost,0.0,155
+State Representative,Kristine Howard,DEM,PA,Challenger,Won,0.0,167
+State Representative,Lewis Nash Sr.,DEM,PA,Open,Lost,0.0,181
+State Representative,Lewis Thomas III,DEM,PA,Open,Lost,0.0,181
+State Representative,Jason Alexander Deering,DEM,PA,Open,Lost,0.0,181
+State Representative,Raymond Bailey Sr.,DEM,PA,Challenger,Lost,0.0,190
+State Representative,Danilo Burgos,DEM,PA,Open,Won,0.0,197
+U.S. Representative,Michele Lawrence,DEM,PA,Challenger,Lost,0.0,2
+U.S. Representative,Joseph Hoeffel,DEM,PA,Open,Lost,0.0,4
+U.S. Representative,Theresa Wright,DEM,PA,Open,Lost,0.0,5
+U.S. Representative,Rich Lazer,DEM,PA,Open,Lost,0.0,5
+U.S. Representative,Roger Ruggles,DEM,PA,Open,Lost,0.0,7
+U.S. Representative,David Clark,DEM,PA,Open,Lost,0.0,7
+U.S. Representative,Alan Howe,DEM,PA,Open,Lost,0.0,10
+U.S. Representative,Shavonnia Corbin-Johnson,DEM,PA,Open,Lost,0.0,10
+U.S. Representative,Wade Jodun,DEM,PA,Open,Lost,0.0,15
+U.S. Representative,Adam Sedlock,DEM,PA,Open,Lost,0.0,14
+State Representative,Conrad Warner,DEM,PA,Challenger,Lost,0.0,63
+State Representative,Maryanne Cole,DEM,PA,Challenger,Lost,0.0,67
+State Representative,Delma Rivera-Lytle,DEM,PA,Open,Lost,0.0,93
+State Representative,Elizabeth Malarkey,DEM,PA,Challenger,Lost,0.0,99
+State Representative,Dale Allen Hamby,DEM,PA,Challenger,Lost,0.0,100
+State Representative,Mary Isaacson,DEM,PA,Open,Won,0.0,175
+State Representative,Michael Blichar Jr.,DEM,PA,Challenger,Lost,0.0,187
+State Senator,Pamela Gerard,DEM,PA,Challenger,Lost,0.0,32
+State Representative,Terri Mitko,DEM,PA,Open,Lost,0.0,15
+State Representative,Ben Sanchez,DEM,PA,Open,Won,0.0,153
+State Senator,John Sweeney,GRN,PA,Challenger,Lost,0.0,20
+State Representative,Darcelle Slappy,GRN,PA,Challenger,Lost,0.0,10
+State Representative,Jay Ting Walker,GRN,PA,Challenger,Lost,0.0,23
+U.S. Representative,Brianna Lee Johnston,GRN,PA,Open,Lost,0.0,7
+State Representative,James McDevitt,IND,PA,Challenger,Lost,0.0,182
+U.S. Representative,Drew Gray Miller,LIB,PA,Open,Lost,0.0,18
+State Representative,Demosthenes Agoris,LIB,PA,Open,Lost,0.0,48
+State Representative,Joseph Soloski,LIB,PA,Challenger,Lost,0.0,81
+State Representative,John Waldenberger,LIB,PA,Open,Lost,0.0,53
+State Representative,Dominic Pirocchi,LIB,PA,Challenger,Lost,0.0,13
+State Representative,James Miller,LIB,PA,Challenger,Lost,0.0,98
+State Representative,Lou Jasikoff,LIB,PA,Challenger,Lost,0.0,117
+State Representative,Ed Reagan,LIB,PA,Challenger,Lost,0.0,137
+State Representative,Jake Towne,LIB,PA,Challenger,Lost,0.0,138
+State Representative,Marc Bozzacco,LIB,PA,Open,Lost,0.0,153
+State Representative,Matthew Ryan Baltsar,LIB,PA,Challenger,Lost,0.0,194
+State Representative,Charles Boust,LIB,PA,Open,Lost,0.0,199
+U.S. Representative,Ebert Bill Beeman,LIB,PA,Challenger,Lost,0.0,16
+U.S. Representative,Tim Silfies,LIB,PA,Open,Lost,0.0,7
+U.S. Representative,Steve Scheetz,LIB,PA,Open,Withdrew,0.0,1
+State Senator,Adam Reinhardt,LIB,PA,Challenger,Lost,0.0,40
+U.S. Representative,Sandra Teresa Salas,LIB,PA,Open,Lost,0.0,7
+U.S. Representative,Tim Silfies,LIB,PA,Open,Lost,0.0,15
+State Representative,Gary Day,REP,PA,Incumbent,Won,0.0,187
+Lieutenant Governor,Jeffrey Bartos,REP,PA,Open,Won,0.0,nan
+State Senator,Frank Scavo III,REP,PA,Challenger,Lost,0.0,22
+State Representative,Timothy Kuzma,REP,PA,Open,Lost,0.0,2
+State Representative,Beth Marie Laughlin,REP,PA,Open,Lost,0.0,82
+State Representative,Nicole Sherlock-King,REP,PA,Open,Lost,0.0,82
+State Representative,Holland Kurt,REP,PA,Challenger,Lost,0.0,91
+State Representative,Anthony Sposato,REP,PA,Challenger,Lost,0.0,141
+State Representative,Inderjit Bains,REP,PA,Challenger,Lost,0.0,164
+State Representative,John Wardle,REP,PA,Open,Lost,0.0,193
+State Representative,Vincent Barry Cockley,REP,PA,Open,Lost,0.0,193
+State Representative,Sean Patrick Stevens,REP,PA,Challenger,Lost,0.0,194
+U.S. Representative,David Torres,REP,PA,Challenger,Lost,0.0,2
+U.S. Representative,Travis Schooley,REP,PA,Open,Lost,0.0,13
+U.S. Representative,Bernard Washabaugh II,REP,PA,Open,Lost,0.0,13
+U.S. Representative,Martin Nothstein,REP,PA,Open,Lost,0.0,15
+State Representative,Meghan Schroeder,REP,PA,Open,Won,0.0,29
+State Representative,Lori Mizgorski,REP,PA,Open,Won,0.0,30
+State Representative,Sue Henry,REP,PA,Challenger,Lost,0.0,121
+State Representative,Nick Fountain,REP,PA,Open,Lost,0.0,150
+State Senator,Ron Holt,REP,PA,Challenger,Lost,0.0,4
+State Representative,Mary Hopper,REP,PA,Open,Lost,0.0,162
+State Representative,Elizabeth Book,NO PARTY AFFILIATION,PA,Open,Lost,0.0,82

@@ -1,0 +1,330 @@
+office,candidate,party,state,incumbency,result,total money,district
+Governor,Rod Blagojevich,DEM,IL,Open,Won-General,25368279.43,nan
+Governor,James Ryan,REP,IL,Open,Lost-General,14707758.3,nan
+Attorney General,Lisa Madigan,DEM,IL,Open,Won-General,10748886.58,nan
+State Senator,Emil Jones Jr.,DEM,IL,Incumbent,Won-General,4405564.84,14
+Attorney General,Joseph Birkett,REP,IL,Open,Lost-General,4109040.41,nan
+Comptroller,Daniel Hynes,DEM,IL,Incumbent,Won-General,3537420.39,nan
+State Representative,Lee Daniels,REP,IL,Incumbent,Won-General,3067788.66,46
+State Senator,James Philip,REP,IL,Incumbent,Won-General,3021774.3,23
+Treasurer,Judy Baar Topinka,REP,IL,Incumbent,Won-General,2761996.45,nan
+Secretary Of State,Jesse White,DEM,IL,Incumbent,Won-General,2258803.94,nan
+State Representative,Michael Madigan,DEM,IL,Incumbent,Won-General,2020807.02,22
+Treasurer,Thomas Dart,DEM,IL,Challenger,Lost-General,1699575.67,nan
+State Representative,Louis Lang,DEM,IL,Incumbent,Won-General,1310284.41,16
+State Senator,Frank Watson,REP,IL,Open,Won-General,1301624.42,51
+State Senator,Kathleen Parker,REP,IL,Incumbent,Lost-General,1271848.33,29
+State Senator,Susan Garrett,DEM,IL,Challenger,Won-General,1255657.9,29
+State Senator,William Odaniel,DEM,IL,Incumbent,Lost-General,1114825.46,54
+Supreme Court District 004,Rita Garman,REP,IL,Open,Won-General,987186.53,nan
+State Senator,Steven Rauschenberger,REP,IL,Open,Won-General,984999.66,22
+State Senator,Paul Mangieri,DEM,IL,Open,Lost-General,895061.54,37
+Secretary Of State,Kris Cohn,REP,IL,Challenger,Lost-General,851544.93,nan
+State Senator,Dale Risinger,REP,IL,Open,Won-General,843032.25,37
+Supreme Court District 004,Sue Myerscough,DEM,IL,Open,Lost-General,801988.23,nan
+State Senator,Richard Winkel Jr.,REP,IL,Open,Won-General,793194.77,52
+State Senator,Kirk Dillard,REP,IL,Open,Won-General,777318.9,24
+State Senator,Dan Rutherford,REP,IL,Open,Won-General,763930.79,53
+State Senator,John Jones,REP,IL,Challenger,Won-General,735792.64,54
+State Senator,Dan McCollum,DEM,IL,Open,Lost-General,717294.07,52
+State Representative,Angelo Saviano,REP,IL,Incumbent,Won-General,671671.25,77
+State Senator,William Shaw,DEM,IL,Incumbent,Lost-General,653456.63,15
+State Senator,Dave Syverson,REP,IL,Incumbent,Won-General,621808.77,34
+State Senator,James Deleo,DEM,IL,Incumbent,Won-General,606978.21,10
+State Senator,Laura Kent Donahue,REP,IL,Open,Lost-General,590494.24,47
+State Senator,Larry Bomke,REP,IL,Incumbent,Won-General,555728.88,50
+State Senator,David Luechtefeld,REP,IL,Incumbent,Won-General,551822.86,58
+State Representative,Tom Cross,REP,IL,Incumbent,Won-General,543289.02,84
+State Representative,Tom Berns,REP,IL,Open,Lost-General,526782.69,103
+State Senator,Daniel Patrick Welch,DEM,IL,Incumbent,Won-General,510752.3,38
+State Representative,Jack Franks,DEM,IL,Incumbent,Won-General,491649.13,63
+State Senator,James Meeks,HONESTY & INTEGRITY,IL,Challenger,Won-General,490403.79,15
+State Representative,Elaine Nekritz,DEM,IL,Open,Won-General,461775.38,57
+State Senator,Dan Cronin,REP,IL,Open,Won-General,452334.24,21
+State Senator,Antonio Munoz,DEM,IL,Incumbent,Won-General,449963.66,1
+State Senator,Vince Demuzio,DEM,IL,Incumbent,Won-General,448623.84,49
+State Representative,Naomi Jakobsson,DEM,IL,Open,Won-General,424834.29,103
+State Senator,Louis Viverito,DEM,IL,Incumbent,Won-General,424802.23,11
+State Representative,Kurt Granberg,DEM,IL,Open,Won-General,416436.68,107
+State Senator,John Sullivan,DEM,IL,Open,Won-General,414885.77,47
+State Representative,Charles Hartke,DEM,IL,Incumbent,Won-General,411161.53,108
+State Senator,Deborah Defrancesco Halvorson,DEM,IL,Incumbent,Won-General,394632.64,40
+State Senator,Ira Silverstein,DEM,IL,Incumbent,Won-General,379880.12,8
+State Senator,George Shadid,DEM,IL,Incumbent,Won-General,375424.89,46
+State Representative,Pat Hughes,DEM,IL,Challenger,Lost-General,373627.76,17
+State Representative,Michael McAuliffe,REP,IL,Open,Won-General,370859.39,20
+State Representative,Linda Chapa Lavia,DEM,IL,Open,Won-General,368678.09,83
+State Senator,John Dunn,DEM,IL,Open,Lost-General,368207.37,51
+State Representative,Jay Hoffman,DEM,IL,Incumbent,Won-General,368110.02,112
+State Senator,Wendell Jones,REP,IL,Incumbent,Won-General,359383.47,27
+State Representative,Elizabeth Coulson,REP,IL,Incumbent,Won-General,343504.19,17
+State Representative,John Novak,DEM,IL,Open,Won-General,338423.78,79
+State Representative,James Meyer,REP,IL,Open,Won-General,334864.17,48
+State Representative,Raymond Poe,REP,IL,Incumbent,Won-General,328185.29,99
+State Representative,Charles Jefferson,DEM,IL,Incumbent,Won-General,320737.51,67
+State Senator,Lawrence Walsh,DEM,IL,Incumbent,Won-General,317746.75,43
+State Representative,Ralph Capparelli,DEM,IL,Open,Won-General,315439.6,15
+State Senator,Dave Sullivan,REP,IL,Open,Won-General,314185.04,33
+State Senator,Jeffrey Schoenberg,DEM,IL,Open,Won-General,311583.0,9
+State Senator,Maggie Crotty,DEM,IL,Open,Won-General,311159.04,19
+State Senator,Christopher Lauzen,REP,IL,Open,Won-General,309796.87,25
+State Representative,Robert Bugielski,DEM,IL,Open,Lost-General,308790.15,20
+State Senator,Terry Link,DEM,IL,Incumbent,Won-General,307577.13,30
+State Senator,Robert Steffen,DEM,IL,Open,Lost-General,305282.19,22
+State Senator,Todd Sieben,REP,IL,Open,Won-General,295958.0,45
+State Senator,Rickey Hendon,DEM,IL,Incumbent,Won-General,295235.15,5
+State Senator,Barack Hussein Obama,DEM,IL,Incumbent,Won-General,294126.0,13
+State Senator,Miguel Del Valle,DEM,IL,Incumbent,Won-General,292229.82,2
+State Representative,Rich Brauer,REP,IL,Open,Won-General,290814.45,100
+State Representative,James Sacia,REP,IL,Open,Won-General,287778.82,89
+State Senator,Christine Radogno,REP,IL,Open,Won-General,286170.37,41
+State Senator,Larry Woolard,DEM,IL,Incumbent,Won-General,285366.66,59
+State Representative,Brent Hassert,REP,IL,Open,Won-General,273280.57,85
+State Senator,Bradley Burzynski,REP,IL,Incumbent,Won-General,272444.58,35
+State Representative,Ron Stephens,REP,IL,Open,Won-General,269341.16,102
+State Senator,William Brady Jr.,REP,IL,Incumbent,Won-General,269286.89,44
+State Representative,Art Tenhouse,REP,IL,Open,Won-General,269098.6,93
+State Senator,Dale Righter,REP,IL,Open,Won-General,261674.04,55
+State Senator,Donne Trotter,DEM,IL,Open,Won-General,261506.0,17
+State Representative,Roger Eddy,REP,IL,Open,Won-General,260269.11,109
+State Representative,Brandon Phelps,DEM,IL,Open,Won-General,258052.57,118
+State Representative,Kathleen Ryg,DEM,IL,Open,Won-General,256067.28,59
+State Senator,James Clayborne Jr.,DEM,IL,Incumbent,Won-General,255492.46,57
+State Representative,Gary Forby,DEM,IL,Incumbent,Won-General,255326.23,117
+State Senator,William Peterson,REP,IL,Incumbent,Won-General,254741.56,26
+State Representative,Jim Watson,REP,IL,Incumbent,Won-General,254632.45,97
+State Representative,Terry Parke,REP,IL,Open,Won-General,253963.1,44
+State Senator,Doris Karpiel,REP,IL,Open,Won-General,252412.52,28
+State Representative,Mark Beaubien Jr.,REP,IL,Incumbent,Won-General,250997.34,52
+State Representative,John Millner,REP,IL,Open,Won-General,245642.6,55
+State Senator,Dennis Jacobs,DEM,IL,Incumbent,Won-General,243786.04,36
+State Senator,Donald Harmon,DEM,IL,Open,Won-General,241532.82,39
+State Senator,Michael Minton,DEM,IL,Challenger,Lost-General,239356.0,27
+State Representative,Kevin Carey Joyce,DEM,IL,Open,Won-General,237425.97,35
+State Representative,Frank Mautino,DEM,IL,Incumbent,Won-General,232527.65,76
+Governor,Cal Skinner,LIB,IL,Open,Lost-General,231159.57,nan
+State Representative,Steve Davis,DEM,IL,Incumbent,Won-General,224030.49,111
+State Representative,Rosemary Mulligan,REP,IL,Open,Won-General,220906.29,65
+State Representative,David Miller,DEM,IL,Incumbent,Won-General,214787.19,29
+State Representative,Joel Brunsvold,DEM,IL,Incumbent,Won-General,213995.29,72
+State Representative,Dan Reitz,DEM,IL,Incumbent,Won-General,211037.45,116
+State Senator,Kimberly Lightford,DEM,IL,Incumbent,Won-General,207229.59,4
+State Representative,Anne Zickus,REP,IL,Open,Lost-General,206650.64,35
+State Representative,Michael Bost,REP,IL,Incumbent,Won-General,206605.35,115
+State Representative,David Leitch,REP,IL,Open,Won-General,204644.11,73
+State Representative,Roger Byrne,REP,IL,Open,Lost-General,204401.98,59
+State Representative,William Delgado,DEM,IL,Incumbent,Won-General,202945.99,3
+State Representative,John Fritchey,DEM,IL,Open,Won-General,199030.0,11
+State Senator,Martin Sandoval,DEM,IL,Open,Won-General,198191.0,12
+State Representative,Thomas Holbrook,DEM,IL,Incumbent,Won-General,197429.95,113
+State Representative,Julie Curry,DEM,IL,Incumbent,Won-General,195175.84,101
+State Representative,Patricia Reid Lindner,REP,IL,Open,Won-General,194801.54,50
+State Senator,Iris Martinez,DEM,IL,Open,Won-General,192551.8,20
+State Senator,John Cullerton,DEM,IL,Incumbent,Won-General,190037.12,6
+State Representative,Sandra Pihos,REP,IL,Open,Won-General,190006.19,42
+State Representative,Julie Hamos,DEM,IL,Incumbent,Won-General,188885.97,18
+State Representative,Karen May,DEM,IL,Open,Won-General,188110.79,58
+State Senator,Donald Tracy,DEM,IL,Challenger,Lost-General,187812.86,50
+State Representative,Daniel Burke,DEM,IL,Incumbent,Won-General,184084.12,23
+State Representative,Mary Obrien,DEM,IL,Incumbent,Won-General,178342.74,75
+State Representative,Renee Kosel,REP,IL,Open,Won-General,174344.17,81
+State Senator,Peter Roskam,REP,IL,Open,Won-General,171651.0,48
+State Representative,Maria Antonia Berrios,DEM,IL,Open,Won-General,169365.76,39
+State Senator,Margaret Smith,DEM,IL,Incumbent,Won-General,165496.92,3
+State Representative,Joe Dunn,REP,IL,Open,Won-General,163946.17,96
+State Representative,Timothy Osmond,REP,IL,Open,Won-General,163036.9,61
+State Representative,Sidney Mathias,REP,IL,Open,Won-General,162703.13,53
+State Representative,Edward Acevedo,DEM,IL,Incumbent,Won-General,162471.74,2
+State Representative,William Black,REP,IL,Open,Won-General,162123.43,104
+State Representative,Arthur Turner Sr.,DEM,IL,Incumbent,Won-General,162086.0,9
+State Representative,Sara Feigenholtz,DEM,IL,Incumbent,Won-General,161316.71,12
+State Representative,Harry Osterman,DEM,IL,Open,Won-General,159562.33,14
+State Senator,Jacqueline Collins,DEM,IL,Open,Won-General,159372.72,16
+State Senator,Edward Maloney,DEM,IL,Open,Won-General,154337.21,18
+State Representative,Suzanne Bassi,REP,IL,Incumbent,Won-General,153273.79,54
+State Representative,Robert Oconnor,REP,IL,Open,Lost-General,152767.17,83
+State Senator,Rod Thorson,REP,IL,Challenger,Lost-General,151563.42,38
+State Representative,Patricia Bellock,REP,IL,Open,Won-General,150138.32,47
+State Representative,Bill Mitchell,REP,IL,Open,Won-General,150117.98,87
+State Representative,Robin Kelly,DEM,IL,Open,Won-General,148739.35,38
+State Representative,Kathleen Wojcik,REP,IL,Open,Won-General,148643.72,56
+State Representative,Ronald Wait,REP,IL,Open,Won-General,147563.56,69
+State Representative,Dan Brady,REP,IL,Incumbent,Won-General,145636.55,88
+State Representative,Robert Molaro,DEM,IL,Open,Won-General,144157.96,21
+State Senator,William Haine,DEM,IL,Incumbent,Won-General,142787.51,56
+State Senator,Adeline Jay Geo-Karis,REP,IL,Incumbent,Won-General,140620.37,31
+State Representative,Barbara Flynn Currie,DEM,IL,Incumbent,Won-General,140432.42,25
+State Representative,Eileen Lyons,REP,IL,Open,Won-General,139824.07,82
+State Representative,Larry McKeon,DEM,IL,Open,Won-General,139125.88,13
+State Representative,Chapin Rose,REP,IL,Open,Won-General,137016.78,110
+State Representative,Mary Childers,REP,IL,Open,Lost-General,136982.81,57
+State Representative,Karen Yarbrough,DEM,IL,Incumbent,Won-General,134547.29,7
+State Representative,Kenneth Dunkin,DEM,IL,Open,Won-General,133703.03,5
+State Representative,David Reis,REP,IL,Challenger,Lost-General,133124.65,108
+State Representative,Kevin McCarthy,DEM,IL,Incumbent,Won-General,133034.08,37
+State Representative,Carole Pankau,REP,IL,Open,Won-General,132153.24,45
+State Senator,Roberto Garcia,REP,IL,Open,Lost-General,131193.58,12
+State Representative,David Wirsing,REP,IL,Incumbent,Won-General,129805.15,70
+State Representative,Douglas Hoeft,REP,IL,Open,Won-General,122185.99,43
+State Representative,Richard Myers,REP,IL,Open,Won-General,119212.23,94
+State Representative,Timothy Schmitz,REP,IL,Open,Won-General,118995.75,49
+State Senator,Edward Petka,REP,IL,Incumbent,Won-General,115131.16,42
+State Representative,Warwick Stevenson,DEM,IL,Open,Lost-General,114506.53,89
+State Senator,Brian Younker,REP,IL,Open,Lost-General,113470.71,19
+State Representative,Lovana Jones,DEM,IL,Open,Won-General,113384.34,26
+State Senator,Carol Ronen,DEM,IL,Open,Won-General,113187.58,7
+State Representative,Ed Sullivan Jr.,REP,IL,Open,Won-General,112317.74,51
+State Representative,Jerry Mitchell,REP,IL,Open,Won-General,112001.63,90
+State Representative,Gloria Cardenas Cudia,REP,IL,Challenger,Lost-General,108001.62,67
+State Representative,Rosemary Kurtz,REP,IL,Incumbent,Won-General,107804.08,64
+State Representative,Robert Biggins,REP,IL,Open,Won-General,106794.56,41
+State Representative,Randall Mark Hultgren,REP,IL,Open,Won-General,106773.96,95
+State Representative,John Cavaletto,REP,IL,Open,Lost-General,106688.92,107
+State Senator,Charles Fitzgerald,REP,IL,Challenger,Lost-General,105262.2,30
+State Representative,Donald Moffitt,REP,IL,Open,Won-General,103600.24,74
+State Senator,Dick Klemm,REP,IL,Incumbent,Won-General,101949.0,32
+State Representative,Cynthia Soto,DEM,IL,Incumbent,Won-General,94513.34,4
+State Senator,Phillip Arnold Jr.,REP,IL,Challenger,Lost-General,93881.68,15
+State Representative,Robert Churchill,REP,IL,Open,Won-General,92391.04,62
+State Representative,James Brosnahan,DEM,IL,Incumbent,Won-General,91436.8,36
+State Senator,Charles Wayne Goforth,DEM,IL,Challenger,Lost-General,90470.1,58
+State Representative,David Winters,REP,IL,Open,Won-General,90250.16,68
+State Representative,Charles Morrow III,DEM,IL,Open,Won-General,89647.34,32
+Comptroller,Thomas Ramsdell,REP,IL,Challenger,Lost-General,89351.37,nan
+State Representative,Mike Boland,DEM,IL,Incumbent,Won-General,88446.59,71
+State Representative,Gary Hannig,DEM,IL,Incumbent,Won-General,86668.92,98
+State Representative,Calvin Giles,DEM,IL,Incumbent,Won-General,86275.0,8
+State Representative,Joseph Lyons,DEM,IL,Open,Won-General,85709.0,19
+State Representative,William Davis,DEM,IL,Open,Won-General,81843.0,30
+State Representative,Constance Howard,DEM,IL,Open,Won-General,81725.88,34
+State Representative,Michael Noland,DEM,IL,Open,Lost-General,81703.23,43
+State Representative,Carl Oblinger,DEM,IL,Open,Lost-General,79396.55,100
+State Representative,Susana Mendoza,DEM,IL,Incumbent,Won-General,74314.98,1
+State Representative,Dorothy Reid,DEM,IL,Challenger,Withdrew-General,73620.04,78
+State Representative,Michael Smith,DEM,IL,Incumbent,Won-General,67498.0,91
+State Representative,Jon Mummert,DEM,IL,Open,Lost-General,66922.81,94
+State Representative,Don Craven,DEM,IL,Challenger,Lost-General,66373.23,99
+State Representative,Ricca Slone,DEM,IL,Incumbent,Won-General,66294.48,92
+State Representative,Richard Bradley,DEM,IL,Open,Won-General,66220.0,40
+State Representative,Deborah Graham,DEM,IL,Incumbent,Won-General,66138.36,78
+State Representative,Eddie Washington,DEM,IL,Open,Won-General,65434.52,60
+State Representative,Keith Sommer,REP,IL,Open,Won-General,62291.0,106
+State Representative,James Ohara,REP,IL,Challenger,Lost-General,60941.65,18
+State Representative,Robert Rita,DEM,IL,Open,Won-General,58956.69,28
+State Representative,James Lane Jr.,DEM,IL,Open,Lost-General,57810.2,109
+State Representative,Patricia Bailey,DEM,IL,Open,Won-General,57005.3,6
+State Representative,Jeffrey Hurst,DEM,IL,Open,Lost-General,56452.05,102
+State Representative,Monique Davis,DEM,IL,Incumbent,Won-General,56244.61,27
+State Representative,Barbara Jones,DEM,IL,Open,Lost-General,52693.26,65
+State Representative,Spencer McDonald,REP,IL,Challenger,Lost-General,51102.95,76
+State Representative,Mary Flowers,DEM,IL,Open,Won-General,50250.42,31
+State Representative,Wyvetter Younge,DEM,IL,Incumbent,Won-General,49650.0,114
+State Representative,Frank Aguilar,REP,IL,Open,Won-General,45719.44,24
+State Representative,Gerald Deering,DEM,IL,Challenger,Lost-General,45405.01,115
+State Representative,Elizabeth Hernandez,DEM,IL,Open,Lost-General,44153.38,24
+State Representative,Marcy Burrelsman,REP,IL,Challenger,Lost-General,44023.6,114
+State Representative,Carolyn Krause,REP,IL,Open,Won-General,40797.29,66
+State Senator,Gerald Bradley,DEM,IL,Challenger,Lost-General,39875.0,44
+State Representative,Annazette Collins,DEM,IL,Incumbent,Won-General,38346.6,10
+State Representative,John McGuire,DEM,IL,Incumbent,Won-General,35834.04,86
+State Representative,Shane Cultra,REP,IL,Open,Won-General,35417.0,105
+State Representative,Marlow Colvin,DEM,IL,Open,Won-General,34090.36,33
+State Representative,George Scully,DEM,IL,Incumbent,Won-General,25843.4,80
+State Representative,Nancy Shepherdson,DEM,IL,Open,Lost-General,25046.53,51
+State Representative,Michael Weiler,REP,IL,Challenger,Lost-General,23861.07,12
+State Representative,Christopher Wong,REP,IL,Open,Lost-General,22107.0,5
+State Representative,Judy Armstrong,DEM,IL,Open,Lost-General,17350.41,62
+State Representative,Marc Brown,REP,IL,Open,Lost-General,17220.0,58
+State Representative,Jesse Macro,DEM,IL,Open,Lost-General,16562.0,44
+State Representative,Steve Pohlman,DEM,IL,Challenger,Lost-General,16506.71,97
+State Representative,Sue Coers,DEM,IL,Open,Lost-General,15105.61,90
+State Representative,Steven Cuda,REP,IL,Challenger,Lost-General,14945.97,63
+State Representative,Rich Whitney,GRN,IL,Challenger,Lost-General,12799.12,115
+State Senator,Robert Pettis,REP,IL,Open,Lost-General,12735.0,16
+State Representative,John Hayden,DEM,IL,Open,Lost-General,12141.84,110
+State Representative,Catherine Watson,REP,IL,Open,Lost-General,11973.37,38
+State Representative,Bob Brown,REP,IL,Challenger,Lost-General,11385.0,117
+State Representative,Gloria Urch,DEM,IL,Challenger,Lost-General,10241.0,64
+State Representative,Stephen Bruesewitz,DEM,IL,Open,Lost-General,9237.0,55
+State Representative,James Young,LIB,IL,Challenger,Lost-General,7871.8,64
+State Representative,Jason Linn,DEM,IL,Open,Lost-General,7825.71,61
+Treasurer,Rhys Read,LIB,IL,Challenger,Lost-General,7513.66,nan
+State Representative,William Miceli,REP,IL,Open,Lost-General,7074.3,15
+State Representative,Darla Partridge,REP,IL,Open,Lost-General,6734.17,118
+State Senator,Alex Arroyo,DEM,IL,Challenger,Lost-General,6605.0,42
+State Representative,Julie Samuels,GRN,IL,Challenger,Lost-General,5283.16,8
+State Representative,James Speta,DEM,IL,Open,Lost-General,4661.0,47
+State Senator,Don Evans,DEM,IL,Open,Lost-General,3783.67,41
+State Representative,Jason Farbman,GRN,IL,Open,Lost-General,3451.06,14
+State Senator,Steve Thomas,DEM,IL,Open,Lost-General,3360.57,55
+State Representative,Elroy Leach Jr.,REP,IL,Challenger,Lost-General,3120.15,25
+State Representative,Willie Jordan Jr.,REP,IL,Open,Lost-General,3043.0,30
+State Representative,Randy Kantner,REP,IL,Open,Lost-General,2700.78,21
+State Representative,Thomas Duda,DEM,IL,Open,Lost-General,2250.0,53
+State Representative,Terri Brzezinski,DEM,IL,Open,Lost-General,1850.0,42
+State Senator,Eric Ivers,REP,IL,Challenger,Withdrew-General,1375.0,49
+State Representative,Dave McCrery,DEM,IL,Open,Lost-General,659.0,74
+State Representative,Terrence Goggin,REP,IL,Challenger,Lost-General,0.0,22
+State Senator,Karron Waters,REP,IL,Challenger,Lost-General,0.0,57
+State Representative,Shawn Aranha,DEM,IL,Open,Lost-General,0.0,41
+Secretary Of State,Matt Beauchamp,LIB,IL,Challenger,Lost-General,0.0,nan
+State Senator,Frank Bertucci,REP,IL,Open,Lost-General,0.0,18
+State Representative,Matthew Paul Burns,LIB,IL,Challenger,Lost-General,0.0,52
+State Representative,Patricia Clemmons,REP,IL,Challenger,Lost-General,0.0,75
+State Representative,Timothy Coffey,REP,IL,Open,Lost-General,0.0,13
+State Senator,Robert Dallas,REP,IL,Challenger,Lost-General,0.0,4
+State Representative,Catherine Doherty,REP,IL,Open,Lost-General,0.0,34
+State Representative,Steve Dubovik,LIB,IL,Open,Lost-General,0.0,95
+State Representative,Eric Ferguson,LIB,IL,Open,Lost-General,0.0,85
+State Senator,Ray Flavin,DEM,IL,Challenger,Lost-General,0.0,32
+Comptroller,Julie Fox,LIB,IL,Challenger,Lost-General,0.0,nan
+State Representative,Daniel Gaddis,DEM,IL,Open,Lost-General,0.0,96
+State Representative,Les The Taxes) Golden,REP,IL,Challenger,Lost-General,0.0,78
+State Representative,Chandler Hadraba,LIB,IL,Open,Lost-General,0.0,48
+State Representative,Glenn Harris,REP,IL,Challenger,Lost-General,0.0,8
+State Representative,Gregory Head,REP,IL,Challenger,Lost-General,0.0,27
+State Senator,Joseph Hedrick,REP,IL,Challenger,Lost-General,0.0,8
+State Senator,George Helfrich,REP,IL,Challenger,Lost-General,0.0,59
+State Representative,Joel Herrick,REP,IL,Challenger,Lost-General,0.0,37
+State Representative,Gerri Sue Hesselberg,LIB,IL,Challenger,Lost-General,0.0,16
+State Representative,Wayland Johnson,REP,IL,Open,Lost-General,0.0,28
+State Representative,John Kasner,LIB,IL,Challenger,Lost-General,0.0,9
+State Representative,Fannie Kazzie Taylor,REP,IL,Open,Lost-General,0.0,14
+State Representative,Jerome Kohn,LIB,IL,Open,Lost-General,0.0,28
+State Senator,Michael Kuper Jr.,DEM,IL,Open,Lost-General,0.0,24
+State Representative,Michael Leoni,DEM,IL,Open,Lost-General,0.0,21
+State Representative,A Lofton,REP,IL,Open,Lost-General,0.0,31
+State Representative,Michael Mandel,LIB,IL,Open,Lost-General,0.0,42
+State Representative,Charlie Mattis,DEM,IL,Open,Lost-General,0.0,104
+State Representative,Brian Lee Odonnell,REP,IL,Challenger,Lost-General,0.0,16
+State Representative,Lionel Pittman,REP,IL,Open,Lost-General,0.0,33
+State Representative,George Preski,REP,IL,Challenger,Lost-General,0.0,2
+State Representative,Byron Reed,REP,IL,Challenger,Lost-General,0.0,7
+State Representative,Linda Rockett,REP,IL,Challenger,Lost-General,0.0,29
+State Representative,Larry Rudder,REP,IL,Challenger,Lost-General,0.0,111
+State Senator,Glenn Ryback,DEM,IL,Challenger,Lost-General,0.0,31
+State Senator,John Ryvold Jr.,DEM,IL,Open,Lost-General,0.0,28
+State Representative,Kim Savage,DEM,IL,Open,Lost-General,0.0,82
+Attorney General,Gary Shilts,LIB,IL,Open,Lost-General,0.0,nan
+State Representative,Steven Skinner,DEM,IL,Challenger,Lost-General,0.0,52
+State Representative,Derome Stovall,REP,IL,Open,Lost-General,0.0,32
+State Representative,Frederick Tabor Jr.,TEA,IL,Open,Lost-General,0.0,87
+State Representative,John Tepley,LIB,IL,Open,Lost-General,0.0,41
+State Representative,Susan Tenzi,REP,IL,Open,Lost-General,0.0,60
+State Representative,Allen Wright,REP,IL,Challenger,Lost-General,0.0,112
+State Representative,John Yackley,LIB,IL,Open,Lost-General,0.0,11
+State Representative,Will Young,LIB,IL,Challenger,Lost-General,0.0,17
+State Representative,Charles Matson,DEM,IL,Open,Lost-General,0.0,45
+Supreme Court District 003,Mary Ann Grohwin McMorrow,IND,IL,Incumbent,Won-Retention,0.0,nan
+State Senator,Robin Thybony,REP,IL,Open,Withdrew-General,0.0,9
+State Representative,Jack Woolard,REP,IL,Challenger,Withdrew-General,0.0,117
+State Senator,James Caporusso,REP,IL,Open,Withdrew-General,0.0,39
+State Senator,Ruth Kennedy,DEM,IL,Challenger,Withdrew-General,0.0,42
+State Representative,George Kinser,DEM,IL,Open,Withdrew-General,0.0,62
+State Representative,Kenneth Pickering,REP,IL,Open,Withdrew-General,0.0,6
+State Senator,Robert Raica,REP,IL,Challenger,Withdrew-General,0.0,11
+State Representative,Howard Schug,REP,IL,Open,Withdrew-General,0.0,34
+State Representative,Lloyd Stoner,DEM,IL,Challenger,Withdrew-General,0.0,52
+Lieutenant Governor,Patrick Joseph Quinn III,DEM,IL,Open,Won-Primary,0.0,nan
+Lieutenant Governor,Carl Hawkinson,REP,IL,Open,Won-Primary,0.0,nan
+Governor,Marisellis Brown,IND,IL,Open,Lost-General,0.0,nan

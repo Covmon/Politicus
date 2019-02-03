@@ -1,0 +1,484 @@
+office,candidate,party,state,incumbency,result,total money,district
+Governor,Margaret Whitman,REP,CA,Open,Lost-General,176684951.18,nan
+Governor,Edmund Brown Jr.,DEM,CA,Open,Won-General,40556607.81,nan
+U.S. Senator,Barbara Boxer,DEM,CA,Incumbent,Won-General,28187906.89,nan
+U.S. Senator,Carly Fiorina,REP,CA,Challenger,Lost-General,21546201.97,nan
+Treasurer,Bill Lockyer,DEM,CA,Incumbent,Won-General,10681556.9,nan
+Attorney General,Kamala Harris,DEM,CA,Open,Won-General,7558992.28,nan
+Attorney General,Steve Cooley,REP,CA,Open,Lost-General,5511592.12,nan
+Lieutenant Governor,Gavin Newsom,DEM,CA,Open,Won-General,4389778.09,nan
+Insurance Commissioner,Dave Jones,DEM,CA,Open,Won-General,4214268.29,nan
+State Representative,Alyson Huber,DEM,CA,Incumbent,Won-General,3381133.16,10
+State Representative,Joan Buchanan,DEM,CA,Incumbent,Won-General,3273165.42,15
+State Senator,Anna Caballero,DEM,CA,Open,Lost-General,3082336.08,12
+State Senator,Darrell Steinberg,DEM,CA,Incumbent,Won-General,2958740.61,6
+U.S. Representative,Ami Bera,DEM,CA,Challenger,Lost-General,2934524.63,3
+State Representative,Richard Pan,DEM,CA,Open,Won-General,2817824.13,5
+U.S. Representative,Nancy Pelosi,DEM,CA,Incumbent,Won-General,2579886.59,8
+U.S. Representative,Jerry McNerney,DEM,CA,Incumbent,Won-General,2568533.87,11
+U.S. Representative,Mary Bono Mack,REP,CA,Incumbent,Won-General,2497859.42,45
+U.S. Representative,John Dennis,REP,CA,Challenger,Lost-General,2425014.09,8
+Controller,John Chiang,DEM,CA,Incumbent,Won-General,2252258.08,nan
+State Senator,Lou Correa,DEM,CA,Incumbent,Won-General,2232350.13,34
+State Senator,Anthony Cannella,REP,CA,Open,Won-General,2167028.59,12
+U.S. Representative,Steve Pougnet,DEM,CA,Challenger,Lost-General,2155901.48,45
+U.S. Representative,Kevin McCarthy,REP,CA,Incumbent,Won-General,2092609.43,22
+State Senator,Alex Padilla,DEM,CA,Incumbent,Won-General,2076895.18,20
+Lieutenant Governor,Abel Maldonado,REP,CA,Open,Lost-General,2065793.81,nan
+State Representative,John Perez,DEM,CA,Incumbent,Won-General,2049813.89,46
+U.S. Representative,David Jeffrey Harmer,REP,CA,Challenger,Lost-General,2047807.92,11
+Controller,Tony Strickland,REP,CA,Challenger,Lost-General,2034855.43,nan
+U.S. Representative,Loretta Sanchez,DEM,CA,Incumbent,Won-General,2033348.2,47
+U.S. Representative,Daniel Lungren,REP,CA,Incumbent,Won-General,2030903.07,3
+Superintendent Of Public Instruction,Tom Torlakson,IND,CA,Open,Won-General,2009898.22,nan
+U.S. Representative,Howard Berman,DEM,CA,Incumbent,Won-General,1887306.95,28
+U.S. Representative,Mike Thompson,DEM,CA,Incumbent,Won-General,1877722.43,1
+U.S. Representative,Tom McClintock,REP,CA,Incumbent,Won-General,1843703.92,4
+State Representative,Manuel Perez,DEM,CA,Incumbent,Won-General,1838890.25,80
+U.S. Representative,Star Parker,REP,CA,Challenger,Lost-General,1818744.29,37
+U.S. Representative,Jim Costa,DEM,CA,Incumbent,Won-General,1762807.31,20
+State Representative,Marty Block,DEM,CA,Incumbent,Won-General,1752316.56,78
+State Senator,Leland Yee,DEM,CA,Incumbent,Won-General,1742454.06,8
+U.S. Representative,Xavier Becerra,DEM,CA,Incumbent,Won-General,1677197.15,31
+U.S. Representative,Ken Calvert,REP,CA,Incumbent,Won-General,1661325.21,44
+U.S. Representative,Brad Sherman,DEM,CA,Incumbent,Won-General,1651625.16,27
+State Senator,Michael Rubio,DEM,CA,Open,Won-General,1541576.21,16
+U.S. Representative,Henry Waxman,DEM,CA,Incumbent,Won-General,1516212.49,30
+U.S. Representative,Darrell Issa,REP,CA,Incumbent,Won-General,1463915.64,49
+State Senator,Ronald Calderon,DEM,CA,Incumbent,Won-General,1449885.75,30
+U.S. Representative,Edward Royce Sr.,REP,CA,Incumbent,Won-General,1442567.48,40
+State Senator,Gloria Negrete-Mcleod,DEM,CA,Incumbent,Won-General,1388406.79,32
+State Representative,Andrew Pugno,REP,CA,Open,Lost-General,1377275.66,5
+U.S. Representative,Anna Eshoo,DEM,CA,Incumbent,Won-General,1366284.86,14
+U.S. Representative,Van Tran,REP,CA,Challenger,Lost-General,1361241.97,47
+U.S. Representative,Adam Schiff,DEM,CA,Incumbent,Won-General,1310306.4,29
+U.S. Representative,Howard McKeon,REP,CA,Incumbent,Won-General,1277187.39,25
+State Representative,Nathan Fletcher,REP,CA,Incumbent,Won-General,1268862.46,75
+State Representative,Abram Wilson,REP,CA,Challenger,Lost-General,1255558.26,15
+U.S. Representative,Brian Bilbray,REP,CA,Incumbent,Won-General,1208644.54,50
+State Representative,Das Williams,DEM,CA,Open,Won-General,1203524.95,35
+U.S. Representative,John Campbell,REP,CA,Incumbent,Won-General,1200832.82,48
+U.S. Representative,Jane Harman,DEM,CA,Incumbent,Won-General,1172684.46,36
+U.S. Representative,Dennis Cardoza,DEM,CA,Incumbent,Won-General,1167231.88,18
+U.S. Representative,David Dreier,REP,CA,Incumbent,Won-General,1160153.22,26
+Insurance Commissioner,Michael Villines,REP,CA,Open,Lost-General,1145707.67,nan
+State Representative,Fiona Ma,DEM,CA,Incumbent,Won-General,1131395.93,12
+U.S. Representative,Barbara Lee,DEM,CA,Incumbent,Won-General,1119268.55,9
+U.S. Representative,Jeff Denham,REP,CA,Open,Won-General,1102229.96,19
+Treasurer,Mimi Walters,REP,CA,Challenger,Lost-General,1101673.81,nan
+U.S. Representative,Devin Nunes,REP,CA,Incumbent,Won-General,1080995.47,21
+State Representative,David Valadao,REP,CA,Open,Won-General,1076234.73,30
+State Representative,Martin Garrick,REP,CA,Incumbent,Won-General,1036809.22,74
+Secretary Of State,Damon Dunn,REP,CA,Challenger,Lost-General,1030404.03,nan
+U.S. Representative,Jackie Speier,DEM,CA,Incumbent,Won-General,1030100.63,12
+U.S. Representative,Mr. Wally Herger,REP,CA,Incumbent,Won-General,1013765.28,2
+U.S. Representative,James Andrew Vidak,REP,CA,Challenger,Lost-General,988949.83,20
+State Representative,Cathleen Galgiani,DEM,CA,Incumbent,Won-General,978197.91,17
+U.S. Representative,George Miller,DEM,CA,Incumbent,Won-General,962865.26,7
+State Representative,Felipe Fuentes,DEM,CA,Incumbent,Won-General,943548.95,39
+State Senator,Juan Vargas,DEM,CA,Open,Won-General,940089.01,40
+U.S. Representative,Lois Capps,DEM,CA,Incumbent,Won-General,937150.06,23
+U.S. Representative,Bob Filner,DEM,CA,Incumbent,Won-General,935373.44,51
+State Representative,Betsy Butler,DEM,CA,Open,Won-General,931552.69,53
+U.S. Representative,Karen Bass,DEM,CA,Open,Won-General,919649.11,33
+State Representative,Mary Hayashi,DEM,CA,Incumbent,Won-General,875744.17,18
+State Senator,Edward Hernandez,DEM,CA,Open,Won-General,868543.29,24
+State Representative,Jose Solorio,DEM,CA,Incumbent,Won-General,865275.59,69
+State Senator,Ellen Corbett,DEM,CA,Incumbent,Won-General,862548.23,10
+State Representative,Nancy Skinner,DEM,CA,Incumbent,Won-General,854636.11,14
+State Senator,Kevin De Leon,DEM,CA,Open,Won-General,846803.25,22
+U.S. Representative,Lynn Woolsey,DEM,CA,Incumbent,Won-General,832513.78,6
+U.S. Representative,Doris Matsui,DEM,CA,Incumbent,Won-General,829628.6,5
+State Representative,Anthony Portantino,DEM,CA,Incumbent,Won-General,805144.16,44
+U.S. Representative,Beth Krom,DEM,CA,Challenger,Lost-General,791871.26,48
+State Senator,Mark Wyland,REP,CA,Incumbent,Won-General,769402.81,38
+State Representative,Isadore Hall III,DEM,CA,Incumbent,Won-General,767834.99,52
+Secretary Of State,Debra Bowen,DEM,CA,Incumbent,Won-General,767230.69,nan
+U.S. Representative,Michael Honda,DEM,CA,Incumbent,Won-General,761715.08,15
+Equalization Board District 003,Michelle Steel,REP,CA,Incumbent,Won-General,757479.08,nan
+U.S. Representative,Elton Gallegly,REP,CA,Incumbent,Won-General,754889.92,24
+U.S. Representative,Zoe Lofgren,DEM,CA,Incumbent,Won-General,750683.49,16
+State Representative,Jack Sieglock,REP,CA,Challenger,Lost-General,739200.0,10
+Equalization Board District 002,George Runner,REP,CA,Open,Won-General,734347.61,nan
+State Representative,Ricardo Lara,DEM,CA,Open,Won-General,732938.11,50
+State Representative,Ben Hueso,DEM,CA,Open,Won-General,729734.8,79
+State Senator,Joel Anderson,REP,CA,Open,Won-General,728338.89,36
+State Representative,Richard Gordon,DEM,CA,Open,Won-General,714097.76,21
+State Representative,Holly Mitchell,DEM,CA,Open,Won-General,713635.62,47
+State Representative,Tony Mendoza,DEM,CA,Incumbent,Won-General,703345.24,56
+State Representative,Mike Gatto,DEM,CA,Open,Won-General,696835.36,43
+State Representative,Roger Dickinson,DEM,CA,Open,Won-General,696136.74,9
+U.S. Representative,Sam Farr,DEM,CA,Incumbent,Won-General,687904.68,17
+U.S. Representative,Joe Baca Jr.,DEM,CA,Incumbent,Won-General,681694.71,43
+State Representative,Bonnie Lowenthal,DEM,CA,Incumbent,Won-General,680857.39,54
+State Representative,Fran Florez,DEM,CA,Open,Lost-General,678317.98,30
+U.S. Representative,Gary Miller,REP,CA,Incumbent,Won-General,676744.36,42
+U.S. Representative,John Colbert,REP,CA,Challenger,Lost-General,676469.61,29
+U.S. Representative,Duncan Hunter,REP,CA,Incumbent,Won-General,676345.33,52
+U.S. Representative,Jerry Lewis,REP,CA,Incumbent,Won-General,674849.0,41
+U.S. Representative,Linda Sanchez,DEM,CA,Incumbent,Won-General,669395.44,39
+State Representative,Henry Perea,DEM,CA,Open,Won-General,661887.28,31
+State Representative,Robert Blumenfield,DEM,CA,Incumbent,Won-General,655612.33,40
+State Representative,Mike Eng,DEM,CA,Incumbent,Won-General,650394.35,49
+State Representative,Charles Calderon,DEM,CA,Incumbent,Won-General,649465.48,58
+State Representative,Jim Nielsen,REP,CA,Incumbent,Won-General,648686.24,2
+State Representative,Mike Feuer,DEM,CA,Incumbent,Won-General,646577.17,42
+State Representative,Sandre Swanson,DEM,CA,Incumbent,Won-General,634955.58,16
+U.S. Representative,Tom Watson,REP,CA,Challenger,Lost-General,628104.22,23
+Equalization Board District 001,Betty Yee,DEM,CA,Incumbent,Won-General,625099.67,nan
+State Senator,Tom Berryhill,REP,CA,Open,Won-General,621060.47,14
+U.S. Representative,Laura Richardson,DEM,CA,Incumbent,Won-General,618282.03,37
+State Representative,Norma Torres,DEM,CA,Incumbent,Won-General,615413.38,61
+State Representative,Bill Berryhill,REP,CA,Incumbent,Won-General,614650.32,26
+State Representative,Roger Hernandez,DEM,CA,Open,Won-General,607797.58,57
+U.S. Representative,Francine Busby,DEM,CA,Challenger,Lost-General,601194.5,50
+State Representative,Toni Atkins,DEM,CA,Open,Won-General,600396.2,76
+U.S. Representative,Susan Davis,DEM,CA,Incumbent,Won-General,597525.14,53
+State Representative,Warren Furutani,DEM,CA,Incumbent,Won-General,589919.4,55
+State Representative,Jerry Hill,DEM,CA,Incumbent,Won-General,582904.23,19
+U.S. Representative,Lucille Roybal-Allard,DEM,CA,Incumbent,Won-General,577202.97,34
+State Representative,Nora Campos,DEM,CA,Open,Won-General,575442.08,23
+State Representative,Bob Wieckowski,DEM,CA,Open,Won-General,575217.21,20
+State Representative,Bill Monning,DEM,CA,Incumbent,Won-General,572269.35,27
+U.S. Representative,Judy Chu,DEM,CA,Incumbent,Won-General,561120.5,32
+U.S. Representative,John Garamendi,DEM,CA,Incumbent,Won-General,552554.98,10
+State Representative,Shannon Grove,REP,CA,Open,Won-General,551325.4,32
+State Representative,Connie Conway,REP,CA,Incumbent,Won-General,545371.22,34
+U.S. Representative,Bill Hedrick,DEM,CA,Challenger,Lost-General,542101.35,44
+State Representative,Jeff Gorell,REP,CA,Open,Won-General,541282.42,37
+State Senator,Doug La Malfa,REP,CA,Open,Won-General,540728.46,4
+State Representative,Michael Morrell,REP,CA,Open,Won-General,537050.43,63
+State Senator,Noreen Evans,DEM,CA,Open,Won-General,529983.49,2
+State Representative,Phu Nguyen,DEM,CA,Open,Lost-General,529829.43,68
+State Senator,Jenny Oropeza,DEM,CA,Incumbent,Won-General,521042.31,28
+State Representative,Paul Cook,REP,CA,Incumbent,Won-General,520418.0,65
+State Representative,Allan Mansoor,REP,CA,Open,Won-General,518589.74,68
+State Representative,Jared Huffman,DEM,CA,Incumbent,Won-General,500677.01,6
+State Representative,Ted Gaines,REP,CA,Incumbent,Won-General,498360.92,4
+Superintendent Of Public Instruction,Larry Aceves Jr.,IND,CA,Open,Lost-General,491255.07,nan
+State Representative,Curt Hagman,REP,CA,Incumbent,Won-General,489326.25,60
+State Representative,Mike Stoker,REP,CA,Open,Lost-General,480171.67,35
+State Representative,Cameron Smyth,REP,CA,Incumbent,Won-General,475895.86,38
+State Senator,Curren Price Jr.,DEM,CA,Incumbent,Won-General,475615.31,26
+State Representative,H Achadjian,REP,CA,Open,Won-General,471427.97,33
+State Representative,Steve Bradford,DEM,CA,Incumbent,Won-General,465378.77,51
+State Representative,Linda Halderman,REP,CA,Open,Won-General,444148.49,29
+State Senator,Jean Fuller,REP,CA,Open,Won-General,437855.2,18
+State Representative,Susan Bonilla,DEM,CA,Open,Won-General,437377.52,11
+Equalization Board District 004,Jerome Horton,DEM,CA,Incumbent,Won-General,436631.78,nan
+State Representative,Paul Fong,DEM,CA,Incumbent,Won-General,436019.48,22
+U.S. Representative,Fortney Stark,DEM,CA,Incumbent,Won-General,419109.56,13
+State Representative,Jim Silva,REP,CA,Incumbent,Won-General,413422.0,67
+State Representative,Michael Allen,DEM,CA,Open,Won-General,413391.9,7
+State Representative,Wesley Chesbro,DEM,CA,Incumbent,Won-General,411987.83,1
+State Representative,Luis Alejo,DEM,CA,Open,Won-General,409534.77,28
+U.S. Representative,Dana Rohrabacher,REP,CA,Incumbent,Won-General,398015.0,46
+State Representative,Steve Knight,REP,CA,Incumbent,Won-General,365640.74,36
+U.S. Representative,Nick Popaditch,REP,CA,Challenger,Lost-General,362448.87,51
+U.S. Representative,Charles Edward Wilkerson,REP,CA,Challenger,Lost-General,361908.52,30
+State Representative,Diane Harkey,REP,CA,Incumbent,Won-General,357061.59,73
+State Representative,Brian Nestande,REP,CA,Incumbent,Won-General,350342.21,64
+U.S. Representative,Michael Clare Berryhill Sr.,REP,CA,Challenger,Lost-General,341755.02,18
+State Representative,Jeff Miller,REP,CA,Incumbent,Won-General,327957.0,71
+State Representative,Gilbert Cedillo,DEM,CA,Open,Won-General,323892.42,45
+U.S. Representative,Russ Warner,DEM,CA,Challenger,Lost-General,323670.98,26
+U.S. Representative,Maxine Waters,DEM,CA,Incumbent,Won-General,322170.76,35
+State Representative,Kristin Olsen,REP,CA,Open,Won-General,313876.48,25
+State Representative,Julia Brownley,DEM,CA,Incumbent,Won-General,311034.27,41
+State Representative,Daniel Logue,REP,CA,Incumbent,Won-General,305793.89,3
+U.S. Representative,Grace Flores Napolitano,DEM,CA,Incumbent,Won-General,303910.73,38
+State Representative,Donald Wagner,REP,CA,Open,Won-General,298774.46,70
+State Representative,Tom Ammiano,DEM,CA,Incumbent,Won-General,290059.69,13
+State Representative,Crystal Crawford,DEM,CA,Challenger,Lost-General,282651.17,74
+Equalization Board District 002,Chris Parker,DEM,CA,Open,Lost-General,280098.39,nan
+State Senator,Tim Thiesen,REP,CA,Open,Lost-General,265566.0,16
+State Representative,Wilmer Amina Carter,DEM,CA,Incumbent,Won-General,256214.94,62
+State Representative,James Beall Jr.,DEM,CA,Incumbent,Won-General,243301.02,24
+State Representative,Mariko Yamada,DEM,CA,Incumbent,Won-General,225181.2,8
+State Representative,Kevin Jeffries,REP,CA,Incumbent,Won-General,220523.0,66
+State Representative,Nathan Mintz,REP,CA,Open,Lost-General,217120.09,53
+State Representative,Hilda Zacarias,DEM,CA,Open,Lost-General,202985.93,33
+U.S. Representative,Jim Judd,REP,CA,Challenger,Lost-General,192002.94,6
+U.S. Representative,Timothy Allison,DEM,CA,Challenger,Lost-General,182863.15,24
+U.S. Representative,Jeff Edward Taylor,REP,CA,Challenger,Lost-General,182152.35,17
+U.S. Representative,Mattie Fein,REP,CA,Challenger,Lost-General,171418.04,36
+State Senator,Lucille Kring,REP,CA,Challenger,Lost-General,159557.51,34
+State Senator,Warren Willis,REP,CA,Challenger,Lost-General,159328.68,30
+State Representative,Linda Jones,DEM,CA,Challenger,Lost-General,158680.84,36
+State Representative,Brian Jones,REP,CA,Open,Won-General,157967.24,77
+State Representative,Brandon Shoemaker,REP,CA,Open,Lost-General,150313.99,31
+State Representative,Mike Davis,DEM,CA,Incumbent,Won-General,147055.0,48
+U.S. Representative,Michael Crimmins,REP,CA,Challenger,Lost-General,144561.12,53
+U.S. Representative,James Edward Reed,DEM,CA,Challenger,Lost-General,137503.75,2
+State Representative,Ferial Masry,DEM,CA,Open,Lost-General,133580.99,37
+State Representative,Tim Donnelly,REP,CA,Open,Won-General,123693.19,59
+U.S. Representative,Loren Hanks,REP,CA,Challenger,Lost-General,120116.36,1
+U.S. Representative,John Hager,IND,CA,Challenger,Lost-General,113363.72,23
+State Representative,Chris Norby,REP,CA,Incumbent,Won-General,113101.0,72
+U.S. Representative,Rick Tubbs,REP,CA,Challenger,Lost-General,107444.73,7
+State Representative,Carl Wood,DEM,CA,Challenger,Lost-General,106572.63,65
+U.S. Representative,Mark Reed,REP,CA,Challenger,Lost-General,106267.49,27
+State Representative,Melissa Fox,DEM,CA,Open,Lost-General,104422.53,70
+State Representative,Karen Brooks,REP,CA,Challenger,Lost-General,91065.0,1
+State Senator,John Stammreich,REP,CA,Challenger,Lost-General,88467.66,28
+State Representative,Jose Medina,DEM,CA,Challenger,Lost-General,86550.28,64
+State Representative,Greg Conlon,REP,CA,Open,Lost-General,86072.69,21
+U.S. Representative,Cecilia Iglesias,IND,CA,Challenger,Lost-General,78032.2,47
+State Senator,Nachum Shifren,REP,CA,Challenger,Lost-General,69562.75,26
+Governor,Chelene Nightingale,AMERICAN INDEPENDENT,CA,Open,Lost-General,64984.61,nan
+State Representative,Darcel Woods,DEM,CA,Open,Lost-General,63799.0,59
+State Representative,Doris Gentry,REP,CA,Open,Lost-General,62484.0,7
+U.S. Representative,Scott Kirkland,REP,CA,Challenger,Lost-General,62237.0,15
+State Representative,Judith Jones,DEM,CA,Challenger,Lost-General,55369.33,73
+U.S. Representative,Larry Andre Sr.,REP,CA,Challenger,Lost-General,52430.99,39
+State Representative,Diana Shaw,DEM,CA,Challenger,Lost-General,47147.8,38
+State Representative,Sunder Ramani,REP,CA,Open,Lost-General,42704.7,43
+U.S. Representative,Patrick Meagher,DEM,CA,Challenger,Lost-General,42550.05,41
+U.S. Representative,David Miller,AMERICAN INDEPENDENT,CA,Challenger,Lost-General,41557.88,26
+State Representative,Robert Chandler,REP,CA,Challenger,Lost-General,41423.01,24
+State Representative,Robert Louis Stephens,REP,CA,Challenger,Lost-General,41146.35,6
+State Representative,Alvaro Day,REP,CA,Challenger,Lost-General,40282.0,44
+State Representative,Ralph Denney,REP,CA,Open,Lost-General,38319.43,76
+U.S. Representative,Merlin Froyd,REP,CA,Challenger,Lost-General,36824.54,28
+U.S. Representative,Ray Lutz,DEM,CA,Challenger,Lost-General,35328.05,52
+U.S. Representative,Edward Gonzalez,LIB,CA,Challenger,Lost-General,35092.76,16
+U.S. Representative,Loraine Goodwin,DEM,CA,Open,Lost-General,34021.09,19
+U.S. Representative,Usha Jayendra Shah,DEM,CA,Challenger,Lost-General,33068.62,46
+U.S. Representative,Clint Curtis,DEM,CA,Challenger,Lost-General,32176.0,4
+State Representative,Steve Sanchez,REP,CA,Challenger,Lost-General,32155.69,80
+State Representative,Ray Moors,REP,CA,Challenger,Lost-General,31630.0,61
+State Senator,Earl De Vries,REP,CA,Challenger,Lost-General,31308.68,32
+State Representative,Robert Bernosky,REP,CA,Open,Lost-General,31036.04,28
+Governor,Laura Wells,GRN,CA,Open,Lost-General,30553.75,nan
+State Representative,Rick Powell,REP,CA,Challenger,Lost-General,29201.81,78
+U.S. Representative,Nicholas Dibs,IND,CA,Challenger,Lost-General,29077.13,37
+U.S. Representative,Les Marsden,DEM,CA,Open,Lost-General,26346.0,19
+U.S. Representative,Scott Folkens,REP,CA,Challenger,Lost-General,25401.37,43
+State Representative,Dennis Deyoung,REP,CA,Challenger,Lost-General,24124.0,40
+Secretary Of State,Christina Tobin,LIB,CA,Challenger,Lost-General,23970.0,nan
+State Representative,Laura Peter,REP,CA,Challenger,Lost-General,23307.39,13
+State Senator,Brian Hendry,REP,CA,Open,Lost-General,22287.91,40
+State Representative,Renea Wickman,DEM,CA,Open,Lost-General,21397.94,63
+U.S. Representative,Paul Smith,REP,CA,Challenger,Lost-General,20656.1,5
+U.S. Representative,Ken Arnold,DEM,CA,Challenger,Lost-General,19788.4,46
+State Representative,Michael Harrington,DEM,CA,Challenger,Lost-General,17739.04,3
+State Representative,Esiquio Ramos Uballe,DEM,CA,Challenger,Lost-General,17460.81,72
+U.S. Representative,Bruce Brown,REP,CA,Challenger,Lost-General,16500.28,35
+State Senator,Paul Clay,DEM,CA,Open,Lost-General,16273.21,36
+U.S. Representative,Howard Katz,DEM,CA,Challenger,Lost-General,15176.8,49
+State Representative,Michelle Connor,REP,CA,Challenger,Lost-General,14866.42,8
+U.S. Representative,Stephen Smith,REP,CA,Challenger,Lost-General,14612.04,31
+Equalization Board District 001,Kevin Scott,REP,CA,Challenger,Lost-General,13883.0,nan
+State Representative,Mark Hanson,DEM,CA,Open,Lost-General,13356.39,77
+State Representative,Jack Mobley Jr.,REP,CA,Challenger,Lost-General,12679.0,17
+State Representative,Alfonso Faustino Jr.,REP,CA,Challenger,Lost-General,12661.29,12
+U.S. Representative,Benjamin Emery,GRN,CA,Challenger,Lost-General,12222.19,4
+State Representative,Derrick Roach,REP,CA,Open,Lost-General,12200.81,79
+State Representative,Paul Garver,DEM,CA,Challenger,Lost-General,12021.85,75
+U.S. Representative,Gary Clift,REP,CA,Challenger,Lost-General,11725.66,10
+State Representative,Linda Black,REP,CA,Challenger,Lost-General,11621.81,27
+State Representative,Michael Esswein,DEM,CA,Open,Lost-General,10998.66,29
+Governor,Dale Ogden,LIB,CA,Open,Lost-General,10419.19,nan
+State Senator,Marcel Weiland,REP,CA,Challenger,Lost-General,9995.27,6
+State Representative,Martha Flores-Gibson,REP,CA,Challenger,Lost-General,9239.82,54
+State Senator,Lawrence Wiesner,REP,CA,Open,Lost-General,9136.68,2
+State Representative,Tony Tyler,LIB,CA,Open,Lost-General,8858.54,59
+State Representative,Lady Cage-Barile,REP,CA,Open,Lost-General,8550.0,47
+State Representative,Adnan Shahab,REP,CA,Open,Lost-General,8505.81,20
+State Representative,Robert Hammond,REP,CA,Challenger,Lost-General,7822.91,69
+State Representative,Terry Rathbun,REP,CA,Challenger,Lost-General,7065.31,41
+State Senator,Lathe Sheldon Gill,DEM,CA,Open,Lost-General,6767.52,4
+State Senator,Gila Jones,DEM,CA,Challenger,Lost-General,6610.36,38
+State Representative,Julie Craven,REP,CA,Open,Lost-General,6255.0,11
+U.S. Representative,Erich Miller,LIB,CA,Challenger,Lost-General,5768.89,30
+State Senator,Carter Pope,DEM,CA,Open,Lost-General,5638.3,18
+State Representative,Douglas Dye,DEM,CA,Challenger,Lost-General,5465.86,66
+State Representative,Gary Kephart,DEM,CA,Challenger,Lost-General,4212.0,71
+State Representative,Dennis Campanale,DEM,CA,Challenger,Lost-General,4100.0,4
+State Representative,Rosalind Freeman,DEM,CA,Challenger,Lost-General,3773.32,67
+State Senator,Rob Maffit,REP,CA,Challenger,Lost-General,3575.0,10
+State Representative,Jane Rands,GRN,CA,Challenger,Lost-General,3445.61,72
+U.S. Representative,Jackie Conaway,DEM,CA,Challenger,Lost-General,3390.72,25
+State Representative,Gregg Fritchle,DEM,CA,Challenger,Lost-General,3364.01,60
+State Senator,Larry Johnson,DEM,CA,Open,Lost-General,3335.93,14
+State Representative,Rick Redding,REP,CA,Open,Lost-General,3150.0,9
+State Representative,Suzanne Olivos,REP,CA,Open,Lost-General,2858.73,45
+Lieutenant Governor,James Castillo,GRN,CA,Open,Lost-General,2811.7,nan
+State Representative,Alberto Waisman,REP,CA,Challenger,Lost-General,2408.91,19
+State Senator,Adrian Galysh,LIB,CA,Challenger,Lost-General,2164.98,20
+State Senator,Kathleen Evans,REP,CA,Challenger,Lost-General,2082.0,20
+State Representative,Gary Bryant,LIB,CA,Challenger,Lost-General,2033.0,3
+State Representative,Gwen Patrick,REP,CA,Challenger,Lost-General,1946.91,52
+State Representative,Gladys Miller,REP,CA,Open,Lost-General,1926.02,50
+State Representative,Brad Jonathan Taylor,REP,CA,Challenger,Lost-General,1627.5,49
+State Representative,Garrett May,REP,CA,Challenger,Lost-General,1544.21,58
+State Representative,Lisa Ann Green,GRN,CA,Open,Lost-General,1370.05,53
+State Representative,Jeane Ensley,REP,CA,Challenger,Lost-General,1289.0,62
+State Senator,Steve Torno,LIB,CA,Challenger,Lost-General,750.0,6
+State Representative,John Paul Lindblad,GRN,CA,Challenger,Lost-General,701.0,39
+State Representative,Brian Gutierrez,REP,CA,Open,Lost-General,500.0,57
+U.S. Representative,Douglas Arthur Tuma,LIB,CA,Challenger,Lost-General,100.0,3
+Lieutenant Governor,Jim King,AMERICAN INDEPENDENT,CA,Open,Lost-General,0.0,nan
+Governor,Carlos Alvarez,PEACE & FREEDOM,CA,Open,Lost-General,0.0,nan
+Equalization Board District 003,Terri Lussenheide,AMERICAN INDEPENDENT,CA,Challenger,Lost-General,0.0,nan
+Equalization Board District 004,Shawn Hoffman,AMERICAN INDEPENDENT,CA,Challenger,Lost-General,0.0,nan
+State Representative,Robert Gosney,AMERICAN INDEPENDENT,CA,Open,Lost-General,0.0,59
+State Senator,"Chou, IV",AMERICAN INDEPENDENT,CA,Challenger,Lost-General,0.0,10
+Attorney General,Diane Beall Templin,AMERICAN INDEPENDENT,CA,Open,Lost-General,0.0,nan
+Controller,Lawrence Beliz,AMERICAN INDEPENDENT,CA,Challenger,Lost-General,0.0,nan
+Insurance Commissioner,Clay Pedersen,AMERICAN INDEPENDENT,CA,Open,Lost-General,0.0,nan
+Secretary Of State,Merton Short,AMERICAN INDEPENDENT,CA,Challenger,Lost-General,0.0,nan
+Treasurer,Robert Lauten,AMERICAN INDEPENDENT,CA,Challenger,Lost-General,0.0,nan
+Equalization Board District 003,Mary Christian-Heising,DEM,CA,Challenger,Lost-General,0.0,nan
+State Representative,Tim Weintz Sr.,DEM,CA,Challenger,Lost-General,0.0,26
+State Representative,Holly Spohn-Gross,DEM,CA,Open,Lost-General,0.0,32
+State Representative,Esmeralda Castro,DEM,CA,Challenger,Lost-General,0.0,34
+State Representative,Linda Piera-Avila,GRN,CA,Challenger,Lost-General,0.0,41
+State Representative,Cynthia Santiago,GRN,CA,Challenger,Lost-General,0.0,51
+Attorney General,Peter Allen,GRN,CA,Open,Lost-General,0.0,nan
+Controller,Ross Frankel,GRN,CA,Challenger,Lost-General,0.0,nan
+Insurance Commissioner,William Balderston,GRN,CA,Open,Lost-General,0.0,nan
+Secretary Of State,Ann Menasche,GRN,CA,Challenger,Lost-General,0.0,nan
+Treasurer,Charles Crittenden,GRN,CA,Challenger,Lost-General,0.0,nan
+Lieutenant Governor,Pamela Brown,LIB,CA,Open,Lost-General,0.0,nan
+Equalization Board District 001,Kennita Watson,LIB,CA,Challenger,Lost-General,0.0,nan
+Equalization Board District 002,Willard Del Michlin,LIB,CA,Open,Lost-General,0.0,nan
+Equalization Board District 003,Jerry Dixon,LIB,CA,Challenger,Lost-General,0.0,nan
+Equalization Board District 004,Peter De Baets,LIB,CA,Challenger,Lost-General,0.0,nan
+State Representative,Kathryn Moore,LIB,CA,Open,Lost-General,0.0,7
+State Representative,Janice Marlae Bonser,LIB,CA,Challenger,Lost-General,0.0,10
+State Representative,Lisa Ringer,LIB,CA,Challenger,Lost-General,0.0,16
+State Representative,Gary Tutin,LIB,CA,Challenger,Lost-General,0.0,19
+State Representative,Raymond Bell Jr.,LIB,CA,Open,Lost-General,0.0,21
+State Representative,J Campbell,LIB,CA,Challenger,Lost-General,0.0,22
+State Representative,Paul Polson,LIB,CA,Open,Lost-General,0.0,33
+State Representative,Peggy Christensen,LIB,CA,Challenger,Lost-General,0.0,38
+State Representative,Eytan Kollin,LIB,CA,Challenger,Lost-General,0.0,44
+State Representative,Sean McGary,LIB,CA,Open,Lost-General,0.0,47
+State Representative,Ethan Musulin,LIB,CA,Open,Lost-General,0.0,53
+State Representative,Deborah Tharp,LIB,CA,Open,Lost-General,0.0,70
+State Representative,Paul King,LIB,CA,Challenger,Lost-General,0.0,74
+State Representative,Christopher Chadwick,LIB,CA,Challenger,Lost-General,0.0,75
+State Representative,Daniel Baehr,LIB,CA,Open,Lost-General,0.0,76
+State Representative,Richard Belitz,LIB,CA,Open,Lost-General,0.0,77
+State Senator,Bob Weber,LIB,CA,Challenger,Lost-General,0.0,26
+State Senator,David Ruskin,LIB,CA,Challenger,Lost-General,0.0,28
+State Senator,Michael Metti,LIB,CA,Open,Lost-General,0.0,36
+State Senator,Kristi Stone,LIB,CA,Challenger,Lost-General,0.0,38
+Attorney General,Timothy Hannan,LIB,CA,Open,Lost-General,0.0,nan
+Controller,Andrew Favor,LIB,CA,Challenger,Lost-General,0.0,nan
+Insurance Commissioner,Richard Bronstein,LIB,CA,Open,Lost-General,0.0,nan
+Treasurer,Edward Teyssier,LIB,CA,Challenger,Lost-General,0.0,nan
+Lieutenant Governor,T Weber,PEACE & FREEDOM,CA,Open,Lost-General,0.0,nan
+Equalization Board District 001,Sherill Borg,PEACE & FREEDOM,CA,Challenger,Lost-General,0.0,nan
+Equalization Board District 002,Toby Mitchell-Sawyer,PEACE & FREEDOM,CA,Open,Lost-General,0.0,nan
+Equalization Board District 003,Mary Lou Finley,PEACE & FREEDOM,CA,Challenger,Lost-General,0.0,nan
+Equalization Board District 004,Nancy Lawrence,PEACE & FREEDOM,CA,Challenger,Lost-General,0.0,nan
+State Representative,Daniel Frederick,PEACE & FREEDOM,CA,Challenger,Lost-General,0.0,4
+State Representative,Elizabeth Martinez,PEACE & FREEDOM,CA,Open,Lost-General,0.0,5
+State Representative,Daniel Costa,PEACE & FREEDOM,CA,Open,Lost-General,0.0,9
+State Representative,Albert Troyer,PEACE & FREEDOM,CA,Challenger,Lost-General,0.0,10
+State Senator,Lanric Hyland,PEACE & FREEDOM,CA,Challenger,Lost-General,0.0,6
+State Senator,Cindy Varela Henderson,PEACE & FREEDOM,CA,Challenger,Lost-General,0.0,26
+Attorney General,Robert Evans,PEACE & FREEDOM,CA,Open,Lost-General,0.0,nan
+Controller,Karen Martinez,PEACE & FREEDOM,CA,Challenger,Lost-General,0.0,nan
+Insurance Commissioner,Dina Josephine Padilla,PEACE & FREEDOM,CA,Open,Lost-General,0.0,nan
+Secretary Of State,Marylou Cabral,PEACE & FREEDOM,CA,Challenger,Lost-General,0.0,nan
+Treasurer,Debra Reiger,PEACE & FREEDOM,CA,Challenger,Lost-General,0.0,nan
+State Representative,Ryan Hatcher,REP,CA,Challenger,Lost-General,0.0,14
+State Representative,James Faison,REP,CA,Challenger,Lost-General,0.0,16
+State Representative,Michael Havig,REP,CA,Challenger,Lost-General,0.0,18
+State Representative,Eric Shooter Hickok,REP,CA,Challenger,Lost-General,0.0,22
+State Representative,Atul Saini,REP,CA,Open,Lost-General,0.0,23
+State Representative,Mary Toman-Miller,REP,CA,Challenger,Lost-General,0.0,42
+State Representative,Christopher Salabaj,REP,CA,Challenger,Lost-General,0.0,55
+State Representative,Henry Bestwick,REP,CA,Challenger,Lost-General,0.0,56
+State Senator,Doo Sup Park,REP,CA,Challenger,Lost-General,0.0,8
+Supreme Court-Chin Seat,Ming William Chin,IND,CA,Incumbent,Won-Retention,0.0,nan
+Supreme Court-Moreno Seat,Carlos Moreno,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 005-Levy Seat,Bert Levy,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 002 Division 005-Armstrong Seat,Orville Armstrong,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 004 Division 003-Bedsworth Seat,William Bedsworth,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 004 Division 003-Moore Seat,Eileen Moore,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 004 Division 003-Sills Seat,David Sills,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 002 Division 002-Ashmann-Gerst Seat,Judith Ashmann-Gerst,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 006-Rushing Seat,Conrad Rushing,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 002 Division 006-Coffee Seat,Paul Coffee,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 002 Division 006-Perren Seat,Steven Perren,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 002 Division 008-Bigelow Seat,Tricia Bigelow,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 002 Division 003-Croskey Seat,Walter Croskey,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 003-Hull Seat,Harry Hull,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 003-Nicholson Seat,George Nicholson,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 004 Division 002-Ramirez Seat,Manuel Ramirez,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 001 Division 005-Bruiniers Seat,Terence Bruiniers,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 001 Division 005-Needham Seat,Henry Needham Jr.,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 001 Division 002-Lamden Seat,James Lambden,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 004 Division 001-Mcconnell Seat,Judith McConnell,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 001 Division 003-Jenkins Seat,Martin Jenkins,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 001 Division 004-Reardon Seat,Timothy Reardon,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 001 Division 001-Banke Seat,Kathleen Banke,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 001 Division 001-Dondero Seat,Robert Dondero,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 002 Division 001-Chaney Seat,Victoria Gerrard Chaney,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 003-Butz Seat,Kathleen Butz,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 005-Hill Seat,Brad Hill,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 002 Division 001-Mallano Seat,Robert Mallano,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 002 Division 007-Jackson Seat,Frank Jackson,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 001 Division 003-Siggins Seat,Peter John Siggins,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 002 Division 004-Suzukawa Seat,Steven Suzukawa,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 002 Division 007-Zelon Seat,Laurie Zelon,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 002 Division 001-Johnson Seat,Jeffrey Johnson,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 005-Poochigian Seat,Charles Poochigian,IND,CA,Incumbent,Won-Retention,0.0,nan
+Supreme Court-Sakauye Seat,Tani Cantil-Sakauye,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 004 Division 002-Codrington Seat,Carol Codrington,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 005-Detjen Seat,Jennifer Detjen,IND,CA,Incumbent,Won-Retention,0.0,nan
+Appellate Court District 002 Division 008-Grimes Seat,Elizabeth Annette Grimes,IND,CA,Incumbent,Won-Retention,0.0,nan
+U.S. Representative,Michael Williamson,DEM,CA,Challenger,Lost-General,0.0,42
+U.S. Representative,Jeremy Cloward,GRN,CA,Challenger,Lost-General,0.0,10
+U.S. Representative,William Cushing,LIB,CA,Challenger,Lost-General,0.0,29
+U.S. Representative,Mary Larkin,LIB,CA,Challenger,Lost-General,0.0,17
+U.S. Representative,Carol Wolman,GRN,CA,Challenger,Lost-General,0.0,1
+U.S. Representative,Robert Vaughn,REP,CA,Challenger,Lost-General,0.0,38
+U.S. Representative,Daniel Sahagun,REPUBLICAN WRITEIN,CA,Challenger,Lost-General,0.0,16
+U.S. Representative,Edward Schmerling,REP,CA,Challenger,Lost-General,0.0,32
+U.S. Representative,Mike Rodrigues,LIB,CA,Challenger,Lost-General,0.0,1
+U.S. Representative,Jerry Leidecker,AMERICAN INDEPENDENT,CA,Challenger,Lost-General,0.0,3
+U.S. Representative,Michael Roskey,PEACE & FREEDOM,CA,Challenger,Lost-General,0.0,3
+U.S. Representative,Gerald Allen Frink,PEACE & FREEDOM,CA,Challenger,Lost-General,0.0,5
+U.S. Representative,Eugene Ruyle,PEACE & FREEDOM,CA,Challenger,Lost-General,0.0,6
+U.S. Representative,Joel Smollen,LIB,CA,Challenger,Lost-General,0.0,6
+U.S. Representative,Philip Zimt Berg,LIB,CA,Challenger,Lost-General,0.0,8
+U.S. Representative,Gloria La Riva,PEACE & FREEDOM,CA,Challenger,Lost-General,0.0,8
+U.S. Representative,Lawrence Allen,PEACE & FREEDOM,CA,Challenger,Lost-General,0.0,9
+U.S. Representative,James Eyer,LIB,CA,Challenger,Lost-General,0.0,9
+U.S. Representative,Gerald Hashimoto,REP,CA,Challenger,Lost-General,0.0,9
+U.S. Representative,Dave Heller,GRN,CA,Challenger,Lost-General,0.0,9
+U.S. Representative,David Paul Christensen,AMERICAN INDEPENDENT,CA,Challenger,Lost-General,0.0,11
+U.S. Representative,Michael Moloney,REP,CA,Challenger,Lost-General,0.0,12
+U.S. Representative,Mark Paul Williams,LIB,CA,Challenger,Lost-General,0.0,12
+U.S. Representative,Forest Baker,REP,CA,Challenger,Lost-General,0.0,13
+U.S. Representative,Dave Chapman,REP,CA,Challenger,Lost-General,0.0,14
+U.S. Representative,Paul Lazaga,LIB,CA,Challenger,Lost-General,0.0,14
+U.S. Representative,Eric Petersen,GRN,CA,Challenger,Lost-General,0.0,17
+U.S. Representative,Darrell Stafford,LIB,CA,Challenger,Lost-General,0.0,23
+U.S. Representative,Randall Weissbuch,LIB,CA,Challenger,Lost-General,0.0,26
+U.S. Representative,Carlos Rodriquez,LIB,CA,Challenger,Lost-General,0.0,28
+U.S. Representative,Richard Castaldo,PEACE & FREEDOM,CA,Challenger,Lost-General,0.0,30
+U.S. Representative,Sal Genovese,DEM,CA,Challenger,Lost-General,0.0,31
+U.S. Representative,James Andion,REP,CA,Open,Lost-General,0.0,33
+U.S. Representative,Wayne Miller,REP,CA,Challenger,Lost-General,0.0,34
+U.S. Representative,Herbert Glenn Peters,LIB,CA,Challenger,Lost-General,0.0,36
+U.S. Representative,John Smith,AMERICAN INDEPENDENT,CA,Challenger,Lost-General,0.0,39
+U.S. Representative,Christina Avalos,DEM,CA,Challenger,Lost-General,0.0,40
+U.S. Representative,Mark Lambert,LIB,CA,Challenger,Lost-General,0.0,42
+U.S. Representative,Bill Lussenheide,AMERICAN INDEPENDENT,CA,Challenger,Lost-General,0.0,45
+U.S. Representative,Mike Binkley,LIB,CA,Challenger,Lost-General,0.0,48
+U.S. Representative,Dion Clark,AMERICAN INDEPENDENT,CA,Challenger,Lost-General,0.0,49
+U.S. Representative,Mike Paster,LIB,CA,Challenger,Lost-General,0.0,49
+U.S. Representative,Miriam Clark,PEACE & FREEDOM,CA,Challenger,Lost-General,0.0,50
+U.S. Representative,Lars Grossmith,LIB,CA,Challenger,Lost-General,0.0,50
+U.S. Representative,Michael Benoit,LIB,CA,Challenger,Lost-General,0.0,52
+U.S. Representative,Paul Dekker,LIB,CA,Challenger,Lost-General,0.0,53
+U.S. Senator,Marsha Feinland,PEACE & FREEDOM,CA,Challenger,Lost-General,0.0,nan
+U.S. Senator,Gail Lightfoot,LIB,CA,Challenger,Lost-General,0.0,nan
+U.S. Senator,Edward Noonan,AMERICAN INDEPENDENT,CA,Challenger,Lost-General,0.0,nan
+U.S. Senator,Duane Roberts,GRN,CA,Challenger,Lost-General,0.0,nan

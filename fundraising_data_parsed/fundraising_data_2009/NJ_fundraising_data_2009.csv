@@ -1,0 +1,176 @@
+office,candidate,party,state,incumbency,result,total money,district
+Governor,Jon Corzine,DEM,NJ,Incumbent,Lost-General,31364575.27,nan
+Governor,Christopher Christie,REP,NJ,Challenger,Won-General,16283265.47,nan
+State Representative,Joe Roberts,DEM,NJ,Incumbent,Withdrew-General,3396522.29,5
+State Representative,Upendra Chivukula,DEM,NJ,Incumbent,Won-General,2284354.48,17
+Governor,Chris Daggett,IND,NJ,Challenger,Lost-General,1789331.25,nan
+State Representative,Louis Greenwald,DEM,NJ,Incumbent,Won-General,1052347.57,6
+State Representative,Gary Schaer,DEM,NJ,Incumbent,Won-General,876885.14,36
+State Representative,John Wisniewski,DEM,NJ,Incumbent,Won-General,831052.68,19
+State Representative,Alex Decroce,REP,NJ,Incumbent,Won-General,825104.07,26
+State Representative,Bonnie Watson Coleman,DEM,NJ,Incumbent,Won-General,802529.12,15
+State Representative,Joseph Cryan,DEM,NJ,Incumbent,Won-General,627347.61,20
+State Representative,Joseph Egan,DEM,NJ,Incumbent,Won-General,619055.92,17
+State Representative,Gerald Green,DEM,NJ,Incumbent,Won-General,565134.64,22
+State Representative,Peter Biondi,REP,NJ,Incumbent,Won-General,511164.45,16
+State Representative,Frederick Scalera,DEM,NJ,Incumbent,Won-General,493063.42,36
+State Representative,Jon Bramnick,REP,NJ,Incumbent,Won-General,448000.5,21
+State Representative,Nelida Pou,DEM,NJ,Incumbent,Won-General,443593.26,35
+State Representative,Thomas Giblin,DEM,NJ,Incumbent,Won-General,434420.36,34
+State Representative,John McKeon,DEM,NJ,Incumbent,Won-General,396756.63,27
+State Representative,Donald Norcross,DEM,NJ,Open,Won-General,383275.0,5
+State Representative,Vincent Prieto,DEM,NJ,Incumbent,Won-General,365318.08,32
+State Representative,Joseph Malone III,REP,NJ,Incumbent,Won-General,359118.45,30
+State Representative,Herbert Conaway Jr.,DEM,NJ,Incumbent,Won-General,349405.6,7
+State Representative,John Burzichelli,DEM,NJ,Incumbent,Won-General,321359.93,3
+State Representative,Joan Quigley,DEM,NJ,Incumbent,Won-General,316912.04,32
+State Representative,Patrick Diegnan Jr.,DEM,NJ,Incumbent,Won-General,315162.2,18
+State Representative,David Rible,REP,NJ,Incumbent,Won-General,303781.04,11
+State Representative,Peter Barnes III,DEM,NJ,Incumbent,Won-General,292655.49,18
+State Representative,Linda Stender,DEM,NJ,Incumbent,Won-General,267163.9,22
+State Representative,Wayne Deangelo,DEM,NJ,Incumbent,Won-General,248589.85,14
+State Representative,Pamela Rosen Lampitt,DEM,NJ,Incumbent,Won-General,245472.75,6
+State Representative,Scott Rumana,REP,NJ,Incumbent,Won-General,234798.17,40
+State Representative,Alberto Coutinho,DEM,NJ,Incumbent,Won-General,227923.15,29
+State Representative,Linda Greenstein,DEM,NJ,Incumbent,Won-General,220962.03,14
+State Representative,Samuel Thompson,REP,NJ,Incumbent,Won-General,215849.06,13
+State Representative,Jay Webber,REP,NJ,Incumbent,Won-General,211316.18,26
+State Representative,John Amodeo,REP,NJ,Incumbent,Won-General,198967.43,2
+State Representative,Sheila Oliver,DEM,NJ,Incumbent,Won-General,192663.33,34
+State Representative,Ronald Dancer,REP,NJ,Incumbent,Won-General,189365.72,30
+State Representative,Concetta Wagner,DEM,NJ,Incumbent,Won-General,185810.83,38
+State Representative,Joan Voss,DEM,NJ,Incumbent,Won-General,177733.75,38
+State Representative,Denise Coyle,REP,NJ,Incumbent,Won-General,159839.9,16
+State Representative,Mary Pat Angelini,REP,NJ,Incumbent,Won-General,156879.14,11
+State Representative,Gordon Johnson,DEM,NJ,Incumbent,Won-General,153440.22,37
+State Representative,Elease Evans,DEM,NJ,Incumbent,Won-General,152549.2,35
+State Representative,Anthony Bucco,REP,NJ,Challenger,Won-General,150230.27,25
+State Representative,Jack Conners,DEM,NJ,Incumbent,Won-General,148059.68,7
+State Representative,Alison Littell McHose,REP,NJ,Incumbent,Won-General,144437.06,24
+State Representative,Paul Moriarty,DEM,NJ,Incumbent,Won-General,143067.19,4
+State Representative,Declan Oscanlon Jr.,REP,NJ,Incumbent,Won-General,138897.25,12
+State Representative,Amy Handlin,REP,NJ,Incumbent,Won-General,137207.86,13
+State Representative,Annette Quijano,DEM,NJ,Incumbent,Won-General,136939.34,20
+State Representative,Valerie Vainieri Huttle,DEM,NJ,Incumbent,Won-General,135913.5,37
+State Representative,Charlotte Vandervalk,REP,NJ,Incumbent,Won-General,128363.47,39
+State Representative,Ralph Caputo,DEM,NJ,Incumbent,Won-General,127391.43,28
+State Representative,Vince Polistina,REP,NJ,Incumbent,Won-General,125482.47,2
+State Representative,Robert Schroeder,REP,NJ,Challenger,Won-General,110591.69,39
+State Representative,Craig Coughlin,DEM,NJ,Challenger,Won-General,109102.44,19
+State Representative,Ruben Ramos Jr.,DEM,NJ,Incumbent,Won-General,108251.0,33
+State Representative,William Collins,DEM,NJ,Challenger,Lost-General,106097.13,4
+State Representative,David Russo,REP,NJ,Incumbent,Won-General,103486.11,40
+State Representative,Caroline Casagrande,REP,NJ,Incumbent,Won-General,97879.71,12
+State Representative,Reed Gusciora,DEM,NJ,Incumbent,Won-General,96274.17,15
+State Representative,Angel Fuentes,DEM,NJ,Open,Won-General,94379.13,5
+State Representative,Gary Chiusano,REP,NJ,Incumbent,Won-General,93245.46,24
+State Representative,Michael Donohue,REP,NJ,Challenger,Lost-General,92935.95,1
+State Representative,Barry Adler,OTHER,NJ,Challenger,Lost-General,92729.44,19
+State Representative,James Holzapfel,REP,NJ,Incumbent,Won-General,91283.92,10
+State Representative,David Wolfe,REP,NJ,Incumbent,Won-General,89500.65,10
+State Representative,Anthony Chiappone,DEM,NJ,Incumbent,Won-General,88449.32,31
+State Representative,Grace Spencer,DEM,NJ,Incumbent,Won-General,84755.13,29
+State Representative,Mila Jasey,DEM,NJ,Incumbent,Won-General,83929.1,27
+State Representative,Celeste Riley,DEM,NJ,Incumbent,Won-General,79047.67,3
+State Representative,Peter Kothari,REP,NJ,Challenger,Lost-General,77993.78,19
+State Representative,Michael Patrick Carroll,REP,NJ,Incumbent,Won-General,69215.75,25
+State Representative,Robert Villare,REP,NJ,Challenger,Lost-General,68449.73,3
+State Representative,John Dimaio,REP,NJ,Incumbent,Won-General,63842.75,23
+State Representative,Cleopatra Tucker,DEM,NJ,Incumbent,Won-General,61873.5,28
+State Representative,Barry Funt,REP,NJ,Challenger,Lost-General,54595.29,27
+State Representative,Nancy Munoz,REP,NJ,Challenger,Won-General,51747.96,21
+State Representative,Scott Rudder,REP,NJ,Incumbent,Won-General,49590.0,8
+State Representative,Caridad Rodriguez,DEM,NJ,Incumbent,Won-General,48562.01,33
+State Representative,Dawn Marie Addiego,REP,NJ,Incumbent,Won-General,44590.0,8
+State Representative,Erik Peterson,REP,NJ,Challenger,Won-General,42949.25,23
+State Representative,Reginald Floyd,DEM,NJ,Challenger,Lost-General,40303.66,2
+State Representative,Daniel Van Pelt,REP,NJ,Incumbent,Withdrew-General,34303.96,9
+State Representative,Leah Arter,REP,NJ,Challenger,Lost-General,28990.0,7
+State Representative,John Oleary,DEM,NJ,Challenger,Withdrew-General,27900.0,19
+State Representative,Charles Mainor,DEM,NJ,Challenger,Won-General,21948.95,31
+State Representative,Richard Piatkowski,REP,NJ,Challenger,Lost-General,21109.3,19
+State Representative,Harry Adams,REP,NJ,Challenger,Lost-General,20100.0,7
+State Representative,Jimmy Martinez,DEM,NJ,Challenger,Lost-General,18673.84,2
+State Representative,Tammeisha Smith,DEM,NJ,Challenger,Lost-General,16557.81,23
+State Representative,Werner Graf,REP,NJ,Challenger,Lost-General,12275.69,15
+State Representative,Gary Algeier,REP,NJ,Challenger,Withdrew-General,12127.09,25
+State Representative,John McCann,REP,NJ,Challenger,Lost-General,10510.84,1
+State Representative,Wojciech Siemaszkiewicz,REP,NJ,Challenger,Lost-General,9550.0,37
+State Representative,Brian Greenberg,REP,NJ,Challenger,Lost-General,8713.0,6
+State Representative,Rebekah Conroy,DEM,NJ,Challenger,Lost-General,7412.86,25
+State Representative,Robert Brown,DEM,NJ,Challenger,Lost-General,7185.5,13
+State Representative,Kim Taylor,REP,NJ,Challenger,Lost-General,6152.44,15
+State Representative,Carmen Pio Costa,REP,NJ,Challenger,Lost-General,5027.7,36
+State Representative,James Poesl,OTHER,NJ,Challenger,Lost-General,4961.24,19
+State Representative,Wayne Marek,DEM,NJ,Challenger,Lost-General,4897.03,26
+State Representative,Roberta Karpinecz,DEM,NJ,Challenger,Lost-General,4660.65,16
+State Representative,Richard Bolger,DEM,NJ,Challenger,Lost-General,4205.0,11
+State Representative,James Grenafege,DEM,NJ,Challenger,Lost-General,3804.94,13
+State Representative,Douglas Herbert,DEM,NJ,Challenger,Lost-General,3626.57,26
+State Representative,Salim Nathoo,REP,NJ,Challenger,Lost-General,3621.94,17
+State Representative,Barry Bellin,REP,NJ,Challenger,Lost-General,2500.0,37
+State Representative,Mark Meyerowitz,REP,NJ,Challenger,Lost-General,2190.0,27
+State Representative,Frank Conrad,REP,NJ,Challenger,Withdrew-General,2000.0,1
+State Representative,Herbert Glenn,REP,NJ,Challenger,Lost-General,1300.0,28
+State Representative,Randy Bishop,DEM,NJ,Challenger,Lost-General,880.0,11
+State Representative,William Courtney,DEM,NJ,Challenger,Lost-General,774.5,23
+State Representative,Stepfanie Velez-Gentry,REP,NJ,Open,Lost-General,704.5,5
+State Representative,Lee Lucas,REP,NJ,Challenger,Lost-General,600.0,3
+State Representative,Wendy Wright,DEM,NJ,Challenger,Lost-General,100.0,25
+State Representative,Omar Dyer,OTHER,NJ,Challenger,Lost-General,-8500.0,31
+State Representative,Bill Brown,DEM,NJ,Challenger,Lost-General,0.0,8
+State Representative,Debbie Sarcone,DEM,NJ,Challenger,Lost-General,0.0,8
+State Representative,Robert Rue,DEM,NJ,Challenger,Lost-General,0.0,9
+State Representative,Richard Visotcky,DEM,NJ,Challenger,Lost-General,0.0,9
+State Representative,Eli Eytan,DEM,NJ,Challenger,Lost-General,0.0,10
+State Representative,Charles Tivenan,DEM,NJ,Challenger,Lost-General,0.0,10
+State Representative,John Amberg,DEM,NJ,Challenger,Lost-General,0.0,12
+State Representative,Michelle Roth,DEM,NJ,Challenger,Lost-General,0.0,12
+State Representative,Norman Albert,DEM,NJ,Challenger,Lost-General,0.0,21
+State Representative,Bruce Bergen,DEM,NJ,Challenger,Lost-General,0.0,21
+State Representative,John Kocubinski,DEM,NJ,Challenger,Lost-General,0.0,30
+State Representative,William Spedding,DEM,NJ,Challenger,Lost-General,0.0,30
+State Representative,Michael McCarthy,DEM,NJ,Challenger,Lost-General,0.0,39
+State Representative,John Shahdanian II,DEM,NJ,Challenger,Lost-General,0.0,39
+State Representative,John Agostinelli,DEM,NJ,Challenger,Lost-General,0.0,40
+State Representative,Mark Bombace,DEM,NJ,Challenger,Lost-General,0.0,40
+State Representative,Eugene T Lawrence,REP,NJ,Challenger,Lost-General,0.0,4
+State Representative,Brian Kluchnick,REP,NJ,Open,Lost-General,0.0,5
+State Representative,Rob Calabro,REP,NJ,Challenger,Lost-General,0.0,14
+State Representative,William Harvey Jr.,REP,NJ,Challenger,Lost-General,0.0,14
+State Representative,Anthony Mazzola,REP,NJ,Challenger,Lost-General,0.0,17
+State Representative,Robert Jones,REP,NJ,Challenger,Lost-General,0.0,18
+State Representative,Joseph Sinagra,REP,NJ,Challenger,Lost-General,0.0,18
+State Representative,Martin Marks,REP,NJ,Challenger,Lost-General,0.0,22
+State Representative,William Vastine,REP,NJ,Challenger,Lost-General,0.0,22
+State Representative,Andrew Bloschak,REP,NJ,Challenger,Lost-General,0.0,28
+State Representative,Fernando Linhares,REP,NJ,Challenger,Lost-General,0.0,29
+State Representative,Aracelis Sanabria-Tejada,REP,NJ,Challenger,Lost-General,0.0,29
+State Representative,Irene Kim Asbury,REP,NJ,Challenger,Lost-General,0.0,31
+State Representative,Marie Day,REP,NJ,Challenger,Lost-General,0.0,31
+State Representative,John Barbadillo,REP,NJ,Challenger,Lost-General,0.0,33
+State Representative,Beth Hamburger,REP,NJ,Challenger,Lost-General,0.0,33
+State Representative,Michael Mecca III,REP,NJ,Challenger,Lost-General,0.0,34
+State Representative,Matthew Tyahla,REP,NJ,Challenger,Lost-General,0.0,34
+State Representative,George Sawey,REP,NJ,Challenger,Lost-General,0.0,35
+State Representative,Lynn Anne Shortway,REP,NJ,Challenger,Lost-General,0.0,35
+State Representative,Donald Diorio,REP,NJ,Challenger,Lost-General,0.0,36
+State Representative,Judith Fisher,REP,NJ,Challenger,Lost-General,0.0,38
+State Representative,Nicholas Lonzisero,REP,NJ,Challenger,Lost-General,0.0,38
+State Representative,Steven Welzer,GRN,NJ,Challenger,Lost-General,0.0,12
+State Representative,Daryl Mikell Brooks,LIB,NJ,Challenger,Lost-General,0.0,15
+State Representative,Gene Baldassari,OTHER,NJ,Challenger,Lost-General,0.0,14
+State Representative,Katherine Shkolar,OTHER,NJ,Challenger,Lost-General,0.0,18
+State Representative,Andrew Tidd,OTHER,NJ,Challenger,Lost-General,0.0,18
+State Representative,Joanne Miller,OTHER,NJ,Challenger,Lost-General,0.0,29
+State Representative,Herbert Shaw,OTHER,NJ,Challenger,Lost-General,0.0,32
+State Representative,Clenard Childress Jr.,OTHER,NJ,Challenger,Lost-General,0.0,34
+State Representative,Scot Decristofaro,REP,NJ,Challenger,Lost-General,0.0,6
+State Representative,Nelson Albano,DEM,NJ,Incumbent,Won-General,0.0,1
+State Representative,Matthew Milam,DEM,NJ,Incumbent,Won-General,0.0,1
+State Representative,Domenick Dicicco,REP,NJ,Challenger,Won-General,0.0,4
+State Representative,Brian Rumpf,REP,NJ,Incumbent,Won-General,0.0,9
+State Representative,Dianne Gove,REP,NJ,Challenger,Won-General,0.0,9
+State Representative,Bill Obrien,DEM,NJ,Challenger,Withdrew-General,0.0,16
+State Representative,Adam Brown,REP,NJ,Challenger,Withdrew-General,0.0,6
+State Representative,Bradley Mattson,REP,NJ,Challenger,Withdrew-General,0.0,6

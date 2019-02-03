@@ -1,0 +1,488 @@
+office,candidate,party,state,incumbency,result,total money,district
+U.S. Representative,Michele Bachmann,REP,MN,Incumbent,Won-General,13664150.8,6
+Governor,Mark Dayton,DEM,MN,Open,Won-General,5373673.99,nan
+U.S. Representative,Tarryl Clark,DEM,MN,Challenger,Lost-General,4566648.72,6
+Governor,Thomas Earl Emmer Jr.,REP,MN,Open,Lost-General,3405558.97,nan
+U.S. Representative,Erik Paulsen,REP,MN,Incumbent,Won-General,2669475.57,3
+U.S. Representative,Timothy Walz,DEM,MN,Incumbent,Won-General,2129510.41,1
+U.S. Representative,James Oberstar,DEM,MN,Incumbent,Lost-General,1727569.91,8
+U.S. Representative,John Kline,REP,MN,Incumbent,Won-General,1566419.01,2
+U.S. Representative,Keith Maurice Ellison,DEM,MN,Incumbent,Won-General,1383412.18,5
+Governor,Tom Horner,INDEPENDENCE,MN,Open,Lost-General,1219276.77,nan
+U.S. Representative,Collin Peterson,DEM,MN,Incumbent,Won-General,1162707.48,7
+U.S. Representative,Randy Demmer,REP,MN,Challenger,Lost-General,862044.55,1
+U.S. Representative,Betty McCollum,DEM,MN,Incumbent,Won-General,836922.11,4
+U.S. Representative,Chip Cravaack,REP,MN,Challenger,Won-General,653809.6,8
+Attorney General,Lori Swanson,DEM,MN,Incumbent,Won-General,646919.31,nan
+U.S. Representative,Jim Meffert,DEM,MN,Challenger,Lost-General,525374.8,3
+U.S. Representative,Lee Byberg,REP,MN,Challenger,Lost-General,385767.29,7
+Secretary Of State,Mark Ritchie,DEM,MN,Incumbent,Won-General,349115.49,nan
+Auditor,Rebecca Otto,DEM,MN,Incumbent,Won-General,255133.25,nan
+U.S. Representative,Teresa Collett,REP,MN,Challenger,Lost-General,214852.97,4
+Auditor,Patricia Anderson,REP,MN,Challenger,Lost-General,162061.37,nan
+Secretary Of State,Dan Severson,REP,MN,Challenger,Lost-General,157917.28,nan
+State Senator,Geoffrey Michel,REP,MN,Incumbent,Won-General,126995.71,41
+State Representative,Joe Atkins,DEM,MN,Incumbent,Won-General,121891.59,39B
+Attorney General,Chris Barden,REP,MN,Challenger,Lost-General,108938.07,nan
+State Representative,Keith Downey,REP,MN,Incumbent,Won-General,104540.27,41A
+State Senator,Thomas Bakk,DEM,MN,Incumbent,Won-General,102787.75,6
+State Senator,Gary Kubly,DEM,MN,Incumbent,Won-General,98006.96,20
+State Senator,David Tomassoni,DEM,MN,Incumbent,Won-General,97834.94,5
+State Senator,Karin Housley,REP,MN,Challenger,Lost-General,96798.32,57
+U.S. Representative,Joel Demos,REP,MN,Challenger,Lost-General,93035.57,5
+State Senator,Ann Lynch,DEM,MN,Incumbent,Lost-General,88454.92,30
+U.S. Representative,Shelley Madore,DEM,MN,Challenger,Lost-General,87617.47,2
+State Senator,Kathleen Sheran,DEM,MN,Incumbent,Won-General,87479.84,23
+State Senator,James Carlson,DEM,MN,Incumbent,Lost-General,86022.59,38
+State Senator,Terri Bonoff,DEM,MN,Incumbent,Won-General,84750.82,43
+State Senator,Richard Cohen,DEM,MN,Incumbent,Won-General,80931.22,64
+State Senator,William Ingebrigtsen,REP,MN,Incumbent,Won-General,77917.95,11
+State Senator,Dan Skogen,DEM,MN,Incumbent,Lost-General,76781.59,10
+State Senator,Kathy Saltzman,DEM,MN,Incumbent,Lost-General,76214.01,56
+State Senator,Sharon Erickson Ropes,DEM,MN,Incumbent,Lost-General,75476.43,31
+State Representative,Kevin Staunton,DEM,MN,Challenger,Lost-General,73227.36,41A
+State Senator,Paul Meunier,DEM,MN,Open,Lost-General,72563.7,49
+State Senator,Lawrence Pogemiller,DEM,MN,Incumbent,Won-General,71815.23,59
+State Senator,David Senjem,REP,MN,Incumbent,Won-General,70865.0,29
+State Senator,Carla Jean Nelson,REP,MN,Challenger,Won-General,70504.47,30
+State Senator,Jeremy Miller,REP,MN,Challenger,Won-General,69984.07,31
+State Senator,Anthony Lourey,DEM,MN,Incumbent,Won-General,69717.27,8
+State Senator,Daniel Sparks,DEM,MN,Incumbent,Won-General,68831.7,27
+State Senator,Linda Berglin,DEM,MN,Incumbent,Won-General,68794.93,61
+State Senator,Ann Rest,DEM,MN,Incumbent,Won-General,68226.79,45
+State Senator,Scott Dibble,DEM,MN,Incumbent,Won-General,67436.62,60
+State Representative,Kurt Zellers,REP,MN,Incumbent,Won-General,66533.63,32B
+State Senator,Charles Wiger,DEM,MN,Incumbent,Won-General,65529.98,55
+State Senator,Katie Sieben,DEM,MN,Incumbent,Won-General,64511.06,57
+State Senator,Sandy Rummel,DEM,MN,Incumbent,Lost-General,64208.22,53
+State Senator,James Metzen,DEM,MN,Incumbent,Won-General,64199.12,39
+State Senator,Rick Olseen,DEM,MN,Incumbent,Lost-General,63844.22,17
+U.S. Representative,Gene Waldorf,IND,MN,Challenger,Lost-General,62351.2,7
+State Senator,John Doll,DEM,MN,Incumbent,Lost-General,61134.34,40
+State Senator,John Pederson,REP,MN,Open,Won-General,60822.72,15
+U.S. Representative,Lynne Torgerson,IND,MN,Challenger,Lost-General,60786.63,5
+State Senator,Patricia Torres Ray,DEM,MN,Incumbent,Won-General,59413.93,62
+State Senator,Linda Scheid,DEM,MN,Incumbent,Won-General,57690.92,46
+State Senator,Ellen Anderson,DEM,MN,Incumbent,Won-General,56005.47,66
+State Representative,Ann Lenczewski,DEM,MN,Incumbent,Won-General,55909.67,40B
+State Senator,Donald Betzold,DEM,MN,Incumbent,Lost-General,54784.01,51
+State Senator,Linda Higgins,DEM,MN,Incumbent,Won-General,53664.56,58
+State Representative,Julie Bunn,DEM,MN,Incumbent,Lost-General,53540.99,56A
+State Senator,Sandra Pappas,DEM,MN,Incumbent,Won-General,53184.76,65
+State Senator,Michelle Benson,REP,MN,Open,Won-General,52706.55,49
+State Senator,Dan Hall,REP,MN,Challenger,Won-General,52619.72,40
+State Senator,Chris Gerlach,REP,MN,Incumbent,Won-General,51925.36,37
+State Senator,Tom Saxhaug,DEM,MN,Incumbent,Won-General,51601.54,3
+State Senator,Roger Reinert,DEM,MN,Open,Won-General,51431.04,7
+State Representative,Anthony Cornish,REP,MN,Incumbent,Won-General,51160.22,24B
+State Representative,Jim Abeler,REP,MN,Incumbent,Won-General,51026.62,48B
+State Senator,John Marty,DEM,MN,Incumbent,Won-General,50623.22,54
+State Senator,Al Dekruif,REP,MN,Challenger,Won-General,50350.49,25
+State Senator,Ted Lillie,REP,MN,Challenger,Won-General,49904.97,56
+State Senator,Joseph Gimse,REP,MN,Incumbent,Won-General,49675.95,13
+State Senator,Paul Gazelka,REP,MN,Open,Won-General,49457.91,12
+State Representative,Katie Rodriguez,DEM,MN,Challenger,Lost-General,49423.97,32B
+State Senator,Ron Case,DEM,MN,Challenger,Lost-General,49093.38,42
+State Senator,Bruce Hentges,DEM,MN,Open,Lost-General,48926.37,15
+State Senator,Raymond Vandeveer,REP,MN,Incumbent,Won-General,48593.21,52
+State Representative,John Kriesel,REP,MN,Open,Won-General,48477.35,57A
+State Senator,Ronald Latz,DEM,MN,Incumbent,Won-General,48470.18,44
+State Senator,John Carlson,REP,MN,Challenger,Won-General,48445.1,4
+State Senator,David Hann,REP,MN,Incumbent,Won-General,48367.72,42
+State Senator,Larry Rice,DEM,MN,Challenger,Lost-General,48309.54,13
+State Senator,Lisa Fobbe,DEM,MN,Incumbent,Lost-General,48187.92,16
+Supreme Court-Meyer Seat,Helen Meyer,IND,MN,Incumbent,Won-General,47742.13,nan
+State Representative,Gail Kulick Jackson,DEM,MN,Incumbent,Lost-General,47700.39,16A
+State Senator,Julianne Ortman,REP,MN,Incumbent,Won-General,47408.45,34
+State Senator,John Sterling Howe,REP,MN,Open,Won-General,47193.4,28
+State Senator,Mary Olson,DEM,MN,Incumbent,Lost-General,46867.64,4
+State Representative,Marion Greene,DEM,MN,Open,Won-General,46520.4,60A
+State Senator,Ted Daley,REP,MN,Challenger,Won-General,46005.74,38
+State Senator,Becky Siekmeier,DEM,MN,Challenger,Lost-General,45946.88,52
+State Senator,Rod Skoe,DEM,MN,Incumbent,Won-General,45709.64,2
+State Senator,Gretchen Hoffman,REP,MN,Challenger,Won-General,45683.19,10
+State Representative,Torrey Norman Westrom,REP,MN,Incumbent,Won-General,45455.31,11A
+State Representative,David Bly,DEM,MN,Incumbent,Lost-General,44922.95,25B
+State Senator,Norann Dillon,REP,MN,Challenger,Lost-General,44878.17,43
+State Representative,Kathy Lohmer,REP,MN,Challenger,Won-General,44662.39,56A
+State Representative,Mindy Greiling,DEM,MN,Incumbent,Won-General,44626.52,54A
+State Representative,Pat Mazorol,REP,MN,Challenger,Won-General,43794.75,41B
+State Representative,Andrea Kieffer,REP,MN,Challenger,Won-General,43775.4,56B
+State Senator,Keith Langseth,DEM,MN,Incumbent,Won-General,43771.5,9
+State Representative,Bernhard Kent Eken,DEM,MN,Incumbent,Won-General,43577.12,2A
+State Representative,Dennis McNamara,REP,MN,Incumbent,Won-General,43431.01,57B
+State Representative,Marsha Swails,DEM,MN,Incumbent,Lost-General,42672.9,56B
+State Senator,Doug Magnus,REP,MN,Open,Won-General,42636.93,22
+State Representative,Phillip Sterner,DEM,MN,Incumbent,Lost-General,42464.28,37B
+State Senator,Gary Dahms,REP,MN,Open,Won-General,41410.48,21
+State Representative,Andy Welti,DEM,MN,Incumbent,Lost-General,41369.48,30B
+State Senator,Jeff Backer,REP,MN,Challenger,Lost-General,41368.31,9
+State Senator,Kevin Dahle,DEM,MN,Incumbent,Lost-General,41316.56,25
+State Representative,Paul Gardner,DEM,MN,Incumbent,Lost-General,41284.1,53A
+State Senator,Dave Thompson,REP,MN,Open,Won-General,41199.41,36
+State Senator,Amy Koch,REP,MN,Incumbent,Won-General,41137.45,19
+State Representative,Paul Rosenthal,DEM,MN,Incumbent,Lost-General,41009.73,41B
+State Senator,Julie Rosen,REP,MN,Incumbent,Won-General,40655.0,24
+State Representative,Al Doty,DEM,MN,Incumbent,Lost-General,40382.13,12B
+State Representative,Kirk Stensrud,REP,MN,Challenger,Won-General,39756.33,42A
+State Senator,Roger Chamberlain,REP,MN,Challenger,Won-General,39751.76,53
+State Representative,Tim Sanders,REP,MN,Incumbent,Won-General,39290.32,51A
+State Representative,Carol McFarlane,REP,MN,Incumbent,Won-General,39220.86,53B
+State Senator,Scott Newman,REP,MN,Open,Won-General,38921.76,18
+State Representative,Gregory Davids,REP,MN,Incumbent,Won-General,38880.73,31B
+State Senator,Michael Jungbauer,REP,MN,Incumbent,Won-General,38707.84,48
+State Senator,John Harrington,DEM,MN,Open,Won-General,38665.89,67
+State Representative,Kimberly Norton,DEM,MN,Incumbent,Won-General,38478.67,29B
+State Representative,Matthew Dean,REP,MN,Incumbent,Won-General,38389.08,52B
+State Representative,Terry Morrow,DEM,MN,Incumbent,Won-General,38377.84,23A
+Supreme Court-Meyer Seat,Greg Carlson Wersal,IND,MN,Challenger,Lost-General,37760.0,nan
+State Senator,Gen Olson,REP,MN,Incumbent,Won-General,37668.26,33
+State Representative,Tim Faust,DEM,MN,Incumbent,Lost-General,37634.66,8B
+State Representative,Brita Sailer,DEM,MN,Incumbent,Lost-General,37437.97,2B
+State Senator,Barbara Goodwin,DEM,MN,Open,Won-General,37336.74,50
+State Representative,Andrew Falk,DEM,MN,Incumbent,Won-General,36965.83,20A
+State Representative,Kurt Bills,REP,MN,Challenger,Won-General,36707.65,37B
+State Representative,Lawrence Hosch,DEM,MN,Incumbent,Won-General,36629.02,14B
+State Representative,Roger Crawford,REP,MN,Challenger,Won-General,36427.52,8B
+State Representative,Tara Mack,REP,MN,Incumbent,Won-General,36411.26,37A
+State Representative,Pam Myhra,REP,MN,Challenger,Won-General,36156.55,40A
+State Representative,Patrick Garofalo,REP,MN,Incumbent,Won-General,36153.97,36B
+State Representative,Steve Simon,DEM,MN,Incumbent,Won-General,36036.0,44A
+State Representative,Peggy Scott,REP,MN,Incumbent,Won-General,35913.91,49A
+State Representative,Erin Murphy,DEM,MN,Incumbent,Won-General,35903.15,64A
+State Senator,Kathy Green,REP,MN,Challenger,Lost-General,35706.83,27
+State Senator,Laura Helmer,DEM,MN,Challenger,Lost-General,35697.87,34
+State Representative,Connie Doepke,REP,MN,Incumbent,Won-General,35574.6,33B
+State Representative,Anthony Sertich,DEM,MN,Incumbent,Won-General,35507.19,5B
+State Senator,Dave Brown,REP,MN,Challenger,Won-General,35252.54,16
+State Representative,King Banaian,REP,MN,Open,Won-General,35205.26,15B
+State Representative,Rena Moran,DEM,MN,Open,Won-General,35110.75,65A
+State Senator,Taylor Stevenson,DEM,MN,Open,Lost-General,35110.64,12
+State Representative,Tim Kelly,REP,MN,Incumbent,Won-General,35084.69,28A
+State Senator,Leo Foley,DEM,MN,Incumbent,Lost-General,35035.66,47
+State Representative,Tina Liebling,DEM,MN,Incumbent,Won-General,34992.53,30A
+State Representative,Sandra Masin,DEM,MN,Incumbent,Lost-General,34658.35,38A
+State Senator,Leroy Stumpf,DEM,MN,Incumbent,Won-General,34388.01,1
+State Representative,Dan Fabian,REP,MN,Challenger,Won-General,34267.88,1A
+State Representative,Jenifer Loon,REP,MN,Incumbent,Won-General,34120.24,42B
+State Representative,Katherine Knuth,DEM,MN,Incumbent,Won-General,34119.34,50B
+State Senator,Michelle Fischbach,REP,MN,Incumbent,Won-General,34072.73,14
+State Representative,Mick McGuire,DEM,MN,Open,Lost-General,34019.93,25A
+State Senator,Ken Kelash,DEM,MN,Incumbent,Won-General,33976.23,63
+State Representative,Diane Anderson,REP,MN,Challenger,Won-General,33798.17,38A
+State Senator,Steve Elkins,DEM,MN,Challenger,Lost-General,33711.24,41
+State Representative,Will Morgan,DEM,MN,Incumbent,Lost-General,33558.56,40A
+State Senator,Claire Robling,REP,MN,Incumbent,Won-General,33033.52,35
+State Representative,Steve Drazkowski,REP,MN,Incumbent,Won-General,32541.83,28B
+State Representative,Rich Murray,REP,MN,Challenger,Won-General,32531.96,27A
+State Representative,Tim Utz,REP,MN,Challenger,Lost-General,32483.39,50A
+State Representative,Chris Knopf,DEM,MN,Challenger,Lost-General,32466.52,53B
+State Representative,Joyce Peppin,REP,MN,Incumbent,Won-General,32237.42,32A
+State Representative,Leon Michael Lillie,DEM,MN,Incumbent,Won-General,32134.28,55A
+State Senator,Hal Kimball,DEM,MN,Open,Lost-General,32069.59,18
+State Representative,Mark Murdock,REP,MN,Incumbent,Won-General,31862.59,10B
+State Senator,Mike Parry,REP,MN,Incumbent,Won-General,31744.61,26
+State Representative,Thomas Rukavina,DEM,MN,Incumbent,Won-General,31403.79,5A
+State Representative,Joe Mullery,DEM,MN,Incumbent,Won-General,31376.54,58A
+State Senator,Jim Thoreen,DEM,MN,Challenger,Lost-General,31192.98,11
+State Representative,Chris Swedzinski,REP,MN,Open,Won-General,31009.82,21A
+Appellate Court-Stauber Seat,Lawrence Stauber Jr.,IND,MN,Incumbent,Won-General,30995.0,nan
+State Representative,Sarah Anderson,REP,MN,Incumbent,Won-General,30986.52,43A
+State Senator,Sean Nienow,REP,MN,Challenger,Won-General,30963.29,17
+State Representative,Sondra Erickson,REP,MN,Challenger,Won-General,30921.65,16A
+State Representative,Maria Naomi Ruud,DEM,MN,Incumbent,Lost-General,30507.5,42A
+State Representative,Jerry Newton,DEM,MN,Incumbent,Lost-General,30505.65,49B
+State Representative,Audrey Britton,DEM,MN,Challenger,Lost-General,30391.66,43A
+State Representative,Michael Obermueller,DEM,MN,Incumbent,Lost-General,29926.62,38B
+State Representative,John Benson,DEM,MN,Incumbent,Won-General,29905.44,43B
+State Representative,Kory Kath,DEM,MN,Incumbent,Won-General,29856.46,26A
+State Representative,Lyndon Carlson,DEM,MN,Incumbent,Won-General,29845.89,45B
+State Representative,David Hoden,DEM,MN,Challenger,Lost-General,29826.1,32A
+State Representative,Al Hein,IND,MN,Challenger,Lost-General,29754.76,31B
+State Representative,Mike Lemieur,REP,MN,Challenger,Won-General,29687.96,12B
+State Representative,Alan Juhnke,DEM,MN,Incumbent,Lost-General,29429.81,13B
+State Representative,Dean Urdahl,REP,MN,Incumbent,Won-General,29409.8,18B
+State Representative,Robert Gunther,REP,MN,Incumbent,Won-General,29356.78,24A
+State Representative,Bob Barrett,REP,MN,Open,Won-General,29261.43,17B
+State Representative,Loren Solberg,DEM,MN,Incumbent,Lost-General,28916.57,3B
+State Representative,Melissa Hortman,DEM,MN,Incumbent,Won-General,28606.67,47B
+State Representative,Bob Dettmer,REP,MN,Incumbent,Won-General,28148.01,52A
+State Representative,Alice Hausman,DEM,MN,Incumbent,Won-General,28119.73,66B
+State Representative,Tim Odriscoll,REP,MN,Open,Won-General,28110.43,14A
+Supreme Court-Page Seat,Alan Page,IND,MN,Incumbent,Won-General,27950.0,nan
+State Representative,Debra Hilstrom,DEM,MN,Incumbent,Won-General,27818.62,46B
+State Representative,Steve Gottwalt,REP,MN,Incumbent,Won-General,27720.97,15A
+State Representative,Jay Backer,REP,MN,Challenger,Lost-General,27221.0,20A
+State Representative,Sandra Peterson,DEM,MN,Incumbent,Won-General,27120.97,45A
+State Representative,Ryan Winkler,DEM,MN,Incumbent,Won-General,26675.58,44B
+State Representative,Glenn Gruenhagen,REP,MN,Open,Won-General,26656.74,25A
+State Representative,Ted Winter,DEM,MN,Open,Lost-General,26433.42,22A
+State Representative,Mary Kiffmeyer,REP,MN,Incumbent,Won-General,26236.14,16B
+State Representative,Diane Loeffler,DEM,MN,Incumbent,Won-General,26192.04,59A
+State Representative,Phyllis Kahn,DEM,MN,Incumbent,Won-General,26032.32,59B
+State Representative,Robin Brown,DEM,MN,Incumbent,Lost-General,26000.14,27A
+State Senator,Gregg Kulberg,REP,MN,Challenger,Lost-General,25921.7,20
+State Representative,John Persell,DEM,MN,Incumbent,Won-General,25875.05,4A
+State Representative,Nora Slawik,DEM,MN,Incumbent,Won-General,25747.22,55B
+U.S. Representative,Steven Wilson,INDEPENDENCE,MN,Challenger,Lost-General,25568.0,1
+State Representative,Steve Smith,REP,MN,Incumbent,Won-General,25556.98,33A
+State Senator,Pam Wolf,REP,MN,Challenger,Won-General,25556.0,51
+State Representative,Kurt Daudt,REP,MN,Open,Won-General,25512.87,17A
+State Representative,Karen Clark,DEM,MN,Incumbent,Won-General,25399.26,61A
+State Representative,Jeff Hayden,DEM,MN,Incumbent,Won-General,25372.86,61B
+State Representative,Tim Mahoney,DEM,MN,Incumbent,Won-General,25356.43,67A
+State Representative,Thomas Huntley,DEM,MN,Incumbent,Won-General,25290.38,7A
+State Representative,Joe Schomacker,REP,MN,Open,Won-General,25222.78,22A
+State Representative,Gene Pelowski Jr.,DEM,MN,Incumbent,Won-General,25202.94,31A
+State Representative,Mike Rolih,REP,MN,Challenger,Lost-General,24882.99,29B
+State Representative,Patti Fritz,DEM,MN,Incumbent,Won-General,24860.29,26B
+State Representative,Pete Phillips,DEM,MN,Challenger,Lost-General,24593.25,10B
+State Senator,Kevin Vickerman,DEM,MN,Open,Lost-General,24498.73,22
+State Representative,Denise Dittrich,DEM,MN,Incumbent,Won-General,24218.17,47A
+State Representative,Kelby Woodard,REP,MN,Challenger,Won-General,24209.46,25B
+State Representative,John Ward,DEM,MN,Incumbent,Won-General,24162.72,12A
+State Representative,Mike Benson,REP,MN,Challenger,Won-General,24110.23,30B
+State Representative,David Dill,DEM,MN,Incumbent,Won-General,24057.84,6A
+State Representative,David Hancock,REP,MN,Challenger,Won-General,24040.65,2B
+State Representative,Doug Wardlow,REP,MN,Challenger,Won-General,24017.34,38B
+State Representative,Mike Nelson,DEM,MN,Incumbent,Won-General,23606.17,46A
+State Representative,Mary Franson,REP,MN,Open,Won-General,23439.1,11B
+State Representative,Carinda Horton,REP,MN,Challenger,Lost-General,23427.45,7A
+State Senator,Alex De Marco,DEM,MN,Challenger,Lost-General,23424.22,26
+State Senator,Peter Perovich,DEM,MN,Challenger,Lost-General,23343.44,48
+State Representative,Rod Hamilton,REP,MN,Incumbent,Won-General,22904.37,22B
+State Representative,Jen Peterson,DEM,MN,Open,Lost-General,22837.84,57A
+State Senator,Benjamin Kruse,REP,MN,Challenger,Won-General,22593.18,47
+State Representative,Rebecca Peichel,REP,MN,Challenger,Lost-General,22592.27,23A
+State Representative,Paul Marquart,DEM,MN,Incumbent,Won-General,22588.92,9B
+State Senator,Joe Fricke,DEM,MN,Open,Lost-General,22563.98,28
+State Representative,Branden Petersen,REP,MN,Challenger,Won-General,22551.64,49B
+State Representative,Sanu Patel-Zellinger,REP,MN,Challenger,Lost-General,22471.32,40B
+State Representative,Michael Paymar,DEM,MN,Incumbent,Won-General,22458.71,64B
+State Senator,Steve Quist,DEM,MN,Open,Lost-General,22426.85,36
+State Representative,Cindy Erickson,DEM,MN,Open,Lost-General,22363.62,17B
+State Representative,Jim Davnie,DEM,MN,Incumbent,Won-General,22328.11,62A
+State Representative,Carolyn Laine,DEM,MN,Incumbent,Won-General,22202.53,50A
+State Senator,Peter Trocke,REP,MN,Challenger,Lost-General,22135.63,23
+State Representative,Duane Quam,REP,MN,Open,Won-General,22108.43,29A
+State Representative,Larry Howes,REP,MN,Incumbent,Won-General,22088.47,4B
+State Representative,Morrie Lanning,REP,MN,Incumbent,Won-General,22080.23,9A
+State Representative,Frank Hornstein,DEM,MN,Incumbent,Won-General,22027.63,60B
+Supreme Court-Page Seat,Timothy Tingelstad,IND,MN,Challenger,Lost-General,21975.49,nan
+State Representative,Dan Kaiser,REP,MN,Challenger,Lost-General,21867.28,26B
+State Representative,Debra Kiel,REP,MN,Challenger,Won-General,21860.48,1B
+State Representative,Bev Scalze,DEM,MN,Incumbent,Won-General,21788.34,54B
+State Representative,Meg Bye,DEM,MN,Challenger,Lost-General,21620.91,4B
+State Representative,Bruce Anderson,REP,MN,Challenger,Won-General,21498.71,19A
+State Representative,Joe McDonald,REP,MN,Open,Won-General,21387.88,19B
+State Representative,Jeanne Poppe,DEM,MN,Incumbent,Won-General,21273.71,27B
+State Senator,Gina Bauman,REP,MN,Open,Lost-General,21236.23,50
+State Representative,Sheldon Johnson,DEM,MN,Incumbent,Won-General,21205.4,67B
+State Representative,Kathy Brynaert,DEM,MN,Incumbent,Won-General,21182.48,23B
+State Representative,Lyle Koenen,DEM,MN,Incumbent,Won-General,21179.1,20B
+State Representative,Kim Kang,DEM,MN,Challenger,Lost-General,21102.73,33B
+State Representative,Linda Slocum,DEM,MN,Incumbent,Won-General,21099.36,63B
+State Senator,Patrick Elgin,REP,MN,Challenger,Lost-General,21041.15,62
+State Representative,Carolyn McElfatrick,REP,MN,Challenger,Won-General,21037.23,3B
+State Representative,Paul Thissen,DEM,MN,Incumbent,Won-General,20975.67,63A
+State Representative,Ernie Leidiger,REP,MN,Open,Won-General,20959.08,34A
+State Representative,Greg Lemke,DEM,MN,Challenger,Lost-General,20921.85,9A
+State Representative,Derrick Lindstrom,DEM,MN,Challenger,Lost-General,20884.15,37A
+State Representative,Kerry Gauthier,DEM,MN,Open,Won-General,20854.85,7B
+State Senator,Mike Sharp,DEM,MN,Challenger,Lost-General,20851.69,14
+State Senator,Michael Germain,DEM,MN,Challenger,Lost-General,20778.05,37
+State Representative,Carol Lewis,DEM,MN,Open,Lost-General,20627.67,15B
+State Representative,Barrett Chrissis,DEM,MN,Incumbent,Lost-General,20596.03,19A
+State Representative,Bernie Lieder,DEM,MN,Incumbent,Lost-General,20498.73,1B
+State Representative,Bruce Vogel,REP,MN,Challenger,Won-General,20468.87,13B
+State Senator,Monica Dawson,DEM,MN,Challenger,Lost-General,20232.78,33
+State Representative,Zak Chlebeck,DEM,MN,Challenger,Lost-General,19871.59,51A
+State Senator,Robb Soleim,REP,MN,Challenger,Lost-General,19820.25,39
+State Representative,Michael Beard,REP,MN,Incumbent,Won-General,19733.48,35A
+State Representative,David Olin,DEM,MN,Incumbent,Lost-General,19651.9,1A
+State Representative,Joe Hoppe,REP,MN,Incumbent,Won-General,19500.0,34B
+State Representative,Mary Murphy,DEM,MN,Incumbent,Won-General,19467.73,6B
+State Representative,Bud Nornes,REP,MN,Incumbent,Won-General,19226.29,10A
+State Senator,Tim Johnson,REP,MN,Challenger,Lost-General,19074.27,54
+State Representative,Jim Godfrey,DEM,MN,Open,Lost-General,19043.12,17A
+State Senator,Nick Petersen,REP,MN,Challenger,Lost-General,18867.03,45
+U.S. Representative,Jon Oleson,INDEPENDENCE,MN,Challenger,Lost-General,18865.66,3
+State Representative,Mark Fotsch,REP,MN,Challenger,Lost-General,18833.06,54A
+State Representative,Ramona Larson,DEM,MN,Open,Lost-General,18783.71,21A
+State Representative,Thomas Anzelc,DEM,MN,Incumbent,Won-General,18779.49,3A
+State Representative,David Thul,REP,MN,Challenger,Lost-General,18706.11,26A
+State Representative,Leanne Pouliot Kunze,DEM,MN,Open,Lost-General,18526.05,34A
+State Representative,Mark Meyer,INDEPENDENCE,MN,Challenger,Lost-General,18489.06,24B
+State Representative,Tom Tillberry,DEM,MN,Incumbent,Won-General,17882.93,51B
+State Representative,Ron Shimanski,REP,MN,Incumbent,Won-General,17804.6,18A
+Supreme Court-Dietzen Seat,Christopher Dietzen,IND,MN,Incumbent,Won-General,17375.46,nan
+State Senator,Michael Cummins,REP,MN,Challenger,Lost-General,17306.26,8
+State Representative,Russ Bertsch,REP,MN,Challenger,Lost-General,17296.84,50B
+State Representative,Amy Hunter,DEM,MN,Open,Lost-General,17156.75,11B
+State Senator,Travis Burton,DEM,MN,Challenger,Lost-General,17078.8,35
+State Senator,Paul Scofield,REP,MN,Challenger,Lost-General,17045.09,44
+State Representative,Bobby Joe Champion,DEM,MN,Incumbent,Won-General,16993.58,58B
+State Senator,Dennis Moser,REP,MN,Challenger,Lost-General,16875.06,2
+State Representative,Mary Liz Holberg,REP,MN,Incumbent,Won-General,16862.72,36A
+State Representative,Richard Kagan,DEM,MN,Challenger,Lost-General,16854.88,10A
+State Representative,Bill Hilty,DEM,MN,Incumbent,Won-General,16849.59,8A
+State Representative,Dave Kruse,REP,MN,Challenger,Lost-General,16711.01,23B
+State Senator,Tami Ekstrand,REP,MN,Challenger,Lost-General,16535.1,55
+State Senator,Jim Bischoff,DEM,MN,Challenger,Lost-General,16526.86,19
+State Representative,Brian Kohout,REP,MN,Challenger,Lost-General,16426.14,20B
+State Representative,Jean Wagenius,DEM,MN,Incumbent,Won-General,16061.56,62B
+State Representative,Rick Rice,REP,MN,Challenger,Lost-General,15868.77,44B
+State Representative,Thomas Hackbarth,REP,MN,Incumbent,Won-General,15858.3,48A
+State Senator,Russell Walker,REP,MN,Challenger,Lost-General,15669.0,1
+State Senator,Barry Hickethier,REP,MN,Challenger,Lost-General,15658.1,59
+State Representative,Paul Torkelson,REP,MN,Incumbent,Won-General,15600.0,21B
+State Representative,Paul Anderson,REP,MN,Incumbent,Won-General,15336.32,13A
+Governor,Farheen Hakeem,GRN,MN,Open,Lost-General,15171.0,nan
+State Senator,Greg French,DEM,MN,Challenger,Lost-General,14931.99,29
+State Representative,Anne Nolan,DEM,MN,Challenger,Lost-General,14925.7,15A
+State Senator,Krysia Weidell,REP,MN,Open,Lost-General,14781.84,67
+State Senator,Warren Limmer,REP,MN,Incumbent,Won-General,14675.0,32
+State Representative,Rob Jacobs,DEM,MN,Open,Lost-General,14557.61,14A
+State Senator,Craig Marston,REP,MN,Challenger,Lost-General,14538.25,63
+U.S. Representative,Glen Menze,INDEPENDENCE,MN,Challenger,Lost-General,14450.55,7
+State Representative,John Lesch,DEM,MN,Incumbent,Won-General,14238.93,66A
+State Representative,Brian Grogan,REP,MN,Challenger,Lost-General,14233.91,43B
+State Representative,Stephen Manderfeld,REP,MN,Challenger,Lost-General,14018.4,44A
+State Representative,Carlos Mariani,DEM,MN,Incumbent,Won-General,13935.21,65B
+State Representative,Bennett Smith,DEM,MN,Challenger,Lost-General,13742.91,11A
+State Representative,Mark Buesgens,REP,MN,Incumbent,Won-General,13568.93,35B
+State Representative,Rick Hansen,DEM,MN,Incumbent,Won-General,13441.6,39A
+State Representative,Ray Daniels,DEM,MN,Challenger,Lost-General,13368.99,42B
+State Representative,Christine Brazelton,DEM,MN,Open,Lost-General,13109.45,19B
+State Senator,Amy Smith,INDEPENDENCE,MN,Challenger,Lost-General,12866.65,65
+State Representative,Marvin Ott,REP,MN,Challenger,Lost-General,12626.24,3A
+State Representative,David Page,DEM,MN,Challenger,Lost-General,12550.93,57B
+State Senator,Scot Pekarek,REP,MN,Challenger,Lost-General,12519.67,60
+State Representative,Richard Lehmann,REP,MN,Challenger,Lost-General,12430.52,4A
+State Representative,Tom Heyd,DEM,MN,Challenger,Lost-General,12409.62,16B
+State Representative,Sigrid Iversen,DEM,MN,Challenger,Lost-General,12395.4,36B
+State Representative,Douglas Wunderlich,DEM,MN,Open,Lost-General,12374.22,29A
+State Representative,Sten Hakanson,DEM,MN,Challenger,Lost-General,12013.76,52B
+State Representative,Steve Kemp,DEM,MN,Challenger,Lost-General,11918.18,31B
+State Representative,Cameron Roberson,REP,MN,Challenger,Lost-General,11909.61,47A
+State Representative,Mark Martin,REP,MN,Challenger,Lost-General,11845.1,45A
+State Senator,Rick Karschnia,REP,MN,Challenger,Lost-General,11798.82,65
+State Senator,Allen Kruse,DEM,MN,Open,Lost-General,11722.17,21
+State Representative,Terry Pearson,REP,MN,Challenger,Lost-General,11671.01,39B
+State Representative,Bill Brandt,DEM,MN,Challenger,Lost-General,11654.84,22B
+State Senator,Greg Copeland,REP,MN,Challenger,Lost-General,11650.33,66
+State Representative,Jennifer Gumbel,REP,MN,Challenger,Lost-General,11635.55,27B
+State Representative,Darrin Anderson,DEM,MN,Challenger,Lost-General,11461.72,18B
+U.S. Representative,Jack Shepard,REPUBLICAN WRITEIN,MN,Challenger,Lost-General,10475.0,4
+Governor,Ken Pentel,ECOLOGY DEMOCRATIC,MN,Open,Lost-General,10260.14,nan
+State Representative,Steve Green,REP,MN,Challenger,Lost-General,10184.6,2A
+State Representative,Rhett Zenke,REP,MN,Challenger,Lost-General,10169.93,31A
+State Representative,Keith Macdonald,REP,MN,Challenger,Lost-General,10145.37,6B
+State Representative,Paul Jacobson,REP,MN,Challenger,Lost-General,10111.7,5B
+State Representative,Adam Best,DEM,MN,Challenger,Lost-General,9969.9,52A
+State Representative,Colin Lee,DEM,MN,Challenger,Lost-General,9845.79,36A
+State Representative,Ken Rubenzer,REP,MN,Challenger,Lost-General,9682.05,54B
+State Senator,Ryan Sibinski,REP,MN,Challenger,Lost-General,9492.94,46
+State Representative,Nathan Hansen,REP,MN,Challenger,Lost-General,9431.8,55A
+State Representative,Nathan Atkins,REP,MN,Challenger,Lost-General,9262.57,63A
+State Representative,Andrew Smith,REP,MN,Challenger,Lost-General,9257.6,64B
+Appellate Court-Stauber Seat,Dan Griffith,IND,MN,Challenger,Lost-General,9076.05,nan
+State Representative,Reid Johnson,REP,MN,Challenger,Lost-General,9030.0,45B
+U.S. Representative,Timothy Olson,INDEPENDENCE,MN,Challenger,Lost-General,8892.5,8
+State Representative,Mark Ames,REP,MN,Challenger,Lost-General,8873.9,8A
+U.S. Representative,Lars Johnson,PARTY FREE,MN,Challenger,Lost-General,8797.73,1
+State Representative,Jannaya Lafrance,DEM,MN,Challenger,Lost-General,8759.78,35B
+State Representative,Benjamin Grimsley,REP,MN,Challenger,Lost-General,8750.54,9B
+State Representative,Tom Ellenbecker,REP,MN,Challenger,Lost-General,8699.0,14B
+State Representative,Kevin Goedker,REP,MN,Challenger,Lost-General,8650.98,12A
+State Representative,Mark Schneider,DEM,MN,Challenger,Lost-General,8619.98,28B
+State Representative,Jerry Roth,DEM,MN,Challenger,Lost-General,8527.11,28A
+Auditor,Annie Young,GRN,MN,Challenger,Lost-General,8519.65,nan
+State Representative,Matt Christensen,DEM,MN,Challenger,Lost-General,8500.88,35A
+State Representative,Don Lee,REP,MN,Challenger,Lost-General,8330.88,39A
+State Representative,Joan Muth-Milks,DEM,MN,Challenger,Lost-General,8035.0,24B
+State Representative,Scott Brooks,REP,MN,Challenger,Lost-General,7962.0,60B
+State Representative,Joel Jennissen,REP,MN,Challenger,Lost-General,7498.04,63B
+State Representative,Steven Fausch,DEM,MN,Challenger,Lost-General,7464.49,24A
+State Representative,Brian Gruber,REP,MN,Open,Lost-General,7351.35,60A
+State Representative,Greg Knutson,REP,MN,Challenger,Lost-General,7287.38,5A
+State Representative,Dustin Norman,DEM,MN,Challenger,Lost-General,6977.07,49A
+State Representative,Gary Mazzotta,REP,MN,Challenger,Lost-General,6970.77,58B
+State Representative,Deanna Boss,REP,MN,Challenger,Lost-General,6855.07,62B
+State Representative,Jim Martin,IND,MN,Challenger,Lost-General,6823.5,56A
+State Senator,Steve Park,CON,MN,Open,Lost-General,6790.0,12
+State Representative,Dale Helm,REP,MN,Challenger,Lost-General,6683.02,51B
+State Representative,Tony Salls,INDEPENDENCE,MN,Open,Lost-General,6471.31,7B
+State Representative,Chuck Sutphen,REP,MN,Challenger,Lost-General,6411.23,46A
+State Representative,Dan Craigie,GRN,MN,Challenger,Lost-General,6369.27,59B
+State Representative,Denise Bader,DEM,MN,Challenger,Lost-General,6185.0,33A
+State Representative,Travis Silvers,REP,MN,Open,Lost-General,5892.8,7B
+State Representative,Bert Pexsa,INDEPENDENCE,MN,Open,Lost-General,5483.2,11B
+State Representative,Sadik Warfa,INDEPENDENCE,MN,Challenger,Lost-General,5150.0,61A
+State Representative,Jim Tuomala,REP,MN,Challenger,Lost-General,4791.2,6A
+State Senator,Mark Jenkins,INDEPENDENCE,MN,Challenger,Lost-General,4733.99,55
+State Senator,Tim Biros,INDEPENDENCE,MN,Challenger,Lost-General,4487.21,34
+U.S. Representative,Aubrey Immelman,IND,MN,Challenger,Lost-General,4481.0,6
+State Representative,Damon Dolton,REP,MN,Challenger,Lost-General,4346.03,55B
+State Senator,Dan McGuire,REP,MN,Challenger,Lost-General,4260.0,3
+U.S. Representative,Michael Cavlan,INDEPENDENT PROGRESSIVE,MN,Challenger,Lost-General,4213.0,5
+Appellate Court-Hudson Seat,Natalie Hudson,IND,MN,Incumbent,Won-General,4030.0,nan
+State Senator,John McCallum,INDEPENDENCE,MN,Challenger,Lost-General,3668.45,52
+State Senator,Rilla Debot Opelt,REP,MN,Open,Lost-General,3540.0,7
+State Representative,Ronald Lischeid,INDEPENDENCE,MN,Challenger,Lost-General,3515.19,59B
+State Representative,Chris Conner,REP,MN,Challenger,Lost-General,3492.41,66A
+State Representative,Tim Olson,REP,MN,Challenger,Lost-General,3070.0,46B
+State Senator,Jennifer Havlick,REP,MN,Challenger,Lost-General,2271.21,6
+State Representative,Linda Etim,REP,MN,Challenger,Lost-General,2190.0,47B
+State Representative,Zach Freitag,REP,MN,Challenger,Lost-General,2120.0,64A
+State Representative,Dave Holman,INDEPENDENCE,MN,Challenger,Lost-General,2110.0,11A
+State Representative,Daniel Kane,DEM,MN,Challenger,Lost-General,1988.71,48B
+State Representative,Linda Runbeck,REP,MN,Challenger,Won-General,1957.0,53A
+State Senator,Rae Hart Anderson,IND,MN,Open,Lost-General,1855.0,50
+State Representative,Catherine Hennelly,REP,MN,Challenger,Lost-General,1835.0,67A
+State Representative,Jamie Delton,REP,MN,Challenger,Lost-General,1783.43,65B
+Secretary Of State,Jual Carlson,INDEPENDENCE,MN,Challenger,Lost-General,1706.82,nan
+State Representative,Wes Whitby,REP,MN,Challenger,Lost-General,1625.0,62A
+State Representative,Bruce Johnson,CON,MN,Challenger,Lost-General,1450.0,40A
+State Representative,Michael Sullivan,REP,MN,Challenger,Lost-General,1390.0,61B
+Governor,Chris Wright,GRASSROOTS,MN,Open,Lost-General,1202.83,nan
+State Senator,Hayley Astrup,REP,MN,Challenger,Lost-General,1092.43,58
+State Representative,Chris Hiatt,REP,MN,Challenger,Lost-General,940.0,58A
+U.S. Representative,Bob Anderson,INDEPENDENCE,MN,Challenger,Lost-General,940.0,6
+Governor,Linda Eno,RESOURCE,MN,Open,Lost-General,900.0,nan
+State Representative,Laurie Olmon,DEM,MN,Challenger,Lost-General,640.0,48A
+State Representative,Naomi Babcock,INDEPENDENCE,MN,Challenger,Lost-General,375.0,41B
+Appellate Court-Peterson Seat,Randolph Peterson,IND,MN,Incumbent,Won-General,259.0,nan
+State Representative,Ole Hovde,REP,MN,Challenger,Lost-General,200.0,59B
+State Representative,Paul Holmgren,REP,MN,Open,Lost-General,150.07,65A
+State Senator,Tony Hernandez,REP,MN,Challenger,Lost-General,133.86,64
+State Representative,Charlie Oconnell,REP,MN,Challenger,Lost-General,100.0,30A
+Attorney General,David Hoch,RESOURCE,MN,Challenger,Lost-General,25.0,nan
+State Representative,Paul Bergley,CON,MN,Open,Lost-General,0.0,17A
+State Representative,Harley Swarm,CON,MN,Challenger,Lost-General,0.0,49B
+Auditor,Kenny Kalligher,GRASSROOTS,MN,Challenger,Lost-General,0.0,nan
+State Representative,Curtis Lendt,INDEPENDENCE,MN,Open,Lost-General,0.0,17B
+State Representative,Don Hallblade,INDEPENDENCE,MN,Challenger,Lost-General,0.0,47B
+State Representative,Joseph Polencheck,INDEPENDENCE,MN,Challenger,Lost-General,0.0,55A
+State Senator,Richard Hoff,INDEPENDENCE,MN,Open,Lost-General,0.0,18
+State Senator,Andrew Kratoska,INDEPENDENCE,MN,Challenger,Lost-General,0.0,47
+State Senator,Dino Guerin,INDEPENDENCE,MN,Open,Lost-General,0.0,67
+Attorney General,Bill Dahn,INDEPENDENCE,MN,Challenger,Lost-General,0.0,nan
+State Senator,John Grimm,IND,MN,Challenger,Lost-General,0.0,25
+Appellate Court-Peterson Seat,Roxann Klugman,IND,MN,Challenger,Lost-General,0.0,nan
+State Representative,Mark Lazarchic,REP,MN,Challenger,Lost-General,0.0,59A
+State Representative,Nicholas Skrivanek,REP,MN,Challenger,Lost-General,0.0,61A
+State Representative,Bob Koss,REP,MN,Challenger,Lost-General,0.0,66B
+State Representative,Cheryl Golden-Black,REP,MN,Challenger,Lost-General,0.0,67B
+State Senator,Matt Matasich,REP,MN,Challenger,Lost-General,0.0,5
+State Senator,James Schlemmer,REP,MN,Challenger,Lost-General,0.0,61
+Appellate Court-Minge Seat,David Minge,IND,MN,Incumbent,Won-General,0.0,nan
+Appellate Court-Wright Seat,Wilhelmina Wright,IND,MN,Incumbent,Won-General,0.0,nan
+Appellate Court-Bjorkman Seat,Louise Bjorkman,IND,MN,Incumbent,Won-General,0.0,nan
+Appellate Court-Connolly Seat,Francis Connolly,IND,MN,Incumbent,Won-General,0.0,nan
+Appellate Court-Johnson Seat,Matthew Johnson,IND,MN,Incumbent,Won-General,0.0,nan
+Appellate Court-Larkin Seat,Michelle Ann Larkin,IND,MN,Incumbent,Won-General,0.0,nan
+Appellate Court-Schellhas Seat,Heidi Schellhas,IND,MN,Incumbent,Won-General,0.0,nan
+U.S. Representative,Steve Carlson,INDEPENDENCE,MN,Challenger,Lost-General,0.0,4
+U.S. Representative,Tom Schrunk,INDEPENDENCE,MN,Challenger,Lost-General,0.0,5
+U.S. Representative,Richard Burton,CON,MN,Challenger,Lost-General,0.0,8
